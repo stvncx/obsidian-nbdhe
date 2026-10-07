@@ -111,3 +111,208 @@ Hyoid bone::Bone suspended in the neck, superior to the thyroid cartilage
 Thyroid cartilage is also called the ==Adam's apple== and is ==superior== to the thyroid gland.
 
 Thyroid gland::Butterfly-shaped gland in the neck; the parathyroid glands (4) lie on it
+
+## Diagrams
+
+### Oral cavity
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#1**?
+?
+**Incisive papilla**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#2**?
+?
+**Frenum**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#3**?
+?
+**Palatine rugae**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#4**?
+?
+**Parotid papilla**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#5**?
+?
+**Hard palate**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#6**?
+?
+**Soft palate**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#7**?
+?
+**Maxillary tuberosity**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#8**?
+?
+**Tonsils**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#9**?
+?
+**Pillars of the fauces**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#10**?
+?
+**Uvula**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#11**?
+?
+**Gingiva**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — what is **#12**?
+?
+**Vestibule**
+![[anat-oral-cavity.png|600]]
+
+![[anat-oral-cavity-q.png|600]]
+Oral cavity — label all 12 structures.
+?
+1. Incisive papilla
+2. Frenum
+3. Palatine rugae
+4. Parotid papilla
+5. Hard palate
+6. Soft palate
+7. Maxillary tuberosity
+8. Tonsils
+9. Pillars of the fauces
+10. Uvula
+11. Gingiva
+12. Vestibule
+![[anat-oral-cavity.png|600]]
+
+### Gingiva
+
+![[anat-gingiva-q.png|600]]
+Gingiva — what is **#1**?
+?
+**Interdental papilla**
+![[anat-gingiva.png|600]]
+
+![[anat-gingiva-q.png|600]]
+Gingiva — what is **#2**?
+?
+**Free (marginal) gingiva**
+![[anat-gingiva.png|600]]
+
+![[anat-gingiva-q.png|600]]
+Gingiva — what is **#3**?
+?
+**Mucogingival junction (line between alveolar mucosa and attached gingiva)**
+![[anat-gingiva.png|600]]
+
+![[anat-gingiva-q.png|600]]
+Gingiva — what is **#4**?
+?
+**Attached gingiva**
+![[anat-gingiva.png|600]]
+
+![[anat-gingiva-q.png|600]]
+Gingiva — what is **#5**?
+?
+**Alveolar mucosa**
+![[anat-gingiva.png|600]]
+
+![[anat-gingiva-q.png|600]]
+Gingiva — label all 5 structures.
+?
+1. Interdental papilla
+2. Free (marginal) gingiva
+3. Mucogingival junction (line between alveolar mucosa and attached gingiva)
+4. Attached gingiva
+5. Alveolar mucosa
+![[anat-gingiva.png|600]]
+
+### Tongue & papillae
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — what is **#1**?
+?
+**Taste buds**
+![[anat-tongue-papillae.png|600]]
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — what is **#2**?
+?
+**Circumvallate papilla**
+![[anat-tongue-papillae.png|600]]
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — what is **#3**?
+?
+**Sulcus terminalis**
+![[anat-tongue-papillae.png|600]]
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — what is **#4**?
+?
+**Taste hair**
+![[anat-tongue-papillae.png|600]]
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — what is **#5**?
+?
+**Taste pore**
+![[anat-tongue-papillae.png|600]]
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — what is **#6**?
+?
+**Taste buds**
+![[anat-tongue-papillae.png|600]]
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — what is **#7**?
+?
+**Fungiform papilla**
+![[anat-tongue-papillae.png|600]]
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — what is **#8**?
+?
+**Filiform papilla**
+![[anat-tongue-papillae.png|600]]
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — what is **#9**?
+?
+**Foliate papilla**
+![[anat-tongue-papillae.png|600]]
+
+![[anat-tongue-papillae-q.png|600]]
+Tongue & papillae — label all 9 structures.
+?
+1. Taste buds
+2. Circumvallate papilla
+3. Sulcus terminalis
+4. Taste hair
+5. Taste pore
+6. Taste buds
+7. Fungiform papilla
+8. Filiform papilla
+9. Foliate papilla
+![[anat-tongue-papillae.png|600]]
