@@ -56,6 +56,7 @@ Uvula::Projection from the posterior edge of the soft palate
 Pterygomandibular fold — what is it and where does it run?
 ?
 Fold of tissue from the junction of the hard and soft palate on each side, down to the mandible just posterior to the most distal mandibular molar.
+<!--SR:!2026-10-09,3,250-->
 
 ## Tongue & floor of the mouth
 
