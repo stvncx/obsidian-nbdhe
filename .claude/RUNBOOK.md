@@ -85,6 +85,21 @@ SR comment with its card, or his progress is wiped.
    wording on substance.
 6. `git pull && git add && git commit && git push`, tell Steven to `vault-sync`.
 
+## 4a. Card design (v2, 2026-10-08 — DRAFT pending Steven's review; he is the pedagogy lead)
+
+Steven is a trained teacher (25 yrs, adult learners, memory research); **his judgment on
+learning design overrides these defaults.** Each section note has four parts:
+1. **Exam-style**: 4-option MCQ in JCNDE format (stem, A–D, one key; "most likely",
+   "EXCEPT one… Which is the EXCEPTION?"; clinical vignettes). Answer = key + one-line *why*
+   + why the tempting distractor is wrong. Rotate the key position.
+2. **Must-know facts**: minimum-information recall (one fact per card) for things that
+   just have to be memorized (numbers, duct openings).
+3. **Tell apart**: contrast cards for easily-confused pairs/triads (discrimination).
+4. **Diagrams**: ONE "name the N numbered structures" card per diagram (not one per label).
+Target ~15–25 cards per section; skip low-yield trivia; weight sections by the test specs.
+Add clinically relevant, exam-tested facts the book omits (e.g. attached gingiva width; IANB
+landmark) when they belong to the section's topic.
+
 ## 5. Image (occlusion) cards
 
 1. Render the page: `occlude.py` renders on demand into `.tools/cache/<Book>-NNN.png` (200 dpi).
@@ -96,8 +111,8 @@ SR comment with its card, or his progress is wiped.
 4. Build: `.tools/.venv/bin/python .tools/occlude.py .tools/<book>-diagrams.json Flashcards/<Book>/images`
    → `<name>.png` (answer) + `<name>-q.png` (labels covered by numbered orange boxes).
 5. **Look at every `-q` image** before committing (missed boxes leak answers).
-6. Cards: per label `![[<name>-q.png|600]]` / "<Diagram> — what is **#N**?" / `?` /
-   answer + `![[<name>.png|600]]`, plus one "label all N" card per diagram.
+6. Card (v2): `![[<name>-q.png|600]]` / "Name the N numbered structures." / `?` /
+   numbered answer list on one line / `![[<name>.png|600]]`. (v1 had one card per label — dropped as repetitive.)
 7. Diagrams with plain-text labels (no boxes, e.g. Anatomy p.150 body planes) need boxes by hand.
 
 ---
@@ -119,6 +134,7 @@ SR comment with its card, or his progress is wiped.
 | 10-08 | Official JCNDE docs are the authority for scope + question style | the book is a study aid; the test specs define what's examined, sample questions define how |
 | 10-08 | Write to the UPDATED test specs (effective 2026-11-01) | the student sits the exam ~January 2027 |
 | 10-08 | Exam's adopted standards override the book (AHA 2021/2017, ASA 2020, IADT 2020, AAP 2017, no film, smoking cigs/day) | JCNDE "Recent and Forthcoming Updates" (9/23/2026); the book may be older |
+| 10-08 | Card design v2 (exam-style MCQ + must-know + tell-apart + 1 diagram card) | v1 "kind of sucks": definition recall ≠ how the NBDHE tests. Steven to review |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items
