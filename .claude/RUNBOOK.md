@@ -19,13 +19,18 @@ Quick facts
    (`app <name>` in `~/fleet-hub/app-switcher.sh` resolves `~/apps/<name>` automatically).
 2. Book PDFs: Steven uploads them to `stvncx/exchange` → `to-claude/RDH/`. Copy to the
    project (exchange gets pruned): `cp -a ~/exchange/to-claude/RDH ~/apps/obsidian/.source/`
-3. Tools env: `python3 -m venv .tools/.venv && .tools/.venv/bin/pip install pillow numpy scipy`
+3. Official JCNDE docs (public, free) → `.source/official/` (gitignored; `.txt` made with
+   `pdftotext -layout`): from https://jcnde.ada.org/nbdhe/nbdhe-prepare —
+   `candidate_guide_2026.pdf` (test specifications, pre- AND post-Nov-2026), `sample_questions.pdf`
+   (official item style), `test_item_dev_guide.pdf` (how JCNDE writes items), `exam_updates.pdf`,
+   `technical_report.pdf`. Re-download yearly — the guide is updated (this one: 9/17/2026).
+4. Tools env: `python3 -m venv .tools/.venv && .tools/.venv/bin/pip install pillow numpy scipy`
    (system needs `poppler-utils` for `pdftoppm`, and DejaVu fonts).
-4. `.gitignore` keeps out: `.source/`, `.tools/.venv/`, `.tools/cache/`, `.DS_Store`,
+5. `.gitignore` keeps out: `.source/`, `.tools/.venv/`, `.tools/cache/`, `.DS_Store`,
    `.obsidian/workspace*.json`, `.trash/`.
-5. Project files live in dot-folders (`.claude/`, `.tools/`) — Obsidian hides them, so the
+6. Project files live in dot-folders (`.claude/`, `.tools/`) — Obsidian hides them, so the
    shared vault looks clean.
-6. Listed in `~/fleet-hub/inventory.md` under "Not apps".
+7. Listed in `~/fleet-hub/inventory.md` under "Not apps".
 
 ## 2. Mac ↔ GitHub sync setup (one time, on Steven's Mac)
 
@@ -111,8 +116,10 @@ SR comment with its card, or his progress is wiped.
 | 10-08 | Only the Mac runs git; iCloud handles phones + shared user | iOS git is unreliable; nothing changes for the other person |
 | 10-08 | Ignore `workspace*.json`, `.DS_Store` | change on every click / per device → pointless conflicts |
 | 10-08 | `vault-sync` deletion guard (>5) and iCloud-placeholder guard | offloaded iCloud files look like deletions to git |
+| 10-08 | Official JCNDE docs are the authority for scope + question style | the book is a study aid; the test specs define what's examined, sample questions define how |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items
+- **Exam date** — decides which test specs apply (current vs. the update implemented Nov 2026).
 - **Card quality** (10-07: "the cards kind of suck") — reason not yet pinned down. Next.
 - Auto-run `vault-sync` every 10 min via launchd — after manual runs prove reliable.
