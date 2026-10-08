@@ -1,5 +1,7 @@
 # Obsidian vault — NBDHE / RDH study
 
+**Runbook: `.claude/RUNBOOK.md` — record every new procedure and decision there as we work.**
+
 This directory IS Steven's Obsidian vault (repo `stvncx/obsidian-nbdhe`, branch `main`).
 He studies for the NBDHE (dental hygiene boards) from the StudentRDH review guide and
 reviews cards with the **Spaced Repetition** community plugin (v1.15.x) in Obsidian on his
@@ -50,3 +52,4 @@ labels are plain text (no boxes, e.g. body planes, Anatomy p.150) need boxes by 
   shallow (definitions, not NBDHE-style application), messy note, trivia, repetitive image
   cards. Ask before mass-producing more.
 - He considered Anki / a custom web app; as of 2026-10-08 he chose to stay in Obsidian.
+- 2026-10-08: Mac sync live (`vault-sync`, see RUNBOOK §2–3); first Mac sync 52b1fbb.
