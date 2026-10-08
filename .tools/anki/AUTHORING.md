@@ -82,3 +82,71 @@ leads the learning design; follow these rules exactly.
 - `python3 -m json.tool <yourfile> > /dev/null` passes; ids/names unique.
 - Every diagram checked visually (see above). Report: counts (diagrams / labels / cloze /
   mcq), any figure you skipped and why, anything you were unsure of.
+
+---
+
+# v2 — the full card-type mix (2026-10-08)
+
+Steven asked for every useful card type, chosen by what is pedagogically best. Defaults below
+are Claude's; **Steven leads learning design** and may change them. Principles:
+- **Recall is the backbone** (cloze, basic, type-in): producing an answer beats recognising it.
+- **Recognition formats are add-ons for a purpose**: matching/sorting train *discrimination*
+  between easily-confused items; ordering trains *sequences*; label-diagram trains the *whole
+  figure*; MCQ trains the *exam format* (transfer).
+- **No fact in more than two places**: at most one atomic card (cloze / basic / type-in /
+  occlusion) + at most one integrative card (match / order / sort / label / MCQ).
+- Atomic beats compound; a card should be answerable in a few seconds (integrative cards: <1 min).
+
+## Choosing the atomic type for each fact
+| Fact looks like | Use | Notes |
+|---|---|---|
+| term ⇄ short definition, unambiguous BOTH ways | **basic** with `"reverse": true` | e.g. Fossa ⇄ "broad, deep depression in bone". Only if the definition identifies the term uniquely — otherwise cloze. Replaces (delete) the cloze for it. |
+| why / how / clinical reasoning ("Why…?", "What happens if…?") | **basic** (no reverse) | answer 1–2 lines; the book's Tips/Board Alerts are the source |
+| a number, age, count, code, single short token | **type-in** | answer must be short & exact ("3", "6–7 years", "C2") — give the format in the question if needed ("in years") |
+| anything else (most facts) | **cloze** (unchanged) | keep existing ids |
+
+```json
+"basic":  [{"id":"anat-p151-b-01","deck":"Head and Neck","section":"Depressions","page":151,
+            "front":"Fossa","back":"A broad, deep depression in a bone","reverse":true,"extra":""}],
+"typein": [{"id":"anat-p150-t-01","deck":"Head and Neck","section":"Skull","page":150,
+            "question":"How many bones form the skull?","answer":"22","extra":"8 cranial + 14 facial"}]
+```
+
+## Integrative types (add a FEW per page range — quality over quantity)
+| Type | When | Size |
+|---|---|---|
+| **match** | 3–7 parallel pairs that are commonly confused (nerve⇄function, gland⇄duct, node⇄area drained, muscle⇄action, stain⇄cause) | short items both sides; every right side distinct |
+| **order** | a real sequence the exam asks about (CN I–XII, eruption order, drainage pathway, layers, developmental stages) | 3–12 items |
+| **sort** | items that fall into 2–4 categories (motor/sensory/both; serous/mucous/mixed; intrinsic/extrinsic stain; cranial/facial bone) | 4–16 items, each in exactly one category |
+| **mcq** (exam-style) | 1–3 per *section*: NBDHE-style clinical vignette or "most likely"/"EXCEPT" question, answerable from the book's facts | 4 options, plausible distractors from the same category, `answer` = the exact option text, `explanation` says why the key is right and why the best distractor is wrong |
+
+```json
+"match": [{"id":"anat-p172-m-01","deck":"Head and Neck","section":"Salivary glands","page":172,
+           "prompt":"Match each gland to its duct.","pairs":[["Parotid","Stensen's duct"],["Submandibular","Wharton's duct"],["Sublingual","Bartholin's & Rivinus' ducts"]]}],
+"order": [{"id":"anat-p169-o-01", "...":"...", "prompt":"Put the cranial nerves in order (I → XII).","items":["Olfactory","Optic","..."]}],
+"sort":  [{"id":"anat-p169-s-01", "...":"...", "prompt":"Sort the cranial nerves by type.",
+           "categories":[["Sensory",["Olfactory","Optic","Vestibulocochlear"]],["Motor",["..."]],["Both",["..."]]]}],
+"mcq":   [{"id":"anat-p164-mcq-01","deck":"Head and Neck","section":"Maxillary artery","page":164,
+           "question":"A patient develops a rapidly swelling hematoma after a PSA injection. Which structure was most likely punctured?",
+           "options":["A. Facial artery","B. Pterygoid venous plexus","C. Lingual vein","D. Inferior alveolar artery"],
+           "answer":"B. Pterygoid venous plexus","explanation":"..."}]
+```
+- Integrative cards may repeat facts that have an atomic card (that is their point) — but not
+  facts that already appear in another integrative card.
+- Exam-style MCQ go in the topic's deck ("Head and Neck"/"Dental Anatomy"); the book's bonus
+  quizzes stay in "Quizzes".
+
+## Diagrams
+- Every diagram with ≥3 labels automatically also gets one **label-the-diagram** card (all
+  labels in a tray, tap to place) — nothing to author. Set `"label_all": false` on a diagram
+  where that would be silly.
+- Do NOT occlude reference charts where neighbours give the answer away (e.g. the tooth-numbering
+  charts): delete those diagrams and test the content with type-in / match instead.
+
+## Ids
+New ids: `anat-p<page>-b-NN` (basic), `-t-NN` (type-in), `-m-NN`, `-o-NN`, `-s-NN`, `-mcq-NN`.
+Never reuse an id; keep the ids of cloze notes you leave alone.
+
+## Validate
+`.tools/.venv/bin/python .tools/anki/validate_spec.py <yourfile>` must print OK. Do not run
+build_deck.py (other authors run in parallel).

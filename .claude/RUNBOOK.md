@@ -202,6 +202,17 @@ diagram run `diagram_check.py` and tile the outputs into sheets (6 per sheet) �
 them (found: a figure printed twice → duplicate cards; angled labels → oversized covers) →
 fix → render a random sample of cloze/MCQ cards from the imported collection.
 
+**Card-type mix v2 (2026-10-08, Steven: "use all the types… do what is pedagogically best"):**
+`card_types.py` adds NBDHE Basic (+optional reverse), Type-in (native `{{type:Answer}}`),
+Matching, Ordering, Sorting and Label Diagram (auto-generated from each diagram's occlusion
+covers when it has ≥3 labels). Interactive types are tap-based JS on the front with a Check
+button + score; back = answer key. Model IDs 1728390004–09 (fixed). Which type to use for
+which fact: `.tools/anki/AUTHORING.md` → "v2". Spec checker: `validate_spec.py`.
+Interaction test (mandatory for interactive types): `interact_test.py <deck> <outdir> [n]` —
+taps answers on the real imported cards with one deliberate mistake, asserts the score, checks
+for JS errors, screenshots front+back. Note: `[[type:Answer]]` in an off-device render is
+normal — Anki's reviewer swaps it for the input box.
+
 **Media rule (bit us 2026-10-08):** Anki's importer DROPS media not referenced by an
 `<img src="…">` *inside a field*. A bare filename in a field + `<img src="{{Image}}">` in the
 template imports cards with NO images. So the Image field holds the full `<img src="x.jpg">`
@@ -248,6 +259,9 @@ change templates only with a deliberate migration plan.
 | 10-08 | Covers fitted to each label's blue background | Steven: covers too big; rough detection boxes were up to 50% taller than the label |
 | 10-08 | Whole Anatomy PDF built: 454 IO + 915 cloze notes (1653 cards) + 18 MCQ | Steven: "build out the entire thing. cloze cards, occlusions, all of it" |
 | 10-08 | Numbering-chart occlusions (104 cards) kept, flagged as low-value (neighbours give answers away) | Steven said "all of it"; his call to cut |
+| 10-08 | All card types: recall core (cloze/basic/type-in/IO) + integrative (match/order/sort/label/exam MCQ); no fact in >2 places | Steven delegated the pedagogy: retrieval > recognition; recognition formats only for discrimination, sequence, whole-figure, exam transfer |
+| 10-08 | Tap-based interactions, no drag | drag is unreliable in iPhone webviews |
+| 10-08 | Numbering-chart occlusions replaced by type-in + match | neighbours gave the answers away |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items

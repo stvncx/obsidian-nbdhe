@@ -21,6 +21,7 @@ import genanki
 from PIL import Image
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from occlude import render
+import card_types as ct
 
 ROOT = Path(__file__).resolve().parents[2]
 MEDIA = ROOT / '.tools' / 'anki' / 'media'
@@ -109,6 +110,8 @@ MCQ_MODEL = genanki.Model(
                         '<div class="key">{{Answer}}</div></div>'
                         '{{#Explanation}}<div class="extra">{{Explanation}}</div>{{/Explanation}}<div class="source">{{Source}}</div>'}],
     css=MCQ_CSS, sort_field_index=0)
+
+EXTRA = ct.make(BASE_CSS)     # Basic(+reverse), Type-in, Matching, Ordering, Sorting, Label Diagram
 
 # ---------------------------------------------------------------- cover fitting
 def tight_box(page, box, fit='bg', slack=10):
@@ -216,6 +219,18 @@ def media_for(spec, pdf):
     im.resize((w, round(im.height * w / im.width)), Image.LANCZOS).save(out, 'JPEG', quality=88, optimize=True)
     return out
 
+def io_slots(spec, pdf):
+    """The IO covers of a diagram as % boxes — reused by the Label Diagram card."""
+    cx0, cy0, cx1, cy1 = spec['crop']; w, h = cx1 - cx0, cy1 - cy0
+    page = Image.open(render(pdf, spec['pdf_page'])).convert('RGB')
+    out = []
+    for l, b in covers(spec, page):
+        x0, y0 = b[0] - cx0 - PAD, b[1] - cy0 - PAD
+        bw, bh = b[2] - b[0] + 2 * PAD, b[3] - b[1] + 2 * PAD
+        out.append({'l': round(100*x0/w, 2), 't': round(100*y0/h, 2), 'w': round(100*bw/w, 2), 'h': round(100*bh/h, 2),
+                    'rot': round(b[4], 1) if len(b) > 4 else 0, 'a': l['answer']})
+    return out
+
 def io_notes(spec, pdf, page0):
     cx0, cy0, cx1, cy1 = spec['crop']; w, h = cx1 - cx0, cy1 - cy0
     page = Image.open(render(pdf, spec['pdf_page'])).convert('RGB')
@@ -247,7 +262,7 @@ def mcq_note(q, pdf):
                         tags=[pdf.lower(), f"p{q['page']}", 'quiz'])
 
 def load(book):
-    specs = {'diagrams': [], 'cloze': [], 'mcq': []}
+    specs = {k: [] for k in ('diagrams', 'cloze', 'mcq', 'basic', 'typein', 'match', 'order', 'sort')}
     for f in sorted(glob.glob(str(ROOT / '.tools' / 'anki' / book / '*.json'))):
         d = json.load(open(f))
         for k in specs:
@@ -258,7 +273,8 @@ if __name__ == '__main__':
     out = sys.argv[1]; book = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith('--') else 'anatomy'
     only = sys.argv[sys.argv.index('--only') + 1].split(',') if '--only' in sys.argv else None
     cfg = BOOKS[book]; specs = load(book)
-    decks, media, counts = {}, [], {'io': 0, 'cloze': 0, 'mcq': 0}
+    decks, media = {}, []
+    counts = {k: 0 for k in ('io', 'label', 'cloze', 'mcq', 'basic', 'typein', 'match', 'order', 'sort')}
     def deck(sub):
         name = f"{ROOT_DECK}::{cfg['deck']}::{sub}"
         if name not in decks:
@@ -270,11 +286,18 @@ if __name__ == '__main__':
         media.append(str(media_for(s, cfg['pdf'])))
         for n in io_notes(s, cfg['pdf'], cfg['page0']):
             deck(s['deck']).add_note(n); counts['io'] += 1
+        if s.get('label_all', len(s['labels']) >= 3):          # whole-figure labeling card
+            bp = s.get('page', cfg['page0'] + s['pdf_page'])
+            deck(s['deck']).add_note(ct.label_note(EXTRA, s, io_slots(s, cfg['pdf']), cfg['pdf'], bp)); counts['label'] += 1
     if not only:
         for c in specs['cloze']:
             deck(c['deck']).add_note(cloze_note(c, cfg['pdf'])); counts['cloze'] += 1
         for q in specs['mcq']:
             deck(q['deck']).add_note(mcq_note(q, cfg['pdf'])); counts['mcq'] += 1
+        for kind, fn in (('basic', ct.basic_note), ('typein', ct.typein_note), ('match', ct.match_note),
+                         ('order', ct.order_note), ('sort', ct.sort_note)):
+            for q in specs[kind]:
+                deck(q['deck']).add_note(fn(EXTRA, q, cfg['pdf'])); counts[kind] += 1
     ids = [n.guid for d in decks.values() for n in d.notes]
     assert len(ids) == len(set(ids)), 'duplicate note GUIDs — two notes share a diagram+answer or an id'
     genanki.Package(list(decks.values()), media_files=media).write_to_file(out)
