@@ -356,13 +356,6 @@
    "text": "The TMJ {{c1::articular disc}} is a {{c2::fibrocartilaginous}} pad that cushions the joint and divides it into {{c3::upper and lower compartments}}."
   },
   {
-   "id": "anat-p174-003",
-   "deck": "Head and Neck",
-   "section": "TMJ structures",
-   "page": 174,
-   "text": "The {{c1::mandibular fossa}} is the depression in the {{c2::temporal}} bone where the mandibular condyle sits."
-  },
-  {
    "id": "anat-p174-004",
    "deck": "Head and Neck",
    "section": "TMJ structures",
@@ -421,27 +414,6 @@
    "text": "TMJ <b>closed lock</b>: the condyle {{c1::can't move forward}} properly, often due to {{c2::disc displacement}}, so the patient {{c3::can't open the mouth fully}} (limited opening)."
   },
   {
-   "id": "anat-p234-001",
-   "deck": "Dental Anatomy",
-   "section": "Crown",
-   "page": 234,
-   "text": "The {{c1::anatomic crown}} is the part of the tooth covered by {{c2::enamel}}, coronal to the {{c3::cementoenamel junction (CEJ)}}."
-  },
-  {
-   "id": "anat-p234-002",
-   "deck": "Dental Anatomy",
-   "section": "Crown",
-   "page": 234,
-   "text": "The CEJ is a key landmark for {{c1::probing depth}}, {{c2::attachment loss}}, and {{c3::restoration margins}}."
-  },
-  {
-   "id": "anat-p234-003",
-   "deck": "Dental Anatomy",
-   "section": "Crown",
-   "page": 234,
-   "text": "The {{c1::clinical crown}} is any part of the tooth {{c2::visible in the mouth}}."
-  },
-  {
    "id": "anat-p234-004",
    "deck": "Dental Anatomy",
    "section": "Crown",
@@ -449,127 +421,20 @@
    "text": "{{c1::Crown lengthening}} procedures increase the clinical crown for better restoration attachment."
   },
   {
-   "id": "anat-p234-005",
-   "deck": "Dental Anatomy",
-   "section": "Crown",
-   "page": 234,
-   "text": "A long clinical crown can signal {{c1::gingival recession}} or {{c2::periodontal disease}}."
-  },
-  {
-   "id": "anat-p234-006",
-   "deck": "Dental Anatomy",
-   "section": "Crown",
-   "page": 234,
-   "text": "{{c1::Coronal}} = direction toward the {{c2::crown}}."
-  },
-  {
-   "id": "anat-p234-007",
+   "id": "anat-p234-022",
    "deck": "Dental Anatomy",
    "section": "Root",
    "page": 234,
-   "text": "The {{c1::anatomic root}} is the part of the tooth covered by {{c2::cementum}}, located {{c3::apical}} to the CEJ.",
-   "extra": "Book misprints \"coronal to the CEJ\" — the anatomic root is apical to the CEJ."
+   "text": "The furcations of a maxillary molar are the {{c1::buccal, mesial, and distal}} furcations.",
+   "extra": "3 roots → 3 furcations."
   },
   {
-   "id": "anat-p234-008",
+   "id": "anat-p234-023",
    "deck": "Dental Anatomy",
    "section": "Root",
    "page": 234,
-   "text": "The {{c1::clinical root}} is the part of the root covered by the {{c2::gingiva}}; not visible in the mouth."
-  },
-  {
-   "id": "anat-p234-009",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "The {{c1::apex}} is the tip or end of the root."
-  },
-  {
-   "id": "anat-p234-010",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "The {{c1::periapex}} is the area surrounding the root tip (apex)."
-  },
-  {
-   "id": "anat-p234-011",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "The {{c1::apical foramen}} is the opening at the root tip through which {{c2::nerves and blood vessels}} enter."
-  },
-  {
-   "id": "anat-p234-012",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "{{c1::Apical}} = direction toward the {{c2::apex of the root}}."
-  },
-  {
-   "id": "anat-p234-013",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "The {{c1::furcation}} is the area where roots divide in {{c2::multi-rooted}} teeth; site for possible bone loss ({{c3::furcation defect}})."
-  },
-  {
-   "id": "anat-p234-014",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "The {{c1::roof of the furcation}} is the 'ceiling' of the furcation, closest to the crown."
-  },
-  {
-   "id": "anat-p234-015",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "The {{c1::root trunk}} is the section of the root from the {{c2::CEJ}} to the {{c3::furcation}} (where roots begin to divide)."
-  },
-  {
-   "id": "anat-p234-016",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "{{c1::Root concavities}} are depressions on the {{c2::mesial and/or distal}} root surfaces (e.g. maxillary 1st premolars and mandibular molars)."
-  },
-  {
-   "id": "anat-p234-017",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "Root concavities are prone to {{c1::plaque retention}}, making them higher risk for {{c2::periodontitis}} and {{c3::root caries}}."
-  },
-  {
-   "id": "anat-p234-018",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "Roots tend to tilt {{c1::distally}} ({{c2::inclination}}) or may be curved ({{c3::dilaceration}})."
-  },
-  {
-   "id": "anat-p234-019",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "Furcations only occur in {{c1::multi-rooted}} teeth.",
-   "extra": "Don't be confused!"
-  },
-  {
-   "id": "anat-p234-020",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "Maxillary molars have {{c1::3}} roots → {{c2::3}} furcations: {{c3::buccal, mesial, distal}}.",
-   "extra": "Don't be confused!"
-  },
-  {
-   "id": "anat-p234-021",
-   "deck": "Dental Anatomy",
-   "section": "Root",
-   "page": 234,
-   "text": "Mandibular molars have {{c1::2}} roots → {{c2::2}} furcations: {{c3::buccal and lingual}}.",
-   "extra": "Don't be confused!"
+   "text": "The furcations of a mandibular molar are the {{c1::buccal and lingual}} furcations.",
+   "extra": "2 roots → 2 furcations."
   },
   {
    "id": "anat-p235-001",
@@ -584,7 +449,7 @@
    "deck": "Dental Anatomy",
    "section": "Enamel",
    "page": 235,
-   "text": "Enamel is the {{c1::hardest}} structure in the body, {{c2::96%}} mineralized."
+   "text": "Enamel is the {{c1::hardest}} structure in the body."
   },
   {
    "id": "anat-p235-003",
@@ -619,7 +484,7 @@
    "deck": "Dental Anatomy",
    "section": "Dentin & cementum",
    "page": 235,
-   "text": "Dentin is {{c1::70%}} mineralized and functions to {{c2::protect the pulp}}."
+   "text": "Dentin functions to {{c1::protect the pulp}}."
   },
   {
    "id": "anat-p235-008",
@@ -634,28 +499,6 @@
    "section": "Dentin & cementum",
    "page": 235,
    "text": "Coronal dentin is covered by {{c1::enamel}}; root dentin is covered by {{c2::cementum}}."
-  },
-  {
-   "id": "anat-p235-010",
-   "deck": "Dental Anatomy",
-   "section": "Dentin & cementum",
-   "page": 235,
-   "text": "Cementum is approximately {{c1::50%}} mineralized — {{c2::less}} than dentin.",
-   "extra": "That's why you shouldn't put too much pressure on root surfaces when scaling."
-  },
-  {
-   "id": "anat-p235-011",
-   "deck": "Dental Anatomy",
-   "section": "Dentin & cementum",
-   "page": 235,
-   "text": "Because cementum is less mineralized than dentin, avoid putting {{c1::too much pressure on root surfaces}} when scaling."
-  },
-  {
-   "id": "anat-p235-012",
-   "deck": "Dental Anatomy",
-   "section": "Dentin & cementum",
-   "page": 235,
-   "text": "Mineralization ranking: enamel {{c1::96%}} &gt; dentin {{c2::70%}} &gt; cementum {{c3::50%}}."
   },
   {
    "id": "anat-p235-013",
@@ -710,13 +553,6 @@
    "text": "The {{c1::lingual}} surface faces the tongue; also called \"{{c2::palatal}}\" for maxillary teeth."
   },
   {
-   "id": "anat-p235-020",
-   "deck": "Dental Anatomy",
-   "section": "Tooth surfaces",
-   "page": 235,
-   "text": "{{c1::Mesial}} = towards the midline; {{c2::distal}} = away from the midline."
-  },
-  {
    "id": "anat-p235-021",
    "deck": "Dental Anatomy",
    "section": "Tooth surfaces",
@@ -724,40 +560,11 @@
    "text": "{{c1::Incisal}} = biting surface of {{c2::anterior}} teeth; {{c3::occlusal}} = chewing surface of posterior teeth."
   },
   {
-   "id": "anat-p235-022",
-   "deck": "Dental Anatomy",
-   "section": "Tooth surfaces",
-   "page": 235,
-   "text": "The {{c1::contact area}} is the area that touches the adjacent tooth in the same arch."
-  },
-  {
-   "id": "anat-p235-023",
-   "deck": "Dental Anatomy",
-   "section": "Tooth surfaces",
-   "page": 235,
-   "text": "An open contact between adjacent teeth in the same arch is known as a {{c1::diastema}}.",
-   "extra": "Did you know? Diastemas can result from labial frenum attachment, tongue thrusting, missing teeth, or tooth-to-jaw size discrepancy."
-  },
-  {
    "id": "anat-p235-024",
    "deck": "Dental Anatomy",
    "section": "Tooth surfaces",
    "page": 235,
    "text": "Diastemas can result from {{c1::labial frenum attachment}}, {{c2::tongue thrusting}}, {{c3::missing teeth}}, or {{c4::discrepancy in tooth-to-jaw size}}."
-  },
-  {
-   "id": "anat-p235-025",
-   "deck": "Dental Anatomy",
-   "section": "Tooth surfaces",
-   "page": 235,
-   "text": "The {{c1::interproximal space}} is the area between adjacent teeth."
-  },
-  {
-   "id": "anat-p236-001",
-   "deck": "Dental Anatomy",
-   "section": "Elevations",
-   "page": 236,
-   "text": "A {{c1::cusp}} is a rounded elevation on the {{c2::occlusal}} surface."
   },
   {
    "id": "anat-p236-002",
@@ -778,7 +585,7 @@
    "deck": "Dental Anatomy",
    "section": "Elevations",
    "page": 236,
-   "text": "All anterior teeth form from {{c1::four}} centers of development (lobes): {{c2::three facial}} and {{c3::one lingual}}."
+   "text": "The four developmental lobes of an anterior tooth: {{c1::three}} are on the facial side and {{c2::one}} on the lingual side."
   },
   {
    "id": "anat-p236-005",
@@ -795,13 +602,6 @@
    "text": "{{c1::Maxillary}} anterior teeth have a larger, well-developed cingulum; {{c2::mandibular}} anteriors have a smoother, rounded cingulum."
   },
   {
-   "id": "anat-p236-007",
-   "deck": "Dental Anatomy",
-   "section": "Elevations",
-   "page": 236,
-   "text": "The {{c1::height of contour}} is the greatest {{c2::bulge}} or convexity on the crown of a tooth."
-  },
-  {
    "id": "anat-p236-008",
    "deck": "Dental Anatomy",
    "section": "Elevations",
@@ -814,13 +614,6 @@
    "section": "Elevations",
    "page": 236,
    "text": "On the mesial and distal surfaces, the height of contour is the {{c1::contact area}} between adjacent teeth."
-  },
-  {
-   "id": "anat-p236-010",
-   "deck": "Dental Anatomy",
-   "section": "Elevations",
-   "page": 236,
-   "text": "A {{c1::ridge}} is a {{c2::linear, flat}} elevation on teeth (e.g. buccal ridge, mesiolingual ridge)."
   },
   {
    "id": "anat-p236-011",
@@ -866,13 +659,6 @@
    "text": "An oblique ridge extends from the {{c1::mesiolingual}} cusp to the {{c2::distobuccal}} cusp."
   },
   {
-   "id": "anat-p236-017",
-   "deck": "Dental Anatomy",
-   "section": "Depressions",
-   "page": 236,
-   "text": "A {{c1::groove}} is a narrow linear depression on the occlusal surface."
-  },
-  {
    "id": "anat-p236-018",
    "deck": "Dental Anatomy",
    "section": "Depressions",
@@ -887,32 +673,11 @@
    "text": "A {{c1::fossa}} is a depression on a tooth surface."
   },
   {
-   "id": "anat-p236-020",
-   "deck": "Dental Anatomy",
-   "section": "Depressions",
-   "page": 236,
-   "text": "{{c1::Lingual fossae}} are shallow depressions on the lingual surfaces of {{c2::anterior}} teeth."
-  },
-  {
    "id": "anat-p236-021",
    "deck": "Dental Anatomy",
    "section": "Depressions",
    "page": 236,
    "text": "A lingual fossa may contain a {{c1::lingual pit}}, most commonly seen on {{c2::maxillary lateral incisors}}."
-  },
-  {
-   "id": "anat-p236-022",
-   "deck": "Dental Anatomy",
-   "section": "Depressions",
-   "page": 236,
-   "text": "The {{c1::central fossa}} is a deep depression in the central portion of the {{c2::occlusal}} surfaces of posterior teeth."
-  },
-  {
-   "id": "anat-p236-023",
-   "deck": "Dental Anatomy",
-   "section": "Depressions",
-   "page": 236,
-   "text": "A {{c1::pit}} is a small pinpoint depression at the junction of {{c2::developmental grooves}}; it facilitates {{c3::biofilm retention}}."
   },
   {
    "id": "anat-p236-024",
@@ -928,13 +693,589 @@
    "section": "Depressions",
    "page": 236,
    "text": "{{c1::Buccal pit}}: depression on the buccal aspect of the tooth. {{c2::Central pit}}: depression on the occlusal surface."
+  }
+ ],
+ "basic": [
+  {
+   "id": "anat-p174-b-01",
+   "deck": "Head and Neck",
+   "section": "TMJ structures",
+   "page": 174,
+   "front": "Mandibular fossa (TMJ)",
+   "back": "The depression in the temporal bone where the mandibular condyle sits",
+   "reverse": true,
+   "extra": ""
   },
   {
-   "id": "anat-p236-026",
+   "id": "anat-p234-b-01",
+   "deck": "Dental Anatomy",
+   "section": "Crown",
+   "page": 234,
+   "front": "Anatomic crown",
+   "back": "The part of the tooth covered by enamel, coronal to the cementoenamel junction (CEJ)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-02",
+   "deck": "Dental Anatomy",
+   "section": "Crown",
+   "page": 234,
+   "front": "Why is the CEJ an important clinical landmark?",
+   "back": "It is the reference point for probing depth, attachment loss, and restoration margins.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-03",
+   "deck": "Dental Anatomy",
+   "section": "Crown",
+   "page": 234,
+   "front": "Clinical crown",
+   "back": "Any part of the tooth visible in the mouth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-04",
+   "deck": "Dental Anatomy",
+   "section": "Crown",
+   "page": 234,
+   "front": "What can a long clinical crown signal?",
+   "back": "Gingival recession or periodontal disease",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-05",
+   "deck": "Dental Anatomy",
+   "section": "Crown",
+   "page": 234,
+   "front": "Coronal (direction)",
+   "back": "Toward the crown",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-06",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Anatomic root",
+   "back": "The part of the tooth covered by cementum, apical to the CEJ",
+   "reverse": true,
+   "extra": "Book misprints \"coronal to the CEJ\" — the anatomic root is apical to the CEJ."
+  },
+  {
+   "id": "anat-p234-b-07",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Clinical root",
+   "back": "The part of the root covered by gingiva (not visible in the mouth)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-08",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Apex (of a root)",
+   "back": "The tip or end of the root",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-09",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Periapex",
+   "back": "The area surrounding the root tip (apex)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-10",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Apical foramen",
+   "back": "The opening at the root tip through which nerves and blood vessels enter the tooth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-11",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Apical (direction)",
+   "back": "Toward the apex of the root",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-12",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Furcation",
+   "back": "The area where the roots divide in a multi-rooted tooth",
+   "reverse": true,
+   "extra": "Site for possible bone loss (furcation defect). Don't be confused: furcations only occur in multi-rooted teeth."
+  },
+  {
+   "id": "anat-p234-b-13",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Roof of the furcation",
+   "back": "The \"ceiling\" of the furcation, closest to the crown",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-14",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Root trunk",
+   "back": "The section of the root from the CEJ to the furcation (where the roots begin to divide)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-15",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Root concavities",
+   "back": "Depressions on the mesial and/or distal root surfaces (e.g. maxillary 1st premolars, mandibular molars)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-16",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Why are root concavities clinically significant?",
+   "back": "They retain plaque, so they are at higher risk for periodontitis and root caries.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-17",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Root inclination",
+   "back": "The normal tendency of roots to tilt distally",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p234-b-18",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "front": "Dilaceration",
+   "back": "A curved (bent) root",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p235-b-01",
+   "deck": "Dental Anatomy",
+   "section": "Dentin & cementum",
+   "page": 235,
+   "front": "Why should you avoid heavy pressure on root surfaces when scaling?",
+   "back": "Root surfaces are covered by cementum, which is only ~50% mineralized — softer than dentin — so it is easily removed.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p235-b-02",
+   "deck": "Dental Anatomy",
+   "section": "Tooth surfaces",
+   "page": 235,
+   "front": "Mesial",
+   "back": "Toward the midline",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p235-b-03",
+   "deck": "Dental Anatomy",
+   "section": "Tooth surfaces",
+   "page": 235,
+   "front": "Distal",
+   "back": "Away from the midline",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p235-b-04",
+   "deck": "Dental Anatomy",
+   "section": "Tooth surfaces",
+   "page": 235,
+   "front": "Contact area",
+   "back": "The area of a tooth that touches the adjacent tooth in the same arch",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p235-b-05",
+   "deck": "Dental Anatomy",
+   "section": "Tooth surfaces",
+   "page": 235,
+   "front": "Diastema",
+   "back": "An open contact (space) between adjacent teeth in the same arch",
+   "reverse": true,
+   "extra": "Causes: labial frenum attachment, tongue thrusting, missing teeth, tooth-to-jaw size discrepancy."
+  },
+  {
+   "id": "anat-p235-b-06",
+   "deck": "Dental Anatomy",
+   "section": "Tooth surfaces",
+   "page": 235,
+   "front": "Interproximal space",
+   "back": "The area between adjacent teeth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p236-b-01",
+   "deck": "Dental Anatomy",
+   "section": "Elevations",
+   "page": 236,
+   "front": "Cusp",
+   "back": "A rounded elevation on the occlusal surface",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p236-b-02",
+   "deck": "Dental Anatomy",
+   "section": "Elevations",
+   "page": 236,
+   "front": "Height of contour",
+   "back": "The greatest bulge (convexity) on the crown of a tooth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p236-b-03",
+   "deck": "Dental Anatomy",
+   "section": "Elevations",
+   "page": 236,
+   "front": "Ridge (on a tooth)",
+   "back": "A linear, flat elevation (e.g. buccal ridge, mesiolingual ridge)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p236-b-04",
    "deck": "Dental Anatomy",
    "section": "Depressions",
    "page": 236,
-   "text": "A {{c1::fissure}} is a deep cleft between adjoining {{c2::cusps}} on posterior teeth."
+   "front": "Groove",
+   "back": "A narrow linear depression on the occlusal surface",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p236-b-05",
+   "deck": "Dental Anatomy",
+   "section": "Depressions",
+   "page": 236,
+   "front": "Lingual fossa",
+   "back": "A shallow depression on the lingual surface of an anterior tooth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p236-b-06",
+   "deck": "Dental Anatomy",
+   "section": "Depressions",
+   "page": 236,
+   "front": "Central fossa",
+   "back": "A deep depression in the central portion of the occlusal surface of a posterior tooth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p236-b-07",
+   "deck": "Dental Anatomy",
+   "section": "Depressions",
+   "page": 236,
+   "front": "Pit",
+   "back": "A small pinpoint depression at the junction of developmental grooves",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p236-b-08",
+   "deck": "Dental Anatomy",
+   "section": "Depressions",
+   "page": 236,
+   "front": "Why are pits clinically significant?",
+   "back": "They facilitate biofilm retention.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p236-b-09",
+   "deck": "Dental Anatomy",
+   "section": "Depressions",
+   "page": 236,
+   "front": "Fissure",
+   "back": "A deep cleft between adjoining cusps on posterior teeth",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "anat-p234-t-01",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "question": "How many furcations does a maxillary molar have?",
+   "answer": "3",
+   "extra": "3 roots → 3 furcations. Don't be confused!"
+  },
+  {
+   "id": "anat-p234-t-02",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "question": "How many furcations does a mandibular molar have?",
+   "answer": "2",
+   "extra": "2 roots → 2 furcations. Don't be confused!"
+  },
+  {
+   "id": "anat-p235-t-01",
+   "deck": "Dental Anatomy",
+   "section": "Enamel",
+   "page": 235,
+   "question": "Enamel is approximately what % mineralized?",
+   "answer": "96%",
+   "extra": ""
+  },
+  {
+   "id": "anat-p235-t-02",
+   "deck": "Dental Anatomy",
+   "section": "Dentin & cementum",
+   "page": 235,
+   "question": "Dentin is approximately what % mineralized?",
+   "answer": "70%",
+   "extra": ""
+  },
+  {
+   "id": "anat-p235-t-03",
+   "deck": "Dental Anatomy",
+   "section": "Dentin & cementum",
+   "page": 235,
+   "question": "Cementum is approximately what % mineralized?",
+   "answer": "50%",
+   "extra": "Less mineralized than dentin."
+  },
+  {
+   "id": "anat-p236-t-01",
+   "deck": "Dental Anatomy",
+   "section": "Elevations",
+   "page": 236,
+   "question": "From how many centers of development (lobes) does every anterior tooth form?",
+   "answer": "4",
+   "extra": "3 facial + 1 lingual; the lingual lobe becomes the cingulum."
+  }
+ ],
+ "match": [
+  {
+   "id": "anat-p174-m-01",
+   "deck": "Head and Neck",
+   "section": "TMJ structures",
+   "page": 174,
+   "prompt": "Match each TMJ structure to its role.",
+   "pairs": [
+    [
+     "Articular disc",
+     "Fibrocartilage pad; divides joint into upper & lower compartments"
+    ],
+    [
+     "Synovial fluid",
+     "Lubricates the joint and provides nutrients"
+    ],
+    [
+     "Joint capsule",
+     "Fibrous enclosure that contains synovial fluid"
+    ],
+    [
+     "TMJ ligaments",
+     "Limit excessive joint movement"
+    ],
+    [
+     "Articular eminence",
+     "Ridge anterior to the fossa; guides condyle & disc on opening"
+    ],
+    [
+     "Mandibular fossa",
+     "Depression in the temporal bone that receives the condyle"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p235-m-01",
+   "deck": "Dental Anatomy",
+   "section": "Dentin & cementum",
+   "page": 235,
+   "prompt": "Match each tooth tissue to how mineralized it is.",
+   "pairs": [
+    [
+     "Enamel",
+     "~96%"
+    ],
+    [
+     "Dentin",
+     "~70%"
+    ],
+    [
+     "Cementum",
+     "~50%"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p235-m-02",
+   "deck": "Dental Anatomy",
+   "section": "Tooth functions",
+   "page": 235,
+   "prompt": "Match each tooth class to its main function.",
+   "pairs": [
+    [
+     "Incisors",
+     "Bite and cut"
+    ],
+    [
+     "Canines",
+     "Pierce and tear"
+    ],
+    [
+     "Premolars",
+     "Assist molars in grinding and canines in tearing"
+    ],
+    [
+     "Molars",
+     "Grind"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p235-m-03",
+   "deck": "Dental Anatomy",
+   "section": "Tooth surfaces",
+   "page": 235,
+   "prompt": "Match each surface term to where it applies.",
+   "pairs": [
+    [
+     "Labial",
+     "Facial surface of anterior teeth"
+    ],
+    [
+     "Buccal",
+     "Facial surface of posterior teeth"
+    ],
+    [
+     "Palatal",
+     "Lingual surface of maxillary teeth"
+    ],
+    [
+     "Incisal",
+     "Biting surface of anterior teeth"
+    ],
+    [
+     "Occlusal",
+     "Chewing surface of posterior teeth"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p236-m-01",
+   "deck": "Dental Anatomy",
+   "section": "Elevations",
+   "page": 236,
+   "prompt": "Match each ridge to its description.",
+   "pairs": [
+    [
+     "Marginal ridge",
+     "Mesial and distal borders of the occlusal (posterior) or lingual (anterior) surface"
+    ],
+    [
+     "Triangular ridge",
+     "Runs from a cusp tip to the central groove"
+    ],
+    [
+     "Transverse ridge",
+     "Two triangular ridges meeting on a faciolingual line"
+    ],
+    [
+     "Oblique ridge",
+     "Mesiolingual to distobuccal cusp of maxillary molars"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "anat-p234-o-01",
+   "deck": "Dental Anatomy",
+   "section": "Tooth structure",
+   "page": 234,
+   "prompt": "At the root, put the structures in order from the outside (bone) inward to the centre of the tooth.",
+   "items": [
+    "Alveolar bone",
+    "Periodontal ligament",
+    "Cementum",
+    "Dentin",
+    "Pulp"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "anat-p236-s-01",
+   "deck": "Dental Anatomy",
+   "section": "Elevations",
+   "page": 236,
+   "prompt": "Sort these tooth landmarks: elevation or depression?",
+   "categories": [
+    [
+     "Elevation",
+     [
+      "Cusp",
+      "Cingulum",
+      "Height of contour",
+      "Marginal ridge",
+      "Triangular ridge",
+      "Transverse ridge",
+      "Oblique ridge"
+     ]
+    ],
+    [
+     "Depression",
+     [
+      "Groove",
+      "Supplemental groove",
+      "Lingual fossa",
+      "Central fossa",
+      "Pit",
+      "Fissure"
+     ]
+    ]
+   ]
   }
  ],
  "mcq": [
@@ -1087,6 +1428,111 @@
    ],
    "answer": "B. Temporal",
    "explanation": "Keywords: Temporal bone = mandibular fossa. The mandibular condyle sits in the mandibular fossa of the temporal bone to form the TMJ."
+  },
+  {
+   "id": "anat-p174-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Lockjaw",
+   "page": 174,
+   "question": "During a long appointment a patient yawns widely and suddenly cannot close her mouth. What has most likely happened?",
+   "options": [
+    "A. Closed lock from anterior disc displacement",
+    "B. Open lock — the condyle is stuck anterior to the articular eminence",
+    "C. Fracture of the coronoid process",
+    "D. Spasm of the lateral pterygoid causing limited opening"
+   ],
+   "answer": "B. Open lock — the condyle is stuck anterior to the articular eminence",
+   "explanation": "Open lock: after wide opening the condyle moves too far forward and is trapped in front of the articular eminence, so the patient cannot CLOSE. Closed lock (usually disc displacement) is the opposite — the patient cannot open fully."
+  },
+  {
+   "id": "anat-p234-mcq-01",
+   "deck": "Dental Anatomy",
+   "section": "Crown",
+   "page": 234,
+   "question": "When measuring clinical attachment loss, which fixed landmark is the reference point?",
+   "options": [
+    "A. Gingival margin",
+    "B. Mucogingival junction",
+    "C. Cementoenamel junction (CEJ)",
+    "D. Alveolar crest"
+   ],
+   "answer": "C. Cementoenamel junction (CEJ)",
+   "explanation": "The CEJ is the fixed landmark for attachment loss (and restoration margins). The gingival margin moves with swelling or recession, so it is the reference for probing depth, not attachment loss."
+  },
+  {
+   "id": "anat-p234-mcq-02",
+   "deck": "Dental Anatomy",
+   "section": "Root",
+   "page": 234,
+   "question": "A hygienist is assessing furcation involvement on a mandibular first molar. Which furcations should she check?",
+   "options": [
+    "A. Mesial and distal",
+    "B. Buccal and lingual",
+    "C. Buccal, mesial and distal",
+    "D. Lingual only"
+   ],
+   "answer": "B. Buccal and lingual",
+   "explanation": "Mandibular molars have 2 roots (mesial and distal) → 2 furcations, entered from the buccal and lingual. Buccal, mesial and distal are the 3 furcations of a 3-rooted maxillary molar."
+  },
+  {
+   "id": "anat-p235-mcq-01",
+   "deck": "Dental Anatomy",
+   "section": "Enamel",
+   "page": 235,
+   "question": "All of the following are true of enamel EXCEPT:",
+   "options": [
+    "A. It is about 96% mineralized",
+    "B. It contains nerves that make it sensitive",
+    "C. It is hardest at the cusps and biting edges",
+    "D. It is thinner and softer in primary teeth"
+   ],
+   "answer": "B. It contains nerves that make it sensitive",
+   "explanation": "Enamel is non-living and contains no nerves; the nerves are in the pulp. The other statements are all true."
+  },
+  {
+   "id": "anat-p235-mcq-02",
+   "deck": "Dental Anatomy",
+   "section": "Tooth surfaces",
+   "page": 235,
+   "question": "The surface of a maxillary first premolar that faces the cheek is correctly called the:",
+   "options": [
+    "A. Labial surface",
+    "B. Buccal surface",
+    "C. Palatal surface",
+    "D. Incisal surface"
+   ],
+   "answer": "B. Buccal surface",
+   "explanation": "Facial surfaces are \"buccal\" on posterior teeth and \"labial\" on anterior teeth. A premolar is posterior, so buccal. Palatal = lingual of maxillary teeth."
+  },
+  {
+   "id": "anat-p236-mcq-01",
+   "deck": "Dental Anatomy",
+   "section": "Elevations",
+   "page": 236,
+   "question": "Which tooth has an oblique ridge running from the mesiolingual cusp to the distobuccal cusp?",
+   "options": [
+    "A. Mandibular first molar",
+    "B. Maxillary first molar",
+    "C. Maxillary first premolar",
+    "D. Mandibular second premolar"
+   ],
+   "answer": "B. Maxillary first molar",
+   "explanation": "Oblique ridges are found only on maxillary molars (ML cusp → DB cusp). Mandibular molars have transverse ridges but no oblique ridge."
+  },
+  {
+   "id": "anat-p236-mcq-02",
+   "deck": "Dental Anatomy",
+   "section": "Depressions",
+   "page": 236,
+   "question": "A dental hygienist is placing sealants on a mandibular first molar. Besides the occlusal pits and fissures, which site is most commonly at risk and should be checked?",
+   "options": [
+    "A. Lingual pit",
+    "B. Buccal pit",
+    "C. Mesial marginal ridge",
+    "D. Cingulum"
+   ],
+   "answer": "B. Buccal pit",
+   "explanation": "Pits (pinpoint depressions where developmental grooves meet) retain biofilm, and they are commonly present on the buccal surface of the mandibular first molar (\"Brad Pitt → buccal pit\"). Lingual pits are most common on maxillary lateral incisors."
   }
  ]
 }

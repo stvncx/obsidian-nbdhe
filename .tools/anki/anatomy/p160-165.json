@@ -596,13 +596,6 @@
  ],
  "cloze": [
   {
-   "id": "anat-p160-001",
-   "deck": "Head and Neck",
-   "section": "Extrinsic tongue muscles",
-   "page": 160,
-   "text": "Extrinsic tongue muscles originate {{c1::outside}} the tongue and insert into it."
-  },
-  {
    "id": "anat-p160-002",
    "deck": "Head and Neck",
    "section": "Extrinsic tongue muscles",
@@ -614,7 +607,7 @@
    "deck": "Head and Neck",
    "section": "Extrinsic tongue muscles",
    "page": 160,
-   "text": "All extrinsic tongue muscles are innervated by {{c1::CN XII (hypoglossal)}} except the {{c2::palatoglossus}}, which is innervated by {{c3::CN X (vagus)}}."
+   "text": "All extrinsic tongue muscles are innervated by {{c1::CN XII (hypoglossal)}} except the {{c2::palatoglossus}}, which is innervated by CN X (vagus)."
   },
   {
    "id": "anat-p160-004",
@@ -678,7 +671,7 @@
    "deck": "Head and Neck",
    "section": "Extrinsic tongue muscles",
    "page": 160,
-   "text": "The hyoglossus lies next to the {{c1::lingual nerve}} \u2014 relevant in nerve blocks and surgical anatomy."
+   "text": "The hyoglossus lies next to the {{c1::lingual nerve}} — relevant in nerve blocks and surgical anatomy."
   },
   {
    "id": "anat-p160-013",
@@ -700,21 +693,6 @@
    "section": "Extrinsic tongue muscles",
    "page": 160,
    "text": "The palatoglossus forms the {{c1::anterior tonsillar pillar}}."
-  },
-  {
-   "id": "anat-p160-016",
-   "deck": "Head and Neck",
-   "section": "Extrinsic tongue muscles",
-   "page": 160,
-   "text": "The {{c1::palatoglossus}} is the only tongue muscle NOT innervated by {{c2::CN XII}}.",
-   "extra": "It is innervated by CN X (vagus)."
-  },
-  {
-   "id": "anat-p160-017",
-   "deck": "Head and Neck",
-   "section": "Intrinsic tongue muscles",
-   "page": 160,
-   "text": "Intrinsic tongue muscles are located entirely within the tongue, with {{c1::no bony attachments}}."
   },
   {
    "id": "anat-p160-018",
@@ -836,14 +814,6 @@
    "text": "The mylohyoid inserts on the {{c1::hyoid and midline raphe}} and originates from the {{c2::mylohyoid line}} of the mandible."
   },
   {
-   "id": "anat-p161-003",
-   "deck": "Head and Neck",
-   "section": "Muscles of the neck",
-   "page": 161,
-   "text": "The mylohyoid separates the {{c1::sublingual}} and {{c1::submandibular}} spaces \u2014 an infection tracking line.",
-   "extra": "Tip: infection tracking line."
-  },
-  {
    "id": "anat-p161-004",
    "deck": "Head and Neck",
    "section": "Muscles of the neck",
@@ -883,7 +853,7 @@
    "deck": "Head and Neck",
    "section": "Muscles of the neck",
    "page": 161,
-   "text": "The anterior belly of the digastric forms the floor of the {{c1::submental triangle}} \u2014 relevant for lymph node palpation."
+   "text": "The anterior belly of the digastric forms the floor of the {{c1::submental triangle}} — relevant for lymph node palpation."
   },
   {
    "id": "anat-p161-010",
@@ -919,13 +889,6 @@
    "section": "Muscles of the neck",
    "page": 161,
    "text": "The sternohyoid is a {{c1::superficial infrahyoid}} muscle, visible on thin patients."
-  },
-  {
-   "id": "anat-p161-015",
-   "deck": "Head and Neck",
-   "section": "Muscles of the neck",
-   "page": 161,
-   "text": "The {{c1::omohyoid}}, on the side of the neck, has {{c2::two}} bellies and depresses the hyoid."
   },
   {
    "id": "anat-p161-016",
@@ -1077,33 +1040,11 @@
    "extra": "See the Board Alert card on head and neck veins."
   },
   {
-   "id": "anat-p162-012",
-   "deck": "Head and Neck",
-   "section": "Types of blood vessels",
-   "page": 162,
-   "text": "Board Alert: many textbooks teach that head and neck veins have {{c1::no valves}}, making them a larger clinical concern for the spread of {{c2::infection}}.",
-   "extra": "Textbooks conflict: modern research shows variable valve presence in head and neck veins, but this has not been widely adopted in textbooks yet."
-  },
-  {
    "id": "anat-p162-013",
    "deck": "Head and Neck",
    "section": "Types of blood vessels",
    "page": 162,
    "text": "Veins are {{c1::more numerous and variable}} than arteries, especially in the head and neck."
-  },
-  {
-   "id": "anat-p162-014",
-   "deck": "Head and Neck",
-   "section": "Types of blood vessels",
-   "page": 162,
-   "text": "Veins frequently form {{c1::anastomoses}} (interconnected webs), creating multiple drainage paths."
-  },
-  {
-   "id": "anat-p162-015",
-   "deck": "Head and Neck",
-   "section": "Types of blood vessels",
-   "page": 162,
-   "text": "{{c1::Capillaries}} are tiny, thin-walled vessels that connect {{c2::arteries to veins}}."
   },
   {
    "id": "anat-p162-016",
@@ -1135,34 +1076,6 @@
    "text": "Capillaries allow {{c1::anesthetic drugs}} to diffuse into nearby nerves and tissues during injections."
   },
   {
-   "id": "anat-p162-020",
-   "deck": "Head and Neck",
-   "section": "Components of blood",
-   "page": 162,
-   "text": "{{c1::Plasma}} is the fluid portion of blood (about {{c2::55%}}) that transports proteins, glucose, electrolytes, hormones, and waste."
-  },
-  {
-   "id": "anat-p162-021",
-   "deck": "Head and Neck",
-   "section": "Components of blood",
-   "page": 162,
-   "text": "{{c1::Red blood cells}} carry oxygen via {{c2::hemoglobin}}."
-  },
-  {
-   "id": "anat-p162-022",
-   "deck": "Head and Neck",
-   "section": "Components of blood",
-   "page": 162,
-   "text": "{{c1::White blood cells}} defend against infection and are involved in {{c2::inflammation and healing}}."
-  },
-  {
-   "id": "anat-p162-023",
-   "deck": "Head and Neck",
-   "section": "Components of blood",
-   "page": 162,
-   "text": "{{c1::Platelets}} help blood {{c2::clot}} after injury or surgery (e.g., post-extraction healing)."
-  },
-  {
    "id": "anat-p163-001",
    "deck": "Head and Neck",
    "section": "Arteries of the head and neck",
@@ -1189,14 +1102,6 @@
    "section": "Arteries of the head and neck",
    "page": 163,
    "text": "The {{c1::external carotid}} artery supplies the {{c2::face, oral cavity, scalp, and maxillofacial structures}}."
-  },
-  {
-   "id": "anat-p163-005",
-   "deck": "Head and Neck",
-   "section": "Arteries of the head and neck",
-   "page": 163,
-   "text": "The external carotid artery has {{c1::eight}} branches.",
-   "extra": "WakeUpMemory: FLOSS MAP."
   },
   {
    "id": "anat-p163-006",
@@ -1262,7 +1167,7 @@
    "section": "Arteries of the head and neck",
    "page": 163,
    "text": "The {{c1::superior thyroid}} artery is the {{c2::first}} branch off the external carotid.",
-   "extra": "Passes near the infrahyoid muscles \u2014 rarely involved in oral procedures."
+   "extra": "Passes near the infrahyoid muscles — rarely involved in oral procedures."
   },
   {
    "id": "anat-p163-015",
@@ -1450,28 +1355,6 @@
    "text": "The PSA artery enters the posterior maxilla near the {{c1::tuberosity}}."
   },
   {
-   "id": "anat-p164-016",
-   "deck": "Head and Neck",
-   "section": "Maxillary artery branches",
-   "page": 164,
-   "text": "The PSA block carries a high {{c1::hematoma}} risk because of the nearby {{c2::venous plexus}}."
-  },
-  {
-   "id": "anat-p164-017",
-   "deck": "Head and Neck",
-   "section": "Maxillary artery branches",
-   "page": 164,
-   "text": "The PSA artery usually supplies all {{c1::3}} roots of the maxillary molars."
-  },
-  {
-   "id": "anat-p164-018",
-   "deck": "Head and Neck",
-   "section": "Maxillary artery branches",
-   "page": 164,
-   "text": "A {{c1::middle superior alveolar (MSA)}} branch exists in only about {{c2::50%}} of people.",
-   "extra": "The book's sentence here is garbled (\"Middle superior alveolar (MSA) branch and exist in about 50% of the time\"); read as: the MSA is present in about half of people."
-  },
-  {
    "id": "anat-p164-019",
    "deck": "Head and Neck",
    "section": "Maxillary artery branches",
@@ -1571,18 +1454,11 @@
    "text": "The {{c1::pterygoid venous plexus}} surrounds the {{c2::maxillary artery}} and deep facial structures."
   },
   {
-   "id": "anat-p165-010",
-   "deck": "Head and Neck",
-   "section": "Veins of the head and neck",
-   "page": 165,
-   "text": "The pterygoid venous plexus is a high-risk area for {{c1::hematoma}} during a {{c2::PSA}} block."
-  },
-  {
    "id": "anat-p165-011",
    "deck": "Head and Neck",
    "section": "Veins of the head and neck",
    "page": 165,
-   "text": "The pterygoid venous plexus connects to the facial vein, deep facial vein, and {{c1::ophthalmic}} veins \u2014 a possible infection route to the {{c2::brain}}."
+   "text": "The pterygoid venous plexus connects to the facial vein, deep facial vein, and {{c1::ophthalmic}} veins — a possible infection route to the {{c2::brain}}."
   },
   {
    "id": "anat-p165-012",
@@ -1641,13 +1517,6 @@
    "text": "The cavernous sinus is connected to the {{c1::facial}} vein, the {{c2::ophthalmic}} vein, and the {{c3::pterygoid venous plexus}}."
   },
   {
-   "id": "anat-p165-020",
-   "deck": "Head and Neck",
-   "section": "Veins of the head and neck",
-   "page": 165,
-   "text": "Infections of the upper lip or nose (the {{c1::\"danger triangle\"}}) can reach the brain and cause {{c2::cavernous sinus thrombosis}}, a life-threatening condition."
-  },
-  {
    "id": "anat-p165-021",
    "deck": "Head and Neck",
    "section": "Veins of the head and neck",
@@ -1662,5 +1531,687 @@
    "text": "The pterygoid venous plexus protects vessels like the {{c1::maxillary artery}} from being compressed during {{c2::mastication}}."
   }
  ],
- "mcq": []
+ "basic": [
+  {
+   "id": "anat-p160-b-01",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "front": "Extrinsic tongue muscles",
+   "back": "Tongue muscles that originate outside the tongue and insert into it",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p160-b-02",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "front": "Intrinsic tongue muscles",
+   "back": "Tongue muscles located entirely within the tongue, with no bony attachments",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p161-b-01",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "front": "Why is the mylohyoid called an \"infection tracking line\"?",
+   "back": "It separates the sublingual space (above it) from the submandibular space (below it), so it determines where a floor-of-mouth infection spreads.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p162-b-01",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "front": "Capillaries",
+   "back": "Tiny, thin-walled vessels that connect arteries to veins",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p162-b-02",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "front": "Anastomoses (of veins)",
+   "back": "Interconnected webs of vessels that create multiple drainage paths",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p162-b-03",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "front": "Board Alert: why are head and neck veins a particular concern for the spread of infection (as many textbooks teach)?",
+   "back": "They are taught to have no valves, so blood — and infection — can flow in either direction.",
+   "reverse": false,
+   "extra": "Textbooks conflict: modern research shows variable valve presence in head and neck veins, but this has not been widely adopted in textbooks yet."
+  },
+  {
+   "id": "anat-p162-b-04",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "front": "Plasma",
+   "back": "The fluid portion of blood; transports proteins, glucose, electrolytes, hormones, and waste",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p162-b-05",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "front": "Red blood cells",
+   "back": "Blood cells that carry oxygen via hemoglobin",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p162-b-06",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "front": "White blood cells",
+   "back": "Blood cells that defend against infection and are involved in inflammation and healing",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p162-b-07",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "front": "Platelets",
+   "back": "Blood component that helps blood clot after injury or surgery (e.g., post-extraction healing)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p164-b-01",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "front": "Why does the PSA block carry a high risk of hematoma?",
+   "back": "The needle passes near the pterygoid venous plexus (behind the maxilla, near the tuberosity), which is easily punctured.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p165-b-01",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "front": "Why is an infection of the upper lip or nose (the \"danger triangle\") potentially life-threatening?",
+   "back": "It can spread through the valveless, anastomosing veins (facial vein) to the cavernous sinus and cause cavernous sinus thrombosis.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "anat-p160-t-01",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "question": "Which cranial nerve innervates the palatoglossus? (CN + Roman numeral)",
+   "answer": "CN X",
+   "extra": "Vagus. The palatoglossus is the only tongue muscle NOT innervated by CN XII."
+  },
+  {
+   "id": "anat-p161-t-01",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "question": "How many bellies does the omohyoid have? (number)",
+   "answer": "2",
+   "extra": ""
+  },
+  {
+   "id": "anat-p162-t-01",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "question": "About what percentage of blood is plasma? (%)",
+   "answer": "55%",
+   "extra": ""
+  },
+  {
+   "id": "anat-p163-t-01",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "question": "How many branches does the external carotid artery have? (number)",
+   "answer": "8",
+   "extra": "WakeUpMemory: FLOSS MAP."
+  },
+  {
+   "id": "anat-p164-t-01",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "question": "The PSA artery usually supplies how many roots of the maxillary molars? (number)",
+   "answer": "3",
+   "extra": ""
+  },
+  {
+   "id": "anat-p164-t-02",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "question": "A middle superior alveolar (MSA) branch is present in about what percentage of people? (%)",
+   "answer": "50%",
+   "extra": "The book's sentence is garbled (\"MSA branch and exist in about 50% of the time\"); read as: present in about half of people."
+  }
+ ],
+ "match": [
+  {
+   "id": "anat-p160-m-01",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "prompt": "Match each EXTRINSIC tongue muscle to its action.",
+   "pairs": [
+    [
+     "Genioglossus",
+     "Protrudes and depresses"
+    ],
+    [
+     "Styloglossus",
+     "Retracts and elevates"
+    ],
+    [
+     "Hyoglossus",
+     "Depresses"
+    ],
+    [
+     "Palatoglossus",
+     "Elevates the back of the tongue"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p160-m-02",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "prompt": "Match each INTRINSIC tongue muscle to its action.",
+   "pairs": [
+    [
+     "Superior longitudinal",
+     "Curls the tongue upward"
+    ],
+    [
+     "Inferior longitudinal",
+     "Curls the tongue downward"
+    ],
+    [
+     "Transverse",
+     "Narrows and elongates"
+    ],
+    [
+     "Vertical",
+     "Flattens and broadens"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p161-m-01",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "prompt": "Match each neck muscle to its action.",
+   "pairs": [
+    [
+     "Mylohyoid",
+     "Elevates floor of mouth and tongue"
+    ],
+    [
+     "Geniohyoid",
+     "Pulls hyoid forward and up"
+    ],
+    [
+     "Anterior belly of digastric",
+     "Depresses the mandible"
+    ],
+    [
+     "Posterior belly of digastric",
+     "Pulls hyoid backward"
+    ],
+    [
+     "Sternohyoid",
+     "Depresses the hyoid"
+    ],
+    [
+     "Trapezius",
+     "Elevates the shoulder"
+    ],
+    [
+     "Scalenus",
+     "Elevates the 1st and 2nd ribs"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p163-m-01",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "prompt": "Match each external carotid branch to the region it supplies.",
+   "pairs": [
+    [
+     "Facial",
+     "Lips, nose, muscles of facial expression"
+    ],
+    [
+     "Lingual",
+     "Tongue, floor of mouth, sublingual glands"
+    ],
+    [
+     "Occipital",
+     "Posterior scalp, SCM muscle"
+    ],
+    [
+     "Superior thyroid",
+     "Thyroid gland, larynx"
+    ],
+    [
+     "Superficial temporal",
+     "Scalp and upper lateral face"
+    ],
+    [
+     "Ascending pharyngeal",
+     "Pharynx, soft palate, meninges"
+    ],
+    [
+     "Posterior auricular",
+     "Area behind the ear"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p164-m-01",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "prompt": "Match each maxillary-artery branch to what it supplies.",
+   "pairs": [
+    [
+     "Inferior alveolar",
+     "All mandibular teeth, chin, lower lip"
+    ],
+    [
+     "Incisive",
+     "Mandibular incisors and canines"
+    ],
+    [
+     "Posterior superior alveolar",
+     "Maxillary molars, buccal gingiva, part of sinus"
+    ],
+    [
+     "Anterior superior alveolar",
+     "Maxillary canines and incisors, anterior sinus wall"
+    ],
+    [
+     "Infraorbital",
+     "Lower eyelid, side of nose, upper lip"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p165-m-01",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "prompt": "Match each vein to the area it drains.",
+   "pairs": [
+    [
+     "Facial",
+     "Superficial face: lips, nose, eyes"
+    ],
+    [
+     "Maxillary",
+     "Pterygoid venous plexus and deep face"
+    ],
+    [
+     "Lingual",
+     "Deep tissues of the tongue"
+    ],
+    [
+     "Retromolar",
+     "Posterior mandible behind third molars"
+    ],
+    [
+     "Mental",
+     "Chin and lower lip"
+    ],
+    [
+     "Internal jugular",
+     "Brain, face, oral cavity (main drainage)"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "anat-p164-o-01",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "prompt": "Trace the arterial supply to the maxillary incisors, from the neck to the tooth.",
+   "items": [
+    "Common carotid",
+    "External carotid",
+    "Maxillary",
+    "Infraorbital",
+    "Anterior superior alveolar"
+   ]
+  },
+  {
+   "id": "anat-p165-o-01",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "prompt": "Trace venous drainage from the PSA area (first → last).",
+   "items": [
+    "PSA area",
+    "Pterygoid venous plexus",
+    "Maxillary vein",
+    "Retromandibular vein"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "anat-p160-s-01",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "prompt": "Sort the tongue muscles: extrinsic or intrinsic?",
+   "categories": [
+    [
+     "Extrinsic (outside origin; position)",
+     [
+      "Genioglossus",
+      "Styloglossus",
+      "Hyoglossus",
+      "Palatoglossus"
+     ]
+    ],
+    [
+     "Intrinsic (inside tongue; shape)",
+     [
+      "Superior longitudinal",
+      "Inferior longitudinal",
+      "Transverse",
+      "Vertical"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p161-s-01",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "prompt": "Sort the neck muscles by group.",
+   "categories": [
+    [
+     "Suprahyoid",
+     [
+      "Mylohyoid",
+      "Geniohyoid",
+      "Digastric"
+     ]
+    ],
+    [
+     "Infrahyoid",
+     [
+      "Sternohyoid",
+      "Omohyoid"
+     ]
+    ],
+    [
+     "Other cervical muscles",
+     [
+      "Sternocleidomastoid",
+      "Trapezius",
+      "Scalenus"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p163-s-01",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "prompt": "Sort the arteries: direct branch of the external carotid, or branch of the maxillary artery?",
+   "categories": [
+    [
+     "Direct branch of external carotid",
+     [
+      "Facial",
+      "Lingual",
+      "Occipital",
+      "Superior thyroid",
+      "Superficial temporal",
+      "Ascending pharyngeal",
+      "Posterior auricular"
+     ]
+    ],
+    [
+     "Branch of maxillary artery",
+     [
+      "Inferior alveolar",
+      "Posterior superior alveolar",
+      "Greater palatine",
+      "Middle meningeal"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "anat-p160-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "question": "Which tongue muscle is NOT innervated by the hypoglossal nerve (CN XII)?",
+   "options": [
+    "A. Genioglossus",
+    "B. Styloglossus",
+    "C. Palatoglossus",
+    "D. Hyoglossus"
+   ],
+   "answer": "C. Palatoglossus",
+   "explanation": "The palatoglossus (anterior tonsillar pillar) is innervated by CN X (vagus). Every other tongue muscle — extrinsic and intrinsic, including the styloglossus that also arises outside the tongue — is supplied by CN XII."
+  },
+  {
+   "id": "anat-p160-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "question": "In an unconscious patient, which muscle is primarily responsible for keeping the tongue from collapsing backward into the airway?",
+   "options": [
+    "A. Styloglossus",
+    "B. Genioglossus",
+    "C. Hyoglossus",
+    "D. Superior longitudinal"
+   ],
+   "answer": "B. Genioglossus",
+   "explanation": "The genioglossus is the primary protruder of the tongue and prevents it from falling back in airway obstruction. The styloglossus does the opposite — it retracts the tongue."
+  },
+  {
+   "id": "anat-p160-mcq-03",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "question": "All of the following are true of the intrinsic tongue muscles EXCEPT:",
+   "options": [
+    "A. They lie entirely within the tongue",
+    "B. They change the shape of the tongue",
+    "C. They are innervated by CN XII",
+    "D. They originate from the genial tubercles"
+   ],
+   "answer": "D. They originate from the genial tubercles",
+   "explanation": "Intrinsic muscles have no bony attachments; the genial tubercles are the origin of the extrinsic genioglossus (and the geniohyoid). The other three statements are true."
+  },
+  {
+   "id": "anat-p161-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "question": "An abscess on a mandibular molar perforates the lingual cortical plate BELOW the mylohyoid line. Which space will the infection most likely enter first?",
+   "options": [
+    "A. Sublingual space",
+    "B. Submandibular space",
+    "C. Submental space",
+    "D. Retropharyngeal space"
+   ],
+   "answer": "B. Submandibular space",
+   "explanation": "The mylohyoid (originating on the mylohyoid line) separates the sublingual space above from the submandibular space below, so pus emerging below the line enters the submandibular space. Above the line it would enter the sublingual space."
+  },
+  {
+   "id": "anat-p161-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "question": "During an extraoral exam the hygienist asks the patient to turn the head to the LEFT. Which muscle becomes prominent for use as a landmark?",
+   "options": [
+    "A. Left sternocleidomastoid",
+    "B. Right sternocleidomastoid",
+    "C. Left trapezius",
+    "D. Right omohyoid"
+   ],
+   "answer": "B. Right sternocleidomastoid",
+   "explanation": "The sternocleidomastoid rotates the head to the opposite side, so turning left contracts the RIGHT SCM, which stands out as the landmark for cervical lymph node palpation."
+  },
+  {
+   "id": "anat-p162-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "question": "A patient with a markedly low platelet count needs an extraction. Which post-operative problem is most likely?",
+   "options": [
+    "A. Prolonged bleeding",
+    "B. Reduced oxygen delivery to the socket",
+    "C. Increased risk of viral infection",
+    "D. Fluid loss from reduced plasma"
+   ],
+   "answer": "A. Prolonged bleeding",
+   "explanation": "Platelets help blood clot after injury or surgery, so too few platelets means poor clot formation and prolonged bleeding. Oxygen delivery depends on red blood cells (hemoglobin), not platelets."
+  },
+  {
+   "id": "anat-p162-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "question": "Which feature best distinguishes arteries from veins?",
+   "options": [
+    "A. They contain valves to prevent backflow",
+    "B. They have thick, muscular walls to withstand high pressure",
+    "C. They carry blood back to the heart",
+    "D. They are more numerous and variable in the head and neck"
+   ],
+   "answer": "B. They have thick, muscular walls to withstand high pressure",
+   "explanation": "Arteries carry blood away from the heart under high pressure and have thick muscular walls. Valves, return to the heart, and greater number/variability are all features of veins."
+  },
+  {
+   "id": "anat-p163-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "question": "During removal of a sialolith from the submandibular duct under the tongue, which artery is at greatest risk?",
+   "options": [
+    "A. Facial artery",
+    "B. Lingual artery",
+    "C. Ascending pharyngeal artery",
+    "D. Inferior alveolar artery"
+   ],
+   "answer": "B. Lingual artery",
+   "explanation": "The lingual artery runs near the lingual nerve and submandibular gland and is at risk in surgery under the tongue (frenectomy, sialolith removal). The facial artery is the risk in extraoral injections/surgery near the corner of the mouth."
+  },
+  {
+   "id": "anat-p163-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "question": "Which is the first branch off the external carotid artery?",
+   "options": [
+    "A. Lingual",
+    "B. Facial",
+    "C. Superior thyroid",
+    "D. Maxillary"
+   ],
+   "answer": "C. Superior thyroid",
+   "explanation": "The superior thyroid artery is the first branch; it passes near the infrahyoid muscles to the thyroid gland and larynx. The maxillary is a terminal branch, not the first."
+  },
+  {
+   "id": "anat-p164-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "question": "A patient develops a rapidly swelling hematoma after a PSA injection. Which structure was most likely punctured?",
+   "options": [
+    "A. Facial artery",
+    "B. Pterygoid venous plexus",
+    "C. Lingual vein",
+    "D. Inferior alveolar artery"
+   ],
+   "answer": "B. Pterygoid venous plexus",
+   "explanation": "The pterygoid venous plexus lies behind the maxilla near the PSA injection site, making the PSA block the highest hematoma risk. The inferior alveolar artery is near the IA block site in the mandible, not the PSA site."
+  },
+  {
+   "id": "anat-p164-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "question": "On a periapical radiograph a thin radiolucent canal is seen ABOVE the apices of the maxillary anterior teeth. It most likely carries which vessel?",
+   "options": [
+    "A. Incisive artery",
+    "B. Anterior superior alveolar artery",
+    "C. Inferior alveolar artery",
+    "D. Mental artery"
+   ],
+   "answer": "B. Anterior superior alveolar artery",
+   "explanation": "The ASA canal may appear on radiographs above the apices of anterior maxillary teeth. The incisive artery runs beneath the apices of the MANDIBULAR incisors, inside the mandibular canal."
+  },
+  {
+   "id": "anat-p165-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "question": "A patient has an infected lesion on the side of the nose. Which is the most serious potential complication?",
+   "options": [
+    "A. Retropharyngeal abscess",
+    "B. Cavernous sinus thrombosis",
+    "C. Infection of the submandibular space",
+    "D. Hematoma of the pterygoid plexus"
+   ],
+   "answer": "B. Cavernous sinus thrombosis",
+   "explanation": "The upper lip and nose form the \"danger triangle\": infection can travel via the facial vein to the cavernous sinus, causing life-threatening cavernous sinus thrombosis. Retropharyngeal spread is linked to the ascending pharyngeal region, not the nose."
+  },
+  {
+   "id": "anat-p165-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "question": "Which structures travel with the internal jugular vein in the carotid sheath?",
+   "options": [
+    "A. Carotid artery and vagus nerve",
+    "B. External jugular vein and facial nerve",
+    "C. Subclavian artery and phrenic nerve",
+    "D. Maxillary artery and lingual nerve"
+   ],
+   "answer": "A. Carotid artery and vagus nerve",
+   "explanation": "The internal jugular vein — the main venous drainage of the head and neck — runs with the carotid artery and vagus nerve in the carotid sheath. The external jugular is superficial, crossing over the SCM."
+  }
+ ]
 }

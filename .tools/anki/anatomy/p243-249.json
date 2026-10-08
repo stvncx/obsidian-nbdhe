@@ -426,1106 +426,6 @@
      "fit": "bg"
     }
    ]
-  },
-  {
-   "name": "anat-p247-universal-permanent",
-   "title": "Universal numbers — permanent dentition",
-   "deck": "Dental Anatomy",
-   "pdf_page": 47,
-   "page": 247,
-   "crop": [
-    125,
-    205,
-    1150,
-    775
-   ],
-   "labels": [
-    {
-     "box": [
-      229,
-      287,
-      265,
-      321
-     ],
-     "answer": "1",
-     "fit": "none"
-    },
-    {
-     "box": [
-      291,
-      287,
-      327,
-      321
-     ],
-     "answer": "2",
-     "fit": "none"
-    },
-    {
-     "box": [
-      355,
-      287,
-      391,
-      321
-     ],
-     "answer": "3",
-     "fit": "none"
-    },
-    {
-     "box": [
-      410,
-      287,
-      446,
-      321
-     ],
-     "answer": "4",
-     "fit": "none"
-    },
-    {
-     "box": [
-      460,
-      287,
-      496,
-      321
-     ],
-     "answer": "5",
-     "fit": "none"
-    },
-    {
-     "box": [
-      509,
-      287,
-      545,
-      321
-     ],
-     "answer": "6",
-     "fit": "none"
-    },
-    {
-     "box": [
-      558,
-      287,
-      594,
-      321
-     ],
-     "answer": "7",
-     "fit": "none"
-    },
-    {
-     "box": [
-      607,
-      287,
-      643,
-      321
-     ],
-     "answer": "8",
-     "fit": "none"
-    },
-    {
-     "box": [
-      662,
-      287,
-      698,
-      321
-     ],
-     "answer": "9",
-     "fit": "none"
-    },
-    {
-     "box": [
-      710,
-      287,
-      746,
-      321
-     ],
-     "answer": "10",
-     "fit": "none"
-    },
-    {
-     "box": [
-      765,
-      287,
-      801,
-      321
-     ],
-     "answer": "11",
-     "fit": "none"
-    },
-    {
-     "box": [
-      811,
-      287,
-      847,
-      321
-     ],
-     "answer": "12",
-     "fit": "none"
-    },
-    {
-     "box": [
-      864,
-      287,
-      900,
-      321
-     ],
-     "answer": "13",
-     "fit": "none"
-    },
-    {
-     "box": [
-      916,
-      287,
-      952,
-      321
-     ],
-     "answer": "14",
-     "fit": "none"
-    },
-    {
-     "box": [
-      974,
-      287,
-      1010,
-      321
-     ],
-     "answer": "15",
-     "fit": "none"
-    },
-    {
-     "box": [
-      1040,
-      287,
-      1076,
-      321
-     ],
-     "answer": "16",
-     "fit": "none"
-    },
-    {
-     "box": [
-      236,
-      736,
-      272,
-      770
-     ],
-     "answer": "32",
-     "fit": "none"
-    },
-    {
-     "box": [
-      300,
-      736,
-      336,
-      770
-     ],
-     "answer": "31",
-     "fit": "none"
-    },
-    {
-     "box": [
-      364,
-      736,
-      400,
-      770
-     ],
-     "answer": "30",
-     "fit": "none"
-    },
-    {
-     "box": [
-      425,
-      736,
-      461,
-      770
-     ],
-     "answer": "29",
-     "fit": "none"
-    },
-    {
-     "box": [
-      482,
-      736,
-      518,
-      770
-     ],
-     "answer": "28",
-     "fit": "none"
-    },
-    {
-     "box": [
-      527,
-      736,
-      563,
-      770
-     ],
-     "answer": "27",
-     "fit": "none"
-    },
-    {
-     "box": [
-      577,
-      736,
-      613,
-      770
-     ],
-     "answer": "26",
-     "fit": "none"
-    },
-    {
-     "box": [
-      619,
-      736,
-      655,
-      770
-     ],
-     "answer": "25",
-     "fit": "none"
-    },
-    {
-     "box": [
-      661,
-      736,
-      697,
-      770
-     ],
-     "answer": "24",
-     "fit": "none"
-    },
-    {
-     "box": [
-      697,
-      736,
-      733,
-      770
-     ],
-     "answer": "23",
-     "fit": "none"
-    },
-    {
-     "box": [
-      738,
-      736,
-      774,
-      770
-     ],
-     "answer": "22",
-     "fit": "none"
-    },
-    {
-     "box": [
-      783,
-      736,
-      819,
-      770
-     ],
-     "answer": "21",
-     "fit": "none"
-    },
-    {
-     "box": [
-      838,
-      736,
-      874,
-      770
-     ],
-     "answer": "20",
-     "fit": "none"
-    },
-    {
-     "box": [
-      898,
-      736,
-      934,
-      770
-     ],
-     "answer": "19",
-     "fit": "none"
-    },
-    {
-     "box": [
-      966,
-      736,
-      1002,
-      770
-     ],
-     "answer": "18",
-     "fit": "none"
-    },
-    {
-     "box": [
-      1031,
-      736,
-      1067,
-      770
-     ],
-     "answer": "17",
-     "fit": "none"
-    }
-   ]
-  },
-  {
-   "name": "anat-p247-iso-permanent",
-   "title": "ISO/FDI numbers — permanent dentition",
-   "deck": "Dental Anatomy",
-   "pdf_page": 47,
-   "page": 247,
-   "crop": [
-    125,
-    205,
-    1150,
-    775
-   ],
-   "labels": [
-    {
-     "box": [
-      230,
-      248,
-      266,
-      284
-     ],
-     "answer": "18",
-     "fit": "none"
-    },
-    {
-     "box": [
-      290,
-      248,
-      326,
-      284
-     ],
-     "answer": "17",
-     "fit": "none"
-    },
-    {
-     "box": [
-      356,
-      248,
-      392,
-      284
-     ],
-     "answer": "16",
-     "fit": "none"
-    },
-    {
-     "box": [
-      413,
-      248,
-      449,
-      284
-     ],
-     "answer": "15",
-     "fit": "none"
-    },
-    {
-     "box": [
-      461,
-      248,
-      497,
-      284
-     ],
-     "answer": "14",
-     "fit": "none"
-    },
-    {
-     "box": [
-      512,
-      248,
-      548,
-      284
-     ],
-     "answer": "13",
-     "fit": "none"
-    },
-    {
-     "box": [
-      560,
-      248,
-      596,
-      284
-     ],
-     "answer": "12",
-     "fit": "none"
-    },
-    {
-     "box": [
-      605,
-      248,
-      641,
-      284
-     ],
-     "answer": "11",
-     "fit": "none"
-    },
-    {
-     "box": [
-      661,
-      248,
-      697,
-      284
-     ],
-     "answer": "21",
-     "fit": "none"
-    },
-    {
-     "box": [
-      711,
-      248,
-      747,
-      284
-     ],
-     "answer": "22",
-     "fit": "none"
-    },
-    {
-     "box": [
-      762,
-      248,
-      798,
-      284
-     ],
-     "answer": "23",
-     "fit": "none"
-    },
-    {
-     "box": [
-      809,
-      248,
-      845,
-      284
-     ],
-     "answer": "24",
-     "fit": "none"
-    },
-    {
-     "box": [
-      865,
-      248,
-      901,
-      284
-     ],
-     "answer": "25",
-     "fit": "none"
-    },
-    {
-     "box": [
-      917,
-      248,
-      953,
-      284
-     ],
-     "answer": "26",
-     "fit": "none"
-    },
-    {
-     "box": [
-      973,
-      248,
-      1009,
-      284
-     ],
-     "answer": "27",
-     "fit": "none"
-    },
-    {
-     "box": [
-      1042,
-      248,
-      1078,
-      284
-     ],
-     "answer": "28",
-     "fit": "none"
-    },
-    {
-     "box": [
-      237,
-      697,
-      273,
-      733
-     ],
-     "answer": "48",
-     "fit": "none"
-    },
-    {
-     "box": [
-      301,
-      697,
-      337,
-      733
-     ],
-     "answer": "47",
-     "fit": "none"
-    },
-    {
-     "box": [
-      365,
-      697,
-      401,
-      733
-     ],
-     "answer": "46",
-     "fit": "none"
-    },
-    {
-     "box": [
-      426,
-      697,
-      462,
-      733
-     ],
-     "answer": "45",
-     "fit": "none"
-    },
-    {
-     "box": [
-      481,
-      697,
-      517,
-      733
-     ],
-     "answer": "44",
-     "fit": "none"
-    },
-    {
-     "box": [
-      526,
-      697,
-      562,
-      733
-     ],
-     "answer": "43",
-     "fit": "none"
-    },
-    {
-     "box": [
-      577,
-      697,
-      613,
-      733
-     ],
-     "answer": "42",
-     "fit": "none"
-    },
-    {
-     "box": [
-      617,
-      697,
-      653,
-      733
-     ],
-     "answer": "41",
-     "fit": "none"
-    },
-    {
-     "box": [
-      659,
-      697,
-      695,
-      733
-     ],
-     "answer": "31",
-     "fit": "none"
-    },
-    {
-     "box": [
-      699,
-      697,
-      735,
-      733
-     ],
-     "answer": "32",
-     "fit": "none"
-    },
-    {
-     "box": [
-      739,
-      697,
-      775,
-      733
-     ],
-     "answer": "33",
-     "fit": "none"
-    },
-    {
-     "box": [
-      785,
-      697,
-      821,
-      733
-     ],
-     "answer": "34",
-     "fit": "none"
-    },
-    {
-     "box": [
-      835,
-      697,
-      871,
-      733
-     ],
-     "answer": "35",
-     "fit": "none"
-    },
-    {
-     "box": [
-      897,
-      697,
-      933,
-      733
-     ],
-     "answer": "36",
-     "fit": "none"
-    },
-    {
-     "box": [
-      967,
-      697,
-      1003,
-      733
-     ],
-     "answer": "37",
-     "fit": "none"
-    },
-    {
-     "box": [
-      1026,
-      697,
-      1062,
-      733
-     ],
-     "answer": "38",
-     "fit": "none"
-    }
-   ]
-  },
-  {
-   "name": "anat-p247-universal-primary",
-   "title": "Universal letters — primary dentition",
-   "deck": "Dental Anatomy",
-   "pdf_page": 47,
-   "page": 247,
-   "crop": [
-    225,
-    840,
-    990,
-    1410
-   ],
-   "labels": [
-    {
-     "box": [
-      437,
-      924,
-      469,
-      956
-     ],
-     "answer": "A",
-     "fit": "none"
-    },
-    {
-     "box": [
-      497,
-      924,
-      529,
-      956
-     ],
-     "answer": "B",
-     "fit": "none"
-    },
-    {
-     "box": [
-      552,
-      924,
-      584,
-      956
-     ],
-     "answer": "C",
-     "fit": "none"
-    },
-    {
-     "box": [
-      597,
-      924,
-      629,
-      956
-     ],
-     "answer": "D",
-     "fit": "none"
-    },
-    {
-     "box": [
-      643,
-      924,
-      675,
-      956
-     ],
-     "answer": "E",
-     "fit": "none"
-    },
-    {
-     "box": [
-      697,
-      924,
-      729,
-      956
-     ],
-     "answer": "F",
-     "fit": "none"
-    },
-    {
-     "box": [
-      740,
-      924,
-      772,
-      956
-     ],
-     "answer": "G",
-     "fit": "none"
-    },
-    {
-     "box": [
-      782,
-      924,
-      814,
-      956
-     ],
-     "answer": "H",
-     "fit": "none"
-    },
-    {
-     "box": [
-      839,
-      924,
-      871,
-      956
-     ],
-     "answer": "I",
-     "fit": "none"
-    },
-    {
-     "box": [
-      904,
-      924,
-      936,
-      956
-     ],
-     "answer": "J",
-     "fit": "none"
-    },
-    {
-     "box": [
-      437,
-      1368,
-      469,
-      1402
-     ],
-     "answer": "T",
-     "fit": "none"
-    },
-    {
-     "box": [
-      521,
-      1368,
-      553,
-      1402
-     ],
-     "answer": "S",
-     "fit": "none"
-    },
-    {
-     "box": [
-      571,
-      1368,
-      603,
-      1402
-     ],
-     "answer": "R",
-     "fit": "none"
-    },
-    {
-     "box": [
-      612,
-      1368,
-      644,
-      1402
-     ],
-     "answer": "Q",
-     "fit": "none"
-    },
-    {
-     "box": [
-      648,
-      1368,
-      680,
-      1402
-     ],
-     "answer": "P",
-     "fit": "none"
-    },
-    {
-     "box": [
-      688,
-      1368,
-      720,
-      1402
-     ],
-     "answer": "O",
-     "fit": "none"
-    },
-    {
-     "box": [
-      724,
-      1368,
-      756,
-      1402
-     ],
-     "answer": "N",
-     "fit": "none"
-    },
-    {
-     "box": [
-      762,
-      1368,
-      794,
-      1402
-     ],
-     "answer": "M",
-     "fit": "none"
-    },
-    {
-     "box": [
-      824,
-      1368,
-      856,
-      1402
-     ],
-     "answer": "L",
-     "fit": "none"
-    },
-    {
-     "box": [
-      908,
-      1368,
-      940,
-      1402
-     ],
-     "answer": "K",
-     "fit": "none"
-    }
-   ]
-  },
-  {
-   "name": "anat-p247-iso-primary",
-   "title": "ISO/FDI numbers — primary dentition",
-   "deck": "Dental Anatomy",
-   "pdf_page": 47,
-   "page": 247,
-   "crop": [
-    225,
-    840,
-    990,
-    1410
-   ],
-   "labels": [
-    {
-     "box": [
-      437,
-      889,
-      469,
-      922
-     ],
-     "answer": "55",
-     "fit": "none"
-    },
-    {
-     "box": [
-      498,
-      889,
-      530,
-      922
-     ],
-     "answer": "54",
-     "fit": "none"
-    },
-    {
-     "box": [
-      553,
-      889,
-      585,
-      922
-     ],
-     "answer": "53",
-     "fit": "none"
-    },
-    {
-     "box": [
-      599,
-      889,
-      631,
-      922
-     ],
-     "answer": "52",
-     "fit": "none"
-    },
-    {
-     "box": [
-      644,
-      889,
-      676,
-      922
-     ],
-     "answer": "51",
-     "fit": "none"
-    },
-    {
-     "box": [
-      696,
-      889,
-      728,
-      922
-     ],
-     "answer": "61",
-     "fit": "none"
-    },
-    {
-     "box": [
-      740,
-      889,
-      772,
-      922
-     ],
-     "answer": "62",
-     "fit": "none"
-    },
-    {
-     "box": [
-      782,
-      889,
-      814,
-      922
-     ],
-     "answer": "63",
-     "fit": "none"
-    },
-    {
-     "box": [
-      837,
-      889,
-      869,
-      922
-     ],
-     "answer": "64",
-     "fit": "none"
-    },
-    {
-     "box": [
-      903,
-      889,
-      935,
-      922
-     ],
-     "answer": "65",
-     "fit": "none"
-    },
-    {
-     "box": [
-      439,
-      1333,
-      471,
-      1366
-     ],
-     "answer": "85",
-     "fit": "none"
-    },
-    {
-     "box": [
-      523,
-      1333,
-      555,
-      1366
-     ],
-     "answer": "84",
-     "fit": "none"
-    },
-    {
-     "box": [
-      569,
-      1333,
-      601,
-      1366
-     ],
-     "answer": "83",
-     "fit": "none"
-    },
-    {
-     "box": [
-      615,
-      1333,
-      647,
-      1366
-     ],
-     "answer": "82",
-     "fit": "none"
-    },
-    {
-     "box": [
-      650,
-      1333,
-      682,
-      1366
-     ],
-     "answer": "81",
-     "fit": "none"
-    },
-    {
-     "box": [
-      687,
-      1333,
-      719,
-      1366
-     ],
-     "answer": "71",
-     "fit": "none"
-    },
-    {
-     "box": [
-      724,
-      1333,
-      756,
-      1366
-     ],
-     "answer": "72",
-     "fit": "none"
-    },
-    {
-     "box": [
-      764,
-      1333,
-      796,
-      1366
-     ],
-     "answer": "73",
-     "fit": "none"
-    },
-    {
-     "box": [
-      823,
-      1333,
-      855,
-      1366
-     ],
-     "answer": "74",
-     "fit": "none"
-    },
-    {
-     "box": [
-      907,
-      1333,
-      939,
-      1366
-     ],
-     "answer": "75",
-     "fit": "none"
-    }
-   ]
   }
  ],
  "cloze": [
@@ -1537,34 +437,11 @@
    "text": "Both the curve of Spee and the curve of Wilson are anatomic curvatures forming a line similar to an {{c1::upward smile line}}."
   },
   {
-   "id": "anat-p243-002",
-   "deck": "Dental Anatomy",
-   "section": "Curve of Spee",
-   "page": 243,
-   "text": "The {{c1::curve of Spee}} is the {{c2::anteroposterior}} curvature of the occlusal surfaces, seen from the {{c3::buccal}} aspect.",
-   "extra": "WakeUpMemory: Spee → S like Side → Side view is Spee."
-  },
-  {
-   "id": "anat-p243-003",
-   "deck": "Dental Anatomy",
-   "section": "Curve of Wilson",
-   "page": 243,
-   "text": "The {{c1::curve of Wilson}} is the {{c2::mesiolateral}} curve, seen from the {{c3::frontal}} view, that contacts the buccal and lingual {{c4::cusp tips}} of the arch.",
-   "extra": "WakeUpMemory: ForWard → Frontal view is Wilson."
-  },
-  {
    "id": "anat-p243-004",
    "deck": "Dental Anatomy",
    "section": "Curve of Wilson",
    "page": 243,
    "text": "The curve of Wilson forms an upward arch because the {{c1::buccal}} cusps are higher than the {{c2::lingual}} cusps on the mandibular teeth."
-  },
-  {
-   "id": "anat-p243-005",
-   "deck": "Dental Anatomy",
-   "section": "Overjet",
-   "page": 243,
-   "text": "{{c1::Overjet}}: the maxillary teeth project over the mandibular teeth in a {{c2::horizontal}} direction."
   },
   {
    "id": "anat-p243-006",
@@ -1574,13 +451,6 @@
    "text": "Overjet distance is measured with the probe held {{c1::horizontally}}."
   },
   {
-   "id": "anat-p243-007",
-   "deck": "Dental Anatomy",
-   "section": "Overbite",
-   "page": 243,
-   "text": "{{c1::Overbite}}: the maxillary teeth overlap the anterior mandibular teeth in a {{c2::vertical}} direction."
-  },
-  {
    "id": "anat-p243-008",
    "deck": "Dental Anatomy",
    "section": "Overbite",
@@ -1588,39 +458,11 @@
    "text": "Overbite is measured with the probe held {{c1::vertically}}."
   },
   {
-   "id": "anat-p243-009",
-   "deck": "Dental Anatomy",
-   "section": "Overbite",
-   "page": 243,
-   "text": "{{c1::Edge-to-edge}} relationship (anterior teeth): {{c2::no overjet or overbite}} — the anterior teeth meet in a straight line."
-  },
-  {
-   "id": "anat-p243-010",
-   "deck": "Dental Anatomy",
-   "section": "Overbite",
-   "page": 243,
-   "text": "{{c1::End-to-end}} relationship (posterior teeth): no overbite — the posterior teeth are {{c2::stacked on top of one another}}."
-  },
-  {
-   "id": "anat-p243-011",
-   "deck": "Dental Anatomy",
-   "section": "Open bite and crossbite",
-   "page": 243,
-   "text": "{{c1::Open bite}}: {{c2::no vertical overlap}} of the lower incisors by the upper incisors (can also occur in posterior teeth)."
-  },
-  {
    "id": "anat-p243-012",
    "deck": "Dental Anatomy",
    "section": "Open bite and crossbite",
    "page": 243,
    "text": "Open bite is often associated with {{c1::tongue thrust}}."
-  },
-  {
-   "id": "anat-p243-013",
-   "deck": "Dental Anatomy",
-   "section": "Open bite and crossbite",
-   "page": 243,
-   "text": "{{c1::Crossbite}}: malocclusion in which a tooth (or teeth) has a more {{c2::buccal or lingual}} position than its corresponding antagonist tooth in the opposite arch."
   },
   {
    "id": "anat-p243-014",
@@ -1688,81 +530,18 @@
    "extra": "Answer key: maxillary first molar is distal to its normal position (underbite/prognathism)."
   },
   {
-   "id": "anat-p244-004",
-   "deck": "Dental Anatomy",
-   "section": "Teeth positioning",
-   "page": 244,
-   "text": "{{c1::Linguoversion}}: tooth is tipped toward the {{c2::tongue}}."
-  },
-  {
-   "id": "anat-p244-005",
-   "deck": "Dental Anatomy",
-   "section": "Teeth positioning",
-   "page": 244,
-   "text": "{{c1::Buccoversion}}: tooth is tipped toward the {{c2::cheek}} (term used for {{c3::posterior}} teeth)."
-  },
-  {
-   "id": "anat-p244-006",
-   "deck": "Dental Anatomy",
-   "section": "Teeth positioning",
-   "page": 244,
-   "text": "{{c1::Labioversion}}: tooth is tipped toward the {{c2::lip}} (term used for {{c3::anterior}} teeth)."
-  },
-  {
-   "id": "anat-p244-007",
-   "deck": "Dental Anatomy",
-   "section": "Teeth positioning",
-   "page": 244,
-   "text": "{{c1::Torsiversion}}: tooth is {{c2::rotated or twisted on its axis}}."
-  },
-  {
-   "id": "anat-p244-008",
-   "deck": "Dental Anatomy",
-   "section": "Teeth positioning",
-   "page": 244,
-   "text": "{{c1::Supraversion}}: tooth is {{c2::overerupted}}, extending above the occlusal plane."
-  },
-  {
-   "id": "anat-p244-009",
-   "deck": "Dental Anatomy",
-   "section": "Teeth positioning",
-   "page": 244,
-   "text": "{{c1::Infraversion}}: tooth is {{c2::undererupted or submerged}} below the occlusal plane."
-  },
-  {
-   "id": "anat-p244-010",
-   "deck": "Dental Anatomy",
-   "section": "Teeth positioning",
-   "page": 244,
-   "text": "{{c1::Transversion}} (transposition): tooth has erupted into the {{c2::wrong position}}, often swapped with another tooth."
-  },
-  {
-   "id": "anat-p244-011",
-   "deck": "Dental Anatomy",
-   "section": "Primary (deciduous) dentition",
-   "page": 244,
-   "text": "The primary dentition has {{c1::20}} teeth: {{c2::8}} incisors, {{c3::4}} canines, and {{c4::8}} molars."
-  },
-  {
    "id": "anat-p244-012",
    "deck": "Dental Anatomy",
    "section": "Primary (deciduous) dentition",
    "page": 244,
-   "text": "The primary dentition begins with eruption of the primary {{c1::mandibular central incisor}} at around {{c2::6–10 months}}."
+   "text": "The primary dentition begins with eruption of the primary {{c1::mandibular central incisor}} (about 6–10 months)."
   },
   {
    "id": "anat-p244-013",
    "deck": "Dental Anatomy",
    "section": "Primary (deciduous) dentition",
    "page": 244,
-   "text": "The primary dentition is completed with eruption of the primary {{c1::maxillary second molar}} at {{c2::25–33 months}} (about 2–3 years old)."
-  },
-  {
-   "id": "anat-p244-014",
-   "deck": "Dental Anatomy",
-   "section": "Primary (deciduous) dentition",
-   "page": 244,
-   "text": "The primary dentition lasts from {{c1::6 months to 6 years}}, ending when the {{c2::first permanent tooth}} erupts."
+   "text": "The primary dentition is completed with eruption of the primary {{c1::maxillary second molar}} (25–33 months, about 2–3 years old)."
   },
   {
    "id": "anat-p244-015",
@@ -1822,13 +601,6 @@
    "text": "Primary teeth may have {{c1::spacing}} between them, which makes oral care easier to perform."
   },
   {
-   "id": "anat-p244-023",
-   "deck": "Dental Anatomy",
-   "section": "Mixed dentition",
-   "page": 244,
-   "text": "Mixed dentition generally lasts from {{c1::6 to 12}} years of age."
-  },
-  {
    "id": "anat-p244-024",
    "deck": "Dental Anatomy",
    "section": "Mixed dentition",
@@ -1864,26 +636,11 @@
    "text": "If primary teeth are lost before the permanent teeth are ready to replace them, posterior teeth may {{c1::drift forward}} and occupy the space meant for permanent teeth."
   },
   {
-   "id": "anat-p245-003",
-   "deck": "Dental Anatomy",
-   "section": "Permanent (adult) dentition",
-   "page": 245,
-   "text": "The permanent dentition has {{c1::32}} teeth: 8 incisors, 4 canines, {{c2::8}} premolars, and {{c3::12}} molars."
-  },
-  {
    "id": "anat-p245-004",
    "deck": "Dental Anatomy",
    "section": "Permanent (adult) dentition",
    "page": 245,
    "text": "The permanent dentition begins with the {{c1::shedding of the last primary tooth}}."
-  },
-  {
-   "id": "anat-p245-005",
-   "deck": "Dental Anatomy",
-   "section": "Permanent (adult) dentition",
-   "page": 245,
-   "text": "{{c1::Succedaneous}} teeth have primary predecessors; in the permanent dentition these are the {{c2::anterior and premolar}} teeth.",
-   "extra": "WakeUpMemory: replace \"succedaneous\" with \"following\" — a nonsuccedaneous tooth does not follow any primary tooth."
   },
   {
    "id": "anat-p245-006",
@@ -1912,7 +669,7 @@
    "deck": "Dental Anatomy",
    "section": "Permanent (adult) dentition",
    "page": 245,
-   "text": "The permanent dentition is completed with eruption of the {{c1::third molars}} at {{c2::17 to 21}} years."
+   "text": "The permanent dentition is completed with eruption of the {{c1::third molars}} (17–21 years)."
   },
   {
    "id": "anat-p245-010",
@@ -1920,125 +677,6 @@
    "section": "Permanent (adult) dentition",
    "page": 245,
    "text": "Permanent teeth are {{c1::larger}} and {{c2::yellower}} than primary teeth."
-  },
-  {
-   "id": "anat-p245-011",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent maxillary central incisor: erupts at {{c1::7–8 years}}; eruption sequence #{{c2::3}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-012",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent maxillary lateral incisor: erupts at {{c1::8–9 years}}; eruption sequence #{{c2::5}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-013",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent maxillary canine: erupts at {{c1::11–12 years}}; eruption sequence #{{c2::10}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-014",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent maxillary first premolar: erupts at {{c1::10–11 years}}; eruption sequence #{{c2::7}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-015",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent maxillary second premolar: erupts at {{c1::10–12 years}}; eruption sequence #{{c2::8}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-016",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent maxillary first molar: erupts at {{c1::6–7 years}}; eruption sequence #{{c2::1}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-017",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent maxillary second molar: erupts at {{c1::12–13 years}}; eruption sequence #{{c2::13}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-018",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent mandibular central incisor: erupts at {{c1::6–7 years}}; eruption sequence #{{c2::2}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-019",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent mandibular lateral incisor: erupts at {{c1::7–8 years}}; eruption sequence #{{c2::4}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-020",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent mandibular canine: erupts at {{c1::9–10 years}}; eruption sequence #{{c2::6}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-021",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent mandibular first premolar: erupts at {{c1::10–12 years}}; eruption sequence #{{c2::9}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-022",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent mandibular second premolar: erupts at {{c1::11–12 years}}; eruption sequence #{{c2::11}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-023",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent mandibular first molar: erupts at {{c1::6–7 years}}; eruption sequence #{{c2::1}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-024",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent mandibular second molar: erupts at {{c1::11–13 years}}; eruption sequence #{{c2::12}}.",
-   "extra": "Sequence = order of eruption among all permanent teeth, both arches (first molars tie at #1)."
-  },
-  {
-   "id": "anat-p245-025",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Permanent maxillary and mandibular third molars erupt at {{c1::17–21 years}}."
   },
   {
    "id": "anat-p245-026",
@@ -2055,14 +693,6 @@
    "page": 245,
    "text": "Permanent mandibular eruption order: first molar → central incisor → lateral incisor → {{c1::canine → first premolar → second premolar}} → second molar → third molar.",
    "extra": "Read off the book's eruption table (sequence numbers)."
-  },
-  {
-   "id": "anat-p245-028",
-   "deck": "Dental Anatomy",
-   "section": "Permanent eruption pattern",
-   "page": 245,
-   "text": "Roots of the permanent teeth generally take about {{c1::2–3 years}} after eruption to complete growing — a clue for estimating a child's age on a radiograph.",
-   "extra": "Did you know: e.g. permanent mandibular first molar erupted with roots about complete → 6 years + 3 years = about 9 years old."
   },
   {
    "id": "anat-p245-029",
@@ -2086,106 +716,12 @@
    "text": "The {{c1::maxillary canine}} is the longest tooth in the dentition and requires more time to form."
   },
   {
-   "id": "anat-p245-032",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary maxillary central incisor: erupts at {{c1::8–12 months}} (sequence #{{c2::2}}); shed at {{c3::6–7 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
-   "id": "anat-p245-033",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary maxillary lateral incisor: erupts at {{c1::9–13 months}} (sequence #{{c2::3}}); shed at {{c3::7–8 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
-   "id": "anat-p245-034",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary maxillary canine: erupts at {{c1::16–22 months}} (sequence #{{c2::7}}); shed at {{c3::10–12 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
-   "id": "anat-p245-035",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary maxillary first molar: erupts at {{c1::13–19 months}} (sequence #{{c2::5}}); shed at {{c3::9–11 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
-   "id": "anat-p245-036",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary maxillary second molar: erupts at {{c1::25–33 months}} (sequence #{{c2::10}}); shed at {{c3::10–12 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
-   "id": "anat-p245-037",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary mandibular central incisor: erupts at {{c1::6–10 months}} (sequence #{{c2::1}}); shed at {{c3::6–7 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
-   "id": "anat-p245-038",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary mandibular lateral incisor: erupts at {{c1::10–16 months}} (sequence #{{c2::4}}); shed at {{c3::7–8 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
-   "id": "anat-p245-039",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary mandibular canine: erupts at {{c1::17–23 months}} (sequence #{{c2::8}}); shed at {{c3::9–12 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
-   "id": "anat-p245-040",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary mandibular first molar: erupts at {{c1::14–18 months}} (sequence #{{c2::6}}); shed at {{c3::9–11 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
-   "id": "anat-p245-041",
-   "deck": "Dental Anatomy",
-   "section": "Primary eruption pattern",
-   "page": 245,
-   "text": "Primary mandibular second molar: erupts at {{c1::23–31 months}} (sequence #{{c2::9}}); shed at {{c3::10–12 years}}.",
-   "extra": "Sequence = order of eruption among all primary teeth, both arches."
-  },
-  {
    "id": "anat-p245-042",
    "deck": "Dental Anatomy",
    "section": "Primary eruption pattern",
    "page": 245,
    "text": "Primary eruption order by tooth type: central incisor → lateral incisor → {{c1::first molar}} → {{c2::canine}} → second molar.",
    "extra": "From the book's primary-dentition sketch (numbered 1–5)."
-  },
-  {
-   "id": "anat-p246-001",
-   "deck": "Dental Anatomy",
-   "section": "Stain origin and location",
-   "page": 246,
-   "text": "{{c1::Endogenous}} stain occurs during tooth development."
-  },
-  {
-   "id": "anat-p246-002",
-   "deck": "Dental Anatomy",
-   "section": "Stain origin and location",
-   "page": 246,
-   "text": "{{c1::Exogenous}} stain occurs after tooth eruption."
   },
   {
    "id": "anat-p246-003",
@@ -2207,13 +743,6 @@
    "section": "Stain origin and location",
    "page": 246,
    "text": "Over time, extrinsic stain can become {{c1::intrinsic}}."
-  },
-  {
-   "id": "anat-p246-006",
-   "deck": "Dental Anatomy",
-   "section": "Endogenous intrinsic stain",
-   "page": 246,
-   "text": "{{c1::Fluorosis}} is caused by excessive {{c2::fluoride}} consumption."
   },
   {
    "id": "anat-p246-007",
@@ -2238,25 +767,11 @@
    "text": "Tetracycline-stained teeth can be {{c1::yellow/brown}} and {{c2::fluoresce}} under {{c3::ultraviolet}} light (fluorescence ceases with age)."
   },
   {
-   "id": "anat-p246-010",
-   "deck": "Dental Anatomy",
-   "section": "Endogenous intrinsic stain",
-   "page": 246,
-   "text": "{{c1::Minocycline}} (a tetracycline derivative) can create a {{c2::bluish-gray}} stain."
-  },
-  {
    "id": "anat-p246-011",
    "deck": "Dental Anatomy",
    "section": "Endogenous intrinsic stain",
    "page": 246,
    "text": "{{c1::Pulp necrosis}} creates {{c2::dark}} teeth."
-  },
-  {
-   "id": "anat-p246-012",
-   "deck": "Dental Anatomy",
-   "section": "Endogenous intrinsic stain",
-   "page": 246,
-   "text": "{{c1::Pulpitis}} creates {{c2::pink}} discoloration, caused by inflammation and internal bleeding in the pulp chamber."
   },
   {
    "id": "anat-p246-013",
@@ -2308,13 +823,6 @@
    "text": "{{c1::Nasmyth's membrane}} is thin tissue on newly erupted teeth, which will brush off."
   },
   {
-   "id": "anat-p246-020",
-   "deck": "Dental Anatomy",
-   "section": "Exogenous extrinsic stain",
-   "page": 246,
-   "text": "{{c1::Black line}} stain is caused by {{c2::iron compounds}} embedded in dental biofilm and is found in {{c3::clean}} mouths."
-  },
-  {
    "id": "anat-p246-021",
    "deck": "Dental Anatomy",
    "section": "Exogenous extrinsic stain",
@@ -2322,32 +830,11 @@
    "text": "{{c1::Brown to black}} extrinsic stain is caused by {{c2::tobacco}} use (smoking or chewing)."
   },
   {
-   "id": "anat-p246-022",
-   "deck": "Dental Anatomy",
-   "section": "Exogenous extrinsic stain",
-   "page": 246,
-   "text": "{{c1::Orange}} extrinsic stain is associated with {{c2::chromogenic bacteria}}."
-  },
-  {
    "id": "anat-p246-023",
    "deck": "Dental Anatomy",
    "section": "Exogenous extrinsic stain",
    "page": 246,
    "text": "{{c1::Tan to dark brown}} extrinsic stain is caused by {{c2::food}} such as red wine, tea, or coffee."
-  },
-  {
-   "id": "anat-p246-024",
-   "deck": "Dental Anatomy",
-   "section": "Exogenous extrinsic stain",
-   "page": 246,
-   "text": "{{c1::Yellow, brown, or gray}} extrinsic stain is caused by {{c2::chlorhexidine}}."
-  },
-  {
-   "id": "anat-p246-025",
-   "deck": "Dental Anatomy",
-   "section": "Exogenous extrinsic stain",
-   "page": 246,
-   "text": "{{c1::Gray-green}} extrinsic stain is caused by {{c2::marijuana}}."
   },
   {
    "id": "anat-p247-001",
@@ -2362,13 +849,6 @@
    "section": "Universal system",
    "page": 247,
    "text": "Universal numbering starts at the {{c1::maxillary right third molar}}, moves {{c2::clockwise}}, and ends with the {{c3::mandibular right third molar}}."
-  },
-  {
-   "id": "anat-p247-003",
-   "deck": "Dental Anatomy",
-   "section": "Universal system",
-   "page": 247,
-   "text": "In the Universal system, the mandibular right central incisor is #{{c1::25}}."
   },
   {
    "id": "anat-p247-004",
@@ -2406,13 +886,6 @@
    "text": "In ISO/FDI, the second digit indicates the tooth in the quadrant (1–{{c1::8}} for permanent, 1–{{c2::5}} for primary); number 1 is closest to the {{c3::midline}}."
   },
   {
-   "id": "anat-p247-009",
-   "deck": "Dental Anatomy",
-   "section": "ISO/FDI system",
-   "page": 247,
-   "text": "ISO #17 (1.7) = Universal #{{c1::2}}; ISO #61 (6.1) = Universal #{{c2::F}}."
-  },
-  {
    "id": "anat-p247-010",
    "deck": "Dental Anatomy",
    "section": "Palmer system",
@@ -2440,6 +913,1140 @@
    "section": "Palmer system",
    "page": 247,
    "text": "The Palmer system can produce an immediate {{c1::graphical map}} of the dentition."
+  },
+  {
+   "id": "anat-p244-c-03",
+   "deck": "Dental Anatomy",
+   "section": "Primary (deciduous) dentition",
+   "page": 244,
+   "text": "The primary dentition period lasts from {{c1::6 months}} to {{c1::6 years}}.",
+   "extra": "Ends when the first permanent tooth erupts."
+  }
+ ],
+ "basic": [
+  {
+   "id": "anat-p243-b-01",
+   "deck": "Dental Anatomy",
+   "section": "Curve of Spee",
+   "page": 243,
+   "front": "Curve of Spee",
+   "back": "Anteroposterior curvature of the occlusal surfaces, seen from the buccal (side) view",
+   "reverse": true,
+   "extra": "WakeUpMemory: Spee → S like Side → Side view is Spee."
+  },
+  {
+   "id": "anat-p243-b-02",
+   "deck": "Dental Anatomy",
+   "section": "Curve of Wilson",
+   "page": 243,
+   "front": "Curve of Wilson",
+   "back": "Mesiolateral curve, seen from the frontal view, contacting the buccal and lingual cusp tips of the arch",
+   "reverse": true,
+   "extra": "WakeUpMemory: ForWard → Frontal view is Wilson."
+  },
+  {
+   "id": "anat-p243-b-03",
+   "deck": "Dental Anatomy",
+   "section": "Overjet",
+   "page": 243,
+   "front": "Overjet",
+   "back": "Maxillary teeth project over the mandibular teeth in a HORIZONTAL direction",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p243-b-04",
+   "deck": "Dental Anatomy",
+   "section": "Overbite",
+   "page": 243,
+   "front": "Overbite",
+   "back": "Maxillary teeth overlap the anterior mandibular teeth in a VERTICAL direction",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p243-b-05",
+   "deck": "Dental Anatomy",
+   "section": "Overbite",
+   "page": 243,
+   "front": "Edge-to-edge relationship",
+   "back": "Anterior teeth meet in a straight line — no overjet and no overbite",
+   "reverse": true,
+   "extra": "Anterior teeth. Compare end-to-end (posterior teeth)."
+  },
+  {
+   "id": "anat-p243-b-06",
+   "deck": "Dental Anatomy",
+   "section": "Overbite",
+   "page": 243,
+   "front": "End-to-end relationship",
+   "back": "Posterior teeth stacked on top of one another — no overbite",
+   "reverse": true,
+   "extra": "Posterior teeth. Compare edge-to-edge (anterior teeth)."
+  },
+  {
+   "id": "anat-p243-b-07",
+   "deck": "Dental Anatomy",
+   "section": "Open bite and crossbite",
+   "page": 243,
+   "front": "Open bite",
+   "back": "No vertical overlap of the lower incisors by the upper incisors (can also occur in posterior teeth)",
+   "reverse": true,
+   "extra": "Often associated with tongue thrust."
+  },
+  {
+   "id": "anat-p243-b-08",
+   "deck": "Dental Anatomy",
+   "section": "Open bite and crossbite",
+   "page": 243,
+   "front": "Crossbite",
+   "back": "A tooth (or teeth) sits more buccal or lingual than its antagonist in the opposite arch",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p244-b-01",
+   "deck": "Dental Anatomy",
+   "section": "Teeth positioning",
+   "page": 244,
+   "front": "Linguoversion",
+   "back": "Tooth tipped toward the tongue",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p244-b-02",
+   "deck": "Dental Anatomy",
+   "section": "Teeth positioning",
+   "page": 244,
+   "front": "Buccoversion",
+   "back": "Tooth (posterior) tipped toward the cheek",
+   "reverse": true,
+   "extra": "Term used for posterior teeth; labioversion for anteriors."
+  },
+  {
+   "id": "anat-p244-b-03",
+   "deck": "Dental Anatomy",
+   "section": "Teeth positioning",
+   "page": 244,
+   "front": "Labioversion",
+   "back": "Tooth (anterior) tipped toward the lip",
+   "reverse": true,
+   "extra": "Term used for anterior teeth; buccoversion for posteriors."
+  },
+  {
+   "id": "anat-p244-b-04",
+   "deck": "Dental Anatomy",
+   "section": "Teeth positioning",
+   "page": 244,
+   "front": "Torsiversion",
+   "back": "Tooth rotated or twisted on its long axis",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p244-b-05",
+   "deck": "Dental Anatomy",
+   "section": "Teeth positioning",
+   "page": 244,
+   "front": "Supraversion",
+   "back": "Tooth overerupted, extending above the occlusal plane",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p244-b-06",
+   "deck": "Dental Anatomy",
+   "section": "Teeth positioning",
+   "page": 244,
+   "front": "Infraversion",
+   "back": "Tooth undererupted or submerged below the occlusal plane",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p244-b-07",
+   "deck": "Dental Anatomy",
+   "section": "Teeth positioning",
+   "page": 244,
+   "front": "Transversion",
+   "back": "Tooth erupted into the wrong position, often swapped with another tooth",
+   "reverse": true,
+   "extra": "Also called transposition."
+  },
+  {
+   "id": "anat-p245-b-01",
+   "deck": "Dental Anatomy",
+   "section": "Permanent (adult) dentition",
+   "page": 245,
+   "front": "Succedaneous teeth",
+   "back": "Permanent teeth that have primary predecessors (the anteriors and premolars)",
+   "reverse": true,
+   "extra": "WakeUpMemory: replace \"succedaneous\" with \"following\" — a nonsuccedaneous tooth does not follow any primary tooth."
+  },
+  {
+   "id": "anat-p246-b-01",
+   "deck": "Dental Anatomy",
+   "section": "Stain origin and location",
+   "page": 246,
+   "front": "Endogenous stain",
+   "back": "Stain that occurs during tooth development",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p246-b-02",
+   "deck": "Dental Anatomy",
+   "section": "Stain origin and location",
+   "page": 246,
+   "front": "Exogenous stain",
+   "back": "Stain that occurs after tooth eruption",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p246-b-03",
+   "deck": "Dental Anatomy",
+   "section": "Endogenous intrinsic stain",
+   "page": 246,
+   "front": "Fluorosis (cause)",
+   "back": "Excessive fluoride consumption",
+   "reverse": true,
+   "extra": "Endogenous intrinsic stain."
+  },
+  {
+   "id": "anat-p246-b-04",
+   "deck": "Dental Anatomy",
+   "section": "Endogenous intrinsic stain",
+   "page": 246,
+   "front": "Minocycline stain (color)",
+   "back": "Bluish-gray",
+   "reverse": true,
+   "extra": "Minocycline is a tetracycline derivative."
+  },
+  {
+   "id": "anat-p246-b-05",
+   "deck": "Dental Anatomy",
+   "section": "Endogenous intrinsic stain",
+   "page": 246,
+   "front": "Pulpitis (stain color)",
+   "back": "Pink discoloration — from inflammation and internal bleeding in the pulp chamber",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p246-b-06",
+   "deck": "Dental Anatomy",
+   "section": "Exogenous extrinsic stain",
+   "page": 246,
+   "front": "Black line stain (cause)",
+   "back": "Iron compounds embedded in dental biofilm — found in clean mouths",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p246-b-07",
+   "deck": "Dental Anatomy",
+   "section": "Exogenous extrinsic stain",
+   "page": 246,
+   "front": "Orange extrinsic stain (cause)",
+   "back": "Chromogenic bacteria",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p246-b-08",
+   "deck": "Dental Anatomy",
+   "section": "Exogenous extrinsic stain",
+   "page": 246,
+   "front": "Chlorhexidine causes what color of extrinsic stain?",
+   "back": "Yellow, brown, or gray",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p246-b-09",
+   "deck": "Dental Anatomy",
+   "section": "Exogenous extrinsic stain",
+   "page": 246,
+   "front": "Gray-green extrinsic stain (cause)",
+   "back": "Marijuana",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "anat-p244-t-01",
+   "deck": "Dental Anatomy",
+   "section": "Primary (deciduous) dentition",
+   "page": 244,
+   "question": "How many teeth are in the primary dentition?",
+   "answer": "20",
+   "extra": "8 incisors, 4 canines, 8 molars (no premolars)."
+  },
+  {
+   "id": "anat-p244-t-02",
+   "deck": "Dental Anatomy",
+   "section": "Primary (deciduous) dentition",
+   "page": 244,
+   "question": "How many molars are in the primary dentition?",
+   "answer": "8",
+   "extra": "Plus 8 incisors and 4 canines = 20."
+  },
+  {
+   "id": "anat-p244-t-04",
+   "deck": "Dental Anatomy",
+   "section": "Mixed dentition",
+   "page": 244,
+   "question": "Mixed dentition generally lasts from what age to what age? (years, e.g. 1-2)",
+   "answer": "6-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-01",
+   "deck": "Dental Anatomy",
+   "section": "Permanent (adult) dentition",
+   "page": 245,
+   "question": "How many teeth are in the permanent dentition?",
+   "answer": "32",
+   "extra": "8 incisors, 4 canines, 8 premolars, 12 molars."
+  },
+  {
+   "id": "anat-p245-t-02",
+   "deck": "Dental Anatomy",
+   "section": "Permanent (adult) dentition",
+   "page": 245,
+   "question": "How many premolars are in the permanent dentition?",
+   "answer": "8",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-03",
+   "deck": "Dental Anatomy",
+   "section": "Permanent (adult) dentition",
+   "page": 245,
+   "question": "How many molars are in the permanent dentition?",
+   "answer": "12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-04",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent maxillary central incisor? (years, e.g. 6-7)",
+   "answer": "7-8",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-05",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent maxillary lateral incisor? (years, e.g. 6-7)",
+   "answer": "8-9",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-06",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent maxillary canine? (years, e.g. 6-7)",
+   "answer": "11-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-07",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent maxillary first premolar? (years, e.g. 6-7)",
+   "answer": "10-11",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-08",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent maxillary second premolar? (years, e.g. 6-7)",
+   "answer": "10-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-09",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent maxillary first molar? (years, e.g. 6-7)",
+   "answer": "6-7",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-10",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent maxillary second molar? (years, e.g. 6-7)",
+   "answer": "12-13",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-11",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent mandibular central incisor? (years, e.g. 6-7)",
+   "answer": "6-7",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-12",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent mandibular lateral incisor? (years, e.g. 6-7)",
+   "answer": "7-8",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-13",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent mandibular canine? (years, e.g. 6-7)",
+   "answer": "9-10",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-14",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent mandibular first premolar? (years, e.g. 6-7)",
+   "answer": "10-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-15",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent mandibular second premolar? (years, e.g. 6-7)",
+   "answer": "11-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-16",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent mandibular first molar? (years, e.g. 6-7)",
+   "answer": "6-7",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-17",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent mandibular second molar? (years, e.g. 6-7)",
+   "answer": "11-13",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-18",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the permanent third molars (both arches)? (years, e.g. 6-7)",
+   "answer": "17-21",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-19",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "About how many years after eruption do permanent roots finish growing? (e.g. 1-2)",
+   "answer": "2-3",
+   "extra": "Clue for estimating age on a radiograph: mandibular first molar erupted (6 yr) with roots about complete → about 9 years old."
+  },
+  {
+   "id": "anat-p245-t-20",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary maxillary central incisor? (months, e.g. 6-10)",
+   "answer": "8-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-21",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary maxillary central incisor is shed? (years, e.g. 6-7)",
+   "answer": "6-7",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-22",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary maxillary lateral incisor? (months, e.g. 6-10)",
+   "answer": "9-13",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-23",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary maxillary lateral incisor is shed? (years, e.g. 6-7)",
+   "answer": "7-8",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-24",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary maxillary canine? (months, e.g. 6-10)",
+   "answer": "16-22",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-25",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary maxillary canine is shed? (years, e.g. 6-7)",
+   "answer": "10-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-26",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary maxillary first molar? (months, e.g. 6-10)",
+   "answer": "13-19",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-27",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary maxillary first molar is shed? (years, e.g. 6-7)",
+   "answer": "9-11",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-28",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary maxillary second molar? (months, e.g. 6-10)",
+   "answer": "25-33",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-29",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary maxillary second molar is shed? (years, e.g. 6-7)",
+   "answer": "10-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-30",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary mandibular central incisor? (months, e.g. 6-10)",
+   "answer": "6-10",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-31",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary mandibular central incisor is shed? (years, e.g. 6-7)",
+   "answer": "6-7",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-32",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary mandibular lateral incisor? (months, e.g. 6-10)",
+   "answer": "10-16",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-33",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary mandibular lateral incisor is shed? (years, e.g. 6-7)",
+   "answer": "7-8",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-34",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary mandibular canine? (months, e.g. 6-10)",
+   "answer": "17-23",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-35",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary mandibular canine is shed? (years, e.g. 6-7)",
+   "answer": "9-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-36",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary mandibular first molar? (months, e.g. 6-10)",
+   "answer": "14-18",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-37",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary mandibular first molar is shed? (years, e.g. 6-7)",
+   "answer": "9-11",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-38",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Eruption age of the primary mandibular second molar? (months, e.g. 6-10)",
+   "answer": "23-31",
+   "extra": ""
+  },
+  {
+   "id": "anat-p245-t-39",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "question": "Age at which the primary mandibular second molar is shed? (years, e.g. 6-7)",
+   "answer": "10-12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-01",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the mandibular left first molar?",
+   "answer": "19",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-02",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the maxillary right first molar?",
+   "answer": "3",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-03",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the maxillary left central incisor?",
+   "answer": "9",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-04",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the mandibular right canine?",
+   "answer": "27",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-05",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the maxillary left canine?",
+   "answer": "11",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-06",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the maxillary right second premolar?",
+   "answer": "4",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-07",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the mandibular left second premolar?",
+   "answer": "20",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-08",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the maxillary left third molar?",
+   "answer": "16",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-09",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the mandibular left third molar?",
+   "answer": "17",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-10",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number of the mandibular right central incisor?",
+   "answer": "25",
+   "extra": "The book's example."
+  },
+  {
+   "id": "anat-p247-t-11",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "ISO/FDI number for Universal #8 (maxillary right central incisor)?",
+   "answer": "11",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-12",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "ISO/FDI number of the permanent maxillary left first premolar?",
+   "answer": "24",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-13",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "ISO/FDI number of the permanent mandibular right second molar?",
+   "answer": "47",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-14",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "ISO/FDI number for Universal #22 (mandibular left canine)?",
+   "answer": "33",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-15",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number for ISO/FDI #17 (1.7)?",
+   "answer": "2",
+   "extra": "The book's example: maxillary right second molar."
+  },
+  {
+   "id": "anat-p247-t-16",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal number for ISO/FDI #45?",
+   "answer": "29",
+   "extra": "Mandibular right second premolar."
+  },
+  {
+   "id": "anat-p247-t-17",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal letter for ISO/FDI #61 (6.1)?",
+   "answer": "F",
+   "extra": "The book's example: primary maxillary left central incisor."
+  },
+  {
+   "id": "anat-p247-t-18",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal letter of the primary maxillary right second molar?",
+   "answer": "A",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-19",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal letter of the primary mandibular left second molar?",
+   "answer": "K",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-20",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal letter of the primary mandibular right canine?",
+   "answer": "R",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-21",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Universal letter of the primary maxillary right canine?",
+   "answer": "C",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-22",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "ISO/FDI number of the primary mandibular left first molar?",
+   "answer": "74",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-23",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "ISO/FDI number for Universal E (primary maxillary right central incisor)?",
+   "answer": "51",
+   "extra": ""
+  },
+  {
+   "id": "anat-p247-t-24",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "ISO/FDI number of the primary mandibular right second molar?",
+   "answer": "85",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "anat-p246-m-01",
+   "deck": "Dental Anatomy",
+   "section": "Exogenous extrinsic stain",
+   "page": 246,
+   "prompt": "Match each extrinsic stain color to its cause.",
+   "pairs": [
+    [
+     "Yellow",
+     "Heavy dental biofilm"
+    ],
+    [
+     "Green",
+     "Poor oral hygiene / Nasmyth's membrane"
+    ],
+    [
+     "Black line",
+     "Iron compounds in biofilm"
+    ],
+    [
+     "Orange",
+     "Chromogenic bacteria"
+    ],
+    [
+     "Brown to black",
+     "Tobacco"
+    ],
+    [
+     "Tan to dark brown",
+     "Food (red wine, tea, coffee)"
+    ],
+    [
+     "Gray-green",
+     "Marijuana"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p247-m-01",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "prompt": "Match each tooth designation system to its convention.",
+   "pairs": [
+    [
+     "Universal",
+     "1–32 and A–T, clockwise from the maxillary right third molar"
+    ],
+    [
+     "ISO/FDI",
+     "Two digits: quadrant (1–4 / 5–8) + tooth (1 at midline)"
+    ],
+    [
+     "Palmer",
+     "Right-angle quadrant symbol around 1–8 or A–E"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p247-m-02",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "prompt": "Match each Universal designation to its ISO/FDI number.",
+   "pairs": [
+    [
+     "Universal #3",
+     "16"
+    ],
+    [
+     "Universal #14",
+     "26"
+    ],
+    [
+     "Universal #19",
+     "36"
+    ],
+    [
+     "Universal #30",
+     "46"
+    ],
+    [
+     "Universal E (primary)",
+     "51"
+    ],
+    [
+     "Universal K (primary)",
+     "75"
+    ]
+   ],
+   "extra": "First molars sit in position 6 of every permanent quadrant; primary quadrants are 5–8."
+  }
+ ],
+ "order": [
+  {
+   "id": "anat-p245-o-01",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "prompt": "Put the PERMANENT MAXILLARY teeth in eruption order (first → last).",
+   "items": [
+    "First molar",
+    "Central incisor",
+    "Lateral incisor",
+    "First premolar",
+    "Second premolar",
+    "Canine",
+    "Second molar",
+    "Third molar"
+   ],
+   "extra": "Maxillary canine erupts AFTER the premolars."
+  },
+  {
+   "id": "anat-p245-o-02",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "prompt": "Put the PERMANENT MANDIBULAR teeth in eruption order (first → last).",
+   "items": [
+    "First molar",
+    "Central incisor",
+    "Lateral incisor",
+    "Canine",
+    "First premolar",
+    "Second premolar",
+    "Second molar",
+    "Third molar"
+   ],
+   "extra": "Mandibular canine erupts BEFORE the premolars (contrast maxillary)."
+  },
+  {
+   "id": "anat-p245-o-03",
+   "deck": "Dental Anatomy",
+   "section": "Primary eruption pattern",
+   "page": 245,
+   "prompt": "Put all 10 PRIMARY tooth types (both arches) in eruption order (first → last).",
+   "items": [
+    "Mandibular central incisor",
+    "Maxillary central incisor",
+    "Maxillary lateral incisor",
+    "Mandibular lateral incisor",
+    "Maxillary first molar",
+    "Mandibular first molar",
+    "Maxillary canine",
+    "Mandibular canine",
+    "Mandibular second molar",
+    "Maxillary second molar"
+   ],
+   "extra": "Book sequence #1–#10. Within each arch: central → lateral → first molar → canine → second molar."
+  }
+ ],
+ "sort": [
+  {
+   "id": "anat-p243-s-01",
+   "deck": "Dental Anatomy",
+   "section": "Occlusion (Angle classification)",
+   "page": 243,
+   "prompt": "Sort each feature into its Angle class.",
+   "categories": [
+    [
+     "Class I",
+     [
+      "Neutrocclusion",
+      "MB cusp of max 1st molar in buccal groove of mand 1st molar",
+      "Normal molar relation but crowding/crossbite (malocclusion)"
+     ]
+    ],
+    [
+     "Class II",
+     [
+      "MB cusp of max 1st molar mesial to the buccal groove",
+      "Division 1: upper incisors protruded",
+      "Division 2: upper incisors retruded"
+     ]
+    ],
+    [
+     "Class III",
+     [
+      "MB cusp of max 1st molar distal to the buccal groove",
+      "Underbite / mandibular prognathism"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p244-s-01",
+   "deck": "Dental Anatomy",
+   "section": "Primary (deciduous) dentition",
+   "page": 244,
+   "prompt": "Sort each feature: primary or permanent teeth?",
+   "categories": [
+    [
+     "Primary",
+     [
+      "Thinner enamel",
+      "Larger pulp chambers (less dentin)",
+      "Slimmer, more divergent roots",
+      "Whiter color",
+      "Shorter crowns, constricted cervix",
+      "Smoother cuspal anatomy"
+     ]
+    ],
+    [
+     "Permanent",
+     [
+      "Yellower color",
+      "Thicker enamel",
+      "Premolars present",
+      "Larger overall size"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p245-s-01",
+   "deck": "Dental Anatomy",
+   "section": "Permanent (adult) dentition",
+   "page": 245,
+   "prompt": "Sort the permanent teeth: succedaneous or nonsuccedaneous?",
+   "categories": [
+    [
+     "Succedaneous (has a primary predecessor)",
+     [
+      "Central incisor",
+      "Lateral incisor",
+      "Canine",
+      "First premolar",
+      "Second premolar"
+     ]
+    ],
+    [
+     "Nonsuccedaneous",
+     [
+      "First molar",
+      "Second molar",
+      "Third molar"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p246-s-01",
+   "deck": "Dental Anatomy",
+   "section": "Stain origin and location",
+   "page": 246,
+   "prompt": "Sort each stain by origin and location.",
+   "categories": [
+    [
+     "Endogenous intrinsic",
+     [
+      "Fluorosis",
+      "Tetracycline",
+      "Pulpitis",
+      "Enamel hypoplasia"
+     ]
+    ],
+    [
+     "Exogenous intrinsic",
+     [
+      "Amalgam",
+      "Arrested caries",
+      "Endodontic therapy"
+     ]
+    ],
+    [
+     "Exogenous extrinsic",
+     [
+      "Black line stain",
+      "Tobacco",
+      "Chlorhexidine",
+      "Chromogenic bacteria",
+      "Marijuana"
+     ]
+    ]
+   ]
   }
  ],
  "mcq": [
@@ -2562,6 +2169,201 @@
    ],
    "answer": "C. 8–9 years",
    "explanation": "Permanent central incisors usually erupt around 6–8 years, and lateral incisors around 7–9 years. Permanent canines and premolars typically erupt after age 9, around 10–12 years. So a child with the 4 permanent incisors erupted is most likely 8–9 years old."
+  },
+  {
+   "id": "anat-p243-mcq-01",
+   "deck": "Dental Anatomy",
+   "section": "Curve of Wilson",
+   "page": 243,
+   "question": "Viewed from the frontal aspect, the mandibular posterior teeth form an upward arch because their buccal cusps are higher than their lingual cusps. This curvature is the:",
+   "options": [
+    "A. Curve of Spee",
+    "B. Curve of Wilson",
+    "C. Overbite",
+    "D. Occlusal table"
+   ],
+   "answer": "B. Curve of Wilson",
+   "explanation": "The curve of Wilson is the mesiolateral curve seen from the FRONT (ForWard → Wilson). The curve of Spee is the anteroposterior curve seen from the side (Spee → Side)."
+  },
+  {
+   "id": "anat-p243-mcq-02",
+   "deck": "Dental Anatomy",
+   "section": "Overjet",
+   "page": 243,
+   "question": "With the probe held horizontally, a clinician measures from the labial surface of a mandibular incisor to the incisal edge of the maxillary incisor. What is being measured?",
+   "options": [
+    "A. Overbite",
+    "B. Open bite",
+    "C. Overjet",
+    "D. Curve of Spee"
+   ],
+   "answer": "C. Overjet",
+   "explanation": "Overjet is the horizontal projection of the maxillary teeth over the mandibular, so it is measured with the probe held horizontally. Overbite is the vertical overlap, measured with the probe vertical."
+  },
+  {
+   "id": "anat-p243-mcq-03",
+   "deck": "Dental Anatomy",
+   "section": "Open bite and crossbite",
+   "page": 243,
+   "question": "A 9-year-old with a persistent tongue thrust shows no vertical overlap of the mandibular incisors by the maxillary incisors when the posterior teeth are in occlusion. Which condition is most likely?",
+   "options": [
+    "A. Open bite",
+    "B. Anterior crossbite",
+    "C. Edge-to-edge relationship",
+    "D. Class II, Division 2"
+   ],
+   "answer": "A. Open bite",
+   "explanation": "Open bite = no vertical overlap of the lower incisors by the uppers, often associated with tongue thrust. Edge-to-edge also lacks overbite, but there the incisors meet in a straight line — they still contact."
+  },
+  {
+   "id": "anat-p244-mcq-01",
+   "deck": "Dental Anatomy",
+   "section": "Occlusion (Angle classification)",
+   "page": 244,
+   "question": "The mesiobuccal cusp of the maxillary first molar is mesial to the buccal groove of the mandibular first molar, and the maxillary central incisors are retruded. Which classification applies?",
+   "options": [
+    "A. Class I malocclusion",
+    "B. Class II, Division 1",
+    "C. Class II, Division 2",
+    "D. Class III"
+   ],
+   "answer": "C. Class II, Division 2",
+   "explanation": "MB cusp mesial to the buccal groove = Class II; retruded (in) upper incisors = Division 2. Division 1 has protruded (out) upper incisors."
+  },
+  {
+   "id": "anat-p243-mcq-04",
+   "deck": "Dental Anatomy",
+   "section": "Occlusion (Angle classification)",
+   "page": 243,
+   "question": "A patient has the mesiobuccal cusp of the maxillary first molar seated in the buccal groove of the mandibular first molar, but the mandibular anteriors are crowded. This is:",
+   "options": [
+    "A. Class I neutrocclusion",
+    "B. Class I malocclusion",
+    "C. Class II, Division 1",
+    "D. Class III"
+   ],
+   "answer": "B. Class I malocclusion",
+   "explanation": "A normal molar relationship with crowding, crossbite, etc. is Class I malocclusion. Neutrocclusion requires the same molar relationship PLUS normal overbite/overjet and no rotation or crowding."
+  },
+  {
+   "id": "anat-p244-mcq-02",
+   "deck": "Dental Anatomy",
+   "section": "Teeth positioning",
+   "page": 244,
+   "question": "A maxillary lateral incisor has erupted rotated on its long axis. This tooth position is called:",
+   "options": [
+    "A. Transversion",
+    "B. Labioversion",
+    "C. Torsiversion",
+    "D. Supraversion"
+   ],
+   "answer": "C. Torsiversion",
+   "explanation": "Torsiversion = rotated or twisted on its axis. Transversion is eruption into the wrong position (transposition), not a rotation in place."
+  },
+  {
+   "id": "anat-p245-mcq-01",
+   "deck": "Dental Anatomy",
+   "section": "Permanent (adult) dentition",
+   "page": 245,
+   "question": "All of the following permanent teeth are succedaneous EXCEPT the:",
+   "options": [
+    "A. Maxillary canine",
+    "B. Mandibular second premolar",
+    "C. Mandibular first molar",
+    "D. Maxillary lateral incisor"
+   ],
+   "answer": "C. Mandibular first molar",
+   "explanation": "Permanent molars are nonsuccedaneous — they have no primary predecessors. The premolars replace the primary molars, so they ARE succedaneous."
+  },
+  {
+   "id": "anat-p245-mcq-02",
+   "deck": "Dental Anatomy",
+   "section": "Permanent eruption pattern",
+   "page": 245,
+   "question": "On a radiograph, a child's permanent mandibular first molars are erupted with roots that appear just complete. What is the child's most likely age?",
+   "options": [
+    "A. 6 years",
+    "B. 7 years",
+    "C. 9 years",
+    "D. 12 years"
+   ],
+   "answer": "C. 9 years",
+   "explanation": "Mandibular first molars erupt at 6–7 years and roots take about 2–3 years more to complete: 6 + 3 ≈ 9 years. 6–7 years would be the age at eruption, with roots still incomplete."
+  },
+  {
+   "id": "anat-p246-mcq-01",
+   "deck": "Dental Anatomy",
+   "section": "Exogenous extrinsic stain",
+   "page": 246,
+   "question": "A patient with excellent oral hygiene has a thin, dark line of stain along the cervical third of the teeth that polishes off. What is the most likely cause?",
+   "options": [
+    "A. Chromogenic bacteria",
+    "B. Iron compounds embedded in dental biofilm",
+    "C. Tobacco use",
+    "D. Amalgam restorations"
+   ],
+   "answer": "B. Iron compounds embedded in dental biofilm",
+   "explanation": "Black line stain comes from iron compounds in biofilm and is found in clean mouths. Chromogenic bacteria cause orange stain; amalgam causes intrinsic stain that will not polish off."
+  },
+  {
+   "id": "anat-p246-mcq-02",
+   "deck": "Dental Anatomy",
+   "section": "Stain origin and location",
+   "page": 246,
+   "question": "Which stain will NOT be removed by scaling and polishing?",
+   "options": [
+    "A. Tobacco stain",
+    "B. Chlorhexidine stain",
+    "C. Orange stain from chromogenic bacteria",
+    "D. Gray-black stain from an amalgam restoration"
+   ],
+   "answer": "D. Gray-black stain from an amalgam restoration",
+   "explanation": "Amalgam stain is exogenous INTRINSIC (silver leaches into the tooth) — it cannot be removed by scaling/polishing. The other three are extrinsic surface stains that can."
+  },
+  {
+   "id": "anat-p246-mcq-03",
+   "deck": "Dental Anatomy",
+   "section": "Endogenous intrinsic stain",
+   "page": 246,
+   "question": "An adult who took minocycline for acne presents with discolored teeth. What appearance is most likely?",
+   "options": [
+    "A. Bluish-gray stain",
+    "B. Pink discoloration",
+    "C. Orange stain",
+    "D. Milky opalescence with pitting"
+   ],
+   "answer": "A. Bluish-gray stain",
+   "explanation": "Minocycline (a tetracycline derivative) creates a bluish-gray stain. Pink = pulpitis; milky opalescence/pitting = fluorosis."
+  },
+  {
+   "id": "anat-p247-mcq-01",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "A referral letter written in the ISO/FDI system mentions tooth 43. Which Universal number is this?",
+   "options": [
+    "A. 6",
+    "B. 22",
+    "C. 27",
+    "D. 30"
+   ],
+   "answer": "C. 27",
+   "explanation": "ISO 43 = quadrant 4 (mandibular right), tooth 3 (canine) = Universal #27. #22 is the mandibular LEFT canine (ISO 33)."
+  },
+  {
+   "id": "anat-p247-mcq-02",
+   "deck": "Dental Anatomy",
+   "section": "Tooth designation systems",
+   "page": 247,
+   "question": "Which tooth designation system uses a right-angle symbol to show the quadrant and is used especially in orthodontics?",
+   "options": [
+    "A. Universal",
+    "B. ISO/FDI",
+    "C. Palmer",
+    "D. Haderup"
+   ],
+   "answer": "C. Palmer",
+   "explanation": "Palmer uses a right-angle quadrant symbol with the tooth number inside and gives a graphical map of the dentition. ISO/FDI uses two digits (quadrant + tooth)."
   }
  ]
 }

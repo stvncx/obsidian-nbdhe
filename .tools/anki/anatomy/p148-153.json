@@ -543,41 +543,6 @@
    "text": "The parotid papilla is the opening of {{c1::Stensen's}} duct, from the {{c2::parotid}} gland."
   },
   {
-   "id": "anat-p148-003",
-   "deck": "Head and Neck",
-   "section": "Oral vestibule, gingiva, and surrounding structures",
-   "page": 148,
-   "text": "The {{c1::maxillary tuberosity}} is the elevation behind the most posterior maxillary molar."
-  },
-  {
-   "id": "anat-p148-004",
-   "deck": "Head and Neck",
-   "section": "Oral vestibule, gingiva, and surrounding structures",
-   "page": 148,
-   "text": "The {{c1::retromolar pad}} is a dense pad behind the most posterior {{c2::mandibular}} molar."
-  },
-  {
-   "id": "anat-p148-005",
-   "deck": "Head and Neck",
-   "section": "Oral vestibule, gingiva, and surrounding structures",
-   "page": 148,
-   "text": "The {{c1::vestibule}} is the {{c2::horseshoe}}-shaped space between the cheeks, lips, and teeth."
-  },
-  {
-   "id": "anat-p148-006",
-   "deck": "Head and Neck",
-   "section": "Oral vestibule, gingiva, and surrounding structures",
-   "page": 148,
-   "text": "The {{c1::mucobuccal fold}} is the line where the {{c2::buccal}} mucosa meets the {{c3::alveolar}} mucosa."
-  },
-  {
-   "id": "anat-p148-007",
-   "deck": "Head and Neck",
-   "section": "Oral vestibule, gingiva, and surrounding structures",
-   "page": 148,
-   "text": "The {{c1::labial frenum}} is a vertical band that attaches the cheeks and lips to the alveolar mucosa."
-  },
-  {
    "id": "anat-p148-008",
    "deck": "Head and Neck",
    "section": "Oral vestibule, gingiva, and surrounding structures",
@@ -604,13 +569,6 @@
    "section": "Oral vestibule, gingiva, and surrounding structures",
    "page": 148,
    "text": "{{c1::Interdental}} gingiva is the gingival papilla between the teeth."
-  },
-  {
-   "id": "anat-p148-012",
-   "deck": "Head and Neck",
-   "section": "Oral vestibule, gingiva, and surrounding structures",
-   "page": 148,
-   "text": "The {{c1::mucogingival junction (MGJ)}} is the line where the {{c2::attached gingiva}} meets the {{c3::alveolar mucosa}}."
   },
   {
    "id": "anat-p149-001",
@@ -646,20 +604,6 @@
    "section": "Palate",
    "page": 149,
    "text": "The {{c1::palatine raphe}} is the prominent midline of the palate running from the {{c2::uvula}} to the {{c3::incisive papilla}}."
-  },
-  {
-   "id": "anat-p149-006",
-   "deck": "Head and Neck",
-   "section": "Palate",
-   "page": 149,
-   "text": "The palatine raphe is evidence of the {{c1::fusion of the palatal processes}} during fetal development."
-  },
-  {
-   "id": "anat-p149-007",
-   "deck": "Head and Neck",
-   "section": "Palate",
-   "page": 149,
-   "text": "The {{c1::uvula}} is the projection from the posterior edge of the soft palate."
   },
   {
    "id": "anat-p149-008",
@@ -723,13 +667,6 @@
    "section": "Tongue and floor of the mouth",
    "page": 149,
    "text": "{{c1::Circumvallate}} papillae are the large papillae lined up along the {{c2::sulcus terminalis}}."
-  },
-  {
-   "id": "anat-p149-017",
-   "deck": "Head and Neck",
-   "section": "Tongue and floor of the mouth",
-   "page": 149,
-   "text": "There are {{c1::10–14}} circumvallate papillae, each containing over {{c2::100}} taste buds."
   },
   {
    "id": "anat-p149-018",
@@ -897,14 +834,6 @@
    "text": "The thyroid gland is {{c1::butterfly}}-shaped."
   },
   {
-   "id": "anat-p150-010",
-   "deck": "Head and Neck",
-   "section": "Neck and related structures",
-   "page": 150,
-   "text": "There are {{c1::4}} parathyroid glands, located on the (posterior) thyroid gland.",
-   "extra": "Book: the thyroid gland 'contains 4 parathyroid glands'."
-  },
-  {
    "id": "anat-p150-011",
    "deck": "Head and Neck",
    "section": "Neck and related structures",
@@ -925,34 +854,6 @@
    "section": "Anatomic position and planes",
    "page": 150,
    "text": "In anatomic description, \"right\" and \"left\" refer to the {{c1::patient's}} right and left, not the clinician's."
-  },
-  {
-   "id": "anat-p150-014",
-   "deck": "Head and Neck",
-   "section": "Anatomic position and planes",
-   "page": 150,
-   "text": "A {{c1::sagittal}} plane is a vertical plane that divides the body into {{c2::right and left}} parts."
-  },
-  {
-   "id": "anat-p150-015",
-   "deck": "Head and Neck",
-   "section": "Anatomic position and planes",
-   "page": 150,
-   "text": "The {{c1::median (midsagittal)}} plane divides the body into {{c2::equal}} right and left halves."
-  },
-  {
-   "id": "anat-p150-016",
-   "deck": "Head and Neck",
-   "section": "Anatomic position and planes",
-   "page": 150,
-   "text": "The {{c1::frontal (coronal)}} plane is a vertical plane that divides the body into {{c2::front and back}}."
-  },
-  {
-   "id": "anat-p150-017",
-   "deck": "Head and Neck",
-   "section": "Anatomic position and planes",
-   "page": 150,
-   "text": "The {{c1::horizontal (transverse)}} plane divides the body into {{c2::upper and lower}} portions, perpendicular to the long axis of the body."
   },
   {
    "id": "anat-p150-018",
@@ -994,40 +895,11 @@
    "extra": "Supports teeth, bone repair, and muscle contraction."
   },
   {
-   "id": "anat-p150-023",
-   "deck": "Head and Neck",
-   "section": "Skull structure",
-   "page": 150,
-   "text": "The skull has {{c1::22}} bones; the whole body has {{c2::206}}."
-  },
-  {
-   "id": "anat-p150-024",
-   "deck": "Head and Neck",
-   "section": "Skull structure",
-   "page": 150,
-   "text": "There are {{c1::8}} cranial bones and {{c2::14}} facial bones."
-  },
-  {
-   "id": "anat-p150-025",
-   "deck": "Head and Neck",
-   "section": "Skull structure",
-   "page": 150,
-   "text": "The 8 cranial bones: frontal ({{c1::1}}), parietal ({{c2::2}}), temporal ({{c3::2}}), occipital (1), sphenoid (1), ethmoid (1).",
-   "extra": "Paired cranial bones: parietal and temporal only."
-  },
-  {
    "id": "anat-p150-026",
    "deck": "Head and Neck",
    "section": "Skull structure",
    "page": 150,
    "text": "Of the cranial bones, the {{c1::frontal}}, {{c1::occipital}}, {{c1::sphenoid}} and {{c1::ethmoid}} are single (unpaired)."
-  },
-  {
-   "id": "anat-p151-001",
-   "deck": "Head and Neck",
-   "section": "Skull structure",
-   "page": 151,
-   "text": "The 14 facial bones: maxillae (2), mandible (1), zygomatic (2), nasal (2), lacrimal (2), palatine (2), inferior nasal conchae (2), {{c1::vomer}} (1)."
   },
   {
    "id": "anat-p151-002",
@@ -1051,25 +923,11 @@
    "text": "The skull forms spaces such as the {{c1::orbit}}, {{c1::nasal cavity}}, and {{c1::oral cavity}}."
   },
   {
-   "id": "anat-p151-005",
-   "deck": "Head and Neck",
-   "section": "Prominences",
-   "page": 151,
-   "text": "A bony {{c1::process}} is a projection on a bony surface."
-  },
-  {
    "id": "anat-p151-006",
    "deck": "Head and Neck",
    "section": "Prominences",
    "page": 151,
    "text": "The {{c1::coronoid}} process of the mandible is the thin, pointed process where the {{c2::temporalis}} muscle inserts; it assists jaw {{c3::elevation}}."
-  },
-  {
-   "id": "anat-p151-007",
-   "deck": "Head and Neck",
-   "section": "Prominences",
-   "page": 151,
-   "text": "A {{c1::condyle}} is an oval projection usually involved in {{c2::joints}}."
   },
   {
    "id": "anat-p151-008",
@@ -1079,20 +937,6 @@
    "text": "The mandibular condyle fits into the {{c1::temporal}} bone to form the {{c2::TMJ}}."
   },
   {
-   "id": "anat-p151-009",
-   "deck": "Head and Neck",
-   "section": "Prominences",
-   "page": 151,
-   "text": "A bony {{c1::head}} is a rounded bony surface supported by a {{c2::neck}} (e.g., the head of the mandibular condyle)."
-  },
-  {
-   "id": "anat-p151-010",
-   "deck": "Head and Neck",
-   "section": "Prominences",
-   "page": 151,
-   "text": "A {{c1::tuberosity}} is a rough area that provides muscle or tendon attachment."
-  },
-  {
    "id": "anat-p151-011",
    "deck": "Head and Neck",
    "section": "Prominences",
@@ -1100,32 +944,11 @@
    "text": "The maxillary tuberosity, behind the last upper molar, anchors part of the {{c1::medial pterygoid}} muscle."
   },
   {
-   "id": "anat-p151-012",
-   "deck": "Head and Neck",
-   "section": "Prominences",
-   "page": 151,
-   "text": "A {{c1::cornu}} is a horn-like projection (e.g., the greater cornu of the {{c2::hyoid}} bone, an attachment site for neck muscles)."
-  },
-  {
-   "id": "anat-p151-013",
-   "deck": "Head and Neck",
-   "section": "Prominences",
-   "page": 151,
-   "text": "A {{c1::tubercle}} is a small, rounded elevation."
-  },
-  {
    "id": "anat-p151-014",
    "deck": "Head and Neck",
    "section": "Prominences",
    "page": 151,
    "text": "The tubercle of the upper lip is the bump at the center of the {{c1::vermilion border}}."
-  },
-  {
-   "id": "anat-p151-015",
-   "deck": "Head and Neck",
-   "section": "Prominences",
-   "page": 151,
-   "text": "A {{c1::crest}} is a prominent ridge on a bone."
   },
   {
    "id": "anat-p151-016",
@@ -1136,26 +959,12 @@
    "extra": "Like a ridge between mountain peaks."
   },
   {
-   "id": "anat-p151-017",
-   "deck": "Head and Neck",
-   "section": "Prominences",
-   "page": 151,
-   "text": "A bony {{c1::ridge}} is a linear raised area."
-  },
-  {
    "id": "anat-p151-018",
    "deck": "Head and Neck",
    "section": "Prominences",
    "page": 151,
    "text": "The {{c1::internal oblique ridge}} is on the inner surface of the mandible and marks the {{c2::mylohyoid}} attachment.",
    "extra": "Also called the mylohyoid line."
-  },
-  {
-   "id": "anat-p151-019",
-   "deck": "Head and Neck",
-   "section": "Prominences",
-   "page": 151,
-   "text": "A bony {{c1::spine}} is a pointed bony projection."
   },
   {
    "id": "anat-p151-020",
@@ -1165,25 +974,11 @@
    "text": "The {{c1::anterior nasal spine}} is found at the base of the nasal cavity and can appear on radiographs."
   },
   {
-   "id": "anat-p151-021",
-   "deck": "Head and Neck",
-   "section": "Depressions",
-   "page": 151,
-   "text": "A {{c1::notch}} is a curved indentation along a bone."
-  },
-  {
    "id": "anat-p151-022",
    "deck": "Head and Neck",
    "section": "Depressions",
    "page": 151,
    "text": "The mandibular notch lies between the {{c1::coronoid}} and {{c1::condylar}} processes of the mandible."
-  },
-  {
-   "id": "anat-p151-023",
-   "deck": "Head and Neck",
-   "section": "Depressions",
-   "page": 151,
-   "text": "A {{c1::sulcus}} is a shallow groove that houses soft tissues."
   },
   {
    "id": "anat-p151-024",
@@ -1193,25 +988,11 @@
    "text": "The {{c1::infraorbital sulcus}} runs within the orbit and carries the infraorbital nerve and vessels."
   },
   {
-   "id": "anat-p151-025",
-   "deck": "Head and Neck",
-   "section": "Depressions",
-   "page": 151,
-   "text": "A {{c1::fossa}} is a broad, deep depression in bone."
-  },
-  {
    "id": "anat-p151-026",
    "deck": "Head and Neck",
    "section": "Depressions",
    "page": 151,
    "text": "The {{c1::mandibular fossa}} of the {{c2::temporal}} bone receives the mandibular condyle to form the TMJ."
-  },
-  {
-   "id": "anat-p151-027",
-   "deck": "Head and Neck",
-   "section": "Openings",
-   "page": 151,
-   "text": "A {{c1::foramen}} is a small opening for nerves or vessels."
   },
   {
    "id": "anat-p151-028",
@@ -1221,25 +1002,11 @@
    "text": "The {{c1::mental}} foramen is located near the mandibular {{c2::premolars}} and transmits the mental nerve."
   },
   {
-   "id": "anat-p151-029",
-   "deck": "Head and Neck",
-   "section": "Openings",
-   "page": 151,
-   "text": "A {{c1::canal}} is a long, narrow tunnel through bone."
-  },
-  {
    "id": "anat-p151-030",
    "deck": "Head and Neck",
    "section": "Openings",
    "page": 151,
    "text": "The {{c1::mandibular canal}} runs inside the mandible and carries the {{c2::inferior alveolar}} nerve and vessels."
-  },
-  {
-   "id": "anat-p151-031",
-   "deck": "Head and Neck",
-   "section": "Openings",
-   "page": 151,
-   "text": "A {{c1::fissure}} is a narrow, slit-like opening in bone."
   },
   {
    "id": "anat-p151-032",
@@ -1250,25 +1017,11 @@
    "extra": "Book: visible in posterior radiographs (it is seen on lateral cephalometric and panoramic images)."
   },
   {
-   "id": "anat-p152-001",
-   "deck": "Head and Neck",
-   "section": "Junctions",
-   "page": 152,
-   "text": "A {{c1::suture}} is an immovable union between skull bones."
-  },
-  {
    "id": "anat-p152-002",
    "deck": "Head and Neck",
    "section": "Junctions",
    "page": 152,
    "text": "The {{c1::coronal}} suture connects the frontal bone with the paired {{c2::parietal}} bones."
-  },
-  {
-   "id": "anat-p152-003",
-   "deck": "Head and Neck",
-   "section": "Junctions",
-   "page": 152,
-   "text": "A {{c1::joint}} is the site where two bones meet."
   },
   {
    "id": "anat-p152-004",
@@ -1292,30 +1045,6 @@
    "page": 152,
    "text": "The {{c1::articular (mandibular) fossa}} of the temporal bone is the shallow depression where the {{c2::mandibular condyle}} sits to form the TMJ.",
    "extra": "Tip: place your fingers in front of your ear and open your jaw to feel movement."
-  },
-  {
-   "id": "anat-p152-007",
-   "deck": "Head and Neck",
-   "section": "Temporal bone",
-   "page": 152,
-   "text": "The {{c1::mastoid process}} is the rounded bump of the temporal bone behind the ear, for muscle attachment.",
-   "extra": "Tip: the hard bump you feel behind your earlobe."
-  },
-  {
-   "id": "anat-p152-008",
-   "deck": "Head and Neck",
-   "section": "Temporal bone",
-   "page": 152,
-   "text": "The {{c1::styloid process}} is the thin pointed projection of the temporal bone below the ear canal, anchoring muscles and ligaments of the {{c2::tongue and throat}}.",
-   "extra": "Tip: think of it as a hidden hook deep under the ear."
-  },
-  {
-   "id": "anat-p152-009",
-   "deck": "Head and Neck",
-   "section": "Temporal bone",
-   "page": 152,
-   "text": "The {{c1::external acoustic (auditory) meatus}} is the tunnel-like opening of the temporal bone leading into the ear canal.",
-   "extra": "Tip: this is your ear hole."
   },
   {
    "id": "anat-p152-010",
@@ -1406,14 +1135,6 @@
    "extra": "Tip: the bone you press against a headrest when leaning back."
   },
   {
-   "id": "anat-p153-010",
-   "deck": "Head and Neck",
-   "section": "Occipital bone",
-   "page": 153,
-   "text": "The {{c1::foramen magnum}} of the occipital bone is the large opening for the {{c2::spinal cord}}.",
-   "extra": "The brainstem passes through here — a key anatomic landmark."
-  },
-  {
    "id": "anat-p153-011",
    "deck": "Head and Neck",
    "section": "Occipital bone",
@@ -1444,15 +1165,1000 @@
    "page": 153,
    "text": "The greater and lesser {{c1::wings}} of the sphenoid are lateral projections forming part of the {{c2::orbit}} and cranial floor.",
    "extra": "Visible on lateral cephalometric radiographs."
+  }
+ ],
+ "basic": [
+  {
+   "id": "anat-p148-b-01",
+   "deck": "Head and Neck",
+   "section": "Oral vestibule, gingiva, and surrounding structures",
+   "page": 148,
+   "front": "Maxillary tuberosity",
+   "back": "Elevation behind the most posterior maxillary molar",
+   "reverse": true,
+   "extra": ""
   },
   {
-   "id": "anat-p153-015",
+   "id": "anat-p148-b-02",
+   "deck": "Head and Neck",
+   "section": "Oral vestibule, gingiva, and surrounding structures",
+   "page": 148,
+   "front": "Retromolar pad",
+   "back": "Dense pad behind the most posterior mandibular molar",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p148-b-03",
+   "deck": "Head and Neck",
+   "section": "Oral vestibule, gingiva, and surrounding structures",
+   "page": 148,
+   "front": "Oral vestibule",
+   "back": "Horseshoe-shaped space between the cheeks, lips, and teeth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p148-b-04",
+   "deck": "Head and Neck",
+   "section": "Oral vestibule, gingiva, and surrounding structures",
+   "page": 148,
+   "front": "Mucobuccal fold",
+   "back": "Line where the buccal mucosa meets the alveolar mucosa",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p148-b-05",
+   "deck": "Head and Neck",
+   "section": "Oral vestibule, gingiva, and surrounding structures",
+   "page": 148,
+   "front": "Labial frenum",
+   "back": "Vertical band that attaches the cheeks and lips to the alveolar mucosa",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p148-b-06",
+   "deck": "Head and Neck",
+   "section": "Oral vestibule, gingiva, and surrounding structures",
+   "page": 148,
+   "front": "Mucogingival junction (MGJ)",
+   "back": "Line where the attached gingiva meets the alveolar mucosa",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p149-b-01",
+   "deck": "Head and Neck",
+   "section": "Palate",
+   "page": 149,
+   "front": "What does the palatine raphe represent developmentally?",
+   "back": "The line of fusion of the palatal processes during fetal development",
+   "reverse": false,
+   "extra": "The raphe runs in the midline from the uvula to the incisive papilla."
+  },
+  {
+   "id": "anat-p149-b-02",
+   "deck": "Head and Neck",
+   "section": "Palate",
+   "page": 149,
+   "front": "Uvula",
+   "back": "Projection from the posterior edge of the soft palate",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p150-b-01",
+   "deck": "Head and Neck",
+   "section": "Anatomic position and planes",
+   "page": 150,
+   "front": "Sagittal plane",
+   "back": "Vertical plane that divides the body into right and left parts (not necessarily equal)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p150-b-02",
+   "deck": "Head and Neck",
+   "section": "Anatomic position and planes",
+   "page": 150,
+   "front": "Median (midsagittal) plane",
+   "back": "Vertical plane that divides the body into EQUAL right and left halves",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p150-b-03",
+   "deck": "Head and Neck",
+   "section": "Anatomic position and planes",
+   "page": 150,
+   "front": "Frontal (coronal) plane",
+   "back": "Vertical plane that divides the body into front and back",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p150-b-04",
+   "deck": "Head and Neck",
+   "section": "Anatomic position and planes",
+   "page": 150,
+   "front": "Horizontal (transverse) plane",
+   "back": "Plane that divides the body into upper and lower portions, perpendicular to the long axis of the body",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p151-b-01",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "front": "Process (bony)",
+   "back": "A projection on a bony surface (the general term)",
+   "reverse": true,
+   "extra": "e.g., the coronoid process of the mandible."
+  },
+  {
+   "id": "anat-p151-b-02",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "front": "Condyle",
+   "back": "An oval bony projection usually involved in joints",
+   "reverse": true,
+   "extra": "e.g., the mandibular condyle fits into the temporal bone to form the TMJ."
+  },
+  {
+   "id": "anat-p151-b-03",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "front": "Head (bony)",
+   "back": "A rounded bony surface supported by a neck",
+   "reverse": true,
+   "extra": "e.g., the head of the mandibular condyle articulates with the temporal bone in the TMJ."
+  },
+  {
+   "id": "anat-p151-b-04",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "front": "Tuberosity",
+   "back": "A rough bony area that provides muscle or tendon attachment",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p151-b-05",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "front": "Cornu",
+   "back": "A horn-like bony projection",
+   "reverse": true,
+   "extra": "e.g., the greater cornu of the hyoid bone, an attachment site for neck muscles."
+  },
+  {
+   "id": "anat-p151-b-06",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "front": "Tubercle",
+   "back": "A small, rounded elevation",
+   "reverse": true,
+   "extra": "e.g., the tubercle of the upper lip."
+  },
+  {
+   "id": "anat-p151-b-07",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "front": "Crest",
+   "back": "A prominent ridge on a bone",
+   "reverse": true,
+   "extra": "Compare ridge = a linear raised area."
+  },
+  {
+   "id": "anat-p151-b-08",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "front": "Ridge (bony)",
+   "back": "A linear raised area on a bone",
+   "reverse": true,
+   "extra": "Compare crest = a prominent ridge."
+  },
+  {
+   "id": "anat-p151-b-09",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "front": "Spine (bony)",
+   "back": "A pointed bony projection",
+   "reverse": true,
+   "extra": "e.g., the anterior nasal spine."
+  },
+  {
+   "id": "anat-p151-b-10",
+   "deck": "Head and Neck",
+   "section": "Depressions",
+   "page": 151,
+   "front": "Notch",
+   "back": "A curved indentation along a bone",
+   "reverse": true,
+   "extra": "e.g., the mandibular notch."
+  },
+  {
+   "id": "anat-p151-b-11",
+   "deck": "Head and Neck",
+   "section": "Depressions",
+   "page": 151,
+   "front": "Sulcus",
+   "back": "A shallow groove in bone that houses soft tissues",
+   "reverse": true,
+   "extra": "e.g., the infraorbital sulcus."
+  },
+  {
+   "id": "anat-p151-b-12",
+   "deck": "Head and Neck",
+   "section": "Depressions",
+   "page": 151,
+   "front": "Fossa",
+   "back": "A broad, deep depression in bone",
+   "reverse": true,
+   "extra": "e.g., the mandibular fossa of the temporal bone."
+  },
+  {
+   "id": "anat-p151-b-13",
+   "deck": "Head and Neck",
+   "section": "Openings",
+   "page": 151,
+   "front": "Foramen",
+   "back": "A small opening in bone for nerves or vessels",
+   "reverse": true,
+   "extra": "e.g., the mental foramen."
+  },
+  {
+   "id": "anat-p151-b-14",
+   "deck": "Head and Neck",
+   "section": "Openings",
+   "page": 151,
+   "front": "Canal (bony)",
+   "back": "A long, narrow tunnel through bone",
+   "reverse": true,
+   "extra": "e.g., the mandibular canal."
+  },
+  {
+   "id": "anat-p151-b-15",
+   "deck": "Head and Neck",
+   "section": "Openings",
+   "page": 151,
+   "front": "Fissure (bony)",
+   "back": "A narrow, slit-like opening in bone",
+   "reverse": true,
+   "extra": "e.g., the pterygomaxillary fissure."
+  },
+  {
+   "id": "anat-p152-b-01",
+   "deck": "Head and Neck",
+   "section": "Junctions",
+   "page": 152,
+   "front": "Suture",
+   "back": "An immovable union between skull bones",
+   "reverse": true,
+   "extra": "e.g., the coronal suture."
+  },
+  {
+   "id": "anat-p152-b-02",
+   "deck": "Head and Neck",
+   "section": "Junctions",
+   "page": 152,
+   "front": "Joint",
+   "back": "The site where two bones meet",
+   "reverse": true,
+   "extra": "e.g., the temporomandibular joint."
+  },
+  {
+   "id": "anat-p152-b-03",
+   "deck": "Head and Neck",
+   "section": "Temporal bone",
+   "page": 152,
+   "front": "Mastoid process",
+   "back": "Rounded bump of the temporal bone behind the ear, for muscle attachment",
+   "reverse": true,
+   "extra": "Tip: the hard bump you feel behind your earlobe."
+  },
+  {
+   "id": "anat-p152-b-04",
+   "deck": "Head and Neck",
+   "section": "Temporal bone",
+   "page": 152,
+   "front": "Styloid process",
+   "back": "Thin, pointed projection of the temporal bone below the ear canal, anchoring muscles and ligaments of the tongue and throat",
+   "reverse": true,
+   "extra": "Tip: a hidden hook deep under the ear."
+  },
+  {
+   "id": "anat-p152-b-05",
+   "deck": "Head and Neck",
+   "section": "Temporal bone",
+   "page": 152,
+   "front": "External acoustic (auditory) meatus",
+   "back": "Tunnel-like opening in the temporal bone leading into the ear canal",
+   "reverse": true,
+   "extra": "Tip: this is your ear hole."
+  },
+  {
+   "id": "anat-p153-b-01",
+   "deck": "Head and Neck",
+   "section": "Occipital bone",
+   "page": 153,
+   "front": "Foramen magnum",
+   "back": "Large opening in the occipital bone for the spinal cord",
+   "reverse": true,
+   "extra": "The brainstem passes through here — a key anatomic landmark."
+  },
+  {
+   "id": "anat-p153-b-02",
    "deck": "Head and Neck",
    "section": "Sphenoid bone",
    "page": 153,
-   "text": "The {{c1::sella turcica}} of the sphenoid is the saddle-shaped depression that holds the {{c2::pituitary}} gland.",
+   "front": "Sella turcica",
+   "back": "Saddle-shaped depression of the sphenoid bone that holds the pituitary gland",
+   "reverse": true,
    "extra": "A landmark on skull X-rays."
   }
  ],
- "mcq": []
+ "typein": [
+  {
+   "id": "anat-p149-t-01",
+   "deck": "Head and Neck",
+   "section": "Tongue and floor of the mouth",
+   "page": 149,
+   "question": "How many circumvallate papillae are there? (type a range, e.g. 3-5)",
+   "answer": "10-14",
+   "extra": "Lined up along the sulcus terminalis."
+  },
+  {
+   "id": "anat-p149-t-02",
+   "deck": "Head and Neck",
+   "section": "Tongue and floor of the mouth",
+   "page": 149,
+   "question": "Each circumvallate papilla contains more than how many taste buds?",
+   "answer": "100",
+   "extra": ""
+  },
+  {
+   "id": "anat-p150-t-01",
+   "deck": "Head and Neck",
+   "section": "Neck and related structures",
+   "page": 150,
+   "question": "How many parathyroid glands are there?",
+   "answer": "4",
+   "extra": "Located on the (posterior) thyroid gland."
+  },
+  {
+   "id": "anat-p150-t-02",
+   "deck": "Head and Neck",
+   "section": "Skull structure",
+   "page": 150,
+   "question": "How many bones form the skull?",
+   "answer": "22",
+   "extra": "8 cranial + 14 facial."
+  },
+  {
+   "id": "anat-p150-t-03",
+   "deck": "Head and Neck",
+   "section": "Skull structure",
+   "page": 150,
+   "question": "How many bones are in the whole (adult) body?",
+   "answer": "206",
+   "extra": ""
+  },
+  {
+   "id": "anat-p150-t-04",
+   "deck": "Head and Neck",
+   "section": "Skull structure",
+   "page": 150,
+   "question": "How many cranial bones are there?",
+   "answer": "8",
+   "extra": ""
+  },
+  {
+   "id": "anat-p150-t-05",
+   "deck": "Head and Neck",
+   "section": "Skull structure",
+   "page": 150,
+   "question": "How many facial bones are there?",
+   "answer": "14",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "anat-p149-m-01",
+   "deck": "Head and Neck",
+   "section": "Tongue and floor of the mouth",
+   "page": 149,
+   "prompt": "Match each lingual papilla to its distinguishing feature.",
+   "pairs": [
+    [
+     "Filiform",
+     "Most numerous; tactile receptors, no taste buds"
+    ],
+    [
+     "Fungiform",
+     "Mushroom-shaped; seen as red dots"
+    ],
+    [
+     "Circumvallate",
+     "Large; 10–14 lined along the sulcus terminalis"
+    ],
+    [
+     "Foliate",
+     "On the sides of the tongue"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p151-m-01",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "prompt": "Match each (easily confused) bony prominence to its definition.",
+   "pairs": [
+    [
+     "Crest",
+     "Prominent ridge"
+    ],
+    [
+     "Ridge",
+     "Linear raised area"
+    ],
+    [
+     "Spine",
+     "Pointed projection"
+    ],
+    [
+     "Tubercle",
+     "Small, rounded elevation"
+    ],
+    [
+     "Tuberosity",
+     "Rough area for muscle/tendon attachment"
+    ],
+    [
+     "Cornu",
+     "Horn-like projection"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p151-m-02",
+   "deck": "Head and Neck",
+   "section": "Bony features and landmarks",
+   "page": 151,
+   "prompt": "Match each landmark to what passes through it or attaches to it.",
+   "pairs": [
+    [
+     "Mental foramen",
+     "Mental nerve"
+    ],
+    [
+     "Infraorbital sulcus",
+     "Infraorbital nerve and vessels"
+    ],
+    [
+     "Internal oblique ridge",
+     "Mylohyoid muscle"
+    ],
+    [
+     "Maxillary tuberosity",
+     "Part of the medial pterygoid muscle"
+    ],
+    [
+     "Foramen magnum",
+     "Spinal cord"
+    ],
+    [
+     "Sella turcica",
+     "Pituitary gland"
+    ],
+    [
+     "Styloid process",
+     "Muscles and ligaments of the tongue and throat"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "anat-p148-o-01",
+   "deck": "Head and Neck",
+   "section": "Oral vestibule, gingiva, and surrounding structures",
+   "page": 148,
+   "prompt": "Order these structures from the gingival margin (coronal) to the depth of the vestibule.",
+   "items": [
+    "Marginal (free) gingiva",
+    "Attached gingiva",
+    "Mucogingival junction",
+    "Alveolar mucosa",
+    "Mucobuccal fold"
+   ]
+  },
+  {
+   "id": "anat-p149-o-01",
+   "deck": "Head and Neck",
+   "section": "Neck and related structures",
+   "page": 149,
+   "prompt": "Order the parts of the pharynx from superior to inferior.",
+   "items": [
+    "Nasopharynx",
+    "Oropharynx",
+    "Laryngopharynx"
+   ]
+  },
+  {
+   "id": "anat-p150-o-01",
+   "deck": "Head and Neck",
+   "section": "Neck and related structures",
+   "page": 150,
+   "prompt": "Palpating down the anterior midline of the neck, order these structures from superior to inferior.",
+   "items": [
+    "Hyoid bone",
+    "Thyroid cartilage",
+    "Thyroid gland"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "anat-p150-s-01",
+   "deck": "Head and Neck",
+   "section": "Skull structure",
+   "page": 150,
+   "prompt": "Sort the 22 skull bones (by name) into cranial vs facial.",
+   "categories": [
+    [
+     "Cranial (8)",
+     [
+      "Frontal",
+      "Parietal",
+      "Temporal",
+      "Occipital",
+      "Sphenoid",
+      "Ethmoid"
+     ]
+    ],
+    [
+     "Facial (14)",
+     [
+      "Maxilla",
+      "Mandible",
+      "Zygomatic",
+      "Nasal",
+      "Lacrimal",
+      "Palatine",
+      "Inferior nasal concha",
+      "Vomer"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p151-s-01",
+   "deck": "Head and Neck",
+   "section": "Bony features and landmarks",
+   "page": 151,
+   "prompt": "Sort these bony features: prominence, depression, or opening?",
+   "categories": [
+    [
+     "Prominence",
+     [
+      "Process",
+      "Condyle",
+      "Head",
+      "Tuberosity",
+      "Cornu",
+      "Tubercle",
+      "Crest",
+      "Ridge",
+      "Spine"
+     ]
+    ],
+    [
+     "Depression",
+     [
+      "Notch",
+      "Sulcus",
+      "Fossa"
+     ]
+    ],
+    [
+     "Opening",
+     [
+      "Foramen",
+      "Canal",
+      "Fissure"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p152-s-01",
+   "deck": "Head and Neck",
+   "section": "Cranial bones",
+   "page": 152,
+   "prompt": "Which cranial bone does each landmark belong to?",
+   "categories": [
+    [
+     "Temporal",
+     [
+      "Mastoid process",
+      "Styloid process",
+      "External acoustic meatus",
+      "Articular (mandibular) fossa"
+     ]
+    ],
+    [
+     "Frontal",
+     [
+      "Supraorbital ridge",
+      "Supraorbital foramen",
+      "Frontal sinus",
+      "Frontal eminence"
+     ]
+    ],
+    [
+     "Occipital",
+     [
+      "Foramen magnum",
+      "Occipital condyles",
+      "External occipital protuberance"
+     ]
+    ],
+    [
+     "Sphenoid",
+     [
+      "Sella turcica",
+      "Greater wing",
+      "Lesser wing",
+      "Pterygoid process"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "anat-p148-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Oral vestibule, gingiva, and surrounding structures",
+   "page": 148,
+   "question": "During an intraoral exam, the hygienist notes a small elevation on the buccal mucosa opposite the maxillary second molar. This is the opening of which duct?",
+   "options": [
+    "A. Wharton's duct",
+    "B. Stensen's duct",
+    "C. Bartholin's duct",
+    "D. Duct of Rivinus"
+   ],
+   "answer": "B. Stensen's duct",
+   "explanation": "The parotid papilla, opposite the maxillary second molars, is the opening of Stensen's (parotid) duct. Wharton's (submandibular) duct opens at the sublingual caruncle on the floor of the mouth."
+  },
+  {
+   "id": "anat-p148-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Oral vestibule, gingiva, and surrounding structures",
+   "page": 148,
+   "question": "Compared with attached gingiva, alveolar mucosa is best described as:",
+   "options": [
+    "A. Redder, thinner, and easily stretched",
+    "B. Firm, thick, and bound to the tooth and bone",
+    "C. Non-attached tissue toward the crown of the tooth",
+    "D. The papilla between adjacent teeth"
+   ],
+   "answer": "A. Redder, thinner, and easily stretched",
+   "explanation": "Alveolar mucosa (apical to the MGJ) is redder, thinner and movable. Firm, thick tissue bound to tooth and bone describes attached gingiva; the non-attached tissue toward the crown is marginal gingiva."
+  },
+  {
+   "id": "anat-p149-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Palate",
+   "page": 149,
+   "question": "Which landmark runs from the junction of the hard and soft palate down to the mandible, just posterior to the most distal mandibular molar?",
+   "options": [
+    "A. Palatine raphe",
+    "B. Pterygomandibular fold",
+    "C. Anterior faucial pillar",
+    "D. Retromolar pad"
+   ],
+   "answer": "B. Pterygomandibular fold",
+   "explanation": "The pterygomandibular fold runs from the hard/soft palate junction to the mandible behind the last molar. The retromolar pad is the pad itself behind the last mandibular molar, not a fold from the palate; the palatine raphe is the palatal midline."
+  },
+  {
+   "id": "anat-p149-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Tongue and floor of the mouth",
+   "page": 149,
+   "question": "A patient has a smooth, red, rhomboid-shaped area in the midline of the dorsal tongue. Which papillae are missing in this area?",
+   "options": [
+    "A. Fungiform",
+    "B. Filiform",
+    "C. Foliate",
+    "D. Circumvallate"
+   ],
+   "answer": "B. Filiform",
+   "explanation": "Filiform papillae are missing in median rhomboid glossitis. Fungiform papillae appear as red dots but are not the papillae lost in this lesion; foliate papillae are on the sides of the tongue."
+  },
+  {
+   "id": "anat-p150-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Neck and related structures",
+   "page": 150,
+   "question": "The palatine tonsils lie between the faucial pillars. Which muscles form these pillars?",
+   "options": [
+    "A. Palatoglossus (anterior) and palatopharyngeus (posterior)",
+    "B. Palatopharyngeus (anterior) and palatoglossus (posterior)",
+    "C. Styloglossus (anterior) and stylopharyngeus (posterior)",
+    "D. Palatoglossus (anterior) and superior pharyngeal constrictor (posterior)"
+   ],
+   "answer": "A. Palatoglossus (anterior) and palatopharyngeus (posterior)",
+   "explanation": "Anterior pillar = palatoglossus; posterior pillar = palatopharyngeus. The reversed option is the most tempting distractor — remember the anterior one runs to the tongue (glossus)."
+  },
+  {
+   "id": "anat-p149-mcq-03",
+   "deck": "Head and Neck",
+   "section": "Neck and related structures",
+   "page": 149,
+   "question": "Which part of the pharynx is NOT visible during an intraoral examination?",
+   "options": [
+    "A. Oropharynx",
+    "B. Laryngopharynx",
+    "C. Palatine tonsil region",
+    "D. Uvula and soft palate area"
+   ],
+   "answer": "B. Laryngopharynx",
+   "explanation": "The laryngopharynx lies below the oropharynx and cannot be seen intraorally. The oropharynx, between the soft palate and the laryngeal opening, is visible behind the oral cavity."
+  },
+  {
+   "id": "anat-p150-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Anatomic position and planes",
+   "page": 150,
+   "question": "An axial CBCT slice divides the head into upper and lower portions. Which plane is this?",
+   "options": [
+    "A. Sagittal",
+    "B. Frontal (coronal)",
+    "C. Horizontal (transverse)",
+    "D. Median (midsagittal)"
+   ],
+   "answer": "C. Horizontal (transverse)",
+   "explanation": "A horizontal (transverse) plane divides the body into upper and lower parts, perpendicular to the long axis. Frontal (coronal) divides front from back; sagittal planes divide right from left."
+  },
+  {
+   "id": "anat-p150-mcq-03",
+   "deck": "Head and Neck",
+   "section": "Anatomic position and planes",
+   "page": 150,
+   "question": "Facing the clinician, a patient says she has a sore on her left cheek. In the record, \"left\" refers to:",
+   "options": [
+    "A. The patient's left",
+    "B. The clinician's left",
+    "C. Whichever side faces the operator",
+    "D. The side nearer the midsagittal plane"
+   ],
+   "answer": "A. The patient's left",
+   "explanation": "In anatomic description right and left always refer to the patient's right and left, not the clinician's — even though the clinician, facing her, sees it on his or her own right."
+  },
+  {
+   "id": "anat-p150-mcq-04",
+   "deck": "Head and Neck",
+   "section": "Functions of the skeletal system",
+   "page": 150,
+   "question": "Which function of the skeletal system most directly supplies the white blood cells that defend the periodontium during periodontitis?",
+   "options": [
+    "A. Mineral storage",
+    "B. Blood production",
+    "C. Support",
+    "D. Protection"
+   ],
+   "answer": "B. Blood production",
+   "explanation": "Bone marrow produces red and white blood cells (blood production). Protection refers to bones shielding organs (e.g., cranium protects the brain), not to the immune cells themselves."
+  },
+  {
+   "id": "anat-p150-mcq-05",
+   "deck": "Head and Neck",
+   "section": "Functions of the skeletal system",
+   "page": 150,
+   "question": "Bones serve as a storage reservoir for which minerals?",
+   "options": [
+    "A. Calcium and phosphorus",
+    "B. Sodium and potassium",
+    "C. Calcium and fluoride",
+    "D. Iron and zinc"
+   ],
+   "answer": "A. Calcium and phosphorus",
+   "explanation": "Bones store calcium and phosphorus, supporting teeth, bone repair and muscle contraction. Fluoride is incorporated into bone and teeth but is not the storage function the book describes."
+  },
+  {
+   "id": "anat-p151-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Skull structure",
+   "page": 151,
+   "question": "Which of the following bones is UNPAIRED?",
+   "options": [
+    "A. Lacrimal",
+    "B. Palatine",
+    "C. Vomer",
+    "D. Zygomatic"
+   ],
+   "answer": "C. Vomer",
+   "explanation": "The vomer and mandible are the only unpaired facial bones. Lacrimal, palatine and zygomatic bones are all paired (2 each)."
+  },
+  {
+   "id": "anat-p150-mcq-06",
+   "deck": "Head and Neck",
+   "section": "Skull structure",
+   "page": 150,
+   "question": "Which cranial bones are paired?",
+   "options": [
+    "A. Frontal and occipital",
+    "B. Parietal and temporal",
+    "C. Sphenoid and ethmoid",
+    "D. Temporal and sphenoid"
+   ],
+   "answer": "B. Parietal and temporal",
+   "explanation": "Only the parietal and temporal bones are paired (2 each). The frontal, occipital, sphenoid and ethmoid are single; \"temporal and sphenoid\" is tempting because both lie on the lateral skull."
+  },
+  {
+   "id": "anat-p151-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Prominences",
+   "page": 151,
+   "question": "The temporalis muscle inserts on which process of the mandible, helping to elevate (close) the jaw?",
+   "options": [
+    "A. Condylar process",
+    "B. Coronoid process",
+    "C. Mastoid process",
+    "D. Styloid process"
+   ],
+   "answer": "B. Coronoid process",
+   "explanation": "Temporalis inserts on the thin, pointed coronoid process. The condylar process forms the TMJ; mastoid and styloid processes belong to the temporal bone, not the mandible."
+  },
+  {
+   "id": "anat-p151-mcq-03",
+   "deck": "Head and Neck",
+   "section": "Depressions",
+   "page": 151,
+   "question": "On a panoramic radiograph, which depression lies between the coronoid and condylar processes of the mandible?",
+   "options": [
+    "A. Mandibular notch",
+    "B. Mandibular fossa",
+    "C. Infraorbital sulcus",
+    "D. Pterygomaxillary fissure"
+   ],
+   "answer": "A. Mandibular notch",
+   "explanation": "The mandibular notch is the curved indentation between the coronoid and condylar processes. The mandibular fossa is on the temporal bone and receives the condyle."
+  },
+  {
+   "id": "anat-p151-mcq-04",
+   "deck": "Head and Neck",
+   "section": "Openings",
+   "page": 151,
+   "question": "Which structure carries the inferior alveolar nerve and vessels within the mandible?",
+   "options": [
+    "A. Mental foramen",
+    "B. Mandibular canal",
+    "C. Pterygomaxillary fissure",
+    "D. Mandibular notch"
+   ],
+   "answer": "B. Mandibular canal",
+   "explanation": "The mandibular canal is a long tunnel through the mandible carrying the inferior alveolar nerve and vessels. The mental foramen is only the exit point near the premolars, transmitting the mental nerve branch."
+  },
+  {
+   "id": "anat-p152-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Junctions",
+   "page": 152,
+   "question": "The immovable union connecting the frontal bone with the paired parietal bones is the:",
+   "options": [
+    "A. Sagittal suture",
+    "B. Coronal suture",
+    "C. Lambdoid suture",
+    "D. Temporomandibular joint"
+   ],
+   "answer": "B. Coronal suture",
+   "explanation": "The coronal suture joins the frontal and parietal bones. The sagittal suture joins the two parietal bones to each other in the midline."
+  },
+  {
+   "id": "anat-p152-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Temporal bone",
+   "page": 152,
+   "question": "A patient points to the hard bump she can feel just behind her earlobe. Which structure is this?",
+   "options": [
+    "A. Styloid process",
+    "B. Mastoid process",
+    "C. Zygomatic process",
+    "D. External occipital protuberance"
+   ],
+   "answer": "B. Mastoid process",
+   "explanation": "The mastoid process of the temporal bone is the rounded bump behind the ear. The styloid process is thin, deep and not palpable, below the ear canal; the external occipital protuberance is in the midline at the back of the skull."
+  },
+  {
+   "id": "anat-p152-mcq-03",
+   "deck": "Head and Neck",
+   "section": "Temporal bone",
+   "page": 152,
+   "question": "With fingers just in front of the ear, a clinician feels movement as the patient opens wide. The condyle is moving out of which depression?",
+   "options": [
+    "A. Articular (mandibular) fossa",
+    "B. Sella turcica",
+    "C. Mandibular notch",
+    "D. External acoustic meatus"
+   ],
+   "answer": "A. Articular (mandibular) fossa",
+   "explanation": "The mandibular condyle sits in the articular (mandibular) fossa of the temporal bone to form the TMJ. The mandibular notch is on the mandible itself, between the coronoid and condylar processes."
+  },
+  {
+   "id": "anat-p153-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Frontal bone",
+   "page": 153,
+   "question": "A patient with sinusitis reports pressure in the brow area above the orbits. Which sinus is most likely involved?",
+   "options": [
+    "A. Frontal",
+    "B. Maxillary",
+    "C. Sphenoid",
+    "D. Ethmoid"
+   ],
+   "answer": "A. Frontal",
+   "explanation": "The frontal sinus lies inside the frontal bone above the orbits, so inflammation causes brow pain/pressure. Maxillary sinusitis is felt over the cheeks and maxillary teeth."
+  },
+  {
+   "id": "anat-p153-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Parietal bones",
+   "page": 153,
+   "question": "The two parietal bones are joined at the midline of the top of the skull by which suture?",
+   "options": [
+    "A. Sagittal",
+    "B. Coronal",
+    "C. Lambdoid",
+    "D. Squamous"
+   ],
+   "answer": "A. Sagittal",
+   "explanation": "The sagittal suture runs front to back between the parietal bones. The coronal suture joins the frontal bone to the parietals."
+  },
+  {
+   "id": "anat-p153-mcq-03",
+   "deck": "Head and Neck",
+   "section": "Occipital bone",
+   "page": 153,
+   "question": "Which structures rest on the atlas (C1) and allow the head to nod up and down?",
+   "options": [
+    "A. Occipital condyles",
+    "B. Mandibular condyles",
+    "C. Mastoid processes",
+    "D. External occipital protuberance"
+   ],
+   "answer": "A. Occipital condyles",
+   "explanation": "The occipital condyles sit on the first cervical vertebra (atlas). Mandibular condyles articulate with the temporal bone at the TMJ."
+  },
+  {
+   "id": "anat-p153-mcq-04",
+   "deck": "Head and Neck",
+   "section": "Sphenoid bone",
+   "page": 153,
+   "question": "Which butterfly-shaped bone lies at the base of the skull behind the eyes and touches almost every other cranial bone?",
+   "options": [
+    "A. Sphenoid",
+    "B. Ethmoid",
+    "C. Occipital",
+    "D. Temporal"
+   ],
+   "answer": "A. Sphenoid",
+   "explanation": "The sphenoid is the butterfly-shaped bone at the skull base behind the eyes. The ethmoid is also deep and midline but small, between the orbits; it is not butterfly-shaped."
+  }
+ ]
 }

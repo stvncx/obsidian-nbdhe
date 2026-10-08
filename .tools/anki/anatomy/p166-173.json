@@ -945,13 +945,6 @@
    "text": "The {{c1::pterygoid venous plexus}} receives drainage from the PSA, IA, infraorbital, deep facial and other veins."
   },
   {
-   "id": "anat-p166-002",
-   "deck": "Head and Neck",
-   "section": "Veins of the head and neck",
-   "page": 166,
-   "text": "The pterygoid plexus can be punctured during a {{c1::PSA}} block, causing a {{c2::hematoma}} or enabling infection to spread to the {{c3::cavernous sinus}}."
-  },
-  {
    "id": "anat-p166-003",
    "deck": "Head and Neck",
    "section": "Veins of the head and neck",
@@ -1151,20 +1144,6 @@
    "text": "The {{c1::lingual tonsil}} is lymphatic tissue on the {{c2::base of the tongue}}, posterior to the circumvallate papillae."
   },
   {
-   "id": "anat-p167-008",
-   "deck": "Head and Neck",
-   "section": "Tonsils",
-   "page": 167,
-   "text": "{{c1::Lingual thyroid}} (not to be confused with the lingual tonsil) is a mass of thyroid tissue on the tongue caused by migration of the thyroid gland."
-  },
-  {
-   "id": "anat-p167-009",
-   "deck": "Head and Neck",
-   "section": "Tonsils",
-   "page": 167,
-   "text": "The {{c1::pharyngeal tonsils}}, also called {{c2::adenoids}}, are located on the {{c3::nasopharynx}}, behind the nasal cavity."
-  },
-  {
    "id": "anat-p167-010",
    "deck": "Head and Neck",
    "section": "Teeth lymphatic drainage",
@@ -1223,27 +1202,6 @@
    "text": "The PNS includes all nerves outside the CNS, especially the {{c1::cranial nerves}} that control the face, jaw and oral cavity."
   },
   {
-   "id": "anat-p168-005",
-   "deck": "Head and Neck",
-   "section": "Nervous system",
-   "page": 168,
-   "text": "{{c1::Sensory (afferent)}} nerves carry signals {{c2::to}} the brain (e.g., toothache, tongue temperature)."
-  },
-  {
-   "id": "anat-p168-006",
-   "deck": "Head and Neck",
-   "section": "Nervous system",
-   "page": 168,
-   "text": "{{c1::Motor (efferent)}} nerves carry commands {{c2::from}} the brain to muscles and glands (e.g., chewing, salivating)."
-  },
-  {
-   "id": "anat-p168-007",
-   "deck": "Head and Neck",
-   "section": "Nervous system",
-   "page": 168,
-   "text": "{{c1::Mixed}} nerves contain both sensory and motor fibres — most cranial nerves in the face are this type."
-  },
-  {
    "id": "anat-p168-008",
    "deck": "Head and Neck",
    "section": "Nervous system",
@@ -1270,14 +1228,6 @@
    "section": "Nervous system",
    "page": 168,
    "text": "The {{c1::parasympathetic}} (\"rest and digest\") system {{c2::stimulates}} salivation and digestion and slows the heart."
-  },
-  {
-   "id": "anat-p168-012",
-   "deck": "Head and Neck",
-   "section": "Cranial nerves",
-   "page": 168,
-   "text": "There are {{c1::12}} pairs of cranial nerves that emerge directly from the brain.",
-   "extra": "They control sensory, motor or both functions of the head and neck."
   },
   {
    "id": "anat-p168-013",
@@ -1439,25 +1389,11 @@
    "text": "CN XII, the {{c1::hypoglossal}} nerve, is {{c2::motor}} for {{c3::tongue movement}}."
   },
   {
-   "id": "anat-p169-018",
-   "deck": "Head and Neck",
-   "section": "Cranial nerves",
-   "page": 169,
-   "text": "CN XII is tested by asking the patient to {{c1::stick out the tongue}} — {{c2::deviation}} indicates nerve damage."
-  },
-  {
    "id": "anat-p170-001",
    "deck": "Head and Neck",
    "section": "Trigeminal nerve (CN V)",
    "page": 170,
    "text": "CN V, the trigeminal, is the {{c1::largest}} cranial nerve; it emerges from the {{c2::pons}} and splits into {{c3::three}} major divisions."
-  },
-  {
-   "id": "anat-p170-002",
-   "deck": "Head and Neck",
-   "section": "Trigeminal nerve (CN V)",
-   "page": 170,
-   "text": "{{c1::Trigeminal neuralgia}} is a chronic condition causing sudden, severe, electric-shock-like facial pain along CN V, most often {{c2::V2 or V3}}."
   },
   {
    "id": "anat-p170-003",
@@ -1503,13 +1439,6 @@
    "text": "The {{c1::posterior superior alveolar (PSA)}} nerve supplies the maxillary molars, buccal gingiva and sinus."
   },
   {
-   "id": "anat-p170-009",
-   "deck": "Head and Neck",
-   "section": "Trigeminal nerve (CN V)",
-   "page": 170,
-   "text": "The PSA injection carries a risk of {{c1::hematoma}} due to the {{c2::pterygoid venous plexus}}."
-  },
-  {
    "id": "anat-p170-010",
    "deck": "Head and Neck",
    "section": "Trigeminal nerve (CN V)",
@@ -1521,7 +1450,7 @@
    "deck": "Head and Neck",
    "section": "Trigeminal nerve (CN V)",
    "page": 170,
-   "text": "The MSA nerve is absent in about {{c1::50%}} of people; the {{c2::ASA or PSA}} may compensate."
+   "text": "The MSA nerve is absent in about half of people; when absent, the {{c1::ASA or PSA}} may compensate."
   },
   {
    "id": "anat-p170-012",
@@ -1572,13 +1501,6 @@
    "section": "Trigeminal nerve (CN V)",
    "page": 170,
    "text": "The nasopalatine nerve exits the {{c1::incisive foramen}} behind the maxillary centrals; it is a {{c2::painful}} injection site."
-  },
-  {
-   "id": "anat-p170-019",
-   "deck": "Head and Neck",
-   "section": "Trigeminal nerve (CN V)",
-   "page": 170,
-   "text": "The {{c1::inferior alveolar}} nerve innervates the pulp of mandibular teeth but NOT the surrounding gingiva — so several injections may be needed to numb both."
   },
   {
    "id": "anat-p170-020",
@@ -1672,18 +1594,11 @@
    "text": "The {{c1::chorda tympani}}, a branch of CN VII, carries taste from the {{c2::anterior 2/3}} of the tongue."
   },
   {
-   "id": "anat-p171-011",
-   "deck": "Head and Neck",
-   "section": "Facial nerve (CN VII)",
-   "page": 171,
-   "text": "Because chorda tympani fibres travel with the lingual nerve, an {{c1::inferior alveolar nerve block}} can cause temporary {{c2::dry mouth or taste disturbance}}."
-  },
-  {
    "id": "anat-p171-012",
    "deck": "Head and Neck",
    "section": "Facial nerve (CN VII)",
    "page": 171,
-   "text": "CN VII has {{c1::5}} terminal branches that pass through the {{c2::parotid gland}} but do not innervate it (the parotid is innervated by CN {{c3::IX}})."
+   "text": "The terminal branches of CN VII pass through the {{c1::parotid gland}} but do not innervate it (the parotid is innervated by CN {{c2::IX}})."
   },
   {
    "id": "anat-p171-013",
@@ -1737,25 +1652,11 @@
    "text": "The {{c1::cervical}} branch of CN VII supplies the {{c2::platysma}}."
   },
   {
-   "id": "anat-p171-020",
-   "deck": "Head and Neck",
-   "section": "Facial nerve (CN VII)",
-   "page": 171,
-   "text": "Facial paralysis of CN VII is called {{c1::Bell's palsy}}; it may follow a virus, dental procedures or spread of infection."
-  },
-  {
    "id": "anat-p171-021",
    "deck": "Head and Neck",
    "section": "Facial nerve (CN VII)",
    "page": 171,
    "text": "Bell's palsy signs: sudden {{c1::one-sided}} facial droop, inability to {{c2::close one eye}}, loss of facial expression, dry mouth or altered taste."
-  },
-  {
-   "id": "anat-p171-022",
-   "deck": "Head and Neck",
-   "section": "Facial nerve (CN VII)",
-   "page": 171,
-   "text": "In Bell's palsy, {{c1::protect the eye}} with artificial tears or by taping the eyelid shut at night if blinking is impaired."
   },
   {
    "id": "anat-p171-023",
@@ -1807,20 +1708,6 @@
    "text": "In dentistry we focus on {{c1::exocrine}} glands, which have {{c2::ducts}} that release saliva into the oral cavity."
   },
   {
-   "id": "anat-p172-006",
-   "deck": "Head and Neck",
-   "section": "Glands",
-   "page": 172,
-   "text": "{{c1::Serous}} secretion is watery and enzyme-rich, containing {{c2::amylase}} to break down starch."
-  },
-  {
-   "id": "anat-p172-007",
-   "deck": "Head and Neck",
-   "section": "Glands",
-   "page": 172,
-   "text": "{{c1::Mucous}} secretion is thick and sticky and lubricates the oral cavity."
-  },
-  {
    "id": "anat-p172-008",
    "deck": "Head and Neck",
    "section": "Glands",
@@ -1853,7 +1740,7 @@
    "deck": "Head and Neck",
    "section": "Glands",
    "page": 172,
-   "text": "The {{c1::3}} paired major salivary glands are the {{c2::parotid, submandibular and sublingual}}; they produce most of the saliva."
+   "text": "The three paired major salivary glands are the {{c1::parotid, submandibular and sublingual}}; they produce most of the saliva."
   },
   {
    "id": "anat-p172-013",
@@ -2015,5 +1902,823 @@
    "extra": "The book wording (\"pushing the opposite condyle forward\") is muddled; the contracting lateral pterygoid moves its own condyle forward and the jaw deviates to the other side."
   }
  ],
- "mcq": []
+ "basic": [
+  {
+   "id": "anat-p166-b-01",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 166,
+   "front": "Why can a PSA block cause a hematoma — and what dangerous spread of infection can follow?",
+   "back": "The needle can puncture the <b>pterygoid venous plexus</b> → hematoma; infection can spread through the plexus to the <b>cavernous sinus</b>.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p167-b-01",
+   "deck": "Head and Neck",
+   "section": "Tonsils",
+   "page": 167,
+   "front": "Adenoids",
+   "back": "The pharyngeal tonsils — lymphatic tissue on the nasopharynx, behind the nasal cavity",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p167-b-02",
+   "deck": "Head and Neck",
+   "section": "Tonsils",
+   "page": 167,
+   "front": "Lingual thyroid",
+   "back": "A mass of thyroid tissue on the tongue, caused by (incomplete) migration of the thyroid gland",
+   "reverse": true,
+   "extra": "Not to be confused with the lingual tonsil (lymphatic tissue on the base of the tongue)."
+  },
+  {
+   "id": "anat-p168-b-01",
+   "deck": "Head and Neck",
+   "section": "Nervous system",
+   "page": 168,
+   "front": "Sensory (afferent) nerve",
+   "back": "Carries signals TO the brain (e.g., toothache, tongue temperature)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p168-b-02",
+   "deck": "Head and Neck",
+   "section": "Nervous system",
+   "page": 168,
+   "front": "Motor (efferent) nerve",
+   "back": "Carries commands FROM the brain to muscles and glands (e.g., chewing, salivating)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p168-b-03",
+   "deck": "Head and Neck",
+   "section": "Nervous system",
+   "page": 168,
+   "front": "Mixed nerve",
+   "back": "A nerve containing both sensory and motor fibres",
+   "reverse": true,
+   "extra": "Most cranial nerves supplying the face are mixed."
+  },
+  {
+   "id": "anat-p169-b-01",
+   "deck": "Head and Neck",
+   "section": "Cranial nerves",
+   "page": 169,
+   "front": "How do you test CN XII (hypoglossal), and what finding indicates damage?",
+   "back": "Ask the patient to stick out the tongue — <b>deviation</b> indicates nerve damage.",
+   "reverse": false,
+   "extra": "Standard teaching: the tongue deviates TOWARD the damaged side (the book does not state the side)."
+  },
+  {
+   "id": "anat-p170-b-01",
+   "deck": "Head and Neck",
+   "section": "Trigeminal nerve (CN V)",
+   "page": 170,
+   "front": "Trigeminal neuralgia",
+   "back": "Chronic condition of sudden, severe, electric-shock-like facial pain along CN V (most often V2 or V3)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p170-b-02",
+   "deck": "Head and Neck",
+   "section": "Trigeminal nerve (CN V)",
+   "page": 170,
+   "front": "After a successful IA block the mandibular teeth are numb, yet more injections may be needed. Why?",
+   "back": "The inferior alveolar nerve supplies the <b>pulps</b> of the mandibular teeth but NOT the surrounding gingiva — that is supplied by the long buccal, mental and lingual nerves.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p171-b-01",
+   "deck": "Head and Neck",
+   "section": "Facial nerve (CN VII)",
+   "page": 171,
+   "front": "Why can an IA block cause temporary taste disturbance or dry mouth?",
+   "back": "Chorda tympani fibres (CN VII: taste anterior 2/3, submandibular/sublingual secretion) travel with the <b>lingual nerve</b>, which the IA block also anesthetizes.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p171-b-02",
+   "deck": "Head and Neck",
+   "section": "Facial nerve (CN VII)",
+   "page": 171,
+   "front": "Bell's palsy",
+   "back": "Paralysis of the facial nerve (CN VII); may follow a virus, dental procedures or spread of infection",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p171-b-03",
+   "deck": "Head and Neck",
+   "section": "Facial nerve (CN VII)",
+   "page": 171,
+   "front": "A patient with Bell's palsy cannot close one eye fully. What should you advise?",
+   "back": "Protect the eye — artificial tears, and taping the eyelid shut at night if blinking is impaired.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "anat-p172-b-01",
+   "deck": "Head and Neck",
+   "section": "Glands",
+   "page": 172,
+   "front": "Serous secretion",
+   "back": "Watery, enzyme-rich saliva containing amylase (breaks down starch)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "anat-p172-b-02",
+   "deck": "Head and Neck",
+   "section": "Glands",
+   "page": 172,
+   "front": "Mucous secretion",
+   "back": "Thick, sticky saliva that lubricates the oral cavity",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "anat-p168-t-01",
+   "deck": "Head and Neck",
+   "section": "Cranial nerves",
+   "page": 168,
+   "question": "How many pairs of cranial nerves emerge directly from the brain?",
+   "answer": "12",
+   "extra": ""
+  },
+  {
+   "id": "anat-p170-t-01",
+   "deck": "Head and Neck",
+   "section": "Trigeminal nerve (CN V)",
+   "page": 170,
+   "question": "The MSA nerve is absent in about what percentage of people? (e.g. 30%)",
+   "answer": "50%",
+   "extra": ""
+  },
+  {
+   "id": "anat-p171-t-01",
+   "deck": "Head and Neck",
+   "section": "Facial nerve (CN VII)",
+   "page": 171,
+   "question": "How many terminal branches does the facial nerve (CN VII) have?",
+   "answer": "5",
+   "extra": "Temporal, zygomatic, buccal, marginal mandibular, cervical — Tom's Zebra Bit My Cat."
+  },
+  {
+   "id": "anat-p172-t-01",
+   "deck": "Head and Neck",
+   "section": "Glands",
+   "page": 172,
+   "question": "How many PAIRED major salivary glands are there?",
+   "answer": "3",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "anat-p166-m-01",
+   "deck": "Head and Neck",
+   "section": "Lymph nodes of the head and neck",
+   "page": 166,
+   "prompt": "Match each lymph node group to what it drains.",
+   "pairs": [
+    [
+     "Submental",
+     "Mandibular incisors, tip of tongue, chin"
+    ],
+    [
+     "Submandibular",
+     "Most teeth (not mand. incisors or max. 3rd molars)"
+    ],
+    [
+     "Tonsillar (jugulodigastric)",
+     "Palatine tonsils, soft palate, posterior tongue"
+    ],
+    [
+     "Preauricular",
+     "External ear, lateral eyelids"
+    ],
+    [
+     "Posterior cervical",
+     "Scalp and back of the head"
+    ],
+    [
+     "Supraclavicular",
+     "Thoracic cavity"
+    ],
+    [
+     "Deep cervical",
+     "All head and neck nodes (final common drainage)"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p170-m-01",
+   "deck": "Head and Neck",
+   "section": "Trigeminal nerve (CN V)",
+   "page": 170,
+   "prompt": "Match each maxillary (V2) nerve to the teeth / tissue it supplies.",
+   "pairs": [
+    [
+     "PSA",
+     "Maxillary molars, buccal gingiva, sinus"
+    ],
+    [
+     "MSA",
+     "Premolars + MB root of 1st molar"
+    ],
+    [
+     "ASA",
+     "Canines and incisors, facial gingiva"
+    ],
+    [
+     "Greater palatine",
+     "Posterior hard palate"
+    ],
+    [
+     "Nasopalatine",
+     "Anterior hard palate behind the incisors"
+    ],
+    [
+     "Infraorbital",
+     "Lower eyelid, cheek, upper lip"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p171-m-01",
+   "deck": "Head and Neck",
+   "section": "Trigeminal nerve (CN V)",
+   "page": 171,
+   "prompt": "Match each mandibular (V3) nerve to the teeth / tissue it supplies.",
+   "pairs": [
+    [
+     "Inferior alveolar",
+     "Pulps of all mandibular teeth"
+    ],
+    [
+     "Incisive",
+     "Mandibular anterior teeth (inside the canal)"
+    ],
+    [
+     "Mental",
+     "Chin, lower lip, facial gingiva of anteriors/premolars"
+    ],
+    [
+     "Lingual",
+     "Anterior 2/3 of tongue, lingual gingiva"
+    ],
+    [
+     "Long buccal",
+     "Buccal gingiva of mandibular molars"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p171-m-02",
+   "deck": "Head and Neck",
+   "section": "Facial nerve (CN VII)",
+   "page": 171,
+   "prompt": "Match each facial-nerve branch to the area it supplies.",
+   "pairs": [
+    [
+     "Temporal",
+     "Forehead and upper eyelid (frontalis)"
+    ],
+    [
+     "Zygomatic",
+     "Lower eyelid and upper cheek"
+    ],
+    [
+     "Buccal",
+     "Cheek and upper lip (buccinator, orbicularis oris)"
+    ],
+    [
+     "Marginal mandibular",
+     "Lower lip and chin"
+    ],
+    [
+     "Cervical",
+     "Platysma"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p173-m-01",
+   "deck": "Head and Neck",
+   "section": "Major salivary glands",
+   "page": 173,
+   "prompt": "Match each major salivary gland to its duct(s).",
+   "pairs": [
+    [
+     "Parotid",
+     "Stensen's duct — opens near max. 1st molar"
+    ],
+    [
+     "Submandibular",
+     "Wharton's duct — opens at sublingual caruncle"
+    ],
+    [
+     "Sublingual",
+     "Bartholin's and Rivinus' ducts — floor of mouth"
+    ]
+   ]
+  },
+  {
+   "id": "anat-p173-m-02",
+   "deck": "Head and Neck",
+   "section": "Temporomandibular joint (TMJ)",
+   "page": 173,
+   "prompt": "Match each jaw movement to the muscles that produce it.",
+   "pairs": [
+    [
+     "Opening (depression)",
+     "Suprahyoids + lateral pterygoid"
+    ],
+    [
+     "Closing (elevation)",
+     "Masseter, temporalis, medial pterygoid"
+    ],
+    [
+     "Protrusion",
+     "Both lateral pterygoids"
+    ],
+    [
+     "Retrusion",
+     "Posterior temporalis + digastric"
+    ],
+    [
+     "Lateral deviation",
+     "One lateral pterygoid (jaw moves to the opposite side)"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "anat-p166-o-01",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 166,
+   "prompt": "Put the venous drainage of the face / oral cavity in order, from the tissues to the heart.",
+   "items": [
+    "Facial vein",
+    "Internal or external jugular vein",
+    "Subclavian vein",
+    "Brachiocephalic vein",
+    "Superior vena cava",
+    "Heart"
+   ]
+  },
+  {
+   "id": "anat-p167-o-01",
+   "deck": "Head and Neck",
+   "section": "Teeth lymphatic drainage",
+   "page": 167,
+   "prompt": "Put the lymphatic drainage of a mandibular molar in order.",
+   "items": [
+    "Submandibular nodes",
+    "Deep cervical nodes",
+    "Jugular trunk",
+    "Subclavian vein"
+   ]
+  },
+  {
+   "id": "anat-p168-o-01",
+   "deck": "Head and Neck",
+   "section": "Cranial nerves",
+   "page": 168,
+   "prompt": "Put the cranial nerves in order (I → XII).",
+   "items": [
+    "Olfactory",
+    "Optic",
+    "Oculomotor",
+    "Trochlear",
+    "Trigeminal",
+    "Abducens",
+    "Facial",
+    "Vestibulocochlear",
+    "Glossopharyngeal",
+    "Vagus",
+    "Accessory",
+    "Hypoglossal"
+   ]
+  },
+  {
+   "id": "anat-p171-o-01",
+   "deck": "Head and Neck",
+   "section": "Facial nerve (CN VII)",
+   "page": 171,
+   "prompt": "Put the five facial-nerve branches in order, top to bottom.",
+   "items": [
+    "Temporal",
+    "Zygomatic",
+    "Buccal",
+    "Marginal mandibular",
+    "Cervical"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "anat-p168-s-01",
+   "deck": "Head and Neck",
+   "section": "Nervous system",
+   "page": 168,
+   "prompt": "Sort each effect: sympathetic or parasympathetic?",
+   "categories": [
+    [
+     "Sympathetic",
+     [
+      "Reduces salivation",
+      "Thicker, more mucous saliva",
+      "Increases heart rate",
+      "Dilates the pupil"
+     ]
+    ],
+    [
+     "Parasympathetic",
+     [
+      "Stimulates salivation",
+      "More watery saliva",
+      "Slows the heart",
+      "Stimulates digestion"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p169-s-01",
+   "deck": "Head and Neck",
+   "section": "Cranial nerves",
+   "page": 169,
+   "prompt": "Sort the cranial nerves by type.",
+   "categories": [
+    [
+     "Sensory",
+     [
+      "I Olfactory",
+      "II Optic",
+      "VIII Vestibulocochlear"
+     ]
+    ],
+    [
+     "Motor",
+     [
+      "III Oculomotor",
+      "IV Trochlear",
+      "VI Abducens",
+      "XI Accessory",
+      "XII Hypoglossal"
+     ]
+    ],
+    [
+     "Both",
+     [
+      "V Trigeminal",
+      "VII Facial",
+      "IX Glossopharyngeal",
+      "X Vagus"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p170-s-01",
+   "deck": "Head and Neck",
+   "section": "Trigeminal nerve (CN V)",
+   "page": 170,
+   "prompt": "Sort the nerves by trigeminal division.",
+   "categories": [
+    [
+     "V2 – Maxillary",
+     [
+      "PSA",
+      "MSA",
+      "ASA",
+      "Infraorbital",
+      "Greater palatine",
+      "Nasopalatine"
+     ]
+    ],
+    [
+     "V3 – Mandibular",
+     [
+      "Inferior alveolar",
+      "Incisive",
+      "Mental",
+      "Lingual",
+      "Long buccal"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "anat-p171-s-01",
+   "deck": "Head and Neck",
+   "section": "Facial nerve (CN VII)",
+   "page": 171,
+   "prompt": "Trigeminal (V) or facial (VII)? Sort each function.",
+   "categories": [
+    [
+     "CN V – Trigeminal",
+     [
+      "Sensation of teeth and gingiva",
+      "Muscles of mastication",
+      "General sensation, anterior 2/3 of tongue",
+      "TMJ innervation"
+     ]
+    ],
+    [
+     "CN VII – Facial",
+     [
+      "Muscles of facial expression",
+      "Taste, anterior 2/3 of tongue",
+      "Submandibular and sublingual secretion",
+      "Platysma"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "anat-p166-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 166,
+   "question": "An untreated maxillary molar infection spreads posteriorly through the pterygoid venous plexus. Which intracranial structure is it most at risk of reaching?",
+   "options": [
+    "A. Superior sagittal sinus",
+    "B. Cavernous sinus",
+    "C. Sigmoid sinus",
+    "D. Internal carotid artery"
+   ],
+   "answer": "B. Cavernous sinus",
+   "explanation": "The pterygoid plexus communicates with the cavernous sinus, so infection can spread there (cavernous sinus thrombosis). The other sinuses are not directly connected to the plexus."
+  },
+  {
+   "id": "anat-p166-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 166,
+   "question": "Which vessel runs inside the carotid sheath together with the common carotid artery and the vagus nerve?",
+   "options": [
+    "A. External jugular vein",
+    "B. Facial vein",
+    "C. Internal jugular vein",
+    "D. Subclavian vein"
+   ],
+   "answer": "C. Internal jugular vein",
+   "explanation": "The IJV runs deep in the carotid sheath. The EJV, the best distractor, runs superficially over the SCM and is often visible."
+  },
+  {
+   "id": "anat-p166-mcq-03",
+   "deck": "Head and Neck",
+   "section": "Lymph nodes of the head and neck",
+   "page": 166,
+   "question": "During the extraoral exam you palpate a tender, enlarged node directly under the chin. Which is the most likely source of the infection?",
+   "options": [
+    "A. Abscess on a mandibular central incisor",
+    "B. Abscess on a maxillary first molar",
+    "C. Pericoronitis of a maxillary third molar",
+    "D. Tonsillitis"
+   ],
+   "answer": "A. Abscess on a mandibular central incisor",
+   "explanation": "The submental nodes drain the mandibular incisors, tip of tongue, lower lip center and chin. A maxillary first molar drains to the submandibular nodes, the max. 3rd molar to the superior deep cervical, the tonsils to the tonsillar nodes."
+  },
+  {
+   "id": "anat-p166-mcq-04",
+   "deck": "Head and Neck",
+   "section": "Lymph nodes of the head and neck",
+   "page": 166,
+   "question": "A 19-year-old with infectious mononucleosis presents for a recall. Which lymph nodes are most likely to be palpably enlarged?",
+   "options": [
+    "A. Supraclavicular",
+    "B. Submental",
+    "C. Preauricular",
+    "D. Posterior cervical"
+   ],
+   "answer": "D. Posterior cervical",
+   "explanation": "The posterior cervical nodes are important in viral infections such as mono or rubella. Supraclavicular nodes drain the thoracic cavity and are not typically involved."
+  },
+  {
+   "id": "anat-p167-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Teeth lymphatic drainage",
+   "page": 167,
+   "question": "Lymph from an infected maxillary third molar drains FIRST to which nodes?",
+   "options": [
+    "A. Submandibular",
+    "B. Submental",
+    "C. Superior deep cervical",
+    "D. Facial"
+   ],
+   "answer": "C. Superior deep cervical",
+   "explanation": "Maxillary third molars bypass the submandibular nodes and drain directly to the superior deep cervical nodes. Submandibular is the trap — it drains almost every other tooth."
+  },
+  {
+   "id": "anat-p167-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Tonsils",
+   "page": 167,
+   "question": "A smooth mass is found on the base of the tongue, posterior to the circumvallate papillae. A biopsy shows thyroid tissue. This is a:",
+   "options": [
+    "A. Lingual tonsil",
+    "B. Lingual thyroid",
+    "C. Pharyngeal tonsil",
+    "D. Palatine tonsil"
+   ],
+   "answer": "B. Lingual thyroid",
+   "explanation": "Lingual thyroid is thyroid tissue on the tongue from migration of the thyroid gland. The lingual tonsil sits in the same place but is lymphatic tissue."
+  },
+  {
+   "id": "anat-p168-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Nervous system",
+   "page": 168,
+   "question": "An anxious patient complains of a dry mouth and racing heart just before treatment. Which division of the nervous system is responsible?",
+   "options": [
+    "A. Parasympathetic",
+    "B. Somatic",
+    "C. Sympathetic",
+    "D. Central"
+   ],
+   "answer": "C. Sympathetic",
+   "explanation": "Sympathetic (\"fight or flight\") stimulation reduces salivation and raises heart rate. Parasympathetic does the opposite (more watery saliva, slower heart)."
+  },
+  {
+   "id": "anat-p169-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Cranial nerves",
+   "page": 169,
+   "question": "When asked to stick out her tongue, a patient’s tongue deviates to one side. Which cranial nerve is most likely damaged?",
+   "options": [
+    "A. CN VII (facial)",
+    "B. CN IX (glossopharyngeal)",
+    "C. CN X (vagus)",
+    "D. CN XII (hypoglossal)"
+   ],
+   "answer": "D. CN XII (hypoglossal)",
+   "explanation": "CN XII is motor to the tongue; deviation on protrusion indicates damage. CN IX and VII carry taste/sensation, not tongue movement."
+  },
+  {
+   "id": "anat-p169-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Cranial nerves",
+   "page": 169,
+   "question": "Secretion of the parotid gland is controlled by which cranial nerve?",
+   "options": [
+    "A. CN V (trigeminal)",
+    "B. CN VII (facial)",
+    "C. CN IX (glossopharyngeal)",
+    "D. CN X (vagus)"
+   ],
+   "answer": "C. CN IX (glossopharyngeal)",
+   "explanation": "CN IX supplies the parotid via the otic ganglion. CN VII is the classic trap: its branches pass THROUGH the parotid but do not innervate it (VII supplies the submandibular and sublingual glands)."
+  },
+  {
+   "id": "anat-p170-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Trigeminal nerve (CN V)",
+   "page": 170,
+   "question": "Which injection is used to anesthetize the maxillary premolars and the mesiobuccal root of the maxillary first molar?",
+   "options": [
+    "A. PSA",
+    "B. MSA",
+    "C. ASA",
+    "D. Greater palatine"
+   ],
+   "answer": "B. MSA",
+   "explanation": "The MSA supplies the premolars and the MB root of the 1st molar (when present). The PSA supplies the molars but may miss the MB root of the 1st molar."
+  },
+  {
+   "id": "anat-p170-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Trigeminal nerve (CN V)",
+   "page": 170,
+   "question": "You need to anesthetize the palatal tissue lingual to the maxillary second molar. Which nerve do you target?",
+   "options": [
+    "A. Nasopalatine",
+    "B. Greater palatine",
+    "C. Infraorbital",
+    "D. Posterior superior alveolar"
+   ],
+   "answer": "B. Greater palatine",
+   "explanation": "The greater palatine nerve exits the greater palatine foramen near the 2nd molar and supplies the posterior hard palate. The nasopalatine supplies only the anterior palate behind the incisors."
+  },
+  {
+   "id": "anat-p171-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Trigeminal nerve (CN V)",
+   "page": 171,
+   "question": "After an IA block, the mandibular first molar and the patient’s tongue are numb, but the buccal gingiva of the first molar is still sensitive. Which additional injection is needed?",
+   "options": [
+    "A. Mental",
+    "B. Incisive",
+    "C. Long buccal",
+    "D. Lingual"
+   ],
+   "answer": "C. Long buccal",
+   "explanation": "The long buccal nerve supplies the buccal gingiva of mandibular molars and often needs a separate injection. The lingual is already numb (tongue), and the mental covers only anterior/premolar facial tissue."
+  },
+  {
+   "id": "anat-p171-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Facial nerve (CN VII)",
+   "page": 171,
+   "question": "A patient wakes with a sudden right-sided facial droop, cannot close the right eye, and reports altered taste. Teeth and facial skin sensation are normal. Which condition and nerve are most likely involved?",
+   "options": [
+    "A. Bell's palsy — CN VII",
+    "B. Trigeminal neuralgia — CN V",
+    "C. Bell's palsy — CN V",
+    "D. Hypoglossal palsy — CN XII"
+   ],
+   "answer": "A. Bell's palsy — CN VII",
+   "explanation": "Bell's palsy is a facial (CN VII) paralysis: one-sided droop, inability to close the eye, altered taste. Sensation is normal because sensation is CN V; trigeminal neuralgia is pain, not paralysis."
+  },
+  {
+   "id": "anat-p172-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Tongue innervation",
+   "page": 172,
+   "question": "Damage to the chorda tympani would most likely cause loss of:",
+   "options": [
+    "A. Taste on the anterior 2/3 of the tongue",
+    "B. General sensation on the anterior 2/3 of the tongue",
+    "C. Taste on the posterior 1/3 of the tongue",
+    "D. Tongue movement"
+   ],
+   "answer": "A. Taste on the anterior 2/3 of the tongue",
+   "explanation": "The chorda tympani (CN VII) carries taste from the anterior 2/3. General sensation there is CN V (lingual nerve); posterior 1/3 is CN IX; movement is CN XII."
+  },
+  {
+   "id": "anat-p173-mcq-01",
+   "deck": "Head and Neck",
+   "section": "Major salivary glands",
+   "page": 173,
+   "question": "A salivary stone blocks the duct opening at the sublingual caruncle. Which gland is most likely to swell?",
+   "options": [
+    "A. Parotid",
+    "B. Submandibular",
+    "C. Sublingual",
+    "D. Minor labial glands"
+   ],
+   "answer": "B. Submandibular",
+   "explanation": "The submandibular (Wharton's) duct opens at the sublingual caruncle. The sublingual gland's many small ducts open directly into the floor of the mouth; the parotid's opens near the max. 1st molar."
+  },
+  {
+   "id": "anat-p173-mcq-02",
+   "deck": "Head and Neck",
+   "section": "Major salivary glands",
+   "page": 173,
+   "question": "All of the following statements about the parotid gland are true EXCEPT:",
+   "options": [
+    "A. It is the largest salivary gland",
+    "B. It produces serous saliva",
+    "C. Its duct opens near the maxillary first molar",
+    "D. It is innervated by the facial nerve"
+   ],
+   "answer": "D. It is innervated by the facial nerve",
+   "explanation": "The parotid is innervated by CN IX (glossopharyngeal); CN VII only passes through it. The other three statements are true."
+  },
+  {
+   "id": "anat-p173-mcq-03",
+   "deck": "Head and Neck",
+   "section": "Temporomandibular joint (TMJ)",
+   "page": 173,
+   "question": "When the mouth begins to open, what is the FIRST movement of the mandibular condyle?",
+   "options": [
+    "A. Translation in the upper joint space",
+    "B. Rotation in the lower joint space",
+    "C. Rotation in the upper joint space",
+    "D. Translation onto the articular eminence"
+   ],
+   "answer": "B. Rotation in the lower joint space",
+   "explanation": "Opening starts with rotation (hinge) in the lower joint space, then translation as condyle and disc slide forward onto the articular eminence. The upper compartment is the gliding one."
+  },
+  {
+   "id": "anat-p173-mcq-04",
+   "deck": "Head and Neck",
+   "section": "Temporomandibular joint (TMJ)",
+   "page": 173,
+   "question": "To shift the mandible to the LEFT, which muscle contracts?",
+   "options": [
+    "A. Left lateral pterygoid",
+    "B. Right lateral pterygoid",
+    "C. Left masseter",
+    "D. Right temporalis (posterior fibres)"
+   ],
+   "answer": "B. Right lateral pterygoid",
+   "explanation": "In lateral deviation one lateral pterygoid pulls its own condyle forward, swinging the jaw to the opposite side — so the right lateral pterygoid moves the jaw left. The left lateral pterygoid would move it right."
+  }
+ ]
 }
