@@ -166,9 +166,22 @@ desktop/AnkiMobile/AnkiDroid and can be previewed off-device):
   GUID = `guid_for('nbdhe-io', diagram name, answer)`. Changing an answer's text creates a new
   note (old one orphaned) — fix label text before the student starts reviewing.
 
-**Verify before shipping:** unzip the `.apkg` (python `zipfile`; no `unzip` on the server), read
-`collection.anki2` (models + notes) and `media` map, fill the templates, render front/back in
-Playwright at 390 px (light + `nightMode`) and 900 px. Look at every changed card.
+**Media rule (bit us 2026-10-08):** Anki's importer DROPS media not referenced by an
+`<img src="…">` *inside a field*. A bare filename in a field + `<img src="{{Image}}">` in the
+template imports cards with NO images. So the Image field holds the full `<img src="x.jpg">`
+and the template uses `{{Image}}`.
+
+**Verify before shipping (mandatory):**
+`.tools/.venv/bin/python .tools/anki/test_import.py <deck>.apkg [preview.png]` — imports into a
+throwaway collection with Anki's REAL importer (`pip install anki`), checks every referenced
+image survived, and (with a 2nd arg) screenshots the first cards from the HTML Anki itself
+generates. Look at the screenshot. Unzipping the .apkg and filling templates yourself is NOT
+enough — it misses importer behaviour.
+
+**Changing the note type's templates/fields:** Anki may keep the old templates on re-import.
+For a test deck with no reviews: have them delete the note type (Tools → Manage Note Types →
+NBDHE Image Occlusion → Delete) and re-import. Once she has review history, never do that —
+change templates only with a deliberate migration plan.
 
 ---
 
@@ -194,6 +207,7 @@ Playwright at 390 px (light + `nightMode`) and 900 px. Look at every changed car
 | 10-08 | All other cards deleted; focus on p.148 images first, then rescope | Steven's call — get the image mechanism right before scaling |
 | 10-08 | **Switch flashcards to Anki** | Obsidian SR review UI can't be made to look good; Anki has a polished reviewer, full HTML/CSS card templates, FSRS, updates keep history |
 | 10-08 | Custom Anki note type for occlusion (not built-in IO) | generated off-device reliably; previewable; same render on every Anki client |
+| 10-08 | Image must be `<img>` inside the field; verify with Anki's real importer | first test deck shipped with no images — preview skipped the importer |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items

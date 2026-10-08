@@ -53,9 +53,9 @@ CSS = """
 
 BOX = 'left:{{Left}}%;top:{{Top}}%;width:{{Width}}%;height:{{Height}}%'
 FRONT = f"""<div class="io-title">{{{{Title}}}}</div>
-<div class="io"><img src="{{{{Image}}}}"><div class="io-box ask" style="{BOX}">?</div></div>"""
+<div class="io">{{{{Image}}}}<div class="io-box ask" style="{BOX}">?</div></div>"""
 BACK = f"""<div class="io-title">{{{{Title}}}}</div>
-<div class="io"><img src="{{{{Image}}}}"><div class="io-box show" style="{BOX}">{{{{Answer}}}}</div></div>
+<div class="io">{{{{Image}}}}<div class="io-box show" style="{BOX}">{{{{Answer}}}}</div></div>
 {{{{#Extra}}}}<div class="io-extra">{{{{Extra}}}}</div>{{{{/Extra}}}}"""
 
 MODEL = genanki.Model(
@@ -79,7 +79,7 @@ def notes_for(spec, book_page):
         bw, bh = box[2] - box[0] + 2 * PAD, box[3] - box[1] + 2 * PAD
         yield genanki.Note(
             model=MODEL,
-            fields=[answer, f"{spec['name']}.jpg", TITLES[spec['name']],
+            fields=[answer, f"<img src=\"{spec['name']}.jpg\">", TITLES[spec['name']],
                     f'{100*x0/w:.2f}', f'{100*y0/h:.2f}', f'{100*bw/w:.2f}', f'{100*bh/h:.2f}',
                     '', f'StudentRDH Anatomy p.{book_page}'],
             guid=genanki.guid_for('nbdhe-io', spec['name'], answer),
