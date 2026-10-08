@@ -45,13 +45,9 @@ The PDFs are **scans** (copier images, no text layer) — read them with the Rea
 - Deck tag at the top of each note: `#flashcards/rdh/<book>` (e.g. `#flashcards/rdh/anatomy`).
 - Frontmatter `source:` gives the book pages the note came from.
 
-## Image cards (labeled diagrams)
+## Image cards
 
-`.tools/occlude.py` crops a diagram from a page and covers each label with a numbered
-orange box → `<name>-q.png` (question) + `<name>.png` (answer). Specs live in
-`.tools/<book>-diagrams.json`; `.tools/detect.py` finds the book's pale-cyan/yellow label
-boxes but misses some — **always look at the `-q` image before committing**. Diagrams whose
-labels are plain text (no boxes, e.g. body planes, Anatomy p.150) need boxes by hand.
+v3 in-place image occlusion — see RUNBOOK §5 (mechanism, procedure, verification).
 
 ## Status / open questions (keep updated)
 
@@ -60,4 +56,6 @@ labels are plain text (no boxes, e.g. body planes, Anatomy p.150) need boxes by 
   shallow (definitions, not NBDHE-style application), messy note, trivia, repetitive image
   cards. Ask before mass-producing more.
 - He considered Anki / a custom web app; as of 2026-10-08 he chose to stay in Obsidian.
+- 2026-10-08: ALL text cards deleted at Steven's request; Anatomy 01 now = 17 image cards for the
+  two p.148 diagrams only. Get images right first, then rescope.
 - 2026-10-08: Mac sync live (`vault-sync`, see RUNBOOK §2–3); first Mac sync 52b1fbb.

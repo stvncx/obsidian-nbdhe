@@ -95,25 +95,49 @@ learning design overrides these defaults.** Each section note has four parts:
 2. **Must-know facts**: minimum-information recall (one fact per card) for things that
    just have to be memorized (numbers, duct openings).
 3. **Tell apart**: contrast cards for easily-confused pairs/triads (discrimination).
-4. **Diagrams**: ONE "name the N numbered structures" card per diagram (not one per label).
+4. **Diagrams**: v3 image-occlusion cards (§5).
 Target ~15–25 cards per section; skip low-yield trivia; weight sections by the test specs.
 Add clinically relevant, exam-tested facts the book omits (e.g. attached gingiva width; IANB
 landmark) when they belong to the section's topic.
 
-## 5. Image (occlusion) cards
+## 5. Image (occlusion) cards — v3 (2026-10-08, Steven's design)
 
-1. Render the page: `occlude.py` renders on demand into `.tools/cache/<Book>-NNN.png` (200 dpi).
-2. Find label boxes: `.tools/.venv/bin/python .tools/detect.py .tools/cache/<Book>-NNN.png`
-   (finds pale-cyan `(~210,250,254)` and yellow label backgrounds). It **misses some** — add
-   those by hand (sample pixel colors / crop to find coordinates).
-3. Add an entry to `.tools/<book>-diagrams.json`: `name` (prefix per book, e.g. `anat-`),
-   `pdf`, `pdf_page`, `crop`, `labels` [[box], "answer"] in reading order.
-4. Build: `.tools/.venv/bin/python .tools/occlude.py .tools/<book>-diagrams.json Flashcards/<Book>/images`
-   → `<name>.png` (answer) + `<name>-q.png` (labels covered by numbered orange boxes).
-5. **Look at every `-q` image** before committing (missed boxes leak answers).
-6. Card (v2): `![[<name>-q.png|600]]` / "Name the N numbered structures." / `?` /
-   numbered answer list on one line / `![[<name>.png|600]]`. (v1 had one card per label — dropped as repetitive.)
-7. Diagrams with plain-text labels (no boxes, e.g. Anatomy p.150 body planes) need boxes by hand.
+**Design:** same full-size diagram on every card, **one** label covered per card, and the
+answer is revealed **in place** (inside the cover box, on the image) — no flip to a second
+image. Other labels stay visible.
+
+**Mechanism** (why it works in the SR plugin):
+- SR *cloze* cards redraw the whole card on reveal (`drawBack`: `content.empty()` for cloze;
+  other card types append the answer under an `<hr>`). So a cloze inside the cover box shows
+  `[...]` on the front and the term on the back, in the same spot. Checked in the plugin's
+  `main.js` (v1.15.4) — re-check if the plugin's major version changes.
+- Each card is ONE line of HTML: `<div class="occ occ-<diagram>"><span class="occ-box"
+  style="left/top/width/height in %">==Answer==</span></div>` (blank line between cards).
+- The diagram is a CSS background, embedded as a JPEG data URI in the vault CSS snippet
+  `.obsidian/snippets/rdh-occlusion.css` → renders on Mac/iPhone/iPad with no image-path
+  issues. Snippet enabled via `.obsidian/appearance.json` → `enabledCssSnippets`.
+- Text in the box scales with the image (`container-type: inline-size`, `font-size: 2.5cqw`)
+  and wraps for long labels.
+- In normal note view the cards show as raw HTML with `==Answer==` — expected; review via SR.
+
+**Procedure:**
+1. Label boxes: `.tools/.venv/bin/python .tools/detect.py .tools/cache/<Book>-NNN.png` (finds the
+   book's pale-cyan `(~210,250,254)` / yellow callouts; **misses some** — add by hand).
+   Pages render on demand at 200 dpi into `.tools/cache/` (via `occlude.render`).
+2. Spec entry in `.tools/<book>-diagrams.json`: `name` (prefix per book, e.g. `anat-`), `pdf`,
+   `pdf_page`, `crop`, `labels` [[x0,y0,x1,y1], "answer"] — answer = the book's label text
+   (typos fixed), so it fits the box.
+3. Generate: `.tools/.venv/bin/python .tools/occlusion_cards.py .tools/<book>-diagrams.json <name> [<name>…] > cards.md`
+   — rewrites the CSS snippet for the named diagrams and prints one card per label.
+   ⚠ The snippet holds ONLY the diagrams named in that run — pass ALL diagrams in use.
+4. **Verify visually** before committing: render front/back with Playwright (installed in
+   `.tools/.venv`, chromium headless) — simulate SR by replacing `==X==` with
+   `<span style='color:#2196f3'>[...]</span>` (front) / `…X…` (back); check at 700 px and 390 px.
+5. Paste cards into the section note, commit, push, Steven runs `vault-sync`.
+
+(v1, 10-07: numbered boxes on every label + separate answer image; v2: one "name all N"
+card per diagram. Both dropped — too many numbers, images too big, answer not in place.
+`.tools/occlude.py` is the v1 builder, kept only for `render()`.)
 
 ---
 
@@ -135,6 +159,8 @@ landmark) when they belong to the section's topic.
 | 10-08 | Write to the UPDATED test specs (effective 2026-11-01) | the student sits the exam ~January 2027 |
 | 10-08 | Exam's adopted standards override the book (AHA 2021/2017, ASA 2020, IADT 2020, AAP 2017, no film, smoking cigs/day) | JCNDE "Recent and Forthcoming Updates" (9/23/2026); the book may be older |
 | 10-08 | Card design v2 (exam-style MCQ + must-know + tell-apart + 1 diagram card) | v1 "kind of sucks": definition recall ≠ how the NBDHE tests. Steven to review |
+| 10-08 | Image cards v3: one label covered per card, revealed in place; images full width | Steven: images too big, too many numbers; wants same image, one occlusion, in-place reveal |
+| 10-08 | All other cards deleted; focus on p.148 images first, then rescope | Steven's call — get the image mechanism right before scaling |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items
