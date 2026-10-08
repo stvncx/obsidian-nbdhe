@@ -3,7 +3,7 @@ revealed in place on the image.
 
 Custom note type "NBDHE Image Occlusion" (own HTML/CSS — renders the same on Anki desktop,
 AnkiMobile, AnkiDroid). The back template does NOT include {{FrontSide}}: it redraws the
-same image with the same box, now showing the term, so the reveal is in place.
+same image with the cover removed (just an outline), so the book's own label is revealed in place.
 
 IDs are fixed (model, deck) and note GUIDs derive from diagram name + label text, so
 re-importing an updated deck UPDATES the notes and keeps the student's review history.
@@ -42,8 +42,8 @@ CSS = """
   box-sizing: border-box; border-radius: 6px; padding: 0 .35em; line-height: 1.1;
   font-size: 2.5cqw; font-weight: 700; text-align: center; white-space: normal; }
 .io-box.ask { background: #e8781e; color: #fff; border: 2px solid #b85a0e; font-size: 3.6cqw; }
-.io-box.show { background: #fff; color: #0b6bcb; border: 2px solid #0b6bcb;
-  box-shadow: 0 0 0 4px rgba(11,107,203,.25); }
+.io-box.show { background: transparent; border: 3px solid #0b6bcb;
+  box-shadow: 0 0 0 4px rgba(11,107,203,.25); }   /* cover removed: the book's own label shows */
 .io-extra { max-width: 1000px; margin: 12px auto 0; font-size: 16px; line-height: 1.45;
   text-align: left; color: #3a3a3c; }
 .nightMode.card, .night_mode .card { background: #1c1c1e; color: #f2f2f7; }
@@ -55,7 +55,7 @@ BOX = 'left:{{Left}}%;top:{{Top}}%;width:{{Width}}%;height:{{Height}}%'
 FRONT = f"""<div class="io-title">{{{{Title}}}}</div>
 <div class="io">{{{{Image}}}}<div class="io-box ask" style="{BOX}">?</div></div>"""
 BACK = f"""<div class="io-title">{{{{Title}}}}</div>
-<div class="io">{{{{Image}}}}<div class="io-box show" style="{BOX}">{{{{Answer}}}}</div></div>
+<div class="io">{{{{Image}}}}<div class="io-box show" style="{BOX}"></div></div>
 {{{{#Extra}}}}<div class="io-extra">{{{{Extra}}}}</div>{{{{/Extra}}}}"""
 
 MODEL = genanki.Model(

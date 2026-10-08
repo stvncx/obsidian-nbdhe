@@ -159,8 +159,10 @@ from the rendered page (1400 px JPEG → `.tools/anki/media/`), one note per lab
 built-in one is meant to be authored inside Anki; a custom type renders identically on
 desktop/AnkiMobile/AnkiDroid and can be previewed off-device):
 - Fields: Answer, Image, Title, Left, Top, Width, Height (box, % of image), Extra, Source.
-- Front: title + image + orange "?" box over ONE label. Back: same image + same box showing
-  the term (blue) — back template has no `{{FrontSide}}`, so the reveal is in place.
+- Front: title + image + orange "?" box over ONE label. Back: same image, cover REMOVED —
+  the book's own label shows, with a blue outline marking it (Steven, 10-08: "the original
+  word should just be revealed, not have another word appear on top"). Back template has no
+  `{{FrontSide}}`, so the reveal is in place. The Answer field is for search/sorting only.
 - Night mode via `.nightMode` / `.night_mode`. Box text scales with the image (`cqw`).
 - **Fixed IDs — never change:** `MODEL_ID 1728390001`, `DECK_ID 1728390101` (`NBDHE::Anatomy`),
   GUID = `guid_for('nbdhe-io', diagram name, answer)`. Changing an answer's text creates a new
@@ -208,6 +210,7 @@ change templates only with a deliberate migration plan.
 | 10-08 | **Switch flashcards to Anki** | Obsidian SR review UI can't be made to look good; Anki has a polished reviewer, full HTML/CSS card templates, FSRS, updates keep history |
 | 10-08 | Custom Anki note type for occlusion (not built-in IO) | generated off-device reliably; previewable; same render on every Anki client |
 | 10-08 | Image must be `<img>` inside the field; verify with Anki's real importer | first test deck shipped with no images — preview skipped the importer |
+| 10-08 | Reveal = remove the cover (book's label shows) + outline; no overlaid text | Steven's design |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items
