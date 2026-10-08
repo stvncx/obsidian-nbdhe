@@ -168,6 +168,14 @@ desktop/AnkiMobile/AnkiDroid and can be previewed off-device):
   GUID = `guid_for('nbdhe-io', diagram name, answer)`. Changing an answer's text creates a new
   note (old one orphaned) — fix label text before the student starts reviewing.
 
+**Cover size = the label's blue background, exactly** (Steven, 10-08). `tight_box()` in
+`build_deck.py` refits each rough spec box: mask pale cyan (or yellow) inside box+10 px →
+3×3 closing (NOT bigger: 7×7 bridged to neighbouring labels/arrows and made covers too tall)
+→ fill holes → keep the largest blob → its bbox, +2 px. Rough boxes in the spec can stay
+rough. Check single-line labels come out ~43–49 px tall on the 200-dpi page.
+Look at ALL fronts with `.tools/anki/contact_sheet.py <deck>.apkg out.png 700` (real import,
+every card, one image) — a 2-card preview missed the bad ones.
+
 **Media rule (bit us 2026-10-08):** Anki's importer DROPS media not referenced by an
 `<img src="…">` *inside a field*. A bare filename in a field + `<img src="{{Image}}">` in the
 template imports cards with NO images. So the Image field holds the full `<img src="x.jpg">`
@@ -211,6 +219,7 @@ change templates only with a deliberate migration plan.
 | 10-08 | Custom Anki note type for occlusion (not built-in IO) | generated off-device reliably; previewable; same render on every Anki client |
 | 10-08 | Image must be `<img>` inside the field; verify with Anki's real importer | first test deck shipped with no images — preview skipped the importer |
 | 10-08 | Reveal = remove the cover (book's label shows) + outline; no overlaid text | Steven's design |
+| 10-08 | Covers fitted to each label's blue background | Steven: covers too big; rough detection boxes were up to 50% taller than the label |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items

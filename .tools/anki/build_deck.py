@@ -21,7 +21,7 @@ from occlude import render
 ROOT = Path(__file__).resolve().parents[2]
 SPECS = ROOT / '.tools' / 'anatomy-diagrams.json'
 MEDIA = ROOT / '.tools' / 'anki' / 'media'
-PAD = 4          # px on the 200-dpi page, around each label box
+PAD = 2          # px on the 200-dpi page around the label's blue background (hides its soft edge)
 WIDTH = 1400     # px of the media image
 MODEL_ID = 1728390001      # fixed forever
 DECK_ID = 1728390101       # fixed forever: "NBDHE::Anatomy"
@@ -39,9 +39,9 @@ CSS = """
   box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 6px 20px rgba(0,0,0,.06); }
 .io img { width: 100%; height: auto; display: block; max-width: none; max-height: none; }
 .io-box { position: absolute; display: flex; align-items: center; justify-content: center;
-  box-sizing: border-box; border-radius: 6px; padding: 0 .35em; line-height: 1.1;
+  box-sizing: border-box; border-radius: 4px; padding: 0; line-height: 1.1;
   font-size: 2.5cqw; font-weight: 700; text-align: center; white-space: normal; }
-.io-box.ask { background: #e8781e; color: #fff; border: 2px solid #b85a0e; font-size: 3.6cqw; }
+.io-box.ask { background: #e8781e; color: #fff; border: 1px solid #b85a0e; font-size: 2.6cqw; }
 .io-box.show { background: transparent; border: 3px solid #0b6bcb;
   box-shadow: 0 0 0 4px rgba(11,107,203,.25); }   /* cover removed: the book's own label shows */
 .io-extra { max-width: 1000px; margin: 12px auto 0; font-size: 16px; line-height: 1.45;
@@ -72,9 +72,31 @@ def media_for(spec):
     im.resize((WIDTH, round(im.height * WIDTH / im.width)), Image.LANCZOS).save(out, 'JPEG', quality=88, optimize=True)
     return out
 
+def tight_box(page, box, slack=10):
+    """Fit the cover EXACTLY to the label's pale-blue background (Steven: "sized to the blue
+    background"). Inside the rough box (+slack): mask the label colour (pale cyan, or the
+    book's yellow callouts), close the text holes, keep the LARGEST connected blob (the label;
+    drops stray pale pixels in photos), and return its bounding box. Falls back to the box."""
+    import numpy as np
+    from scipy import ndimage as nd
+    x0, y0, x1, y1 = box[0] - slack, box[1] - slack, box[2] + slack, box[3] + slack
+    a = np.asarray(page.crop((x0, y0, x1, y1)).convert('RGB')).astype(int)
+    R, G, B = a[..., 0], a[..., 1], a[..., 2]
+    m = ((R > 180) & (R < 232) & (G > 232) & (B > 238)) | ((R > 240) & (G > 225) & (B < 170))
+    m = nd.binary_closing(m, structure=np.ones((3, 3)))   # small: must not bridge to neighbour labels/arrows
+    m = nd.binary_fill_holes(m)
+    lab, n = nd.label(m)
+    if n == 0:
+        return box
+    sizes = nd.sum(m, lab, range(1, n + 1)); k = int(np.argmax(sizes)) + 1
+    ys, xs = np.nonzero(lab == k)
+    return [x0 + xs.min(), y0 + ys.min(), x0 + xs.max() + 1, y0 + ys.max() + 1]
+
 def notes_for(spec, book_page):
     cx0, cy0, cx1, cy1 = spec['crop']; w, h = cx1 - cx0, cy1 - cy0
+    page = Image.open(render(spec['pdf'], spec['pdf_page'])).convert('RGB')
     for box, answer in spec['labels']:
+        box = tight_box(page, box)
         x0, y0 = box[0] - cx0 - PAD, box[1] - cy0 - PAD
         bw, bh = box[2] - box[0] + 2 * PAD, box[3] - box[1] + 2 * PAD
         yield genanki.Note(
