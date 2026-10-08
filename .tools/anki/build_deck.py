@@ -159,7 +159,8 @@ def media_for(spec, pdf):
 def io_notes(spec, pdf, page0):
     cx0, cy0, cx1, cy1 = spec['crop']; w, h = cx1 - cx0, cy1 - cy0
     page = Image.open(render(pdf, spec['pdf_page'])).convert('RGB')
-    src = f"StudentRDH {pdf} p.{page0 + spec['pdf_page']}"
+    bp = spec.get('page', page0 + spec['pdf_page'])          # book page (Dental Anatomy: pdf+200)
+    src = f"StudentRDH {pdf} p.{bp}"
     for l, b in covers(spec, page):
         x0, y0 = b[0] - cx0 - PAD, b[1] - cy0 - PAD
         bw, bh = b[2] - b[0] + 2 * PAD, b[3] - b[1] + 2 * PAD
@@ -169,7 +170,7 @@ def io_notes(spec, pdf, page0):
                     f'{100*x0/w:.2f}', f'{100*y0/h:.2f}', f'{100*bw/w:.2f}', f'{100*bh/h:.2f}',
                     l.get('extra', ''), src],
             guid=genanki.guid_for('nbdhe-io', spec['name'], l.get('key', l['answer'])),   # 'key' disambiguates repeated labels
-            tags=[pdf.lower(), f"p{page0 + spec['pdf_page']}", 'image-occlusion'])
+            tags=[pdf.lower(), f"p{bp}", 'image-occlusion'])
 
 def cloze_note(c, pdf):
     return genanki.Note(model=CLOZE_MODEL, fields=[c['text'], c.get('section', ''), c.get('extra', ''),

@@ -8,7 +8,10 @@ leads the learning design; follow these rules exactly.
 - Rendered pages (200 dpi, 1700×2200 px): `.tools/cache/<Book>-NNN.png` (NNN = PDF page, 3 digits).
   View a page or a zoomed crop with the Read tool. Make zoomed crops with PIL into your own
   scratch dir — never write inside `.tools/` except your one spec file.
-- Book page = PDF page + 146 for Anatomy (PDF p.6 = book p.152). Use BOOK pages in `page`.
+- Book pages (use these in every `page` field and in ids/names): Anatomy.pdf has TWO chapters —
+  Head & Neck: book page = PDF page + 146 (PDF 2 → 148 … PDF 30 → 176);
+  Dental Anatomy: book page = PDF page + 200 (PDF 34 → 234 … PDF 49 → 249).
+  The printed page number in the page corner is the truth — check it.
 - Label-box detector: `.tools/.venv/bin/python -c "import sys; sys.path.insert(0,'.tools'); from detect import boxes; print(boxes('.tools/cache/Anatomy-006.png'))"`
   → (colour, x0, y0, x1, y1) of pale-cyan/yellow label boxes. It MISSES some and merges some.
 
@@ -20,7 +23,7 @@ leads the learning design; follow these rules exactly.
 ### Image occlusion — every labeled figure
 ```json
 {"name": "anat-p152-temporal-bone", "title": "Temporal and zygomatic bones", "deck": "Head and Neck",
- "pdf_page": 6, "crop": [x0, y0, x1, y1],
+ "pdf_page": 6, "page": 152, "crop": [x0, y0, x1, y1],
  "labels": [{"box": [x0, y0, x1, y1], "answer": "Zygomatic process", "fit": "bg"}, ...]}
 ```
 - `name`: `anat-p<bookpage>-<slug>`, unique. `deck`: "Head and Neck" or "Dental Anatomy".
