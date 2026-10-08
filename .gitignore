@@ -9,3 +9,5 @@
 .obsidian/workspace-mobile.json
 .trash/
 .tools/__pycache__/
+.tools/anki/build/
+.tools/anki/media/

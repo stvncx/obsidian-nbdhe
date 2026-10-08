@@ -1,4 +1,8 @@
-# Runbook — NBDHE flashcards in Obsidian
+# Runbook — NBDHE flashcards
+
+> **2026-10-08: moved to ANKI** (Steven: "Obsidian looks like shit"). §6 is the current card
+> pipeline. §2–5 (Obsidian vault, vault-sync, SR plugin, CSS-snippet occlusion) are kept as
+> the record of the Obsidian attempt; the vault + sync still work if notes are wanted there.
 
 How to reproduce this project from scratch: book PDFs → flashcards → Steven's shared
 iCloud Obsidian vault. Procedures first, then the decision log (why it's done this way).
@@ -139,6 +143,33 @@ image. Other labels stay visible.
 card per diagram. Both dropped — too many numbers, images too big, answer not in place.
 `.tools/occlude.py` is the v1 builder, kept only for `render()`.)
 
+## 6. Anki deck (current pipeline)
+
+**Delivery:** build `.apkg` → copy to `~/exchange/from-claude/` → Steven downloads from GitHub →
+the student imports it (double-click on desktop, or Files → share to AnkiMobile).
+Re-importing an updated `.apkg` **updates notes in place and keeps review history**, because
+note GUIDs are stable. Student needs: Anki desktop (free), AnkiMobile for iPhone/iPad
+($24.99 one-time, one Apple ID), free AnkiWeb account to sync between them.
+
+**Build:** `.tools/.venv/bin/python .tools/anki/build_deck.py .tools/anki/build/<name>.apkg <diagram> [<diagram>…]`
+(needs `genanki` in the venv). Reads `.tools/anatomy-diagrams.json`, crops each diagram
+from the rendered page (1400 px JPEG → `.tools/anki/media/`), one note per label.
+
+**Note type "NBDHE Image Occlusion"** (custom HTML/CSS, not Anki's built-in IO notetype — the
+built-in one is meant to be authored inside Anki; a custom type renders identically on
+desktop/AnkiMobile/AnkiDroid and can be previewed off-device):
+- Fields: Answer, Image, Title, Left, Top, Width, Height (box, % of image), Extra, Source.
+- Front: title + image + orange "?" box over ONE label. Back: same image + same box showing
+  the term (blue) — back template has no `{{FrontSide}}`, so the reveal is in place.
+- Night mode via `.nightMode` / `.night_mode`. Box text scales with the image (`cqw`).
+- **Fixed IDs — never change:** `MODEL_ID 1728390001`, `DECK_ID 1728390101` (`NBDHE::Anatomy`),
+  GUID = `guid_for('nbdhe-io', diagram name, answer)`. Changing an answer's text creates a new
+  note (old one orphaned) — fix label text before the student starts reviewing.
+
+**Verify before shipping:** unzip the `.apkg` (python `zipfile`; no `unzip` on the server), read
+`collection.anki2` (models + notes) and `media` map, fill the templates, render front/back in
+Playwright at 390 px (light + `nightMode`) and 900 px. Look at every changed card.
+
 ---
 
 ## Decision log
@@ -161,6 +192,8 @@ card per diagram. Both dropped — too many numbers, images too big, answer not 
 | 10-08 | Card design v2 (exam-style MCQ + must-know + tell-apart + 1 diagram card) | v1 "kind of sucks": definition recall ≠ how the NBDHE tests. Steven to review |
 | 10-08 | Image cards v3: one label covered per card, revealed in place; images full width | Steven: images too big, too many numbers; wants same image, one occlusion, in-place reveal |
 | 10-08 | All other cards deleted; focus on p.148 images first, then rescope | Steven's call — get the image mechanism right before scaling |
+| 10-08 | **Switch flashcards to Anki** | Obsidian SR review UI can't be made to look good; Anki has a polished reviewer, full HTML/CSS card templates, FSRS, updates keep history |
+| 10-08 | Custom Anki note type for occlusion (not built-in IO) | generated off-device reliably; previewable; same render on every Anki client |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items

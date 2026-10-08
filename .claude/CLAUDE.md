@@ -1,5 +1,7 @@
 # Obsidian vault — NBDHE / RDH study
 
+**2026-10-08: flashcards moved to ANKI — see RUNBOOK §6. The Obsidian card work below is historical.**
+
 **Runbook: `.claude/RUNBOOK.md` — record every new procedure and decision there as we work.**
 
 This directory IS Steven's Obsidian vault (repo `stvncx/obsidian-nbdhe`, branch `main`).
