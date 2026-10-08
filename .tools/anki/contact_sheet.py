@@ -7,6 +7,7 @@ from anki.collection import Collection, ImportAnkiPackageRequest, ImportAnkiPack
 from playwright.sync_api import sync_playwright
 from PIL import Image
 apkg, out = sys.argv[1], sys.argv[2]
+query = os.environ.get('Q', '')     # optional Anki search, e.g. Q='tag:p160'
 width = int(sys.argv[3]) if len(sys.argv) > 3 else 600
 side = sys.argv[4] if len(sys.argv) > 4 else 'q'
 d = tempfile.mkdtemp(); col = Collection(os.path.join(d, 'c.anki2'))
@@ -14,7 +15,7 @@ col.import_anki_package(ImportAnkiPackageRequest(package_path=os.path.abspath(ap
 shots = []
 with sync_playwright() as p:
     br = p.chromium.launch(); pg = br.new_page(viewport={'width': width, 'height': 400})
-    for i, cid in enumerate(col.find_cards('')):
+    for i, cid in enumerate(col.find_cards(query)):
         c = col.get_card(cid); html = c.question() if side == 'q' else c.answer()
         f = os.path.join(col.media.dir(), f'_c{i}.html')
         open(f, 'w').write(f"<html><head><style>{c.note_type()['css']}</style></head><body class='card'>{html}</body></html>")

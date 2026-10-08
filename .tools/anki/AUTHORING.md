@@ -35,7 +35,11 @@ leads the learning design; follow these rules exactly.
   (cover snaps to the near-black text strictly INSIDE `box` — so `box` must contain the whole
   label text and NO leader lines/arrows/other text); `"none"` = use `box` exactly (coloured
   labels other than pale blue/yellow, e.g. green/red/white-on-colour).
+- Slanted labels: `"rbg"` (rotated cover fitted to a slanted pale-blue/yellow label box) or
+  `"rtext"` (rotated cover fitted to slanted text on any other background). The cover rotates
+  with the label — use these instead of a big straight box.
 - If the same label text appears twice on one figure, add `"key": "<text> (2)"` to the second.
+- Skip figures the book prints twice (e.g. "14 facial bones" on pp.151 and 154) — one copy only.
 - Skip figures with no labels (photos without callouts) and pure decoration.
 - **Verify every figure**: `.tools/.venv/bin/python .tools/anki/diagram_check.py <yourfile> <scratchdir>`
   then Read each `<scratchdir>/<name>.png`. Every orange cover must hide its whole label and

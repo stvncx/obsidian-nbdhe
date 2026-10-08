@@ -1,0 +1,1740 @@
+{
+ "diagrams": [
+  {
+   "name": "anat-p154-ethmoid-bone",
+   "title": "Ethmoid bone",
+   "deck": "Head and Neck",
+   "pdf_page": 8,
+   "page": 154,
+   "crop": [
+    99,
+    286,
+    1238,
+    924
+   ],
+   "labels": [
+    {
+     "box": [
+      737,
+      347,
+      874,
+      392
+     ],
+     "answer": "Superior",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      966,
+      446,
+      1194,
+      489
+     ],
+     "answer": "Crista galli",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      966,
+      497,
+      1194,
+      541
+     ],
+     "answer": "Cribriform plate",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      495,
+      534,
+      664,
+      609
+     ],
+     "answer": "Ethmoid air cells",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      988,
+      557,
+      1201,
+      634
+     ],
+     "answer": "Superior nasal conchae",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      935,
+      644,
+      1111,
+      684
+     ],
+     "answer": "Nasal cavity",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      920,
+      692,
+      1229,
+      739
+     ],
+     "answer": "Middle nasal conchae",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      456,
+      710,
+      669,
+      787
+     ],
+     "answer": "Medial wall of orbit",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      918,
+      763,
+      1201,
+      807
+     ],
+     "answer": "Perpendicular plate",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      739,
+      842,
+      864,
+      886
+     ],
+     "answer": "Inferior",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p155-maxilla",
+   "title": "Maxilla",
+   "deck": "Head and Neck",
+   "pdf_page": 9,
+   "page": 155,
+   "crop": [
+    94,
+    154,
+    1238,
+    770
+   ],
+   "labels": [
+    {
+     "box": [
+      969,
+      251,
+      1188,
+      294
+     ],
+     "answer": "Maxillary sinus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      540,
+      356,
+      776,
+      399
+     ],
+     "answer": "Palatine process",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      470,
+      413,
+      679,
+      487
+     ],
+     "answer": "Anterior nasal spine",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      950,
+      585,
+      1125,
+      629
+     ],
+     "answer": "Hard palate",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      824,
+      631,
+      956,
+      677
+     ],
+     "answer": "Alveolar",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p155-palatine-bones",
+   "title": "Palatine bones",
+   "deck": "Head and Neck",
+   "pdf_page": 9,
+   "page": 155,
+   "crop": [
+    94,
+    1353,
+    1238,
+    1991
+   ],
+   "labels": [
+    {
+     "box": [
+      697,
+      1536,
+      895,
+      1579
+     ],
+     "answer": "Vertical plate",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      822,
+      1606,
+      1019,
+      1685
+     ],
+     "answer": "Nasopalatine foramen",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      546,
+      1664,
+      779,
+      1713
+     ],
+     "answer": "Horizontal plate",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      634,
+      1732,
+      753,
+      1774
+     ],
+     "answer": "Maxilla",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      973,
+      1777,
+      1215,
+      1857
+     ],
+     "answer": "Greater palatine foramen",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      543,
+      1929,
+      747,
+      1973
+     ],
+     "answer": "Palatine bone",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p156-mandible",
+   "title": "Mandible",
+   "deck": "Head and Neck",
+   "pdf_page": 10,
+   "page": 156,
+   "crop": [
+    94,
+    561,
+    1238,
+    1199
+   ],
+   "labels": [
+    {
+     "box": [
+      683,
+      594,
+      936,
+      640
+     ],
+     "answer": "Coronoid process",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      944,
+      613,
+      1192,
+      658
+     ],
+     "answer": "Condylar process",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      561,
+      750,
+      860,
+      792
+     ],
+     "answer": "Submandibular fossa",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      978,
+      752,
+      1156,
+      828
+     ],
+     "answer": "Mandibular foramen",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      488,
+      795,
+      722,
+      842
+     ],
+     "answer": "Sublingual fossa",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      363,
+      885,
+      606,
+      928
+     ],
+     "answer": "Alveolar process",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1010,
+      956,
+      1123,
+      1002
+     ],
+     "answer": "Ramus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      390,
+      967,
+      630,
+      1013
+     ],
+     "answer": "Mental foramen",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      768,
+      1061,
+      861,
+      1106
+     ],
+     "answer": "Body",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p157-cervical-bones",
+   "title": "Cervical bones and spine",
+   "deck": "Head and Neck",
+   "pdf_page": 11,
+   "page": 157,
+   "crop": [
+    77,
+    935,
+    1221,
+    1573
+   ],
+   "labels": [
+    {
+     "box": [
+      253,
+      1026,
+      345,
+      1071
+     ],
+     "answer": "Atlas",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1037,
+      1069,
+      1166,
+      1115
+     ],
+     "answer": "Cervical",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      258,
+      1089,
+      338,
+      1134
+     ],
+     "answer": "Axis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      213,
+      1152,
+      385,
+      1198
+     ],
+     "answer": "Spinal cord",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1028,
+      1153,
+      1165,
+      1196
+     ],
+     "answer": "Thoracic",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1028,
+      1202,
+      1155,
+      1249
+     ],
+     "answer": "Lumbar",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      604,
+      1315,
+      698,
+      1361
+     ],
+     "answer": "Atlas",
+     "fit": "bg",
+     "key": "Atlas (2)"
+    },
+    {
+     "box": [
+      630,
+      1468,
+      711,
+      1513
+     ],
+     "answer": "Axis",
+     "fit": "bg",
+     "key": "Axis (2)"
+    }
+   ]
+  },
+  {
+   "name": "anat-p158-muscles-mastication",
+   "title": "Muscles of mastication",
+   "deck": "Head and Neck",
+   "pdf_page": 12,
+   "page": 158,
+   "crop": [
+    99,
+    352,
+    1238,
+    996
+   ],
+   "labels": [
+    {
+     "box": [
+      390,
+      495,
+      553,
+      537
+     ],
+     "answer": "Temporalis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1063,
+      602,
+      1216,
+      679
+     ],
+     "answer": "Lateral pterygoid",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      721,
+      782,
+      880,
+      858
+     ],
+     "answer": "Medial pterygoid",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      192,
+      869,
+      335,
+      908
+     ],
+     "answer": "Masseter",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p159-muscles-facial-expression",
+   "title": "Muscles of facial expression",
+   "deck": "Head and Neck",
+   "pdf_page": 13,
+   "page": 159,
+   "crop": [
+    82,
+    154,
+    1238,
+    770
+   ],
+   "labels": [
+    {
+     "box": [
+      228,
+      205,
+      354,
+      245
+     ],
+     "answer": "Frontalis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      206,
+      300,
+      374,
+      370
+     ],
+     "answer": "Levator labii superioris",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      913,
+      363,
+      1176,
+      405
+     ],
+     "answer": "Corrugator supercilii",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      128,
+      384,
+      377,
+      426
+     ],
+     "answer": "Zygomaticus minor",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      913,
+      417,
+      1125,
+      453
+     ],
+     "answer": "Orbicularis oculi",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      867,
+      459,
+      1159,
+      527
+     ],
+     "answer": "Levator labii superioris alaeque nasi",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      131,
+      451,
+      377,
+      491
+     ],
+     "answer": "Zygomaticus major",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      189,
+      544,
+      430,
+      584
+     ],
+     "answer": "Levator anguli oris",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      904,
+      564,
+      1053,
+      605
+     ],
+     "answer": "Buccinator",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      225,
+      592,
+      345,
+      628
+     ],
+     "answer": "Risorius",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      149,
+      636,
+      460,
+      680
+     ],
+     "answer": "Depressor labii inferioris",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      897,
+      626,
+      1104,
+      664
+     ],
+     "answer": "Orbicularis oris",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      897,
+      670,
+      1027,
+      712
+     ],
+     "answer": "Mentalis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      897,
+      715,
+      1027,
+      758
+     ],
+     "answer": "Platysma",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      139,
+      701,
+      411,
+      741
+     ],
+     "answer": "Depressor anguli oris",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "anat-p154-001",
+   "deck": "Head and Neck",
+   "section": "Sphenoid bone",
+   "page": 154,
+   "text": "The sphenoid foramina {{c1::rotundum}}, {{c1::ovale}} and {{c1::spinosum}} are openings for branches of the trigeminal nerve and vessels.",
+   "extra": "Tip: these are essential in understanding nerve pathways for anesthesia."
+  },
+  {
+   "id": "anat-p154-002",
+   "deck": "Head and Neck",
+   "section": "Sphenoid bone",
+   "page": 154,
+   "text": "The foramina rotundum, ovale and spinosum of the sphenoid transmit branches of the {{c1::trigeminal (V)}} nerve and vessels.",
+   "extra": "Tip: essential for understanding nerve pathways for anesthesia."
+  },
+  {
+   "id": "anat-p154-003",
+   "deck": "Head and Neck",
+   "section": "Sphenoid bone",
+   "page": 154,
+   "text": "The {{c1::lateral pterygoid plate}} of the sphenoid is the area of origin for the {{c2::lateral pterygoid}} muscle.",
+   "extra": "Tip: this muscle assists in opening and shifting the jaw."
+  },
+  {
+   "id": "anat-p154-004",
+   "deck": "Head and Neck",
+   "section": "Ethmoid bone",
+   "page": 154,
+   "text": "The {{c1::ethmoid}} bone is a lightweight, spongy bone between the {{c2::orbits}}, forming part of the nasal cavity and septum.",
+   "extra": "Tip: not visible externally but vital to nasal structure."
+  },
+  {
+   "id": "anat-p154-005",
+   "deck": "Head and Neck",
+   "section": "Ethmoid bone",
+   "page": 154,
+   "text": "The {{c1::cribriform plate}} of the ethmoid is a horizontal surface with small holes for the {{c2::olfactory}} nerves.",
+   "extra": "Tip: transmits smell from the nose to the brain."
+  },
+  {
+   "id": "anat-p154-006",
+   "deck": "Head and Neck",
+   "section": "Ethmoid bone",
+   "page": 154,
+   "text": "The {{c1::crista galli}} is a vertical projection from the {{c2::cribriform plate}} of the ethmoid.",
+   "extra": "Tip: serves as an anchor for brain membranes."
+  },
+  {
+   "id": "anat-p154-007",
+   "deck": "Head and Neck",
+   "section": "Ethmoid bone",
+   "page": 154,
+   "text": "The crista galli of the ethmoid serves as an anchor for the {{c1::brain membranes (meninges)}}."
+  },
+  {
+   "id": "anat-p154-008",
+   "deck": "Head and Neck",
+   "section": "Ethmoid bone",
+   "page": 154,
+   "text": "The {{c1::superior}} and {{c1::middle}} nasal conchae are thin, scroll-like projections of the ethmoid bone into the nasal cavity.",
+   "extra": "Tip: they help filter and humidify air."
+  },
+  {
+   "id": "anat-p154-009",
+   "deck": "Head and Neck",
+   "section": "Ethmoid bone",
+   "page": 154,
+   "text": "Unlike the superior and middle conchae (part of the ethmoid), the {{c1::inferior nasal conchae}} are separate {{c2::facial}} bones.",
+   "extra": "Don't confuse them."
+  },
+  {
+   "id": "anat-p154-010",
+   "deck": "Head and Neck",
+   "section": "Ethmoid bone",
+   "page": 154,
+   "text": "The {{c1::ethmoid sinuses}} are small air spaces within the ethmoid bone.",
+   "extra": "Tip: these can become congested and affect pressure around the eyes."
+  },
+  {
+   "id": "anat-p154-011",
+   "deck": "Head and Neck",
+   "section": "Ethmoid bone",
+   "page": 154,
+   "text": "The {{c1::perpendicular plate}} of the ethmoid descends from the cribriform plate to form the {{c2::superior}} portion of the nasal septum.",
+   "extra": "Tip: think of it as the bone that divides the nose top-down."
+  },
+  {
+   "id": "anat-p154-012",
+   "deck": "Head and Neck",
+   "section": "Ethmoid bone",
+   "page": 154,
+   "text": "The nasal septum is completed by the perpendicular plate of the ethmoid joining with the {{c1::vomer}} and {{c2::cartilage}}."
+  },
+  {
+   "id": "anat-p154-013",
+   "deck": "Head and Neck",
+   "section": "Facial bones",
+   "page": 154,
+   "text": "There are {{c1::14}} facial bones.",
+   "extra": "Paired (2 each): nasal, lacrimal, palatine, inferior nasal concha, zygomatic, maxilla. Single: mandible, vomer."
+  },
+  {
+   "id": "anat-p154-014",
+   "deck": "Head and Neck",
+   "section": "Facial bones",
+   "page": 154,
+   "text": "The two single (unpaired) facial bones are the {{c1::mandible}} and the {{c1::vomer}}.",
+   "extra": "The other 6 facial bones are paired: nasal, lacrimal, palatine, inferior nasal concha, zygomatic, maxilla."
+  },
+  {
+   "id": "anat-p154-015",
+   "deck": "Head and Neck",
+   "section": "Facial bones",
+   "page": 154,
+   "text": "The six paired facial bones: {{c1::nasal}}, {{c2::lacrimal}}, {{c3::palatine}}, {{c4::inferior nasal concha}}, zygomatic and maxilla."
+  },
+  {
+   "id": "anat-p154-016",
+   "deck": "Head and Neck",
+   "section": "Facial bones",
+   "page": 154,
+   "text": "The six paired facial bones: nasal, lacrimal, palatine, inferior nasal concha, {{c1::zygomatic}} and {{c2::maxilla}}."
+  },
+  {
+   "id": "anat-p155-001",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "The {{c1::maxillae}} are irregular bones forming the upper jaw, part of the hard palate, the nasal cavity and the {{c2::floor of the orbits}}.",
+   "extra": "Tip: they hold all the upper teeth, shape the midface and articulate with nearly every facial bone."
+  },
+  {
+   "id": "anat-p155-002",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "The {{c1::alveolar process}} of the maxilla houses the sockets for all maxillary teeth.",
+   "extra": "Tip: the mandible, in contrast, holds the lower teeth."
+  },
+  {
+   "id": "anat-p155-003",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "The {{c1::anterior nasal spine}} is a midline projection of the maxilla at the base of the nose.",
+   "extra": "Tip: often appears as a radiopaque V-shape near the central incisors."
+  },
+  {
+   "id": "anat-p155-004",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "On radiographs, the anterior nasal spine appears as a {{c1::radiopaque}} V-shape near the {{c2::central incisors}}."
+  },
+  {
+   "id": "anat-p155-005",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "The {{c1::maxillary sinus}} is a large air-filled cavity above the {{c2::posterior teeth}}.",
+   "extra": "Tip: visible on panoramic and PA radiographs."
+  },
+  {
+   "id": "anat-p155-006",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "Maxillary sinus inflammation can mimic {{c1::molar}} pain."
+  },
+  {
+   "id": "anat-p155-007",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "The {{c1::infraorbital foramen}} is an opening below the orbit for the infraorbital nerve and vessels.",
+   "extra": "Tip: target for the infraorbital nerve block."
+  },
+  {
+   "id": "anat-p155-008",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "The {{c1::palatine process}} of the maxilla is a horizontal plate forming the {{c2::anterior two-thirds}} of the hard palate."
+  },
+  {
+   "id": "anat-p155-009",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "The two palatine processes of the maxillae join at the midline at the {{c1::intermaxillary (median palatine)}} suture."
+  },
+  {
+   "id": "anat-p155-010",
+   "deck": "Head and Neck",
+   "section": "Maxillae",
+   "page": 155,
+   "text": "The palatine process of the maxilla articulates {{c1::posteriorly}} with the {{c2::palatine bone}}, which forms the remaining {{c3::posterior one-third}} of the hard palate."
+  },
+  {
+   "id": "anat-p156-001",
+   "deck": "Head and Neck",
+   "section": "Palatine bones",
+   "page": 156,
+   "text": "The {{c1::palatine}} bones are {{c2::L}}-shaped bones forming the posterior part of the hard palate and portions of the nasal cavity and orbit.",
+   "extra": "Tip: the anterior 2/3 of the hard palate is made of the maxilla."
+  },
+  {
+   "id": "anat-p156-002",
+   "deck": "Head and Neck",
+   "section": "Palatine bones",
+   "page": 156,
+   "text": "The {{c1::horizontal plate}} of the palatine bone forms the back portion of the hard palate.",
+   "extra": "Tip: joins with the palatine process of the maxilla anteriorly."
+  },
+  {
+   "id": "anat-p156-003",
+   "deck": "Head and Neck",
+   "section": "Palatine bones",
+   "page": 156,
+   "text": "The {{c1::vertical (perpendicular) plate}} of the palatine bone extends upward to contribute to the {{c2::lateral wall of the nasal cavity}} and part of the orbit."
+  },
+  {
+   "id": "anat-p156-004",
+   "deck": "Head and Neck",
+   "section": "Palatine bones",
+   "page": 156,
+   "text": "The {{c1::greater palatine foramen}} is the opening for the greater palatine nerve and vessels.",
+   "extra": "Tip: supplies the hard palate and lingual gingiva of posterior teeth."
+  },
+  {
+   "id": "anat-p156-005",
+   "deck": "Head and Neck",
+   "section": "Palatine bones",
+   "page": 156,
+   "text": "The greater palatine nerve supplies the {{c1::hard palate}} and the {{c2::lingual (palatal) gingiva of posterior teeth}}."
+  },
+  {
+   "id": "anat-p156-006",
+   "deck": "Head and Neck",
+   "section": "Palatine bones",
+   "page": 156,
+   "text": "Don't confuse the greater palatine foramen (posterior) with the {{c1::nasopalatine (incisive)}} foramen, which is located on the {{c2::anterior}} maxilla."
+  },
+  {
+   "id": "anat-p156-007",
+   "deck": "Head and Neck",
+   "section": "Palatine bones",
+   "page": 156,
+   "text": "The {{c1::lesser palatine foramina}} are small openings in the palatine bone that transmit the lesser palatine nerves and vessels.",
+   "extra": "Tip: these serve the soft palate and uvula, providing sensation and blood supply to the back of the mouth."
+  },
+  {
+   "id": "anat-p156-008",
+   "deck": "Head and Neck",
+   "section": "Palatine bones",
+   "page": 156,
+   "text": "The lesser palatine nerves and vessels serve the {{c1::soft palate}} and {{c1::uvula}}."
+  },
+  {
+   "id": "anat-p156-009",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The {{c1::mandible}} is a U-shaped bone forming the lower jaw and the {{c2::only movable bone}} of the skull.",
+   "extra": "Tip: can dislocate in trauma or TMJ disorders."
+  },
+  {
+   "id": "anat-p156-010",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The {{c1::alveolar process}} of the mandible houses the sockets for all mandibular teeth."
+  },
+  {
+   "id": "anat-p156-011",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The {{c1::body}} of the mandible is the {{c2::horizontal}} portion that holds the lower teeth.",
+   "extra": "Tip: includes the alveolar process and the mental foramen area."
+  },
+  {
+   "id": "anat-p156-012",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The {{c1::ramus}} is the {{c2::vertical}} extension on each side of the body of the mandible."
+  },
+  {
+   "id": "anat-p156-013",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The ramus of the mandible contains the {{c1::coronoid process}} (muscle attachment) and the {{c2::condylar process}} (part of the TMJ)."
+  },
+  {
+   "id": "anat-p156-014",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The {{c1::mental foramen}} is an opening on the outer body of the mandible near the {{c2::premolars}} for the {{c3::mental}} nerve.",
+   "extra": "Tip: visible on radiographs."
+  },
+  {
+   "id": "anat-p156-015",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "On radiographs, don't confuse the mental foramen with a {{c1::periapical lesion}}."
+  },
+  {
+   "id": "anat-p156-016",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The {{c1::mandibular foramen}} is an opening on the {{c2::inner (medial) ramus}} for the {{c3::inferior alveolar}} nerve.",
+   "extra": "Tip: landmark for the IA nerve block."
+  },
+  {
+   "id": "anat-p156-017",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The {{c1::mylohyoid line}} is a ridge on the inner mandible for muscle attachment.",
+   "extra": "Tip: it separates the sublingual space above from the submandibular space below."
+  },
+  {
+   "id": "anat-p156-018",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The mylohyoid line separates the {{c1::sublingual}} space above from the {{c2::submandibular}} space below."
+  },
+  {
+   "id": "anat-p156-019",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The {{c1::genial tubercles}} are small, paired bony projections on the {{c2::lingual midline}} of the mandible."
+  },
+  {
+   "id": "anat-p156-020",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "The genial tubercles are attachment points for the {{c1::genioglossus}} and {{c1::geniohyoid}} muscles."
+  },
+  {
+   "id": "anat-p156-021",
+   "deck": "Head and Neck",
+   "section": "Mandible",
+   "page": 156,
+   "text": "On radiographs, the genial tubercles appear as a {{c1::ring-shaped radiopacity}} below the {{c2::mandibular incisors}}."
+  },
+  {
+   "id": "anat-p156-022",
+   "deck": "Head and Neck",
+   "section": "Zygomatic bones",
+   "page": 156,
+   "text": "The {{c1::zygomatic}} bones are irregular bones forming the cheekbones and part of the {{c2::orbital wall}}.",
+   "extra": "Tip: you feel them when you touch the sides of your face below the eyes."
+  },
+  {
+   "id": "anat-p156-023",
+   "deck": "Head and Neck",
+   "section": "Zygomatic bones",
+   "page": 156,
+   "text": "The zygomatic arch is formed by the {{c1::zygomatic bone}} and the {{c2::zygomatic process of the temporal bone}}.",
+   "extra": "Tip: visible during extraoral exams and imaging."
+  },
+  {
+   "id": "anat-p156-024",
+   "deck": "Head and Neck",
+   "section": "Zygomatic bones",
+   "page": 156,
+   "text": "The zygomatic arch is an important attachment site for the {{c1::masseter}} muscle.",
+   "extra": "Crucial for mastication."
+  },
+  {
+   "id": "anat-p157-001",
+   "deck": "Head and Neck",
+   "section": "Zygomatic bones",
+   "page": 157,
+   "text": "The {{c1::infraorbital rim}} of the zygomatic bone contributes to the floor of the orbit, together with the maxilla.",
+   "extra": "Tip: landmark for infraorbital nerve blocks."
+  },
+  {
+   "id": "anat-p157-002",
+   "deck": "Head and Neck",
+   "section": "Zygomatic bones",
+   "page": 157,
+   "text": "Trauma at the infraorbital rim can affect sensation to the {{c1::upper lip}}, {{c1::cheek}} and {{c1::maxillary anterior teeth}}.",
+   "extra": "These are the areas served by the infraorbital nerve."
+  },
+  {
+   "id": "anat-p157-003",
+   "deck": "Head and Neck",
+   "section": "Nasal bones",
+   "page": 157,
+   "text": "The {{c1::nasal}} bones are small rectangular bones forming the {{c2::bridge of the nose}}.",
+   "extra": "Tip: you touch these when you pinch the upper part of your nose."
+  },
+  {
+   "id": "anat-p157-004",
+   "deck": "Head and Neck",
+   "section": "Nasal bones",
+   "page": 157,
+   "text": "The nasal bones join the {{c1::frontal process of the maxilla}} and the {{c2::frontal bone}}.",
+   "extra": "Tip: easily fractured in facial injuries, but usually not visible on intraoral radiographs."
+  },
+  {
+   "id": "anat-p157-005",
+   "deck": "Head and Neck",
+   "section": "Lacrimal bones",
+   "page": 157,
+   "text": "The {{c1::lacrimal}} bones are thin, delicate bones forming part of the {{c2::medial wall of the orbit}}.",
+   "extra": "Tip: located at the inner corner of the eye, near the tear duct."
+  },
+  {
+   "id": "anat-p157-006",
+   "deck": "Head and Neck",
+   "section": "Lacrimal bones",
+   "page": 157,
+   "text": "The {{c1::lacrimal fossa}} is a depression that houses the {{c2::lacrimal sac}}.",
+   "extra": "Tip: involved in tear drainage."
+  },
+  {
+   "id": "anat-p157-007",
+   "deck": "Head and Neck",
+   "section": "Inferior nasal conchae",
+   "page": 157,
+   "text": "The {{c1::inferior nasal conchae}} are scroll-like bones projecting from the {{c2::lateral walls}} of the nasal cavity.",
+   "extra": "Tip: they warm, moisten and filter the air you breathe in."
+  },
+  {
+   "id": "anat-p157-008",
+   "deck": "Head and Neck",
+   "section": "Vomer",
+   "page": 157,
+   "text": "The {{c1::vomer}} is a thin, flat bone forming the {{c2::lower (inferior)}} part of the nasal septum.",
+   "extra": "Tip: separates the left and right nasal cavities beneath the ethmoid bone."
+  },
+  {
+   "id": "anat-p157-009",
+   "deck": "Head and Neck",
+   "section": "Vomer",
+   "page": 157,
+   "text": "The vomer articulates with the {{c1::maxillae}} and the {{c1::palatine bones}}.",
+   "extra": "Tip: may appear as a vertical midline radiopaque shadow in anterior maxillary radiographs."
+  },
+  {
+   "id": "anat-p157-010",
+   "deck": "Head and Neck",
+   "section": "Vomer",
+   "page": 157,
+   "text": "In anterior maxillary radiographs, the {{c1::vomer}} may appear as a vertical midline {{c2::radiopaque}} shadow."
+  },
+  {
+   "id": "anat-p157-011",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "The first cervical vertebra (C1) is the {{c1::atlas}}; the second (C2) is the {{c2::axis}}."
+  },
+  {
+   "id": "anat-p157-012",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "The vertebral column regions shown from top to bottom: {{c1::cervical}}, {{c2::thoracic}}, {{c3::lumbar}}.",
+   "extra": "There are 7 cervical vertebrae (C1\u2013C7)."
+  },
+  {
+   "id": "anat-p157-013",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "The {{c1::atlas (C1)}} is the first cervical vertebra, located just below the skull."
+  },
+  {
+   "id": "anat-p157-014",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "The atlas (C1) is {{c1::ring}}-shaped with no {{c2::body}} or {{c2::spinous process}}.",
+   "extra": "Tip: supports the skull like the mythological Atlas."
+  },
+  {
+   "id": "anat-p157-015",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "The atlas articulates with the {{c1::occipital condyles}} at the base of the skull.",
+   "extra": "Tip: movement at this joint lets you tilt your head forward and back."
+  },
+  {
+   "id": "anat-p157-016",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "The {{c1::atlanto-occipital}} joint (atlas\u2013skull) allows you to nod \"{{c2::yes}}\"."
+  },
+  {
+   "id": "anat-p157-017",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "The {{c1::axis (C2)}} is the second cervical vertebra, with a vertical projection called the {{c2::dens}}."
+  },
+  {
+   "id": "anat-p157-018",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "The axis acts like a {{c1::pivot}} for the skull \u2014 it lets you rotate your head \"{{c2::no}}\"."
+  },
+  {
+   "id": "anat-p157-019",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "The {{c1::dens (odontoid process)}} is a peg-like structure of the axis that fits into the {{c2::atlas}}.",
+   "extra": "Tip: instead of a disc, this articulation forms a joint (atlantoaxial)."
+  },
+  {
+   "id": "anat-p157-020",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 157,
+   "text": "There is no intervertebral disc between C1 and C2; the dens fitting into the atlas forms the {{c1::atlantoaxial}} joint.",
+   "extra": "The book's tip reads \"forms the a joint\" \u2014 the joint is the (median) atlantoaxial joint."
+  },
+  {
+   "id": "anat-p158-001",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 158,
+   "text": "Vertebrae {{c1::C3\u2013C7}} are smaller, stacked vertebrae forming the lower neck.",
+   "extra": "Tip: they provide flexibility and support while protecting the spinal cord."
+  },
+  {
+   "id": "anat-p158-002",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 158,
+   "text": "The {{c1::transverse foramina}} of the cervical vertebrae are unique openings for the {{c2::vertebral arteries}}.",
+   "extra": "The book's heading reads \"Spinous processes and transverse foramina\" \u2014 the openings for the vertebral arteries are the transverse foramina."
+  },
+  {
+   "id": "anat-p158-003",
+   "deck": "Head and Neck",
+   "section": "Cervical bones",
+   "page": 158,
+   "text": "Intervertebral discs are located between each vertebral body from {{c1::C2\u2013C7}} and are made of {{c2::fibrocartilage}}.",
+   "extra": "No disc between C1 and C2."
+  },
+  {
+   "id": "anat-p158-004",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The 4 muscles of mastication: {{c1::masseter}}, {{c2::medial pterygoid}}, {{c3::temporalis}}, {{c4::lateral pterygoid}}.",
+   "extra": "WakeUpMemory: MMTL \u2192 Mom Makes Tasty Lasagna (Masseter, Medial pterygoid, Temporalis, Lateral pterygoid)."
+  },
+  {
+   "id": "anat-p158-005",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The muscles of mastication work with the {{c1::TMJ}} to accomplish jaw movement (opening and closing the jaw)."
+  },
+  {
+   "id": "anat-p158-006",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "All muscles of mastication are innervated by the {{c1::fifth (V) cranial nerve (trigeminal)}}."
+  },
+  {
+   "id": "anat-p158-007",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The {{c1::masseter}} is located in the cheek area and runs vertically from the cheekbone to the jaw; action: {{c2::elevates the mandible}}."
+  },
+  {
+   "id": "anat-p158-008",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "Masseter attachments \u2014 insertion: {{c1::lateral surface of the ramus/angle of the mandible}}; origin: {{c2::zygomatic arch}}."
+  },
+  {
+   "id": "anat-p158-009",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The masseter is the thick, band-like, most {{c1::superficial}} muscle of mastication; the {{c2::parotid gland}} lies over it and {{c3::facial nerve}} branches pass through it.",
+   "extra": "It can generate up to 200 lbs of force."
+  },
+  {
+   "id": "anat-p158-010",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The {{c1::masseter}} can generate up to {{c2::200 lbs}} of force."
+  },
+  {
+   "id": "anat-p158-011",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The {{c1::temporalis}} is a fan-shaped muscle in the temporal fossa; action: {{c2::elevates}} and {{c3::retracts}} the mandible."
+  },
+  {
+   "id": "anat-p158-012",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "Temporalis attachments \u2014 insertion: {{c1::coronoid process of the mandible}}; origin: {{c2::temporal fossa}}."
+  },
+  {
+   "id": "anat-p158-013",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "You can feel the {{c1::temporalis}} bulge at the temples when clenching; it is a site of {{c2::Botox}} injections for TMJ relief."
+  },
+  {
+   "id": "anat-p158-014",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The {{c1::medial pterygoid}} lies deep in the cheek, running vertically on the inner side of the mandible; action: {{c2::elevates}} and {{c2::protrudes}} the jaw."
+  },
+  {
+   "id": "anat-p158-015",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "Medial pterygoid attachments \u2014 insertion: {{c1::medial surface of the mandible}}; origin: {{c2::pterygoid fossa of the sphenoid}}."
+  },
+  {
+   "id": "anat-p158-016",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The medial pterygoid mirrors the {{c1::masseter}} on the inside \u2014 together they form a {{c2::sling}} to clamp the jaw shut.",
+   "extra": "Vertical orientation, unlike the lateral pterygoid."
+  },
+  {
+   "id": "anat-p158-017",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The {{c1::lateral pterygoid}} is a deep horizontal muscle under the zygomatic arch; action: {{c2::opens}}, protrudes and shifts the jaw."
+  },
+  {
+   "id": "anat-p158-018",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "Lateral pterygoid attachments \u2014 insertion: {{c1::TMJ disc and neck of the condyle}}; origin: {{c2::lateral pterygoid plate (sphenoid)}}."
+  },
+  {
+   "id": "anat-p158-019",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The {{c1::lateral pterygoid}} is the only muscle of mastication that {{c2::opens}} the jaw.",
+   "extra": "WakeUpMemory: Medial \u2192 say \"Me\" \u2192 you are closing your jaw \u2192 medial pterygoid closes. Lateral \u2192 say \"La\" \u2192 you are opening your jaw \u2192 lateral pterygoid opens."
+  },
+  {
+   "id": "anat-p158-020",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "The lateral pterygoid has {{c1::horizontal}} fiber direction and is involved in {{c2::TMJ disc displacement}} and lateral jaw movement."
+  },
+  {
+   "id": "anat-p158-021",
+   "deck": "Head and Neck",
+   "section": "Muscles of mastication",
+   "page": 158,
+   "text": "Closing the jaw involves the {{c1::masseter}}, {{c1::medial pterygoid}} and {{c1::temporalis}} working together.",
+   "extra": "Example of muscles working in pairs or groups."
+  },
+  {
+   "id": "anat-p158-022",
+   "deck": "Head and Neck",
+   "section": "Muscular system overview",
+   "page": 158,
+   "text": "The muscular system includes {{c1::skeletal}}, {{c1::smooth}} and {{c1::cardiac}} muscles.",
+   "extra": "In dentistry, we focus on skeletal muscles."
+  },
+  {
+   "id": "anat-p158-023",
+   "deck": "Head and Neck",
+   "section": "Muscular system overview",
+   "page": 158,
+   "text": "Skeletal muscles are under {{c1::voluntary}} control and are {{c2::striated}}.",
+   "extra": "They work in coordination with bones and joints."
+  },
+  {
+   "id": "anat-p158-024",
+   "deck": "Head and Neck",
+   "section": "Muscular system overview",
+   "page": 158,
+   "text": "Muscles have an origin and an insertion; movement occurs from the {{c1::insertion}} towards the {{c2::origin}}."
+  },
+  {
+   "id": "anat-p158-025",
+   "deck": "Head and Neck",
+   "section": "Muscular system overview",
+   "page": 158,
+   "text": "The {{c1::origin}} is a muscle's fixed attachment; the {{c2::insertion}} moves when the muscle contracts."
+  },
+  {
+   "id": "anat-p159-001",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Frontalis}} (muscle of facial expression) \u2014 location: Forehead; action: {{c2::raises eyebrows, wrinkles forehead}}.",
+   "extra": "Tip: Used in surprise; creates forehead lines."
+  },
+  {
+   "id": "anat-p159-002",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Frontalis attachments \u2014 insertion: {{c1::skin above eyebrows}}; origin: {{c2::epicranial aponeurosis}}."
+  },
+  {
+   "id": "anat-p159-003",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Frontalis}} \u2014 used in surprise; creates forehead lines."
+  },
+  {
+   "id": "anat-p159-004",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Orbicularis oculi}} (muscle of facial expression) \u2014 location: surrounds eye; action: {{c2::closes eyelid}}.",
+   "extra": "Tip: Used in blinking, squinting, winking."
+  },
+  {
+   "id": "anat-p159-005",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Orbicularis oculi attachments \u2014 insertion: {{c1::skin around eye}}; origin: {{c2::orbital rim, frontal bone, maxilla}}."
+  },
+  {
+   "id": "anat-p159-006",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Orbicularis oculi}} \u2014 used in blinking, squinting, winking."
+  },
+  {
+   "id": "anat-p159-007",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Corrugator supercilii}} (muscle of facial expression) \u2014 location: between eyebrows; action: {{c2::draws eyebrows medially/downward}}.",
+   "extra": "Tip: Creates vertical frown lines between eyebrows."
+  },
+  {
+   "id": "anat-p159-008",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Corrugator supercilii attachments \u2014 insertion: {{c1::skin of eyebrows}}; origin: {{c2::frontal bone}}."
+  },
+  {
+   "id": "anat-p159-009",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Corrugator supercilii}} \u2014 creates vertical frown lines between eyebrows."
+  },
+  {
+   "id": "anat-p159-010",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Orbicularis oris}} (muscle of facial expression) \u2014 location: around mouth; action: {{c2::closes and puckers lips}}.",
+   "extra": "Tip: Kissing muscle; used with straw (drinking), blowing."
+  },
+  {
+   "id": "anat-p159-011",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Orbicularis oris attachments \u2014 insertion: {{c1::skin at lips}}; origin: {{c2::maxilla, mandible, surrounding muscles}}."
+  },
+  {
+   "id": "anat-p159-012",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Orbicularis oris}} \u2014 kissing muscle; used with straw (drinking), blowing."
+  },
+  {
+   "id": "anat-p159-013",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Buccinator}} (muscle of facial expression) \u2014 location: cheek; action: {{c2::compresses cheek}}.",
+   "extra": "Tip: Keeps food in mouth; the \"trumpet muscle\"."
+  },
+  {
+   "id": "anat-p159-014",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Buccinator attachments \u2014 insertion: {{c1::mouth corner}}; origin: {{c2::maxilla, mandible, pterygomandibular raphe}}."
+  },
+  {
+   "id": "anat-p159-015",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Buccinator}} \u2014 keeps food in mouth; the \"trumpet muscle\"."
+  },
+  {
+   "id": "anat-p159-016",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Zygomaticus major}} (muscle of facial expression) \u2014 location: cheek to mouth corner; action: {{c2::elevates mouth corner (smile)}}.",
+   "extra": "Tip: Main smiling muscle."
+  },
+  {
+   "id": "anat-p159-017",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Zygomaticus major attachments \u2014 insertion: {{c1::mouth corner}}; origin: {{c2::zygomatic bone}}."
+  },
+  {
+   "id": "anat-p159-018",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Zygomaticus major}} \u2014 main smiling muscle."
+  },
+  {
+   "id": "anat-p159-019",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Zygomaticus minor}} (muscle of facial expression) \u2014 location: upper cheek to lip; action: {{c2::elevates upper lip}}.",
+   "extra": "Tip: Assists sneering, showing upper teeth."
+  },
+  {
+   "id": "anat-p159-020",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Zygomaticus minor attachments \u2014 insertion: {{c1::upper lip}}; origin: {{c2::zygomatic bone}}."
+  },
+  {
+   "id": "anat-p159-021",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Zygomaticus minor}} \u2014 assists sneering, showing upper teeth."
+  },
+  {
+   "id": "anat-p159-022",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Levator labii superioris}} (muscle of facial expression) \u2014 location: beside nose; action: {{c2::raises upper lip}}.",
+   "extra": "Tip: Exposes maxillary anterior teeth."
+  },
+  {
+   "id": "anat-p159-023",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Levator labii superioris attachments \u2014 insertion: {{c1::upper lip}}; origin: {{c2::infraorbital rim of maxilla}}."
+  },
+  {
+   "id": "anat-p159-024",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Levator labii superioris}} \u2014 exposes maxillary anterior teeth."
+  },
+  {
+   "id": "anat-p159-025",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Levator labii superioris alaeque nasi}} (muscle of facial expression) \u2014 location: alongside nose; action: {{c2::lifts upper lip and flares nostrils}}.",
+   "extra": "Tip: Used in expressions of disgust."
+  },
+  {
+   "id": "anat-p159-026",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Levator labii superioris alaeque nasi attachments \u2014 insertion: {{c1::upper lip and ala of nose}}; origin: {{c2::frontal process of maxilla}}."
+  },
+  {
+   "id": "anat-p159-027",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Levator labii superioris alaeque nasi}} \u2014 used in expressions of disgust."
+  },
+  {
+   "id": "anat-p159-028",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Levator anguli oris}} (muscle of facial expression) \u2014 location: deep to zygomaticus; action: {{c2::lifts mouth corner}}.",
+   "extra": "Tip: Deep elevator of smile."
+  },
+  {
+   "id": "anat-p159-029",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Levator anguli oris attachments \u2014 insertion: {{c1::mouth corner}}; origin: {{c2::canine fossa of maxilla}}."
+  },
+  {
+   "id": "anat-p159-030",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Levator anguli oris}} \u2014 deep elevator of smile."
+  },
+  {
+   "id": "anat-p159-031",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Risorius}} (muscle of facial expression) \u2014 location: cheek fascia to mouth corner; action: {{c2::retracts mouth corner horizontally}}.",
+   "extra": "Tip: Creates fake or forced smile."
+  },
+  {
+   "id": "anat-p159-032",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Risorius attachments \u2014 insertion: {{c1::mouth corner}}; origin: {{c2::fascia over masseter}}."
+  },
+  {
+   "id": "anat-p159-033",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Risorius}} \u2014 creates fake or forced smile."
+  },
+  {
+   "id": "anat-p159-034",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Depressor anguli oris}} (muscle of facial expression) \u2014 location: lower chin; action: {{c2::pulls mouth corner downward}}.",
+   "extra": "Tip: Used in frowning."
+  },
+  {
+   "id": "anat-p159-035",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Depressor anguli oris attachments \u2014 insertion: {{c1::mouth corner}}; origin: {{c2::mandible}}."
+  },
+  {
+   "id": "anat-p159-036",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Depressor anguli oris}} \u2014 used in frowning."
+  },
+  {
+   "id": "anat-p159-037",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Depressor labii inferioris}} (muscle of facial expression) \u2014 location: mandible to lower lip; action: {{c2::pulls lip down}}.",
+   "extra": "Tip: Exposes mandibular anterior teeth."
+  },
+  {
+   "id": "anat-p159-038",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Depressor labii inferioris attachments \u2014 insertion: {{c1::lower lip}}; origin: {{c2::mandible}}."
+  },
+  {
+   "id": "anat-p159-039",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Depressor labii inferioris}} \u2014 exposes mandibular anterior teeth."
+  },
+  {
+   "id": "anat-p159-040",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Mentalis}} (muscle of facial expression) \u2014 location: chin; action: {{c2::raises and protrudes lower lip}}.",
+   "extra": "Tip: Pouting muscle; creates chin dimples."
+  },
+  {
+   "id": "anat-p159-041",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Mentalis attachments \u2014 insertion: {{c1::skin of chin}}; origin: {{c2::incisive fossa of mandible}}."
+  },
+  {
+   "id": "anat-p159-042",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Mentalis}} \u2014 pouting muscle; creates chin dimples."
+  },
+  {
+   "id": "anat-p159-043",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "The {{c1::Platysma}} (muscle of facial expression) \u2014 location: neck to lower face; action: {{c2::tenses neck, lowers jaw/mouth}}.",
+   "extra": "Tip: Visible during stress or extreme tension."
+  },
+  {
+   "id": "anat-p159-044",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Platysma attachments \u2014 insertion: {{c1::lower face skin}}; origin: {{c2::skin over clavicle and shoulder}}."
+  },
+  {
+   "id": "anat-p159-045",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "Muscle of facial expression: {{c1::Platysma}} \u2014 visible during stress or extreme tension."
+  },
+  {
+   "id": "anat-p159-046",
+   "deck": "Head and Neck",
+   "section": "Muscles of facial expression",
+   "page": 159,
+   "text": "All muscles of facial expression are innervated by the {{c1::facial (VII)}} nerve.",
+   "extra": "Not printed on this page \u2014 standard fact added for contrast with the muscles of mastication (V)."
+  }
+ ],
+ "mcq": []
+}

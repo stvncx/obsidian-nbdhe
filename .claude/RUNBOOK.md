@@ -192,6 +192,16 @@ rough. Check single-line labels come out ~43–49 px tall on the 200-dpi page.
 Look at ALL fronts with `.tools/anki/contact_sheet.py <deck>.apkg out.png 700` (real import,
 every card, one image) — a 2-card preview missed the bad ones.
 
+**Slanted labels:** fits `rbg` / `rtext` return a rotated rectangle (PCA of the label's
+background blob / dark text pixels); the IO note's `Rotate` field drives
+`transform: rotate()` on the cover. Text-based fits must exclude dark-red illustration shading
+(`max<85 and R−B<40`).
+
+**Whole-book QA (Anatomy, 2026-10-08):** after the subagents: build → real import → for EVERY
+diagram run `diagram_check.py` and tile the outputs into sheets (6 per sheet) → look at all of
+them (found: a figure printed twice → duplicate cards; angled labels → oversized covers) →
+fix → render a random sample of cloze/MCQ cards from the imported collection.
+
 **Media rule (bit us 2026-10-08):** Anki's importer DROPS media not referenced by an
 `<img src="…">` *inside a field*. A bare filename in a field + `<img src="{{Image}}">` in the
 template imports cards with NO images. So the Image field holds the full `<img src="x.jpg">`
@@ -236,6 +246,8 @@ change templates only with a deliberate migration plan.
 | 10-08 | Image must be `<img>` inside the field; verify with Anki's real importer | first test deck shipped with no images — preview skipped the importer |
 | 10-08 | Reveal = remove the cover (book's label shows) + outline; no overlaid text | Steven's design |
 | 10-08 | Covers fitted to each label's blue background | Steven: covers too big; rough detection boxes were up to 50% taller than the label |
+| 10-08 | Whole Anatomy PDF built: 454 IO + 915 cloze notes (1653 cards) + 18 MCQ | Steven: "build out the entire thing. cloze cards, occlusions, all of it" |
+| 10-08 | Numbering-chart occlusions (104 cards) kept, flagged as low-value (neighbours give answers away) | Steven said "all of it"; his call to cut |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items

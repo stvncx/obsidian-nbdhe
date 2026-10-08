@@ -1,0 +1,1666 @@
+{
+ "diagrams": [
+  {
+   "name": "anat-p160-tongue-muscles",
+   "title": "Muscles of the tongue",
+   "deck": "Head and Neck",
+   "pdf_page": 14,
+   "page": 160,
+   "crop": [
+    95,
+    170,
+    1245,
+    820
+   ],
+   "labels": [
+    {
+     "box": [
+      532,
+      316,
+      770,
+      354
+     ],
+     "answer": "Superior Longitudinal",
+     "fit": "none"
+    },
+    {
+     "box": [
+      758,
+      252,
+      850,
+      392
+     ],
+     "answer": "Palatoglossus",
+     "fit": "rbg"
+    },
+    {
+     "box": [
+      562,
+      355,
+      682,
+      390
+     ],
+     "answer": "Transverse",
+     "fit": "none"
+    },
+    {
+     "box": [
+      340,
+      408,
+      436,
+      446
+     ],
+     "answer": "Vertical",
+     "fit": "none"
+    },
+    {
+     "box": [
+      722,
+      363,
+      890,
+      475
+     ],
+     "answer": "Styloglossus",
+     "fit": "rbg"
+    },
+    {
+     "box": [
+      500,
+      445,
+      635,
+      535
+     ],
+     "answer": "Inferior Longitudinal",
+     "fit": "rtext"
+    },
+    {
+     "box": [
+      652,
+      488,
+      752,
+      660
+     ],
+     "answer": "Hyoglossus",
+     "fit": "rbg"
+    },
+    {
+     "box": [
+      503,
+      598,
+      681,
+      636
+     ],
+     "answer": "Genioglossus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      490,
+      665,
+      850,
+      785
+     ],
+     "answer": "Geniohyoid muscle (of the neck)",
+     "fit": "rbg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p161-neck-muscles",
+   "title": "Muscles of the neck",
+   "deck": "Head and Neck",
+   "pdf_page": 15,
+   "page": 161,
+   "crop": [
+    80,
+    140,
+    1230,
+    790
+   ],
+   "labels": [
+    {
+     "box": [
+      177,
+      278,
+      344,
+      323
+     ],
+     "answer": "Mylohyoid",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      927,
+      278,
+      1168,
+      323
+     ],
+     "answer": "Mastoid process",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      943,
+      356,
+      1081,
+      402
+     ],
+     "answer": "Scalenus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      180,
+      405,
+      335,
+      450
+     ],
+     "answer": "Digastric",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      903,
+      435,
+      1191,
+      480
+     ],
+     "answer": "Omohyoid (inferior)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      159,
+      455,
+      335,
+      499
+     ],
+     "answer": "Hyoid bone",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1015,
+      603,
+      1210,
+      645
+     ],
+     "answer": "Trapezius",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      149,
+      631,
+      451,
+      677
+     ],
+     "answer": "Omohyoid (superior)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1015,
+      648,
+      1216,
+      694
+     ],
+     "answer": "Clavicle bone",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      149,
+      682,
+      451,
+      728
+     ],
+     "answer": "Sternocleidomastoid",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p162-artery-vein",
+   "title": "Types of blood vessels: artery and vein",
+   "deck": "Head and Neck",
+   "pdf_page": 16,
+   "page": 162,
+   "crop": [
+    160,
+    360,
+    1040,
+    945
+   ],
+   "labels": [
+    {
+     "box": [
+      210,
+      498,
+      333,
+      532
+     ],
+     "answer": "Inner layer",
+     "fit": "text"
+    },
+    {
+     "box": [
+      835,
+      498,
+      905,
+      532
+     ],
+     "answer": "Valve",
+     "fit": "text"
+    },
+    {
+     "box": [
+      195,
+      583,
+      334,
+      620
+     ],
+     "answer": "Elastic layer",
+     "fit": "text"
+    },
+    {
+     "box": [
+      835,
+      583,
+      965,
+      622
+     ],
+     "answer": "Inner layer",
+     "fit": "text",
+     "key": "Inner layer (2)"
+    },
+    {
+     "box": [
+      165,
+      672,
+      333,
+      708
+     ],
+     "answer": "Smooth muscle",
+     "fit": "text"
+    },
+    {
+     "box": [
+      835,
+      672,
+      1003,
+      710
+     ],
+     "answer": "Smooth muscle",
+     "fit": "text",
+     "key": "Smooth muscle (2)"
+    },
+    {
+     "box": [
+      205,
+      758,
+      334,
+      795
+     ],
+     "answer": "Outer layer",
+     "fit": "text"
+    },
+    {
+     "box": [
+      835,
+      760,
+      968,
+      798
+     ],
+     "answer": "Outer layer",
+     "fit": "text",
+     "key": "Outer layer (2)"
+    },
+    {
+     "box": [
+      488,
+      903,
+      690,
+      937
+     ],
+     "answer": "Capillary Network",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "anat-p163-external-carotid",
+   "title": "Branches of the external carotid artery",
+   "deck": "Head and Neck",
+   "pdf_page": 17,
+   "page": 163,
+   "crop": [
+    80,
+    150,
+    1225,
+    800
+   ],
+   "labels": [
+    {
+     "box": [
+      893,
+      366,
+      1191,
+      413
+     ],
+     "answer": "Superficial Temporal",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      128,
+      394,
+      400,
+      438
+     ],
+     "answer": "Posterior Auricular",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      257,
+      462,
+      398,
+      508
+     ],
+     "answer": "Occipital",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      900,
+      483,
+      1048,
+      527
+     ],
+     "answer": "Maxillary",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      197,
+      519,
+      510,
+      565
+     ],
+     "answer": "Ascending Pharyngeal",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      900,
+      573,
+      998,
+      618
+     ],
+     "answer": "Facial",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      263,
+      619,
+      504,
+      664
+     ],
+     "answer": "External carotid",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      832,
+      639,
+      952,
+      683
+     ],
+     "answer": "Lingual",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      265,
+      688,
+      507,
+      733
+     ],
+     "answer": "Superior thyroid",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p164-maxillary-artery",
+   "title": "Branches of the maxillary artery",
+   "deck": "Head and Neck",
+   "pdf_page": 18,
+   "page": 164,
+   "crop": [
+    90,
+    140,
+    1250,
+    800
+   ],
+   "labels": [
+    {
+     "box": [
+      240,
+      228,
+      410,
+      270
+     ],
+     "answer": "Infraorbital",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      146,
+      327,
+      524,
+      382
+     ],
+     "answer": "Posterior Superior Alveolar",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      155,
+      393,
+      452,
+      469
+     ],
+     "answer": "Anterior Superior Alveolar",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      990,
+      418,
+      1222,
+      464
+     ],
+     "answer": "Maxillary artery",
+     "fit": "none"
+    },
+    {
+     "box": [
+      245,
+      662,
+      410,
+      702
+     ],
+     "answer": "Incisive",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      295,
+      728,
+      454,
+      772
+     ],
+     "answer": "Mental",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      903,
+      708,
+      1118,
+      792
+     ],
+     "answer": "Outline of the parotid gland",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "anat-p165-veins",
+   "title": "Veins of the head and neck",
+   "deck": "Head and Neck",
+   "pdf_page": 19,
+   "page": 165,
+   "crop": [
+    80,
+    150,
+    1225,
+    810
+   ],
+   "labels": [
+    {
+     "box": [
+      858,
+      230,
+      1112,
+      308
+     ],
+     "answer": "Pterygoid venous plexus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      545,
+      375,
+      778,
+      412
+     ],
+     "answer": "Cavernous sinus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      570,
+      423,
+      700,
+      462
+     ],
+     "answer": "Maxillary",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      570,
+      467,
+      670,
+      505
+     ],
+     "answer": "Facial",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      510,
+      580,
+      736,
+      626
+     ],
+     "answer": "Internal jugular",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      425,
+      649,
+      661,
+      694
+     ],
+     "answer": "External jugular",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "anat-p160-001",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "Extrinsic tongue muscles originate {{c1::outside}} the tongue and insert into it."
+  },
+  {
+   "id": "anat-p160-002",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "Extrinsic tongue muscles control the tongue's {{c1::position}}: protrude, retract, elevate, depress."
+  },
+  {
+   "id": "anat-p160-003",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "All extrinsic tongue muscles are innervated by {{c1::CN XII (hypoglossal)}} except the {{c2::palatoglossus}}, which is innervated by {{c3::CN X (vagus)}}."
+  },
+  {
+   "id": "anat-p160-004",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::genioglossus}} lies in the midline of the tongue and {{c2::protrudes and depresses}} the tongue."
+  },
+  {
+   "id": "anat-p160-005",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The genioglossus inserts on the tongue and hyoid and originates from the {{c1::genial tubercles}} (inner mandible)."
+  },
+  {
+   "id": "anat-p160-006",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::genioglossus}} is the primary tongue protruder; it prevents the tongue from collapsing backward in {{c2::airway obstruction}}."
+  },
+  {
+   "id": "anat-p160-007",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::styloglossus}}, on the side of the tongue, {{c2::retracts and elevates}} the tongue."
+  },
+  {
+   "id": "anat-p160-008",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The styloglossus inserts on the side of the tongue and originates from the {{c1::styloid process}}."
+  },
+  {
+   "id": "anat-p160-009",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The hook-shaped {{c1::styloglossus}} pulls the tongue back during {{c2::swallowing}}.",
+   "extra": "Tip: shaped like a hook."
+  },
+  {
+   "id": "anat-p160-010",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::hyoglossus}}, on the side of the tongue, {{c2::depresses}} the tongue."
+  },
+  {
+   "id": "anat-p160-011",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The hyoglossus inserts on the side of the tongue and originates from the {{c1::hyoid bone}}."
+  },
+  {
+   "id": "anat-p160-012",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The hyoglossus lies next to the {{c1::lingual nerve}} \u2014 relevant in nerve blocks and surgical anatomy."
+  },
+  {
+   "id": "anat-p160-013",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::palatoglossus}} runs from the soft palate to the tongue and {{c2::elevates the back of the tongue}}."
+  },
+  {
+   "id": "anat-p160-014",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The palatoglossus inserts on the tongue and originates from the {{c1::soft palate}}."
+  },
+  {
+   "id": "anat-p160-015",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The palatoglossus forms the {{c1::anterior tonsillar pillar}}."
+  },
+  {
+   "id": "anat-p160-016",
+   "deck": "Head and Neck",
+   "section": "Extrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::palatoglossus}} is the only tongue muscle NOT innervated by {{c2::CN XII}}.",
+   "extra": "It is innervated by CN X (vagus)."
+  },
+  {
+   "id": "anat-p160-017",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "Intrinsic tongue muscles are located entirely within the tongue, with {{c1::no bony attachments}}."
+  },
+  {
+   "id": "anat-p160-018",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "Intrinsic tongue muscles control the tongue's {{c1::shape}}, allowing it to curl, flatten, lengthen, or narrow."
+  },
+  {
+   "id": "anat-p160-019",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "Intrinsic tongue muscles are needed for {{c1::precise speech}}, {{c2::swallowing}}, and fine tongue movements."
+  },
+  {
+   "id": "anat-p160-020",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "All intrinsic tongue muscles are innervated by {{c1::CN XII (hypoglossal)}}."
+  },
+  {
+   "id": "anat-p160-021",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::superior longitudinal}} muscle is the top layer of the tongue and curls the tongue {{c2::upward}}."
+  },
+  {
+   "id": "anat-p160-022",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The superior longitudinal muscle inserts into tongue tissue and originates from the {{c1::fibrous septum}}."
+  },
+  {
+   "id": "anat-p160-023",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::superior longitudinal}} muscle helps shape the tongue into a {{c2::concave}} form for speech or swallowing."
+  },
+  {
+   "id": "anat-p160-024",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::inferior longitudinal}} muscle, on the underside of the tongue, curls the tongue {{c2::downward}}."
+  },
+  {
+   "id": "anat-p160-025",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The inferior longitudinal muscle inserts on the underside of the tongue and originates from the {{c1::root of the tongue}}."
+  },
+  {
+   "id": "anat-p160-026",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The inferior longitudinal muscle works with the {{c1::superior longitudinal}} to move the tongue {{c2::tip}}."
+  },
+  {
+   "id": "anat-p160-027",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::transverse}} intrinsic tongue muscle runs side-to-side and {{c2::narrows and elongates}} the tongue."
+  },
+  {
+   "id": "anat-p160-028",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The transverse tongue muscle inserts on the lateral borders and originates from the {{c1::median septum}}."
+  },
+  {
+   "id": "anat-p160-029",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::transverse}} intrinsic muscle makes the tongue thin for suction, whistling, or phonetics."
+  },
+  {
+   "id": "anat-p160-030",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::vertical}} intrinsic tongue muscle runs top to bottom and {{c2::flattens and broadens}} the tongue."
+  },
+  {
+   "id": "anat-p160-031",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The vertical tongue muscle originates from the {{c1::superior surface}} and inserts on the {{c2::underside}} of the tongue."
+  },
+  {
+   "id": "anat-p160-032",
+   "deck": "Head and Neck",
+   "section": "Intrinsic tongue muscles",
+   "page": 160,
+   "text": "The {{c1::vertical}} intrinsic muscle flattens the tongue against the {{c2::palate}} during swallowing."
+  },
+  {
+   "id": "anat-p161-001",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::mylohyoid}} forms the floor of the mouth and {{c2::elevates the floor of the mouth and tongue}}."
+  },
+  {
+   "id": "anat-p161-002",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The mylohyoid inserts on the {{c1::hyoid and midline raphe}} and originates from the {{c2::mylohyoid line}} of the mandible."
+  },
+  {
+   "id": "anat-p161-003",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The mylohyoid separates the {{c1::sublingual}} and {{c1::submandibular}} spaces \u2014 an infection tracking line.",
+   "extra": "Tip: infection tracking line."
+  },
+  {
+   "id": "anat-p161-004",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::geniohyoid}} (midline neck) pulls the hyoid bone {{c2::forward and up}}."
+  },
+  {
+   "id": "anat-p161-005",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The geniohyoid inserts on the hyoid and originates from the {{c1::genial tubercles}} (inner mandible)."
+  },
+  {
+   "id": "anat-p161-006",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The geniohyoid lies {{c1::deep}} to the mylohyoid and assists in {{c2::swallowing}}."
+  },
+  {
+   "id": "anat-p161-007",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::anterior belly of the digastric}} (under the chin) {{c2::depresses the mandible}} and elevates the hyoid."
+  },
+  {
+   "id": "anat-p161-008",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The anterior belly of the digastric inserts on the hyoid via a tendon and originates from the {{c1::digastric fossa}} of the mandible."
+  },
+  {
+   "id": "anat-p161-009",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The anterior belly of the digastric forms the floor of the {{c1::submental triangle}} \u2014 relevant for lymph node palpation."
+  },
+  {
+   "id": "anat-p161-010",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::posterior belly of the digastric}} (below the ear) pulls the hyoid {{c2::backward}}."
+  },
+  {
+   "id": "anat-p161-011",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The posterior belly of the digastric inserts on the hyoid via a tendon and originates from the {{c1::mastoid notch}} of the temporal bone."
+  },
+  {
+   "id": "anat-p161-012",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The posterior belly of the digastric lies near the {{c1::parotid gland}} and the {{c2::facial nerve}}."
+  },
+  {
+   "id": "anat-p161-013",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::sternohyoid}} (midline neck) {{c2::depresses the hyoid}}; it inserts on the hyoid and originates from the {{c3::sternum}}."
+  },
+  {
+   "id": "anat-p161-014",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The sternohyoid is a {{c1::superficial infrahyoid}} muscle, visible on thin patients."
+  },
+  {
+   "id": "anat-p161-015",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::omohyoid}}, on the side of the neck, has {{c2::two}} bellies and depresses the hyoid."
+  },
+  {
+   "id": "anat-p161-016",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The omohyoid inserts on the hyoid and originates from the {{c1::scapula}}."
+  },
+  {
+   "id": "anat-p161-017",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::omohyoid}} runs diagonally and helps stabilize the hyoid during swallowing and speech."
+  },
+  {
+   "id": "anat-p161-018",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::sternocleidomastoid}} rotates the head to the {{c2::opposite}} side and flexes the neck."
+  },
+  {
+   "id": "anat-p161-019",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The sternocleidomastoid inserts on the {{c1::mastoid process}} and originates from the {{c2::sternum and clavicle}}."
+  },
+  {
+   "id": "anat-p161-020",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The sternocleidomastoid is palpated during a head turn and is a landmark for {{c1::cervical lymph node}} exams."
+  },
+  {
+   "id": "anat-p161-021",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::trapezius}} (back of the neck and shoulder) {{c2::elevates the shoulder}} and extends the neck."
+  },
+  {
+   "id": "anat-p161-022",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The trapezius inserts on the {{c1::clavicle and scapula}} and originates from the {{c2::occipital bone and vertebrae}}."
+  },
+  {
+   "id": "anat-p161-023",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The trapezius (the shrugging muscle) covers the {{c1::posterior triangle}} and is innervated by the {{c2::spinal accessory nerve (CN XI)}}."
+  },
+  {
+   "id": "anat-p161-024",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The {{c1::scalenus}} (lateral neck) elevates the first and second ribs, assists in neck flexion, and is important for {{c2::deep breathing}}."
+  },
+  {
+   "id": "anat-p161-025",
+   "deck": "Head and Neck",
+   "section": "Muscles of the neck",
+   "page": 161,
+   "text": "The scalenus inserts on the {{c1::first and second ribs}} and originates from the {{c2::cervical vertebrae}}."
+  },
+  {
+   "id": "anat-p162-001",
+   "deck": "Head and Neck",
+   "section": "Vascular system overview",
+   "page": 162,
+   "text": "The vascular system transports {{c1::blood, oxygen, nutrients, hormones, and waste}} throughout the body."
+  },
+  {
+   "id": "anat-p162-002",
+   "deck": "Head and Neck",
+   "section": "Vascular system overview",
+   "page": 162,
+   "text": "The vascular system plays a critical role in {{c1::healing}}, {{c2::immune defense}}, {{c3::temperature control}}, and oral procedures like surgery or anesthesia."
+  },
+  {
+   "id": "anat-p162-003",
+   "deck": "Head and Neck",
+   "section": "Vascular system overview",
+   "page": 162,
+   "text": "In the head and neck, the vascular system includes major arteries, veins, and a dense network of {{c1::capillaries}}."
+  },
+  {
+   "id": "anat-p162-004",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "{{c1::Arteries}} carry oxygen-rich blood {{c2::away from}} the heart to the body and head.",
+   "extra": "WakeUpMemory: A = Artery, Away."
+  },
+  {
+   "id": "anat-p162-005",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Arterial blood is {{c1::bright red}} because it is full of oxygen bound to {{c2::hemoglobin}} in red blood cells."
+  },
+  {
+   "id": "anat-p162-006",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Arterial walls are {{c1::thick and muscular}} to handle the {{c2::high pressure}} from the heart's pumping action."
+  },
+  {
+   "id": "anat-p162-007",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "In the head and neck, {{c1::arteries}} supply oxygen to the brain, facial structures, oral tissues, and teeth."
+  },
+  {
+   "id": "anat-p162-008",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "{{c1::Veins}} carry {{c2::oxygen-poor}} blood {{c3::back to the heart}} after the body has used the oxygen."
+  },
+  {
+   "id": "anat-p162-009",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Venous blood is {{c1::darker}} because it contains less oxygen and more {{c2::carbon dioxide}} and waste."
+  },
+  {
+   "id": "anat-p162-010",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Veins have {{c1::thinner}} walls and {{c2::lower}} pressure than arteries."
+  },
+  {
+   "id": "anat-p162-011",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Many veins contain {{c1::valves}} to keep blood from flowing backward.",
+   "extra": "See the Board Alert card on head and neck veins."
+  },
+  {
+   "id": "anat-p162-012",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Board Alert: many textbooks teach that head and neck veins have {{c1::no valves}}, making them a larger clinical concern for the spread of {{c2::infection}}.",
+   "extra": "Textbooks conflict: modern research shows variable valve presence in head and neck veins, but this has not been widely adopted in textbooks yet."
+  },
+  {
+   "id": "anat-p162-013",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Veins are {{c1::more numerous and variable}} than arteries, especially in the head and neck."
+  },
+  {
+   "id": "anat-p162-014",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Veins frequently form {{c1::anastomoses}} (interconnected webs), creating multiple drainage paths."
+  },
+  {
+   "id": "anat-p162-015",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "{{c1::Capillaries}} are tiny, thin-walled vessels that connect {{c2::arteries to veins}}."
+  },
+  {
+   "id": "anat-p162-016",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "In capillaries, {{c1::oxygen and nutrients}} (like glucose) leave the blood and enter the surrounding tissues to feed the cells.",
+   "extra": "e.g., oxygen moves from red blood cells into the gingiva so it can stay alive and healthy."
+  },
+  {
+   "id": "anat-p162-017",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "At the capillaries, cells release waste, including {{c1::carbon dioxide (CO<sub>2</sub>)}}, which the blood carries away to be removed through the {{c2::lungs}}."
+  },
+  {
+   "id": "anat-p162-018",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Capillaries are found throughout oral tissues, including the {{c1::gingiva}} and the {{c2::periodontal ligament}}."
+  },
+  {
+   "id": "anat-p162-019",
+   "deck": "Head and Neck",
+   "section": "Types of blood vessels",
+   "page": 162,
+   "text": "Capillaries allow {{c1::anesthetic drugs}} to diffuse into nearby nerves and tissues during injections."
+  },
+  {
+   "id": "anat-p162-020",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "text": "{{c1::Plasma}} is the fluid portion of blood (about {{c2::55%}}) that transports proteins, glucose, electrolytes, hormones, and waste."
+  },
+  {
+   "id": "anat-p162-021",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "text": "{{c1::Red blood cells}} carry oxygen via {{c2::hemoglobin}}."
+  },
+  {
+   "id": "anat-p162-022",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "text": "{{c1::White blood cells}} defend against infection and are involved in {{c2::inflammation and healing}}."
+  },
+  {
+   "id": "anat-p162-023",
+   "deck": "Head and Neck",
+   "section": "Components of blood",
+   "page": 162,
+   "text": "{{c1::Platelets}} help blood {{c2::clot}} after injury or surgery (e.g., post-extraction healing)."
+  },
+  {
+   "id": "anat-p163-001",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::common carotid artery}} is the major blood vessel supplying the head and neck."
+  },
+  {
+   "id": "anat-p163-002",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The common carotid artery {{c1::bifurcates}} (splits) into the internal and external carotid arteries."
+  },
+  {
+   "id": "anat-p163-003",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::internal carotid}} artery supplies the {{c2::brain}}."
+  },
+  {
+   "id": "anat-p163-004",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::external carotid}} artery supplies the {{c2::face, oral cavity, scalp, and maxillofacial structures}}."
+  },
+  {
+   "id": "anat-p163-005",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The external carotid artery has {{c1::eight}} branches.",
+   "extra": "WakeUpMemory: FLOSS MAP."
+  },
+  {
+   "id": "anat-p163-006",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "Mnemonic for the 8 branches of the external carotid artery: {{c1::FLOSS MAP}}",
+   "extra": "Facial, Lingual, Occipital, Superior thyroid, Superficial temporal, Maxillary, Ascending pharyngeal, Posterior auricular."
+  },
+  {
+   "id": "anat-p163-007",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::facial}} artery supplies the {{c2::lips, nose, and muscles of facial expression}}."
+  },
+  {
+   "id": "anat-p163-008",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The facial artery crosses the {{c1::mandible}} near the corner of the mouth and can be punctured during {{c2::extraoral injections or surgery}}.",
+   "extra": "It supplies structures often involved in trauma and swelling."
+  },
+  {
+   "id": "anat-p163-009",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::lingual}} artery supplies the {{c2::tongue, floor of mouth, and sublingual glands}}."
+  },
+  {
+   "id": "anat-p163-010",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The lingual artery runs near the {{c1::lingual nerve}} and {{c2::submandibular gland}}; it is at risk during surgeries under the tongue (e.g., frenectomy or sialolith removal)."
+  },
+  {
+   "id": "anat-p163-011",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::occipital}} artery supplies the {{c2::posterior scalp}} and the {{c3::sternocleidomastoid}} muscle."
+  },
+  {
+   "id": "anat-p163-012",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The occipital artery is not commonly affected in dental procedures but may be palpated during {{c1::neck exams}} for lymphadenopathy or tension headaches."
+  },
+  {
+   "id": "anat-p163-013",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::superior thyroid}} artery supplies the {{c2::thyroid gland and larynx}}."
+  },
+  {
+   "id": "anat-p163-014",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::superior thyroid}} artery is the {{c2::first}} branch off the external carotid.",
+   "extra": "Passes near the infrahyoid muscles \u2014 rarely involved in oral procedures."
+  },
+  {
+   "id": "anat-p163-015",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::superficial temporal}} artery supplies the {{c2::scalp and upper lateral face}}."
+  },
+  {
+   "id": "anat-p163-016",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The pulse of the {{c1::superficial temporal}} artery is felt at the {{c2::temple}}.",
+   "extra": "May be used in assessing vascular inflammation or trauma."
+  },
+  {
+   "id": "anat-p163-017",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The anterior branch of the superficial temporal artery lies close to the {{c1::TMJ}} region."
+  },
+  {
+   "id": "anat-p163-018",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::maxillary}} artery supplies the {{c2::deep face}}: teeth, jaw, nasal cavity, and muscles."
+  },
+  {
+   "id": "anat-p163-019",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::maxillary}} artery is the most important artery in dentistry."
+  },
+  {
+   "id": "anat-p163-020",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The maxillary artery gives rise to the {{c1::inferior alveolar}}, {{c2::posterior superior alveolar (PSA)}}, {{c3::infraorbital}}, and {{c4::greater palatine}} arteries."
+  },
+  {
+   "id": "anat-p163-021",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "There is a risk of {{c1::hematoma}} if the {{c2::PSA}} artery is punctured during local anesthesia."
+  },
+  {
+   "id": "anat-p163-022",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::ascending pharyngeal}} artery supplies the {{c2::pharynx, soft palate, and meninges}}."
+  },
+  {
+   "id": "anat-p163-023",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The ascending pharyngeal artery lies near the {{c1::pharyngeal plexus}}; infections here may spread into the {{c2::retropharyngeal space}}.",
+   "extra": "Minor dental role."
+  },
+  {
+   "id": "anat-p163-024",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The {{c1::posterior auricular}} artery supplies the {{c2::area behind the ear}}, part of the scalp."
+  },
+  {
+   "id": "anat-p163-025",
+   "deck": "Head and Neck",
+   "section": "Arteries of the head and neck",
+   "page": 163,
+   "text": "The posterior auricular artery lies close to the {{c1::parotid gland and external ear}}; it is part of {{c2::earache}} differentials or post-op swelling checks.",
+   "extra": "Not typically involved in dental work."
+  },
+  {
+   "id": "anat-p164-001",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The {{c1::inferior alveolar}} artery supplies {{c2::all mandibular teeth}}, the chin, and the lower lip."
+  },
+  {
+   "id": "anat-p164-002",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The inferior alveolar artery enters the {{c1::mandibular foramen}} and runs through the {{c2::mandibular canal}}."
+  },
+  {
+   "id": "anat-p164-003",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The inferior alveolar artery gives off the {{c1::mental}} and {{c1::incisive}} branches."
+  },
+  {
+   "id": "anat-p164-004",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The inferior alveolar artery is a landmark for the {{c1::IA block}} and is visible on radiographs near the {{c2::mandibular canal}}."
+  },
+  {
+   "id": "anat-p164-005",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The {{c1::mental}} artery supplies the {{c2::chin and lower lip}}."
+  },
+  {
+   "id": "anat-p164-006",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The mental artery exits the {{c1::mental foramen}} near the {{c2::second premolar}}."
+  },
+  {
+   "id": "anat-p164-007",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The mental artery is a landmark for the {{c1::mental nerve block}} and is palpated during trauma exams."
+  },
+  {
+   "id": "anat-p164-008",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The {{c1::incisive}} artery supplies the {{c2::mandibular anterior teeth}} (central/lateral incisors, canines)."
+  },
+  {
+   "id": "anat-p164-009",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The incisive artery is a continuation of the {{c1::inferior alveolar}} artery; it stays inside the canal and runs beneath the apices of the {{c2::mandibular incisors}}."
+  },
+  {
+   "id": "anat-p164-010",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The {{c1::incisive}} artery supplies anterior teeth that are often missed in blocks."
+  },
+  {
+   "id": "anat-p164-011",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The {{c1::infraorbital}} artery supplies the {{c2::maxillary anterior teeth}}, lower eyelid, side of the nose, and upper lip."
+  },
+  {
+   "id": "anat-p164-012",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The infraorbital artery travels through the {{c1::infraorbital canal}} and exits via the {{c2::infraorbital foramen}}."
+  },
+  {
+   "id": "anat-p164-013",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The infraorbital artery gives off the {{c1::anterior superior alveolar}} arteries to supply the maxillary anterior teeth and supporting structures."
+  },
+  {
+   "id": "anat-p164-014",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The {{c1::posterior superior alveolar (PSA)}} artery supplies the {{c2::maxillary molars}}, buccal gingiva, and part of the {{c3::maxillary sinus}}."
+  },
+  {
+   "id": "anat-p164-015",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The PSA artery enters the posterior maxilla near the {{c1::tuberosity}}."
+  },
+  {
+   "id": "anat-p164-016",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The PSA block carries a high {{c1::hematoma}} risk because of the nearby {{c2::venous plexus}}."
+  },
+  {
+   "id": "anat-p164-017",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The PSA artery usually supplies all {{c1::3}} roots of the maxillary molars."
+  },
+  {
+   "id": "anat-p164-018",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "A {{c1::middle superior alveolar (MSA)}} branch exists in only about {{c2::50%}} of people.",
+   "extra": "The book's sentence here is garbled (\"Middle superior alveolar (MSA) branch and exist in about 50% of the time\"); read as: the MSA is present in about half of people."
+  },
+  {
+   "id": "anat-p164-019",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The {{c1::anterior superior alveolar (ASA)}} artery supplies the maxillary {{c2::canines and incisors}} and the anterior sinus wall."
+  },
+  {
+   "id": "anat-p164-020",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The ASA artery is a branch of the {{c1::infraorbital}} artery."
+  },
+  {
+   "id": "anat-p164-021",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The {{c1::ASA canal}} may appear on radiographs above the apices of the anterior maxillary teeth."
+  },
+  {
+   "id": "anat-p164-022",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "The {{c1::descending palatine}} branch of the maxillary artery includes the {{c2::greater and lesser palatine}} arteries."
+  },
+  {
+   "id": "anat-p164-023",
+   "deck": "Head and Neck",
+   "section": "Maxillary artery branches",
+   "page": 164,
+   "text": "Other branches of the {{c1::maxillary}} artery include the deep auricular, middle meningeal, buccal, masseteric, pterygoid, descending palatine, and sphenopalatine arteries.",
+   "extra": "The book's chart highlights only the branches most relevant to dental procedures (teeth, palate, surrounding soft tissues)."
+  },
+  {
+   "id": "anat-p165-001",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::facial}} vein drains the {{c2::superficial face}}: lips, nose, eyes."
+  },
+  {
+   "id": "anat-p165-002",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The facial vein communicates with deep veins and is a pathway for infection to the {{c1::cavernous sinus}}."
+  },
+  {
+   "id": "anat-p165-003",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::maxillary}} vein drains the {{c2::pterygoid venous plexus}} and deep face."
+  },
+  {
+   "id": "anat-p165-004",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The maxillary vein joins the {{c1::retromandibular}} vein and receives blood from the {{c2::PSA}} area."
+  },
+  {
+   "id": "anat-p165-005",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::lingual}} vein drains the {{c2::deep tissues of the tongue}}; it is important in tongue surgeries and floor-of-mouth infections."
+  },
+  {
+   "id": "anat-p165-006",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::retromolar}} vein drains the posterior mandible behind the {{c2::third molars}}; it can contribute to localized bleeding after third molar extractions."
+  },
+  {
+   "id": "anat-p165-007",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::mental}} vein drains the {{c2::chin and lower lip}} and joins the {{c3::inferior alveolar and facial}} veins."
+  },
+  {
+   "id": "anat-p165-008",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::sublingual/submental}} veins drain the area beneath the tongue and chin and play a key role in infections that spread to the {{c2::submandibular space}} and beyond."
+  },
+  {
+   "id": "anat-p165-009",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::pterygoid venous plexus}} surrounds the {{c2::maxillary artery}} and deep facial structures."
+  },
+  {
+   "id": "anat-p165-010",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The pterygoid venous plexus is a high-risk area for {{c1::hematoma}} during a {{c2::PSA}} block."
+  },
+  {
+   "id": "anat-p165-011",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The pterygoid venous plexus connects to the facial vein, deep facial vein, and {{c1::ophthalmic}} veins \u2014 a possible infection route to the {{c2::brain}}."
+  },
+  {
+   "id": "anat-p165-012",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::internal jugular}} vein drains the brain, face, and oral cavity and is the {{c2::main}} venous drainage of the head and neck."
+  },
+  {
+   "id": "anat-p165-013",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The internal jugular vein runs with the {{c1::carotid artery and vagus nerve}} in the {{c2::carotid sheath}}."
+  },
+  {
+   "id": "anat-p165-014",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::external jugular}} vein drains the {{c2::scalp and superficial face}}."
+  },
+  {
+   "id": "anat-p165-015",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The external jugular vein crosses over the {{c1::sternocleidomastoid (SCM)}} muscle, is often visible, and drains into the {{c2::subclavian}} vein."
+  },
+  {
+   "id": "anat-p165-016",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "Veins {{c1::outnumber}} arteries in the head and neck and {{c2::anastomose freely}}, allowing many alternate drainage routes but also rapid spread of infection."
+  },
+  {
+   "id": "anat-p165-017",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "{{c1::Anastomosis}} means veins are interconnected, so infections from the face or oral cavity can reach deeper structures like the {{c2::brain}}."
+  },
+  {
+   "id": "anat-p165-018",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::cavernous sinus}} is located {{c2::posterior to the orbit}}, deep in the cranial cavity."
+  },
+  {
+   "id": "anat-p165-019",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The cavernous sinus is connected to the {{c1::facial}} vein, the {{c2::ophthalmic}} vein, and the {{c3::pterygoid venous plexus}}."
+  },
+  {
+   "id": "anat-p165-020",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "Infections of the upper lip or nose (the {{c1::\"danger triangle\"}}) can reach the brain and cause {{c2::cavernous sinus thrombosis}}, a life-threatening condition."
+  },
+  {
+   "id": "anat-p165-021",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The {{c1::pterygoid venous plexus}} is a large, flexible network of veins located behind the {{c2::maxilla}}, near the {{c3::pterygoid muscles}}."
+  },
+  {
+   "id": "anat-p165-022",
+   "deck": "Head and Neck",
+   "section": "Veins of the head and neck",
+   "page": 165,
+   "text": "The pterygoid venous plexus protects vessels like the {{c1::maxillary artery}} from being compressed during {{c2::mastication}}."
+  }
+ ],
+ "mcq": []
+}

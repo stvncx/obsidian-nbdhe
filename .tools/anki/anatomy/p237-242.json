@@ -1,0 +1,1359 @@
+{
+ "diagrams": [
+  {
+   "name": "anat-p238-molar-roots-furcations",
+   "title": "Mandibular vs maxillary molar: roots, furcations, buccal pit",
+   "deck": "Dental Anatomy",
+   "pdf_page": 38,
+   "page": 238,
+   "crop": [
+    105,
+    418,
+    1243,
+    1045
+   ],
+   "labels": [
+    {
+     "box": [
+      332,
+      464,
+      627,
+      512
+     ],
+     "answer": "Mandibular molar",
+     "fit": "none"
+    },
+    {
+     "box": [
+      790,
+      462,
+      1051,
+      512
+     ],
+     "answer": "Maxillary molar",
+     "fit": "none"
+    },
+    {
+     "box": [
+      480,
+      565,
+      686,
+      614
+     ],
+     "answer": "Furcation: 2",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      875,
+      558,
+      1015,
+      600
+     ],
+     "answer": "Roots: 3",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      281,
+      805,
+      452,
+      857
+     ],
+     "answer": "Buccal pit",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      896,
+      811,
+      1101,
+      862
+     ],
+     "answer": "Furcation: 3",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      494,
+      902,
+      640,
+      948
+     ],
+     "answer": "Roots: 2",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p240-number-size",
+   "title": "Abnormalities in tooth number and size",
+   "deck": "Dental Anatomy",
+   "pdf_page": 40,
+   "page": 240,
+   "crop": [
+    209,
+    363,
+    968,
+    869
+   ],
+   "labels": [
+    {
+     "box": [
+      286,
+      584,
+      501,
+      628
+     ],
+     "answer": "Missing lateral",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      735,
+      584,
+      897,
+      629
+     ],
+     "answer": "Peg lateral",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      309,
+      818,
+      474,
+      861
+     ],
+     "answer": "Mesiodens",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      716,
+      820,
+      907,
+      864
+     ],
+     "answer": "Macrodontia",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p240-tooth-formation",
+   "title": "Abnormalities due to disturbances in tooth formation",
+   "deck": "Dental Anatomy",
+   "pdf_page": 40,
+   "page": 240,
+   "crop": [
+    110,
+    1562,
+    1100,
+    2068
+   ],
+   "labels": [
+    {
+     "box": [
+      154,
+      1661,
+      264,
+      1691
+     ],
+     "answer": "2 crowns",
+     "fit": "text"
+    },
+    {
+     "box": [
+      170,
+      1694,
+      245,
+      1722
+     ],
+     "answer": "1 root",
+     "fit": "text"
+    },
+    {
+     "box": [
+      451,
+      1647,
+      616,
+      1678
+     ],
+     "answer": "1 large crown",
+     "fit": "text"
+    },
+    {
+     "box": [
+      467,
+      1678,
+      597,
+      1708
+     ],
+     "answer": "1 or 2 root",
+     "fit": "text"
+    },
+    {
+     "box": [
+      745,
+      1647,
+      858,
+      1678
+     ],
+     "answer": "2 crowns",
+     "fit": "text",
+     "key": "2 crowns (2)"
+    },
+    {
+     "box": [
+      699,
+      1677,
+      907,
+      1738
+     ],
+     "answer": "Roots connected via cementum",
+     "fit": "text"
+    },
+    {
+     "box": [
+      273,
+      1743,
+      440,
+      1784
+     ],
+     "answer": "Gemination",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      571,
+      1749,
+      694,
+      1789
+     ],
+     "answer": "Fusion",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      865,
+      1745,
+      1055,
+      1786
+     ],
+     "answer": "Concrescence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      145,
+      1908,
+      306,
+      1969
+     ],
+     "answer": "Pearl on root surface",
+     "fit": "text"
+    },
+    {
+     "box": [
+      434,
+      1919,
+      570,
+      1953
+     ],
+     "answer": "Cementum",
+     "fit": "text"
+    },
+    {
+     "box": [
+      699,
+      1927,
+      858,
+      1960
+     ],
+     "answer": "Curved roots",
+     "fit": "text"
+    },
+    {
+     "box": [
+      235,
+      2014,
+      433,
+      2055
+     ],
+     "answer": "Enamel pearl",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      497,
+      2017,
+      732,
+      2059
+     ],
+     "answer": "Hypercementosis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      805,
+      2019,
+      998,
+      2060
+     ],
+     "answer": "Dilaceration",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-p242-tooth-wear",
+   "title": "Damage to tooth structure: erosion, abrasion, abfraction, attrition",
+   "deck": "Dental Anatomy",
+   "pdf_page": 42,
+   "page": 242,
+   "crop": [
+    99,
+    319,
+    1221,
+    781
+   ],
+   "labels": [
+    {
+     "box": [
+      160,
+      325,
+      306,
+      372
+     ],
+     "answer": "Erosion",
+     "fit": "none"
+    },
+    {
+     "box": [
+      429,
+      325,
+      600,
+      372
+     ],
+     "answer": "Abrasion",
+     "fit": "none"
+    },
+    {
+     "box": [
+      701,
+      325,
+      897,
+      374
+     ],
+     "answer": "Abfraction",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1006,
+      325,
+      1169,
+      374
+     ],
+     "answer": "Attrition",
+     "fit": "none"
+    },
+    {
+     "box": [
+      695,
+      556,
+      930,
+      597
+     ],
+     "answer": "V-shaped notch",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "anat-p237-001",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The {{c1::maxillary central incisor}} is the largest of all incisors, with a broad, {{c2::shovel}}-shaped crown and a prominent {{c3::cingulum}}."
+  },
+  {
+   "id": "anat-p237-002",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "On the maxillary central incisor, the {{c1::mesioincisal}} angle is sharp and the {{c2::distoincisal}} angle is rounded."
+  },
+  {
+   "id": "anat-p237-003",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary central incisor is a common site for {{c1::trauma}} in kids and is prone to {{c2::attrition}} in deep overbites."
+  },
+  {
+   "id": "anat-p237-004",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The {{c1::maxillary lateral incisor}} has a deep lingual fossa and pit and a narrow crown; peg laterals are possible."
+  },
+  {
+   "id": "anat-p237-005",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary lateral incisor is the {{c1::second}} most commonly congenitally missing tooth (after {{c2::3rd molars}})."
+  },
+  {
+   "id": "anat-p237-006",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "Clinical tip, maxillary lateral incisor: check for caries in the {{c1::lingual pit}}; a {{c2::peg lateral}} may require cosmetic restoration."
+  },
+  {
+   "id": "anat-p237-007",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The {{c1::maxillary canine}} has the longest root in the mouth and one sharp cusp."
+  },
+  {
+   "id": "anat-p237-008",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary canine has {{c1::2}} lingual fossae separated by a {{c2::lingual ridge}}."
+  },
+  {
+   "id": "anat-p237-009",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary canine is the {{c1::second}} most commonly impacted tooth."
+  },
+  {
+   "id": "anat-p237-010",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary canine is critical for esthetics and occlusion ({{c1::canine guidance}}); it may erupt ectopically ({{c2::palatal or buccal}})."
+  },
+  {
+   "id": "anat-p237-011",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary 1st premolar usually has {{c1::2}} roots ({{c2::buccal and palatal}}) and 2 well-defined cusps.",
+   "extra": "WakeUpMemory: Top 1 Premolar → T1P → TIP → say \"to tip\" → to → two → T1P has two roots."
+  },
+  {
+   "id": "anat-p237-012",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary 1st premolar has a distinct {{c1::mesial}} root concavity and {{c1::mesial}} marginal groove."
+  },
+  {
+   "id": "anat-p237-013",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "Clinical tip: use care when scaling the {{c1::mesial}} surface of the maxillary 1st premolar; it is the premolar most likely to have {{c2::2 roots}}."
+  },
+  {
+   "id": "anat-p237-014",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary 2nd premolar has {{c1::1}} root and 2 cusps (buccal and palatal) that are more {{c2::equal in size}}, a shorter central groove, and a more rounded crown."
+  },
+  {
+   "id": "anat-p237-015",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary 2nd premolar is easier for scaling and instrumentation and less prone to {{c1::furcations}} (single root)."
+  },
+  {
+   "id": "anat-p237-016",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary 1st molar has {{c1::3}} roots ({{c2::2 buccal, 1 palatal}}) and {{c3::4}} major cusps (MB, DB, ML, DL)."
+  },
+  {
+   "id": "anat-p237-017",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "A possible 5th cusp of the maxillary 1st molar is the {{c1::Cusp of Carabelli}}, on the {{c2::mesiolingual}} cusp."
+  },
+  {
+   "id": "anat-p237-018",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The {{c1::maxillary 1st molar}} has the largest crown in the dentition and is the most important tooth for occlusion."
+  },
+  {
+   "id": "anat-p237-019",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "On the maxillary 1st molar, the {{c1::palatal}} root is longest; the {{c2::palatal and mesial}} furcations are hardest to access."
+  },
+  {
+   "id": "anat-p237-020",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary 2nd molar has 3 roots, 3–4 cusps, and a crown that is {{c1::rhomboid or heart}}-shaped."
+  },
+  {
+   "id": "anat-p237-021",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The heart-shaped form of the maxillary 2nd molar is missing the {{c1::distolingual (DL)}} cusp."
+  },
+  {
+   "id": "anat-p237-022",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary 2nd molar often resembles the 1st molar but smaller; watch for the {{c1::mesial}} furcation during perio exams."
+  },
+  {
+   "id": "anat-p237-023",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary 3rd molar often has {{c1::fused}} roots, a smaller crown, and more grooves and supplemental anatomy."
+  },
+  {
+   "id": "anat-p237-024",
+   "deck": "Dental Anatomy",
+   "section": "Maxillary teeth",
+   "page": 237,
+   "text": "The maxillary 3rd molar is often {{c1::impacted or missing}}; if erupted, it may be hard to clean and prone to decay."
+  },
+  {
+   "id": "anat-p237-025",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The {{c1::mandibular central incisor}} is the smallest and most symmetrical tooth, with a straight incisal edge, single root, and shallow lingual surface."
+  },
+  {
+   "id": "anat-p237-026",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The mandibular central incisor is the most difficult tooth to distinguish {{c1::left from right}} and a common site for {{c2::lingual calculus}} buildup."
+  },
+  {
+   "id": "anat-p237-027",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The mandibular lateral incisor is slightly larger than the central; its incisal edge curves {{c1::distally}} (twisted appearance) and it has a subtle root concavity."
+  },
+  {
+   "id": "anat-p237-028",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "Clinical tip: use the {{c1::distal tilt}} to identify the mandibular lateral incisor; it is slightly harder to instrument due to its angle."
+  },
+  {
+   "id": "anat-p237-029",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The mandibular canine has a long crown and {{c1::1}} root, which may be {{c2::bifurcated}}; it has smoother lingual anatomy than the max canine."
+  },
+  {
+   "id": "anat-p237-030",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The mandibular canine is less prominent in esthetics than the max canine and may require extra {{c1::radiographic views}} if bifurcated."
+  },
+  {
+   "id": "anat-p237-031",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The mandibular 1st premolar has 2 cusps: buccal {{c1::large}}, lingual {{c2::small/nonfunctional}}; it has 1 root."
+  },
+  {
+   "id": "anat-p237-032",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The mandibular 1st premolar has a prominent {{c1::transverse ridge}} with 2 defined mesial and distal pits on either side."
+  },
+  {
+   "id": "anat-p237-033",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The {{c1::mandibular 1st premolar}} functions more like a canine; its {{c2::buccal}} cusp is the only functional cusp in occlusion."
+  },
+  {
+   "id": "anat-p237-034",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The mandibular 2nd premolar has {{c1::2 or 3}} cusps and a square or round occlusal shape.",
+   "extra": "WakeUpMemory: Lower 2 Premolar → L2P → LAP → take laps in the park with trees → three → L2P has three cusps."
+  },
+  {
+   "id": "anat-p237-035",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "Mandibular 2nd premolar groove pattern: 3-cusp form = {{c1::Y}}-shaped groove; 2-cusp form = {{c2::U or H}}-shaped groove."
+  },
+  {
+   "id": "anat-p237-036",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The {{c1::3}}-cusp form of the mandibular 2nd premolar is more common."
+  },
+  {
+   "id": "anat-p237-037",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 237,
+   "text": "The mandibular 2nd premolar is a common {{c1::extraction}} site for ortho."
+  },
+  {
+   "id": "anat-p238-001",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 238,
+   "text": "The mandibular 1st molar has {{c1::5}} cusps (MB, DB, distal, ML, DL) and {{c2::2}} roots ({{c3::mesial and distal}})."
+  },
+  {
+   "id": "anat-p238-002",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 238,
+   "text": "The {{c1::mandibular 1st molar}} is the widest tooth mesiodistally and has complex occlusal anatomy."
+  },
+  {
+   "id": "anat-p238-003",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 238,
+   "text": "The mandibular 1st molar is the {{c1::first permanent tooth to erupt}}; its {{c2::buccal pit}} is prone to decay."
+  },
+  {
+   "id": "anat-p238-004",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 238,
+   "text": "Early loss of the mandibular 1st molar affects {{c1::molar relationships}}."
+  },
+  {
+   "id": "anat-p238-005",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 238,
+   "text": "The mandibular 2nd molar has {{c1::4}} cusps (MB, DB, ML, DL), 2 roots, a symmetrical crown, and a {{c2::cross}}-shaped occlusal groove pattern."
+  },
+  {
+   "id": "anat-p238-006",
+   "deck": "Dental Anatomy",
+   "section": "Mandibular teeth",
+   "page": 238,
+   "text": "The mandibular 2nd molar is easier to instrument than the 1st molar; it is a common site for plaque retention at the {{c1::buccal groove}}."
+  },
+  {
+   "id": "anat-p238-007",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Crowns of mandibular premolars and molars have a {{c1::lingual}} inclination."
+  },
+  {
+   "id": "anat-p238-008",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "The most pronounced root concavity is on the {{c1::mesial}} surface of the {{c2::maxillary 1st premolar}}; this area is commonly missed during instrumentation."
+  },
+  {
+   "id": "anat-p238-009",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Premolars usually have 2 cusps, except the {{c1::mandibular 2nd premolar}}, which may have 2 or 3 cusps."
+  },
+  {
+   "id": "anat-p238-010",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Premolars have one root, except the {{c1::maxillary 1st premolar}}, which usually has two roots.",
+   "extra": "Board Alert: dental anatomy is not an exact science — the book gives what you are \"most likely to see\" (e.g. the maxillary 1st premolar can have two roots, but not always). Pick the most likely scenario."
+  },
+  {
+   "id": "anat-p238-011",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Upper molars (except 3rd molars) have {{c1::oblique ridges}}, formed by the union of the distal cusp ridge of the {{c2::mesiolingual}} cusp and the triangular ridge of the {{c3::distobuccal}} cusp."
+  },
+  {
+   "id": "anat-p238-012",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "The CEJ is more prominent on {{c1::mesial}} surfaces than on distal surfaces."
+  },
+  {
+   "id": "anat-p238-013",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Maxillary molars have {{c1::3}} roots; mandibular molars have {{c2::2}} roots."
+  },
+  {
+   "id": "anat-p238-014",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Maxillary molars are wider {{c1::buccolingually}} than mesiodistally."
+  },
+  {
+   "id": "anat-p238-015",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Mandibular molars are wider {{c1::mesiodistally}} than buccolingually."
+  },
+  {
+   "id": "anat-p238-016",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Premolars are wider {{c1::buccolingually}} than mesiodistally."
+  },
+  {
+   "id": "anat-p238-017",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "{{c1::Canines}} are the longest teeth in the dentition when combining root and crown length."
+  },
+  {
+   "id": "anat-p238-018",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Maxillary lateral incisors are prone to {{c1::lingual caries}} due to their deep lingual fossae and lingual pit."
+  },
+  {
+   "id": "anat-p238-019",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "The mandibular 1st premolar has a small, nonfunctional {{c1::lingual}} cusp and resembles a {{c2::canine}} in form and function."
+  },
+  {
+   "id": "anat-p238-020",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "The mandibular 2nd premolar often has {{c1::three}} cusps and a {{c2::Y}}-shaped occlusal groove pattern."
+  },
+  {
+   "id": "anat-p238-021",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Maxillary molars have three furcations ({{c1::buccal, mesial, distal}}); the {{c2::mesial}} furcation is the most difficult to access clinically."
+  },
+  {
+   "id": "anat-p238-022",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Mandibular molars have two furcations ({{c1::buccal and lingual}}), both {{c2::more}} accessible than maxillary furcations."
+  },
+  {
+   "id": "anat-p238-023",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "The cingulum is {{c1::centered}} on maxillary central incisors and slightly {{c2::distal}} on mandibular lateral incisors."
+  },
+  {
+   "id": "anat-p238-024",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Root inclination follows arch form: mandibular crowns tilt {{c1::lingually}}, maxillary molars tilt {{c2::buccally}}."
+  },
+  {
+   "id": "anat-p238-025",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Maxillary 1st molars may have a {{c1::palatal groove}}, which can collect plaque and mimic a crack."
+  },
+  {
+   "id": "anat-p238-026",
+   "deck": "Dental Anatomy",
+   "section": "Summary",
+   "page": 238,
+   "text": "Canines provide {{c1::canine guidance}} and support the facial contour and {{c2::vertical dimension}}."
+  },
+  {
+   "id": "anat-p239-001",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "{{c1::Amelogenesis imperfecta}} affects the {{c2::enamel}}; dentinogenesis imperfecta and dentin dysplasia affect the {{c3::dentin}}."
+  },
+  {
+   "id": "anat-p239-002",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Amelogenesis imperfecta appearance: teeth are {{c1::yellow, brown, or white}}; may be pitted, rough, thin, or missing enamel."
+  },
+  {
+   "id": "anat-p239-003",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentinogenesis imperfecta appearance: teeth are {{c1::blue-gray, yellow-brown, translucent}}."
+  },
+  {
+   "id": "anat-p239-004",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentin dysplasia appearance: teeth are {{c1::normal or discolored}}."
+  },
+  {
+   "id": "anat-p239-005",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Amelogenesis imperfecta radiographic findings: {{c1::thin or no enamel}}; may show {{c2::taurodontism}}."
+  },
+  {
+   "id": "anat-p239-006",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentinogenesis imperfecta radiographic findings: {{c1::bulbous}} crowns, {{c2::short}} roots, no pulp or {{c3::shell teeth}}."
+  },
+  {
+   "id": "anat-p239-007",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentin dysplasia radiographic findings: {{c1::short or absent roots}}, weird pulp shapes ({{c2::crescent, thistle}}), and {{c3::pulp stones}}."
+  },
+  {
+   "id": "anat-p239-008",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Prevalence: amelogenesis imperfecta ~1 in {{c1::700 to 14,000}}; dentinogenesis imperfecta ~1 in {{c2::6,000 to 8,000}}; dentin dysplasia ~1 in {{c3::100,000}}."
+  },
+  {
+   "id": "anat-p239-009",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Tooth sensitivity: amelogenesis imperfecta — yes, due to {{c1::exposed dentin}}; dentinogenesis imperfecta — yes, when {{c2::enamel chips}}."
+  },
+  {
+   "id": "anat-p239-010",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentin dysplasia causes {{c1::no}} tooth sensitivity (no dentinal tubules or odontoblastic processes)."
+  },
+  {
+   "id": "anat-p239-011",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Enamel in dentinogenesis imperfecta is {{c1::abnormal}} — thin, soft, or absent."
+  },
+  {
+   "id": "anat-p239-012",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Enamel in dentin dysplasia is {{c1::normal}} but fractures easily due to weak dentin."
+  },
+  {
+   "id": "anat-p239-013",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentin: amelogenesis imperfecta — {{c1::normal}}; dentinogenesis imperfecta — abnormal, {{c2::soft and weak}}; dentin dysplasia — abnormal, {{c3::tubules absent}}."
+  },
+  {
+   "id": "anat-p239-014",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Amelogenesis imperfecta Type I — {{c1::hypoplastic}}: enamel is too {{c2::thin}} but hard; may appear pitted or smooth."
+  },
+  {
+   "id": "anat-p239-015",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Amelogenesis imperfecta Type II — {{c1::hypomaturation}}: enamel is normal in thickness but {{c2::soft and mottled}}; chips easily; explorer tip may penetrate."
+  },
+  {
+   "id": "anat-p239-016",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Amelogenesis imperfecta Type III — {{c1::hypocalcified}}: enamel normal in thickness but very soft and yellow due to poor mineralization; {{c2::severe sensitivity}} and rapid wear."
+  },
+  {
+   "id": "anat-p239-017",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Amelogenesis imperfecta Type IV: combination of {{c1::hypoplastic and hypomaturation}} features, often with {{c2::taurodontism}} (elongated pulp chambers)."
+  },
+  {
+   "id": "anat-p239-018",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentinogenesis imperfecta Type I occurs with {{c1::osteogenesis imperfecta}}; enamel fractures over soft dentin; no visible pulp."
+  },
+  {
+   "id": "anat-p239-019",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentinogenesis imperfecta Type II: similar to Type I but with {{c1::no bone disease}}; radiographically identical."
+  },
+  {
+   "id": "anat-p239-020",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentinogenesis imperfecta Type III ({{c1::Brandywine}}): very {{c2::large}} pulp chambers and extremely thin dentin walls — \"{{c3::shell teeth}}.\""
+  },
+  {
+   "id": "anat-p239-021",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentin dysplasia Type I ({{c1::radicular}}): crowns are normal; roots are {{c2::short/absent}}; early tooth loss, tooth mobility."
+  },
+  {
+   "id": "anat-p239-022",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 239,
+   "text": "Dentin dysplasia Type II ({{c1::coronal}}): affects both pulp and crown; teeth discolored; pulp shows {{c2::thistle- or flame}}-shaped chambers and pulp stones."
+  },
+  {
+   "id": "anat-p240-001",
+   "deck": "Dental Anatomy",
+   "section": "Hereditary abnormalities",
+   "page": 240,
+   "text": "Treatment of amelogenesis imperfecta, dentinogenesis imperfecta, and dentin dysplasia: restorative/aesthetic work, desensitizing agents, orthodontics; {{c1::bleaching}} is ineffective."
+  },
+  {
+   "id": "anat-p240-002",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "{{c1::Hypodontia}}: lack of one or more teeth in the primary or permanent dentition; the {{c2::permanent}} dentition is most commonly affected."
+  },
+  {
+   "id": "anat-p240-003",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "Most commonly missing teeth (hypodontia): {{c1::permanent third molars}}, then {{c2::maxillary lateral incisors}}, then {{c3::mandibular second premolars}}."
+  },
+  {
+   "id": "anat-p240-004",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "{{c1::Anodontia}}: congenital lack of {{c2::all}} primary or permanent teeth."
+  },
+  {
+   "id": "anat-p240-005",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "{{c1::Supernumerary teeth}}: extra teeth in the arch that are typically {{c2::smaller}} than normal and often do not erupt."
+  },
+  {
+   "id": "anat-p240-006",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "{{c1::Mesiodens}}: the most common supernumerary tooth, located between the {{c2::maxillary central incisors}}."
+  },
+  {
+   "id": "anat-p240-007",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "The second most common supernumerary tooth is the {{c1::maxillary fourth molar (distomolar)}}."
+  },
+  {
+   "id": "anat-p240-008",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "{{c1::Microdontia}}: one or more teeth are smaller than normal; {{c2::localized}} microdontia (single tooth) is more common than generalized."
+  },
+  {
+   "id": "anat-p240-009",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "{{c1::Peg lateral}}: small maxillary lateral incisor."
+  },
+  {
+   "id": "anat-p240-010",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "{{c1::Macrodontia}}: one or more teeth in a dentition are larger than normal."
+  },
+  {
+   "id": "anat-p240-011",
+   "deck": "Dental Anatomy",
+   "section": "Abnormalities in number and size",
+   "page": 240,
+   "text": "Localized macrodontia affecting one side of the dental arch is called {{c1::facial hemihypertrophy}}."
+  },
+  {
+   "id": "anat-p241-001",
+   "deck": "Dental Anatomy",
+   "section": "Gemination, fusion, concrescence",
+   "page": 241,
+   "text": "{{c1::Gemination}}: a single tooth germ attempts to {{c2::divide}}, resulting in incomplete formation of two teeth."
+  },
+  {
+   "id": "anat-p241-002",
+   "deck": "Dental Anatomy",
+   "section": "Gemination, fusion, concrescence",
+   "page": 241,
+   "text": "In gemination, the crown is divided by a {{c1::notched}} area and can appear wide; the tooth has {{c2::one}} root and one common pulp."
+  },
+  {
+   "id": "anat-p241-003",
+   "deck": "Dental Anatomy",
+   "section": "Gemination, fusion, concrescence",
+   "page": 241,
+   "text": "Tooth count is {{c1::not affected}} in gemination."
+  },
+  {
+   "id": "anat-p241-004",
+   "deck": "Dental Anatomy",
+   "section": "Gemination, fusion, concrescence",
+   "page": 241,
+   "text": "{{c1::Fusion}}: two tooth buds join together to form a single, larger tooth during development."
+  },
+  {
+   "id": "anat-p241-005",
+   "deck": "Dental Anatomy",
+   "section": "Gemination, fusion, concrescence",
+   "page": 241,
+   "text": "In fusion, the two crowns appear as a single, large crown; roots may be {{c2::separated or fused}}."
+  },
+  {
+   "id": "anat-p241-006",
+   "deck": "Dental Anatomy",
+   "section": "Gemination, fusion, concrescence",
+   "page": 241,
+   "text": "Gemination and fusion both carry a risk for {{c1::infection and caries}}."
+  },
+  {
+   "id": "anat-p241-007",
+   "deck": "Dental Anatomy",
+   "section": "Gemination, fusion, concrescence",
+   "page": 241,
+   "text": "To differentiate fusion from gemination, the teeth must be {{c1::counted}}; in {{c2::fusion}}, the count shows a tooth missing."
+  },
+  {
+   "id": "anat-p241-008",
+   "deck": "Dental Anatomy",
+   "section": "Gemination, fusion, concrescence",
+   "page": 241,
+   "text": "{{c1::Concrescence}}: two adjacent teeth united by {{c2::cementum only}} at the root; most often in adjacent {{c3::maxillary molars}}."
+  },
+  {
+   "id": "anat-p241-009",
+   "deck": "Dental Anatomy",
+   "section": "Enamel pearl, hypercementosis, dilaceration",
+   "page": 241,
+   "text": "{{c1::Enamel pearl}}: small, spherical enamel projection located on a {{c2::root surface}}."
+  },
+  {
+   "id": "anat-p241-010",
+   "deck": "Dental Anatomy",
+   "section": "Enamel pearl, hypercementosis, dilaceration",
+   "page": 241,
+   "text": "Enamel pearls are usually found on {{c1::molars}} near the root {{c2::bifurcation or trifurcation}}."
+  },
+  {
+   "id": "anat-p241-011",
+   "deck": "Dental Anatomy",
+   "section": "Enamel pearl, hypercementosis, dilaceration",
+   "page": 241,
+   "text": "An enamel pearl may be mistaken for {{c1::calculus}}, pulp stone, or restorations, and can be problematic with {{c2::periodontal}} treatment."
+  },
+  {
+   "id": "anat-p241-012",
+   "deck": "Dental Anatomy",
+   "section": "Enamel pearl, hypercementosis, dilaceration",
+   "page": 241,
+   "text": "{{c1::Hypercementosis}}: excessive cementum deposition on the roots, typically at the {{c2::apex}} or along the root surface."
+  },
+  {
+   "id": "anat-p241-013",
+   "deck": "Dental Anatomy",
+   "section": "Enamel pearl, hypercementosis, dilaceration",
+   "page": 241,
+   "text": "Hypercementosis may be associated with trauma, occlusal forces, inflammation, {{c1::Paget's disease}}, arthritis, and {{c2::aging}}."
+  },
+  {
+   "id": "anat-p241-014",
+   "deck": "Dental Anatomy",
+   "section": "Enamel pearl, hypercementosis, dilaceration",
+   "page": 241,
+   "text": "Hypercementosis needs no treatment, but {{c1::extraction}} may be more difficult due to thickened roots."
+  },
+  {
+   "id": "anat-p241-015",
+   "deck": "Dental Anatomy",
+   "section": "Enamel pearl, hypercementosis, dilaceration",
+   "page": 241,
+   "text": "{{c1::Dilaceration}}: abnormal curve or angle in the root; may complicate extraction or {{c2::endodontic}} therapy."
+  },
+  {
+   "id": "anat-p241-016",
+   "deck": "Dental Anatomy",
+   "section": "Taurodontism",
+   "page": 241,
+   "text": "{{c1::Taurodontism}}: teeth with {{c2::elongated, large pulp}} chambers and {{c3::short roots}}."
+  },
+  {
+   "id": "anat-p241-017",
+   "deck": "Dental Anatomy",
+   "section": "Taurodontism",
+   "page": 241,
+   "text": "Taurodontism usually affects a single molar or several {{c1::molars in the same quadrant}}."
+  },
+  {
+   "id": "anat-p241-018",
+   "deck": "Dental Anatomy",
+   "section": "Taurodontism",
+   "page": 241,
+   "text": "Taurodontism is associated with amelogenesis imperfecta (especially {{c1::hypomaturation}} type) and {{c2::Down syndrome}}."
+  },
+  {
+   "id": "anat-p241-019",
+   "deck": "Dental Anatomy",
+   "section": "Dens in dente, dens evaginatus",
+   "page": 241,
+   "text": "{{c1::Dens invaginatus (dens in dente)}}: the enamel organ invaginates into the {{c2::crown}} of a tooth before mineralization."
+  },
+  {
+   "id": "anat-p241-020",
+   "deck": "Dental Anatomy",
+   "section": "Dens in dente, dens evaginatus",
+   "page": 241,
+   "text": "Radiographically, dens in dente shows a {{c1::radiopaque or tooth-like structure}} within the crown."
+  },
+  {
+   "id": "anat-p241-021",
+   "deck": "Dental Anatomy",
+   "section": "Dens in dente, dens evaginatus",
+   "page": 241,
+   "text": "Dens in dente is most commonly seen in {{c1::maxillary lateral incisors}}; the tooth is more vulnerable to caries and infections, including {{c2::periapical lesions}}."
+  },
+  {
+   "id": "anat-p241-022",
+   "deck": "Dental Anatomy",
+   "section": "Dens in dente, dens evaginatus",
+   "page": 241,
+   "text": "{{c1::Dens evaginatus}}: accessory enamel cusp on the {{c2::occlusal}} tooth surface; a {{c3::pulp horn}} may extend into the extra cusp."
+  },
+  {
+   "id": "anat-p241-023",
+   "deck": "Dental Anatomy",
+   "section": "Dens in dente, dens evaginatus",
+   "page": 241,
+   "text": "{{c1::Talon cusp}}: dens evaginatus on the {{c2::anterior}} teeth; may contain pulp."
+  },
+  {
+   "id": "anat-p241-024",
+   "deck": "Dental Anatomy",
+   "section": "Dens in dente, dens evaginatus",
+   "page": 241,
+   "text": "Talon cusp issues include malocclusion, {{c1::pulpal infection}} due to fracture or wear of the cusp, speech problems, and injuries to the lips and tongue."
+  },
+  {
+   "id": "anat-p241-025",
+   "deck": "Dental Anatomy",
+   "section": "Ankylosed teeth",
+   "page": 241,
+   "text": "{{c1::Ankylosis}}: teeth are fused to {{c2::bone}}; {{c3::deciduous molars}} are most often affected."
+  },
+  {
+   "id": "anat-p241-026",
+   "deck": "Dental Anatomy",
+   "section": "Ankylosed teeth",
+   "page": 241,
+   "text": "An ankylosed deciduous tooth is not exfoliated; {{c1::extraction}} is necessary to allow eruption of the underlying permanent tooth (unless it is congenitally missing)."
+  },
+  {
+   "id": "anat-p241-027",
+   "deck": "Dental Anatomy",
+   "section": "Ankylosed teeth",
+   "page": 241,
+   "text": "An ankylosed tooth appears {{c1::submerged}} and has a {{c2::solid}} sound when percussed."
+  },
+  {
+   "id": "anat-p242-001",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "{{c1::Erosion}} is caused by {{c2::acid}} exposure (intrinsic: vomiting, GERD; extrinsic: diet, environment)."
+  },
+  {
+   "id": "anat-p242-002",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "{{c1::Abrasion}} is caused by {{c2::mechanical friction}} (toothbrush, toothpick, foreign objects).",
+   "extra": "Board Alert: abfraction and abrasion are extremely hard to tell apart from clinical images alone — use keywords like \"habits\" (abrasion) or \"V-shape\" (abfraction)."
+  },
+  {
+   "id": "anat-p242-003",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "{{c1::Abfraction}}: {{c2::occlusal stress}} causes flexure and microfracture at cervical areas.",
+   "extra": "Board Alert: abfraction and abrasion are extremely hard to tell apart from clinical images alone — use keywords like \"habits\" (abrasion) or \"V-shape\" (abfraction)."
+  },
+  {
+   "id": "anat-p242-004",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "{{c1::Attrition}} is caused by {{c2::tooth-to-tooth}} contact (normal chewing or bruxism).",
+   "extra": "Did you know: attrition is normal wear of the teeth; grinding is pathologic and can cause loss of tooth structure."
+  },
+  {
+   "id": "anat-p242-005",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "Erosion key features: {{c1::smooth, cupped, shiny}} lesions; enamel loss; flat occlusal surface; on {{c2::facial/lingual}} surfaces of multiple teeth."
+  },
+  {
+   "id": "anat-p242-006",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "Abrasion key features: {{c1::notched, hard}} lesions at the cervical margin; commonly on {{c2::buccal cervical margins}}, especially on roots."
+  },
+  {
+   "id": "anat-p242-007",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "Abfraction key features: sharp {{c1::V-shaped or wedge-shaped}} lesions at the {{c2::cervical third}} (buccal).",
+   "extra": "Board Alert: abfraction and abrasion are extremely hard to tell apart from clinical images alone — use keywords like \"habits\" (abrasion) or \"V-shape\" (abfraction)."
+  },
+  {
+   "id": "anat-p242-008",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "Attrition key features: {{c1::flattened}} surfaces; wear matches {{c2::opposing teeth}}; on incisal edges and occlusal cusps."
+  },
+  {
+   "id": "anat-p242-009",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "Erosion clinical note: ask if the patient drinks water with {{c1::lemon}} (can erode facial surfaces); also seen in drug use such as {{c2::methamphetamine}}."
+  },
+  {
+   "id": "anat-p242-010",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "Abrasion clinical note: ask patients about their {{c1::habits}}.",
+   "extra": "Board Alert: abfraction and abrasion are extremely hard to tell apart from clinical images alone — use keywords like \"habits\" (abrasion) or \"V-shape\" (abfraction)."
+  },
+  {
+   "id": "anat-p242-011",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "Occlusal stress causes abfractions and can also cause subsequent {{c1::dislodging of restorations}} placed on the abfraction site."
+  },
+  {
+   "id": "anat-p242-012",
+   "deck": "Dental Anatomy",
+   "section": "Damage to tooth structure",
+   "page": 242,
+   "text": "The first sign of attrition is the disappearance of {{c1::mamelons}} on anterior teeth and {{c2::flattening of occlusal cusps}} on molars."
+  },
+  {
+   "id": "anat-p242-013",
+   "deck": "Dental Anatomy",
+   "section": "Resorption",
+   "page": 242,
+   "text": "{{c1::External resorption}}: part of the tooth's external surface is lost; can be related to {{c2::orthodontics}} or trauma."
+  },
+  {
+   "id": "anat-p242-014",
+   "deck": "Dental Anatomy",
+   "section": "Resorption",
+   "page": 242,
+   "text": "{{c1::Internal resorption}}: internal tooth structure is lost; can be related to {{c2::pulpal injury}}, trauma, exposure to heat, or chemicals."
+  },
+  {
+   "id": "anat-p242-015",
+   "deck": "Dental Anatomy",
+   "section": "Resorption",
+   "page": 242,
+   "text": "In internal resorption, {{c1::dentin or cementum}} becomes absorbed into the tooth canal, causing the tooth's inner and outer surfaces to become inflamed."
+  },
+  {
+   "id": "anat-p242-016",
+   "deck": "Dental Anatomy",
+   "section": "Resorption",
+   "page": 242,
+   "text": "A {{c1::pink/red}} appearance of a tooth is a sign of {{c2::internal resorption}}."
+  }
+ ],
+ "mcq": []
+}

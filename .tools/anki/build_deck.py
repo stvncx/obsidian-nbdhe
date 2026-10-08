@@ -66,7 +66,7 @@ IO_CSS = BASE_CSS + """
 .io-box.show { background: transparent; border: 3px solid #0b6bcb;
   box-shadow: 0 0 0 4px rgba(11,107,203,.25); }   /* cover removed: the book's own label shows */
 """
-BOX = 'left:{{Left}}%;top:{{Top}}%;width:{{Width}}%;height:{{Height}}%'
+BOX = 'left:{{Left}}%;top:{{Top}}%;width:{{Width}}%;height:{{Height}}%;transform:rotate({{Rotate}}deg)'
 IO_FRONT = f"""<div class="title">{{{{Title}}}}</div>
 <div class="io">{{{{Image}}}}<div class="io-box ask" style="{BOX}">?</div></div>"""
 IO_BACK = f"""<div class="title">{{{{Title}}}}</div>
@@ -74,7 +74,7 @@ IO_BACK = f"""<div class="title">{{{{Title}}}}</div>
 {{{{#Extra}}}}<div class="extra">{{{{Extra}}}}</div>{{{{/Extra}}}}"""
 IO_MODEL = genanki.Model(
     IO_MODEL_ID, 'NBDHE Image Occlusion',
-    fields=[{'name': n} for n in ('Answer', 'Image', 'Title', 'Left', 'Top', 'Width', 'Height', 'Extra', 'Source')],
+    fields=[{'name': n} for n in ('Answer', 'Image', 'Title', 'Left', 'Top', 'Width', 'Height', 'Extra', 'Source', 'Rotate')],
     templates=[{'name': 'Occlusion', 'qfmt': IO_FRONT, 'afmt': IO_BACK}], css=IO_CSS, sort_field_index=0)
 
 # ---------------------------------------------------------------- cloze
@@ -122,6 +122,10 @@ def tight_box(page, box, fit='bg', slack=10):
     from scipy import ndimage as nd
     if fit == 'none':
         return box
+    if fit == 'rtext':
+        return rotated_text_box(page, box)
+    if fit == 'rbg':
+        return rotated_bg_box(page, box, slack)
     if fit == 'text':
         x0, y0, x1, y1 = box
         a = np.asarray(page.crop((x0, y0, x1, y1)).convert('RGB')).max(axis=2)
@@ -141,6 +145,62 @@ def tight_box(page, box, fit='bg', slack=10):
     sizes = nd.sum(m, lab, range(1, n + 1)); k = int(np.argmax(sizes)) + 1
     ys, xs = np.nonzero(lab == k)
     return [x0 + xs.min(), y0 + ys.min(), x0 + xs.max() + 1, y0 + ys.max() + 1]
+
+def rotated_text_box(page, box, pad=5):
+    """Slanted label: fit a ROTATED rectangle to the near-black text inside `box` (PCA of the
+    text pixels gives the angle). Returns [x0,y0,x1,y1, angle_deg]: the UNROTATED rectangle
+    (centred on the text) plus the angle to rotate it about its centre."""
+    import numpy as np, math
+    x0, y0, x1, y1 = box
+    rgb = np.asarray(page.crop((x0, y0, x1, y1)).convert('RGB')).astype(int)
+    # label text = dark AND not reddish (illustration shading is dark red/brown)
+    a = (rgb.max(axis=2) < 85) & (rgb[..., 0] - rgb[..., 2] < 40)
+    ys, xs = np.nonzero(a)
+    pts = np.stack([xs, ys], 1).astype(float)
+    c = np.median(pts, 0); u, sv, vt = np.linalg.svd(pts - c, full_matrices=False)
+    ax = vt[0]; ang = math.degrees(math.atan2(ax[1], ax[0]))
+    if ang > 90: ang -= 180
+    if ang < -90: ang += 180
+    r = math.radians(ang); R = np.array([[math.cos(r), math.sin(r)], [-math.sin(r), math.cos(r)]])
+    q = (pts - c) @ R.T
+    # trim strays: gently along the text (keep first/last letters), hard across it (text height)
+    lo = np.array([np.percentile(q[:, 0], 0.5), np.percentile(q[:, 1], 4)]) - pad
+    hi = np.array([np.percentile(q[:, 0], 99.5), np.percentile(q[:, 1], 96)]) + pad
+    mid = c + ((lo + hi) / 2) @ R            # rect centre back in crop coords
+    w, h = hi - lo
+    cx, cy = x0 + mid[0], y0 + mid[1]
+    return [cx - w / 2, cy - h / 2, cx + w / 2, cy + h / 2, ang]
+
+def _pca_rect(pts, x0, y0, pad, along=(0.5, 99.5), across=(0.5, 99.5)):
+    import numpy as np, math
+    c = np.median(pts, 0); _, _, vt = np.linalg.svd(pts - c, full_matrices=False)
+    ang = math.degrees(math.atan2(vt[0][1], vt[0][0]))
+    if ang > 90: ang -= 180
+    if ang < -90: ang += 180
+    r = math.radians(ang); R = np.array([[math.cos(r), math.sin(r)], [-math.sin(r), math.cos(r)]])
+    q = (pts - c) @ R.T
+    lo = np.array([np.percentile(q[:, 0], along[0]), np.percentile(q[:, 1], across[0])]) - pad
+    hi = np.array([np.percentile(q[:, 0], along[1]), np.percentile(q[:, 1], across[1])]) + pad
+    mid = c + ((lo + hi) / 2) @ R; w, h = hi - lo
+    cx, cy = x0 + mid[0], y0 + mid[1]
+    return [cx - w / 2, cy - h / 2, cx + w / 2, cy + h / 2, ang]
+
+def rotated_bg_box(page, box, slack=10):
+    """Slanted label on a pale-blue/yellow background: rotated rectangle fitted to the
+    background blob (same colour mask as fit='bg'), so it covers exactly the label."""
+    import numpy as np
+    from scipy import ndimage as nd
+    x0, y0, x1, y1 = box[0] - slack, box[1] - slack, box[2] + slack, box[3] + slack
+    a = np.asarray(page.crop((x0, y0, x1, y1)).convert('RGB')).astype(int)
+    R_, G, B = a[..., 0], a[..., 1], a[..., 2]
+    m = ((R_ > 180) & (R_ < 232) & (G > 232) & (B > 238)) | ((R_ > 230) & (G > 200) & (B < 170))
+    m = nd.binary_fill_holes(nd.binary_closing(m, structure=np.ones((3, 3))))
+    lab, n = nd.label(m)
+    if n == 0:
+        return box
+    k = int(np.argmax(nd.sum(m, lab, range(1, n + 1)))) + 1
+    ys, xs = np.nonzero(lab == k)
+    return _pca_rect(np.stack([xs, ys], 1).astype(float), x0, y0, pad=1)
 
 def covers(spec, page):
     """[(label dict, [x0,y0,x1,y1] fitted cover in PAGE coords)] for a diagram spec."""
@@ -162,13 +222,14 @@ def io_notes(spec, pdf, page0):
     bp = spec.get('page', page0 + spec['pdf_page'])          # book page (Dental Anatomy: pdf+200)
     src = f"StudentRDH {pdf} p.{bp}"
     for l, b in covers(spec, page):
+        rot = b[4] if len(b) > 4 else 0
         x0, y0 = b[0] - cx0 - PAD, b[1] - cy0 - PAD
         bw, bh = b[2] - b[0] + 2 * PAD, b[3] - b[1] + 2 * PAD
         yield genanki.Note(
             model=IO_MODEL,
             fields=[l['answer'], f'<img src="{spec["name"]}.jpg">', spec['title'],
                     f'{100*x0/w:.2f}', f'{100*y0/h:.2f}', f'{100*bw/w:.2f}', f'{100*bh/h:.2f}',
-                    l.get('extra', ''), src],
+                    l.get('extra', ''), src, f'{rot:.1f}'],
             guid=genanki.guid_for('nbdhe-io', spec['name'], l.get('key', l['answer'])),   # 'key' disambiguates repeated labels
             tags=[pdf.lower(), f"p{bp}", 'image-occlusion'])
 
