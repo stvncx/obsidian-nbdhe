@@ -117,9 +117,10 @@ SR comment with its card, or his progress is wiped.
 | 10-08 | Ignore `workspace*.json`, `.DS_Store` | change on every click / per device → pointless conflicts |
 | 10-08 | `vault-sync` deletion guard (>5) and iCloud-placeholder guard | offloaded iCloud files look like deletions to git |
 | 10-08 | Official JCNDE docs are the authority for scope + question style | the book is a study aid; the test specs define what's examined, sample questions define how |
+| 10-08 | Write to the UPDATED test specs (effective 2026-11-01) | the student sits the exam ~January 2027 |
+| 10-08 | Exam's adopted standards override the book (AHA 2021/2017, ASA 2020, IADT 2020, AAP 2017, no film, smoking cigs/day) | JCNDE "Recent and Forthcoming Updates" (9/23/2026); the book may be older |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items
-- **Exam date** — decides which test specs apply (current vs. the update implemented Nov 2026).
 - **Card quality** (10-07: "the cards kind of suck") — reason not yet pinned down. Next.
 - Auto-run `vault-sync` every 10 min via launchd — after manual runs prove reliable.

@@ -3,9 +3,17 @@
 **Runbook: `.claude/RUNBOOK.md` — record every new procedure and decision there as we work.**
 
 This directory IS Steven's Obsidian vault (repo `stvncx/obsidian-nbdhe`, branch `main`).
-He studies for the NBDHE (dental hygiene boards) from the StudentRDH review guide and
-reviews cards with the **Spaced Repetition** community plugin (v1.15.x) in Obsidian on his
-MacBook, iPhone and iPad. Open this project with `app obsidian`.
+The **student is a woman who shares this vault with Steven** (name not given — don't guess;
+she/her). She sits the NBDHE (dental hygiene boards) **~January 2027** and studies from the
+StudentRDH review guide. Steven runs the project (setup, sync, working with Claude). Cards are
+reviewed with the **Spaced Repetition** community plugin (v1.15.x) in Obsidian (Mac, iPhone, iPad).
+
+**Scope = the UPDATED NBDHE test specifications (implemented 2026-11-01)** in
+`.source/official/candidate_guide_2026.txt` ("After Update", pp. 8–10). Question style =
+`.source/official/sample_questions.txt`. Where the book conflicts with the exam's adopted
+standards (`exam_updates.txt`: AHA 2021 antibiotic prophylaxis, ASA 2020, IADT 2020, AAP 2017
+perio classification, AHA 2017 BP, no film/darkroom, smoking = cigs/day, 1 pack = 20), **the
+exam's standard wins** — note the correction on the card. Open this project with `app obsidian`.
 
 ## Layout
 
