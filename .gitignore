@@ -2,3 +2,9 @@
 .source/
 .tools/.venv/
 .tools/cache/
+
+# per-device / noise (iCloud already syncs these between devices)
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
