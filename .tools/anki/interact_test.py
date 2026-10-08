@@ -32,7 +32,7 @@ with sync_playwright() as p:
                 for i, (l, r) in enumerate(P):
                     rr = P[(i + 1) % n][1] if i == 0 else r          # first pair deliberately wrong
                     pg.locator('.cols > div').nth(0).locator('.chip').nth(i).tap()
-                    pg.locator('.cols > div').nth(1).locator('.chip').filter(has_text=exact(rr)).first.tap()
+                    pg.locator('.cols > div').nth(1).locator('.chip').filter(has=pg.locator('.t').filter(has_text=exact(rr))).first.tap()
                 expect = n - 1     # pair 0 wrong; pair 1 then reclaims its answer, leaving pair 0 unmatched
             elif kind == 'order':
                 items = data['items']; n = len(items)

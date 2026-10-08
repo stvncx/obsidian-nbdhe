@@ -35,4 +35,8 @@ The repo is also the Obsidian vault (`stvncx/obsidian-nbdhe`): **`git pull` befo
 - 2026-10-08: Anki pipeline approved on p.148 diagrams. Building the WHOLE Anatomy PDF (Head &
   Neck pp.148–176 + Dental Anatomy pp.234–249): occlusion for every labeled figure, cloze for all
   text, MCQ for the bonus quizzes.
+- 2026-10-08: Anatomy deck v2 shipped (`exchange/from-claude/NBDHE-Anatomy.apkg`) — all card
+  types (cloze, basic±reverse, type-in, IO, label-diagram, match, order, sort, exam MCQ + quizzes).
+  Open questions for Steven: saliva % conflict in the book (75/20/5 vs 65/25); his review of
+  the v2 type mix.
 - Obsidian card attempt (SR plugin) abandoned 2026-10-08 — history in RUNBOOK §2–5.

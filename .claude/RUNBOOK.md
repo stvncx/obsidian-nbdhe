@@ -189,7 +189,9 @@ desktop/AnkiMobile/AnkiDroid and can be previewed off-device):
 3×3 closing (NOT bigger: 7×7 bridged to neighbouring labels/arrows and made covers too tall)
 → fill holes → keep the largest blob → its bbox, +2 px. Rough boxes in the spec can stay
 rough. Check single-line labels come out ~43–49 px tall on the 200-dpi page.
-Look at ALL fronts with `.tools/anki/contact_sheet.py <deck>.apkg out.png 700` (real import,
+Interaction test gotchas: match chips by their WHOLE text (a "number prefix" pattern made
+'5%' match '75%'); matching chips wrap their text in `<span class="t">` (the pair-number tag
+sits beside it). Look at ALL fronts with `.tools/anki/contact_sheet.py <deck>.apkg out.png 700` (real import,
 every card, one image) — a 2-card preview missed the bad ones.
 
 **Slanted labels:** fits `rbg` / `rtext` return a rotated rectangle (PCA of the label's
@@ -262,6 +264,7 @@ change templates only with a deliberate migration plan.
 | 10-08 | All card types: recall core (cloze/basic/type-in/IO) + integrative (match/order/sort/label/exam MCQ); no fact in >2 places | Steven delegated the pedagogy: retrieval > recognition; recognition formats only for discrimination, sequence, whole-figure, exam transfer |
 | 10-08 | Tap-based interactions, no drag | drag is unreliable in iPhone webviews |
 | 10-08 | Numbering-chart occlusions replaced by type-in + match | neighbours gave the answers away |
+| 10-08 | Anatomy v2 deck shipped: 1,554 notes / ~2,200 cards across 9 card types; all 111 interactive cards pass the tap-through test | v2 card mix |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
 
 ## Open items

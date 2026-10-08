@@ -209,8 +209,8 @@ for(var r=0;r<roots.length;r++)(function(root){root.setAttribute('data-init','1'
    var t=b.querySelector('.tag');if(map[i]!=null){t.style.background=NB_COLORS[i%NB_COLORS.length];t.textContent=i+1;}else{t.style.background='transparent';t.textContent='';}}
   for(var k in rbtn){var rb=rbtn[k],owner=null;for(var i2 in map)if(map[i2]==k)owner=+i2;
    var tg=rb.querySelector('.tag');rb.className='chip';if(owner!=null){tg.style.background=NB_COLORS[owner%NB_COLORS.length];tg.textContent=owner+1;}else{tg.style.background='transparent';tg.textContent='';}}}
- pairs.forEach(function(p,i){var b=nbEl('div','chip','<span class="tag"></span>'+p[0]);b.onclick=function(){if(map[i]!=null&&sel!==i){delete map[i];sel=i;}else sel=(sel===i?null:i);paint();};L.appendChild(b);lbtn[i]=b;});
- rightOrder.forEach(function(j){var b=nbEl('div','chip','<span class="tag"></span>'+pairs[j][1]);b.onclick=function(){if(sel==null)return;for(var i in map)if(map[i]==j)delete map[i];map[sel]=j;sel=null;paint();};R.appendChild(b);rbtn[j]=b;});
+ pairs.forEach(function(p,i){var b=nbEl('div','chip','<span class="tag"></span><span class="t">'+p[0]+'</span>');b.onclick=function(){if(map[i]!=null&&sel!==i){delete map[i];sel=i;}else sel=(sel===i?null:i);paint();};L.appendChild(b);lbtn[i]=b;});
+ rightOrder.forEach(function(j){var b=nbEl('div','chip','<span class="tag"></span><span class="t">'+pairs[j][1]+'</span>');b.onclick=function(){if(sel==null)return;for(var i in map)if(map[i]==j)delete map[i];map[sel]=j;sel=null;paint();};R.appendChild(b);rbtn[j]=b;});
  paint();
  root.querySelector('.nb-check').onclick=function(){var ok=0;for(var i=0;i<pairs.length;i++){var good=map[i]===i;if(good)ok++;lbtn[i].className='chip '+(good?'ok':'bad');}
   root.querySelector('.nb-score').textContent=ok+' / '+pairs.length+' correct';};
