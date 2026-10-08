@@ -1,0 +1,4 @@
+# project-only, never synced to the vault
+.source/
+.tools/.venv/
+.tools/cache/

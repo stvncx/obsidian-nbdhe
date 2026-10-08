@@ -1,0 +1,275 @@
+[
+ {
+  "name": "anat-oral-cavity",
+  "crop": [
+   140,
+   170,
+   1260,
+   820
+  ],
+  "labels": [
+   [
+    [
+     731,
+     209,
+     943,
+     281
+    ],
+    "Incisive papilla"
+   ],
+   [
+    [
+     380,
+     256,
+     506,
+     299
+    ],
+    "Frenum"
+   ],
+   [
+    [
+     779,
+     278,
+     1036,
+     333
+    ],
+    "Palatine rugae"
+   ],
+   [
+    [
+     838,
+     328,
+     1066,
+     382
+    ],
+    "Parotid papilla"
+   ],
+   [
+    [
+     312,
+     359,
+     502,
+     404
+    ],
+    "Hard palate"
+   ],
+   [
+    [
+     342,
+     423,
+     511,
+     469
+    ],
+    "Soft palate"
+   ],
+   [
+    [
+     779,
+     440,
+     1069,
+     512
+    ],
+    "Maxillary tuberosity"
+   ],
+   [
+    [
+     365,
+     526,
+     475,
+     571
+    ],
+    "Tonsils"
+   ],
+   [
+    [
+     764,
+     550,
+     1046,
+     595
+    ],
+    "Pillars of the fauces"
+   ],
+   [
+    [
+     574,
+     566,
+     674,
+     608
+    ],
+    "Uvula"
+   ],
+   [
+    [
+     805,
+     739,
+     931,
+     783
+    ],
+    "Gingiva"
+   ],
+   [
+    [
+     384,
+     746,
+     529,
+     789
+    ],
+    "Vestibule"
+   ]
+  ],
+  "pdf": "Anatomy",
+  "pdf_page": 2
+ },
+ {
+  "name": "anat-gingiva",
+  "crop": [
+   90,
+   850,
+   1250,
+   1496
+  ],
+  "labels": [
+   [
+    [
+     568,
+     892,
+     846,
+     953
+    ],
+    "Interdental papilla"
+   ],
+   [
+    [
+     259,
+     928,
+     448,
+     975
+    ],
+    "Free (marginal) gingiva"
+   ],
+   [
+    [
+     779,
+     1068,
+     1207,
+     1177
+    ],
+    "Mucogingival junction (line between alveolar mucosa and attached gingiva)"
+   ],
+   [
+    [
+     172,
+     1289,
+     423,
+     1332
+    ],
+    "Attached gingiva"
+   ],
+   [
+    [
+     269,
+     1407,
+     516,
+     1451
+    ],
+    "Alveolar mucosa"
+   ]
+  ],
+  "pdf": "Anatomy",
+  "pdf_page": 2
+ },
+ {
+  "name": "anat-tongue-papillae",
+  "crop": [
+   100,
+   500,
+   1240,
+   1140
+  ],
+  "labels": [
+   [
+    [
+     458,
+     638,
+     623,
+     680
+    ],
+    "Taste buds"
+   ],
+   [
+    [
+     576,
+     685,
+     879,
+     731
+    ],
+    "Circumvallate papilla"
+   ],
+   [
+    [
+     126,
+     704,
+     399,
+     762
+    ],
+    "Sulcus terminalis"
+   ],
+   [
+    [
+     844,
+     766,
+     997,
+     810
+    ],
+    "Taste hair"
+   ],
+   [
+    [
+     1056,
+     764,
+     1218,
+     805
+    ],
+    "Taste pore"
+   ],
+   [
+    [
+     837,
+     976,
+     1010,
+     1028
+    ],
+    "Taste buds"
+   ],
+   [
+    [
+     112,
+     1056,
+     369,
+     1102
+    ],
+    "Fungiform papilla"
+   ],
+   [
+    [
+     395,
+     1057,
+     619,
+     1103
+    ],
+    "Filiform papilla"
+   ],
+   [
+    [
+     652,
+     1056,
+     865,
+     1103
+    ],
+    "Foliate papilla"
+   ]
+  ],
+  "pdf": "Anatomy",
+  "pdf_page": 3
+ }
+]
