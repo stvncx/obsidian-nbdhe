@@ -1,0 +1,309 @@
+{
+ "diagrams": [
+  {
+   "name": "anat-oral-cavity",
+   "title": "Landmarks of the oral cavity",
+   "deck": "Head and Neck",
+   "pdf_page": 2,
+   "crop": [
+    140,
+    170,
+    1260,
+    820
+   ],
+   "labels": [
+    {
+     "box": [
+      731,
+      209,
+      943,
+      281
+     ],
+     "answer": "Incisive papilla",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      380,
+      256,
+      506,
+      299
+     ],
+     "answer": "Frenum",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      779,
+      278,
+      1036,
+      333
+     ],
+     "answer": "Palatine rugae",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      838,
+      328,
+      1066,
+      382
+     ],
+     "answer": "Parotid papilla",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      312,
+      359,
+      502,
+      404
+     ],
+     "answer": "Hard palate",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      342,
+      423,
+      511,
+      469
+     ],
+     "answer": "Soft palate",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      779,
+      440,
+      1069,
+      512
+     ],
+     "answer": "Maxillary tuberosity",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      365,
+      526,
+      475,
+      571
+     ],
+     "answer": "Tonsils",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      764,
+      550,
+      1046,
+      595
+     ],
+     "answer": "Pillars of the fauces",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      574,
+      566,
+      674,
+      608
+     ],
+     "answer": "Uvula",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      805,
+      739,
+      931,
+      783
+     ],
+     "answer": "Gingiva",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      384,
+      746,
+      529,
+      789
+     ],
+     "answer": "Vestibule",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-gingiva",
+   "title": "Gingiva and surrounding structures",
+   "deck": "Head and Neck",
+   "pdf_page": 2,
+   "crop": [
+    90,
+    850,
+    1250,
+    1496
+   ],
+   "labels": [
+    {
+     "box": [
+      568,
+      892,
+      846,
+      953
+     ],
+     "answer": "Interdental papilla",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      259,
+      928,
+      448,
+      975
+     ],
+     "answer": "Free (marginal) gingiva",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      779,
+      1068,
+      1207,
+      1177
+     ],
+     "answer": "Mucogingival junction (line between alveolar mucosa and attached gingiva)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      172,
+      1289,
+      423,
+      1332
+     ],
+     "answer": "Attached gingiva",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      269,
+      1407,
+      516,
+      1451
+     ],
+     "answer": "Alveolar mucosa",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "anat-tongue-papillae",
+   "title": "Tongue and papillae",
+   "deck": "Head and Neck",
+   "pdf_page": 3,
+   "crop": [
+    100,
+    500,
+    1240,
+    1140
+   ],
+   "labels": [
+    {
+     "box": [
+      458,
+      638,
+      623,
+      680
+     ],
+     "answer": "Taste buds",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      576,
+      685,
+      879,
+      731
+     ],
+     "answer": "Circumvallate papilla",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      126,
+      704,
+      399,
+      762
+     ],
+     "answer": "Sulcus terminalis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      844,
+      766,
+      997,
+      810
+     ],
+     "answer": "Taste hair",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1056,
+      764,
+      1218,
+      805
+     ],
+     "answer": "Taste pore",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      837,
+      976,
+      1010,
+      1028
+     ],
+     "answer": "Taste buds",
+     "fit": "bg",
+     "key": "Taste buds (2)"
+    },
+    {
+     "box": [
+      112,
+      1056,
+      369,
+      1102
+     ],
+     "answer": "Fungiform papilla",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      395,
+      1057,
+      619,
+      1103
+     ],
+     "answer": "Filiform papilla",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      652,
+      1056,
+      865,
+      1103
+     ],
+     "answer": "Foliate papilla",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [],
+ "mcq": []
+}

@@ -1,17 +1,21 @@
-"""Build the NBDHE Anki deck (.apkg) — image-occlusion cards, one label per card, answer
-revealed in place on the image.
+"""Build the NBDHE Anki deck (.apkg) from the spec files in a book folder.
 
-Custom note type "NBDHE Image Occlusion" (own HTML/CSS — renders the same on Anki desktop,
-AnkiMobile, AnkiDroid). The back template does NOT include {{FrontSide}}: it redraws the
-same image with the cover removed (just an outline), so the book's own label is revealed in place.
+Spec files: .tools/anki/<book>/*.json, each {"diagrams": [...], "cloze": [...], "mcq": [...]}
+(format documented in .claude/RUNBOOK.md §6). Three note types, all custom HTML/CSS so they
+render the same on Anki desktop / AnkiMobile / AnkiDroid:
 
-IDs are fixed (model, deck) and note GUIDs derive from diagram name + label text, so
-re-importing an updated deck UPDATES the notes and keeps the student's review history.
-NEVER change MODEL_ID / DECK_ID / the guid recipe.
+- "NBDHE Image Occlusion": one label covered per card; the back removes the cover so the
+  book's own label shows (no {{FrontSide}} -> the reveal is in place).
+- "NBDHE Cloze": Anki cloze note type (Text with {{c1::...}}, Extra, Source).
+- "NBDHE MCQ": 4-option question; back shows the key + explanation.
 
-Usage: .tools/.venv/bin/python .tools/anki/build_deck.py OUT.apkg anat-oral-cavity anat-gingiva
+IDs are FIXED (models, decks) and note GUIDs come from stable keys (diagram name + answer,
+cloze/mcq "id"), so re-importing an updated deck UPDATES notes and keeps review history.
+NEVER change the ID constants or the guid recipes.
+
+Usage: .tools/.venv/bin/python .tools/anki/build_deck.py OUT.apkg [book=anatomy] [--only NAME,...]
 """
-import json, sys
+import glob, hashlib, json, sys
 from pathlib import Path
 import genanki
 from PIL import Image
@@ -19,21 +23,38 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from occlude import render
 
 ROOT = Path(__file__).resolve().parents[2]
-SPECS = ROOT / '.tools' / 'anatomy-diagrams.json'
 MEDIA = ROOT / '.tools' / 'anki' / 'media'
-PAD = 2          # px on the 200-dpi page around the label's blue background (hides its soft edge)
-WIDTH = 1400     # px of the media image
-MODEL_ID = 1728390001      # fixed forever
-DECK_ID = 1728390101       # fixed forever: "NBDHE::Anatomy"
-TITLES = {'anat-oral-cavity': 'Landmarks of the oral cavity',
-          'anat-gingiva': 'Gingiva and surrounding structures',
-          'anat-tongue-papillae': 'Tongue and papillae'}
+PAD = 2          # px on the 200-dpi page around a fitted cover (hides the soft edge)
+WIDTH = 1400     # px of each diagram's media image
+IO_MODEL_ID = 1728390001       # fixed forever
+CLOZE_MODEL_ID = 1728390002    # fixed forever
+MCQ_MODEL_ID = 1728390003      # fixed forever
+ROOT_DECK = 'NBDHE'
+BOOKS = {'anatomy': {'pdf': 'Anatomy', 'deck': 'Anatomy', 'page0': 146}}   # book page = pdf page + page0
 
-CSS = """
+def deck_id(name):            # stable id derived from the full deck name
+    return int(hashlib.sha1(name.encode()).hexdigest()[:8], 16) | (1 << 30)
+
+# ---------------------------------------------------------------- shared look
+BASE_CSS = """
 .card { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  background: #f6f5f2; color: #1d1d1f; margin: 0; padding: 12px; text-align: center; }
-.io-title { font-size: 15px; font-weight: 600; letter-spacing: .02em; color: #6b6b70;
-  margin: 4px 0 10px; text-transform: uppercase; }
+  background: #f6f5f2; color: #1d1d1f; margin: 0; padding: 14px; font-size: 20px; line-height: 1.45; }
+.title { font-size: 14px; font-weight: 600; letter-spacing: .04em; color: #6b6b70;
+  margin: 2px 0 12px; text-transform: uppercase; text-align: center; }
+.panel { max-width: 720px; margin: 0 auto; background: #fff; border-radius: 12px; padding: 18px 20px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.10), 0 6px 20px rgba(0,0,0,.05); text-align: left; }
+.extra { max-width: 720px; margin: 12px auto 0; font-size: 16px; color: #3a3a3c; text-align: left;
+  border-left: 3px solid #0b6bcb; padding: 4px 0 4px 12px; }
+.source { max-width: 720px; margin: 10px auto 0; font-size: 12px; color: #8e8e93; text-align: right; }
+.nightMode.card, .night_mode .card { background: #1c1c1e; color: #f2f2f7; }
+.nightMode .panel, .night_mode .panel { background: #2c2c2e; box-shadow: none; }
+.nightMode .title, .night_mode .title, .nightMode .source, .night_mode .source { color: #a1a1a6; }
+.nightMode .extra, .night_mode .extra { color: #d1d1d6; }
+"""
+
+# ---------------------------------------------------------------- image occlusion
+IO_CSS = BASE_CSS + """
+.card { text-align: center; }
 .io { container-type: inline-size; position: relative; display: inline-block; width: 100%;
   max-width: 1000px; line-height: 0; border-radius: 10px; overflow: hidden;
   box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 6px 20px rgba(0,0,0,.06); }
@@ -44,41 +65,70 @@ CSS = """
 .io-box.ask { background: #e8781e; color: #fff; border: 1px solid #b85a0e; font-size: 2.6cqw; }
 .io-box.show { background: transparent; border: 3px solid #0b6bcb;
   box-shadow: 0 0 0 4px rgba(11,107,203,.25); }   /* cover removed: the book's own label shows */
-.io-extra { max-width: 1000px; margin: 12px auto 0; font-size: 16px; line-height: 1.45;
-  text-align: left; color: #3a3a3c; }
-.nightMode.card, .night_mode .card { background: #1c1c1e; color: #f2f2f7; }
-.nightMode .io-title, .night_mode .io-title { color: #a1a1a6; }
-.nightMode .io-extra, .night_mode .io-extra { color: #d1d1d6; }
 """
-
 BOX = 'left:{{Left}}%;top:{{Top}}%;width:{{Width}}%;height:{{Height}}%'
-FRONT = f"""<div class="io-title">{{{{Title}}}}</div>
+IO_FRONT = f"""<div class="title">{{{{Title}}}}</div>
 <div class="io">{{{{Image}}}}<div class="io-box ask" style="{BOX}">?</div></div>"""
-BACK = f"""<div class="io-title">{{{{Title}}}}</div>
+IO_BACK = f"""<div class="title">{{{{Title}}}}</div>
 <div class="io">{{{{Image}}}}<div class="io-box show" style="{BOX}"></div></div>
-{{{{#Extra}}}}<div class="io-extra">{{{{Extra}}}}</div>{{{{/Extra}}}}"""
-
-MODEL = genanki.Model(
-    MODEL_ID, 'NBDHE Image Occlusion',
+{{{{#Extra}}}}<div class="extra">{{{{Extra}}}}</div>{{{{/Extra}}}}"""
+IO_MODEL = genanki.Model(
+    IO_MODEL_ID, 'NBDHE Image Occlusion',
     fields=[{'name': n} for n in ('Answer', 'Image', 'Title', 'Left', 'Top', 'Width', 'Height', 'Extra', 'Source')],
-    templates=[{'name': 'Occlusion', 'qfmt': FRONT, 'afmt': BACK}],
-    css=CSS, sort_field_index=0)
+    templates=[{'name': 'Occlusion', 'qfmt': IO_FRONT, 'afmt': IO_BACK}], css=IO_CSS, sort_field_index=0)
 
-def media_for(spec):
-    MEDIA.mkdir(parents=True, exist_ok=True)
-    out = MEDIA / f"{spec['name']}.jpg"
-    page = Image.open(render(spec['pdf'], spec['pdf_page'])).convert('RGB')
-    im = page.crop(spec['crop'])
-    im.resize((WIDTH, round(im.height * WIDTH / im.width)), Image.LANCZOS).save(out, 'JPEG', quality=88, optimize=True)
-    return out
+# ---------------------------------------------------------------- cloze
+CLOZE_CSS = BASE_CSS + """
+.cloze { font-weight: 700; color: #0b6bcb; }
+.nightMode .cloze, .night_mode .cloze { color: #5eaeff; }
+.panel ul, .panel ol { margin: .3em 0 .3em 1.2em; padding: 0; }
+"""
+CLOZE_MODEL = genanki.Model(
+    CLOZE_MODEL_ID, 'NBDHE Cloze',
+    fields=[{'name': n} for n in ('Text', 'Section', 'Extra', 'Source')],
+    templates=[{'name': 'Cloze',
+                'qfmt': '<div class="title">{{Section}}</div><div class="panel">{{cloze:Text}}</div>',
+                'afmt': '<div class="title">{{Section}}</div><div class="panel">{{cloze:Text}}</div>'
+                        '{{#Extra}}<div class="extra">{{Extra}}</div>{{/Extra}}<div class="source">{{Source}}</div>'}],
+    css=CLOZE_CSS, model_type=genanki.Model.CLOZE, sort_field_index=0)
 
-def tight_box(page, box, slack=10):
-    """Fit the cover EXACTLY to the label's pale-blue background (Steven: "sized to the blue
-    background"). Inside the rough box (+slack): mask the label colour (pale cyan, or the
-    book's yellow callouts), close the text holes, keep the LARGEST connected blob (the label;
-    drops stray pale pixels in photos), and return its bounding box. Falls back to the box."""
+# ---------------------------------------------------------------- multiple choice
+MCQ_CSS = BASE_CSS + """
+.opts { margin: 12px 0 0; padding: 0; list-style: none; }
+.opts li { padding: 8px 12px; margin: 6px 0; border-radius: 8px; background: #f0f0f3; }
+.key { margin-top: 14px; font-weight: 700; color: #0b6bcb; }
+.nightMode .opts li, .night_mode .opts li { background: #3a3a3c; }
+.nightMode .key, .night_mode .key { color: #5eaeff; }
+"""
+MCQ_MODEL = genanki.Model(
+    MCQ_MODEL_ID, 'NBDHE MCQ',
+    fields=[{'name': n} for n in ('Question', 'Options', 'Answer', 'Explanation', 'Section', 'Source')],
+    templates=[{'name': 'MCQ',
+                'qfmt': '<div class="title">{{Section}}</div><div class="panel">{{Question}}<ul class="opts">{{Options}}</ul></div>',
+                'afmt': '<div class="title">{{Section}}</div><div class="panel">{{Question}}<ul class="opts">{{Options}}</ul>'
+                        '<div class="key">{{Answer}}</div></div>'
+                        '{{#Explanation}}<div class="extra">{{Explanation}}</div>{{/Explanation}}<div class="source">{{Source}}</div>'}],
+    css=MCQ_CSS, sort_field_index=0)
+
+# ---------------------------------------------------------------- cover fitting
+def tight_box(page, box, fit='bg', slack=10):
+    """Fit a cover to a label.
+    fit='bg'  : EXACTLY the label's pale-blue (or yellow) background — mask that colour inside
+                box+slack, 3x3 closing (bigger bridges to neighbours), fill holes, largest blob.
+    fit='text': plain-text label (no coloured background) — near-black pixels (max channel <100)
+                strictly inside the given box (no slack), +4 px.
+    fit='none': use the box as given."""
     import numpy as np
     from scipy import ndimage as nd
+    if fit == 'none':
+        return box
+    if fit == 'text':
+        x0, y0, x1, y1 = box
+        a = np.asarray(page.crop((x0, y0, x1, y1)).convert('RGB')).max(axis=2)
+        ys, xs = np.nonzero(a < 100)
+        if len(xs) < 10:
+            return box
+        return [x0 + xs.min() - 4, y0 + ys.min() - 4, x0 + xs.max() + 5, y0 + ys.max() + 5]
     x0, y0, x1, y1 = box[0] - slack, box[1] - slack, box[2] + slack, box[3] + slack
     a = np.asarray(page.crop((x0, y0, x1, y1)).convert('RGB')).astype(int)
     R, G, B = a[..., 0], a[..., 1], a[..., 2]
@@ -92,30 +142,78 @@ def tight_box(page, box, slack=10):
     ys, xs = np.nonzero(lab == k)
     return [x0 + xs.min(), y0 + ys.min(), x0 + xs.max() + 1, y0 + ys.max() + 1]
 
-def notes_for(spec, book_page):
+def covers(spec, page):
+    """[(label dict, [x0,y0,x1,y1] fitted cover in PAGE coords)] for a diagram spec."""
+    return [(l, tight_box(page, l['box'], l.get('fit', 'bg'))) for l in spec['labels']]
+
+# ---------------------------------------------------------------- notes
+def media_for(spec, pdf):
+    MEDIA.mkdir(parents=True, exist_ok=True)
+    out = MEDIA / f"{spec['name']}.jpg"
+    page = Image.open(render(pdf, spec['pdf_page'])).convert('RGB')
+    im = page.crop(spec['crop'])
+    w = min(WIDTH, im.width * 2)
+    im.resize((w, round(im.height * w / im.width)), Image.LANCZOS).save(out, 'JPEG', quality=88, optimize=True)
+    return out
+
+def io_notes(spec, pdf, page0):
     cx0, cy0, cx1, cy1 = spec['crop']; w, h = cx1 - cx0, cy1 - cy0
-    page = Image.open(render(spec['pdf'], spec['pdf_page'])).convert('RGB')
-    for box, answer in spec['labels']:
-        box = tight_box(page, box)
-        x0, y0 = box[0] - cx0 - PAD, box[1] - cy0 - PAD
-        bw, bh = box[2] - box[0] + 2 * PAD, box[3] - box[1] + 2 * PAD
+    page = Image.open(render(pdf, spec['pdf_page'])).convert('RGB')
+    src = f"StudentRDH {pdf} p.{page0 + spec['pdf_page']}"
+    for l, b in covers(spec, page):
+        x0, y0 = b[0] - cx0 - PAD, b[1] - cy0 - PAD
+        bw, bh = b[2] - b[0] + 2 * PAD, b[3] - b[1] + 2 * PAD
         yield genanki.Note(
-            model=MODEL,
-            fields=[answer, f"<img src=\"{spec['name']}.jpg\">", TITLES[spec['name']],
+            model=IO_MODEL,
+            fields=[l['answer'], f'<img src="{spec["name"]}.jpg">', spec['title'],
                     f'{100*x0/w:.2f}', f'{100*y0/h:.2f}', f'{100*bw/w:.2f}', f'{100*bh/h:.2f}',
-                    '', f'StudentRDH Anatomy p.{book_page}'],
-            guid=genanki.guid_for('nbdhe-io', spec['name'], answer),
-            tags=['anatomy', f'p{book_page}', spec['name']])
+                    l.get('extra', ''), src],
+            guid=genanki.guid_for('nbdhe-io', spec['name'], l.get('key', l['answer'])),   # 'key' disambiguates repeated labels
+            tags=[pdf.lower(), f"p{page0 + spec['pdf_page']}", 'image-occlusion'])
+
+def cloze_note(c, pdf):
+    return genanki.Note(model=CLOZE_MODEL, fields=[c['text'], c.get('section', ''), c.get('extra', ''),
+                        f"StudentRDH {pdf} p.{c['page']}"],
+                        guid=genanki.guid_for('nbdhe-cloze', c['id']),
+                        tags=[pdf.lower(), f"p{c['page']}", 'cloze'])
+
+def mcq_note(q, pdf):
+    opts = ''.join(f'<li>{o}</li>' for o in q['options'])
+    return genanki.Note(model=MCQ_MODEL, fields=[q['question'], opts, q['answer'], q.get('explanation', ''),
+                        q.get('section', ''), f"StudentRDH {pdf} p.{q['page']}"],
+                        guid=genanki.guid_for('nbdhe-mcq', q['id']),
+                        tags=[pdf.lower(), f"p{q['page']}", 'quiz'])
+
+def load(book):
+    specs = {'diagrams': [], 'cloze': [], 'mcq': []}
+    for f in sorted(glob.glob(str(ROOT / '.tools' / 'anki' / book / '*.json'))):
+        d = json.load(open(f))
+        for k in specs:
+            specs[k] += d.get(k, [])
+    return specs
 
 if __name__ == '__main__':
-    out, names = sys.argv[1], sys.argv[2:]
-    specs = {s['name']: s for s in json.load(open(SPECS))}
-    deck = genanki.Deck(DECK_ID, 'NBDHE::Anatomy')
-    media = []
-    for n in names:
-        s = specs[n]
-        media.append(str(media_for(s)))
-        for note in notes_for(s, 146 + s['pdf_page']):   # Anatomy PDF p.1 = book p.147
-            deck.add_note(note)
-    genanki.Package(deck, media_files=media).write_to_file(out)
-    print(f'{out}: {len(deck.notes)} notes, {len(media)} images')
+    out = sys.argv[1]; book = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith('--') else 'anatomy'
+    only = sys.argv[sys.argv.index('--only') + 1].split(',') if '--only' in sys.argv else None
+    cfg = BOOKS[book]; specs = load(book)
+    decks, media, counts = {}, [], {'io': 0, 'cloze': 0, 'mcq': 0}
+    def deck(sub):
+        name = f"{ROOT_DECK}::{cfg['deck']}::{sub}"
+        if name not in decks:
+            decks[name] = genanki.Deck(deck_id(name), name)
+        return decks[name]
+    for s in specs['diagrams']:
+        if only and s['name'] not in only:
+            continue
+        media.append(str(media_for(s, cfg['pdf'])))
+        for n in io_notes(s, cfg['pdf'], cfg['page0']):
+            deck(s['deck']).add_note(n); counts['io'] += 1
+    if not only:
+        for c in specs['cloze']:
+            deck(c['deck']).add_note(cloze_note(c, cfg['pdf'])); counts['cloze'] += 1
+        for q in specs['mcq']:
+            deck(q['deck']).add_note(mcq_note(q, cfg['pdf'])); counts['mcq'] += 1
+    ids = [n.guid for d in decks.values() for n in d.notes]
+    assert len(ids) == len(set(ids)), 'duplicate note GUIDs — two notes share a diagram+answer or an id'
+    genanki.Package(list(decks.values()), media_files=media).write_to_file(out)
+    print(f"{out}: {counts} in {len(decks)} decks, {len(media)} images")

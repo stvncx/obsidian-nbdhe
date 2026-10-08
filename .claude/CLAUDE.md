@@ -1,63 +1,38 @@
-# Obsidian vault — NBDHE / RDH study
-
-**2026-10-08: flashcards moved to ANKI — see RUNBOOK §6. The Obsidian card work below is historical.**
+# nbdhe — NBDHE board-exam study decks (Anki)
 
 **Runbook: `.claude/RUNBOOK.md` — record every new procedure and decision there as we work.**
+**Card-authoring rules: `.tools/anki/AUTHORING.md`.**
 
-This directory IS Steven's Obsidian vault (repo `stvncx/obsidian-nbdhe`, branch `main`).
-The **student is a woman who shares this vault with Steven** (name not given — don't guess;
-she/her). She sits the NBDHE (dental hygiene boards) **~January 2027** and studies from the
-StudentRDH review guide. Steven runs the project (setup, sync, working with Claude). Cards are
-reviewed with the **Spaced Repetition** community plugin (v1.15.x) in Obsidian (Mac, iPhone, iPad).
+The **student is a woman Steven is helping** (name not given — don't guess; she/her). She sits
+the NBDHE (dental hygiene boards) **~January 2027** and studies from the StudentRDH review
+guide (16 scanned PDFs). **Steven leads the learning design** (trained teacher, 25 yrs adult
+ed, memory research) — propose, don't impose; his calls are final. Open with `app nbdhe`.
+
+**Cards are built for ANKI** (since 2026-10-08): `.apkg` decks generated from JSON spec files,
+delivered via `~/exchange/from-claude/`. Three note types: image occlusion (Steven's design —
+one label covered per card, revealed in place), cloze, MCQ (bonus quizzes). See RUNBOOK §6.
 
 **Scope = the UPDATED NBDHE test specifications (implemented 2026-11-01)** in
-`.source/official/candidate_guide_2026.txt` ("After Update", pp. 8–10). Question style =
-`.source/official/sample_questions.txt`. Where the book conflicts with the exam's adopted
-standards (`exam_updates.txt`: AHA 2021 antibiotic prophylaxis, ASA 2020, IADT 2020, AAP 2017
-perio classification, AHA 2017 BP, no film/darkroom, smoking = cigs/day, 1 pack = 20), **the
-exam's standard wins** — note the correction on the card. Open this project with `app obsidian`.
+`.source/official/candidate_guide_2026.txt` ("After Update", pp. 8–10). Where the book conflicts
+with the exam's adopted standards (`exam_updates.txt`: AHA 2021 antibiotic prophylaxis, ASA
+2020, IADT 2020, AAP 2017 perio classification, AHA 2017 BP, no film/darkroom, smoking =
+cigs/day, 1 pack = 20) **the exam's standard wins** — say so on the card.
 
 ## Layout
-
-| Path | What | Synced to vault? |
+| Path | What | In git? |
 |---|---|---|
-| `Flashcards/<Book>/NN Section.md` | one note per book section | yes |
-| `Flashcards/<Book>/images/` | diagram images for image cards | yes |
-| `.obsidian/` | his Obsidian settings + plugins (he commits these from the Mac) | yes — don't edit unless asked |
-| `.claude/`, `.tools/` | this file + card-building scripts (Obsidian hides dot-folders) | yes, but invisible in Obsidian |
-| `.source/RDH/*.pdf` | the 16 book PDFs (copy of `~/exchange/to-claude/RDH/`) | **no** — gitignored, server only |
-| `.tools/.venv/`, `.tools/cache/` | Python env (pillow, numpy, scipy) + rendered pages | no — gitignored |
+| `.tools/anki/build_deck.py` | builds the .apkg from `.tools/anki/<book>/*.json` | yes |
+| `.tools/anki/<book>/*.json` | card specs (diagrams / cloze / mcq) | yes |
+| `.tools/anki/{test_import,contact_sheet,diagram_check}.py` | verification tools | yes |
+| `.tools/cache/<Book>-NNN.png` | pages rendered at 200 dpi | no |
+| `.source/RDH/*.pdf`, `.source/official/` | book PDFs, JCNDE docs | no (server only) |
+| `Flashcards/`, `.obsidian/`, `Welcome.md` | the student's Obsidian vault (old card attempt + her notes) — synced with Steven's Mac via `vault-sync` | yes — don't touch unless asked |
 
-The PDFs are **scans** (copier images, no text layer) — read them with the Read tool's
-`pages` parameter. Book pages ≠ PDF pages: Anatomy.pdf p.1 = book p.147.
+The repo is also the Obsidian vault (`stvncx/obsidian-nbdhe`): **`git pull` before any commit**
+— Steven's Mac pushes "Sync from MacBook-…" commits.
 
-## Git sync — he edits from the Mac at the same time
-
-- **Always `git pull` before touching anything**, commit small, push right away.
-- His Mac pushes "Sync from MacBook-…" commits (settings + review progress).
-- The SR plugin writes review state into the notes as `<!--SR:!2026-10-09,3,250-->` after a
-  card. **Never drop or rewrite these** — regenerating a note wholesale wipes his progress.
-  Edit cards in place; carry the SR comment along with its card.
-
-## Card format (Spaced Repetition plugin, his settings)
-
-- `Q::A` basic · `term:::definition` both directions · `==cloze==` (each highlight = a card)
-- multi-line: question lines, `?` line, answer lines; `??` = reversed. No end marker is set —
-  a card ends at the next blank line, so **no blank lines inside a card**.
-- Deck tag at the top of each note: `#flashcards/rdh/<book>` (e.g. `#flashcards/rdh/anatomy`).
-- Frontmatter `source:` gives the book pages the note came from.
-
-## Image cards
-
-v3 in-place image occlusion — see RUNBOOK §5 (mechanism, procedure, verification).
-
-## Status / open questions (keep updated)
-
-- 2026-10-07: sample = Anatomy section 01 (book pp. 148–150) + 3 image diagrams.
-  Steven's verdict: "the cards kind of suck" — **reason not yet pinned down**. Candidates:
-  shallow (definitions, not NBDHE-style application), messy note, trivia, repetitive image
-  cards. Ask before mass-producing more.
-- He considered Anki / a custom web app; as of 2026-10-08 he chose to stay in Obsidian.
-- 2026-10-08: ALL text cards deleted at Steven's request; Anatomy 01 now = 17 image cards for the
-  two p.148 diagrams only. Get images right first, then rescope.
-- 2026-10-08: Mac sync live (`vault-sync`, see RUNBOOK §2–3); first Mac sync 52b1fbb.
+## Status
+- 2026-10-08: Anki pipeline approved on p.148 diagrams. Building the WHOLE Anatomy PDF (Head &
+  Neck pp.148–176 + Dental Anatomy pp.234–249): occlusion for every labeled figure, cloze for all
+  text, MCQ for the bonus quizzes.
+- Obsidian card attempt (SR plugin) abandoned 2026-10-08 — history in RUNBOOK §2–5.

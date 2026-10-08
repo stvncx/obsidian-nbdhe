@@ -11,7 +11,7 @@ iCloud Obsidian vault. Procedures first, then the decision log (why it's done th
 Quick facts
 - Vault (Mac, iCloud, shared with another person): `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/bobbi/NBDHE`
 - GitHub: `stvncx/obsidian-nbdhe` (private), branch `main`
-- Server project: `~/apps/obsidian` (`app obsidian` opens it in tmux with Claude)
+- Server project: `~/apps/nbdhe` (`app nbdhe` opens it in tmux with Claude)
 - Review plugin: Obsidian **Spaced Repetition** v1.15.x
 - Source: StudentRDH NBDHE review guide, 16 scanned PDFs (`.source/RDH/`, server only)
 
@@ -19,10 +19,10 @@ Quick facts
 
 ## 1. Server project setup (one time)
 
-1. Clone the vault repo into the app dir: `git clone git@github.com:stvncx/obsidian-nbdhe.git ~/apps/obsidian`
+1. Clone the vault repo into the app dir: `git clone git@github.com:stvncx/obsidian-nbdhe.git ~/apps/nbdhe`
    (`app <name>` in `~/fleet-hub/app-switcher.sh` resolves `~/apps/<name>` automatically).
 2. Book PDFs: Steven uploads them to `stvncx/exchange` → `to-claude/RDH/`. Copy to the
-   project (exchange gets pruned): `cp -a ~/exchange/to-claude/RDH ~/apps/obsidian/.source/`
+   project (exchange gets pruned): `cp -a ~/exchange/to-claude/RDH ~/apps/nbdhe/.source/`
 3. Official JCNDE docs (public, free) → `.source/official/` (gitignored; `.txt` made with
    `pdftotext -layout`): from https://jcnde.ada.org/nbdhe/nbdhe-prepare —
    `candidate_guide_2026.pdf` (test specifications, pre- AND post-Nov-2026), `sample_questions.pdf`
@@ -62,7 +62,7 @@ in the fake `~/.gitconfig` (done 2026-10-08: first sync, edit sync, deletion gua
 ```
 Claude (server) --push--> GitHub <--vault-sync--> Mac vault --iCloud--> iPhone / iPad / shared user
 ```
-- **Claude, before any edit:** `git pull` in `~/apps/obsidian`. After: commit small, push,
+- **Claude, before any edit:** `git pull` in `~/apps/nbdhe`. After: commit small, push,
   then tell Steven to run `vault-sync`.
 - **Steven:** runs `vault-sync` after Claude announces new cards, and after study sessions
   (pushes review progress).
@@ -203,7 +203,7 @@ change templates only with a deliberate migration plan.
 | 10-07 | One note per book section, deck tag per book | mirrors the book; per-book decks |
 | 10-07 | Image occlusion via numbered boxes on cropped diagrams | Steven asked for image cards; Obsidian has no native occlusion |
 | 10-07 | Stay in Obsidian (not Anki / custom app) | Steven's choice, 10-08 |
-| 10-08 | Server project in `~/apps/obsidian`, tools in hidden dot-folders | match fleet convention; keep shared vault clean |
+| 10-08 | Server project in `~/apps/nbdhe`, tools in hidden dot-folders | match fleet convention; keep shared vault clean |
 | 10-08 | PDFs copied to gitignored `.source/` | exchange gets pruned; 35 MB of scans shouldn't sync to devices |
 | 10-08 | Git data outside iCloud (`~/.obsidian-nbdhe.git` + `core.worktree`) | `.git` inside iCloud corrupts and would be shared with the other vault user |
 | 10-08 | Only the Mac runs git; iCloud handles phones + shared user | iOS git is unreliable; nothing changes for the other person |
