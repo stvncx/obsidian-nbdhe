@@ -151,9 +151,26 @@ Re-importing an updated `.apkg` **updates notes in place and keeps review histor
 note GUIDs are stable. Student needs: Anki desktop (free), AnkiMobile for iPhone/iPad
 ($24.99 one-time, one Apple ID), free AnkiWeb account to sync between them.
 
-**Build:** `.tools/.venv/bin/python .tools/anki/build_deck.py .tools/anki/build/<name>.apkg <diagram> [<diagram>…]`
-(needs `genanki` in the venv). Reads `.tools/anatomy-diagrams.json`, crops each diagram
-from the rendered page (1400 px JPEG → `.tools/anki/media/`), one note per label.
+**Build:** `.tools/.venv/bin/python .tools/anki/build_deck.py .tools/anki/build/<name>.apkg [book] [--only diagram,…]`
+(needs `genanki` in the venv). Reads every `.tools/anki/<book>/*.json` spec file
+(`{"diagrams":[…], "cloze":[…], "mcq":[…]}` — format + card-writing rules in
+`.tools/anki/AUTHORING.md`), crops each diagram (≤1400 px JPEG → `.tools/anki/media/`).
+Decks: `NBDHE::<Book>::<deck field>` (e.g. `NBDHE::Anatomy::Head and Neck`, `::Dental Anatomy`,
+`::Quizzes`); deck IDs derive from the full name (sha1) — stable.
+Fails if two notes share a GUID (repeated label on one figure → give it `"key"`).
+
+**Producing specs for a whole book (done for Anatomy 2026-10-08):** render all pages
+(`pdftoppm -r 200`), survey them as contact sheets, split the content pages into ranges of
+~6 pages, and give each range to a parallel general-purpose subagent with the brief "read
+`.tools/anki/AUTHORING.md`, write ONLY `.tools/anki/<book>/p<range>.json`, verify every figure
+with `diagram_check.py`". Then build, real-import test, contact-sheet ALL cards, fix, ship.
+Page numbering: book page = PDF page + offset, per chapter (Anatomy: Head & Neck +146,
+Dental Anatomy +200) — always check the printed page number.
+
+**Note types (fixed IDs — never change):** IO `1728390001` "NBDHE Image Occlusion", Cloze
+`1728390002` "NBDHE Cloze" (Text, Section, Extra, Source), MCQ `1728390003` "NBDHE MCQ"
+(Question, Options, Answer, Explanation, Section, Source). GUIDs: IO = (diagram name, label
+`key` or answer); cloze = `id`; MCQ = `id`. Ids are never reused or renumbered.
 
 **Note type "NBDHE Image Occlusion"** (custom HTML/CSS, not Anki's built-in IO notetype — the
 built-in one is meant to be authored inside Anki; a custom type renders identically on
@@ -164,9 +181,8 @@ desktop/AnkiMobile/AnkiDroid and can be previewed off-device):
   word should just be revealed, not have another word appear on top"). Back template has no
   `{{FrontSide}}`, so the reveal is in place. The Answer field is for search/sorting only.
 - Night mode via `.nightMode` / `.night_mode`. Box text scales with the image (`cqw`).
-- **Fixed IDs — never change:** `MODEL_ID 1728390001`, `DECK_ID 1728390101` (`NBDHE::Anatomy`),
-  GUID = `guid_for('nbdhe-io', diagram name, answer)`. Changing an answer's text creates a new
-  note (old one orphaned) — fix label text before the student starts reviewing.
+- Changing an IO label's answer text (without a `key`) creates a new note (old one orphaned) —
+  fix label text before the student starts reviewing.
 
 **Cover size = the label's blue background, exactly** (Steven, 10-08). `tight_box()` in
 `build_deck.py` refits each rough spec box: mask pale cyan (or yellow) inside box+10 px →
