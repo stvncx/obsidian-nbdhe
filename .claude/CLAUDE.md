@@ -44,5 +44,6 @@ The repo is also the Obsidian vault (`stvncx/obsidian-nbdhe`): **`git pull` befo
   agents reviewed all 151 diagrams). Shipped `exchange/from-claude/NBDHE-<Book>.apkg` ×15 +
   `NBDHE-15-books-review-notes.md` (book-vs-standard corrections, doubtful book facts, design
   questions — Steven to review). New build features: per-diagram `rotate` and `mask`; duplicate
-  labels greyed automatically (NOT applied to Anatomy — Steven's call).
+  labels greyed automatically — applied to Anatomy too (Steven, 10-11; 14 retired cards tagged
+  `nbdhe-obsolete` for her to delete).
 

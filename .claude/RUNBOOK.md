@@ -284,13 +284,13 @@ change templates only with a deliberate migration plan.
 | 10-10 | All 15 other books via the Anatomy pipeline; `BOOKS` table + book-generic tools | Steven: "process each of the files the same way" |
 | 10-10 | One deck per book (`NBDHE::<Book>`, quiz sub-deck), ids prefixed per book | same delivery as Anatomy; prefixes keep GUIDs unique in one collection |
 | 10-10 | Table rows printed on a page belong to that page's author | first rule ("table belongs to the page it starts on") left rows uncarded |
-| 10-11 | Duplicate labels on a figure: first copy carded, later copies greyed | visible copy gave the answer away; Anatomy left as shipped pending Steven |
+| 10-11 | Duplicate labels on a figure: first copy carded, later copies greyed (all books incl. Anatomy) | visible copy gave the answer away; Steven approved for Anatomy |
+| 10-11 | Retiring a note = re-ship it once tagged `nbdhe-obsolete`; she deletes via Browse | Anki import never deletes notes; greyed images get a new filename (`-g`) so re-import swaps the picture |
 | 10-11 | Radiology: no darkroom/processing/film-only cards; "film" → "image receptor" | JCNDE: no film questions since 2022 |
 
 ## Open items
 
-- **Steven to review** `NBDHE-15-books-review-notes.md` (doubtful book facts, Anatomy duplicate-label
-  greying, low-yield occlusions). Diagram QA batch 2 (embryology…perio p.86) fixes may follow as an update.
+- **Steven to review** `NBDHE-15-books-review-notes.md` (doubtful book facts, low-yield occlusions). Diagram QA batch 2 (embryology…perio p.86) fixes may follow as an update.
 - **(done 10-11) all 15 remaining books:** specs written for every book (44 page ranges,
   all validate; all 15 decks build, import with all media, every interactive card passes
   `interact_test.py`; 0 GUID collisions across books). Remaining: apply fixes from the 151-diagram

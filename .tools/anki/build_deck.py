@@ -52,7 +52,8 @@ BOOKS = {
     'radiology':   {'pdf': 'Radiology', 'deck': 'Radiology', 'page0': 118, 'prefix': 'rad'},
     'special':     {'pdf': 'SpecialNeedsMedConditions', 'deck': 'Special Needs & Medical Conditions', 'page0': 200, 'prefix': 'spec'},
 }
-NO_DEDUP = {'Anatomy'}   # shipped before duplicate-label greying; Steven to decide (2026-10-11)
+NO_DEDUP = set()          # books exempt from duplicate-label greying (none since 2026-10-11)
+RETIRED_DUPS = {'Anatomy'}  # shipped with duplicate-label cards before greying: re-ship those notes tagged nbdhe-obsolete so she can delete them
 for _b in BOOKS.values():
     _b.setdefault('decks', [_b['deck'], 'Quizzes'])
     _b.setdefault('tag', _b['prefix'])
@@ -246,6 +247,7 @@ def page_image(spec, pdf):
     spec['_dups'] = set() if pdf in NO_DEDUP else {
         i for i, l in enumerate(spec['labels'])
         if l['answer'].strip().lower() in {m['answer'].strip().lower() for m in spec['labels'][:i]}}
+    spec['media'] = spec['name'] + ('-g' if spec['_dups'] else '')
     if spec['_dups']:
         from PIL import ImageDraw
         boxes = [tight_box(page, spec['labels'][i]['box'], spec['labels'][i].get('fit', 'bg')) for i in spec['_dups']]
@@ -267,8 +269,8 @@ def covers(spec, page):
 # ---------------------------------------------------------------- notes
 def media_for(spec, pdf):
     MEDIA.mkdir(parents=True, exist_ok=True)
-    out = MEDIA / f"{spec['name']}.jpg"
     page = page_image(spec, pdf)
+    out = MEDIA / f"{spec['media']}.jpg"
     im = page.crop(spec['crop'])
     w = min(WIDTH, im.width * 2)
     im.resize((w, round(im.height * w / im.width)), Image.LANCZOS).save(out, 'JPEG', quality=88, optimize=True)
@@ -297,11 +299,20 @@ def io_notes(spec, pdf, page0):
         bw, bh = b[2] - b[0] + 2 * PAD, b[3] - b[1] + 2 * PAD
         yield genanki.Note(
             model=IO_MODEL,
-            fields=[l['answer'], f'<img src="{spec["name"]}.jpg">', spec['title'],
+            fields=[l['answer'], f'<img src="{spec["media"]}.jpg">', spec['title'],
                     f'{100*x0/w:.2f}', f'{100*y0/h:.2f}', f'{100*bw/w:.2f}', f'{100*bh/h:.2f}',
                     l.get('extra', ''), src, f'{rot:.1f}'],
             guid=genanki.guid_for('nbdhe-io', spec['name'], l.get('key', l['answer'])),   # 'key' disambiguates repeated labels
             tags=[ct.tag(pdf), f"p{bp}", 'image-occlusion'])
+    if pdf in RETIRED_DUPS:                  # same GUIDs as the retired notes -> re-import tags them for deletion
+        for i in sorted(spec['_dups']):
+            l = spec['labels'][i]
+            yield genanki.Note(
+                model=IO_MODEL,
+                fields=[l['answer'], f'<img src="{spec["media"]}.jpg">', f"OBSOLETE — please delete this card ({spec['title']})",
+                        '0', '0', '0', '0', 'Retired 2026-10-11: this label is printed twice on the figure. Browse → tag:nbdhe-obsolete → delete.', src, '0'],
+                guid=genanki.guid_for('nbdhe-io', spec['name'], l.get('key', l['answer'])),
+                tags=[ct.tag(pdf), f"p{bp}", 'image-occlusion', 'nbdhe-obsolete'])
 
 def cloze_note(c, pdf):
     return genanki.Note(model=CLOZE_MODEL, fields=[c['text'], c.get('section', ''), c.get('extra', ''),

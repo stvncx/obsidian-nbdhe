@@ -123,7 +123,7 @@ def sort_note(m, q, pdf):
 
 def label_note(m, spec, slots, pdf, book_page):
     """slots: [{l,t,w,h,rot,a}] in % of the image — the same covers as the IO cards."""
-    return genanki.Note(model=m['label'], fields=[spec['title'], f'<img src="{spec["name"]}.jpg">',
+    return genanki.Note(model=m['label'], fields=[spec['title'], f'<img src="{spec.get("media", spec["name"])}.jpg">',
                         js_data({'slots': slots}), spec.get('deck', ''), '', f"StudentRDH {src(pdf)} p.{book_page}"],
                         guid=genanki.guid_for('nbdhe-label', spec['name']),
                         tags=[tag(pdf), f"p{book_page}", 'label-diagram'])
