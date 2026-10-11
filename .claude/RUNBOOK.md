@@ -167,6 +167,21 @@ with `diagram_check.py`". Then build, real-import test, contact-sheet ALL cards,
 Page numbering: book page = PDF page + offset, per chapter (Anatomy: Head & Neck +146,
 Dental Anatomy +200) — always check the printed page number.
 
+**All 16 books (2026-10-10).** `BOOKS` in `build_deck.py` holds every book: folder name →
+PDF, offset (`page0`), id `prefix`, top-deck name, allowed spec decks, tag. Book table + the
+per-book exam notes are at the top of `AUTHORING.md`. A spec `deck` equal to the book's deck name
+lands in `NBDHE::<Book>`; "Quizzes" in `NBDHE::<Book>::Quizzes` (Anatomy keeps its chapter
+sub-decks). `validate_spec.py` and `diagram_check.py` take the book from the spec's folder;
+the validator enforces deck names and the id prefix (ids/GUIDs must never collide across books —
+all decks end up in one collection). Source line shows the book's deck name, tag = prefix
+(Anatomy unchanged: rebuild was note-for-note identical to the shipped deck). Render a book:
+`pdftoppm -r 200 -png X.pdf .tools/cache/X` writes 2-digit page numbers for <100-page PDFs —
+rename to 3 digits (`X-001.png`). Survey = one contact sheet per book with the page-number
+corners enlarged (offset = printed page of PDF 1 − 1). Every book: PDF 1 cover, bonus quiz +
+upside-down key, then "Practice questions" + "Thoughts" pages. Authors get a shared brief
+(steps: read AUTHORING, read zoomed strips, all card types, exam standards, diagram_check,
+validate, report) + their range; ranges of 5–7 content pages, the quiz/key with the last range.
+
 **Note types (fixed IDs — never change):** IO `1728390001` "NBDHE Image Occlusion", Cloze
 `1728390002` "NBDHE Cloze" (Text, Section, Extra, Source), MCQ `1728390003` "NBDHE MCQ"
 (Question, Options, Answer, Explanation, Section, Source). GUIDs: IO = (diagram name, label
@@ -266,7 +281,21 @@ change templates only with a deliberate migration plan.
 | 10-08 | Numbering-chart occlusions replaced by type-in + match | neighbours gave the answers away |
 | 10-08 | Anatomy v2 deck shipped: 1,554 notes / ~2,200 cards across 9 card types; all 111 interactive cards pass the tap-through test | v2 card mix |
 | 10-08 | HTTPS to GitHub from the Mac | Mac has no GitHub ssh key; HTTPS credentials already worked |
+| 10-10 | All 15 other books via the Anatomy pipeline; `BOOKS` table + book-generic tools | Steven: "process each of the files the same way" |
+| 10-10 | One deck per book (`NBDHE::<Book>`, quiz sub-deck), ids prefixed per book | same delivery as Anatomy; prefixes keep GUIDs unique in one collection |
+| 10-10 | Table rows printed on a page belong to that page's author | first rule ("table belongs to the page it starts on") left rows uncarded |
+| 10-11 | Duplicate labels on a figure: first copy carded, later copies greyed | visible copy gave the answer away; Anatomy left as shipped pending Steven |
+| 10-11 | Radiology: no darkroom/processing/film-only cards; "film" → "image receptor" | JCNDE: no film questions since 2022 |
 
 ## Open items
+
+- **Steven to review** `NBDHE-15-books-review-notes.md` (doubtful book facts, Anatomy duplicate-label
+  greying, low-yield occlusions). Diagram QA batch 2 (embryology…perio p.86) fixes may follow as an update.
+- **(done 10-11) all 15 remaining books:** specs written for every book (44 page ranges,
+  all validate; all 15 decks build, import with all media, every interactive card passes
+  `interact_test.py`; 0 GUID collisions across books). Remaining: apply fixes from the 151-diagram
+  visual QA (diagram_check outputs tiled per book), rebuild, copy `NBDHE-<Book>.apkg` ×15 to
+  `~/exchange/from-claude/`, write the "questions for Steven" list (book-vs-standard conflicts and
+  doubtful book facts the authors flagged), update Status in CLAUDE.md, commit.
 - **Card quality** (10-07: "the cards kind of suck") — reason not yet pinned down. Next.
 - Auto-run `vault-sync` every 10 min via launchd — after manual runs prove reliable.

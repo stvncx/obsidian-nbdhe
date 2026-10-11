@@ -1,0 +1,1195 @@
+{
+ "diagrams": [
+  {
+   "name": "inst-p382-front-view-names",
+   "title": "Front view of instruments — which instrument?",
+   "deck": "Instrumentation",
+   "pdf_page": 10,
+   "page": 382,
+   "crop": [
+    90,
+    740,
+    1240,
+    1205
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      118,
+      1141,
+      472,
+      1199
+     ],
+     "answer": "Universal Curette",
+     "fit": "none"
+    },
+    {
+     "box": [
+      486,
+      1141,
+      902,
+      1199
+     ],
+     "answer": "Area Specific Curette",
+     "fit": "none"
+    },
+    {
+     "box": [
+      924,
+      1141,
+      1184,
+      1199
+     ],
+     "answer": "Sickle Scaler",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "inst-p382-curette-parts",
+   "title": "Parts of the working end (front view, universal curette)",
+   "deck": "Instrumentation",
+   "pdf_page": 10,
+   "page": 382,
+   "crop": [
+    100,
+    820,
+    500,
+    1140
+   ],
+   "labels": [
+    {
+     "box": [
+      196,
+      892,
+      286,
+      938
+     ],
+     "answer": "Face",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      122,
+      942,
+      250,
+      1018
+     ],
+     "answer": "Cutting edge",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      368,
+      945,
+      494,
+      1021
+     ],
+     "answer": "Cutting edge",
+     "key": "Cutting edge (2)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      136,
+      1034,
+      260,
+      1108
+     ],
+     "answer": "Lateral Surface",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      262,
+      1092,
+      352,
+      1133
+     ],
+     "answer": "Back",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "inst-p384-gracey-sets",
+   "title": "Sets of Gracey curettes",
+   "deck": "Instrumentation",
+   "pdf_page": 12,
+   "page": 384,
+   "crop": [
+    95,
+    95,
+    1185,
+    670
+   ],
+   "labels": [
+    {
+     "box": [
+      698,
+      184,
+      814,
+      272
+     ],
+     "answer": "Set 1: 1/2 & 3/4 — All surfaces",
+     "fit": "none"
+    },
+    {
+     "box": [
+      973,
+      208,
+      1142,
+      297
+     ],
+     "answer": "Set 2: 5/6, 7/8, 9/10 — Facial & Lingual",
+     "fit": "none"
+    },
+    {
+     "box": [
+      103,
+      308,
+      408,
+      432
+     ],
+     "answer": "Set 3: 11/12 posterior mesial, 13/14 posterior distal; anterior/premolar all surfaces",
+     "fit": "none"
+    },
+    {
+     "box": [
+      423,
+      562,
+      506,
+      650
+     ],
+     "answer": "Set 4: 15/16 — Mesial",
+     "fit": "none"
+    },
+    {
+     "box": [
+      678,
+      562,
+      824,
+      654
+     ],
+     "answer": "Set 2: 5/6, 7/8, 9/10 — All surfaces",
+     "fit": "none"
+    },
+    {
+     "box": [
+      993,
+      564,
+      1070,
+      652
+     ],
+     "answer": "Set 4: 17/18 — Distal",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "inst-p385-file-hoe",
+   "title": "File and hoe",
+   "deck": "Instrumentation",
+   "pdf_page": 13,
+   "page": 385,
+   "crop": [
+    525,
+    555,
+    1235,
+    1070
+   ],
+   "labels": [
+    {
+     "box": [
+      572,
+      972,
+      665,
+      1031
+     ],
+     "answer": "File",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      912,
+      972,
+      1015,
+      1031
+     ],
+     "answer": "Hoe",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "inst-p380-001",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 380,
+   "text": "The <b>area-specific explorer (#11/12)</b> has a {{c1::long complex}} shank with the tip at a {{c2::right angle}} to the lower shank, and paired working ends."
+  },
+  {
+   "id": "inst-p380-002",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 380,
+   "text": "The #11/12 explorer is used to explore {{c1::healthy sulci and deep periodontal pockets}}."
+  },
+  {
+   "id": "inst-p380-003",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 380,
+   "text": "The <b>Orban (#17)</b> explorer is {{c1::single-ended}} with the tip at a right angle to the lower shank; it is mainly used on {{c2::anteriors}}.",
+   "extra": "Good adaptation is needed on curved surfaces."
+  },
+  {
+   "id": "inst-p380-004",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 380,
+   "text": "The <b>pigtail</b> explorer has a {{c1::curved}} shank and paired working ends; it is best for hard deposits and exploring healthy sulci, because its tip {{c2::cannot reach deep pockets}}.",
+   "extra": "Also used for caries detection."
+  },
+  {
+   "id": "inst-p380-005",
+   "deck": "Instrumentation",
+   "section": "Periodontal probe",
+   "page": 380,
+   "text": "The periodontal probe <b>detects</b> {{c1::bleeding on probing (BOP)}} and {{c2::suppuration (pus)}}."
+  },
+  {
+   "id": "inst-p380-006",
+   "deck": "Instrumentation",
+   "section": "Periodontal probe",
+   "page": 380,
+   "text": "With the periodontal probe, hard deposits and roughness are detected in conjunction with the {{c1::explorer}}."
+  },
+  {
+   "id": "inst-p380-007",
+   "deck": "Instrumentation",
+   "section": "Periodontal probe",
+   "page": 380,
+   "text": "The periodontal probe <b>evaluates</b> the health of the periodontium by measuring {{c1::pocket depth}}."
+  },
+  {
+   "id": "inst-p380-008",
+   "deck": "Instrumentation",
+   "section": "Periodontal probe",
+   "page": 380,
+   "text": "The periodontal probe <b>measures</b> gingival recession, overgrowth and {{c1::clinical attachment levels (CAL)}}."
+  },
+  {
+   "id": "inst-p380-009",
+   "deck": "Instrumentation",
+   "section": "Periodontal probe",
+   "page": 380,
+   "text": "Measured with a probe: overjet is the {{c1::horizontal}} dimension; overbite is the {{c2::vertical}} dimension."
+  },
+  {
+   "id": "inst-p380-010",
+   "deck": "Instrumentation",
+   "section": "Periodontal probe",
+   "page": 380,
+   "text": "Besides periodontal measurements, the probe is used to measure the size of {{c1::intraoral and extraoral lesions}}."
+  },
+  {
+   "id": "inst-p380-011",
+   "deck": "Instrumentation",
+   "section": "Probing technique",
+   "page": 380,
+   "text": "The 6 probing sites per tooth are distofacial, facial, mesiofacial, distolingual, lingual and mesiolingual; at each site the {{c1::deepest}} reading is recorded."
+  },
+  {
+   "id": "inst-p380-012",
+   "deck": "Instrumentation",
+   "section": "Probing technique",
+   "page": 380,
+   "text": "Probing uses the {{c1::assessment}} stroke: light strokes with {{c2::no lateral pressure}}."
+  },
+  {
+   "id": "inst-p380-013",
+   "deck": "Instrumentation",
+   "section": "Probing technique",
+   "page": 380,
+   "text": "Once the probe is inserted into the pocket, the working end is kept {{c1::parallel to the root surface}}."
+  },
+  {
+   "id": "inst-p380-014",
+   "deck": "Instrumentation",
+   "section": "Probing technique",
+   "page": 380,
+   "text": "The probing <b>walking stroke</b> is a series of small bobbing strokes {{c1::1 to 2 mm}} apart.",
+   "extra": "Stop at each point and take a measurement."
+  },
+  {
+   "id": "inst-p380-015",
+   "deck": "Instrumentation",
+   "section": "Probing technique",
+   "page": 380,
+   "text": "When probing, gently press down until the probe tip touches the {{c1::junctional epithelium}}."
+  },
+  {
+   "id": "inst-p380-016",
+   "deck": "Instrumentation",
+   "section": "Probing technique",
+   "page": 380,
+   "text": "At interproximal contacts, tilt the probe slightly ({{c1::about 10°}}) into the {{c2::col}}."
+  },
+  {
+   "id": "inst-p380-017",
+   "deck": "Instrumentation",
+   "section": "Probing technique",
+   "page": 380,
+   "text": "Probing depths are recorded to the {{c1::nearest full millimeter}}."
+  },
+  {
+   "id": "inst-p380-018",
+   "deck": "Instrumentation",
+   "section": "Periodontal probe",
+   "page": 380,
+   "text": "Probe design: a {{c1::blunt}} tip calibrated in millimeter markings; cross-section can be {{c2::circular or rectangular}}."
+  },
+  {
+   "id": "inst-p380-019",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 380,
+   "text": "<b>Marquis</b> probe: markings at {{c1::3-6-9-12 mm}}, with black bands at {{c2::3–6 mm and 9–12 mm}}."
+  },
+  {
+   "id": "inst-p380-020",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 380,
+   "text": "<b>Williams</b> probe: markings at {{c1::1-2-3-5-7-8-9-10 mm}} — it omits the {{c2::4 mm and 6 mm}} markings."
+  },
+  {
+   "id": "inst-p381-001",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "text": "<b>Michigan O</b> probe: markings at {{c1::3-6-8 mm}}."
+  },
+  {
+   "id": "inst-p381-002",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "text": "<b>UNC 12 (or 15)</b> probe: marked every mm to 12 (or 15); black bands at {{c1::4–5 mm, 9–10 mm (and 14–15 mm)}}; commonly used for {{c2::comprehensive periodontal charting}}."
+  },
+  {
+   "id": "inst-p381-003",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "text": "<b>WHO</b> probe: a {{c1::0.5 mm ball tip}} and a color band from {{c2::3.5 to 5.5 mm}} (markings 3.5, 5.5, 8.5, 11.5 mm); primarily used for {{c3::Periodontal Screening and Recording (PSR)}}."
+  },
+  {
+   "id": "inst-p381-004",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "text": "<b>Goldman Fox</b> probe: a {{c1::flat (beavertail)}} tip design; markings 1-2-3-5-7-8-9-10 mm (omits 4 and 6 mm, like the Williams)."
+  },
+  {
+   "id": "inst-p381-005",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "text": "<b>Novatech</b> probe (markings 3, 6, 9, 12 mm): designed with a {{c1::right-angle bend}} for easier access to {{c2::posterior teeth}}."
+  },
+  {
+   "id": "inst-p381-006",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "text": "<b>Naber's</b> probe: double-ended, paired mirror-image curved working ends marked at {{c1::3 mm intervals}}; used specifically to assess {{c2::furcations}}."
+  },
+  {
+   "id": "inst-p381-007",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "text": "<b>Florida</b> probe: a {{c1::computerized}} probing system that measures to the {{c2::tenth of a millimeter}}; more accurate because of {{c3::consistently applied force}} and precise depth measurement."
+  },
+  {
+   "id": "inst-p382-001",
+   "deck": "Instrumentation",
+   "section": "Calculus removal instruments",
+   "page": 382,
+   "text": "The choice of instrument for calculus removal is based on the {{c1::size}} and {{c2::location}} of the deposits."
+  },
+  {
+   "id": "inst-p382-002",
+   "deck": "Instrumentation",
+   "section": "Calculus removal instruments",
+   "page": 382,
+   "text": "<b>Sickle scalers</b> are used on {{c1::large}} deposits located {{c2::supragingivally}}."
+  },
+  {
+   "id": "inst-p382-003",
+   "deck": "Instrumentation",
+   "section": "Calculus removal instruments",
+   "page": 382,
+   "text": "{{c1::Universal curettes and rigid-shank area-specific curettes}} are used for {{c2::medium}}-sized supra- and subgingival deposits."
+  },
+  {
+   "id": "inst-p382-004",
+   "deck": "Instrumentation",
+   "section": "Calculus removal instruments",
+   "page": 382,
+   "text": "For <b>small</b> deposits, {{c1::universal curettes}} are used supragingivally and on the {{c2::cervical third}} of the root."
+  },
+  {
+   "id": "inst-p382-005",
+   "deck": "Instrumentation",
+   "section": "Calculus removal instruments",
+   "page": 382,
+   "text": "Small deposits on the {{c1::middle or apical third}} of the root are removed with {{c2::area-specific curettes}}."
+  },
+  {
+   "id": "inst-p382-006",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "text": "<b>Sickle scalers</b> are designed to remove {{c1::medium- to large-sized supragingival}} calculus deposits.",
+   "extra": "Some sources indicate use 1–2 mm subgingivally."
+  },
+  {
+   "id": "inst-p382-007",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "text": "The {{c1::universal curette}} is the most versatile removal instrument, used both supra- and subgingivally."
+  },
+  {
+   "id": "inst-p382-008",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "text": "<b>Area-specific curettes</b> are used supra- and subgingivally for {{c1::precise root debridement}}."
+  },
+  {
+   "id": "inst-p382-009",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "text": "A universal curette has {{c1::two parallel}} cutting edges per working end."
+  },
+  {
+   "id": "inst-p382-010",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "text": "A sickle scaler has a {{c1::pointed}} back and toe; universal and area-specific curettes have a {{c2::rounded}} back and toe."
+  },
+  {
+   "id": "inst-p382-011",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "text": "In cross-section, a sickle scaler is {{c1::triangular}}; universal and area-specific curettes are {{c2::half-moon (semicircular)}}."
+  },
+  {
+   "id": "inst-p382-012",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "text": "Sickle scalers, universal curettes and area-specific curettes all come with {{c1::straight or complex}} shanks."
+  },
+  {
+   "id": "inst-p382-013",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "text": "Sickle scaler shanks are {{c1::strong and rigid}} for heavy deposits; curettes (universal and area-specific) have {{c2::longer}} shanks for root access."
+  },
+  {
+   "id": "inst-p382-014",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "text": "A universal curette with a <b>standard</b> shank is for {{c1::light}} calculus; a <b>rigid</b> (thicker) shank is for {{c2::moderate-to-heavy/tenacious}} calculus."
+  },
+  {
+   "id": "inst-p383-001",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "text": "The face of a sickle scaler and of a universal curette is at {{c1::90°}} (perpendicular) to the terminal shank."
+  },
+  {
+   "id": "inst-p383-002",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "text": "With a universal curette, the lower shank must be {{c1::tilted toward the tooth}} to obtain correct angulation."
+  },
+  {
+   "id": "inst-p383-003",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "text": "The face of an area-specific curette is angled at {{c1::60°–70°}} to the terminal (lower) shank, so correct angulation is achieved when the {{c2::lower shank is parallel to the tooth surface}}.",
+   "extra": "WakeUpMemory: \"Gracey is Parallelly Perfect.\""
+  },
+  {
+   "id": "inst-p383-004",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "text": "The <b>anterior sickle scaler</b> is for {{c1::anterior sextants}}: straight shank, single or paired working ends."
+  },
+  {
+   "id": "inst-p383-005",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "text": "The <b>universal sickle scaler</b> can treat {{c1::all surfaces}} — efficient if time is limited."
+  },
+  {
+   "id": "inst-p383-006",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "text": "Before standard curette use, larger calculus can be prepared with {{c1::powered instruments or files}}."
+  },
+  {
+   "id": "inst-p383-007",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "text": "Area-specific curettes have {{c1::paired, mirror-imaged}} working ends (matched sets, e.g., #11/12, #13/14); the most popular examples are {{c2::Gracey}} curettes."
+  },
+  {
+   "id": "inst-p383-008",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "text": "The Gracey curette series was developed in the {{c1::1940s}} by Dr. Clayton Gracey (University of Michigan) with {{c2::Hugo Friedman}}, founder of Hu-Friedy."
+  },
+  {
+   "id": "inst-p383-009",
+   "deck": "Instrumentation",
+   "section": "Gracey curettes",
+   "page": 383,
+   "text": "Gracey {{c1::1/2 and 3/4}} are used on anterior teeth only (all surfaces).",
+   "extra": "Set 1: \"the First Numbers\" — they clean everything at the front."
+  },
+  {
+   "id": "inst-p383-010",
+   "deck": "Instrumentation",
+   "section": "Gracey curettes",
+   "page": 383,
+   "text": "Gracey 5/6: anteriors and premolars all surfaces; molars only the {{c1::facial, lingual and mesial}} surfaces.",
+   "extra": "Set 2 (5/6, 7/8, 9/10) are \"the middle numbers\": anteriors, premolars and the F/L of molars."
+  },
+  {
+   "id": "inst-p383-011",
+   "deck": "Instrumentation",
+   "section": "Gracey curettes",
+   "page": 383,
+   "text": "Gracey {{c1::7/8 and 9/10}}: anteriors and premolars all surfaces; posterior teeth {{c2::facial and lingual}} surfaces.",
+   "extra": "Set 2: \"the middle numbers\"."
+  },
+  {
+   "id": "inst-p383-012",
+   "deck": "Instrumentation",
+   "section": "Gracey curettes",
+   "page": 383,
+   "text": "Gracey 11/12: anteriors {{c1::mesial and distal}}; premolars and posteriors {{c2::facial, lingual and mesial}} surfaces.",
+   "extra": "Set 3 (11/12 & 13/14): \"the Classic M/D Pair\", usable in all areas of the mouth."
+  },
+  {
+   "id": "inst-p383-013",
+   "deck": "Instrumentation",
+   "section": "Gracey curettes",
+   "page": 383,
+   "text": "Gracey 13/14: anteriors mesial and distal; posterior teeth {{c1::distal}} surfaces.",
+   "extra": "Set 3: \"the Classic M/D Pair\"."
+  },
+  {
+   "id": "inst-p383-014",
+   "deck": "Instrumentation",
+   "section": "Gracey curettes",
+   "page": 383,
+   "text": "Gracey {{c1::15/16}} is used on posterior teeth only — facial, lingual and mesial surfaces.",
+   "extra": "Set 4 (15/16 & 17/18): \"your Posterior-Only M/D Pair\"."
+  },
+  {
+   "id": "inst-p383-015",
+   "deck": "Instrumentation",
+   "section": "Gracey curettes",
+   "page": 383,
+   "text": "Gracey {{c1::17/18}} is used on posterior teeth only — distal surfaces.",
+   "extra": "Set 4: \"your Posterior-Only M/D Pair\"."
+  },
+  {
+   "id": "inst-p384-001",
+   "deck": "Instrumentation",
+   "section": "Specialized instruments",
+   "page": 384,
+   "text": "Specialized instruments are ideal for {{c1::deep pockets, furcations and complex root anatomy}}."
+  },
+  {
+   "id": "inst-p384-002",
+   "deck": "Instrumentation",
+   "section": "Specialized instruments",
+   "page": 384,
+   "text": "<b>Vision</b> instruments: the working end is shortened by {{c1::half}}."
+  },
+  {
+   "id": "inst-p384-003",
+   "deck": "Instrumentation",
+   "section": "Specialized instruments",
+   "page": 384,
+   "text": "{{c1::O'Hehir and DeMarco}} curets have tiny circular discs at the working end — useful for {{c2::furcations}}."
+  },
+  {
+   "id": "inst-p384-004",
+   "deck": "Instrumentation",
+   "section": "Specialized instruments",
+   "page": 384,
+   "text": "Diamond-coated files: the working end is covered with fine diamond grit and has {{c1::no cutting edges}} (e.g., diamond-coated Naber's furcation probes)."
+  },
+  {
+   "id": "inst-p384-005",
+   "deck": "Instrumentation",
+   "section": "Specialized instruments",
+   "page": 384,
+   "text": "Diamond-coated files are used with {{c1::light}} pressure and are ideal for furcation areas and {{c2::fine finishing of root surfaces after debridement}}."
+  },
+  {
+   "id": "inst-p384-006",
+   "deck": "Instrumentation",
+   "section": "Specialized curettes",
+   "page": 384,
+   "text": "<b>After Five</b> curette: blade width {{c1::10%}} narrower than standard; available in standard or rigid shanks; {{c2::decreases tissue distention}}.",
+   "extra": "Specialized curettes are compared to standard curettes unless noted; terminology such as \"after five\" can depend on the brand."
+  },
+  {
+   "id": "inst-p384-007",
+   "deck": "Instrumentation",
+   "section": "Specialized curettes",
+   "page": 384,
+   "text": "\"After Five\" curettes are designed for periodontal pockets {{c1::deeper than 5 mm}}.",
+   "extra": "WakeUpMemory: \"after 5 mm\"."
+  },
+  {
+   "id": "inst-p384-008",
+   "deck": "Instrumentation",
+   "section": "Specialized curettes",
+   "page": 384,
+   "text": "<b>Mini-Five</b> curette: like the After Five (3 mm longer terminal shank, 10% narrower blade) but with a blade {{c1::50% shorter}}; standard or rigid."
+  },
+  {
+   "id": "inst-p384-009",
+   "deck": "Instrumentation",
+   "section": "Specialized curettes",
+   "page": 384,
+   "text": "Mini-Five curettes are great for {{c1::concavities, depressions and root surfaces within furcations}}, and narrow, deep pockets."
+  },
+  {
+   "id": "inst-p385-001",
+   "deck": "Instrumentation",
+   "section": "Specialized curettes",
+   "page": 385,
+   "text": "<b>Micro-Mini Five</b> curette: blade width {{c1::20%}} narrower than the Mini-Five; blade length 50% shorter; shank {{c2::more rigid}} than the Mini-Five."
+  },
+  {
+   "id": "inst-p385-002",
+   "deck": "Instrumentation",
+   "section": "Specialized curettes",
+   "page": 385,
+   "text": "Micro-Mini Five curettes are great for very deep {{c1::tenacious}} calculus, {{c2::tight}} tissue and deep or narrow pockets, narrow furcations, depressions, line angles and fine deposit removal."
+  },
+  {
+   "id": "inst-p385-003",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "text": "The <b>hoe</b> removes {{c1::heavy, bulky supragingival}} calculus and is especially effective on the {{c2::lingual surfaces of mandibular anteriors}}."
+  },
+  {
+   "id": "inst-p385-004",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "text": "Both the hoe and the file are used with {{c1::vertical pull}} strokes.",
+   "extra": "File: adapt the entire face against the deposit."
+  },
+  {
+   "id": "inst-p385-005",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "text": "The <b>file</b> is used to {{c1::crush}} calculus in preparation for removal with other instruments, especially on {{c2::burnished}} areas."
+  },
+  {
+   "id": "inst-p385-006",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "text": "A file can be used when {{c1::powered instruments}} are contraindicated or unavailable."
+  },
+  {
+   "id": "inst-p385-007",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "text": "Besides calculus, a file can be used to smooth {{c1::overhangs}}."
+  },
+  {
+   "id": "inst-p385-008",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "text": "Files are helpful in deep, narrow pockets because of their {{c1::small size and flat working end}}, but can {{c2::stretch the tissue excessively}}."
+  },
+  {
+   "id": "inst-p385-009",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "text": "File design: a series of {{c1::fine short blades}} on the side of the head, and a {{c2::rounded}} back to facilitate subgingival insertion."
+  },
+  {
+   "id": "inst-p385-010",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "text": "The file's thick shank gives strength but limits {{c1::tactile sensitivity}}."
+  },
+  {
+   "id": "inst-p385-011",
+   "deck": "Instrumentation",
+   "section": "Implant maintenance",
+   "page": 385,
+   "text": "Avoid {{c1::metal}} instruments when scaling titanium implants; however, a {{c2::metal probe}} used gently is acceptable around implants.",
+   "extra": "Evidence supports the use of non-metal instruments."
+  },
+  {
+   "id": "inst-p385-012",
+   "deck": "Instrumentation",
+   "section": "Implant maintenance",
+   "page": 385,
+   "text": "Alternatives to metal curettes for implants include {{c1::plastic}}, {{c2::graphite}}, Teflon-coated, gold-coated, titanium-coated and solid titanium alloy instruments."
+  },
+  {
+   "id": "inst-p385-013",
+   "deck": "Instrumentation",
+   "section": "Implant maintenance",
+   "page": 385,
+   "text": "Plastic implant instruments can leave {{c1::debris}}; many textbooks still suggest plastic, but research is still developing."
+  },
+  {
+   "id": "inst-p385-014",
+   "deck": "Instrumentation",
+   "section": "Implant maintenance",
+   "page": 385,
+   "text": "Use only {{c1::light lateral pressure}} on implants, because calculus on and around implants is {{c2::not as tenaciously attached}}."
+  },
+  {
+   "id": "inst-p385-015",
+   "deck": "Instrumentation",
+   "section": "Implant maintenance",
+   "page": 385,
+   "text": "Specialized ultrasonic tips for implants have {{c1::Teflon-, carbon- or titanium-}}coated shanks, or a removable {{c2::PEEK (polyetheretherketone)}} tip."
+  }
+ ],
+ "basic": [
+  {
+   "id": "inst-p383-b-01",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "front": "What is a drawback of the universal curette in areas with tight tissue?",
+   "back": "It may be difficult to insert/adapt interproximally.",
+   "reverse": false,
+   "extra": "Upside: one instrument can treat all surfaces."
+  },
+  {
+   "id": "inst-p385-b-01",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "front": "Why are subgingival access and adaptation difficult with a hoe?",
+   "back": "Its bulky working end (which gives it great strength).",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "inst-p385-b-02",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "front": "Why should a file not be used directly on the root surface?",
+   "back": "It may cause gouging.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "inst-p380-t-01",
+   "deck": "Instrumentation",
+   "section": "Probing technique",
+   "page": 380,
+   "question": "How many probing measurements are recorded per tooth?",
+   "answer": "6",
+   "extra": "Distofacial, facial, mesiofacial, distolingual, lingual, mesiolingual."
+  },
+  {
+   "id": "inst-p382-t-01",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 382,
+   "question": "How many cutting edges per working end does an area-specific curette have?",
+   "answer": "1",
+   "extra": "The lower/inner cutting edge is used. Sickle scaler: two cutting edges; universal curette: two parallel cutting edges."
+  },
+  {
+   "id": "inst-p384-t-01",
+   "deck": "Instrumentation",
+   "section": "Specialized curettes",
+   "page": 384,
+   "question": "After Five curette: how many mm longer is its terminal shank than a standard Gracey? (number)",
+   "answer": "3",
+   "extra": "Mini-Five and Micro-Mini Five also have a 3 mm longer terminal shank."
+  }
+ ],
+ "match": [
+  {
+   "id": "inst-p380-m-01",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 380,
+   "prompt": "Match each explorer to its description.",
+   "pairs": [
+    [
+     "#11/12 (area-specific)",
+     "Long complex shank, paired; healthy sulci and deep pockets"
+    ],
+    [
+     "Orban #17",
+     "Single-ended, tip at right angle; mainly anteriors"
+    ],
+    [
+     "Pigtail",
+     "Curved shank, paired; can't reach deep pockets"
+    ]
+   ]
+  },
+  {
+   "id": "inst-p381-m-01",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "prompt": "Match each probe to its markings.",
+   "pairs": [
+    [
+     "Marquis",
+     "3-6-9-12 mm with black bands"
+    ],
+    [
+     "Williams",
+     "1-2-3-5-7-8-9-10 mm (Goldman Fox same)"
+    ],
+    [
+     "Michigan O",
+     "3-6-8 mm"
+    ],
+    [
+     "UNC 15",
+     "Every mm 1–15, bands at 4–5, 9–10, 14–15"
+    ],
+    [
+     "WHO",
+     "0.5 mm ball tip; 3.5, 5.5, 8.5, 11.5 mm"
+    ],
+    [
+     "Naber's",
+     "3 mm intervals"
+    ],
+    [
+     "Florida",
+     "Tenths of a millimeter"
+    ]
+   ]
+  },
+  {
+   "id": "inst-p381-m-02",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "prompt": "Match each probe to its key feature or use.",
+   "pairs": [
+    [
+     "Naber's",
+     "Assessing furcations"
+    ],
+    [
+     "WHO",
+     "PSR screening"
+    ],
+    [
+     "Florida",
+     "Computerized, constant probing force"
+    ],
+    [
+     "Goldman Fox",
+     "Flat beavertail tip"
+    ],
+    [
+     "Novatech",
+     "Right-angle bend for posterior access"
+    ],
+    [
+     "UNC 12/15",
+     "Comprehensive periodontal charting"
+    ]
+   ]
+  },
+  {
+   "id": "inst-p385-m-01",
+   "deck": "Instrumentation",
+   "section": "Specialized curettes",
+   "page": 385,
+   "prompt": "Match each specialized curette to the feature that sets it apart.",
+   "pairs": [
+    [
+     "After Five",
+     "3 mm longer shank, normal blade length"
+    ],
+    [
+     "Mini-Five",
+     "Blade 50% shorter, standard or rigid shank"
+    ],
+    [
+     "Micro-Mini Five",
+     "Blade 20% narrower than Mini-Five, more rigid shank"
+    ]
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "inst-p380-s-01",
+   "deck": "Instrumentation",
+   "section": "Periodontal probe",
+   "page": 380,
+   "prompt": "Sort each probe function into its category.",
+   "categories": [
+    [
+     "Detect",
+     [
+      "Bleeding on probing (BOP)",
+      "Suppuration (pus)",
+      "Hard deposits/roughness (with explorer)"
+     ]
+    ],
+    [
+     "Evaluate",
+     [
+      "Periodontal health via pocket depth"
+     ]
+    ],
+    [
+     "Measure",
+     [
+      "Gingival recession",
+      "Clinical attachment level (CAL)",
+      "Overjet and overbite",
+      "Intraoral/extraoral lesions"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "inst-p383-s-01",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "prompt": "Sort each feature to the instrument it describes.",
+   "categories": [
+    [
+     "Sickle scaler",
+     [
+      "Triangular cross-section",
+      "Pointed back and toe",
+      "Medium-to-large supragingival calculus"
+     ]
+    ],
+    [
+     "Universal curette",
+     [
+      "Two parallel cutting edges",
+      "Face 90° — tilt lower shank toward tooth",
+      "One instrument for all surfaces"
+     ]
+    ],
+    [
+     "Area-specific curette",
+     [
+      "One cutting edge (lower) per working end",
+      "Face 60–70° — lower shank parallel",
+      "Precise root debridement"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "inst-p385-s-01",
+   "deck": "Instrumentation",
+   "section": "Hoe and file",
+   "page": 385,
+   "prompt": "Hoe or file?",
+   "categories": [
+    [
+     "Hoe",
+     [
+      "Heavy, bulky supragingival calculus",
+      "Lingual of mandibular anteriors",
+      "Bulky working end — hard to use subgingivally"
+     ]
+    ],
+    [
+     "File",
+     [
+      "Crushes burnished calculus",
+      "Smooths overhangs",
+      "Series of fine short blades on the head",
+      "Rounded back for subgingival insertion",
+      "Can stretch tissue in narrow pockets"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "inst-p380-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 380,
+   "question": "A hygienist needs to detect subgingival calculus in a 7 mm pocket on the distal of #3. Which explorer is the best choice?",
+   "options": [
+    "A. Shepherd's hook (#23)",
+    "B. Pigtail",
+    "C. Orban (#17)",
+    "D. Area-specific #11/12"
+   ],
+   "answer": "D. Area-specific #11/12",
+   "explanation": "The #11/12 has a long complex shank with paired working ends for exploring deep periodontal pockets, including posteriors. The pigtail's tip cannot reach deep pockets, and the Orban is mainly for anteriors."
+  },
+  {
+   "id": "inst-p381-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "question": "During a periodontal assessment the hygienist suspects Class II furcation involvement on the buccal of #19. Which probe is designed specifically for this assessment?",
+   "options": [
+    "A. UNC 15",
+    "B. Naber's",
+    "C. WHO",
+    "D. Marquis"
+   ],
+   "answer": "B. Naber's",
+   "explanation": "The Naber's probe has curved, paired mirror-image working ends (3 mm intervals) made to enter and assess furcations. The UNC 15 is straight and used for pocket-depth charting, not furcation entry."
+  },
+  {
+   "id": "inst-p381-mcq-02",
+   "deck": "Instrumentation",
+   "section": "Probe types",
+   "page": 381,
+   "question": "A probe with a 0.5 mm ball tip and a colour band from 3.5 to 5.5 mm is used primarily for:",
+   "options": [
+    "A. Comprehensive periodontal charting",
+    "B. Periodontal Screening and Recording (PSR)",
+    "C. Measuring furcations",
+    "D. Computerized probing to 0.1 mm"
+   ],
+   "answer": "B. Periodontal Screening and Recording (PSR)",
+   "explanation": "That is the WHO probe, used for PSR. Comprehensive charting is done with the UNC 12/15 (bands at 4–5, 9–10, 14–15 mm)."
+  },
+  {
+   "id": "inst-p382-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Calculus removal instruments",
+   "page": 382,
+   "question": "A patient has small, tenacious deposits on the apical third of the mesial root surface of #30 in a 6 mm pocket. Which instrument is most appropriate?",
+   "options": [
+    "A. Sickle scaler",
+    "B. Universal curette",
+    "C. Area-specific curette",
+    "D. Hoe"
+   ],
+   "answer": "C. Area-specific curette",
+   "explanation": "Small deposits on the middle or apical third of the root call for an area-specific curette (e.g., Gracey 11/12). A universal curette is for small deposits supragingivally or on the cervical third; sickles and hoes are for supragingival deposits."
+  },
+  {
+   "id": "inst-p383-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Scalers vs curettes",
+   "page": 383,
+   "question": "While instrumenting with a Gracey curette, the cutting edge is at correct angulation when:",
+   "options": [
+    "A. The face is perpendicular to the tooth",
+    "B. The lower shank is tilted toward the tooth",
+    "C. The lower shank is parallel to the tooth surface",
+    "D. The upper shank is parallel to the long axis"
+   ],
+   "answer": "C. The lower shank is parallel to the tooth surface",
+   "explanation": "Gracey (area-specific) faces are offset 60–70° to the lower shank, so a lower shank parallel to the tooth gives correct angulation. Tilting the lower shank toward the tooth is needed for a universal curette (face at 90°)."
+  },
+  {
+   "id": "inst-p383-mcq-02",
+   "deck": "Instrumentation",
+   "section": "Gracey curettes",
+   "page": 383,
+   "question": "Which Gracey curette is designed for the distal surfaces of posterior teeth and is NOT used on anterior teeth?",
+   "options": [
+    "A. Gracey 11/12",
+    "B. Gracey 13/14",
+    "C. Gracey 15/16",
+    "D. Gracey 17/18"
+   ],
+   "answer": "D. Gracey 17/18",
+   "explanation": "Gracey 17/18 is posterior-only, distal surfaces. Gracey 13/14 also reaches posterior distals but is used on anterior mesial/distal surfaces too."
+  },
+  {
+   "id": "inst-p385-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Specialized curettes",
+   "page": 385,
+   "question": "A 7 mm pocket with tight tissue has very tenacious calculus at a narrow furcation entrance. Which curette is the best choice?",
+   "options": [
+    "A. Standard universal curette",
+    "B. After Five curette",
+    "C. Micro-Mini Five curette",
+    "D. Sickle scaler"
+   ],
+   "answer": "C. Micro-Mini Five curette",
+   "explanation": "The Micro-Mini Five has the shortest, narrowest blade and a more rigid shank — made for tenacious calculus, tight tissue and narrow furcations. The After Five has a full-length blade, too long for a narrow furcation."
+  },
+  {
+   "id": "inst-p385-mcq-02",
+   "deck": "Instrumentation",
+   "section": "Implant maintenance",
+   "page": 385,
+   "question": "Which is acceptable during maintenance of a titanium implant?",
+   "options": [
+    "A. Stainless steel Gracey curette with firm lateral pressure",
+    "B. Gentle probing with a metal probe",
+    "C. Standard metal ultrasonic tip",
+    "D. A file to smooth the implant surface"
+   ],
+   "answer": "B. Gentle probing with a metal probe",
+   "explanation": "The book allows a metal probe used gently; metal scaling instruments should be avoided (use plastic, graphite, coated or titanium instruments, or coated/PEEK ultrasonic tips) with light lateral pressure only."
+  }
+ ]
+}

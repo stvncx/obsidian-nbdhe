@@ -1,0 +1,1477 @@
+{
+ "diagrams": [
+  {
+   "name": "comm-p257-exam-types",
+   "title": "Types of oral health examination (ADA Types I–IV)",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 5,
+   "page": 257,
+   "crop": [
+    100,
+    375,
+    1250,
+    960
+   ],
+   "labels": [
+    {
+     "box": [
+      348,
+      544,
+      564,
+      580
+     ],
+     "answer": "Complete Exam",
+     "fit": "none"
+    },
+    {
+     "box": [
+      581,
+      544,
+      767,
+      580
+     ],
+     "answer": "Limited Exam",
+     "fit": "none"
+    },
+    {
+     "box": [
+      815,
+      544,
+      960,
+      580
+     ],
+     "answer": "Inspection",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1030,
+      546,
+      1167,
+      582
+     ],
+     "answer": "Screening",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "comm-p258-learning-ladder",
+   "title": "Learning ladder",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 6,
+   "page": 258,
+   "crop": [
+    180,
+    720,
+    1240,
+    1360
+   ],
+   "labels": [
+    {
+     "box": [
+      345,
+      830,
+      500,
+      878
+     ],
+     "answer": "Habit",
+     "fit": "text"
+    },
+    {
+     "box": [
+      345,
+      918,
+      530,
+      968
+     ],
+     "answer": "Action",
+     "fit": "text"
+    },
+    {
+     "box": [
+      345,
+      1003,
+      665,
+      1050
+     ],
+     "answer": "Involvement",
+     "fit": "text"
+    },
+    {
+     "box": [
+      345,
+      1093,
+      705,
+      1142
+     ],
+     "answer": "Self-interest",
+     "fit": "text"
+    },
+    {
+     "box": [
+      345,
+      1182,
+      620,
+      1228
+     ],
+     "answer": "Awareness",
+     "fit": "text"
+    },
+    {
+     "box": [
+      345,
+      1268,
+      675,
+      1318
+     ],
+     "answer": "Unawareness",
+     "fit": "text"
+    }
+   ],
+   "label_all": false
+  },
+  {
+   "name": "comm-p259-health-belief-model",
+   "title": "Health Belief Model",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 7,
+   "page": 259,
+   "crop": [
+    85,
+    195,
+    1050,
+    725
+   ],
+   "labels": [
+    {
+     "box": [
+      226,
+      262,
+      586,
+      300
+     ],
+     "answer": "Perceived susceptibility",
+     "fit": "text"
+    },
+    {
+     "box": [
+      275,
+      337,
+      556,
+      381
+     ],
+     "answer": "Perceived severity",
+     "fit": "text"
+    },
+    {
+     "box": [
+      188,
+      413,
+      468,
+      453
+     ],
+     "answer": "Perceived benefits",
+     "fit": "text"
+    },
+    {
+     "box": [
+      262,
+      489,
+      531,
+      527
+     ],
+     "answer": "Perceived barriers",
+     "fit": "text"
+    },
+    {
+     "box": [
+      209,
+      564,
+      408,
+      603
+     ],
+     "answer": "Cue to action",
+     "fit": "text"
+    },
+    {
+     "box": [
+      247,
+      636,
+      443,
+      675
+     ],
+     "answer": "Self-efficacy",
+     "fit": "text"
+    }
+   ],
+   "label_all": false
+  },
+  {
+   "name": "comm-p259-maslow",
+   "title": "Maslow's Hierarchy of Needs",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 7,
+   "page": 259,
+   "crop": [
+    640,
+    1590,
+    1240,
+    2030
+   ],
+   "labels": [
+    {
+     "box": [
+      848,
+      1710,
+      1018,
+      1737
+     ],
+     "answer": "Self-actualization",
+     "fit": "none"
+    },
+    {
+     "box": [
+      888,
+      1760,
+      978,
+      1792
+     ],
+     "answer": "Esteem",
+     "fit": "none"
+    },
+    {
+     "box": [
+      876,
+      1820,
+      994,
+      1870
+     ],
+     "answer": "Love and belonging",
+     "fit": "none"
+    },
+    {
+     "box": [
+      891,
+      1903,
+      980,
+      1933
+     ],
+     "answer": "Safety",
+     "fit": "none"
+    },
+    {
+     "box": [
+      808,
+      1976,
+      1058,
+      2007
+     ],
+     "answer": "Physiological needs",
+     "fit": "none"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "comm-p254-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Role of the dental hygienist in public health",
+   "page": 254,
+   "text": "In public health, the dental hygienist as {{c1::advocate}} promotes changes through legislation and policy."
+  },
+  {
+   "id": "comm-p254-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Role of the dental hygienist in public health",
+   "page": 254,
+   "text": "In public health, the dental hygienist as {{c1::researcher}} collects data and communicates scientific findings."
+  },
+  {
+   "id": "comm-p254-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Role of the dental hygienist in public health",
+   "page": 254,
+   "text": "In public health, the dental hygienist as {{c1::administrator}} manages, develops and coordinates oral health programs."
+  },
+  {
+   "id": "comm-p254-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Role of the dental hygienist in public health",
+   "page": 254,
+   "text": "In public health, the dental hygienist as {{c1::clinician}} provides patient care; as {{c2::educator}} she educates students and the community."
+  },
+  {
+   "id": "comm-p254-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Levels of prevention",
+   "page": 254,
+   "text": "{{c1::Primary}} prevention examples: oral prophylaxis, community water fluoridation, athletic mouthguards, pit and fissure sealants, nutrition education."
+  },
+  {
+   "id": "comm-p254-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Levels of prevention",
+   "page": 254,
+   "text": "{{c1::Secondary}} prevention examples: oral cancer screening, tobacco cessation, drilling and filling a cavity, periodontal therapy, silver diamine fluoride for caries.",
+   "extra": "The book also lists periodontal therapy under tertiary prevention in its bullet list; its summary table puts it under secondary."
+  },
+  {
+   "id": "comm-p254-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Levels of prevention",
+   "page": 254,
+   "text": "{{c1::Tertiary}} prevention examples: replacing missing teeth (dentures, implants, bridges), bone and tissue grafts."
+  },
+  {
+   "id": "comm-p254-008",
+   "deck": "Community Oral Health & Research",
+   "section": "Dental caries prevention",
+   "page": 254,
+   "text": "Dental caries is the {{c1::most common chronic childhood disease}} — about {{c2::five}} times more common than asthma — and a major reason children miss school days."
+  },
+  {
+   "id": "comm-p254-009",
+   "deck": "Community Oral Health & Research",
+   "section": "Dental caries prevention",
+   "page": 254,
+   "text": "Low {{c1::socioeconomic status}} is strongly related to caries risk."
+  },
+  {
+   "id": "comm-p254-010",
+   "deck": "Community Oral Health & Research",
+   "section": "Dental caries prevention",
+   "page": 254,
+   "text": "Root caries risk increases with age because of {{c1::gingival recession}}, {{c2::medications causing xerostomia}}, and lack of oral care."
+  },
+  {
+   "id": "comm-p254-011",
+   "deck": "Community Oral Health & Research",
+   "section": "Dental caries prevention",
+   "page": 254,
+   "text": "Caries prevention through dietary education: e.g., helping school children differentiate {{c1::cariogenic}} food from less cariogenic food.",
+   "extra": "Other caries-prevention measures in the book: sealants, fluoride therapy (e.g., fluoride varnish to create stronger teeth), oral hygiene education (e.g., brushing techniques)."
+  },
+  {
+   "id": "comm-p254-012",
+   "deck": "Community Oral Health & Research",
+   "section": "Periodontal disease prevention",
+   "page": 254,
+   "text": "Periodontal diseases affect approximately {{c1::half}} of the U.S. population; about {{c2::70%}} of patients 65 and older have periodontitis."
+  },
+  {
+   "id": "comm-p254-013",
+   "deck": "Community Oral Health & Research",
+   "section": "Periodontal disease prevention",
+   "page": 254,
+   "text": "{{c1::Bacteria}} are the primary cause of periodontal disease."
+  },
+  {
+   "id": "comm-p254-014",
+   "deck": "Community Oral Health & Research",
+   "section": "Periodontal disease prevention",
+   "page": 254,
+   "text": "{{c1::Smoking}} is one of the most important risk factors for periodontal disease."
+  },
+  {
+   "id": "comm-p254-015",
+   "deck": "Community Oral Health & Research",
+   "section": "Periodontal disease prevention",
+   "page": 254,
+   "text": "Other periodontal disease risk factors: gender ({{c1::men}}), {{c2::rural}} living, low socioeconomic status and low education level."
+  },
+  {
+   "id": "comm-p254-016",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral cancer prevention",
+   "page": 254,
+   "text": "The major risk factors for oral cancer are {{c1::smoking}} and {{c1::alcohol}} consumption."
+  },
+  {
+   "id": "comm-p254-017",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral cancer prevention",
+   "page": 254,
+   "text": "5A tobacco-cessation model: {{c1::Ask}} about tobacco use at every visit; {{c2::Advise}} all tobacco users to quit."
+  },
+  {
+   "id": "comm-p254-018",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral cancer prevention",
+   "page": 254,
+   "text": "5A tobacco-cessation model: {{c1::Assess}} willingness to quit; {{c2::Assist}} the patient in quitting; {{c3::Arrange}} follow-up contact."
+  },
+  {
+   "id": "comm-p254-019",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral cancer prevention",
+   "page": 254,
+   "text": "Tobacco education should start at a {{c1::young}} age: nearly {{c2::90%}} of adults who smoke daily had their first cigarette by age {{c3::18}} (CDC)."
+  },
+  {
+   "id": "comm-p255-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral cancer prevention",
+   "page": 255,
+   "text": "Teach patients {{c1::self-examination}} of the oral cavity to detect abnormalities such as pigmentation."
+  },
+  {
+   "id": "comm-p255-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Systemic vs topical fluoride",
+   "page": 255,
+   "text": "{{c1::Systemic}} fluoride is swallowed, circulates through the body, and becomes part of the developing tooth structure {{c2::before the teeth erupt}}.",
+   "extra": "WakeUpMemory: Systemic = \"Swallowed\"."
+  },
+  {
+   "id": "comm-p255-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Systemic vs topical fluoride",
+   "page": 255,
+   "text": "{{c1::Topical}} fluoride is applied directly to the tooth surface after the teeth have erupted; it strengthens enamel and helps {{c2::reverse early decay}}.",
+   "extra": "WakeUpMemory: Topical = \"on TOP of surfaces\"."
+  },
+  {
+   "id": "comm-p255-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Community water fluoridation",
+   "page": 255,
+   "text": "Community water fluoridation is the single {{c1::most effective}} public health measure to prevent tooth decay; the CDC named it one of the {{c2::10}} greatest public health achievements of the 20th century."
+  },
+  {
+   "id": "comm-p255-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Community water fluoridation",
+   "page": 255,
+   "text": "Community water fluoridation is very inexpensive: {{c1::$0.12 to $1.16}} per individual per year; a lifetime of fluoridated water costs less than {{c2::one dental filling}}."
+  },
+  {
+   "id": "comm-p255-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Community water fluoridation",
+   "page": 255,
+   "text": "If a patient's teeth show {{c1::fluorosis}}, check the fluoride level in the drinking water — fluoride levels in {{c2::well water}} vary."
+  },
+  {
+   "id": "comm-p255-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Community water fluoridation",
+   "page": 255,
+   "text": "Bottled water usually contains less than {{c1::0.3}} ppm fluoride; FDA regulations require listing fluoride only if it is {{c2::added during processing}}."
+  },
+  {
+   "id": "comm-p255-008",
+   "deck": "Community Oral Health & Research",
+   "section": "School water fluoridation",
+   "page": 255,
+   "text": "School water fluoridation adds fluoride to the drinking water supply at schools; it is useful in areas where {{c1::community water fluoridation is not available}}."
+  },
+  {
+   "id": "comm-p255-009",
+   "deck": "Community Oral Health & Research",
+   "section": "School water fluoridation",
+   "page": 255,
+   "text": "In school water fluoridation the fluoride concentration is {{c1::4–5 times}} higher than community water levels because children are at school only part of each day and year."
+  },
+  {
+   "id": "comm-p255-010",
+   "deck": "Community Oral Health & Research",
+   "section": "School water fluoridation",
+   "page": 255,
+   "text": "School water fluoridation: children should start in {{c1::earlier}} grades for maximum effect, and administrators require {{c2::parents' consent}}."
+  },
+  {
+   "id": "comm-p255-011",
+   "deck": "Community Oral Health & Research",
+   "section": "School fluoride rinse program",
+   "page": 255,
+   "text": "A school fluoride rinse program is a supervised program in which children {{c1::rinse their mouths with a fluoride solution}}; it is useful where community water fluoridation is not available but is no longer widely used because it is not {{c2::cost-effective}}."
+  },
+  {
+   "id": "comm-p255-012",
+   "deck": "Community Oral Health & Research",
+   "section": "School fluoride rinse program",
+   "page": 255,
+   "text": "School fluoride rinse: concentration {{c1::0.2%}}; rinse for {{c2::60 seconds}} once a {{c3::week}}."
+  },
+  {
+   "id": "comm-p255-013",
+   "deck": "Community Oral Health & Research",
+   "section": "School fluoride rinse program",
+   "page": 255,
+   "text": "In a school fluoride rinse program, {{c1::non-dental personnel}} (e.g., a teacher) can provide the rinse; administrators require parents' consent."
+  },
+  {
+   "id": "comm-p255-014",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 255,
+   "text": "The age at which fluoride toothpaste should be used may vary according to the patient's {{c1::socioeconomic status}} or {{c1::caries risk}}."
+  },
+  {
+   "id": "comm-p255-015",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 255,
+   "text": "Fluoride toothpaste amount: younger than 3 years — a {{c1::smear layer (rice-sized)}} amount; 3–6 years — a {{c2::pea-size}} amount."
+  },
+  {
+   "id": "comm-p255-016",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 255,
+   "text": "Fluoride varnish is well tolerated (children and seniors), easy to apply and needs no special equipment; apply every {{c1::3}} months for high caries risk and every {{c2::6}} months for moderate caries risk."
+  },
+  {
+   "id": "comm-p255-017",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 255,
+   "text": "Fluoride varnish is {{c1::5% sodium fluoride (NaF)}}, {{c2::22,600}} ppm; it is the {{c3::most common}} professional fluoride today — adheres to teeth with minimal ingestion.",
+   "extra": "Typical use: high caries risk (children & seniors); easy application in clinics/schools."
+  },
+  {
+   "id": "comm-p256-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 256,
+   "text": "Professional fluoride gel or foam in trays: {{c1::1.23% acidulated phosphate fluoride (APF)}}, {{c2::12,300}} ppm.",
+   "extra": "Less popular now."
+  },
+  {
+   "id": "comm-p256-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 256,
+   "text": "Avoid APF fluoride in patients with {{c1::porcelain, composites or sealants}} because it may {{c2::etch}} these surfaces."
+  },
+  {
+   "id": "comm-p256-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 256,
+   "text": "Professional {{c1::2% NaF}} gel ({{c2::9,050}} ppm) is applied in trays or brushed on; a {{c3::4}}-minute tray application, safe for restorations."
+  },
+  {
+   "id": "comm-p256-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 256,
+   "text": "OTC toothpaste (NaF, SnF<sub>2</sub>, etc.) contains {{c1::1,000–1,500}} ppm fluoride; for daily home use by all age groups — {{c2::supervising young children}} is critical."
+  },
+  {
+   "id": "comm-p256-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 256,
+   "text": "Prescription toothpaste is {{c1::5,000}} ppm NaF, for adults with {{c2::high caries risk or xerostomia}}; used daily instead of OTC toothpaste."
+  },
+  {
+   "id": "comm-p256-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 256,
+   "text": "OTC fluoride rinse (NaF or SnF<sub>2</sub>) contains {{c1::200–1,000}} ppm; for moderate-risk patients, {{c2::orthodontic appliances}}, early demineralization; typically used once or twice daily.",
+   "extra": "Not for children under 6 (risk of swallowing)."
+  },
+  {
+   "id": "comm-p256-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 256,
+   "text": "Prescription fluoride rinse is {{c1::900}} ppm ({{c2::0.2%}}) NaF, for high-risk patients."
+  },
+  {
+   "id": "comm-p256-008",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "text": "Daily dietary fluoride supplements (drops or tablets) are given to children from {{c1::6 months}} to {{c2::16 years}} of age, in areas {{c3::without fluoridated water}}."
+  },
+  {
+   "id": "comm-p256-009",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "text": "The dose of a fluoride supplement depends on the child's {{c1::age}} and the {{c2::fluoride level already in the drinking water}}."
+  },
+  {
+   "id": "comm-p256-010",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "text": "The risk of {{c1::dental fluorosis}} increases if fluoride supplements are taken above recommended amounts."
+  },
+  {
+   "id": "comm-p256-011",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "text": "No fluoride supplement is given from birth to {{c1::6 months}}, or at any age when the drinking water contains more than {{c2::0.6}} ppm fluoride."
+  },
+  {
+   "id": "comm-p256-012",
+   "deck": "Community Oral Health & Research",
+   "section": "Community programs vs private practice",
+   "page": 256,
+   "text": "Community programs parallel private practice: needs assessment/survey ↔ {{c1::assessment/examination}}; analysis/prioritization of needs ↔ {{c2::diagnosis}}; financing ↔ {{c3::payment}}.",
+   "extra": "Program planning ↔ treatment planning; program implementation ↔ treatment implementation; evaluation ↔ evaluation."
+  },
+  {
+   "id": "comm-p256-013",
+   "deck": "Community Oral Health & Research",
+   "section": "Assessment",
+   "page": 256,
+   "text": "Community assessment establishes a {{c1::baseline}}, {{c2::quantifies}} the issue, defines scope/severity and root cause, and creates a community profile."
+  },
+  {
+   "id": "comm-p257-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Assessment",
+   "page": 257,
+   "text": "Assessment data: {{c1::population characteristics}} (race, geographic distribution, education, income), {{c2::resources}} (facilities, funding, policies, labor) and {{c3::oral diseases}} (rate of tooth decay, oral cancer)."
+  },
+  {
+   "id": "comm-p257-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Assessment",
+   "page": 257,
+   "text": "Assessment method: the {{c1::interview}} is time-consuming and not adequate for large groups.",
+   "extra": "Other assessment methods: questionnaires, reviewing existing documents."
+  },
+  {
+   "id": "comm-p257-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Assessment",
+   "page": 257,
+   "text": "Assessment method: {{c1::direct observation}} is the best method for detailed assessment and is unbiased by the subject, but is time-consuming and not cost-effective for large groups."
+  },
+  {
+   "id": "comm-p257-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of oral health examination",
+   "page": 257,
+   "text": "Type I ({{c1::complete}}) examination: mouth mirror, explorer, light, radiographs, study models and tests; {{c2::seldom}} used in a public health setting."
+  },
+  {
+   "id": "comm-p257-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of oral health examination",
+   "page": 257,
+   "text": "Type II (limited) examination: mouth mirror, explorer, light, {{c1::bitewings and selected periapicals}}."
+  },
+  {
+   "id": "comm-p257-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of oral health examination",
+   "page": 257,
+   "text": "Type III ({{c1::inspection}}) examination: mouth mirror, explorer and light only; the {{c2::most used}} method in public health surveys."
+  },
+  {
+   "id": "comm-p257-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of oral health examination",
+   "page": 257,
+   "text": "Type IV (screening) examination: light and {{c1::tongue depressor}} only; too {{c2::unreliable}} for public health surveys."
+  },
+  {
+   "id": "comm-p257-008",
+   "deck": "Community Oral Health & Research",
+   "section": "Assessment",
+   "page": 257,
+   "text": "{{c1::Barriers to care}} are anything that limits the ability to receive dental services, e.g., age, language, lack of transportation, lack of a dental provider, attitudes, beliefs."
+  },
+  {
+   "id": "comm-p257-009",
+   "deck": "Community Oral Health & Research",
+   "section": "Analysis / diagnosis",
+   "page": 257,
+   "text": "Program analysis is also called {{c1::prioritization of needs}}: determining which oral health problems are most important and where to focus limited resources."
+  },
+  {
+   "id": "comm-p257-010",
+   "deck": "Community Oral Health & Research",
+   "section": "Analysis / diagnosis",
+   "page": 257,
+   "text": "{{c1::Normative}} need tells what people clinically need, based on exams or professional judgment (e.g., how many people need a filling or periodontal treatment)."
+  },
+  {
+   "id": "comm-p257-011",
+   "deck": "Community Oral Health & Research",
+   "section": "Analysis / diagnosis",
+   "page": 257,
+   "text": "{{c1::Use}} shows what services people are receiving over a certain time (e.g., the percentage of children who received fluoride varnish in the past year)."
+  },
+  {
+   "id": "comm-p257-012",
+   "deck": "Community Oral Health & Research",
+   "section": "Analysis / diagnosis",
+   "page": 257,
+   "text": "{{c1::Demand}} reflects how many people need care AND are actively seeking it — perceived need turning into demand (e.g., parents requesting sealants for their children)."
+  },
+  {
+   "id": "comm-p257-013",
+   "deck": "Community Oral Health & Research",
+   "section": "Planning",
+   "page": 257,
+   "text": "Program planning includes setting {{c1::goals}} and {{c1::objectives}}, finding resources and organizing logistics."
+  },
+  {
+   "id": "comm-p257-014",
+   "deck": "Community Oral Health & Research",
+   "section": "Planning",
+   "page": 257,
+   "text": "A {{c1::goal}} describes the major purpose of the plan (e.g., improve oral home care of children at Orange Elementary School); an {{c2::objective}} describes specific details to achieve it (e.g., children will demonstrate circular brushing technique by the end of the program)."
+  },
+  {
+   "id": "comm-p257-015",
+   "deck": "Community Oral Health & Research",
+   "section": "Planning",
+   "page": 257,
+   "text": "Objectives should be specific (provide {{c1::details}}), measurable ({{c2::outcomes}} can be compared) and time-limited (an {{c3::endpoint}} is stated)."
+  },
+  {
+   "id": "comm-p257-016",
+   "deck": "Community Oral Health & Research",
+   "section": "Implementation",
+   "page": 257,
+   "text": "{{c1::Implementation}} is the action phase of a program, where everything planned is put into motion."
+  },
+  {
+   "id": "comm-p257-017",
+   "deck": "Community Oral Health & Research",
+   "section": "Implementation",
+   "page": 257,
+   "text": "{{c1::Formal}} delivery is structured and instructor-led (lectures, group discussions, dental services); {{c2::informal}} delivery is passive or self-directed (videos, pamphlets, posters)."
+  },
+  {
+   "id": "comm-p258-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Evaluation",
+   "page": 258,
+   "text": "Program evaluation measures success by reviewing whether the {{c1::goals/objectives}} were achieved and what {{c2::impact}} the program had on the target population."
+  },
+  {
+   "id": "comm-p258-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Evaluation",
+   "page": 258,
+   "text": "Formal evaluation methods (tests, surveys, clinical exams) are {{c1::quantitative}}; informal methods (feedback, interviews, observations) are {{c2::qualitative}}."
+  },
+  {
+   "id": "comm-p258-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Theories in psychology",
+   "page": 258,
+   "text": "Patient-using theories are theoretical models or frameworks that explain how patients {{c1::engage with and manage their health care}}; dental hygiene uses them to guide patient-centered care, motivation and {{c2::behavior change}}."
+  },
+  {
+   "id": "comm-p258-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning ladder",
+   "page": 258,
+   "text": "Learning ladder — {{c1::unawareness}}: the patient lacks information or has incorrect information (e.g., believes brushing once a day is enough).",
+   "extra": "Mnemonic (top → bottom): Hippos Are Into Snacks And Umbrellas."
+  },
+  {
+   "id": "comm-p258-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning ladder",
+   "page": 258,
+   "text": "Learning ladder — {{c1::awareness}}: the patient knows a problem exists but hasn't taken any action yet (e.g., hears flossing prevents gum disease but doesn't think it applies to them)."
+  },
+  {
+   "id": "comm-p258-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning ladder",
+   "page": 258,
+   "text": "Learning ladder — {{c1::self-interest}}: the patient understands the issue and begins to show personal interest in making a change (e.g., notices bleeding and asks if flossing will help)."
+  },
+  {
+   "id": "comm-p258-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning ladder",
+   "page": 258,
+   "text": "Learning ladder — {{c1::involvement}}: the patient wants more information and is willing to act (e.g., asks about the cost of water flossing devices)."
+  },
+  {
+   "id": "comm-p258-008",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning ladder",
+   "page": 258,
+   "text": "Learning ladder — {{c1::action}}: the patient takes steps to solve the problem (e.g., begins to use the water flosser once a week)."
+  },
+  {
+   "id": "comm-p258-009",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning ladder",
+   "page": 258,
+   "text": "Learning ladder — {{c1::habit}}: the behavior becomes part of the patient's lifestyle and the change is sustained (e.g., uses a water flosser daily at home)."
+  },
+  {
+   "id": "comm-p259-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Health Belief Model",
+   "page": 259,
+   "text": "The Health Belief Model explains how a patient's {{c1::beliefs}} influence their behavior; it helps dental professionals understand and {{c2::predict}} whether a patient will take action to improve oral health."
+  },
+  {
+   "id": "comm-p259-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning domains",
+   "page": 259,
+   "text": "Learning domains describe different ways people learn, helping dental professionals {{c1::tailor education}} to the patient's needs."
+  },
+  {
+   "id": "comm-p259-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Locus of control",
+   "page": 259,
+   "text": "Locus of control is how much control a person {{c1::feels}} they have over their health and decisions."
+  },
+  {
+   "id": "comm-p259-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of needs",
+   "page": 259,
+   "text": "Maslow's hierarchy of needs: people must meet {{c1::basic needs}} before they can focus on {{c2::higher-level goals}} like learning and behavior change."
+  }
+ ],
+ "basic": [
+  {
+   "id": "comm-p254-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Levels of prevention",
+   "page": 254,
+   "front": "Primary prevention",
+   "back": "Preventing disease before it even starts",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p254-b-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Levels of prevention",
+   "page": 254,
+   "front": "Secondary prevention",
+   "back": "Early detection and prompt intervention, before significant damage occurs",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p254-b-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Levels of prevention",
+   "page": 254,
+   "front": "Tertiary prevention",
+   "back": "Treatment and rehabilitation: returning function",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p254-b-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Levels of prevention",
+   "page": 254,
+   "front": "A dental hygienist starts a school fluoride varnish program because she has observed dental caries in the group. Which level of prevention is this?",
+   "back": "Secondary prevention (responding to disease already observed)",
+   "reverse": false,
+   "extra": "If she uses the same program to PREVENT caries (none observed yet), it is primary prevention."
+  },
+  {
+   "id": "comm-p256-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "front": "Do prenatal fluoride supplements (taken by the mother during pregnancy) benefit the unborn child?",
+   "back": "No — there is no proven benefit.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "comm-p258-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Evaluation",
+   "page": 258,
+   "front": "Formative evaluation",
+   "back": "Evaluation done DURING a program to make improvements along the way (e.g., a weekly survey)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p258-b-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Evaluation",
+   "page": 258,
+   "front": "Summative evaluation",
+   "back": "Evaluation done AFTER a program to assess its overall success (e.g., a final survey)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p259-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning domains",
+   "page": 259,
+   "front": "Cognitive domain",
+   "back": "Learning domain of knowledge and intellectual skills",
+   "reverse": true,
+   "extra": "e.g., a clinician gives a brochure explaining different brushing techniques for the patient to review."
+  },
+  {
+   "id": "comm-p259-b-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning domains",
+   "page": 259,
+   "front": "Affective domain",
+   "back": "Learning domain of attitudes, values and feelings toward a topic",
+   "reverse": true,
+   "extra": "e.g., a teacher discusses the benefits of fluoride with parents to shape their attitudes and support."
+  },
+  {
+   "id": "comm-p259-b-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning domains",
+   "page": 259,
+   "front": "Psychomotor domain",
+   "back": "Learning domain of physical movement and use of motor skills",
+   "reverse": true,
+   "extra": "e.g., a hygienist demonstrates proper brushing and the patient practices in front of her."
+  },
+  {
+   "id": "comm-p259-b-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Locus of control",
+   "page": 259,
+   "front": "Internal locus of control",
+   "back": "The patient believes they have personal control over their health",
+   "reverse": true,
+   "extra": "e.g., \"If I floss every day, I can avoid gum disease.\""
+  },
+  {
+   "id": "comm-p259-b-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Locus of control",
+   "page": 259,
+   "front": "External locus of control",
+   "back": "The patient believes their health is controlled by external forces like fate, luck or genetics",
+   "reverse": true,
+   "extra": "e.g., \"No matter what I do, I always get cavities; I have bad genes.\""
+  }
+ ],
+ "typein": [
+  {
+   "id": "comm-p254-t-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Dental caries prevention",
+   "page": 254,
+   "question": "Sealants give the best results when applied within how many months of molar eruption? (number)",
+   "answer": "6",
+   "extra": "Applied on pits and fissures."
+  },
+  {
+   "id": "comm-p255-t-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Systemic vs topical fluoride",
+   "page": 255,
+   "question": "1 ppm of fluoride equals how many mg/L? (number)",
+   "answer": "1",
+   "extra": "1 ppm = 1 mg/L = 1 drop (0.05 mL) of fluoride in 50 liters of water (about a large bathtub)."
+  },
+  {
+   "id": "comm-p255-t-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Community water fluoridation",
+   "page": 255,
+   "question": "What is the recommended fluoride level for community water? (ppm, number)",
+   "answer": "0.7",
+   "extra": "Previously 0.7–1.2 ppm."
+  },
+  {
+   "id": "comm-p255-t-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Community water fluoridation",
+   "page": 255,
+   "question": "Water containing more than how many ppm of fluoride undergoes defluoridation? (number)",
+   "answer": "2",
+   "extra": ""
+  },
+  {
+   "id": "comm-p255-t-04",
+   "deck": "Community Oral Health & Research",
+   "section": "School fluoride rinse program",
+   "page": 255,
+   "question": "A fluoride rinse is not advised for children under what age? (years, number)",
+   "answer": "6",
+   "extra": "Or until the child can properly spit."
+  },
+  {
+   "id": "comm-p256-t-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "question": "Fluoride supplement: child 6 months–3 years, drinking water &lt;0.3 ppm. Daily dose? (mg/day, number)",
+   "answer": "0.25",
+   "extra": "At 0.3 ppm or more: none."
+  },
+  {
+   "id": "comm-p256-t-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "question": "Fluoride supplement: child 3–6 years, drinking water &lt;0.3 ppm. Daily dose? (mg/day, number)",
+   "answer": "0.50",
+   "extra": ""
+  },
+  {
+   "id": "comm-p256-t-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "question": "Fluoride supplement: child 3–6 years, drinking water 0.3–0.6 ppm. Daily dose? (mg/day, number)",
+   "answer": "0.25",
+   "extra": ""
+  },
+  {
+   "id": "comm-p256-t-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "question": "Fluoride supplement: child 6–16 years, drinking water &lt;0.3 ppm. Daily dose? (mg/day, number)",
+   "answer": "1.0",
+   "extra": ""
+  },
+  {
+   "id": "comm-p256-t-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "question": "Fluoride supplement: child 6–16 years, drinking water 0.3–0.6 ppm. Daily dose? (mg/day, number)",
+   "answer": "0.50",
+   "extra": ""
+  },
+  {
+   "id": "comm-p256-t-06",
+   "deck": "Community Oral Health & Research",
+   "section": "Fluoride supplementation",
+   "page": 256,
+   "question": "How many mg of sodium fluoride contain 1 mg of fluoride ion? (number)",
+   "answer": "2.2",
+   "extra": ""
+  },
+  {
+   "id": "comm-p258-t-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning ladder",
+   "page": 258,
+   "question": "How many stages does the learning ladder have? (number)",
+   "answer": "6",
+   "extra": "The stages a person goes through when adopting a new health behavior; helps the clinician assess where the patient stands."
+  }
+ ],
+ "match": [
+  {
+   "id": "comm-p254-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Role of the dental hygienist in public health",
+   "page": 254,
+   "prompt": "Match each public-health role of the dental hygienist to what it does.",
+   "pairs": [
+    [
+     "Clinician",
+     "Provides patient care"
+    ],
+    [
+     "Educator",
+     "Educates students and the community"
+    ],
+    [
+     "Advocate",
+     "Promotes change through legislation and policy"
+    ],
+    [
+     "Researcher",
+     "Collects data, communicates scientific findings"
+    ],
+    [
+     "Administrator",
+     "Manages, develops and coordinates oral health programs"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p256-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 256,
+   "prompt": "Match each fluoride product to its concentration.",
+   "pairs": [
+    [
+     "Varnish (5% NaF)",
+     "22,600 ppm"
+    ],
+    [
+     "APF gel/foam (1.23%)",
+     "12,300 ppm"
+    ],
+    [
+     "2% NaF gel",
+     "9,050 ppm"
+    ],
+    [
+     "Rx toothpaste",
+     "5,000 ppm"
+    ],
+    [
+     "OTC toothpaste",
+     "1,000–1,500 ppm"
+    ],
+    [
+     "Rx rinse (0.2% NaF)",
+     "900 ppm"
+    ],
+    [
+     "OTC rinse",
+     "200–1,000 ppm"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p259-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Health Belief Model",
+   "page": 259,
+   "prompt": "Match each Health Belief Model construct to the patient's statement.",
+   "pairs": [
+    [
+     "Perceived susceptibility",
+     "\"I could get cavities if I don't floss.\""
+    ],
+    [
+     "Perceived severity",
+     "\"Gum disease could cause me to lose teeth.\""
+    ],
+    [
+     "Perceived benefits",
+     "\"Flossing will keep my gums healthy.\""
+    ],
+    [
+     "Perceived barriers",
+     "\"It only takes a minute to floss, and it's worth it.\""
+    ],
+    [
+     "Cue to action",
+     "Pain, a dentist's advice, a health campaign"
+    ],
+    [
+     "Self-efficacy",
+     "\"I know how to floss correctly and I can stick to it.\""
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "comm-p254-o-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral cancer prevention",
+   "page": 254,
+   "prompt": "Put the 5A tobacco-cessation steps in order.",
+   "items": [
+    "Ask",
+    "Advise",
+    "Assess",
+    "Assist",
+    "Arrange"
+   ]
+  },
+  {
+   "id": "comm-p256-o-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Community programs vs private practice",
+   "page": 256,
+   "prompt": "Put the steps of developing a community oral health program in order.",
+   "items": [
+    "Needs assessment / survey",
+    "Analysis (prioritization of needs)",
+    "Program planning",
+    "Program implementation",
+    "Financing",
+    "Evaluation"
+   ]
+  },
+  {
+   "id": "comm-p258-o-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning ladder",
+   "page": 258,
+   "prompt": "Put the learning-ladder stages in order (bottom → top).",
+   "items": [
+    "Unawareness",
+    "Awareness",
+    "Self-interest",
+    "Involvement",
+    "Action",
+    "Habit"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "comm-p254-s-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Levels of prevention",
+   "page": 254,
+   "prompt": "Sort each measure by level of prevention.",
+   "categories": [
+    [
+     "Primary",
+     [
+      "Water fluoridation",
+      "Pit and fissure sealants",
+      "Athletic mouthguard",
+      "Nutrition education"
+     ]
+    ],
+    [
+     "Secondary",
+     [
+      "Oral cancer screening",
+      "Tobacco cessation",
+      "Silver diamine fluoride for caries",
+      "Filling a cavity"
+     ]
+    ],
+    [
+     "Tertiary",
+     [
+      "Dentures",
+      "Implants",
+      "Bone and tissue grafts"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "comm-p255-s-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Systemic vs topical fluoride",
+   "page": 255,
+   "prompt": "Sort the fluoride sources: systemic or topical?",
+   "categories": [
+    [
+     "Systemic",
+     [
+      "Community water fluoridation",
+      "Fluoride tablets or drops",
+      "Food/drinks prepared with fluoridated water"
+     ]
+    ],
+    [
+     "Topical",
+     [
+      "Toothpaste",
+      "Fluoride rinse",
+      "Fluoride varnish",
+      "Fluoride gel"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "comm-p258-s-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Evaluation",
+   "page": 258,
+   "prompt": "Sort: formal or informal?",
+   "categories": [
+    [
+     "Formal",
+     [
+      "Lecture (delivery)",
+      "Group discussion (delivery)",
+      "Test (evaluation)",
+      "Clinical exam (evaluation)"
+     ]
+    ],
+    [
+     "Informal",
+     [
+      "Pamphlet (delivery)",
+      "Poster (delivery)",
+      "Feedback (evaluation)",
+      "Observation (evaluation)"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "comm-p254-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Levels of prevention",
+   "page": 254,
+   "question": "A community clinic replaces missing teeth with partial dentures for low-income seniors. This is an example of which level of prevention?",
+   "options": [
+    "A. Primary",
+    "B. Secondary",
+    "C. Tertiary",
+    "D. Quaternary"
+   ],
+   "answer": "C. Tertiary",
+   "explanation": "Tertiary prevention restores function and rehabilitates after disease has caused damage (dentures, implants, bridges, grafts). Secondary prevention would be early detection/intervention, such as an oral cancer screening or filling a cavity."
+  },
+  {
+   "id": "comm-p254-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral cancer prevention",
+   "page": 254,
+   "question": "A patient who smokes 10 cigarettes a day says he knows he should stop but is not sure he wants to try yet. Following the 5A model, the hygienist has just asked and advised. What is the NEXT step?",
+   "options": [
+    "A. Arrange follow-up contact",
+    "B. Assess his willingness to quit",
+    "C. Assist him with a quit plan",
+    "D. Ask about tobacco use again"
+   ],
+   "answer": "B. Assess his willingness to quit",
+   "explanation": "The 5As run Ask → Advise → Assess → Assist → Arrange. After advising, the clinician assesses willingness to quit; assisting comes only after that, and arranging follow-up is last."
+  },
+  {
+   "id": "comm-p255-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Community water fluoridation",
+   "page": 255,
+   "question": "Which statement about community water fluoridation is correct?",
+   "options": [
+    "A. The recommended level is 1.2 ppm",
+    "B. It costs more per person than a single dental filling over a lifetime",
+    "C. The recommended level is 0.7 ppm",
+    "D. Bottled water must always list its fluoride content"
+   ],
+   "answer": "C. The recommended level is 0.7 ppm",
+   "explanation": "The current recommendation is 0.7 ppm (previously 0.7–1.2). A lifetime of fluoridated water costs LESS than one filling, and the FDA requires fluoride listing on bottled water only if fluoride was added during processing."
+  },
+  {
+   "id": "comm-p256-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Topical fluoride",
+   "page": 256,
+   "question": "A high-caries-risk patient has several porcelain veneers and composite restorations. Which professional fluoride should the hygienist AVOID?",
+   "options": [
+    "A. 5% NaF varnish",
+    "B. 2% NaF gel",
+    "C. 1.23% APF gel",
+    "D. 5,000 ppm NaF prescription toothpaste"
+   ],
+   "answer": "C. 1.23% APF gel",
+   "explanation": "Acidulated phosphate fluoride (APF) may etch porcelain, composites and sealants. Neutral sodium fluoride products (varnish, 2% NaF gel) are safe for restorations."
+  },
+  {
+   "id": "comm-p257-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of oral health examination",
+   "page": 257,
+   "question": "A dental hygienist is planning an oral health survey of 2,000 schoolchildren. Which type of examination is most commonly used for this purpose?",
+   "options": [
+    "A. Type I — complete examination",
+    "B. Type II — limited examination",
+    "C. Type III — inspection",
+    "D. Type IV — screening"
+   ],
+   "answer": "C. Type III — inspection",
+   "explanation": "Type III (inspection: mirror, explorer, light) is the most used method in public health surveys. Type IV screening (light + tongue depressor) is too unreliable for surveys; Type I needs radiographs and study models and is seldom used in public health."
+  },
+  {
+   "id": "comm-p257-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Analysis / diagnosis",
+   "page": 257,
+   "question": "Parents at an elementary school sign a petition asking the district to provide dental sealants for their children. This best illustrates which concept?",
+   "options": [
+    "A. Normative need",
+    "B. Use",
+    "C. Demand",
+    "D. Barrier to care"
+   ],
+   "answer": "C. Demand",
+   "explanation": "Demand = people who need care and actively seek it (perceived need turning into demand). Normative need is defined by professionals from exams; use is the services actually received over a time period."
+  },
+  {
+   "id": "comm-p257-mcq-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Planning",
+   "page": 257,
+   "question": "\"By the end of the 6-week program, 80% of third graders will demonstrate the circular brushing technique.\" This statement is best described as a(n):",
+   "options": [
+    "A. Goal",
+    "B. Objective",
+    "C. Formative evaluation",
+    "D. Needs assessment"
+   ],
+   "answer": "B. Objective",
+   "explanation": "It is an objective: specific, measurable (80%) and time-limited (6 weeks). A goal states the broad major purpose, e.g., 'improve oral home care of third graders'."
+  },
+  {
+   "id": "comm-p258-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Evaluation",
+   "page": 258,
+   "question": "Halfway through a school brushing program, the hygienist surveys teachers each week and adjusts her lessons based on their comments. This is an example of:",
+   "options": [
+    "A. Summative evaluation",
+    "B. Formative evaluation",
+    "C. Normative need",
+    "D. Program implementation"
+   ],
+   "answer": "B. Formative evaluation",
+   "explanation": "Formative evaluation happens during the program to make improvements along the way. Summative evaluation happens after the program to judge overall success."
+  },
+  {
+   "id": "comm-p258-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning ladder",
+   "page": 258,
+   "question": "After learning her gums bleed, a patient asks the hygienist which interdental brushes are best and how much they cost. On the learning ladder she is at which stage?",
+   "options": [
+    "A. Awareness",
+    "B. Self-interest",
+    "C. Involvement",
+    "D. Action"
+   ],
+   "answer": "C. Involvement",
+   "explanation": "Involvement = the patient wants more information and is willing to act (e.g., asking about cost of devices). Self-interest is the earlier step of first showing personal interest; action means she has actually started using the aid."
+  },
+  {
+   "id": "comm-p259-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Health Belief Model",
+   "page": 259,
+   "question": "A patient began flossing daily only after her sister was diagnosed with severe periodontitis. In the Health Belief Model, the sister's diagnosis served as a:",
+   "options": [
+    "A. Perceived barrier",
+    "B. Cue to action",
+    "C. Self-efficacy",
+    "D. Perceived severity"
+   ],
+   "answer": "B. Cue to action",
+   "explanation": "A cue to action is a trigger or reminder that prompts the person to act (pain, dentist's advice, a health campaign, an event). Perceived severity is the belief that the consequences are serious — not the trigger itself."
+  },
+  {
+   "id": "comm-p259-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Learning domains",
+   "page": 259,
+   "question": "A hygienist hands a patient a power toothbrush, demonstrates the technique, then watches the patient practice it in the chair. Which learning domain is being addressed?",
+   "options": [
+    "A. Cognitive",
+    "B. Affective",
+    "C. Psychomotor",
+    "D. Social"
+   ],
+   "answer": "C. Psychomotor",
+   "explanation": "Psychomotor = physical movement and motor skills (demonstrate, then practice). Cognitive would be knowledge only, e.g., a brochure explaining techniques."
+  }
+ ]
+}

@@ -24,6 +24,10 @@ LABEL_MODEL_ID = 1728390009
 GRADE_HINT = ('<div class="hint">Tap <b>Check</b>, then grade: all correct → Good · '
               'one slip → Hard · more → Again</div>')
 
+NAMES = {}   # pdf -> (display name for the Source line, tag); filled by build_deck.py
+def src(pdf): return NAMES.get(pdf, (pdf, pdf.lower()))[0]
+def tag(pdf): return NAMES.get(pdf, (pdf, pdf.lower()))[1]
+
 def js_data(obj):
     """JSON safe to embed in a <script> element inside an Anki field."""
     return json.dumps(obj, ensure_ascii=False).replace('<', '\\u003c').replace('>', '\\u003e')
@@ -90,39 +94,39 @@ def _key_table(rows):
 
 def basic_note(m, q, pdf):
     return genanki.Note(model=m['basic'], fields=[q['front'], q['back'], 'y' if q.get('reverse') else '',
-                        q.get('section', ''), q.get('extra', ''), f"StudentRDH {pdf} p.{q['page']}"],
-                        guid=genanki.guid_for('nbdhe-basic', q['id']), tags=[pdf.lower(), f"p{q['page']}", 'basic'])
+                        q.get('section', ''), q.get('extra', ''), f"StudentRDH {src(pdf)} p.{q['page']}"],
+                        guid=genanki.guid_for('nbdhe-basic', q['id']), tags=[tag(pdf), f"p{q['page']}", 'basic'])
 
 def typein_note(m, q, pdf):
     return genanki.Note(model=m['typein'], fields=[q['question'], q['answer'], q.get('section', ''),
-                        q.get('extra', ''), f"StudentRDH {pdf} p.{q['page']}"],
-                        guid=genanki.guid_for('nbdhe-typein', q['id']), tags=[pdf.lower(), f"p{q['page']}", 'typein'])
+                        q.get('extra', ''), f"StudentRDH {src(pdf)} p.{q['page']}"],
+                        guid=genanki.guid_for('nbdhe-typein', q['id']), tags=[tag(pdf), f"p{q['page']}", 'typein'])
 
 def match_note(m, q, pdf):
     key = _key_table(q['pairs'])
     return genanki.Note(model=m['match'], fields=[q['prompt'], js_data({'pairs': q['pairs']}), key,
-                        q.get('section', ''), q.get('extra', ''), f"StudentRDH {pdf} p.{q['page']}"],
-                        guid=genanki.guid_for('nbdhe-match', q['id']), tags=[pdf.lower(), f"p{q['page']}", 'matching'])
+                        q.get('section', ''), q.get('extra', ''), f"StudentRDH {src(pdf)} p.{q['page']}"],
+                        guid=genanki.guid_for('nbdhe-match', q['id']), tags=[tag(pdf), f"p{q['page']}", 'matching'])
 
 def order_note(m, q, pdf):
     key = '<ol class="keylist">' + ''.join(f'<li>{x}</li>' for x in q['items']) + '</ol>'
     return genanki.Note(model=m['order'], fields=[q['prompt'], js_data({'items': q['items']}), key,
-                        q.get('section', ''), q.get('extra', ''), f"StudentRDH {pdf} p.{q['page']}"],
-                        guid=genanki.guid_for('nbdhe-order', q['id']), tags=[pdf.lower(), f"p{q['page']}", 'ordering'])
+                        q.get('section', ''), q.get('extra', ''), f"StudentRDH {src(pdf)} p.{q['page']}"],
+                        guid=genanki.guid_for('nbdhe-order', q['id']), tags=[tag(pdf), f"p{q['page']}", 'ordering'])
 
 def sort_note(m, q, pdf):
     cats = q['categories']                     # [[category, [items...]], ...] — order kept
     key = ''.join(f'<div class="keycat"><b>{c}</b>: {", ".join(items)}</div>' for c, items in cats)
     return genanki.Note(model=m['sort'], fields=[q['prompt'], js_data({'cats': cats}), key,
-                        q.get('section', ''), q.get('extra', ''), f"StudentRDH {pdf} p.{q['page']}"],
-                        guid=genanki.guid_for('nbdhe-sort', q['id']), tags=[pdf.lower(), f"p{q['page']}", 'sorting'])
+                        q.get('section', ''), q.get('extra', ''), f"StudentRDH {src(pdf)} p.{q['page']}"],
+                        guid=genanki.guid_for('nbdhe-sort', q['id']), tags=[tag(pdf), f"p{q['page']}", 'sorting'])
 
 def label_note(m, spec, slots, pdf, book_page):
     """slots: [{l,t,w,h,rot,a}] in % of the image — the same covers as the IO cards."""
     return genanki.Note(model=m['label'], fields=[spec['title'], f'<img src="{spec["name"]}.jpg">',
-                        js_data({'slots': slots}), spec.get('deck', ''), '', f"StudentRDH {pdf} p.{book_page}"],
+                        js_data({'slots': slots}), spec.get('deck', ''), '', f"StudentRDH {src(pdf)} p.{book_page}"],
                         guid=genanki.guid_for('nbdhe-label', spec['name']),
-                        tags=[pdf.lower(), f"p{book_page}", 'label-diagram'])
+                        tags=[tag(pdf), f"p{book_page}", 'label-diagram'])
 
 # ---------------------------------------------------------------- CSS
 BASIC_CSS = """

@@ -1,0 +1,1590 @@
+{
+ "diagrams": [
+  {
+   "name": "poc-p357-bruise-colors",
+   "title": "Bruise colors by age",
+   "deck": "Process of Care",
+   "pdf_page": 25,
+   "page": 357,
+   "crop": [
+    575,
+    720,
+    1160,
+    1215
+   ],
+   "labels": [
+    {
+     "box": [
+      665,
+      955,
+      760,
+      990
+     ],
+     "answer": "0 days",
+     "fit": "text"
+    },
+    {
+     "box": [
+      970,
+      955,
+      1078,
+      990
+     ],
+     "answer": "1-2 days",
+     "fit": "text"
+    },
+    {
+     "box": [
+      650,
+      1173,
+      770,
+      1207
+     ],
+     "answer": "5-10 days",
+     "fit": "text"
+    },
+    {
+     "box": [
+      958,
+      1173,
+      1088,
+      1207
+     ],
+     "answer": "10-14 days",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "poc-p353-001",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 353,
+   "text": "A potassium nitrate desensitizing toothpaste requires consistent use for {{c1::2+ weeks}} before effects are noticed."
+  },
+  {
+   "id": "poc-p353-002",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 353,
+   "text": "Peroxide dentifrices are used for {{c1::whitening}} of both extrinsic and intrinsic stains; they break down stain molecules through {{c2::oxidation}}.",
+   "extra": "Brand examples: Crest 3D White, Colgate Optic White."
+  },
+  {
+   "id": "poc-p353-003",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 353,
+   "text": "Peroxide toothpastes are primarily cosmetic and may cause {{c1::tissue irritation or transient sensitivity}}."
+  },
+  {
+   "id": "poc-p353-004",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 353,
+   "text": "In CPP-ACP, a {{c1::casein-derived protein}} stabilizes {{c2::calcium and phosphate}} ions to support remineralization.",
+   "extra": "Brand examples: MI Paste, MI Paste Plus."
+  },
+  {
+   "id": "poc-p353-005",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 353,
+   "text": "CPP-ACP promotes {{c1::reversal of early lesions}} and helps buffer acids, but it is {{c2::not a fluoride source}}."
+  },
+  {
+   "id": "poc-p353-006",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 353,
+   "text": "{{c1::Triclosan}} is a broad-spectrum antibacterial dentifrice agent (anti-gingivitis, anti-plaque) that was {{c2::removed from many U.S. products over safety concerns}}; it is still seen internationally.",
+   "extra": "Formerly in Colgate Total."
+  },
+  {
+   "id": "poc-p353-007",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 353,
+   "text": "{{c1::Pyrophosphate}} dentifrices control calculus by preventing {{c2::crystal growth in supragingival plaque}}.",
+   "extra": "Brand example: Crest Tartar Protection. Book: may cause sensitivity or tissue irritation in some users."
+  },
+  {
+   "id": "poc-p353-008",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 353,
+   "text": "A side effect of pyrophosphate (tartar-control) toothpaste in some users is {{c1::sensitivity or tissue irritation}}."
+  },
+  {
+   "id": "poc-p353-009",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "Fluoride varnish (5% NaF) has a {{c1::neutral}} pH and is indicated for high caries risk at all ages and for {{c2::sensitivity}}."
+  },
+  {
+   "id": "poc-p353-010",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "Fluoride varnish needs {{c1::no prophylaxis}} beforehand, dries instantly, and is preferred for patients under {{c2::6 years}}."
+  },
+  {
+   "id": "poc-p353-011",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "Neutral sodium fluoride gel is {{c1::2% or 1.1% NaF}} with a pH of about {{c2::7.0}}."
+  },
+  {
+   "id": "poc-p353-012",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "Neutral NaF gel is indicated for caries prevention, {{c1::cosmetic restorations}}, and root caries; it is ideal for patients with {{c2::xerostomia, implants, or restorations}}.",
+   "extra": "Rx 1.1% NaF is available."
+  },
+  {
+   "id": "poc-p353-013",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "APF's {{c1::low pH}} enhances fluoride uptake."
+  },
+  {
+   "id": "poc-p353-014",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "Do not use APF on {{c1::composites, sealants, or porcelain}} — patients with cosmetic restorations (veneers, crowns, composites) should avoid it because of the risk of {{c2::etching and roughening}}."
+  },
+  {
+   "id": "poc-p353-015",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "Stannous fluoride gel is {{c1::0.4% SnF<sub>2</sub>}}; it is indicated for caries prevention, {{c2::gingivitis}}, and sensitivity."
+  },
+  {
+   "id": "poc-p353-016",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "Stannous fluoride gel may cause {{c1::extrinsic staining}} if plaque control is poor."
+  },
+  {
+   "id": "poc-p353-017",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "Silver diamine fluoride has a pH of about {{c1::8–10}} and contains {{c2::silver + ammonia}}."
+  },
+  {
+   "id": "poc-p353-018",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "SDF is indicated for hypersensitivity and {{c1::caries arrest}} in high-risk populations; it {{c2::stains carious lesions black}}."
+  },
+  {
+   "id": "poc-p353-019",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "SDF is approved for {{c1::cavity lining and sensitivity}}; its use for remineralization/caries arrest is {{c2::off-label}}."
+  },
+  {
+   "id": "poc-p353-020",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "text": "Fluoride foam (NaF/APF) has the same concentration as the gel; there is {{c1::limited clinical evidence}} for its effectiveness, but it is still widely used."
+  },
+  {
+   "id": "poc-p353-021",
+   "deck": "Process of Care",
+   "section": "Fluoride — patient selection",
+   "page": 353,
+   "text": "Patients undergoing cancer therapy (especially head and neck radiation) are at high risk for {{c1::xerostomia and rampant caries}}; {{c2::fluoride varnish and prescription-strength fluoride gel}} are strongly recommended."
+  },
+  {
+   "id": "poc-p353-022",
+   "deck": "Process of Care",
+   "section": "Fluoride — patient selection",
+   "page": 353,
+   "text": "Orthodontic patients benefit from daily {{c1::fluoride rinses or gels}} to protect around brackets and prevent {{c2::decalcification (white spot lesions)}}."
+  },
+  {
+   "id": "poc-p353-023",
+   "deck": "Process of Care",
+   "section": "Fluoride — patient selection",
+   "page": 353,
+   "text": "Patients with special needs or limited dexterity may benefit from {{c1::varnish or SDF}} because of ease of application and effectiveness with minimal cooperation."
+  },
+  {
+   "id": "poc-p353-024",
+   "deck": "Process of Care",
+   "section": "Fluoride — patient selection",
+   "page": 353,
+   "text": "SDF is recommended for children with early childhood caries and {{c1::geriatric}} patients with limited access to {{c2::restorative care}}.",
+   "extra": "Book prints 'children with early childhood' — early childhood caries."
+  },
+  {
+   "id": "poc-p354-001",
+   "deck": "Process of Care",
+   "section": "Hydroxyapatite",
+   "page": 354,
+   "text": "{{c1::Hydroxyapatite}} is the naturally occurring mineral that makes up enamel and dentin: Ca<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>(OH)<sub>2</sub>."
+  },
+  {
+   "id": "poc-p354-002",
+   "deck": "Process of Care",
+   "section": "Hydroxyapatite",
+   "page": 354,
+   "text": "Unlike fluoride, hydroxyapatite is {{c1::biomimetic}} — it mimics the natural structure of enamel and does not rely on {{c2::saliva}} to become active."
+  },
+  {
+   "id": "poc-p354-003",
+   "deck": "Process of Care",
+   "section": "Hydroxyapatite",
+   "page": 354,
+   "text": "In toothpaste, {{c1::nano- or micro-hydroxyapatite}} helps rebuild enamel and fill microscopic defects: it deposits onto the enamel surface and integrates into early demineralized areas, promoting remineralization {{c2::without fluoride}}."
+  },
+  {
+   "id": "poc-p354-004",
+   "deck": "Process of Care",
+   "section": "Hydroxyapatite",
+   "page": 354,
+   "text": "Some toothpastes contain {{c1::10%}} hydroxyapatite, shown to reduce {{c2::sensitivity}} and improve surface smoothness."
+  },
+  {
+   "id": "poc-p354-005",
+   "deck": "Process of Care",
+   "section": "Hydroxyapatite",
+   "page": 354,
+   "text": "Hydroxyapatite is considered a {{c1::fluoride alternative}} in certain populations, e.g. {{c2::young children and fluoride-sensitive patients}}."
+  },
+  {
+   "id": "poc-p354-006",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "A night guard (occlusal guard) protects against {{c1::bruxism (grinding/clenching)}} during sleep; a sports mouthguard protects against {{c2::trauma}} during physical activity."
+  },
+  {
+   "id": "poc-p354-007",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "A night guard prevents attrition, fractures, muscle fatigue, {{c1::TMJ discomfort}}, and damage to {{c2::restorations}}."
+  },
+  {
+   "id": "poc-p354-008",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "A sports mouthguard prevents avulsion, fractures, lip/cheek lacerations, jaw injury, and {{c1::concussion}}."
+  },
+  {
+   "id": "poc-p354-009",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "Night guard materials: {{c1::hard acrylic resin}} (rigid, durable, precise fit), {{c2::soft vinyl}} (flexible, more comfortable), or {{c3::dual laminate}} (soft inside + hard outside)."
+  },
+  {
+   "id": "poc-p354-010",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "Sports mouthguards are made of soft {{c1::EVA (ethylene vinyl acetate)}}; custom models may include impact gel layers or reinforcement."
+  },
+  {
+   "id": "poc-p354-011",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "Night guards come as OTC, boil-and-bite, or custom lab-fabricated; sports mouthguards come as {{c1::stock}}, boil-and-bite, or custom lab-fabricated."
+  },
+  {
+   "id": "poc-p354-012",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "Custom-fit night guard benefits: better occlusal contact, improved jaw stability, {{c1::muscle protection}}, reduced wear on restorations."
+  },
+  {
+   "id": "poc-p354-013",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "Custom-fit sports mouthguard benefits: better comfort, {{c1::improved retention}}, easier speaking and breathing, reduced {{c2::gag reflex}}."
+  },
+  {
+   "id": "poc-p354-014",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "Clean an oral guard by rinsing after use and cleaning with {{c1::mild soap, non-abrasive toothpaste, or denture tablets}}, then air-dry completely; store in a {{c2::ventilated, dry container}} to prevent fungal/bacterial growth.",
+   "extra": "Same cleaning and storage for night guards and sports guards."
+  },
+  {
+   "id": "poc-p354-015",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "A night guard is not appropriate for patients with {{c1::severe sleep apnea}} (refer for a sleep appliance)."
+  },
+  {
+   "id": "poc-p354-016",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "A sports mouthguard is not appropriate for {{c1::bruxism or nighttime use}}."
+  },
+  {
+   "id": "poc-p354-017",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "Recommend a night guard if signs of {{c1::grinding or attrition}} are observed: ask the patient, educate, and refer to the dentist. For a sports guard, ask about {{c2::sports involvement}} and recommend a custom guard."
+  },
+  {
+   "id": "poc-p354-018",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "Dental injuries make up {{c1::13–39%}} of all sports-related injuries to the face.",
+   "extra": "Did you know box."
+  },
+  {
+   "id": "poc-p354-019",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "text": "{{c1::Basketball and hockey}} have some of the highest rates of dental injuries, yet mouthguards are often not mandated in basketball; many {{c2::MMA and boxing}} organizations require mouthguards (no guard can disqualify a fighter)."
+  },
+  {
+   "id": "poc-p354-020",
+   "deck": "Process of Care",
+   "section": "Prosthetics care",
+   "page": 354,
+   "text": "Any oral device can accumulate plaque, calculus, materia alba, and stain; clean it in an {{c1::ultrasonic machine}} during the dental visit."
+  },
+  {
+   "id": "poc-p354-021",
+   "deck": "Process of Care",
+   "section": "Prosthetics care",
+   "page": 354,
+   "text": "Brush a prosthesis with water, detergent, or dentifrice {{c1::after each meal and before sleeping}}; avoid overzealous brushing with strong abrasives because the material can {{c2::scratch}}."
+  },
+  {
+   "id": "poc-p354-022",
+   "deck": "Process of Care",
+   "section": "Prosthetics care",
+   "page": 354,
+   "text": "Leave a removable prosthesis out of the mouth for some portion of each day in a {{c1::covered container with solvent}}; renew the solution with each use."
+  },
+  {
+   "id": "poc-p354-023",
+   "deck": "Process of Care",
+   "section": "Prosthetics care",
+   "page": 354,
+   "text": "Occasionally immerse a prosthesis in a solution that removes debris; an {{c1::antifungal}} solution can be used."
+  },
+  {
+   "id": "poc-p354-024",
+   "deck": "Process of Care",
+   "section": "Prosthetics care",
+   "page": 354,
+   "text": "Clean the {{c1::underlying mucosa}} with a soft brush to avoid oral candidiasis or lesions."
+  },
+  {
+   "id": "poc-p355-001",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Home care around implants is essential to prevent plaque buildup, {{c1::peri-implant mucositis}}, and {{c2::peri-implantitis}}."
+  },
+  {
+   "id": "poc-p355-002",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "{{c1::Peri-implant mucositis}} is reversible inflammation of the soft tissue; untreated, it may progress to {{c2::peri-implantitis}}, which causes bone loss and implant failure."
+  },
+  {
+   "id": "poc-p355-003",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Most implants are made of {{c1::titanium}}, which is biocompatible and supports {{c2::osseointegration}}."
+  },
+  {
+   "id": "poc-p355-004",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Avoid metal instruments or tools directly on implant surfaces to prevent {{c1::scratching or corrosion}} of the titanium."
+  },
+  {
+   "id": "poc-p355-005",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "For implants, use a {{c1::soft-bristled, multitufted nylon}} toothbrush for gentle plaque removal."
+  },
+  {
+   "id": "poc-p355-006",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "{{c1::End-tuft and tapered}} brushes are helpful around implant abutments, prosthetics, and narrow spaces."
+  },
+  {
+   "id": "poc-p355-007",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Power brushes (electric or sonic) are safe on implants when used with {{c1::soft bristles and gentle pressure}}."
+  },
+  {
+   "id": "poc-p355-008",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Water flossers (oral irrigators) can reduce gingival {{c1::inflammation and bleeding}} around implants."
+  },
+  {
+   "id": "poc-p355-009",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Around implants use interdental brushes with {{c1::nylon-coated wire cores}}; do not use {{c2::uncoated metal-core}} brushes, which can scratch the implant surface."
+  },
+  {
+   "id": "poc-p355-010",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Implant floss options: {{c1::braided nylon floss with a built-in threader}}, spongy floss (e.g., Superfloss), and {{c2::flat cotton tape floss}} for wider contacts."
+  },
+  {
+   "id": "poc-p355-011",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Use {{c1::floss threaders or hooks}} to access under pontics, bars, or fixed implant prostheses."
+  },
+  {
+   "id": "poc-p355-012",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Around implants, a {{c1::rubber tip stimulator}} removes debris along the gumline and gently massages tissue; {{c2::wood sticks (e.g., Stim-U-Dent)}} may be used in wide embrasures with care."
+  },
+  {
+   "id": "poc-p355-013",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Use an oral irrigator on implants at the {{c1::lowest pressure}} setting, with the stream directed {{c2::perpendicular to the long axis}} of the implant (not into the sulcus)."
+  },
+  {
+   "id": "poc-p355-014",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Use a {{c1::fluoridated, low-abrasive}} toothpaste on implants; avoid {{c2::whitening, charcoal, or other gritty}} pastes, which are too abrasive."
+  },
+  {
+   "id": "poc-p355-015",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "text": "Probing depths, bleeding, and exudate around implants should be monitored {{c1::only by professionals}}; home probing is not recommended."
+  },
+  {
+   "id": "poc-p355-016",
+   "deck": "Process of Care",
+   "section": "Pediatric patient",
+   "page": 355,
+   "text": "Advise parents to bring an infant to the dentist within {{c1::6 months}} of eruption of the first tooth or before {{c2::1 year}} of age."
+  },
+  {
+   "id": "poc-p355-017",
+   "deck": "Process of Care",
+   "section": "Pediatric patient",
+   "page": 355,
+   "text": "For pediatric patients, provide advice on {{c1::fluoride supplementation}}."
+  },
+  {
+   "id": "poc-p355-018",
+   "deck": "Process of Care",
+   "section": "Pediatric patient",
+   "page": 355,
+   "text": "Do not put an infant/child to bed with a bottle of formula, milk, juice, or soft drinks; {{c1::plain water}} is best for prolonged bottle use, and a {{c2::sippy cup}} should be avoided as soon as the child can drink from a cup."
+  },
+  {
+   "id": "poc-p355-019",
+   "deck": "Process of Care",
+   "section": "Pediatric patient",
+   "page": 355,
+   "text": "A child's teeth should be brushed starting from {{c1::the appearance of the first tooth}}."
+  },
+  {
+   "id": "poc-p355-020",
+   "deck": "Process of Care",
+   "section": "Adolescent patient",
+   "page": 355,
+   "text": "Adolescents usually respond to concerns about physical {{c1::appearance}} and peer acceptance — emphasize how damage to teeth can change appearance."
+  },
+  {
+   "id": "poc-p355-021",
+   "deck": "Process of Care",
+   "section": "Adolescent patient",
+   "page": 355,
+   "text": "{{c1::Puberty-induced gingivitis}} and aggressive periodontitis can appear during adolescence.",
+   "extra": "AAP 2017 (exam standard): 'aggressive periodontitis' is no longer a separate category — it is now periodontitis, typically grade C with a molar/incisor pattern."
+  },
+  {
+   "id": "poc-p355-022",
+   "deck": "Process of Care",
+   "section": "Adolescent patient",
+   "page": 355,
+   "text": "Orthodontic appliances make home care harder: reinforce oral aids such as a {{c1::floss threader}} and proper brushing technique."
+  },
+  {
+   "id": "poc-p355-023",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 355,
+   "text": "The {{c1::second}} trimester is the ideal trimester for dental treatment, but treatment can be performed anytime during pregnancy."
+  },
+  {
+   "id": "poc-p355-024",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 355,
+   "text": "Essential radiographs are deemed {{c1::safe}} during pregnancy; use {{c2::ALARA}} principles to minimize exposure."
+  },
+  {
+   "id": "poc-p355-025",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 355,
+   "text": "If a pregnant patient develops orthostatic hypotension (supine) in the chair, tilt her to the {{c1::left}} side.",
+   "extra": "Appointments may need to be shorter; let her shift position as needed."
+  },
+  {
+   "id": "poc-p355-026",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 355,
+   "text": "In pregnancy, caries and erosion may result from acid in {{c1::vomit}} related to morning sickness."
+  },
+  {
+   "id": "poc-p355-027",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 355,
+   "text": "Maternal periodontal disease and caries may increase the risk of a {{c1::premature low-birth-weight}} infant — oral pathogens may stimulate {{c2::uterine contractions}}."
+  },
+  {
+   "id": "poc-p355-028",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 355,
+   "text": "{{c1::Tetracycline}} and its derivatives are contraindicated in pregnancy to avoid intrinsic tooth staining in the fetus."
+  },
+  {
+   "id": "poc-p356-001",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 356,
+   "text": "Pregnancy gingivitis: elevated {{c1::estrogen and progesterone}} exaggerate the gingival response to microorganisms; it is frequently associated with {{c2::<i>Prevotella intermedia</i>}}."
+  },
+  {
+   "id": "poc-p356-002",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 356,
+   "text": "A {{c1::pyogenic granuloma}} (pregnancy tumor) is a localized gingival enlargement, typically involving the interdental papillae, that usually {{c2::diminishes after delivery}}."
+  },
+  {
+   "id": "poc-p356-003",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 356,
+   "text": "A local anesthetic considered safe in pregnancy is {{c1::lidocaine}}."
+  },
+  {
+   "id": "poc-p356-004",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 356,
+   "text": "Per the book, general anesthesia and nitrous oxide sedation are a {{c1::relative contraindication}} in pregnancy because the gas interferes with absorption of {{c2::vitamin B-12}} and other nutrients."
+  },
+  {
+   "id": "poc-p356-005",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 356,
+   "text": "In pregnancy, {{c1::topical}} fluoride is recommended; there is no evidence that {{c2::systemic fluoride supplements}} taken by the mother benefit the fetus."
+  },
+  {
+   "id": "poc-p356-006",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 356,
+   "text": "Restorative treatment and scaling and root planing {{c1::should be performed as needed}} during pregnancy."
+  },
+  {
+   "id": "poc-p356-007",
+   "deck": "Process of Care",
+   "section": "Geriatric patient",
+   "page": 356,
+   "text": "Geriatric age groups: 'young old' = {{c1::65–74}}, 'old' = {{c2::75–84}}, 'old old' = {{c3::85+}}."
+  },
+  {
+   "id": "poc-p356-008",
+   "deck": "Process of Care",
+   "section": "Geriatric patient",
+   "page": 356,
+   "text": "For geriatric patients with physical impairment, recommend {{c1::oral care aids}} such as powered toothbrushes and floss holders."
+  },
+  {
+   "id": "poc-p356-009",
+   "deck": "Process of Care",
+   "section": "Geriatric patient",
+   "page": 356,
+   "text": "Older patients are at increased risk for periodontal diseases due to {{c1::systemic complications}} that accompany aging."
+  },
+  {
+   "id": "poc-p356-010",
+   "deck": "Process of Care",
+   "section": "Geriatric patient",
+   "page": 356,
+   "text": "{{c1::Xerostomia}} is the most common drug-induced oral condition."
+  },
+  {
+   "id": "poc-p356-011",
+   "deck": "Process of Care",
+   "section": "Geriatric patient",
+   "page": 356,
+   "text": "Common barriers to dental visits for older adults: {{c1::transportation}}, finances, and physical impairment."
+  },
+  {
+   "id": "poc-p356-012",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "text": "{{c1::Mouth props (blocks)}} help patients with motor difficulty or difficulty staying open."
+  },
+  {
+   "id": "poc-p356-013",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "text": "If a patient cannot be reclined, {{c1::elevate the patient's chair and provide care standing up}}; improvised positions must not compromise the clinician's {{c2::ergonomics}}.",
+   "extra": "E.g., a wheelchair may be rotated for better comfort and access."
+  },
+  {
+   "id": "poc-p356-014",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "text": "Before a wheelchair transfer, determine whether devices such as a {{c1::urine collector}} are present."
+  },
+  {
+   "id": "poc-p356-015",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "text": "For a wheelchair transfer, set the {{c1::brake}} and lift the {{c2::footrests}}; a {{c3::sliding board}} can facilitate the transfer."
+  },
+  {
+   "id": "poc-p356-016",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "text": "The single-provider wheelchair transfer is the {{c1::stand and pivot}} technique; use it only if the patient is {{c2::stable and partially mobile}}.",
+   "extra": "Maintain close contact for support."
+  },
+  {
+   "id": "poc-p356-017",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "text": "The {{c1::two-provider}} transfer is ideal for patients who cannot assist in the transfer; clear communication is essential."
+  },
+  {
+   "id": "poc-p356-018",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "text": "In a two-provider transfer, the clinician {{c1::behind}} the patient crosses the patient's arms across the chest and grasps the wrists; the clinician {{c2::in front}} places hands under the thighs."
+  },
+  {
+   "id": "poc-p356-019",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "text": "In a two-provider transfer, coordinate a count (\"1-2-3 lift\"), lift with {{c1::leg and arm muscles (not your back)}}, and lift the torso and legs {{c2::at the same time}}."
+  },
+  {
+   "id": "poc-p356-020",
+   "deck": "Process of Care",
+   "section": "Hearing impairment",
+   "page": 356,
+   "text": "For a patient with hearing impairment, remove your mask and wear a {{c1::face shield}} so they can read lips; face the patient and speak {{c2::clearly (not louder)}}, keeping eye contact."
+  },
+  {
+   "id": "poc-p356-021",
+   "deck": "Process of Care",
+   "section": "Hearing impairment",
+   "page": 356,
+   "text": "For hearing-impaired patients use visual tools (charts, printed instructions) and {{c1::written notes or speech-to-text apps}}."
+  },
+  {
+   "id": "poc-p356-022",
+   "deck": "Process of Care",
+   "section": "Hearing impairment",
+   "page": 356,
+   "text": "Allow a hearing-impaired patient to {{c1::feel instruments or models}} to aid understanding, and confirm comprehension by asking them to {{c2::repeat or rephrase}} key instructions."
+  },
+  {
+   "id": "poc-p356-023",
+   "deck": "Process of Care",
+   "section": "Hearing impairment",
+   "page": 356,
+   "text": "Use a qualified {{c1::interpreter}} if the patient uses ASL or requests assistance."
+  },
+  {
+   "id": "poc-p357-001",
+   "deck": "Process of Care",
+   "section": "Visual impairment",
+   "page": 357,
+   "text": "For a visually impaired patient, greet by name, {{c1::offer your arm}} for guidance, and {{c2::describe each action before doing it}}."
+  },
+  {
+   "id": "poc-p357-002",
+   "deck": "Process of Care",
+   "section": "Visual impairment",
+   "page": 357,
+   "text": "Keep the operatory free of obstacles and avoid {{c1::startling}} a visually impaired patient with unexpected movements or sounds."
+  },
+  {
+   "id": "poc-p357-003",
+   "deck": "Process of Care",
+   "section": "Visual impairment",
+   "page": 357,
+   "text": "Demonstrate home care to a visually impaired patient by letting them {{c1::touch tools and models}}; give instructions verbally or in {{c2::large print}}."
+  },
+  {
+   "id": "poc-p357-004",
+   "deck": "Process of Care",
+   "section": "Visual impairment",
+   "page": 357,
+   "text": "Always speak {{c1::directly to the patient}}, even if a caregiver is present."
+  },
+  {
+   "id": "poc-p357-005",
+   "deck": "Process of Care",
+   "section": "Language barrier",
+   "page": 357,
+   "text": "When discussing treatment or consent with a patient who speaks another language, use {{c1::professional interpreters}}, not family or staff."
+  },
+  {
+   "id": "poc-p357-006",
+   "deck": "Process of Care",
+   "section": "Language barrier",
+   "page": 357,
+   "text": "Support communication across a language barrier with simple language, {{c1::visual aids}}, or translation apps."
+  },
+  {
+   "id": "poc-p357-007",
+   "deck": "Process of Care",
+   "section": "Language barrier",
+   "page": 357,
+   "text": "Translate post-op and home care instructions into the patient's {{c1::preferred language}} whenever possible."
+  },
+  {
+   "id": "poc-p357-008",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "text": "Non-accidental bruising from abuse may take the {{c1::shape of the object}} used to hit or pinch (fingers, hands, paddle, belt buckle, teeth…)."
+  },
+  {
+   "id": "poc-p357-009",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "text": "Abuse bruising tends to occur on the buttocks, thighs, face, neck, and upper arms — usually {{c1::hidden by clothing}}."
+  },
+  {
+   "id": "poc-p357-010",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "text": "Bruise color by age: new = {{c1::reddish-purple}}; ~1 week = {{c2::greenish}}; ~2 weeks = {{c3::yellowish}}; 2–4 weeks = {{c4::brownish}}.",
+   "extra": "The book's figure labels the swatches 0 days, 1–2 days, 5–10 days, 10–14 days."
+  },
+  {
+   "id": "poc-p357-011",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "text": "Oral signs of abuse: facial trauma, bruising, lacerations, bite marks, or burns in {{c1::unlikely locations}}."
+  },
+  {
+   "id": "poc-p357-012",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "text": "{{c1::Palatal bruising}} is often associated with forced oral sex."
+  },
+  {
+   "id": "poc-p357-013",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "text": "A torn {{c1::maxillary labial frenum}} is often associated with {{c2::forced feedings}}."
+  },
+  {
+   "id": "poc-p357-014",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "text": "Suspected abuse: {{c1::document}} signs with pictures and ask questions of the individual believed to be at risk."
+  },
+  {
+   "id": "poc-p357-015",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "text": "Dental professionals have a {{c1::legal duty to report}} child neglect, sexual abuse, physical harm, and emotional harm."
+  },
+  {
+   "id": "poc-p357-016",
+   "deck": "Process of Care",
+   "section": "Tooth staining & whitening",
+   "page": 357,
+   "text": "For {{c1::extrinsic}} stains (on the surface), start with {{c2::scaling and polishing}}; if stain persists, professional whitening may help."
+  },
+  {
+   "id": "poc-p357-017",
+   "deck": "Process of Care",
+   "section": "Tooth staining & whitening",
+   "page": 357,
+   "text": "For {{c1::intrinsic}} stains (within the tooth), whitening may reduce the appearance, especially in mild cases like age-related or minor trauma stains."
+  },
+  {
+   "id": "poc-p357-018",
+   "deck": "Process of Care",
+   "section": "Tooth staining & whitening",
+   "page": 357,
+   "text": "Deep intrinsic stains (e.g., {{c1::tetracycline, fluorosis}}) respond poorly to whitening — {{c2::veneers or bonding}} may be needed."
+  },
+  {
+   "id": "poc-p357-019",
+   "deck": "Process of Care",
+   "section": "Tooth staining & whitening",
+   "page": 357,
+   "text": "Always {{c1::set realistic expectations}} with the patient before starting whitening treatment."
+  },
+  {
+   "id": "poc-p358-001",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "In-office whitening uses {{c1::hydrogen peroxide}} at {{c2::15–40%}}."
+  },
+  {
+   "id": "poc-p358-002",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "At-home custom-tray whitening uses {{c1::carbamide peroxide (10–22%)}} or {{c2::hydrogen peroxide (6–12%)}}."
+  },
+  {
+   "id": "poc-p358-003",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "In-office whitening: {{c1::15–30 minutes}} per application, usually 2–3 cycles per session, ~60–90 minutes of chair time; at-home trays: {{c2::30–90 minutes}} per day, depending on product."
+  },
+  {
+   "id": "poc-p358-004",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "In-office whitening usually takes {{c1::1–2 appointments}} total; at-home tray whitening is daily use for {{c2::7–14 days}} (sometimes longer)."
+  },
+  {
+   "id": "poc-p358-005",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "Shade improvement: in-office {{c1::3–8 shades}}, often visible immediately; at-home {{c2::2–5 shades}}, gradual."
+  },
+  {
+   "id": "poc-p358-006",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "Soft-tissue protection with a {{c1::resin barrier or rubber dam}} is mandatory for in-office whitening; at home it is not required, but avoid gel contact with gingiva."
+  },
+  {
+   "id": "poc-p358-007",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "Desensitizing ({{c1::KNO<sub>3</sub>}}, fluoride varnish) is often recommended before or after in-office whitening; at home, recommended if sensitivity occurs (e.g., Sensodyne)."
+  },
+  {
+   "id": "poc-p358-008",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "At-home whitening is {{c1::patient-dependent}} and may have less predictable outcomes; in-office has full professional control."
+  },
+  {
+   "id": "poc-p358-009",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "{{c1::Hydrogen peroxide}} is faster acting but less stable — best for shorter wear times."
+  },
+  {
+   "id": "poc-p358-010",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "text": "{{c1::Carbamide peroxide}} breaks down into hydrogen peroxide + {{c2::urea}} — ideal for longer, slower release (e.g., overnight trays)."
+  }
+ ],
+ "basic": [
+  {
+   "id": "poc-p353-b-01",
+   "deck": "Process of Care",
+   "section": "Fluoride — patient selection",
+   "page": 353,
+   "front": "Why is fluoride varnish especially useful for patients with poor compliance?",
+   "back": "It does not require daily application.",
+   "reverse": false
+  },
+  {
+   "id": "poc-p353-b-02",
+   "deck": "Process of Care",
+   "section": "Fluoride — patient selection",
+   "page": 353,
+   "front": "Why can school-based programs apply fluoride varnish without a prior prophylaxis?",
+   "back": "Fluoride can penetrate biofilm and provide protection even without full cleaning.",
+   "reverse": false
+  },
+  {
+   "id": "poc-p354-b-01",
+   "deck": "Process of Care",
+   "section": "Hydroxyapatite",
+   "page": 354,
+   "front": "Don't be confused: how does fluoride's mechanism differ from nano-hydroxyapatite's?",
+   "back": "Fluoride needs saliva — it is incorporated into enamel during remineralization using salivary calcium and phosphate to form fluorapatite. Nano-HAp is bioavailable in its final form and physically integrates into enamel defects on contact, even in dry or low-saliva conditions.",
+   "reverse": false
+  },
+  {
+   "id": "poc-p355-b-01",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "front": "Why are implants more susceptible to trauma and infection than natural teeth?",
+   "back": "They lack a periodontal ligament, so they have less shock absorption.",
+   "reverse": false
+  },
+  {
+   "id": "poc-p356-b-01",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 356,
+   "front": "Myth: 'the baby takes calcium from the mother's teeth.' What actually causes tooth decay during pregnancy?",
+   "back": "Increased acidity from morning sickness, changes in eating habits, and reduced oral hygiene from fatigue or nausea. The baby gets calcium from the mother's diet and bones — not her teeth.",
+   "reverse": false
+  },
+  {
+   "id": "poc-p356-b-02",
+   "deck": "Process of Care",
+   "section": "Hearing impairment",
+   "page": 356,
+   "front": "Why should a patient turn off hearing aids during ultrasonic scaling or other loud equipment?",
+   "back": "To avoid feedback.",
+   "reverse": false
+  },
+  {
+   "id": "poc-p357-b-01",
+   "deck": "Process of Care",
+   "section": "Language barrier",
+   "page": 357,
+   "front": "Teach-back method",
+   "back": "Confirming understanding by having the patient repeat instructions in their own words",
+   "reverse": true
+  },
+  {
+   "id": "poc-p357-b-02",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "front": "Physical neglect",
+   "back": "Failure to provide adequate food, clothing, supervision, and healthcare (including dental care)",
+   "reverse": true
+  },
+  {
+   "id": "poc-p358-b-01",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "front": "Do most OTC 'whitening' toothpastes contain true bleaching agents? How do they work?",
+   "back": "No — instead of hydrogen/carbamide peroxide they use abrasives (e.g., hydrated silica, calcium carbonate) to mechanically remove extrinsic stains.",
+   "reverse": false
+  }
+ ],
+ "typein": [
+  {
+   "id": "poc-p353-t-01",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "question": "Fluoride varnish concentration (as % NaF)?",
+   "answer": "5%"
+  },
+  {
+   "id": "poc-p353-t-02",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "question": "How many minutes must fluoride gels and foams remain in the tray for effective absorption?",
+   "answer": "4"
+  },
+  {
+   "id": "poc-p353-t-03",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "question": "APF gel/foam concentration (as % APF)?",
+   "answer": "1.23%"
+  },
+  {
+   "id": "poc-p353-t-04",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "question": "Approximate pH of APF gel/foam?",
+   "answer": "3.5"
+  },
+  {
+   "id": "poc-p353-t-05",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "question": "Silver diamine fluoride (SDF) concentration (%)?",
+   "answer": "38%"
+  },
+  {
+   "id": "poc-p355-t-01",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "question": "Acceptable implant irrigant: chlorhexidine at what concentration (%)?",
+   "answer": "0.12%",
+   "extra": "Diluted or full strength, as prescribed."
+  },
+  {
+   "id": "poc-p355-t-02",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "question": "Typical professional recall interval for implant patients, especially with a history of periodontitis (in months)?",
+   "answer": "3–4"
+  }
+ ],
+ "match": [
+  {
+   "id": "poc-p353-m-01",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 353,
+   "prompt": "Match each dentifrice agent to its purpose.",
+   "pairs": [
+    [
+     "Peroxide",
+     "Whitening"
+    ],
+    [
+     "CPP-ACP",
+     "Remineralization support (no fluoride)"
+    ],
+    [
+     "Triclosan",
+     "Anti-gingivitis / anti-plaque"
+    ],
+    [
+     "Pyrophosphate",
+     "Calculus control"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p353-m-02",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "prompt": "Match each professional fluoride to its concentration.",
+   "pairs": [
+    [
+     "Fluoride varnish",
+     "5% NaF"
+    ],
+    [
+     "Neutral sodium fluoride gel",
+     "2% or 1.1% NaF"
+    ],
+    [
+     "APF gel/foam",
+     "1.23% APF"
+    ],
+    [
+     "Stannous fluoride gel",
+     "0.4% SnF2"
+    ],
+    [
+     "Silver diamine fluoride",
+     "38%"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "poc-p356-o-01",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "prompt": "Put the single-provider (stand and pivot) transfer steps in order.",
+   "items": [
+    "Ensure the patient can support their weight",
+    "Secure a transfer belt around the waist (or hold the arms)",
+    "Place your feet and knees outside the patient's feet and knees",
+    "Grasp under the arms and around the back, securing the belt from the front",
+    "Assist the patient to standing",
+    "Pivot toward the dental chair and help them sit"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "poc-p353-s-01",
+   "deck": "Process of Care",
+   "section": "Professional fluoride",
+   "page": 353,
+   "prompt": "Sort the professional fluorides by pH.",
+   "categories": [
+    [
+     "Acidic (~3.5)",
+     [
+      "APF gel/foam"
+     ]
+    ],
+    [
+     "Neutral (~7)",
+     [
+      "Fluoride varnish",
+      "Neutral NaF gel"
+     ]
+    ],
+    [
+     "Alkaline (~8–10)",
+     [
+      "Silver diamine fluoride"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "poc-p354-s-01",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "prompt": "Sort each feature: night guard or sports mouthguard?",
+   "categories": [
+    [
+     "Night guard",
+     [
+      "Protects against bruxism",
+      "Worn at night only",
+      "Prevents attrition and TMJ discomfort",
+      "Hard acrylic, soft vinyl or dual laminate",
+      "Contraindicated in severe sleep apnea"
+     ]
+    ],
+    [
+     "Sports mouthguard",
+     [
+      "Protects against trauma",
+      "Prevents avulsion and concussion",
+      "Soft EVA",
+      "Comes as stock, boil-and-bite or custom",
+      "Not for bruxism"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "poc-p358-s-01",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "prompt": "Sort: in-office whitening or at-home custom-tray whitening?",
+   "categories": [
+    [
+     "In-office",
+     [
+      "Hydrogen peroxide 15–40%",
+      "Rubber dam or resin barrier mandatory",
+      "3–8 shades, often immediate",
+      "Best for fast results / pre-event",
+      "$$$"
+     ]
+    ],
+    [
+     "At-home tray",
+     [
+      "Carbamide peroxide 10–22%",
+      "Daily for 7–14 days",
+      "2–5 shades, gradual",
+      "Best for budget-conscious, motivated patients with moderate staining",
+      "$$"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "poc-p353-mcq-01",
+   "deck": "Process of Care",
+   "section": "Fluoride — patient selection",
+   "page": 353,
+   "question": "A 4-year-old with high caries risk is barely cooperative in the chair. Which professional fluoride is preferred?",
+   "options": [
+    "A. 1.23% APF gel in trays",
+    "B. Neutral 2% NaF foam in trays",
+    "C. 5% NaF varnish",
+    "D. 0.4% SnF2 gel"
+   ],
+   "answer": "C. 5% NaF varnish",
+   "explanation": "Varnish needs no prophylaxis, dries instantly, needs minimal cooperation and is preferred under age 6. Tray gels/foams must stay in for 4 minutes — hard for a small child and a swallowing risk."
+  },
+  {
+   "id": "poc-p353-mcq-02",
+   "deck": "Process of Care",
+   "section": "Fluoride — patient selection",
+   "page": 353,
+   "question": "A high-caries-risk adult has porcelain veneers on teeth #6–11 and several composite restorations. Which in-office fluoride should be AVOIDED?",
+   "options": [
+    "A. 5% NaF varnish",
+    "B. 1.23% APF gel",
+    "C. 2% neutral NaF gel",
+    "D. Silver diamine fluoride on root caries"
+   ],
+   "answer": "B. 1.23% APF gel",
+   "explanation": "APF's acidic pH (~3.5) can etch and roughen porcelain, composites and sealants. Neutral NaF gel (pH ~7) is the gel indicated for cosmetic restorations."
+  },
+  {
+   "id": "poc-p354-mcq-01",
+   "deck": "Process of Care",
+   "section": "Hydroxyapatite",
+   "page": 354,
+   "question": "A patient with severe xerostomia wants a remineralizing toothpaste agent that works without relying on saliva. Which is the best choice?",
+   "options": [
+    "A. Sodium fluoride",
+    "B. Nano-hydroxyapatite",
+    "C. Pyrophosphate",
+    "D. Triclosan"
+   ],
+   "answer": "B. Nano-hydroxyapatite",
+   "explanation": "Nano-hydroxyapatite is biomimetic and integrates into enamel defects on contact, even in low-saliva conditions. Fluoride needs salivary calcium and phosphate to form fluorapatite."
+  },
+  {
+   "id": "poc-p354-mcq-02",
+   "deck": "Process of Care",
+   "section": "Night guard vs sports mouthguard",
+   "page": 354,
+   "question": "A 16-year-old hockey player has attrition on his molars from nighttime grinding and asks whether his boil-and-bite sports guard can be worn to bed. Best response?",
+   "options": [
+    "A. Yes — any guard protects teeth at night",
+    "B. No — sports guards are not appropriate for bruxism; refer to the dentist for a night guard",
+    "C. Yes, if it is cleaned with abrasive toothpaste each morning",
+    "D. No — he should stop wearing mouthguards entirely"
+   ],
+   "answer": "B. No — sports guards are not appropriate for bruxism; refer to the dentist for a night guard",
+   "explanation": "Sports mouthguards (soft EVA) are made for trauma during activity and are not appropriate for bruxism or nighttime use. Signs of grinding → ask, educate and refer to the dentist for an occlusal (night) guard."
+  },
+  {
+   "id": "poc-p355-mcq-01",
+   "deck": "Process of Care",
+   "section": "Implant care",
+   "page": 355,
+   "question": "Which home-care instruction is appropriate for a patient with a new implant-supported bridge?",
+   "options": [
+    "A. Use an interdental brush with an uncoated metal core",
+    "B. Direct the water flosser tip into the sulcus at high pressure",
+    "C. Use a whitening or charcoal toothpaste to prevent stain",
+    "D. Use a floss threader to clean under the fixed prosthesis"
+   ],
+   "answer": "D. Use a floss threader to clean under the fixed prosthesis",
+   "explanation": "Floss threaders/hooks give access under pontics, bars and fixed implant prostheses. Interdental brushes must be nylon-coated, the irrigator goes on lowest pressure perpendicular to the implant (not into the sulcus), and abrasive pastes scratch titanium."
+  },
+  {
+   "id": "poc-p356-mcq-01",
+   "deck": "Process of Care",
+   "section": "Pregnant patient",
+   "page": 356,
+   "question": "A patient in her 30th week of pregnancy becomes dizzy and pale while lying supine during scaling. What should the hygienist do first?",
+   "options": [
+    "A. Raise the chair upright and continue",
+    "B. Turn her onto her left side",
+    "C. Administer nitrous oxide-oxygen",
+    "D. Place her in Trendelenburg and continue"
+   ],
+   "answer": "B. Turn her onto her left side",
+   "explanation": "Supine hypotension (orthostatic hypotension) in pregnancy is relieved by tilting the patient to the left side, taking the uterus off the vena cava. Nitrous oxide is a relative contraindication per the book."
+  },
+  {
+   "id": "poc-p356-mcq-02",
+   "deck": "Process of Care",
+   "section": "Treatment position & wheelchair transfer",
+   "page": 356,
+   "question": "A patient with paraplegia cannot bear any weight and cannot assist. Which transfer is most appropriate?",
+   "options": [
+    "A. Single-provider stand-and-pivot",
+    "B. Two-provider transfer",
+    "C. Have the patient stand and step into the chair",
+    "D. Treat in the wheelchair without any adjustment, regardless of ergonomics"
+   ],
+   "answer": "B. Two-provider transfer",
+   "explanation": "The two-provider transfer is ideal for patients who cannot assist. Stand-and-pivot needs a patient who can support their weight and is stable and partially mobile."
+  },
+  {
+   "id": "poc-p357-mcq-01",
+   "deck": "Process of Care",
+   "section": "Language barrier",
+   "page": 357,
+   "question": "A patient with limited English needs to give informed consent for scaling and root planing. Her 14-year-old son offers to translate. What should the hygienist do?",
+   "options": [
+    "A. Let the son translate to save time",
+    "B. Use a professional interpreter",
+    "C. Ask a bilingual front-desk staff member",
+    "D. Give her an English consent form to sign"
+   ],
+   "answer": "B. Use a professional interpreter",
+   "explanation": "Treatment and consent discussions need a professional interpreter, not family or staff. Afterward, confirm understanding with teach-back."
+  },
+  {
+   "id": "poc-p357-mcq-02",
+   "deck": "Process of Care",
+   "section": "Abused patient",
+   "page": 357,
+   "question": "During an exam of a 3-year-old, the hygienist notes a torn maxillary labial frenum and bruises on the upper arms in the shape of fingers. What is the hygienist's obligation?",
+   "options": [
+    "A. Ask the parent for an explanation and drop it if plausible",
+    "B. Document the findings with photos and report the suspected abuse",
+    "C. Refer the child to a pediatric dentist only",
+    "D. Note it in the chart and re-check at the next recall"
+   ],
+   "answer": "B. Document the findings with photos and report the suspected abuse",
+   "explanation": "A torn maxillary labial frenum (forced feeding) and patterned bruising suggest abuse. Dental professionals have a legal duty to report suspected child abuse/neglect and should document the signs with pictures."
+  },
+  {
+   "id": "poc-p358-mcq-01",
+   "deck": "Process of Care",
+   "section": "In-office vs at-home whitening",
+   "page": 358,
+   "question": "A patient wants her teeth whitened as much as possible before her wedding in 5 days. Which option best fits?",
+   "options": [
+    "A. OTC whitening toothpaste",
+    "B. At-home trays with 10% carbamide peroxide",
+    "C. In-office whitening with 15–40% hydrogen peroxide",
+    "D. Porcelain veneers"
+   ],
+   "answer": "C. In-office whitening with 15–40% hydrogen peroxide",
+   "explanation": "In-office whitening gives 3–8 shades, often visible immediately, in 1–2 appointments — best for fast, pre-event results. At-home trays need 7–14 days for a gradual 2–5 shade change."
+  },
+  {
+   "id": "poc-quiz-01",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "A patient says she brushes once daily and snacks frequently on sugary drinks. She has generalized interproximal caries. Which is the most appropriate initial education topic?",
+   "options": [
+    "A. Flossing technique",
+    "B. Brushing with an electric toothbrush",
+    "C. Frequency and type of sugar intake",
+    "D. The use of water flossers"
+   ],
+   "answer": "C. Frequency and type of sugar intake",
+   "explanation": "Dietary counseling takes priority when caries risk is high due to frequent sugar. (Keywords: snacks frequently, sugary drinks, most appropriate.)"
+  },
+  {
+   "id": "poc-quiz-02",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "Which risk factor most increases a patient's risk for periodontal disease?",
+   "options": [
+    "A. Smoking one pack of cigarettes per day",
+    "B. Brushing once daily",
+    "C. Consuming high amounts of sugar",
+    "D. Lack of flossing"
+   ],
+   "answer": "A. Smoking one pack of cigarettes per day",
+   "explanation": "Smoking is the #1 modifiable risk factor for periodontal disease. (Exam standard: record smoking as cigarettes per day — 1 pack = 20 cigarettes.)"
+  },
+  {
+   "id": "poc-quiz-03",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "A high caries risk patient declines fluoride treatment due to cultural beliefs. What is the most appropriate response by the dental hygienist?",
+   "options": [
+    "A. Educate the patient using current evidence-based research and strongly encourage fluoride use to reduce caries",
+    "B. Respect the patient's decision, but document the refusal",
+    "C. Acknowledge the patient's perspective, offer education on fluoride and alternative options, and document their acceptance or refusal",
+    "D. Emphasize the importance of fluoride and recommend the patient reconsider at the next visit"
+   ],
+   "answer": "C. Acknowledge the patient's perspective, offer education on fluoride and alternative options, and document their acceptance or refusal",
+   "explanation": "The most ethical and culturally competent approach respects autonomy while offering non-coercive education. It preserves the patient-provider relationship and aligns with informed consent. Simply pushing evidence without regard for belief systems may come off as dismissive or culturally insensitive."
+  },
+  {
+   "id": "poc-quiz-04",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "Which brushing method is commonly recommended for a patient with orthodontic brackets?",
+   "options": [
+    "A. Bass",
+    "B. Stillman",
+    "C. Charter's",
+    "D. Fone's"
+   ],
+   "answer": "C. Charter's",
+   "explanation": "Charter's method directs bristles away from the gingiva and toward the occlusal/incisal edge, making it ideal for cleaning around brackets, prosthetics, or post-surgical areas."
+  },
+  {
+   "id": "poc-quiz-05",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "A 5-year-old child presents for their first hygiene appointment. Which brushing method would be most appropriate to teach the caregiver?",
+   "options": [
+    "A. Modified Bass",
+    "B. Fone's",
+    "C. Stillman",
+    "D. Charter's"
+   ],
+   "answer": "B. Fone's",
+   "explanation": "Fone's method uses large circular motions, which are easier for children or caregivers to perform and understand. It's often used in pediatric or special needs cases, though not ideal for adults."
+  },
+  {
+   "id": "poc-quiz-06",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "A patient with a fixed bridge and type II embrasures is struggling to maintain interproximal hygiene. Which aid should you recommend?",
+   "options": [
+    "A. Unwaxed floss",
+    "B. Wooden wedge",
+    "C. Tufted dental floss",
+    "D. End-tuft brush"
+   ],
+   "answer": "C. Tufted dental floss",
+   "explanation": "Tufted floss is ideal for cleaning under bridges and in type II or III embrasures, thanks to its thicker, yarn-like texture and ability to adapt to wider spaces and irregular surfaces."
+  },
+  {
+   "id": "poc-quiz-07",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "Which interdental aid would be most suitable for a patient with reduced manual dexterity and tight contacts?",
+   "options": [
+    "A. Floss threader",
+    "B. Waxed floss with a floss handle",
+    "C. Interdental brush",
+    "D. Wooden wedge"
+   ],
+   "answer": "B. Waxed floss with a floss handle",
+   "explanation": "A floss handle aids patients with poor dexterity, and waxed floss glides more easily through tight contacts, improving comfort and effectiveness."
+  },
+  {
+   "id": "poc-quiz-08",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "A patient with Parkinson's disease is scheduled for dental hygiene care. Which clinical consideration is MOST appropriate?",
+   "options": [
+    "A. Stabilize instruments and protect the airway during treatment",
+    "B. Avoid caregiver involvement to promote independence",
+    "C. Allow for longer appointments due to frequent bathroom breaks",
+    "D. Recommend an alcohol-based mouthrinse for home care"
+   ],
+   "answer": "A. Stabilize instruments and protect the airway during treatment",
+   "explanation": "Parkinson's patients may have tremors and difficulty controlling muscle movement. Stabilizing instruments and airway protection help prevent aspiration and injury during care."
+  },
+  {
+   "id": "poc-quiz-09",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "A patient taking Elavil® (a tricyclic antidepressant) presents for scaling and root planing. What local anesthetic modification is recommended?",
+   "options": [
+    "A. Administer lidocaine with 0.2 mg epinephrine",
+    "B. Use only topical anesthetics",
+    "C. Delay treatment until medication is discontinued",
+    "D. Avoid levonordefrin-containing anesthetics like Mepivacaine®"
+   ],
+   "answer": "D. Avoid levonordefrin-containing anesthetics like Mepivacaine®",
+   "explanation": "Tricyclic antidepressants can interact negatively with levonordefrin, increasing cardiovascular risk. Epinephrine can be used in low doses, but levonordefrin should be avoided."
+  },
+  {
+   "id": "poc-quiz-10",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "A 56-year-old patient experienced a stroke two months ago. What is the most appropriate course of action?",
+   "options": [
+    "A. No modifications required",
+    "B. Postpone elective dental treatment until 6 months post-attack",
+    "C. Administer supplemental oxygen while treating the patient",
+    "D. Patient should stop blood thinner prior to appointment to reduce risk of excessive bleeding"
+   ],
+   "answer": "B. Postpone elective dental treatment until 6 months post-attack",
+   "explanation": "Dental treatment should be postponed for at least 6 months after a stroke to reduce risk of complications, particularly with invasive procedures."
+  },
+  {
+   "id": "poc-quiz-11",
+   "deck": "Quizzes",
+   "section": "Process of Care bonus quiz",
+   "page": 359,
+   "question": "A patient presents with pinpoint pupils during the dental appointment. Which substance is most likely responsible for this clinical sign?",
+   "options": [
+    "A. Cocaine",
+    "B. Heroin",
+    "C. Methamphetamine",
+    "D. Alcohol"
+   ],
+   "answer": "B. Heroin",
+   "explanation": "Pinpoint pupils (miosis) are a classic sign of opioid use such as heroin, morphine, codeine, fentanyl, methadone, and oxycodone. Cocaine causes dilated pupils (mydriasis), while methamphetamine and alcohol do not typically cause miosis."
+  }
+ ]
+}

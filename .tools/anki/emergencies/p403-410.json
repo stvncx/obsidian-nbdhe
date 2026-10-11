@@ -1,0 +1,1866 @@
+{
+ "diagrams": [
+  {
+   "name": "emerg-p403-hypo-hyperglycemia",
+   "title": "Signs of hypoglycemia vs hyperglycemia",
+   "deck": "Medical Emergencies",
+   "pdf_page": 9,
+   "page": 403,
+   "crop": [
+    180,
+    300,
+    1210,
+    955
+   ],
+   "labels": [
+    {
+     "box": [
+      278,
+      312,
+      452,
+      353
+     ],
+     "answer": "Hypoglycemia",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      205,
+      474,
+      295,
+      503
+     ],
+     "answer": "Dizziness",
+     "fit": "text"
+    },
+    {
+     "box": [
+      356,
+      474,
+      440,
+      503
+     ],
+     "answer": "Sweating",
+     "fit": "text"
+    },
+    {
+     "box": [
+      486,
+      474,
+      604,
+      503
+     ],
+     "answer": "Mood swings",
+     "fit": "text"
+    },
+    {
+     "box": [
+      186,
+      641,
+      310,
+      670
+     ],
+     "answer": "Blurred vision",
+     "fit": "text"
+    },
+    {
+     "box": [
+      344,
+      641,
+      448,
+      670
+     ],
+     "answer": "Tachycardia",
+     "fit": "text"
+    },
+    {
+     "box": [
+      513,
+      641,
+      575,
+      670
+     ],
+     "answer": "Pallor",
+     "fit": "text"
+    },
+    {
+     "box": [
+      268,
+      757,
+      362,
+      786
+     ],
+     "answer": "Trembling",
+     "fit": "text"
+    },
+    {
+     "box": [
+      430,
+      757,
+      500,
+      782
+     ],
+     "answer": "Hunger",
+     "fit": "text"
+    },
+    {
+     "box": [
+      266,
+      926,
+      354,
+      952
+     ],
+     "answer": "Headache",
+     "fit": "text"
+    },
+    {
+     "box": [
+      424,
+      926,
+      492,
+      952
+     ],
+     "answer": "Fatigue",
+     "fit": "text"
+    },
+    {
+     "box": [
+      858,
+      315,
+      1047,
+      358
+     ],
+     "answer": "Hyperglycemia",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      783,
+      457,
+      858,
+      486
+     ],
+     "answer": "Dry skin",
+     "fit": "text"
+    },
+    {
+     "box": [
+      898,
+      457,
+      1012,
+      486
+     ],
+     "answer": "Blurred vision",
+     "fit": "text",
+     "key": "Blurred vision (2)"
+    },
+    {
+     "box": [
+      1018,
+      457,
+      1164,
+      486
+     ],
+     "answer": "Frequent urination",
+     "fit": "text"
+    },
+    {
+     "box": [
+      766,
+      609,
+      871,
+      638
+     ],
+     "answer": "Slow healing",
+     "fit": "text"
+    },
+    {
+     "box": [
+      921,
+      609,
+      989,
+      638
+     ],
+     "answer": "Thirsty",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1058,
+      609,
+      1122,
+      638
+     ],
+     "answer": "Hunger",
+     "fit": "text",
+     "key": "Hunger (2)"
+    },
+    {
+     "box": [
+      858,
+      744,
+      932,
+      773
+     ],
+     "answer": "Tingling",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1000,
+      744,
+      1064,
+      773
+     ],
+     "answer": "Nausea",
+     "fit": "text"
+    },
+    {
+     "box": [
+      861,
+      896,
+      926,
+      925
+     ],
+     "answer": "Fatigue",
+     "fit": "text",
+     "key": "Fatigue (2)"
+    },
+    {
+     "box": [
+      986,
+      896,
+      1082,
+      925
+     ],
+     "answer": "Weight loss",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "emerg-p405-dislocated-mandible",
+   "title": "Dislocated mandible",
+   "deck": "Medical Emergencies",
+   "pdf_page": 11,
+   "page": 405,
+   "crop": [
+    150,
+    280,
+    1220,
+    740
+   ],
+   "labels": [
+    {
+     "box": [
+      266,
+      403,
+      434,
+      437
+     ],
+     "answer": "Temporal bone",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      470,
+      570,
+      584,
+      627
+     ],
+     "answer": "Articular eminence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      163,
+      596,
+      312,
+      628
+     ],
+     "answer": "Glenoid fossa",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      206,
+      678,
+      420,
+      712
+     ],
+     "answer": "Mandibular condyle",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emerg-p408-vasoconstriction",
+   "title": "Cold vs heat on blood vessels",
+   "deck": "Medical Emergencies",
+   "pdf_page": 14,
+   "page": 408,
+   "crop": [
+    180,
+    170,
+    1160,
+    670
+   ],
+   "labels": [
+    {
+     "box": [
+      313,
+      353,
+      504,
+      392
+     ],
+     "answer": "Vasoconstriction",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      846,
+      353,
+      990,
+      390
+     ],
+     "answer": "Vasodilation",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "emerg-p403-001",
+   "deck": "Medical Emergencies",
+   "section": "Cardiac arrest",
+   "page": 403,
+   "text": "In cardiac arrest, open the airway and give rescue breaths only if you are {{c1::trained and equipped}}."
+  },
+  {
+   "id": "emerg-p403-002",
+   "deck": "Medical Emergencies",
+   "section": "Cardiac arrest",
+   "page": 403,
+   "text": "In cardiac arrest, use the {{c1::AED}} as soon as possible and follow its voice prompts."
+  },
+  {
+   "id": "emerg-p403-003",
+   "deck": "Medical Emergencies",
+   "section": "Cardiac arrest",
+   "page": 403,
+   "text": "Continue CPR until {{c1::emergency help arrives}} or {{c2::the patient recovers}}."
+  },
+  {
+   "id": "emerg-p403-004",
+   "deck": "Medical Emergencies",
+   "section": "Cardiac arrest",
+   "page": 403,
+   "text": "Using an AED within the first {{c1::3–5 minutes}} of cardiac arrest can raise survival rates to over {{c2::70%}}.",
+   "extra": "Did you know: the first portable AED was invented in the 1970s, but AEDs only became common in public places in the 1990s."
+  },
+  {
+   "id": "emerg-p403-005",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Severe hypoglycemia is called {{c1::insulin shock}}."
+  },
+  {
+   "id": "emerg-p403-006",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Hyperglycemia = blood glucose above {{c1::130}} mg/dL fasting or above {{c2::180}} mg/dL post-meal."
+  },
+  {
+   "id": "emerg-p403-007",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Causes of hypoglycemia: skipping {{c1::meals}}, taking diabetes meds, {{c2::alcohol}}, and {{c3::physical exertion}}."
+  },
+  {
+   "id": "emerg-p403-008",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Causes of hyperglycemia: {{c1::skipped diabetes meds}}, too many {{c2::carbs}}, stress, and {{c3::infection}}."
+  },
+  {
+   "id": "emerg-p403-009",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Diabetic coma is caused by {{c1::severe insulin shock (severe hypoglycemia)}} or {{c2::diabetic ketoacidosis}}."
+  },
+  {
+   "id": "emerg-p403-010",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Hypoglycemia signs: dizziness, sweating, shakiness, confusion, headache, rapid heart rate, and especially {{c1::moodiness and hunger}}; it may lead to {{c2::seizures or unconsciousness}}."
+  },
+  {
+   "id": "emerg-p403-011",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Hyperglycemia signs: nausea, thirst, {{c1::fruity breath}}, fatigue, confusion, and {{c2::frequent urination}}."
+  },
+  {
+   "id": "emerg-p403-012",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "A patient in diabetic coma is {{c1::unresponsive}} and may first show signs of either hypo- or hyperglycemia."
+  },
+  {
+   "id": "emerg-p403-013",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Hypoglycemia management: give 15 g glucose every {{c1::15 minutes}}; {{c2::juice or candy}} is OK."
+  },
+  {
+   "id": "emerg-p403-014",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Unconscious hypoglycemic patient: give {{c1::1 mg glucagon IM}} and call EMS if needed."
+  },
+  {
+   "id": "emerg-p403-015",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Hyperglycemia management: call EMS if the patient is {{c1::unstable}} or shows signs of {{c2::ketoacidosis}}."
+  },
+  {
+   "id": "emerg-p403-016",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Hypoglycemia improves within {{c1::10–15 minutes}}; have the patient rest {{c2::1 hour}} before discharge."
+  },
+  {
+   "id": "emerg-p403-017",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Schedule diabetic patients' appointments in the {{c1::morning}}, {{c2::after meals}}.",
+   "extra": "Diabetes drugs lower blood sugar, so the patient needs a meal to balance blood sugar."
+  },
+  {
+   "id": "emerg-p403-018",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "text": "Hyperglycemia may lead to diabetic coma; do NOT {{c1::treat symptomatic (hyperglycemic) patients in the dental chair}}."
+  },
+  {
+   "id": "emerg-p404-001",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "text": "In hypoglycemia, there isn't enough circulating glucose to supply energy to tissues, especially the {{c1::brain}}."
+  },
+  {
+   "id": "emerg-p404-002",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "text": "Hypoglycemia can result from taking insulin/diabetes meds without eating enough {{c1::carbs}}, using glucose up too quickly (e.g., {{c2::intense exercise}}), or fasting/skipping meals."
+  },
+  {
+   "id": "emerg-p404-003",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "text": "Alcohol contributes to hypoglycemia because alcohol metabolism {{c1::blocks glucose release from the liver}}."
+  },
+  {
+   "id": "emerg-p404-004",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "text": "Untreated hypoglycemia causes confusion, shakiness, seizures, fainting and, in severe cases, {{c1::coma}}."
+  },
+  {
+   "id": "emerg-p404-005",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "text": "In hyperglycemia, glucose builds up in the blood because {{c1::insulin}} is missing or not working properly."
+  },
+  {
+   "id": "emerg-p404-006",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "text": "{{c1::Insulin resistance}} (common in Type 2 diabetes) can cause hyperglycemia."
+  },
+  {
+   "id": "emerg-p404-007",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "text": "Without effective insulin, cells can't use glucose, so the body breaks down {{c1::fat}} for energy, creating {{c2::ketones}}, which can lead to {{c3::diabetic ketoacidosis (DKA)}} — a dangerous acidic condition."
+  },
+  {
+   "id": "emerg-p404-008",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "text": "The fruity breath of DKA comes from {{c1::acetone}}, a volatile ketone exhaled through the lungs.",
+   "extra": "Smells sweet — like overripe fruit or nail polish remover."
+  },
+  {
+   "id": "emerg-p404-009",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Swallowed fluoride reacts with stomach {{c1::hydrochloric acid}} to form {{c2::hydrofluoric acid}}, which burns the gastric lining."
+  },
+  {
+   "id": "emerg-p404-010",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "The gastric burn of fluoride toxicity causes {{c1::GI}} symptoms: nausea, vomiting, abdominal cramping, diarrhea."
+  },
+  {
+   "id": "emerg-p404-011",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "In the blood, fluoride binds {{c1::calcium}}, causing {{c2::hypocalcemia}}."
+  },
+  {
+   "id": "emerg-p404-012",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Fluoride-induced hypocalcemia affects the nervous system: muscle {{c1::tetany}}, paresthesia, seizures and, in severe cases, {{c2::cardiac arrhythmia}}, convulsions or coma."
+  },
+  {
+   "id": "emerg-p404-013",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Fluoride ingestion below 5 mg/kg: give {{c1::milk}} — it protects the stomach lining and binds fluoride to calcium, decreasing absorption."
+  },
+  {
+   "id": "emerg-p404-014",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Substitutes for milk after fluoride ingestion: {{c1::lime water}}, {{c2::antacid}}, or condensed milk."
+  },
+  {
+   "id": "emerg-p404-015",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Fluoride ingestion below 5 mg/kg: also induce vomiting and {{c1::observe the patient for a few hours}}."
+  },
+  {
+   "id": "emerg-p404-016",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Fluoride ingestion of 5–15 mg/kg: activate EMS and admit to hospital; give {{c1::calcium orally}} and {{c2::induce vomiting}}."
+  },
+  {
+   "id": "emerg-p404-017",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Fluoride ingestion of 5–15 mg/kg: the hospital monitors heart, calcium, magnesium, potassium and pH; {{c1::intravenous calcium}} may restore blood calcium."
+  },
+  {
+   "id": "emerg-p404-018",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Fluoride ingestion above {{c1::15}} mg/kg: EMS + hospital; empty the stomach, give {{c2::calcium gluconate IV}}, and monitor for cardiac arrhythmias."
+  },
+  {
+   "id": "emerg-p404-019",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Swallowing a whole {{c1::tube of toothpaste}} can exceed the 5 mg/kg mild-toxicity threshold for a young child."
+  },
+  {
+   "id": "emerg-p404-020",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "text": "Fluoride varnish contains just {{c1::5–11 mg}} of fluoride — far below toxic thresholds, even for young children."
+  },
+  {
+   "id": "emerg-p404-021",
+   "deck": "Medical Emergencies",
+   "section": "Topical anesthetic toxicity",
+   "page": 404,
+   "text": "Topical anesthetics can cause {{c1::methemoglobinemia}}, in which hemoglobin loses its ability to carry oxygen."
+  },
+  {
+   "id": "emerg-p404-022",
+   "deck": "Medical Emergencies",
+   "section": "Topical anesthetic toxicity",
+   "page": 404,
+   "text": "Methemoglobinemia is most often caused by excessive {{c1::benzocaine}} on mucosa, especially in {{c2::children}}."
+  },
+  {
+   "id": "emerg-p404-023",
+   "deck": "Medical Emergencies",
+   "section": "Topical anesthetic toxicity",
+   "page": 404,
+   "text": "Methemoglobinemia signs: pale or bluish skin (especially lips), shortness of breath, fatigue, confusion, rapid heart rate, and {{c1::cyanosis that does not improve with oxygen}}."
+  },
+  {
+   "id": "emerg-p404-024",
+   "deck": "Medical Emergencies",
+   "section": "Topical anesthetic toxicity",
+   "page": 404,
+   "text": "Methemoglobinemia protocol: stop treatment, call 911, give {{c1::oxygen}} even if cyanosis persists, monitor vitals, and tell EMS methemoglobinemia is suspected."
+  },
+  {
+   "id": "emerg-p404-025",
+   "deck": "Medical Emergencies",
+   "section": "Topical anesthetic toxicity",
+   "page": 404,
+   "text": "Hospital treatment of methemoglobinemia may require {{c1::methylene blue}}."
+  },
+  {
+   "id": "emerg-p404-026",
+   "deck": "Medical Emergencies",
+   "section": "Topical anesthetic toxicity",
+   "page": 404,
+   "text": "Avoid topical benzocaine on {{c1::infants}} and {{c2::ulcerated tissue}}; use only small, measured amounts."
+  },
+  {
+   "id": "emerg-p404-027",
+   "deck": "Medical Emergencies",
+   "section": "Local anesthetic toxicity",
+   "page": 404,
+   "text": "Local anesthetic toxicity results from overdose, too-rapid injection, or {{c1::injection into a blood vessel}}."
+  },
+  {
+   "id": "emerg-p404-028",
+   "deck": "Medical Emergencies",
+   "section": "Local anesthetic toxicity",
+   "page": 404,
+   "text": "Local anesthetic toxicity affects the {{c1::CNS}} first and may progress to {{c2::cardiovascular collapse}}."
+  },
+  {
+   "id": "emerg-p404-029",
+   "deck": "Medical Emergencies",
+   "section": "Local anesthetic toxicity",
+   "page": 404,
+   "text": "Signs of local anesthetic toxicity include a {{c1::metallic taste}}, {{c2::ringing in the ears}}, numb tongue, dizziness, slurred speech and tremors."
+  },
+  {
+   "id": "emerg-p404-030",
+   "deck": "Medical Emergencies",
+   "section": "Local anesthetic toxicity",
+   "page": 404,
+   "text": "Severe local anesthetic toxicity: {{c1::seizures}}, hypotension, {{c2::bradycardia}}, and potential cardiac arrest."
+  },
+  {
+   "id": "emerg-p404-031",
+   "deck": "Medical Emergencies",
+   "section": "Local anesthetic toxicity",
+   "page": 404,
+   "text": "Local anesthetic toxicity protocol: stop, call 911, place the patient {{c1::supine}}, give {{c2::oxygen}}; if a seizure occurs, protect from injury; be ready for CPR and an AED."
+  },
+  {
+   "id": "emerg-p405-001",
+   "deck": "Medical Emergencies",
+   "section": "Local anesthetic toxicity",
+   "page": 405,
+   "text": "To prevent local anesthetic toxicity, always {{c1::aspirate}} before injecting, stay within safe dose limits, and monitor the patient closely."
+  },
+  {
+   "id": "emerg-p405-002",
+   "deck": "Medical Emergencies",
+   "section": "Dislocated mandible",
+   "page": 405,
+   "text": "The mandible is connected to the temporal bone by {{c1::muscles and ligaments}}."
+  },
+  {
+   "id": "emerg-p405-003",
+   "deck": "Medical Emergencies",
+   "section": "Dislocated mandible",
+   "page": 405,
+   "text": "The mandibular condyle normally sits in the {{c1::glenoid (articular) fossa}} of the temporal bone."
+  },
+  {
+   "id": "emerg-p405-004",
+   "deck": "Medical Emergencies",
+   "section": "Dislocated mandible",
+   "page": 405,
+   "text": "Mandibular dislocation: the condyle moves {{c1::forward}} past the {{c2::articular eminence}} — e.g., when yawning, chewing, or opening for dental procedures."
+  },
+  {
+   "id": "emerg-p405-005",
+   "deck": "Medical Emergencies",
+   "section": "Dislocated mandible",
+   "page": 405,
+   "text": "Reducing a dislocated mandible: brace the patient's head firmly against the {{c1::headrest}}; place the clinician's {{c2::protected thumbs}} on the occlusal surfaces of the mandible, other fingers around the {{c3::ramus}}."
+  },
+  {
+   "id": "emerg-p405-006",
+   "deck": "Medical Emergencies",
+   "section": "Dislocated mandible",
+   "page": 405,
+   "text": "To reduce a dislocated mandible, push it {{c1::down}} first, then guide it {{c2::back}} and {{c3::up}} so the condyle returns into the fossa."
+  },
+  {
+   "id": "emerg-p405-007",
+   "deck": "Medical Emergencies",
+   "section": "Dislocated mandible",
+   "page": 405,
+   "text": "Don't be confused: {{c1::trismus}} = jaw stuck closed or limited opening; {{c2::dislocation}} = jaw stuck open and cannot close."
+  },
+  {
+   "id": "emerg-p405-008",
+   "deck": "Medical Emergencies",
+   "section": "Dislocated mandible",
+   "page": 405,
+   "text": "Bite blocks or mouth props used during lengthy procedures can cause {{c1::mandibular dislocation or trismus}}; instruct patients to gently {{c2::exercise the jaw}} post-procedure."
+  },
+  {
+   "id": "emerg-p405-009",
+   "deck": "Medical Emergencies",
+   "section": "Trismus",
+   "page": 405,
+   "text": "Trismus is commonly caused by trauma, infection, inflammation, or dental complications such as a {{c1::posterior superior alveolar (PSA)}} nerve block."
+  },
+  {
+   "id": "emerg-p405-010",
+   "deck": "Medical Emergencies",
+   "section": "Trismus",
+   "page": 405,
+   "text": "In trismus, patients can't open fully, and {{c1::chewing and speaking}} can become painful."
+  },
+  {
+   "id": "emerg-p405-011",
+   "deck": "Medical Emergencies",
+   "section": "Trismus",
+   "page": 405,
+   "text": "Severe trismus with fever and generalized muscle stiffness can be a sign of {{c1::tetanus}}."
+  },
+  {
+   "id": "emerg-p405-012",
+   "deck": "Medical Emergencies",
+   "section": "Trismus",
+   "page": 405,
+   "text": "Trismus protocol: apply {{c1::warm}} compresses, recommend gentle jaw-stretching exercises, rest the jaw and avoid wide opening; a {{c2::mouth-opening exercise device}} increases range of motion."
+  },
+  {
+   "id": "emerg-p406-001",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "When a tooth is avulsed, the {{c1::periodontal ligament (PDL)}} is torn, but many of its cells may remain alive on the {{c2::root surface}} — essential for reattachment."
+  },
+  {
+   "id": "emerg-p406-002",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "Handle an avulsed tooth only by the {{c1::crown}}; do not touch or clean the root."
+  },
+  {
+   "id": "emerg-p406-003",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "Gently rinse debris off an avulsed tooth and transport it in liquid; keep the root moist — do not wrap it in {{c1::paper}}."
+  },
+  {
+   "id": "emerg-p406-004",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "{{c1::Save-A-Tooth®}} is the best storage medium: its pH (~7.2) and osmolality (280–300 mOsm) match PDL cells, and it contains glucose, Ca²⁺, phosphate and K⁺."
+  },
+  {
+   "id": "emerg-p406-005",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "{{c1::Whole milk}} is a good avulsed-tooth storage medium: osmolality similar to root cells, widely available; do NOT use {{c2::skim milk or cream}}."
+  },
+  {
+   "id": "emerg-p406-006",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "{{c1::Saline}} is acceptable for storing an avulsed tooth — isotonic and safe for short transport."
+  },
+  {
+   "id": "emerg-p406-007",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "Saliva (buccal fold) is not ideal for an avulsed tooth: low osmolality and high {{c1::bacterial content}}."
+  },
+  {
+   "id": "emerg-p406-008",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "{{c1::Water or ice}} is a poor storage medium: its very low osmolality (7–17 mOsm) causes {{c2::cell rupture}}."
+  },
+  {
+   "id": "emerg-p406-009",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "Never store an avulsed tooth {{c1::dry}} (tissue, glass) — it kills root cells rapidly."
+  },
+  {
+   "id": "emerg-p406-010",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "Avulsed permanent tooth: {{c1::replant immediately}} in its original position."
+  },
+  {
+   "id": "emerg-p406-011",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "text": "Replantation success depends on the {{c1::vitality of the cells remaining on the root surface}}."
+  },
+  {
+   "id": "emerg-p406-012",
+   "deck": "Medical Emergencies",
+   "section": "Foreign body in the eye",
+   "page": 406,
+   "text": "A foreign object in the eye may be {{c1::superficial}} (e.g., dust, eyelash) or {{c2::embedded}} in the surface."
+  },
+  {
+   "id": "emerg-p406-013",
+   "deck": "Medical Emergencies",
+   "section": "Foreign body in the eye",
+   "page": 406,
+   "text": "Signs of a foreign body in the eye: discomfort, {{c1::tearing}}, redness, blurry vision, and a feeling of something in the eye."
+  },
+  {
+   "id": "emerg-p406-014",
+   "deck": "Medical Emergencies",
+   "section": "Foreign body in the eye",
+   "page": 406,
+   "text": "Foreign body in eye: {{c1::wash your hands}} with soap and water first; use an {{c2::eyewash station}} if available, or flush with clean lukewarm water."
+  },
+  {
+   "id": "emerg-p406-015",
+   "deck": "Medical Emergencies",
+   "section": "Foreign body in the eye",
+   "page": 406,
+   "text": "Rinse the eye from the {{c1::inner (medial)}} to the {{c2::outer (lateral)}} corner to avoid cross-contamination."
+  },
+  {
+   "id": "emerg-p406-016",
+   "deck": "Medical Emergencies",
+   "section": "Foreign body in the eye",
+   "page": 406,
+   "text": "An {{c1::eyecup or clean glass}} can be positioned against the bone at the base of the eye socket to rinse the eye."
+  },
+  {
+   "id": "emerg-p406-017",
+   "deck": "Medical Emergencies",
+   "section": "Foreign body in the eye",
+   "page": 406,
+   "text": "Have the patient remove {{c1::contact lenses}} to access the eye surface more clearly."
+  },
+  {
+   "id": "emerg-p406-018",
+   "deck": "Medical Emergencies",
+   "section": "Foreign body in the eye",
+   "page": 406,
+   "text": "Do not attempt to remove {{c1::embedded}} objects or {{c2::rub}} the eye."
+  },
+  {
+   "id": "emerg-p406-019",
+   "deck": "Medical Emergencies",
+   "section": "Foreign body in the eye",
+   "page": 406,
+   "text": "Seek emergency care if the object can't be removed or the patient has continued {{c1::pain or visual changes}}; mild redness may persist even after removal."
+  },
+  {
+   "id": "emerg-p406-020",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 406,
+   "text": "Initial choking signs in an adult/child: coughing, wheezing, cyanosis, inability to speak, and the {{c1::universal choking sign}}."
+  },
+  {
+   "id": "emerg-p406-021",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 406,
+   "text": "Initial choking signs in an infant: {{c1::weak cry}}, ineffective breathing, cyanosis, limpness, choking gesture."
+  },
+  {
+   "id": "emerg-p406-022",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 406,
+   "text": "If a choking victim is coughing forcefully, {{c1::let them keep coughing}} — it is the most effective way to clear the airway; do not interfere."
+  },
+  {
+   "id": "emerg-p406-023",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 406,
+   "text": "Abdominal thrusts (Heimlich maneuver) are used for conscious choking adults and children over {{c1::1 year}} who cannot breathe."
+  },
+  {
+   "id": "emerg-p406-024",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 406,
+   "text": "Heimlich maneuver: stand behind the person, place a fist just above the {{c1::navel}}, grasp it with the other hand, and deliver quick {{c2::inward and upward}} thrusts until the object is expelled or the person becomes unresponsive."
+  },
+  {
+   "id": "emerg-p406-025",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 406,
+   "text": "Choking infant: lay the infant {{c1::face-down}} along your forearm, supporting the head and neck, and deliver back blows between the {{c2::shoulder blades}} with the heel of your hand."
+  },
+  {
+   "id": "emerg-p407-001",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 407,
+   "text": "Infant chest thrusts: turn the infant face-up, support the head, and press with {{c1::2 fingers}} on the breastbone just below the {{c2::nipple line}}."
+  },
+  {
+   "id": "emerg-p407-002",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 407,
+   "text": "If a choking victim becomes unconscious: call 911, lower them to the floor (infant: a firm surface), and begin {{c1::CPR}} if needed."
+  },
+  {
+   "id": "emerg-p407-003",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 407,
+   "text": "Opening the airway: adult/child — {{c1::tilt the head back and lift the chin}}; infant — {{c2::neutral head position}}.",
+   "extra": "Do NOT tilt an infant's head back — the infant airway is more flexible and narrower."
+  },
+  {
+   "id": "emerg-p407-004",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 407,
+   "text": "In any choking victim, do NOT perform a {{c1::blind finger sweep}}; remove an object only if it is clearly visible."
+  },
+  {
+   "id": "emerg-p407-005",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 407,
+   "text": "Begin CPR on a choking victim who is unresponsive and {{c1::not breathing}}."
+  },
+  {
+   "id": "emerg-p407-006",
+   "deck": "Medical Emergencies",
+   "section": "Bleeding after dental procedures",
+   "page": 407,
+   "text": "Excessive bleeding can occur during or after NSPT, prophylaxis, periodontal surgery, restorative procedures, or {{c1::extractions}}."
+  },
+  {
+   "id": "emerg-p407-007",
+   "deck": "Medical Emergencies",
+   "section": "Bleeding after dental procedures",
+   "page": 407,
+   "text": "Post-procedure bleeding: apply {{c1::firm pressure with gauze}} until a clot forms."
+  },
+  {
+   "id": "emerg-p407-008",
+   "deck": "Medical Emergencies",
+   "section": "Bleeding after dental procedures",
+   "page": 407,
+   "text": "Conditions associated with increased bleeding risk: anticoagulants, {{c1::antiplatelets}}, and {{c2::NSAIDs}}."
+  },
+  {
+   "id": "emerg-p407-009",
+   "deck": "Medical Emergencies",
+   "section": "Bleeding after dental procedures",
+   "page": 407,
+   "text": "A dental procedure may reveal an undiagnosed bleeding disorder such as {{c1::hemophilia}} or {{c2::von Willebrand's disease}} for the first time."
+  },
+  {
+   "id": "emerg-p407-010",
+   "deck": "Medical Emergencies",
+   "section": "Dry socket",
+   "page": 407,
+   "text": "Dry socket is most common {{c1::1–3 days}} after extraction, especially in {{c2::lower molars}}."
+  },
+  {
+   "id": "emerg-p407-011",
+   "deck": "Medical Emergencies",
+   "section": "Dry socket",
+   "page": 407,
+   "text": "Dry socket risk factors: using a straw, spitting, {{c1::smoking}}, poor oral hygiene, and trauma to the area."
+  },
+  {
+   "id": "emerg-p407-012",
+   "deck": "Medical Emergencies",
+   "section": "Dry socket",
+   "page": 407,
+   "text": "Dry socket treatment: {{c1::irrigation}}, {{c2::medicated dressings}}, and pain relief."
+  },
+  {
+   "id": "emerg-p407-013",
+   "deck": "Medical Emergencies",
+   "section": "Nosebleed (epistaxis)",
+   "page": 407,
+   "text": "A nosebleed occurs when delicate vessels in the {{c1::nasal lining}} rupture — from dryness, trauma (nose-picking, sneezing), hypertension, or clotting disorders."
+  },
+  {
+   "id": "emerg-p407-014",
+   "deck": "Medical Emergencies",
+   "section": "Nosebleed (epistaxis)",
+   "page": 407,
+   "text": "Most nosebleeds are {{c1::anterior}} and self-limiting."
+  },
+  {
+   "id": "emerg-p407-015",
+   "deck": "Medical Emergencies",
+   "section": "Nosebleed (epistaxis)",
+   "page": 407,
+   "text": "Epistaxis: sit upright and lean {{c1::forward}} — this lowers pressure in the nasal veins and prevents {{c2::swallowing blood}}, which irritates the stomach."
+  },
+  {
+   "id": "emerg-p407-016",
+   "deck": "Medical Emergencies",
+   "section": "Nosebleed (epistaxis)",
+   "page": 407,
+   "text": "Epistaxis: keep the head higher than the {{c1::heart}}, apply a cold compress, put gauze in the nostril, and pinch the nose with thumb and index finger for {{c2::10 minutes}} while breathing through the mouth."
+  },
+  {
+   "id": "emerg-p407-017",
+   "deck": "Medical Emergencies",
+   "section": "Nosebleed (epistaxis)",
+   "page": 407,
+   "text": "After a nosebleed, advise the patient not to {{c1::touch or blow the nose}} for a few hours."
+  },
+  {
+   "id": "emerg-p408-001",
+   "deck": "Medical Emergencies",
+   "section": "Hematoma",
+   "page": 408,
+   "text": "In dentistry, hematomas most often follow {{c1::local anesthetic injections}}, when the needle traumatizes a vein or artery."
+  },
+  {
+   "id": "emerg-p408-002",
+   "deck": "Medical Emergencies",
+   "section": "Hematoma",
+   "page": 408,
+   "text": "The {{c1::inferior alveolar}} nerve block has a higher chance of hematoma because the needle penetrates deeper into the tissue."
+  },
+  {
+   "id": "emerg-p408-003",
+   "deck": "Medical Emergencies",
+   "section": "Hematoma",
+   "page": 408,
+   "text": "A PSA nerve block can cause a hematoma by puncturing the {{c1::pterygoid venous plexus}} in the {{c2::infratemporal fossa}}."
+  },
+  {
+   "id": "emerg-p408-004",
+   "deck": "Medical Emergencies",
+   "section": "Hematoma",
+   "page": 408,
+   "text": "Hematoma, first day: apply {{c1::ice packs}} a few times a day — vasoconstriction decreases hemorrhage and edema."
+  },
+  {
+   "id": "emerg-p408-005",
+   "deck": "Medical Emergencies",
+   "section": "Hematoma",
+   "page": 408,
+   "text": "Hematoma, from the following day: apply {{c1::heat}} — vasodilation helps resorption of blood; never on the first day.",
+   "extra": "The condition should resolve on its own."
+  }
+ ],
+ "basic": [
+  {
+   "id": "emerg-p403-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Cardiac arrest",
+   "page": 403,
+   "front": "Which three things should NOT be given during cardiac arrest (per the book)?",
+   "back": "Nitroglycerin, aspirin, oxygen — they do not help during cardiac arrest.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p403-b-02",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "front": "Diabetic coma",
+   "back": "Unconscious state due to extreme hypo- or hyperglycemia",
+   "reverse": true,
+   "extra": "The brain can no longer function properly; both conditions can lead to permanent brain damage or death."
+  },
+  {
+   "id": "emerg-p403-b-03",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "front": "Diabetic emergency and you are unsure whether it is hypo- or hyperglycemia — what do you do, and why?",
+   "back": "Call EMS immediately and give glucose: it can save a hypoglycemic patient and won't harm a hyperglycemic one short-term.",
+   "reverse": false,
+   "extra": "It is safer to treat as hypoglycemia — hypoglycemic coma can lead to brain damage or death."
+  },
+  {
+   "id": "emerg-p403-b-04",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "front": "Why does moodiness or sudden irritability occur in hypoglycemia?",
+   "back": "Glucose is the brain's only fuel; when levels drop, the brain panics and triggers emotional outbursts, confusion, even aggression — to push the person to find food fast.",
+   "reverse": false,
+   "extra": "Did you know: someone acting \"hangry\" may be a brain fighting to survive."
+  },
+  {
+   "id": "emerg-p405-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Trismus",
+   "page": 405,
+   "front": "Trismus (lockjaw)",
+   "back": "Spasm or restriction of the jaw muscles causing limited mouth opening",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p405-b-02",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 405,
+   "front": "Avulsion",
+   "back": "Complete displacement of a tooth from its socket due to trauma",
+   "reverse": true,
+   "extra": "Often occurs during sports injuries, accidents or falls."
+  },
+  {
+   "id": "emerg-p406-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "front": "Why is an avulsed primary (deciduous) tooth NOT replanted?",
+   "back": "Risk of damaging the permanent tooth germ.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p407-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Bleeding after dental procedures",
+   "page": 407,
+   "front": "Why should a patient not spit, rinse, or use a straw on the day of a procedure that caused bleeding?",
+   "back": "Any suction can dislodge the clot and delay healing.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p407-b-02",
+   "deck": "Medical Emergencies",
+   "section": "Dry socket",
+   "page": 407,
+   "front": "Dry socket (alveolar osteitis)",
+   "back": "Loss of the clot after extraction, exposing the underlying bone and nerves — intense pain and delayed healing",
+   "reverse": true,
+   "extra": "Board Alert: a case mentioning a recent extraction = think: could this be a dry socket? Is the patient in pain? Do I need to prepare for a post-op emergency?"
+  },
+  {
+   "id": "emerg-p408-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Hematoma",
+   "page": 408,
+   "front": "Hematoma",
+   "back": "Blood leaking into surrounding tissues after injury to a blood vessel wall",
+   "reverse": true,
+   "extra": "Visible swelling, bruising and discomfort."
+  }
+ ],
+ "typein": [
+  {
+   "id": "emerg-p403-t-01",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "question": "Hypoglycemia = blood glucose below what value? (mg/dL)",
+   "answer": "70",
+   "extra": "Severe hypoglycemia = insulin shock."
+  },
+  {
+   "id": "emerg-p403-t-02",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 403,
+   "question": "Conscious hypoglycemic patient: how many grams of glucose do you give (repeated every 15 min)? (g)",
+   "answer": "15",
+   "extra": "Juice or candy is OK."
+  },
+  {
+   "id": "emerg-p404-t-01",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "question": "Fluoride ingestion: above what dose does mild toxicity begin? (mg/kg)",
+   "answer": "5",
+   "extra": "The book also prints '10 mg/lb' here, but 5 mg/kg ≈ 2.3 mg/lb — learn the mg/kg values."
+  },
+  {
+   "id": "emerg-p404-t-02",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "question": "A 15-kg child: how many mg of fluoride reach the 5 mg/kg toxicity threshold? (mg)",
+   "answer": "75",
+   "extra": ""
+  },
+  {
+   "id": "emerg-p406-t-01",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "question": "Failing to replant an avulsed tooth within the first how many minutes may give a less favorable prognosis? (minutes)",
+   "answer": "40",
+   "extra": "Book's figure. IADT 2020 guidance describes PDL cells as nonviable after more than 60 min dry time — either way, replant as fast as possible."
+  },
+  {
+   "id": "emerg-p406-t-02",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 406,
+   "question": "Conscious choking infant: how many back blows per cycle?",
+   "answer": "5",
+   "extra": ""
+  },
+  {
+   "id": "emerg-p407-t-01",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 407,
+   "question": "Conscious choking infant: after the back blows, how many chest thrusts?",
+   "answer": "5",
+   "extra": ""
+  },
+  {
+   "id": "emerg-p407-t-02",
+   "deck": "Medical Emergencies",
+   "section": "Dry socket",
+   "page": 407,
+   "question": "To prevent dry socket, avoid suction, spitting and smoking for at least how many hours post-op?",
+   "answer": "24",
+   "extra": ""
+  },
+  {
+   "id": "emerg-p407-t-03",
+   "deck": "Medical Emergencies",
+   "section": "Nosebleed (epistaxis)",
+   "page": 407,
+   "question": "Seek emergency care for a nosebleed lasting more than how many minutes?",
+   "answer": "30",
+   "extra": "Also seek care if the nosebleed is related to an injury."
+  }
+ ],
+ "match": [
+  {
+   "id": "emerg-p404-m-01",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "prompt": "Match each fluoride dose to its management.",
+   "pairs": [
+    [
+     "Under 5 mg/kg",
+     "Milk (or substitute), induce vomiting, observe a few hours"
+    ],
+    [
+     "5–15 mg/kg",
+     "EMS + hospital; oral calcium, induce vomiting"
+    ],
+    [
+     "Over 15 mg/kg",
+     "EMS + hospital; empty stomach, IV calcium gluconate, cardiac monitoring"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "emerg-p405-o-01",
+   "deck": "Medical Emergencies",
+   "section": "Dislocated mandible",
+   "page": 405,
+   "prompt": "Put the steps for reducing a dislocated mandible in order.",
+   "items": [
+    "Brace the patient's head firmly against the headrest",
+    "Place protected thumbs on the mandibular occlusal surfaces, fingers around the ramus",
+    "Push the mandible down",
+    "Guide it back",
+    "Guide it up — condyle returns into the glenoid fossa"
+   ]
+  },
+  {
+   "id": "emerg-p406-o-01",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "prompt": "Rank avulsed-tooth storage options from best to worst.",
+   "items": [
+    "Save-A-Tooth®",
+    "Whole milk",
+    "Saline",
+    "Saliva (buccal fold)",
+    "Water or ice",
+    "Dry (tissue/glass)"
+   ]
+  },
+  {
+   "id": "emerg-p407-o-01",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 407,
+   "prompt": "Put the steps for a conscious choking infant in order.",
+   "items": [
+    "Lay the infant face-down along your forearm, head supported",
+    "Deliver 5 firm back blows between the shoulder blades",
+    "Turn the infant face-up, still supporting the head",
+    "Deliver 5 chest thrusts with 2 fingers just below the nipple line",
+    "Repeat until the object is expelled or the infant becomes unresponsive"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "emerg-p404-s-01",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "prompt": "Hypoglycemia or hyperglycemia?",
+   "categories": [
+    [
+     "Hypoglycemia",
+     [
+      "Skipping a meal",
+      "Alcohol",
+      "Physical exertion",
+      "Blood glucose < 70 mg/dL",
+      "Give 15 g glucose",
+      "Glucagon 1 mg IM"
+     ]
+    ],
+    [
+     "Hyperglycemia",
+     [
+      "Skipped diabetes meds",
+      "Too many carbs",
+      "Infection or stress",
+      "Blood glucose > 180 mg/dL post-meal",
+      "Ketones / DKA",
+      "Insulin resistance"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "emerg-p404-s-02",
+   "deck": "Medical Emergencies",
+   "section": "Local anesthetic toxicity",
+   "page": 404,
+   "prompt": "Methemoglobinemia (topical) or local anesthetic toxicity?",
+   "categories": [
+    [
+     "Methemoglobinemia",
+     [
+      "Excess benzocaine on mucosa",
+      "Cyanosis not improving with oxygen",
+      "Methylene blue in hospital",
+      "Avoid on infants"
+     ]
+    ],
+    [
+     "Local anesthetic toxicity",
+     [
+      "Injection into a blood vessel",
+      "Metallic taste, tinnitus",
+      "CNS affected first",
+      "Bradycardia, hypotension"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "emerg-p407-s-01",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 407,
+   "prompt": "Choking: adult/child (over 1 year) or infant (under 1 year)?",
+   "categories": [
+    [
+     "Adult/child",
+     [
+      "Abdominal thrusts",
+      "Fist just above the navel",
+      "Head tilt–chin lift",
+      "Universal choking sign"
+     ]
+    ],
+    [
+     "Infant",
+     [
+      "5 back blows, face-down on forearm",
+      "5 two-finger chest thrusts",
+      "Neutral head position",
+      "Weak cry, limpness"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "emerg-p407-s-02",
+   "deck": "Medical Emergencies",
+   "section": "Bleeding after dental procedures",
+   "page": 407,
+   "prompt": "Sort the drugs that raise bleeding risk.",
+   "categories": [
+    [
+     "Anticoagulant",
+     [
+      "Warfarin",
+      "Xarelto",
+      "Eliquis"
+     ]
+    ],
+    [
+     "Antiplatelet",
+     [
+      "Aspirin",
+      "Plavix"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "emerg-p404-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "question": "A patient with diabetes skipped breakfast to make an early appointment. During scaling she becomes sweaty, shaky and irritable but is conscious and can swallow. What is the best first action?",
+   "options": [
+    "A. Give 1 mg glucagon IM",
+    "B. Give 15 g of fast glucose such as juice",
+    "C. Call EMS and wait without giving anything",
+    "D. Give her insulin"
+   ],
+   "answer": "B. Give 15 g of fast glucose such as juice",
+   "explanation": "A conscious hypoglycemic patient gets 15 g glucose by mouth (juice or candy), repeated every 15 min. Glucagon 1 mg IM is for an UNCONSCIOUS patient; insulin would lower glucose further."
+  },
+  {
+   "id": "emerg-p404-mcq-02",
+   "deck": "Medical Emergencies",
+   "section": "Diabetes complications",
+   "page": 404,
+   "question": "A patient with diabetes becomes unresponsive in the chair. You cannot tell whether it is hypo- or hyperglycemia. What is the most appropriate step?",
+   "options": [
+    "A. Wait to see whether the patient recovers",
+    "B. Give insulin",
+    "C. Call EMS and give glucose",
+    "D. Place the patient upright and give oxygen only"
+   ],
+   "answer": "C. Call EMS and give glucose",
+   "explanation": "Glucose can save a hypoglycemic patient and won't harm a hyperglycemic one short-term, so treat as hypoglycemia and call EMS. Insulin could kill a hypoglycemic patient."
+  },
+  {
+   "id": "emerg-p404-mcq-03",
+   "deck": "Medical Emergencies",
+   "section": "Fluoride toxicity",
+   "page": 404,
+   "question": "A 20-kg child swallows about 200 mg of fluoride at home. What is the appropriate management?",
+   "options": [
+    "A. Give milk and observe at home for a few hours",
+    "B. Activate EMS, admit to hospital, give calcium orally and induce vomiting",
+    "C. No treatment is needed below 15 mg/kg",
+    "D. Give water to dilute the fluoride"
+   ],
+   "answer": "B. Activate EMS, admit to hospital, give calcium orally and induce vomiting",
+   "explanation": "200 mg ÷ 20 kg = 10 mg/kg, in the 5–15 mg/kg range: EMS, hospital, oral calcium, induce vomiting. Milk and observation alone is for doses below 5 mg/kg."
+  },
+  {
+   "id": "emerg-p404-mcq-04",
+   "deck": "Medical Emergencies",
+   "section": "Local anesthetic toxicity",
+   "page": 404,
+   "question": "Ten minutes after generous topical benzocaine, a 6-year-old has bluish lips and is short of breath. Cyanosis does not improve with oxygen. What is the most likely cause?",
+   "options": [
+    "A. Local anesthetic overdose from intravascular injection",
+    "B. Methemoglobinemia",
+    "C. Hyperventilation",
+    "D. Anaphylaxis"
+   ],
+   "answer": "B. Methemoglobinemia",
+   "explanation": "Excess benzocaine (especially in children) causes methemoglobinemia — hemoglobin can't carry oxygen, so cyanosis persists despite oxygen. LA toxicity from injection presents with CNS signs first (metallic taste, tinnitus, tremors)."
+  },
+  {
+   "id": "emerg-p405-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Local anesthetic toxicity",
+   "page": 405,
+   "question": "Right after an inferior alveolar nerve block, the patient reports a metallic taste, ringing in the ears and a numb tongue, then begins to tremble. What most likely happened?",
+   "options": [
+    "A. Methemoglobinemia",
+    "B. Hypoglycemia",
+    "C. Injection into a blood vessel (LA toxicity)",
+    "D. Mandibular dislocation"
+   ],
+   "answer": "C. Injection into a blood vessel (LA toxicity)",
+   "explanation": "Metallic taste, tinnitus and tremors are CNS signs of local anesthetic toxicity, often from intravascular injection — prevented by aspirating. Methemoglobinemia follows topical benzocaine and shows cyanosis."
+  },
+  {
+   "id": "emerg-p405-mcq-02",
+   "deck": "Medical Emergencies",
+   "section": "Trismus",
+   "page": 405,
+   "question": "The day after a PSA block, a patient can open only about 2 finger-widths and chewing hurts. There is no fever or general stiffness. What do you recommend?",
+   "options": [
+    "A. Ice packs and avoid moving the jaw for a week",
+    "B. Warm compresses, gentle jaw-stretching exercises, rest the jaw",
+    "C. Push the mandible down, back and up",
+    "D. Call 911 for suspected tetanus"
+   ],
+   "answer": "B. Warm compresses, gentle jaw-stretching exercises, rest the jaw",
+   "explanation": "This is trismus: warm compresses, gentle stretching, rest, avoid wide opening. Down-back-up reduction is for a dislocated (stuck OPEN) mandible; tetanus is suspected only with fever and generalized stiffness."
+  },
+  {
+   "id": "emerg-p405-mcq-03",
+   "deck": "Medical Emergencies",
+   "section": "Trismus",
+   "page": 405,
+   "question": "A patient yawns widely during treatment and now cannot close her mouth. What is the correct management?",
+   "options": [
+    "A. Apply warm compresses and wait",
+    "B. Push the mandible upward to close it",
+    "C. With protected thumbs on the occlusal surfaces, push the mandible down, then back and up",
+    "D. Have her bite on a bite block"
+   ],
+   "answer": "C. With protected thumbs on the occlusal surfaces, push the mandible down, then back and up",
+   "explanation": "Dislocation = condyle forward past the articular eminence. Pushing straight up can't clear the eminence; press down first, then back and up into the glenoid fossa."
+  },
+  {
+   "id": "emerg-p406-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Avulsed tooth",
+   "page": 406,
+   "question": "A 14-year-old's permanent central incisor is knocked out at soccer practice and you cannot replant it right away. No Save-A-Tooth is available. How should the tooth be transported?",
+   "options": [
+    "A. Wrapped in a dry tissue",
+    "B. In tap water",
+    "C. In whole milk",
+    "D. In skim milk"
+   ],
+   "answer": "C. In whole milk",
+   "explanation": "Whole milk has an osmolality similar to root cells (good option). Water's very low osmolality ruptures cells, dry storage kills them, and skim milk is specifically not recommended."
+  },
+  {
+   "id": "emerg-p406-mcq-02",
+   "deck": "Medical Emergencies",
+   "section": "Foreign body in the eye",
+   "page": 406,
+   "question": "A speck of debris enters a patient's eye during polishing. Which action is correct?",
+   "options": [
+    "A. Rub the eye gently to dislodge it",
+    "B. Rinse with clean water from the outer corner toward the nose",
+    "C. Rinse with clean water from the inner (medial) corner to the outer (lateral) corner",
+    "D. Remove it with a cotton tip even if embedded"
+   ],
+   "answer": "C. Rinse with clean water from the inner (medial) corner to the outer (lateral) corner",
+   "explanation": "Rinse medial → lateral so debris is flushed away from the other eye (avoids cross-contamination). Never rub the eye or try to remove an embedded object."
+  },
+  {
+   "id": "emerg-p407-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Obstructed airway",
+   "page": 407,
+   "question": "An 8-month-old in the waiting room suddenly cannot cry or breathe effectively and is turning blue. She is conscious. What should you do first?",
+   "options": [
+    "A. Give abdominal thrusts",
+    "B. Perform a blind finger sweep",
+    "C. Lay her face-down on your forearm and give 5 back blows",
+    "D. Tilt her head back and give rescue breaths"
+   ],
+   "answer": "C. Lay her face-down on your forearm and give 5 back blows",
+   "explanation": "Infants (<1 year) get 5 back blows then 5 chest thrusts. Abdominal thrusts are for over 1 year; blind sweeps are never done; the infant head stays neutral."
+  },
+  {
+   "id": "emerg-p407-mcq-02",
+   "deck": "Medical Emergencies",
+   "section": "Dry socket",
+   "page": 407,
+   "question": "Two days after extraction of tooth #30, a patient who smokes calls with intense, worsening pain. What is the most likely cause?",
+   "options": [
+    "A. Hematoma",
+    "B. Dry socket (alveolar osteitis)",
+    "C. Trismus",
+    "D. Methemoglobinemia"
+   ],
+   "answer": "B. Dry socket (alveolar osteitis)",
+   "explanation": "Dry socket peaks 1–3 days after extraction, especially lower molars; smoking is a risk factor. The lost clot exposes bone and nerves, causing intense pain."
+  },
+  {
+   "id": "emerg-p407-mcq-03",
+   "deck": "Medical Emergencies",
+   "section": "Nosebleed (epistaxis)",
+   "page": 407,
+   "question": "A patient develops a nosebleed in the chair. Which instruction is correct?",
+   "options": [
+    "A. Lie back with the head tilted back",
+    "B. Sit upright, lean forward and pinch the nose for 10 minutes",
+    "C. Blow the nose to clear clots, then pinch for 1 minute",
+    "D. Place the patient in Trendelenburg position"
+   ],
+   "answer": "B. Sit upright, lean forward and pinch the nose for 10 minutes",
+   "explanation": "Upright and leaning forward lowers nasal venous pressure and keeps blood from being swallowed; pinch for 10 min. Tilting back or lowering the head sends blood down the throat or raises pressure."
+  },
+  {
+   "id": "emerg-p408-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Hematoma",
+   "page": 408,
+   "question": "Right after a PSA injection, the patient's cheek swells rapidly and turns bluish. What is the best management today?",
+   "options": [
+    "A. Apply heat to speed resorption",
+    "B. Apply ice packs a few times a day",
+    "C. Give aspirin for pain",
+    "D. Push the mandible down and back"
+   ],
+   "answer": "B. Apply ice packs a few times a day",
+   "explanation": "The needle likely punctured the pterygoid venous plexus. Day 1 = ice (vasoconstriction reduces bleeding and swelling); heat only from the next day. Aspirin would increase bleeding."
+  },
+  {
+   "id": "emerg-quiz-01",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "What is the compression-to-ventilation ratio for 2-rescuer CPR in children?",
+   "options": [
+    "A. 15:2",
+    "B. 30:2",
+    "C. 5:1",
+    "D. 20:2"
+   ],
+   "answer": "A. 15:2",
+   "explanation": "In 2-rescuer CPR for children and infants the ratio is 15:2. For single-rescuer CPR it's 30:2 for all age groups."
+  },
+  {
+   "id": "emerg-quiz-02",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "Which is NOT recommended during hyperventilation?",
+   "options": [
+    "A. Provide oxygen",
+    "B. Instruct pursed-lip breathing",
+    "C. Use alternate nostril breathing",
+    "D. Encourage slow diaphragmatic breath"
+   ],
+   "answer": "A. Provide oxygen",
+   "explanation": "Oxygen should NOT be given during hyperventilation — it worsens the condition by further reducing CO₂. The goal is to retain CO₂ to correct respiratory alkalosis."
+  },
+  {
+   "id": "emerg-quiz-03",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "A patient is experiencing chest pain. You administer nitroglycerin. When should you call 911?",
+   "options": [
+    "A. After 3 doses",
+    "B. After 10 minutes",
+    "C. After 1 dose with no relief",
+    "D. Immediately without giving nitroglycerin"
+   ],
+   "answer": "C. After 1 dose with no relief",
+   "explanation": "If the pain doesn't subside after the first nitroglycerin dose, assume it's a heart attack (MI) and call 911."
+  },
+  {
+   "id": "emerg-quiz-04",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "What is the appropriate action for a dislocated mandible during a dental procedure?",
+   "options": [
+    "A. Place warm compress",
+    "B. Push the jaw upward only",
+    "C. Push down and guide back into place",
+    "D. Administer nitroglycerin"
+   ],
+   "answer": "C. Push down and guide back into place",
+   "explanation": "To reduce a dislocated mandible, press down and then guide the jaw backward and upward to reposition the condyle."
+  },
+  {
+   "id": "emerg-quiz-05",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "In hypoglycemia, why does moodiness occur?",
+   "options": [
+    "A. Pancreatic inflammation",
+    "B. Brain uses amino acids instead of glucose",
+    "C. Brain is starved for fuel",
+    "D. Adrenal fatigue"
+   ],
+   "answer": "C. Brain is starved for fuel",
+   "explanation": "The brain depends on glucose. When levels drop, the brain triggers emotional and survival responses like moodiness and irritability."
+  },
+  {
+   "id": "emerg-quiz-06",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "What is the emergency response for mild allergic reaction?",
+   "options": [
+    "A. Epinephrine",
+    "B. Aspirin",
+    "C. Diphenhydramine",
+    "D. Oxygen only"
+   ],
+   "answer": "C. Diphenhydramine",
+   "explanation": "Mild allergic reactions are managed with antihistamines like diphenhydramine. Epinephrine is reserved for anaphylaxis."
+  },
+  {
+   "id": "emerg-quiz-07",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "In a seizure, which is NOT recommended?",
+   "options": [
+    "A. Place tongue depressor in mouth",
+    "B. Protect patient from injury",
+    "C. Let the seizure run its course",
+    "D. Turn patient to the side after seizure"
+   ],
+   "answer": "A. Place tongue depressor in mouth",
+   "explanation": "Do NOT place anything in the patient's mouth during a seizure. Instead, clear the area and monitor until the episode ends."
+  },
+  {
+   "id": "emerg-quiz-08",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "A child is choking and cannot breathe. What is the first step?",
+   "options": [
+    "A. Deliver abdominal thrusts",
+    "B. Sweep mouth blindly",
+    "C. Start CPR",
+    "D. Encourage coughing"
+   ],
+   "answer": "A. Deliver abdominal thrusts",
+   "explanation": "If the child cannot breathe or speak, use the Heimlich maneuver (abdominal thrusts) to dislodge the object."
+  },
+  {
+   "id": "emerg-quiz-09",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "A patient reports fruity breath and excessive thirst. What is the likely emergency?",
+   "options": [
+    "A. Hypoglycemia",
+    "B. Anaphylaxis",
+    "C. Hyperglycemia",
+    "D. Angina"
+   ],
+   "answer": "C. Hyperglycemia",
+   "explanation": "Fruity (acetone-like) breath is a sign of diabetic ketoacidosis, a complication of hyperglycemia when the body produces ketones due to lack of insulin."
+  },
+  {
+   "id": "emerg-quiz-10",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "What is the correct emergency step if a tooth is avulsed?",
+   "options": [
+    "A. Scrub the root and replant",
+    "B. Hold by root and rinse with alcohol",
+    "C. Hold by crown and place in milk",
+    "D. Let it dry before replanting"
+   ],
+   "answer": "C. Hold by crown and place in milk",
+   "explanation": "Always hold the tooth by the crown, never the root. Milk preserves periodontal ligament cells and helps increase replantation success."
+  },
+  {
+   "id": "emerg-quiz-11",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "Why is Trendelenburg position used in syncope?",
+   "options": [
+    "A. Reduces anxiety",
+    "B. Improves lung function",
+    "C. Increases brain perfusion",
+    "D. Raises core body temperature"
+   ],
+   "answer": "C. Increases brain perfusion",
+   "explanation": "Raising the legs helps blood return to the brain, increasing oxygen and reversing cerebral hypoxia."
+  },
+  {
+   "id": "emerg-quiz-12",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "Why is aspirin dangerous during a hemorrhagic stroke?",
+   "options": [
+    "A. Raises BP",
+    "B. Triggers seizures",
+    "C. Increases bleeding",
+    "D. Causes airway swelling"
+   ],
+   "answer": "C. Increases bleeding",
+   "explanation": "Aspirin inhibits platelet function. In a hemorrhagic stroke (where a vessel has burst), this could worsen the bleeding and lead to fatal outcomes."
+  },
+  {
+   "id": "emerg-quiz-13",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "What is the most appropriate position for a conscious asthma patient in distress?",
+   "options": [
+    "A. Supine",
+    "B. Trendelenburg",
+    "C. Upright",
+    "D. Lateral recumbent"
+   ],
+   "answer": "C. Upright",
+   "explanation": "An upright position helps the patient use their diaphragm more effectively and improves airflow during an asthma attack."
+  },
+  {
+   "id": "emerg-quiz-14",
+   "deck": "Quizzes",
+   "section": "Medical Emergencies bonus quiz",
+   "page": 409,
+   "question": "Which of the following is the best reason to avoid using a straw after extraction?",
+   "options": [
+    "A. Cold sensitivity",
+    "B. Risk of aspiration",
+    "C. Dislodges blood clot",
+    "D. Spreads bacteria"
+   ],
+   "answer": "C. Dislodges blood clot",
+   "explanation": "Suction from a straw can pull out the healing blood clot, leading to dry socket, a painful condition."
+  }
+ ]
+}

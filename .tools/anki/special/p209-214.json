@@ -1,0 +1,2039 @@
+{
+ "diagrams": [
+  {
+   "name": "spec-p209-epilepsy-stages",
+   "title": "Epilepsy: stages of a seizure and their signs",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 9,
+   "page": 209,
+   "crop": [
+    90,
+    170,
+    1230,
+    590
+   ],
+   "labels": [
+    {
+     "box": [
+      113,
+      300,
+      224,
+      322
+     ],
+     "answer": "Hallucination",
+     "fit": "text"
+    },
+    {
+     "box": [
+      366,
+      298,
+      450,
+      320
+     ],
+     "answer": "Confusion",
+     "fit": "text"
+    },
+    {
+     "box": [
+      111,
+      368,
+      162,
+      390
+     ],
+     "answer": "Dizzy",
+     "fit": "text"
+    },
+    {
+     "box": [
+      138,
+      445,
+      224,
+      467
+     ],
+     "answer": "Numbness",
+     "fit": "text"
+    },
+    {
+     "box": [
+      340,
+      416,
+      418,
+      460
+     ],
+     "answer": "Distorted Emotions",
+     "fit": "text"
+    },
+    {
+     "box": [
+      515,
+      301,
+      597,
+      324
+     ],
+     "answer": "Stiff Body",
+     "fit": "text"
+    },
+    {
+     "box": [
+      431,
+      346,
+      535,
+      368
+     ],
+     "answer": "Incontinence",
+     "fit": "text"
+    },
+    {
+     "box": [
+      589,
+      335,
+      692,
+      358
+     ],
+     "answer": "Epileptic Cry",
+     "fit": "text"
+    },
+    {
+     "box": [
+      376,
+      508,
+      439,
+      552
+     ],
+     "answer": "Back Arched",
+     "fit": "text"
+    },
+    {
+     "box": [
+      696,
+      356,
+      792,
+      399
+     ],
+     "answer": "Jerky Movements",
+     "fit": "text"
+    },
+    {
+     "box": [
+      808,
+      328,
+      867,
+      370
+     ],
+     "answer": "Frothy Saliva",
+     "fit": "text"
+    },
+    {
+     "box": [
+      872,
+      383,
+      942,
+      426
+     ],
+     "answer": "Blinking Eyes",
+     "fit": "text"
+    },
+    {
+     "box": [
+      988,
+      377,
+      1087,
+      399
+     ],
+     "answer": "Weak Limbs",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1070,
+      339,
+      1162,
+      361
+     ],
+     "answer": "Exhaustion",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1132,
+      391,
+      1190,
+      413
+     ],
+     "answer": "Sleepy",
+     "fit": "text"
+    },
+    {
+     "box": [
+      171,
+      526,
+      341,
+      576
+     ],
+     "answer": "Aura stage",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      444,
+      527,
+      622,
+      576
+     ],
+     "answer": "Tonic stage",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      694,
+      527,
+      880,
+      577
+     ],
+     "answer": "Clonic stage",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      950,
+      527,
+      1185,
+      579
+     ],
+     "answer": "Postclonic stage",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p211-fetal-alcohol",
+   "title": "Fetal alcohol syndrome: facial signs",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 11,
+   "page": 211,
+   "crop": [
+    80,
+    420,
+    1110,
+    920
+   ],
+   "labels": [
+    {
+     "box": [
+      763,
+      549,
+      939,
+      583
+     ],
+     "answer": "Small forehead",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      207,
+      597,
+      402,
+      633
+     ],
+     "answer": "Low nasal bridge",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      823,
+      614,
+      998,
+      649
+     ],
+     "answer": "Epicanthal fold",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      103,
+      682,
+      412,
+      717
+     ],
+     "answer": "Short nose and flat mid face",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      205,
+      742,
+      403,
+      775
+     ],
+     "answer": "Smooth philtrum",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      195,
+      784,
+      360,
+      818
+     ],
+     "answer": "Thin upper lip",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      777,
+      807,
+      1040,
+      843
+     ],
+     "answer": "Tooth malformation",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      136,
+      854,
+      414,
+      890
+     ],
+     "answer": "Small jaw (micrognathia)",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p212-blood-cells",
+   "title": "Anemia and leukemia: blood cells",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 12,
+   "page": 212,
+   "crop": [
+    130,
+    1395,
+    1190,
+    1850
+   ],
+   "labels": [
+    {
+     "box": [
+      548,
+      1416,
+      687,
+      1454
+     ],
+     "answer": "Sickle cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      848,
+      1518,
+      1067,
+      1557
+     ],
+     "answer": "White blood cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      688,
+      1718,
+      882,
+      1754
+     ],
+     "answer": "Red blood cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      933,
+      1706,
+      1137,
+      1767
+     ],
+     "answer": "Abnormal white blood cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      145,
+      1777,
+      381,
+      1843
+     ],
+     "answer": "Normal amount of red blood cell",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      420,
+      1778,
+      656,
+      1844
+     ],
+     "answer": "Anemic amount of red blood cells",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      741,
+      1792,
+      924,
+      1831
+     ],
+     "answer": "Normal blood",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p214-clotting",
+   "title": "Clotting process",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 14,
+   "page": 214,
+   "crop": [
+    140,
+    220,
+    1200,
+    600
+   ],
+   "labels": [
+    {
+     "box": [
+      320,
+      240,
+      463,
+      273
+     ],
+     "answer": "Blood vessel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      491,
+      228,
+      710,
+      287
+     ],
+     "answer": "Platelets stick to the site and each other",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      864,
+      256,
+      956,
+      313
+     ],
+     "answer": "Fibrin strands",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1053,
+      256,
+      1170,
+      288
+     ],
+     "answer": "Blood clot",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      155,
+      475,
+      465,
+      510
+     ],
+     "answer": "Damage to the blood vessel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      523,
+      477,
+      819,
+      513
+     ],
+     "answer": "Formation of platelet plug",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      900,
+      475,
+      1150,
+      510
+     ],
+     "answer": "Development of clot",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      520,
+      523,
+      822,
+      580
+     ],
+     "answer": "Vasoconstrictors tighten the vessels to slow bleeding",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      877,
+      523,
+      1184,
+      581
+     ],
+     "answer": "Fibrin strands adhere to the plug to form an insoluble clot",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "spec-p209-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "Epilepsy (seizure) is a sudden burst of {{c1::abnormal electrical activity in the brain}}, causing changes in movement, behavior, sensation, or awareness.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "Causes of epilepsy include {{c1::brain injury}}, tumors, infections, genetics, and {{c2::high fever}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "Signs of epilepsy may include sudden stiffening or jerking, loss of consciousness, staring, confusion, or an {{c1::aura}} ({{c2::sensory warning}}).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "Epilepsy is managed with {{c1::anti-seizure medications}} (e.g., phenytoin, carbamazepine, valproate) or, in some cases, {{c2::surgery or nerve stimulation devices}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "Be aware of {{c1::gingival overgrowth}} in epileptic patients taking {{c2::phenytoin}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "For a patient with epilepsy, use a {{c1::mouth prop}} if needed to prevent injury during treatment.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "Schedule {{c1::stress-free}} appointments and avoid {{c2::flashing lights}} for patients with epilepsy.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "If a patient seizes in the chair: stop treatment, protect the patient by clearing the area around them, and gently lower the patient to the {{c1::floor}} to prevent falls or injury.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "During a seizure, place {{c1::nothing}} in the mouth and never try to {{c2::hold the tongue}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "During a seizure, gently turn the patient onto their {{c1::side}} to keep the airway clear; if possible, place a pillow or folded towel under the {{c2::head}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "text": "After a seizure, {{c1::monitor breathing}} and allow the patient to rest; seek emergency help if the patient is injured or {{c2::doesn't recover fully}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of seizures",
+   "page": 209,
+   "text": "An {{c1::absence (petit mal)}} seizure is a sudden blank stare that pauses the patient mid-action and is often unnoticed; consciousness is {{c2::briefly lost}}, and it is common in {{c3::children}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of seizures",
+   "page": 209,
+   "text": "A {{c1::tonic-clonic (grand mal)}} seizure is {{c2::stiffening (tonic)}} followed by {{c3::shaking (clonic)}}; it may include loss of bladder control.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of seizures",
+   "page": 209,
+   "text": "In a tonic-clonic seizure consciousness is {{c1::completely lost}}; afterwards the patient may be confused — the {{c2::post-ictal}} phase.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of seizures",
+   "page": 209,
+   "text": "An {{c1::atonic}} seizure is a sudden loss of {{c2::muscle tone}}; the patient may collapse without warning, so it often results in {{c3::injury from falls}}. Consciousness is briefly lost.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of seizures",
+   "page": 209,
+   "text": "An {{c1::aura}} is an early warning signal (e.g., smell, taste, sound) just before a seizure begins; consciousness is {{c2::maintained}}. It is not a seizure itself, but may signal one is coming.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "text": "Anxiety is a condition where the body stays in a {{c1::heightened state of fear or worry}}, even when there is no immediate danger.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "text": "Anxiety can be triggered by stress, trauma, genetics, or a chemical imbalance in the brain — especially low {{c1::GABA}} levels.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "text": "Signs of anxiety: {{c1::racing heart}}, {{c2::shortness of breath}}, sweating, nausea, fidgeting, fear, panic, or trouble concentrating.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "text": "Anxiety is managed with therapy, stress-reduction techniques, or anti-anxiety medications like {{c1::benzodiazepines}} (e.g., {{c2::lorazepam, diazepam}}).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "text": "Anxiety is the {{c1::most common mental health disorder}} in the U.S. and Canada, affecting nearly {{c2::1 in 5}} adults.",
+   "extra": "Did you know (book)"
+  },
+  {
+   "id": "spec-p210-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "text": "{{c1::General anxiety}} is ongoing worry or tension, often without a clear trigger; onset is {{c2::gradual and long-lasting}}, with muscle tension, restlessness and fatigue.",
+   "extra": "Example: general worry about health, school and relationships."
+  },
+  {
+   "id": "spec-p210-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "text": "A {{c1::panic attack}} is a sudden episode of intense fear and physical symptoms (pounding heart, sweating, shortness of breath, dizziness) that peaks within {{c2::minutes}}.",
+   "extra": "Example: a panic attack while sitting in the chair, with no warning."
+  },
+  {
+   "id": "spec-p210-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "text": "A {{c1::phobia}} is an extreme fear of a specific object or situation, triggered only by that object or event; it may cause panic, {{c2::avoidance}}, or even fainting.",
+   "extra": "Examples: fear of needles, dentists, heights, or blood."
+  },
+  {
+   "id": "spec-p210-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "text": "Depression: constant {{c1::low mood}}, sadness and fatigue; low energy and slow thinking; {{c2::withdrawal}}, poor motivation, and appetite or sleep changes.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "text": "Depression is treated with {{c1::antidepressants}} (e.g., {{c2::SSRIs}}) and therapy.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "text": "Bipolar disorder: mood swings between {{c1::depression}} and {{c2::mania}} (high energy, impulsivity); energy alternates between very low and very high.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "text": "{{c1::Bipolar I}}: full episodes of mania and depression.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "text": "{{c1::Bipolar II}}: depression with less intense {{c2::hypomania}} (milder elevated mood).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "text": "{{c1::Cyclothymia}}: ongoing mood swings with mild highs and lows.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "text": "Bipolar disorder is treated with {{c1::mood stabilizers}} (e.g., {{c2::lithium}}), sometimes antipsychotics.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "text": "In mood disorders, {{c1::xerostomia}} is a common side effect of medications, and the patient may {{c2::neglect homecare}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 210,
+   "text": "Alcohol dependence is a long-term brain disorder in which the body needs alcohol to function; it disrupts brain chemicals like {{c1::GABA}} and {{c2::dopamine}}, reinforcing cravings.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 210,
+   "text": "For alcohol-dependent patients, avoid {{c1::alcohol-containing products}} such as mouthrinses.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 210,
+   "text": "Avoid {{c1::nitrous oxide}} in an alcohol-dependent patient if {{c2::liver damage}} is suspected — the book says it may not be metabolized properly and can increase toxicity.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 211,
+   "text": "Alcohol-dependent patients: look for malnutrition, especially vitamin {{c1::B1 (thiamine)}} deficiency, which can affect healing, immunity and oral tissue health.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 211,
+   "text": "{{c1::Screen for oral cancer}} in alcohol-dependent patients, especially if alcohol is combined with {{c2::tobacco}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 211,
+   "text": "An alcohol-dependent patient may neglect hygiene or miss appointments — use a {{c1::nonjudgmental}} tone.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 211,
+   "text": "{{c1::Fetal alcohol syndrome}}: alcohol exposure during pregnancy causes brain damage, learning delays, malocclusion, facial signs, {{c2::cleft palate}} and tooth malformations.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Heroin, morphine and fentanyl are {{c1::opioids (narcotics)}}; their pupil sign is {{c2::miosis}}.",
+   "extra": "WakeUpMemory: Heroin = Hole → small pupils."
+  },
+  {
+   "id": "spec-p211-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Opioid key effects: sedation, pain relief and {{c1::respiratory depression}}; fentanyl is {{c2::50–100x}} stronger than morphine.",
+   "extra": "Fentanyl is fully synthetic; a tiny amount can slow or stop breathing."
+  },
+  {
+   "id": "spec-p211-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Opioid oral findings: xerostomia, {{c1::sugar cravings}}, {{c2::bruxism}}, fungal infections and oral neglect.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Opioid dental concerns: poor healing, sedation risk, infection, and {{c1::overdose risk}} with fentanyl.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Cocaine is a {{c1::stimulant}} with mydriasis; key effects are an intense high, {{c2::vasoconstriction}}, energy and a crash.",
+   "extra": "WakeUpMemory: Cocaine = Camera flash → big pupils."
+  },
+  {
+   "id": "spec-p211-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Cocaine oral findings: xerostomia, {{c1::palatal perforation}}, and high caries.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "{{c1::Methamphetamine}} is a stimulant with mydriasis; key effects: long high, {{c2::paranoia}}, aggression, hyperactivity.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Methamphetamine oral findings: xerostomia, \"{{c1::meth mouth}}\", severe erosion, bruxism; dental concerns: anxiety, soft enamel, {{c2::rampant decay}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Ecstasy (MDMA) is a {{c1::stimulant + hallucinogen}} with mydriasis; key effects: mood boost, {{c2::empathy}}, sensory distortion.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Ecstasy (MDMA) oral findings: xerostomia, bruxism, {{c1::TMJ strain}}, jaw pain; dental concerns: dry mouth, clenching, and stress management needed.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Hallucinogens (e.g., {{c1::LSD, mushrooms}}) cause mydriasis, hallucinations, and altered time/body awareness.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "text": "Hallucinogen oral findings: xerostomia, {{c1::tongue burns}}, poor hygiene; dental concerns: unpredictable behavior and {{c2::sensory sensitivity}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Smoking tobacco reduces salivary flow (xerostomia) due to {{c1::heat and nicotine}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Vaping causes xerostomia due to {{c1::propylene glycol}}, a drying agent.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Marijuana xerostomia is worsened by {{c1::THC}}'s effect on salivary glands.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Smoking is a {{c1::major}} periodontal risk factor: {{c2::vasoconstriction}} → poor healing, deep pockets.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Vaping: early data suggest increased {{c1::periodontal disease}} risk due to inflammation and dry mouth. Marijuana is linked to {{c2::gingival inflammation}}, plaque and poor oral hygiene.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Caries risk is elevated especially with {{c1::smokeless tobacco}} (sugar + dry mouth); vaping is a possible risk from {{c2::sweetened e-liquids}} and an altered microbiome; marijuana has mixed results (higher sugar intake, dry mouth).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Tobacco carries a high oral cancer risk — tobacco smoke has carcinogens like {{c1::nitrosamines}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Oral cancer risk of vaping is still under research — {{c1::less than tobacco, but not zero}}; THC smoke contains carcinogens, though evidence is less conclusive.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Other oral lesions of smoking: nicotine stomatitis, leukoplakia, {{c1::smoker's melanosis}}, hairy tongue.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Vaping lesions: ulcerations, {{c1::chemical burns}}, nicotine stomatitis-like lesions. Marijuana lesions: {{c2::leukoedema}}, hyperpigmentation, sometimes pre-cancerous lesions.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Halitosis is common with smoking, reported with vaping, and common with marijuana, especially {{c1::habitual use}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "text": "Tooth discoloration: yes with smoking; possible with vaping from {{c1::e-juice pigments or nicotine}}; marijuana often causes {{c2::yellow-brown}} staining from smoke deposits.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anemia",
+   "page": 212,
+   "text": "Anemia: the blood lacks enough healthy {{c1::red blood cells}} to carry oxygen to tissues, causing weakness and fatigue.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anemia",
+   "page": 212,
+   "text": "Anemia can result from blood loss, {{c1::iron deficiency}}, {{c2::vitamin B12 or folate deficiency}}, or chronic disease.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anemia",
+   "page": 213,
+   "text": "Contributors to anemia: poor diet, {{c1::heavy menstruation}}, ulcers, {{c2::pregnancy}}, malabsorption, or bone marrow disorders.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anemia",
+   "page": 213,
+   "text": "Signs of anemia: fatigue, {{c1::pale skin or mucosa}}, shortness of breath, dizziness, and {{c2::cold hands/feet}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anemia",
+   "page": 213,
+   "text": "Anemia treatment depends on the type — iron supplements, vitamin therapy, {{c1::blood transfusion}}, or treating the underlying condition.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anemia",
+   "page": 213,
+   "text": "Anemia dental implications: look for {{c1::pale oral tissues}}, especially the gingiva and tongue; patients may feel fatigued or require {{c2::shorter appointments}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anemia",
+   "page": 213,
+   "text": "In anemia, watch for {{c1::burning mouth syndrome}} or {{c2::atrophic glossitis}} (smooth, red tongue).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Iron-deficiency anemia is acquired (diet, blood loss, pregnancy): not enough iron to make hemoglobin → {{c1::small, pale RBCs}}; symptoms: fatigue, cold hands, {{c2::brittle nails}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Oral impact of iron-deficiency anemia: pale mucosa, {{c1::burning mouth}}, {{c2::smooth tongue}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Pernicious anemia is acquired — an {{c1::autoimmune}} condition blocks {{c2::B12}} absorption → large, immature RBCs and {{c3::nerve issues}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Pernicious anemia symptoms: fatigue, {{c1::numbness}}, memory loss; oral impact: {{c2::red, beefy tongue}}, loss of papillae.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Folate-deficiency anemia is acquired (poor intake, {{c1::alcoholism}}, pregnancy): lack of folate ({{c2::B9}}) → large, immature RBCs.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Folate-deficiency anemia symptoms: fatigue, poor healing, {{c1::irritability}}; oral impact: {{c2::glossitis}}, ulcers, delayed healing.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Sickle cell anemia is {{c1::inherited}} (abnormal gene from both parents): {{c2::hemoglobin S}} causes sickle-shaped RBCs that block vessels.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Sickle cell anemia symptoms: {{c1::pain crises}}, swelling, delayed growth; oral impact: pale gingiva, delayed eruption, \"{{c2::step-ladder}}\" bone pattern on X-ray.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "{{c1::Aplastic}} anemia (acquired or inherited — toxins, immune attack, virus): the {{c2::bone marrow stops producing}} enough blood cells.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Aplastic anemia symptoms: fatigue, infections, bleeding; oral impact: {{c1::petechiae}}, bleeding gums, ulcers.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "{{c1::Hemolytic}} anemia (either — genetics, e.g., {{c2::thalassemia}}, or immune diseases): the body destroys RBCs early → less oxygen, more {{c3::bilirubin}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "text": "Hemolytic anemia symptoms: fatigue, {{c1::jaundice}}, dark urine; oral impact: {{c2::yellow mucosa}}, delayed healing.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "Leukemia is a cancer of the {{c1::white blood cells}} in which the bone marrow makes too many abnormal WBCs, crowding out healthy cells and weakening immunity.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "The bone marrow makes red blood cells (carry {{c1::oxygen}}), white blood cells (fight {{c2::infection}}), and platelets (help with {{c3::clotting}}).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "The exact cause of leukemia is unknown; it may be linked to genetic changes, {{c1::radiation}}, or {{c2::chemical exposure}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-021",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "In leukemia the WBCs are {{c1::immature and non-functional}}, leading to infection risk and poor blood cell balance.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-022",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "Signs of leukemia: fatigue, frequent infections, {{c1::easy bruising}}, fever, {{c2::swollen lymph nodes}}, and weight loss.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-023",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "Leukemia treatment — chemotherapy, radiation, bone marrow transplant — all {{c1::suppress immunity}} during treatment.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-024",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "In leukemia, {{c1::gingival enlargement}} may occur from {{c2::leukemic infiltration}}, not plaque — even with good oral hygiene.",
+   "extra": "WakeUpMemory: \"Leukemia = Leaky Gums\" — leuk = white blood cells, but also leaky as in bleeding gums and loose defense in the mouth."
+  },
+  {
+   "id": "spec-p213-025",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "Chemotherapy and radiation can cause {{c1::oral mucositis}} (painful ulceration and inflammation), xerostomia if salivary glands are affected, delayed healing, and increased infection risk.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-026",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "In leukemia, monitor for oral infections like {{c1::Candida}}, {{c2::herpes simplex}}, and bacterial overgrowth — all worsen with immune suppression.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-027",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "Delay elective care if the leukemia patient has low WBCs ({{c1::neutropenia}}) or low platelets ({{c2::thrombocytopenia}}) — always consult an {{c3::oncologist}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-028",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "text": "During leukemia treatment, recommend {{c1::soft brushes}}, {{c2::bland rinses}}, and pain-relieving gels to support hygiene.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "In the clotting process, the {{c1::clotting cascade}} is a chain reaction of clotting factors — including Factor VIII (Hemophilia A) or Factor IX (Hemophilia B) — that activate in sequence; in hemophilia this step {{c2::fails and the cascade stops early}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "Hemophilia is a genetic bleeding disorder in which the blood lacks {{c1::clotting factors}}, making it hard to stop bleeding.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "Hemophilia is caused by a genetic mutation passed on the {{c1::X chromosome}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "Hemophilia A = Factor {{c1::VIII}} deficiency; Hemophilia B ({{c2::Christmas disease}}) = Factor {{c3::IX}} deficiency.",
+   "extra": "These are the most common types."
+  },
+  {
+   "id": "spec-p214-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "In hemophilia, {{c1::platelets}} are normal, but the {{c2::clotting cascade}} is disrupted, so blood forms weak or no clots.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "Signs of hemophilia: prolonged bleeding after injury, frequent nosebleeds, {{c1::joint swelling}} from internal bleeding, easy bruising.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "Hemophilia: do not probe aggressively or perform procedures without {{c1::medical clearance}}; always consult a {{c2::hematologist}} before extractions or scaling.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "{{c1::Spontaneous gingival bleeding}} can occur in hemophilia; reinforce gentle home care.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "In hemophilia, avoid {{c1::block anesthesia}} unless the patient is cleared and {{c2::factor}} is administered.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "Hemophilia: use local measures to control bleeding — pressure and {{c1::hemostatic agents}}; in some cases antifibrinolytic drugs (e.g., {{c2::tranexamic acid}}) may be prescribed before care.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "text": "Queen Victoria of England had hemophilia {{c1::B}} (Christmas disease), known as {{c2::\"the royal disease\"}}; she passed the gene to royal families through her children.",
+   "extra": "Did you know (book): her son Prince Leopold (UK) had hemophilia and died of a brain hemorrhage; daughter Alice passed it to the German royal family, daughter Beatrice to the Spanish royal family; granddaughter Alexandra married the Russian Tsar — their son Tsarevich Alexei had severe hemophilia. (Victoria herself was a carrier.)"
+  },
+  {
+   "id": "spec-p214-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Von Willebrand disease",
+   "page": 214,
+   "text": "{{c1::Von Willebrand disease}} is the most common inherited bleeding disorder.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Von Willebrand disease",
+   "page": 214,
+   "text": "Von Willebrand factor (vWF) helps {{c1::platelets stick}} and stabilizes {{c2::Factor VIII}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Von Willebrand disease",
+   "page": 214,
+   "text": "Von Willebrand disease is caused by a genetic mutation affecting vWF production or function; it affects both {{c1::males and females}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Von Willebrand disease",
+   "page": 214,
+   "text": "In von Willebrand disease, platelets are normal but vWF is missing or defective, so the {{c1::platelet plug}} is weak and Factor VIII {{c2::breaks down faster}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Von Willebrand disease",
+   "page": 214,
+   "text": "Signs of von Willebrand disease: easy bruising, frequent {{c1::nosebleeds}}, and prolonged bleeding after cuts or dental procedures.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Von Willebrand disease",
+   "page": 214,
+   "text": "Von Willebrand disease: delay invasive care unless {{c1::cleared by a physician}} and clotting is supported; avoid block anesthesia if bleeding is uncontrolled.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Von Willebrand disease",
+   "page": 214,
+   "text": "Unusual bleeding during cleanings or extractions may be the {{c1::first sign}} of hemophilia or von Willebrand disease — making dentistry a key point of early detection.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 214,
+   "text": "{{c1::Agranulocytosis}} is a severe reduction in granulocytes (especially {{c2::neutrophils}}); the count is often < {{c3::100/µL}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 214,
+   "text": "{{c1::Cyclic neutropenia}} is an inherited disorder with cyclical drops in neutrophil count; the count drops to < {{c2::500/µL}} for {{c3::2–3 days}}, then returns to normal.",
+   "extra": ""
+  }
+ ],
+ "basic": [
+  {
+   "id": "spec-p210-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Board Alert",
+   "page": 210,
+   "front": "Board Alert: why does it matter that a patient takes antidepressants?",
+   "back": "Antidepressants cause dry mouth (xerostomia) → higher caries risk.",
+   "reverse": false,
+   "extra": "Book's Board Alert: always ask how a condition relates to dentistry — that connection is how you solve case studies."
+  },
+  {
+   "id": "spec-p211-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 211,
+   "front": "Why do alcohol-dependent patients have more dry mouth and caries?",
+   "back": "Alcohol is a diuretic and slows saliva production → dry mouth, increased caries and higher risk of oral infections.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-b-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "front": "Miosis",
+   "back": "Pinpoint (constricted) pupils",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-b-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "front": "Mydriasis",
+   "back": "Dilated pupils",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-b-04",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "front": "Why is heroin more dangerous than morphine?",
+   "back": "Heroin is chemically modified morphine that enters the brain faster → more intense high, but much higher risk of addiction and overdose (why morphine is legal in hospitals and heroin is not).",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p211-b-05",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "front": "A patient used cocaine in the past 24 hours. What must you avoid in the local anesthetic, and why?",
+   "back": "Avoid epinephrine — increased blood pressure risk.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p212-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 212,
+   "front": "What causes \"meth mouth\"?",
+   "back": "A combination of factors: acidic chemicals in the drug erode enamel; severe xerostomia; sugar cravings; neglected oral hygiene; bruxism from increased anxiety → rampant decay.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p213-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "front": "Why is spontaneous bleeding common in leukemia?",
+   "back": "Low platelet count — abnormal WBCs crowd the bone marrow, leaving less room for platelets (and RBCs and normal immune cells).",
+   "reverse": false,
+   "extra": "Book: this causes bleeding, fatigue and a weakened immune system — in the mouth: spontaneous bleeding, swollen gums, slow healing."
+  },
+  {
+   "id": "spec-p214-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 214,
+   "front": "Don't be confused: how does the pattern of cyclic neutropenia differ from agranulocytosis?",
+   "back": "Cyclic neutropenia has a predictable pattern of low neutrophils every few weeks; agranulocytosis is typically sudden or ongoing with no regular cycle.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "spec-p209-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "question": "Seizure emergency: call 911 if the seizure lasts longer than how many minutes?",
+   "answer": "5",
+   "extra": "Always time the seizure."
+  },
+  {
+   "id": "spec-p209-t-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of seizures",
+   "page": 209,
+   "question": "About how many seconds does an absence (petit mal) seizure last?",
+   "answer": "10",
+   "extra": "~10 seconds"
+  },
+  {
+   "id": "spec-p209-t-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of seizures",
+   "page": 209,
+   "question": "How long does a tonic-clonic (grand mal) seizure typically last? (range, in minutes)",
+   "answer": "1–3 minutes",
+   "extra": ""
+  },
+  {
+   "id": "spec-p209-t-04",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of seizures",
+   "page": 209,
+   "question": "An atonic seizure lasts less than how many seconds?",
+   "answer": "15",
+   "extra": ""
+  },
+  {
+   "id": "spec-p210-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 210,
+   "question": "Combined alcohol + tobacco increases oral cancer risk up to how many times compared with either alone?",
+   "answer": "30",
+   "extra": "Source given in the book: World Health Organization (WHO)."
+  },
+  {
+   "id": "spec-p214-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 214,
+   "question": "Normal neutrophil count (per µL)? (range)",
+   "answer": "1500–8000",
+   "extra": ""
+  },
+  {
+   "id": "spec-p214-t-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 214,
+   "question": "Cyclic neutropenia: the neutrophil drops recur about every how many days?",
+   "answer": "21",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "spec-p209-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of seizures",
+   "page": 209,
+   "prompt": "Match each seizure type to its description.",
+   "pairs": [
+    [
+     "Absence (petit mal)",
+     "Blank stare, pauses mid-action, ~10 s"
+    ],
+    [
+     "Tonic-clonic (grand mal)",
+     "Stiffening then shaking, 1–3 min"
+    ],
+    [
+     "Atonic",
+     "Sudden loss of muscle tone, falls"
+    ],
+    [
+     "Aura",
+     "Warning signal, consciousness maintained"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p210-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "prompt": "Match each anxiety type to its dental relevance.",
+   "pairs": [
+    [
+     "General anxiety",
+     "Common — stress control and a calm environment"
+    ],
+    [
+     "Panic attack",
+     "May happen suddenly during treatment — need emergency protocol"
+    ],
+    [
+     "Phobia",
+     "May require sedation, desensitization, or specialized handling"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p210-m-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "prompt": "Match each bipolar spectrum disorder to its pattern.",
+   "pairs": [
+    [
+     "Bipolar I",
+     "Full episodes of mania and depression"
+    ],
+    [
+     "Bipolar II",
+     "Depression with hypomania"
+    ],
+    [
+     "Cyclothymia",
+     "Ongoing mild highs and lows"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p211-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "prompt": "Match each drug to its characteristic oral finding.",
+   "pairs": [
+    [
+     "Opioids (heroin)",
+     "Sugar cravings, fungal infections"
+    ],
+    [
+     "Cocaine",
+     "Palatal perforation"
+    ],
+    [
+     "Methamphetamine",
+     "\"Meth mouth\", severe erosion"
+    ],
+    [
+     "Ecstasy (MDMA)",
+     "TMJ strain, jaw pain"
+    ],
+    [
+     "Hallucinogens",
+     "Tongue burns"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p213-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "prompt": "Match each anemia to its oral impact.",
+   "pairs": [
+    [
+     "Iron-deficiency",
+     "Pale mucosa, burning mouth, smooth tongue"
+    ],
+    [
+     "Pernicious (B12)",
+     "Red, beefy tongue, loss of papillae"
+    ],
+    [
+     "Sickle cell",
+     "\"Step-ladder\" bone pattern on X-ray"
+    ],
+    [
+     "Aplastic",
+     "Petechiae, bleeding gums"
+    ],
+    [
+     "Hemolytic",
+     "Yellow mucosa"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "spec-p209-o-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "prompt": "Put the stages of a seizure in order (as shown in the book's figure).",
+   "items": [
+    "Aura stage",
+    "Tonic stage",
+    "Clonic stage",
+    "Postclonic stage"
+   ]
+  },
+  {
+   "id": "spec-p209-o-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "prompt": "Put the seizure emergency protocol in order.",
+   "items": [
+    "Stop treatment, clear the area, lower patient to the floor",
+    "Turn the patient on their side; cushion the head",
+    "Time the seizure (call 911 if > 5 min)",
+    "After it ends, monitor breathing and let the patient rest",
+    "Seek emergency help if injured or not fully recovered"
+   ]
+  },
+  {
+   "id": "spec-p214-o-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "prompt": "Put the steps of the clotting process in order.",
+   "items": [
+    "Damage to the blood vessel",
+    "Vasoconstriction and formation of platelet plug",
+    "Clotting cascade (clotting factors activate in sequence)",
+    "Fibrin strands form an insoluble clot"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "spec-p211-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "prompt": "Sort the drugs by pupil sign.",
+   "categories": [
+    [
+     "Miosis (pinpoint)",
+     [
+      "Heroin",
+      "Morphine",
+      "Fentanyl"
+     ]
+    ],
+    [
+     "Mydriasis (dilated)",
+     [
+      "Cocaine",
+      "Methamphetamine",
+      "Ecstasy (MDMA)",
+      "LSD / mushrooms"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "spec-p212-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "prompt": "Sort the oral lesions by the habit the book links them to.",
+   "categories": [
+    [
+     "Smoking tobacco",
+     [
+      "Smoker's melanosis",
+      "Hairy tongue",
+      "Leukoplakia"
+     ]
+    ],
+    [
+     "Vaping",
+     [
+      "Chemical burns",
+      "Ulcerations"
+     ]
+    ],
+    [
+     "Marijuana",
+     [
+      "Leukoedema",
+      "Hyperpigmentation"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "spec-p213-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "prompt": "Sort the anemias: inherited or acquired?",
+   "categories": [
+    [
+     "Acquired",
+     [
+      "Iron-deficiency",
+      "Pernicious (B12)",
+      "Folate-deficiency"
+     ]
+    ],
+    [
+     "Inherited",
+     [
+      "Sickle cell"
+     ]
+    ],
+    [
+     "Either",
+     [
+      "Aplastic",
+      "Hemolytic"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "spec-p214-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Von Willebrand disease",
+   "page": 214,
+   "prompt": "Don't be confused: sort each feature to hemophilia or von Willebrand disease.",
+   "categories": [
+    [
+     "Hemophilia",
+     [
+      "Missing clotting factor VIII or IX",
+      "Passed on the X chromosome",
+      "Clotting cascade disrupted",
+      "Includes Christmas disease"
+     ]
+    ],
+    [
+     "Von Willebrand disease",
+     [
+      "Defective von Willebrand factor",
+      "Affects males and females",
+      "Weak platelet stickiness",
+      "Most common inherited bleeding disorder"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "spec-p209-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "question": "During scaling, a patient begins a tonic-clonic seizure. Which action is MOST appropriate?",
+   "options": [
+    "A. Place a bite block between the teeth to protect the tongue",
+    "B. Hold the patient's arms and legs still",
+    "C. Stop treatment, clear the area and protect the patient",
+    "D. Call 911 at the first sign of the seizure"
+   ],
+   "answer": "C. Stop treatment, clear the area and protect the patient",
+   "explanation": "Stop treatment and protect the patient by clearing the area (lowering them to the floor). Never put anything in the mouth or hold the tongue; call 911 only if the seizure lasts more than 5 minutes."
+  },
+  {
+   "id": "spec-p209-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Epilepsy",
+   "page": 209,
+   "question": "A patient with epilepsy has firm, enlarged gingiva. Which anti-seizure medication is MOST likely responsible?",
+   "options": [
+    "A. Carbamazepine",
+    "B. Phenytoin",
+    "C. Valproate",
+    "D. Diazepam"
+   ],
+   "answer": "B. Phenytoin",
+   "explanation": "Phenytoin is associated with gingival overgrowth. Carbamazepine and valproate are also anti-seizure drugs, but the book links gingival overgrowth to phenytoin."
+  },
+  {
+   "id": "spec-p210-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anxiety disorders",
+   "page": 210,
+   "question": "A patient avoids dental care because of an extreme fear of needles and nearly fainted at her last visit. This BEST describes:",
+   "options": [
+    "A. General anxiety",
+    "B. Panic attack",
+    "C. Phobia",
+    "D. Bipolar II disorder"
+   ],
+   "answer": "C. Phobia",
+   "explanation": "A phobia is extreme fear triggered only by a specific object or situation (needles, dentists, blood) and can cause avoidance or fainting; a panic attack comes on suddenly without a specific trigger."
+  },
+  {
+   "id": "spec-p210-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Mood disorders",
+   "page": 210,
+   "question": "A patient's medication list includes lithium. Which condition is she MOST likely being treated for?",
+   "options": [
+    "A. Depression",
+    "B. Bipolar disorder",
+    "C. Generalized anxiety",
+    "D. Epilepsy"
+   ],
+   "answer": "B. Bipolar disorder",
+   "explanation": "Lithium is a mood stabilizer, the treatment for bipolar disorder. Depression is treated with antidepressants such as SSRIs."
+  },
+  {
+   "id": "spec-p211-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alcohol dependency",
+   "page": 211,
+   "question": "Which home-care product should be AVOIDED for a patient recovering from alcohol dependence?",
+   "options": [
+    "A. Alcohol-containing mouthrinse",
+    "B. Fluoride toothpaste",
+    "C. Xylitol gum",
+    "D. Soft-bristled toothbrush"
+   ],
+   "answer": "A. Alcohol-containing mouthrinse",
+   "explanation": "Avoid alcohol-containing products like mouthrinses in alcohol-dependent patients; the other products contain no alcohol."
+  },
+  {
+   "id": "spec-p211-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "question": "A patient has a palatal perforation and dilated pupils and admits using a drug 6 hours ago. Which is MOST appropriate?",
+   "options": [
+    "A. Use plain anesthetic without epinephrine",
+    "B. Use extra epinephrine for hemostasis",
+    "C. Proceed normally; the drug has no dental implications",
+    "D. Give nitrous oxide to calm the patient"
+   ],
+   "answer": "A. Use plain anesthetic without epinephrine",
+   "explanation": "Palatal perforation and mydriasis point to cocaine. Avoid epinephrine if cocaine was used in the past 24 h because of increased BP risk (cocaine already causes vasoconstriction)."
+  },
+  {
+   "id": "spec-p211-mcq-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Illicit drug addiction",
+   "page": 211,
+   "question": "A sedated patient with pinpoint pupils, xerostomia and bruxism is MOST likely using:",
+   "options": [
+    "A. Methamphetamine",
+    "B. Cocaine",
+    "C. Heroin",
+    "D. MDMA"
+   ],
+   "answer": "C. Heroin",
+   "explanation": "Opioids (heroin, morphine, fentanyl) cause sedation and miosis. Stimulants such as cocaine, meth and MDMA cause mydriasis (dilated pupils)."
+  },
+  {
+   "id": "spec-p212-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tobacco, vaping and marijuana",
+   "page": 212,
+   "question": "A patient who vapes daily complains of dry mouth. Which e-cigarette ingredient is MOST responsible?",
+   "options": [
+    "A. Propylene glycol",
+    "B. Nitrosamines",
+    "C. THC",
+    "D. Flavor pigments"
+   ],
+   "answer": "A. Propylene glycol",
+   "explanation": "Propylene glycol is a drying agent in e-liquids. Nitrosamines are the carcinogens in tobacco smoke; THC causes dry mouth in marijuana users."
+  },
+  {
+   "id": "spec-p213-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "question": "A patient reports numbness and memory loss; her tongue is red and beefy with loss of papillae. Which anemia is MOST likely?",
+   "options": [
+    "A. Iron-deficiency",
+    "B. Pernicious",
+    "C. Sickle cell",
+    "D. Hemolytic"
+   ],
+   "answer": "B. Pernicious",
+   "explanation": "Pernicious anemia (autoimmune block of B12 absorption) causes nerve issues (numbness, memory loss) and a red, beefy tongue. Iron-deficiency gives a pale, smooth tongue and no nerve signs."
+  },
+  {
+   "id": "spec-p213-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Types of anemia",
+   "page": 213,
+   "question": "Radiographs show a \"step-ladder\" trabecular bone pattern and delayed eruption. Which condition is MOST likely?",
+   "options": [
+    "A. Aplastic anemia",
+    "B. Folate-deficiency anemia",
+    "C. Sickle cell anemia",
+    "D. Leukemia"
+   ],
+   "answer": "C. Sickle cell anemia",
+   "explanation": "The step-ladder bone pattern on X-ray, pale gingiva and delayed eruption are the oral impact of sickle cell anemia."
+  },
+  {
+   "id": "spec-p213-mcq-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Leukemia",
+   "page": 213,
+   "question": "A patient undergoing chemotherapy for leukemia has thrombocytopenia and is scheduled for elective scaling. The hygienist should:",
+   "options": [
+    "A. Proceed with scaling and use extra pressure for hemostasis",
+    "B. Delay elective care and consult the oncologist",
+    "C. Prescribe an alcohol-containing rinse before scaling",
+    "D. Scale only the anterior teeth"
+   ],
+   "answer": "B. Delay elective care and consult the oncologist",
+   "explanation": "Delay elective care when platelets (thrombocytopenia) or WBCs (neutropenia) are low, and always consult the oncologist."
+  },
+  {
+   "id": "spec-p214-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hemophilia",
+   "page": 214,
+   "question": "A patient with hemophilia A needs quadrant scaling that would require an inferior alveolar nerve block. Which is MOST appropriate?",
+   "options": [
+    "A. Give the block; hemophilia affects only platelets",
+    "B. Consult the hematologist; block only after clearance and factor replacement",
+    "C. Use an alcohol-containing rinse to reduce bleeding",
+    "D. Probe aggressively to assess bleeding first"
+   ],
+   "answer": "B. Consult the hematologist; block only after clearance and factor replacement",
+   "explanation": "Avoid block anesthesia unless the patient is cleared and factor is administered; always consult a hematologist before scaling. In hemophilia platelets are normal — the clotting cascade is the problem."
+  },
+  {
+   "id": "spec-p214-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 214,
+   "question": "A patient's neutrophil count falls below 500/µL for 2–3 days about every 3 weeks, then returns to normal. This is MOST consistent with:",
+   "options": [
+    "A. Agranulocytosis",
+    "B. Cyclic neutropenia",
+    "C. Aplastic anemia",
+    "D. Hemophilia B"
+   ],
+   "answer": "B. Cyclic neutropenia",
+   "explanation": "A predictable ~21-day cycle of low neutrophils is cyclic neutropenia; agranulocytosis is sudden or ongoing with no regular cycle and counts often < 100/µL."
+  }
+ ]
+}

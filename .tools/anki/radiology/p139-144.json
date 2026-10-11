@@ -1,0 +1,907 @@
+{
+ "diagrams": [
+  {
+   "name": "rad-p141-caries-stages",
+   "title": "Interproximal caries — stages of severity",
+   "deck": "Radiology",
+   "pdf_page": 23,
+   "page": 141,
+   "crop": [
+    100,
+    80,
+    962,
+    760
+   ],
+   "labels": [
+    {
+     "box": [
+      112,
+      150,
+      296,
+      240
+     ],
+     "answer": "Incipient (Class I)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      112,
+      300,
+      296,
+      395
+     ],
+     "answer": "Moderate (Class II)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      112,
+      455,
+      296,
+      547
+     ],
+     "answer": "Advanced (Class III)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      112,
+      607,
+      296,
+      703
+     ],
+     "answer": "Severe (Class IV)",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "rad-p141-radiograph-gallery",
+   "title": "Identify the radiographic finding (numbered panels)",
+   "deck": "Radiology",
+   "pdf_page": 23,
+   "page": 141,
+   "crop": [
+    70,
+    1395,
+    1215,
+    2075
+   ],
+   "labels": [
+    {
+     "box": [
+      82,
+      1404,
+      130,
+      1430
+     ],
+     "answer": "Periapical abscess, granuloma, or cyst",
+     "fit": "text",
+     "key": "1",
+     "extra": "#1: the book's answer — we cannot tell abscess, granuloma or cyst apart by the radiograph alone. Board Alert: board-exam radiographs may be poor quality — don't panic."
+    },
+    {
+     "box": [
+      269,
+      1404,
+      317,
+      1430
+     ],
+     "answer": "Calculus",
+     "fit": "text",
+     "key": "2",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      457,
+      1404,
+      505,
+      1430
+     ],
+     "answer": "Advanced caries",
+     "fit": "text",
+     "key": "3",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      646,
+      1404,
+      694,
+      1430
+     ],
+     "answer": "Recurrent caries",
+     "fit": "text",
+     "key": "4",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      834,
+      1404,
+      882,
+      1430
+     ],
+     "answer": "Vertical bone loss",
+     "fit": "text",
+     "key": "5",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      1024,
+      1404,
+      1072,
+      1430
+     ],
+     "answer": "Ankylosis",
+     "fit": "text",
+     "key": "6",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      82,
+      1612,
+      130,
+      1640
+     ],
+     "answer": "Concrescence",
+     "fit": "text",
+     "key": "7",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      269,
+      1612,
+      317,
+      1640
+     ],
+     "answer": "Condensing osteitis",
+     "fit": "text",
+     "key": "8",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      457,
+      1612,
+      505,
+      1640
+     ],
+     "answer": "Dens in dente",
+     "fit": "text",
+     "key": "9",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      646,
+      1612,
+      694,
+      1640
+     ],
+     "answer": "Dilaceration",
+     "fit": "text",
+     "key": "10",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      834,
+      1612,
+      882,
+      1640
+     ],
+     "answer": "Enamel pearl",
+     "fit": "text",
+     "key": "11",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      1024,
+      1612,
+      1072,
+      1640
+     ],
+     "answer": "Mandibular tori",
+     "fit": "text",
+     "key": "12",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      82,
+      1831,
+      130,
+      1855
+     ],
+     "answer": "Mesiodens",
+     "fit": "text",
+     "key": "13",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      269,
+      1831,
+      317,
+      1855
+     ],
+     "answer": "Overhanging margin",
+     "fit": "text",
+     "key": "14",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      457,
+      1831,
+      505,
+      1855
+     ],
+     "answer": "Incipient caries",
+     "fit": "text",
+     "key": "15",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    },
+    {
+     "box": [
+      646,
+      1831,
+      694,
+      1855
+     ],
+     "answer": "Caries: white = incipient, pink = moderate, red = advanced",
+     "fit": "text",
+     "key": "16",
+     "extra": "Name the finding in the panel whose number is covered. Answer key p.142. Board Alert: board-exam radiographs may be poor quality — don't panic, everyone has the same images."
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "rad-p139-001",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "text": "On radiographs, the {{c1::external oblique ridge}} is a {{c2::radiopaque}} line on the external surface of the mandible, running {{c3::anterior from the ramus across the molars}}."
+  },
+  {
+   "id": "rad-p139-002",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "text": "The {{c1::internal oblique ridge}} (also called the {{c2::mylohyoid}} ridge) is a radiopaque line on the internal surface of the mandible, running along the {{c3::premolar and molar apices}}."
+  },
+  {
+   "id": "rad-p139-003",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "text": "On radiographs, the internal oblique ridge is usually positioned {{c1::below::above / below}} the external oblique ridge."
+  },
+  {
+   "id": "rad-p139-004",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "text": "The {{c1::submandibular fossa}} is a {{c2::radiolucent}} band running inferior to the {{c3::mylohyoid line}} and the apices of the molars."
+  },
+  {
+   "id": "rad-p139-005",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "text": "{{c1::Nutrient canals}} are vertical, thin radiolucent lines near the teeth that may be mistaken for {{c2::bone fractures}}."
+  },
+  {
+   "id": "rad-p139-006",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "text": "The {{c1::mandibular canal}} is a radiolucent horizontal band outlined by a thin line of {{c2::cortical bone}}."
+  },
+  {
+   "id": "rad-p139-007",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "text": "The mandibular canal carries the {{c1::inferior alveolar}} nerve and arteries."
+  },
+  {
+   "id": "rad-p139-008",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "text": "The mandibular canal stretches from the {{c1::mandibular foramen}} to the {{c2::mental foramen}}."
+  },
+  {
+   "id": "rad-p139-009",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 139,
+   "text": "Amalgam appears {{c1::completely radiopaque}} (solid white/bright) because {{c2::X-rays cannot penetrate metal}}."
+  },
+  {
+   "id": "rad-p139-010",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 139,
+   "text": "Gold — whether a crown, inlay or onlay — appears {{c1::completely radiopaque}} (solid white) due to its {{c2::high density}}."
+  },
+  {
+   "id": "rad-p139-011",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 139,
+   "text": "Composite typically appears {{c1::radiopaque}}, but its opacity varies significantly with its composition, e.g. the amount of {{c2::filler particles}}."
+  },
+  {
+   "id": "rad-p140-001",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 140,
+   "text": "{{c1::Retention pins}} appear as thin, distinct radiopaque lines within a restoration; they {{c2::stabilize the restoration}}."
+  },
+  {
+   "id": "rad-p140-002",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 140,
+   "text": "Base material appears {{c1::slightly radiopaque}} — fainter/more translucent white than metallic restorations; it is used to {{c2::protect the pulp}}."
+  },
+  {
+   "id": "rad-p140-003",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 140,
+   "text": "Gutta-percha appears {{c1::slightly radiopaque}} — a distinct, slightly less dense white line within the root; it is used to {{c2::fill root canals}} during root canal therapy."
+  },
+  {
+   "id": "rad-p140-004",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 140,
+   "text": "{{c1::Silver points}} are metallic points used to {{c2::obliterate canals}} during endodontic therapy; they appear radiopaque, as solid white thin lines within the root canal space."
+  },
+  {
+   "id": "rad-p140-005",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 140,
+   "text": "Porcelain appears {{c1::slightly radiopaque}}: in a porcelain-fused-to-metal crown the metal core is a {{c2::solid radiopaque center}} and the porcelain a {{c3::slightly less radiopaque lining}}."
+  },
+  {
+   "id": "rad-p140-006",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 140,
+   "text": "Orthodontic appliances (braces, bands, wires) appear {{c1::radiopaque}} — distinct white structures — due to their {{c2::metallic composition}}."
+  },
+  {
+   "id": "rad-p140-007",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 140,
+   "text": "Dental implants appear radiopaque and typically resemble a {{c1::screw}} or cylinder, due to their metallic nature and {{c2::threaded design}}."
+  },
+  {
+   "id": "rad-p140-008",
+   "deck": "Radiology",
+   "section": "Dental caries",
+   "page": 140,
+   "text": "{{c1::Occlusal}} caries are harder to detect on radiographs because of the {{c2::superimposed structures}} of the tooth."
+  },
+  {
+   "id": "rad-p140-009",
+   "deck": "Radiology",
+   "section": "Dental caries",
+   "page": 140,
+   "text": "{{c1::Recurrent}} caries appear under restorations."
+  },
+  {
+   "id": "rad-p140-010",
+   "deck": "Radiology",
+   "section": "Dental caries",
+   "page": 140,
+   "text": "Caries visible on a radiograph are usually {{c1::more::more / less}} severe than they appear on the radiograph."
+  },
+  {
+   "id": "rad-p141-001",
+   "deck": "Radiology",
+   "section": "Dental caries",
+   "page": 141,
+   "text": "Interproximal caries, Incipient (Class I): {{c1::only in enamel, less than ½ way into enamel}}."
+  },
+  {
+   "id": "rad-p141-002",
+   "deck": "Radiology",
+   "section": "Dental caries",
+   "page": 141,
+   "text": "Interproximal caries, Moderate (Class II): {{c1::only in enamel, more than ½ way into enamel}}."
+  },
+  {
+   "id": "rad-p141-003",
+   "deck": "Radiology",
+   "section": "Dental caries",
+   "page": 141,
+   "text": "Interproximal caries, Advanced (Class III): {{c1::enamel + dentin, less than ½ way into dentin}}."
+  },
+  {
+   "id": "rad-p141-004",
+   "deck": "Radiology",
+   "section": "Dental caries",
+   "page": 141,
+   "text": "Interproximal caries, Severe (Class IV): {{c1::enamel + dentin, more than ½ way into dentin}}."
+  },
+  {
+   "id": "rad-p141-005",
+   "deck": "Radiology",
+   "section": "Periodontal diseases",
+   "page": 141,
+   "text": "The radiographic pattern of periodontal bone loss is either {{c1::horizontal}} or {{c2::vertical}}."
+  },
+  {
+   "id": "rad-p141-006",
+   "deck": "Radiology",
+   "section": "Periodontal diseases",
+   "page": 141,
+   "text": "In health, the alveolar crest should be {{c1::parallel}} with the CEJ."
+  },
+  {
+   "id": "rad-p141-007",
+   "deck": "Radiology",
+   "section": "Periodontal diseases",
+   "page": 141,
+   "text": "Radiographs do not show bone loss in the {{c1::facial and lingual}} regions — only at the {{c2::interproximal alveolar crest}}."
+  },
+  {
+   "id": "rad-p141-008",
+   "deck": "Radiology",
+   "section": "Periodontal diseases",
+   "page": 141,
+   "text": "Radiographic bone levels confirm that disease has occurred but do not show whether it is {{c1::active}}; to see changes, {{c2::compare past and present radiographs}}."
+  },
+  {
+   "id": "rad-p141-009",
+   "deck": "Radiology",
+   "section": "Periodontal diseases",
+   "page": 141,
+   "text": "The {{c1::gingival level}} is not visible on a radiograph, but decreased bone level helps predict the {{c2::recession}} level."
+  },
+  {
+   "id": "rad-p141-010",
+   "deck": "Radiology",
+   "section": "Periodontal diseases",
+   "page": 141,
+   "text": "Calculus is {{c1::not a disease}}, but it contributes to the disease process."
+  },
+  {
+   "id": "rad-p141-011",
+   "deck": "Radiology",
+   "section": "Periodontal diseases",
+   "page": 141,
+   "text": "Widening of the PDL space can be caused by {{c1::periodontal diseases}} or {{c2::trauma}}."
+  },
+  {
+   "id": "rad-p141-012",
+   "deck": "Radiology",
+   "section": "Traumatic responses",
+   "page": 141,
+   "text": "{{c1::External resorption}}: root surface is lost with trauma such as {{c2::orthodontic therapy}}."
+  },
+  {
+   "id": "rad-p141-013",
+   "deck": "Radiology",
+   "section": "Traumatic responses",
+   "page": 141,
+   "text": "A root fracture appears as a {{c1::horizontal or vertical}} crack."
+  }
+ ],
+ "basic": [
+  {
+   "id": "rad-p140-b-01",
+   "deck": "Radiology",
+   "section": "Dental caries",
+   "page": 140,
+   "front": "G.V. Black classification vs. the radiographic Class 1–4 interpretation of caries — what does each describe?",
+   "back": "G.V. Black = caries <b>location</b>; radiographic Class 1–4 = lesion <b>severity</b> (stage of decay)",
+   "reverse": false,
+   "extra": "Book's \"Don't Be Confused!\" box — the book calls this distinction critical."
+  },
+  {
+   "id": "rad-p141-b-01",
+   "deck": "Radiology",
+   "section": "Traumatic responses",
+   "page": 141,
+   "front": "Hypercementosis",
+   "back": "Extra cementum deposited on the root to compensate for trauma",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "rad-p141-t-01",
+   "deck": "Radiology",
+   "section": "Periodontal diseases",
+   "page": 141,
+   "question": "In health, how far apical to the CEJ is the alveolar crest? (mm)",
+   "answer": "1–2 mm",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "rad-p141-m-01",
+   "deck": "Radiology",
+   "section": "Traumatic responses",
+   "page": 141,
+   "prompt": "Match each radiographic finding to its description.",
+   "pairs": [
+    [
+     "Hypercementosis",
+     "Extra cementum deposited on the root"
+    ],
+    [
+     "External resorption",
+     "Root surface lost (e.g., orthodontic therapy)"
+    ],
+    [
+     "Root fracture",
+     "Horizontal or vertical crack"
+    ],
+    [
+     "Widened PDL",
+     "Periodontal disease or trauma"
+    ]
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "rad-p139-s-01",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "prompt": "Sort these mandibular landmarks by radiographic appearance.",
+   "categories": [
+    [
+     "Radiopaque",
+     [
+      "External oblique ridge",
+      "Internal oblique (mylohyoid) ridge"
+     ]
+    ],
+    [
+     "Radiolucent",
+     [
+      "Submandibular fossa",
+      "Nutrient canals",
+      "Mandibular canal"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "rad-p140-s-01",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 140,
+   "prompt": "Sort these materials by radiographic appearance.",
+   "categories": [
+    [
+     "Radiopaque (solid white)",
+     [
+      "Amalgam",
+      "Gold",
+      "Retention pins",
+      "Silver points",
+      "Orthodontic wires/bands",
+      "Implants"
+     ]
+    ],
+    [
+     "Slightly radiopaque",
+     [
+      "Base material",
+      "Gutta-percha",
+      "Porcelain"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "rad-p139-mcq-01",
+   "deck": "Radiology",
+   "section": "Radiographic landmarks (mandible)",
+   "page": 139,
+   "question": "On a mandibular periapical radiograph, a thin vertical radiolucent line is seen in the bone near the teeth. The patient reports no trauma. This most likely represents:",
+   "options": [
+    "A. A bone fracture",
+    "B. A nutrient canal",
+    "C. The mandibular canal",
+    "D. The internal oblique ridge"
+   ],
+   "answer": "B. A nutrient canal",
+   "explanation": "Nutrient canals are thin vertical radiolucent lines near the teeth that may be mistaken for bone fractures. The mandibular canal is a HORIZONTAL radiolucent band; the internal oblique ridge is radiopaque."
+  },
+  {
+   "id": "rad-p140-mcq-01",
+   "deck": "Radiology",
+   "section": "Restorations: radiographic appearance",
+   "page": 140,
+   "question": "A bitewing shows a solid white amalgam with a fainter, translucent white layer between the restoration and the pulp. This layer is most likely:",
+   "options": [
+    "A. Recurrent caries",
+    "B. Base material",
+    "C. Gutta-percha",
+    "D. A retention pin"
+   ],
+   "answer": "B. Base material",
+   "explanation": "Base material protects the pulp and is slightly radiopaque — fainter than metallic restorations. Recurrent caries under a restoration would be radiolucent (dark), not white; gutta-percha is in the root canal."
+  },
+  {
+   "id": "rad-p141-mcq-01",
+   "deck": "Radiology",
+   "section": "Dental caries",
+   "page": 141,
+   "question": "An interproximal lesion extends through the enamel and less than halfway into the dentin. How is it classified radiographically?",
+   "options": [
+    "A. Incipient (Class I)",
+    "B. Moderate (Class II)",
+    "C. Advanced (Class III)",
+    "D. Severe (Class IV)"
+   ],
+   "answer": "C. Advanced (Class III)",
+   "explanation": "Advanced (Class III) = enamel + dentin, less than ½ into dentin. Severe (Class IV) is more than ½ into dentin; Classes I–II are enamel only."
+  },
+  {
+   "id": "rad-p141-mcq-02",
+   "deck": "Radiology",
+   "section": "Periodontal diseases",
+   "page": 141,
+   "question": "Which statement about radiographic assessment of periodontal disease is correct?",
+   "options": [
+    "A. Radiographs show bone loss on the facial and lingual surfaces",
+    "B. One radiograph shows whether the disease is active",
+    "C. The gingival level is visible on the radiograph",
+    "D. Bone loss is seen only at the interproximal alveolar crest"
+   ],
+   "answer": "D. Bone loss is seen only at the interproximal alveolar crest",
+   "explanation": "Radiographs show interproximal crest levels only, not facial/lingual bone. Bone levels confirm disease has occurred but not that it is active — that needs comparison of past and present radiographs. Gingiva is not visible."
+  },
+  {
+   "id": "rad-quiz-01",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "Increasing the milliamperage (mA) will primarily affect which aspect of a dental radiograph?",
+   "options": [
+    "A. Contrast",
+    "B. Sharpness",
+    "C. Density (darkness)",
+    "D. Quality"
+   ],
+   "answer": "C. Density (darkness)",
+   "explanation": "Increasing mA increases the number of x-rays produced, resulting in a darker image due to increased density."
+  },
+  {
+   "id": "rad-quiz-02",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "Which exposure factor has the greatest influence on radiographic contrast?",
+   "options": [
+    "A. mA",
+    "B. kVp",
+    "C. Exposure time",
+    "D. Source-to-image receptor distance"
+   ],
+   "answer": "B. kVp",
+   "explanation": "Higher kVp produces more penetrating x-rays, creating an image with low contrast (many shades of gray). Lower kVp gives high contrast (black/white image). (Book wording \"source-to-film distance\" and \"a film with low contrast\" changed to receptor/image — the exam no longer uses \"film\".)"
+  },
+  {
+   "id": "rad-quiz-03",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "Which radiographic error causes an image to appear too light?",
+   "options": [
+    "A. Inadequate exposure time or mA",
+    "B. Excessive kVp",
+    "C. Decreased filtration",
+    "D. Decreased distance"
+   ],
+   "answer": "A. Inadequate exposure time or mA",
+   "explanation": "A radiograph that is too light is often due to too little exposure (low mA or too short an exposure time). (Book says \"causes a film to appear too light\" — reworded to \"image\"; the exam no longer uses \"film\".)"
+  },
+  {
+   "id": "rad-quiz-04",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "A radiograph shows elongation of the maxillary central incisors. This error was likely caused by:",
+   "options": [
+    "A. Insufficient vertical angulation",
+    "B. Excessive horizontal angulation",
+    "C. Receptor reversal",
+    "D. Excessive vertical angulation"
+   ],
+   "answer": "A. Insufficient vertical angulation",
+   "explanation": "Elongation results from too little vertical angulation — the beam is not directed steeply enough. (Option C was \"Film reversal\" in the book.)"
+  },
+  {
+   "id": "rad-quiz-05",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "Which anatomical landmark appears as a radiopaque \"U\"- or \"J\"-shaped structure superior to the maxillary molars?",
+   "options": [
+    "A. Nasal septum",
+    "B. Zygomatic process of the maxilla",
+    "C. Maxillary sinus",
+    "D. Coronoid process"
+   ],
+   "answer": "B. Zygomatic process of the maxilla",
+   "explanation": "The zygomatic process of the maxilla appears as a U- or J-shaped radiopaque structure above the roots of the maxillary molars."
+  },
+  {
+   "id": "rad-quiz-06",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "What is the effect of increasing kVp on the number and energy of x-rays produced?",
+   "options": [
+    "A. Fewer x-rays, lower energy",
+    "B. More x-rays, lower energy",
+    "C. More x-rays, higher energy",
+    "D. No effect on either"
+   ],
+   "answer": "C. More x-rays, higher energy",
+   "explanation": "Higher kVp increases both the penetrating ability and the quantity of x-rays produced."
+  },
+  {
+   "id": "rad-quiz-07",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "Which structure appears as a radiolucent area between the maxillary central incisors and is a normal finding?",
+   "options": [
+    "A. Median palatal suture",
+    "B. Incisive foramen",
+    "C. Nasopalatine duct cyst",
+    "D. Mental fossa"
+   ],
+   "answer": "B. Incisive foramen",
+   "explanation": "The incisive foramen appears as a normal round radiolucency between the central incisors. It's the exit point of the nasopalatine nerve."
+  },
+  {
+   "id": "rad-quiz-08",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "Which landmark appears as a radiolucent curved structure in the posterior mandible?",
+   "options": [
+    "A. Internal oblique ridge",
+    "B. External oblique ridge",
+    "C. Mandibular canal",
+    "D. Mental ridge"
+   ],
+   "answer": "C. Mandibular canal",
+   "explanation": "The mandibular canal appears as a radiolucent band running below the molars, housing the inferior alveolar nerve."
+  },
+  {
+   "id": "rad-quiz-09",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "A radiograph shows overlapping of proximal surfaces. What likely caused this error?",
+   "options": [
+    "A. Incorrect vertical angulation",
+    "B. Incorrect horizontal angulation",
+    "C. Low mA",
+    "D. Reversed receptor"
+   ],
+   "answer": "B. Incorrect horizontal angulation",
+   "explanation": "Incorrect horizontal angulation causes x-rays to miss the interproximal spaces, resulting in overlapping contact points. (Option D was \"Reversed film\" in the book.)"
+  },
+  {
+   "id": "rad-quiz-10",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "Which best describes stochastic effects of radiation exposure?",
+   "options": [
+    "A. Effects that have a threshold dose before occurring",
+    "B. Effects that increase in severity with dose",
+    "C. Effects that occur by chance and increase in probability with dose",
+    "D. Immediate tissue damage following exposure"
+   ],
+   "answer": "C. Effects that occur by chance and increase in probability with dose",
+   "explanation": "Stochastic effects, such as cancer or genetic mutations, have no threshold and the probability increases with dose, but severity does not."
+  },
+  {
+   "id": "rad-quiz-11",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "What is the process by which x-rays remove electrons from atoms and may lead to tissue damage in the body?",
+   "options": [
+    "A. Excitation",
+    "B. Radiation absorption",
+    "C. Ionization",
+    "D. Photoelectric effect"
+   ],
+   "answer": "C. Ionization",
+   "explanation": "Ionization occurs when x-rays eject electrons from atoms, producing charged particles (ions), which can cause biological damage."
+  },
+  {
+   "id": "rad-quiz-12",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "What term describes the time period between radiation exposure and the appearance of a clinical effect?",
+   "options": [
+    "A. Recovery period",
+    "B. Latent period",
+    "C. Acute period",
+    "D. Etiology period"
+   ],
+   "answer": "B. Latent period",
+   "explanation": "The latent period is the time elapsed between radiation exposure and the first observable clinical sign or symptom of damage."
+  },
+  {
+   "id": "rad-quiz-13",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "How does gutta-percha typically appear on a dental radiograph?",
+   "options": [
+    "A. Completely radiopaque",
+    "B. Radiolucent",
+    "C. Slightly radiopaque",
+    "D. Completely radiolucent with a radiopaque outline"
+   ],
+   "answer": "C. Slightly radiopaque",
+   "explanation": "Gutta-percha, used to fill tooth canals in root canal therapy, typically appears slightly radiopaque on a radiograph — less dense than metallic restorations but clearly visible."
+  },
+  {
+   "id": "rad-quiz-14",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 143,
+   "question": "What is the Maximum Permissible Dose (MPD) for an occupationally exposed person per year?",
+   "options": [
+    "A. 0.1 rem/year",
+    "B. 1 mSv/year",
+    "C. 500 rem/year",
+    "D. 5 rem/year"
+   ],
+   "answer": "D. 5 rem/year",
+   "explanation": "For an occupational person, the Maximum Permissible Dose is 5 rem/year, which is equivalent to 50 mSv/year."
+  },
+  {
+   "id": "rad-quiz-15",
+   "deck": "Quizzes",
+   "section": "Radiology bonus quiz",
+   "page": 144,
+   "question": "Which type of radiation effect has a probability of occurrence that increases with dose, but its severity is not dose-dependent?",
+   "options": [
+    "A. Non-stochastic effect",
+    "B. Genetic effect",
+    "C. Somatic effect",
+    "D. Stochastic effect"
+   ],
+   "answer": "D. Stochastic effect",
+   "explanation": "Stochastic effects, such as cancer, are characterized by an increased probability of occurrence with a higher dose, but the severity of the effect (e.g., how severe the cancer is) does not depend on the dose."
+  }
+ ]
+}

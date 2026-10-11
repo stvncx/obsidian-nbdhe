@@ -1,0 +1,1241 @@
+{
+ "diagrams": [
+  {
+   "name": "perio-p94-gingivitis-histology",
+   "title": "Histology of severe gingivitis",
+   "deck": "Periodontology",
+   "pdf_page": 10,
+   "page": 94,
+   "crop": [
+    95,
+    540,
+    1240,
+    1135
+   ],
+   "labels": [
+    {
+     "box": [
+      300,
+      628,
+      502,
+      682
+     ],
+     "answer": "Thick biofilm",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      901,
+      607,
+      1217,
+      659
+     ],
+     "answer": "Gingival inflammation",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      168,
+      722,
+      631,
+      798
+     ],
+     "answer": "Gingival crevicular fluid with high levels of bacteria",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      928,
+      700,
+      1042,
+      748
+     ],
+     "answer": "B-cells",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      935,
+      778,
+      1212,
+      831
+     ],
+     "answer": "Dilated capillaries",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      364,
+      824,
+      597,
+      869
+     ],
+     "answer": "Neutrophils",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      890,
+      831,
+      1062,
+      897
+     ],
+     "answer": "Mast cells",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      219,
+      933,
+      488,
+      1010
+     ],
+     "answer": "Elongation of epithelial ridges",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      998,
+      935,
+      1104,
+      990
+     ],
+     "answer": "T-cells",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      918,
+      1029,
+      1131,
+      1074
+     ],
+     "answer": "Fibroblasts",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      285,
+      1056,
+      473,
+      1100
+     ],
+     "answer": "Plasma cells",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p99-bone-loss-percent",
+   "title": "Percentage of bone loss (thirds of the root)",
+   "deck": "Periodontology",
+   "pdf_page": 15,
+   "page": 99,
+   "crop": [
+    190,
+    1250,
+    1220,
+    1810
+   ],
+   "labels": [
+    {
+     "box": [
+      904,
+      1395,
+      987,
+      1448
+     ],
+     "answer": "CEJ",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      223,
+      1496,
+      440,
+      1549
+     ],
+     "answer": "Coronal 1/3",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      890,
+      1474,
+      1000,
+      1511
+     ],
+     "answer": "0-15%",
+     "fit": "text"
+    },
+    {
+     "box": [
+      890,
+      1520,
+      1016,
+      1556
+     ],
+     "answer": "15-33%",
+     "fit": "text"
+    },
+    {
+     "box": [
+      228,
+      1581,
+      434,
+      1633
+     ],
+     "answer": "Middle 1/3",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      890,
+      1586,
+      1015,
+      1624
+     ],
+     "answer": "33-66%",
+     "fit": "text"
+    },
+    {
+     "box": [
+      235,
+      1666,
+      426,
+      1719
+     ],
+     "answer": "Apical 1/3",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      890,
+      1668,
+      985,
+      1712
+     ],
+     "answer": "67+%",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "perio-p93-001",
+   "deck": "Periodontology",
+   "section": "2017 AAP classification",
+   "page": 93,
+   "text": "The current periodontal classification (AAP/EFP World Workshop 2017, published 2018) groups periodontal health with {{c1::gingivitis: dental biofilm-induced}} and {{c2::gingival diseases: non-dental biofilm-induced}}."
+  },
+  {
+   "id": "perio-p93-002",
+   "deck": "Periodontology",
+   "section": "2017 AAP classification",
+   "page": 93,
+   "text": "In the 2017 AAP classification the three forms of periodontitis are {{c1::necrotizing periodontal diseases}}, periodontitis, and {{c2::periodontitis as a manifestation of systemic disease}}."
+  },
+  {
+   "id": "perio-p93-003",
+   "deck": "Periodontology",
+   "section": "2017 AAP classification",
+   "page": 93,
+   "text": "'Other conditions affecting the periodontium' (2017 AAP) include systemic diseases affecting the supporting tissues, {{c1::periodontal abscesses and endodontic-periodontal lesions}}, {{c2::mucogingival deformities and conditions}}, {{c3::traumatic occlusal forces}}, and tooth- and prosthesis-related factors.",
+   "extra": "AAP 2017: periodontal abscesses and endodontic-periodontal lesions sit under 'Other conditions affecting the periodontium' (with systemic diseases, mucogingival deformities, traumatic occlusal forces, tooth/prosthesis factors). The book prints them under the Periodontitis heading — the exam follows the AAP chart."
+  },
+  {
+   "id": "perio-p93-004",
+   "deck": "Periodontology",
+   "section": "2017 AAP classification",
+   "page": 93,
+   "text": "Peri-implant diseases and conditions (2017 AAP): peri-implant health, {{c1::peri-implant mucositis}}, {{c2::peri-implantitis}}, and {{c3::peri-implant soft and hard tissue deficiencies}}."
+  },
+  {
+   "id": "perio-p93-005",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 93,
+   "text": "The AAP gingival-health categories are health on an {{c1::intact periodontium}}, health on a reduced periodontium in a {{c2::previously treated (stable) periodontitis}} patient, and health on a reduced periodontium in a {{c3::non-periodontitis}} patient."
+  },
+  {
+   "id": "perio-p93-006",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 93,
+   "text": "Bleeding on probing at {{c1::less than 10%}} of sites is required for health in any diagnosis; BOP of {{c2::10% or greater}} means gingivitis."
+  },
+  {
+   "id": "perio-p93-007",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 93,
+   "text": "Clinical health on an intact periodontium: BOP <10%, probing depths {{c1::1–3 mm}}, and {{c2::no CAL and no RBL}}."
+  },
+  {
+   "id": "perio-p93-008",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 93,
+   "text": "Clinical gingival health on a reduced periodontium in a stable periodontitis patient: BOP <10%, probing depths {{c1::4 mm or less}}, CAL present, RBL present."
+  },
+  {
+   "id": "perio-p93-009",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 93,
+   "text": "Clinical gingival health on a reduced periodontium in a non-periodontitis patient: BOP <10%, PD 1–3 mm, CAL present, RBL {{c1::possible}}.",
+   "extra": "Stable perio patient: RBL present. Non-perio patient: RBL possible."
+  },
+  {
+   "id": "perio-p93-010",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 93,
+   "text": "Plaque-induced gingivitis is prevalent at all ages and is considered the {{c1::most common form of periodontal disease}}."
+  },
+  {
+   "id": "perio-p93-011",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 93,
+   "text": "The initial changes from health to plaque-induced gingivitis may {{c1::not be detectable clinically}}."
+  },
+  {
+   "id": "perio-p93-012",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 93,
+   "text": "Common clinical signs of plaque-induced gingivitis: {{c1::erythema}}, {{c2::edema}}, bleeding, tenderness, and {{c3::enlargement}}."
+  },
+  {
+   "id": "perio-p93-013",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 93,
+   "text": "Plaque-induced gingivitis begins at the {{c1::gingival margin}} and may spread throughout the remaining gingival unit."
+  },
+  {
+   "id": "perio-p93-014",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 93,
+   "text": "Patients with gingivitis may notice bleeding with brushing, blood in saliva, gingival swelling and redness, and — in established forms — {{c1::halitosis}}."
+  },
+  {
+   "id": "perio-p93-015",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 93,
+   "text": "The severity of plaque-induced gingivitis can be influenced by {{c1::tooth and root anatomy}}, restorative and endodontic considerations, and other tooth-related factors."
+  },
+  {
+   "id": "perio-p93-016",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 93,
+   "text": "In plaque-induced gingivitis, radiographs and probing attachment levels generally show {{c1::no loss of supporting structures}}."
+  },
+  {
+   "id": "perio-p94-001",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 94,
+   "text": "Plaque-induced gingivitis can also occur on a {{c1::reduced periodontium}}; it presents as gingival inflammation only, with {{c2::no progression of attachment loss}}."
+  },
+  {
+   "id": "perio-p94-002",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 94,
+   "text": "In gingivitis, probing depths are 1–3 mm, but {{c1::pseudopocketing}} and {{c2::gingival overgrowth}} may make probe depths deeper.",
+   "extra": "Gingivitis tables: intact periodontium — no CAL, no RBL; reduced, stable perio pt — CAL + RBL present; reduced, non-perio pt — CAL present, RBL possible. All BOP ≥10%."
+  },
+  {
+   "id": "perio-p94-003",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "text": "Epithelial change in gingivitis: {{c1::elongation of the epithelial ridges (rete pegs)}} extending deeper into the gingival connective tissue."
+  },
+  {
+   "id": "perio-p94-004",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "text": "Vascular change in gingivitis: {{c1::dilated capillaries}} next to the junctional epithelium increase blood flow, causing clinical redness and bleeding."
+  },
+  {
+   "id": "perio-p94-005",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "text": "Connective-tissue breakdown in gingivitis: progressive destruction of the {{c1::collagen fiber network}}."
+  },
+  {
+   "id": "perio-p94-006",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "text": "In the gingivitis cellular infiltrate, {{c1::neutrophils}} are often the first responders."
+  },
+  {
+   "id": "perio-p94-007",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "text": "Lymphocytes in the gingivitis infiltrate — specifically {{c1::T-cells and B-cells}} — are key players in the immune response."
+  },
+  {
+   "id": "perio-p94-008",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "text": "In gingivitis, {{c1::mast cells}} are involved in the initial inflammatory response."
+  },
+  {
+   "id": "perio-p94-009",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "text": "{{c1::Fibroblasts}} — the resident cells that produce collagen and other connective-tissue components — show alterations as the tissue remodels under inflammation."
+  },
+  {
+   "id": "perio-p94-010",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "text": "A {{c1::thick biofilm}} on the tooth surface initiates and sustains the inflammatory changes of gingivitis."
+  },
+  {
+   "id": "perio-p94-011",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "text": "In gingivitis the gingival crevicular fluid contains high levels of {{c1::bacteria}} and {{c2::inflammatory mediators}}."
+  },
+  {
+   "id": "perio-p94-012",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 94,
+   "text": "Sex steroid hormone fluctuations ({{c1::puberty, menstrual cycle, pregnancy, oral contraceptives}}) exaggerate the gingival response to plaque because of {{c2::increased vascularity}} and altered immune response.",
+   "extra": "Category: systemic (hormonal & immunological) factor"
+  },
+  {
+   "id": "perio-p95-001",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 95,
+   "text": "Poorly controlled diabetes (especially Type 1) causes severe gingival inflammation because of {{c1::impaired immune response}} and altered wound healing.",
+   "extra": "Category: systemic factor (hyperglycemia)"
+  },
+  {
+   "id": "perio-p95-002",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 95,
+   "text": "In {{c1::leukemia}}, thrombocytopenia and clotting-factor deficiencies cause pronounced gingival enlargement and bleeding that can mask or exacerbate gingivitis."
+  },
+  {
+   "id": "perio-p95-003",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 95,
+   "text": "As a modifying factor, vitamin C deficiency (scurvy) causes severe gingival inflammation, bleeding, and impaired {{c1::collagen formation}}, exaggerating plaque-induced gingivitis.",
+   "extra": "Category: systemic factor (malnutrition). See also scurvy as a direct cause of non-biofilm gingivitis."
+  },
+  {
+   "id": "perio-p95-004",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 95,
+   "text": "The {{c1::level of plaque control}} is a direct, modifiable behavior that dictates the presence and severity of gingivitis; plaque is the primary cause, and its amount contributes to disease."
+  },
+  {
+   "id": "perio-p95-005",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 95,
+   "text": "{{c1::Overhanging or poorly contoured subgingival restoration margins}} create plaque traps the patient cannot clean, causing localized plaque accumulation and persistent inflammation.",
+   "extra": "Category: local (oral) factor"
+  },
+  {
+   "id": "perio-p95-006",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 95,
+   "text": "{{c1::Hyposalivation (dry mouth)}} reduces natural oral cleansing and makes mechanical plaque removal harder, increasing plaque and worsening gingival inflammation.",
+   "extra": "Category: local (oral) factor"
+  },
+  {
+   "id": "perio-p95-007",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 95,
+   "text": "In non-dental biofilm-induced gingival disease the gingiva is inflamed {{c1::even without biofilm}} (a manifestation of a systemic condition), yet plaque accumulation {{c2::can still affect its clinical course}}."
+  },
+  {
+   "id": "perio-p95-008",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 95,
+   "text": "{{c1::Hereditary gingival fibromatosis}} (a genetic/developmental abnormality) causes gingival overgrowth ranging from mild to severe, often {{c2::firm and pink}}."
+  },
+  {
+   "id": "perio-p95-009",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 95,
+   "text": "Necrotizing gingivitis requires biofilm, but its primary driver is a {{c1::suppressed host immune response}} (e.g., stress, malnutrition, HIV/AIDS).",
+   "extra": "AAP 2017 classifies necrotizing gingivitis under Necrotizing Periodontal Diseases (Periodontitis group); the book lists it in this table as a bacterial specific infection."
+  },
+  {
+   "id": "perio-p95-010",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 95,
+   "text": "Necrotizing gingivitis presents with painful {{c1::punched-out papillae}}, a {{c2::pseudomembrane}}, and {{c3::fetid odor}}."
+  },
+  {
+   "id": "perio-p95-011",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 95,
+   "text": "Herpetic gingivostomatitis: vesicles that quickly rupture into painful, fibrin-coated, irregular ulcers; usually seen in {{c1::young children}} as a {{c2::primary infection}}.",
+   "extra": "Viral origin"
+  },
+  {
+   "id": "perio-p95-012",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 95,
+   "text": "{{c1::Coxsackie viruses}} (e.g., hand-foot-and-mouth disease) cause contagious vesicular lesions of the skin and oral mucosa, including the gingiva."
+  },
+  {
+   "id": "perio-p95-013",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 95,
+   "text": "{{c1::Human papillomavirus (HPV)}} can manifest as papillomas or warts on the gingiva."
+  },
+  {
+   "id": "perio-p95-014",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 95,
+   "text": "The most common gingival presentation of candidiasis (Candida albicans) is {{c1::redness of the attached gingiva}}, often with a granular surface.",
+   "extra": "Fungal origin"
+  },
+  {
+   "id": "perio-p96-001",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "Oral candidiasis can be white {{c1::pseudomembranous}} or {{c2::erythematous}}."
+  },
+  {
+   "id": "perio-p96-002",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "{{c1::Contact allergy}}: reaction to dental materials (e.g., flavoring agents in toothpaste, metals), foods, or other substances, with redness, swelling, burning, or discomfort localized to the contact area."
+  },
+  {
+   "id": "perio-p96-003",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "{{c1::Erythema multiforme}}: an acute, self-limiting immune-inflammatory disorder of mucosa and skin, with {{c2::target lesions}} on the skin and bullae/ulcers in the mouth, often with severe crusting of the lips."
+  },
+  {
+   "id": "perio-p96-004",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "{{c1::Pemphigus vulgaris}} is a chronic autoimmune disease with {{c2::intraepithelial}} bullae in skin and mucous membranes; oral lesions rupture quickly, leaving painful persistent erosions."
+  },
+  {
+   "id": "perio-p96-005",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "When pemphigus vulgaris affects the gingiva it appears as {{c1::desquamative gingivitis}}."
+  },
+  {
+   "id": "perio-p96-006",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "{{c1::Pyogenic granuloma}} (a reactive process) is a benign, rapidly growing, highly vascular lesion that bleeds easily, often on the gingiva."
+  },
+  {
+   "id": "perio-p96-007",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "Pyogenic granuloma is exacerbated by local irritation or hormonal changes (the \"{{c1::pregnancy tumor}}\"); despite its name it is {{c2::not pus-producing}}."
+  },
+  {
+   "id": "perio-p96-008",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "{{c1::Erythroplakia}} is a flat or slightly depressed red patch with a significantly {{c2::higher malignant potential}} than leukoplakia."
+  },
+  {
+   "id": "perio-p96-009",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "Squamous cell carcinoma of the gingiva can present as a persistent non-healing ulcer, a red or white lesion, or an {{c1::exophytic mass}}; it occurs most often in the {{c2::mandibular premolar and molar}} region."
+  },
+  {
+   "id": "perio-p96-010",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "text": "Severe, prolonged vitamin C deficiency (scurvy) causes generalized gingival bleeding, swelling, soreness and impaired wound healing — it {{c1::directly causes}} gingival inflammation rather than merely exacerbating plaque-induced gingivitis.",
+   "extra": "Category: endocrine, nutritional, metabolic"
+  },
+  {
+   "id": "perio-p97-001",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 97,
+   "text": "{{c1::Frictional keratosis}} is a white lesion caused by chronic mechanical irritation (e.g., rough restorations, cheek biting, vigorous brushing).",
+   "extra": "Category: traumatic lesions"
+  },
+  {
+   "id": "perio-p97-002",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 97,
+   "text": "Toothbrushing-induced ulceration (aggressive or improper brushing/flossing) causes localized ulceration and inflammation, often at the {{c1::tips of the interdental papillae or the marginal gingiva}}."
+  },
+  {
+   "id": "perio-p97-003",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 97,
+   "text": "{{c1::Smoker's melanosis}} is benign, irregular brown-to-black melanin pigmentation of the gingiva, most common on the {{c2::anterior facial gingiva}} — a physiological response to chemicals in tobacco smoke.",
+   "extra": "Category: gingival pigmentation"
+  },
+  {
+   "id": "perio-p97-004",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 97,
+   "text": "Periodontitis is a chronic, multifactorial inflammatory disease associated with plaque biofilm that progressively destroys the tooth-supporting structures: CAL via {{c1::apical migration of the junctional epithelium}}, radiographic {{c2::alveolar bone loss}}, pocketing and gingival bleeding."
+  },
+  {
+   "id": "perio-p97-005",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 97,
+   "text": "2017 periodontitis case definition: interdental CAL detectable at {{c1::two or more nonadjacent teeth}}, OR facial/lingual CAL of {{c2::3 mm or more}} with pocketing greater than 3 mm at two or more teeth."
+  },
+  {
+   "id": "perio-p97-006",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 97,
+   "text": "To diagnose periodontitis, the CAL must not be due to {{c1::non-periodontitis causes}} such as trauma or orthodontics."
+  },
+  {
+   "id": "perio-p97-007",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 97,
+   "text": "Once diagnosed, periodontitis is characterized by {{c1::staging}} (severity and complexity) and {{c2::grading}} (rate of progression)."
+  },
+  {
+   "id": "perio-p97-008",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 97,
+   "text": "The older terms \"{{c1::chronic}}\" and \"{{c2::aggressive}}\" periodontitis are now grouped simply under \"periodontitis\"."
+  },
+  {
+   "id": "perio-p97-009",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 97,
+   "text": "Staging depends on the {{c1::severity}} of disease at presentation and the {{c2::complexity}} of disease management, plus the extent and distribution in the dentition."
+  },
+  {
+   "id": "perio-p98-001",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "The initial stage is determined using {{c1::clinical attachment loss}}; if that is not available, {{c2::radiographic bone loss}} is used.",
+   "extra": "Board Alert: memorize the staging and grading charts — they are not given on the exam."
+  },
+  {
+   "id": "perio-p98-002",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Tooth loss due to periodontitis may modify the stage, and one or more complexity factors may shift the stage {{c1::to a higher level}}."
+  },
+  {
+   "id": "perio-p98-003",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Staging by interdental CAL (site of greatest loss): Stage I {{c1::1–2 mm}}, Stage II {{c2::3–4 mm}}, Stages III and IV {{c3::≥5 mm}}."
+  },
+  {
+   "id": "perio-p98-004",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Staging by radiographic bone loss: Stage I {{c1::coronal third (<15%)}}, Stage II {{c2::coronal third (15–33%)}}, Stages III and IV {{c3::extending to the middle third of the root and beyond}}."
+  },
+  {
+   "id": "perio-p98-005",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Staging by tooth loss due to periodontitis: Stages I–II {{c1::no tooth loss}}, Stage III {{c2::≤4 teeth}}, Stage IV {{c3::≥5 teeth}}."
+  },
+  {
+   "id": "perio-p98-006",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Local complexity: Stage I = maximum probing depth {{c1::≤4 mm}}; Stage II = maximum probing depth {{c2::≤5 mm}}; both with mostly {{c3::horizontal}} bone loss."
+  },
+  {
+   "id": "perio-p98-007",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Stage III complexity (in addition to Stage II): probing depths {{c1::≥6 mm}}, vertical bone loss {{c2::≥3 mm}}, furcation involvement {{c3::Class II or III}}, moderate ridge defects."
+  },
+  {
+   "id": "perio-p98-008",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Stage IV complexity: need for complex rehabilitation due to masticatory dysfunction, secondary occlusal trauma (tooth mobility {{c1::degree ≥2}}), severe ridge defects, bite collapse/drifting/flaring, and fewer than {{c2::20}} remaining teeth (10 opposing pairs)."
+  },
+  {
+   "id": "perio-p98-009",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Extent is added to the stage as a descriptor: localized (<30% of teeth), generalized, or {{c1::molar/incisor pattern}}."
+  },
+  {
+   "id": "perio-p98-010",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "{{c1::Stage I}} periodontitis represents the early stage of attachment loss — the borderland between gingivitis and periodontitis, a response to persistent gingival inflammation.",
+   "extra": "Managed with standard treatment: personal and professional bacterial removal to arrest progression."
+  },
+  {
+   "id": "perio-p98-011",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Stage III periodontitis: significant damage with deep lesions to the middle of the root, intrabony defects, furcation involvement and periodontal tooth loss; management is complex, and localized {{c1::ridge defects}} can complicate implant placement."
+  },
+  {
+   "id": "perio-p98-012",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Stage IV periodontitis: considerable damage and significant tooth loss that impairs {{c1::masticatory function}}; needs comprehensive rehabilitation — without it the dentition is at risk of being lost."
+  },
+  {
+   "id": "perio-p98-013",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "text": "Periodontitis may progress at {{c1::different rates}} in different individuals, respond less predictably to treatment, and may or may not influence systemic disease — which is what grading captures.",
+   "extra": "WakeUpMemory: periodontitis is a lifelong condition — \"Once a perio patient, always a perio patient.\""
+  },
+  {
+   "id": "perio-p99-001",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "text": "Grading indicates the {{c1::rate of periodontitis progression}}, responsiveness to standard therapy, and potential impact on {{c2::systemic health}}.",
+   "extra": "It adds biological features: general health status and exposures such as smoking or metabolic control of diabetes."
+  },
+  {
+   "id": "perio-p99-002",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "text": "Grade A = {{c1::slow}} rate of progression (low risk); Grade B = {{c2::moderate}} rate; Grade C = {{c3::rapid}} rate (high risk)."
+  },
+  {
+   "id": "perio-p99-003",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "text": "Whenever available, {{c1::direct evidence}} of progression (radiographic bone loss or CAL over 5 years) should be used for grading."
+  },
+  {
+   "id": "perio-p99-004",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "text": "Grading by direct evidence (RBL or CAL over 5 years): Grade A {{c1::no loss}}, Grade B {{c2::<2 mm}}, Grade C {{c3::≥2 mm}}."
+  },
+  {
+   "id": "perio-p99-005",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "text": "Grading by % bone loss ÷ age: Grade A {{c1::<0.25}}, Grade B {{c2::0.25 to 1.0}}, Grade C {{c3::>1.0}}.",
+   "extra": "So if the % bone loss is higher than the patient's age, the patient is automatically Grade C."
+  },
+  {
+   "id": "perio-p99-006",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "text": "Case phenotype: Grade A = heavy biofilm with {{c1::low levels of destruction}}; Grade B = destruction {{c2::commensurate with}} biofilm deposits; Grade C = destruction {{c3::exceeds expectations}} given the biofilm (rapid progression and/or early-onset patterns)."
+  },
+  {
+   "id": "perio-p99-007",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "text": "Grade modifier — smoking: non-smoker = Grade A; {{c1::<10 cigarettes/day}} = Grade B; {{c2::≥10 cigarettes/day}} = Grade C.",
+   "extra": "So any smoker is at least Grade B. 1 pack = 20 cigarettes."
+  },
+  {
+   "id": "perio-p99-008",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "text": "Grade modifier — diabetes: normoglycemic/no diagnosis = Grade A; HbA1c {{c1::<7.0%}} in a patient with diabetes = Grade B; HbA1c {{c2::≥7.0%}} = Grade C.",
+   "extra": "So any patient with diabetes is at least Grade B. The book adds that an A1C of 5.7% or above means diabetic — that is not correct (ADA: 5.7–6.4% = prediabetes; ≥6.5% = diabetes); the AAP grade uses the diagnosis of diabetes and the 7.0% cut-off."
+  }
+ ],
+ "basic": [
+  {
+   "id": "perio-p93-b-01",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 93,
+   "front": "Pristine periodontal health",
+   "back": "No bleeding, no loss of attachment, probing depths 1–3 mm, and no modifying (or only well-controlled) risk factors — the ultimate picture of health",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p93-b-02",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 93,
+   "front": "What does \"health on a reduced periodontium in a non-periodontitis patient\" mean?",
+   "back": "There is clinical attachment loss from causes other than periodontitis (e.g., trauma, orthodontics, aging), but the periodontium is healthy now — no active inflammation, BOP <10%. It is not a history of periodontal disease.",
+   "reverse": false,
+   "extra": "Book: Don't Be Confused!"
+  },
+  {
+   "id": "perio-p93-b-03",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 93,
+   "front": "Dental biofilm-induced gingivitis",
+   "back": "An inflammatory response of the gingival tissues resulting from bacterial plaque accumulation at and below the gingival margin",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p94-b-01",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 94,
+   "front": "Gingivitis on a reduced periodontium: what is the crucial distinction?",
+   "back": "There is active (reversible) gingival inflammation on a periodontium that already has attachment loss, but the gingivitis is NOT causing new or progressive attachment loss — the loss is from a past event (e.g., treated periodontitis, recession) and is stable.",
+   "reverse": false,
+   "extra": "Book: Don't Be Confused!"
+  },
+  {
+   "id": "perio-p94-b-02",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "front": "Plasma cells",
+   "back": "Differentiated B-cells that produce antibodies",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p95-b-01",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 95,
+   "front": "Why can smoking delay the diagnosis of gingivitis or understate its severity?",
+   "back": "Nicotine causes vasoconstriction, so there are fewer classic signs of inflammation (less swelling and bleeding) despite underlying disease.",
+   "reverse": false,
+   "extra": "Category: modifiable (behavioral & lifestyle) risk factor"
+  },
+  {
+   "id": "perio-p96-b-01",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "front": "Leukoplakia",
+   "back": "A white patch or plaque that cannot be scraped off and is not identifiable as any other disease; precancerous",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p96-b-02",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "front": "Vitamin C deficiency appears both as a modifying factor of plaque-induced gingivitis and as a cause of non-biofilm gingivitis. What's the difference?",
+   "back": "Modifying factor: mild deficiency worsens inflammation already driven by plaque (like a cold that hits harder when you're run down). Direct cause: severe deficiency (scurvy) itself produces gingival bleeding and soreness regardless of plaque. Always consider the primary cause of the inflammation.",
+   "reverse": false,
+   "extra": "Book: Don't Be Confused! (p. 97)"
+  }
+ ],
+ "typein": [
+  {
+   "id": "perio-p97-t-01",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 97,
+   "question": "Periodontitis is \"generalized\" when at least what percentage of teeth are involved? (number + %)",
+   "answer": "30%",
+   "extra": "Localized = less than 30% of teeth with CAL and radiographic bone loss. A third descriptor is the molar/incisor pattern."
+  },
+  {
+   "id": "perio-p97-t-02",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 97,
+   "question": "How many stages of periodontitis are there?",
+   "answer": "4",
+   "extra": "Stages I–IV, based on interdental CAL, amount and % of bone loss, probing depth, angular bony defects, furcation involvement, tooth mobility, and tooth loss due to periodontitis."
+  },
+  {
+   "id": "perio-p99-t-01",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "question": "Which periodontitis grade should clinicians initially assume before seeking evidence to shift it?",
+   "answer": "B",
+   "extra": "Then look for specific evidence to move to grade A or C."
+  }
+ ],
+ "match": [
+  {
+   "id": "perio-p94-m-01",
+   "deck": "Periodontology",
+   "section": "Histology of gingivitis",
+   "page": 94,
+   "prompt": "Match each cell in the gingivitis infiltrate to its role.",
+   "pairs": [
+    [
+     "Neutrophils",
+     "Often the first responders"
+    ],
+    [
+     "Plasma cells",
+     "Differentiated B-cells that produce antibodies"
+    ],
+    [
+     "Mast cells",
+     "Involved in the initial inflammatory response"
+    ],
+    [
+     "Fibroblasts",
+     "Produce collagen; altered as tissue remodels"
+    ],
+    [
+     "T- and B-lymphocytes",
+     "Key players in the immune response"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p98-m-01",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "prompt": "Match each periodontitis stage to its description.",
+   "pairs": [
+    [
+     "Stage I",
+     "Borderland between gingivitis and periodontitis"
+    ],
+    [
+     "Stage II",
+     "Established periodontitis; standard treatment usually arrests it"
+    ],
+    [
+     "Stage III",
+     "Significant damage; complex management to prevent tooth loss"
+    ],
+    [
+     "Stage IV",
+     "Considerable damage and tooth loss; needs extensive rehabilitation"
+    ]
+   ]
+  }
+ ],
+ "order": [],
+ "sort": [
+  {
+   "id": "perio-p93-s-01",
+   "deck": "Periodontology",
+   "section": "2017 AAP classification",
+   "page": 93,
+   "prompt": "Sort into the 2017 AAP classification groups.",
+   "categories": [
+    [
+     "Health & gingival diseases",
+     [
+      "Periodontal & gingival health",
+      "Gingivitis: dental biofilm-induced",
+      "Gingival diseases: non-dental biofilm-induced"
+     ]
+    ],
+    [
+     "Periodontitis",
+     [
+      "Necrotizing periodontal diseases",
+      "Periodontitis",
+      "Periodontitis as a manifestation of systemic disease"
+     ]
+    ],
+    [
+     "Other conditions affecting the periodontium",
+     [
+      "Periodontal abscesses & endo-perio lesions",
+      "Mucogingival deformities",
+      "Traumatic occlusal forces"
+     ]
+    ],
+    [
+     "Peri-implant diseases & conditions",
+     [
+      "Peri-implant mucositis",
+      "Peri-implantitis"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "perio-p95-s-01",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 95,
+   "prompt": "Sort the modifying factors of biofilm-induced gingivitis by category.",
+   "categories": [
+    [
+     "Systemic (hormonal & immunological)",
+     [
+      "Puberty / pregnancy hormones",
+      "Poorly controlled diabetes",
+      "Leukemia",
+      "Vitamin C deficiency"
+     ]
+    ],
+    [
+     "Modifiable (behavioral & lifestyle)",
+     [
+      "Smoking",
+      "Poor plaque control"
+     ]
+    ],
+    [
+     "Local (oral)",
+     [
+      "Overhanging restoration margins",
+      "Hyposalivation"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "perio-p96-s-01",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "prompt": "Sort these non-dental biofilm-induced gingival conditions by category.",
+   "categories": [
+    [
+     "Specific infections",
+     [
+      "Herpetic gingivostomatitis",
+      "Coxsackie virus",
+      "HPV papilloma",
+      "Candidiasis"
+     ]
+    ],
+    [
+     "Inflammatory & immune",
+     [
+      "Contact allergy",
+      "Erythema multiforme",
+      "Pemphigus vulgaris"
+     ]
+    ],
+    [
+     "Neoplasms",
+     [
+      "Leukoplakia",
+      "Erythroplakia",
+      "Squamous cell carcinoma"
+     ]
+    ],
+    [
+     "Traumatic lesions",
+     [
+      "Frictional keratosis",
+      "Toothbrushing-induced ulceration"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "perio-p94-mcq-01",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 94,
+   "question": "A patient successfully treated for periodontitis 2 years ago returns. Probing depths are all 4 mm or less, BOP is 6%, and CAL and radiographic bone loss are present. What is the diagnosis?",
+   "options": [
+    "A. Gingivitis on a reduced periodontium: stable periodontitis patient",
+    "B. Clinical gingival health on a reduced periodontium: stable periodontitis patient",
+    "C. Clinical health on an intact periodontium",
+    "D. Stage I periodontitis"
+   ],
+   "answer": "B. Clinical gingival health on a reduced periodontium: stable periodontitis patient",
+   "explanation": "BOP below 10% with PD ≤4 mm in a treated periodontitis patient = health on a reduced periodontium (stable). Gingivitis would need BOP of 10% or more; an intact periodontium has no CAL or RBL."
+  },
+  {
+   "id": "perio-p94-mcq-02",
+   "deck": "Periodontology",
+   "section": "Gingivitis: dental biofilm-induced",
+   "page": 94,
+   "question": "A 30-year-old with recession from past orthodontic treatment (never had periodontitis) has BOP at 18% of sites and probing depths of 2–3 mm. Which diagnosis fits best?",
+   "options": [
+    "A. Gingivitis on an intact periodontium",
+    "B. Clinical gingival health on a reduced periodontium: non-periodontitis patient",
+    "C. Gingivitis on a reduced periodontium: non-periodontitis patient",
+    "D. Stage I periodontitis"
+   ],
+   "answer": "C. Gingivitis on a reduced periodontium: non-periodontitis patient",
+   "explanation": "BOP ≥10% = gingivitis; attachment loss from orthodontics (not periodontitis) = reduced periodontium in a non-perio patient. It is not periodontitis because the CAL is from a non-periodontitis cause."
+  },
+  {
+   "id": "perio-p95-mcq-01",
+   "deck": "Periodontology",
+   "section": "Gingivitis risk factors",
+   "page": 95,
+   "question": "A heavy smoker has thick plaque and deep calculus but very little gingival bleeding or swelling. What is the most likely explanation?",
+   "options": [
+    "A. Smoking increases gingival vascularity",
+    "B. Nicotine-induced vasoconstriction masks the signs of inflammation",
+    "C. The patient has no gingival disease",
+    "D. Hyposalivation reduces bleeding"
+   ],
+   "answer": "B. Nicotine-induced vasoconstriction masks the signs of inflammation",
+   "explanation": "Nicotine constricts blood vessels, so smokers show fewer classic signs (less bleeding and swelling) despite disease — which can delay diagnosis. Increased vascularity is the mechanism for hormonal changes, which exaggerate inflammation."
+  },
+  {
+   "id": "perio-p96-mcq-01",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "question": "Which of these gingival lesions has the HIGHEST malignant potential?",
+   "options": [
+    "A. Leukoplakia",
+    "B. Frictional keratosis",
+    "C. Erythroplakia",
+    "D. Smoker's melanosis"
+   ],
+   "answer": "C. Erythroplakia",
+   "explanation": "Erythroplakia (a flat red patch) carries a significantly higher malignant potential than leukoplakia, which is also precancerous. Frictional keratosis and smoker's melanosis are benign."
+  },
+  {
+   "id": "perio-p96-mcq-02",
+   "deck": "Periodontology",
+   "section": "Non-dental biofilm-induced gingival diseases",
+   "page": 96,
+   "question": "A 3-year-old has fever and painful, irregular, fibrin-coated ulcers on the gingiva that began as vesicles. What is the most likely diagnosis?",
+   "options": [
+    "A. Necrotizing gingivitis",
+    "B. Primary herpetic gingivostomatitis",
+    "C. Pemphigus vulgaris",
+    "D. Erythema multiforme"
+   ],
+   "answer": "B. Primary herpetic gingivostomatitis",
+   "explanation": "Ruptured vesicles forming painful fibrin-coated ulcers in a young child = primary herpetic infection. Pemphigus vulgaris is a chronic autoimmune disease of adults; necrotizing gingivitis shows punched-out papillae and fetid odor."
+  },
+  {
+   "id": "perio-p98-mcq-01",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "question": "A patient has interdental CAL of 4 mm at the worst site, radiographic bone loss of 25% (coronal third), no teeth lost to periodontitis, maximum probing depth 5 mm, and mostly horizontal bone loss. What is the stage?",
+   "options": [
+    "A. Stage I",
+    "B. Stage II",
+    "C. Stage III",
+    "D. Stage IV"
+   ],
+   "answer": "B. Stage II",
+   "explanation": "CAL 3–4 mm, RBL 15–33%, no tooth loss and max PD ≤5 mm with horizontal loss = Stage II. Stage III would need CAL ≥5 mm, PD ≥6 mm, vertical loss ≥3 mm or Class II/III furcations."
+  },
+  {
+   "id": "perio-p98-mcq-02",
+   "deck": "Periodontology",
+   "section": "Periodontitis staging",
+   "page": 98,
+   "question": "Which finding by itself would shift a patient with Stage II severity to Stage III?",
+   "options": [
+    "A. Maximum probing depth of 5 mm",
+    "B. Mostly horizontal bone loss",
+    "C. Class II furcation involvement",
+    "D. Bone loss of 20%"
+   ],
+   "answer": "C. Class II furcation involvement",
+   "explanation": "Complexity factors can raise the stage: Class II or III furcation, PD ≥6 mm, or vertical bone loss ≥3 mm are Stage III. PD ≤5 mm, horizontal loss and 15–33% RBL all fit Stage II."
+  },
+  {
+   "id": "perio-p99-mcq-01",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "question": "A 40-year-old non-diabetic patient smokes 5 cigarettes a day. Her worst site shows 60% bone loss. What grade is her periodontitis?",
+   "options": [
+    "A. Grade A",
+    "B. Grade B",
+    "C. Grade C",
+    "D. Cannot be graded without 5-year radiographs"
+   ],
+   "answer": "C. Grade C",
+   "explanation": "Smoking <10/day starts her at Grade B, but % bone loss ÷ age = 60/40 = 1.5 (>1.0), which moves her to Grade C. Grading uses the whole chart, not just smoking or diabetes (Board Alert). Indirect evidence is used when direct evidence is not available."
+  },
+  {
+   "id": "perio-p99-mcq-02",
+   "deck": "Periodontology",
+   "section": "Periodontitis grading",
+   "page": 99,
+   "question": "A 50-year-old with well-controlled type 2 diabetes (HbA1c 6.4%) has 20% bone loss and does not smoke. What grade applies?",
+   "options": [
+    "A. Grade A",
+    "B. Grade B",
+    "C. Grade C",
+    "D. Grade D"
+   ],
+   "answer": "B. Grade B",
+   "explanation": "Bone loss/age = 0.4 (Grade B range 0.25–1.0), and diabetes with HbA1c <7.0% is Grade B. HbA1c ≥7.0% or a ratio >1.0 would make it Grade C; there is no Grade D."
+  }
+ ]
+}

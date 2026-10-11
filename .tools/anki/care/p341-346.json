@@ -1,0 +1,1716 @@
+{
+ "diagrams": [
+  {
+   "name": "poc-p341-lymph-nodes",
+   "title": "Lymphatic system of the head and neck",
+   "deck": "Process of Care",
+   "pdf_page": 9,
+   "page": 341,
+   "crop": [
+    280,
+    690,
+    1110,
+    1320
+   ],
+   "labels": [
+    {
+     "box": [
+      300,
+      882,
+      568,
+      918
+     ],
+     "answer": "Posterior auricular",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      882,
+      910,
+      1065,
+      947
+     ],
+     "answer": "Preauricular",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      400,
+      932,
+      535,
+      965
+     ],
+     "answer": "Occipital",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      852,
+      955,
+      968,
+      990
+     ],
+     "answer": "Parotid",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      305,
+      980,
+      558,
+      1015
+     ],
+     "answer": "Superior auricular",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      835,
+      998,
+      968,
+      1033
+     ],
+     "answer": "Tonsillar",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      353,
+      1035,
+      550,
+      1072
+     ],
+     "answer": "Deep cervical",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      930,
+      1065,
+      1094,
+      1104
+     ],
+     "answer": "Submental",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      825,
+      1133,
+      1050,
+      1172
+     ],
+     "answer": "Submandibular",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      289,
+      1150,
+      537,
+      1190
+     ],
+     "answer": "Posterior cervical",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      340,
+      1272,
+      563,
+      1311
+     ],
+     "answer": "Supraclavicular",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "poc-p343-bite-types",
+   "title": "Overbite, overjet and bite types",
+   "deck": "Process of Care",
+   "pdf_page": 11,
+   "page": 343,
+   "crop": [
+    100,
+    600,
+    1150,
+    955
+   ],
+   "labels": [
+    {
+     "box": [
+      481,
+      718,
+      633,
+      758
+     ],
+     "answer": "Normal bite",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      737,
+      719,
+      873,
+      758
+     ],
+     "answer": "Underbite",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      992,
+      720,
+      1113,
+      760
+     ],
+     "answer": "Overbite",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      117,
+      800,
+      252,
+      865
+     ],
+     "answer": "Horizontal overlap",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      285,
+      800,
+      395,
+      866
+     ],
+     "answer": "Vertical overlap",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      123,
+      874,
+      231,
+      915
+     ],
+     "answer": "Overjet",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      278,
+      874,
+      398,
+      917
+     ],
+     "answer": "Overbite",
+     "key": "Overbite (2)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      492,
+      896,
+      619,
+      935
+     ],
+     "answer": "Openbite",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      739,
+      896,
+      868,
+      936
+     ],
+     "answer": "Crowding",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      987,
+      896,
+      1114,
+      937
+     ],
+     "answer": "Crossbite",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "poc-p341-001",
+   "deck": "Process of Care",
+   "section": "Eyes examination",
+   "page": 341,
+   "text": "{{c1::Bulging (exophthalmos)}} or swollen eyes can indicate {{c2::hyperthyroidism}}."
+  },
+  {
+   "id": "poc-p341-002",
+   "deck": "Process of Care",
+   "section": "Nose and lip examination",
+   "page": 341,
+   "text": "A red {{c1::butterfly-shaped}} lesion over the nose can indicate {{c2::systemic lupus erythematosus (SLE)}}."
+  },
+  {
+   "id": "poc-p341-003",
+   "deck": "Process of Care",
+   "section": "Nose and lip examination",
+   "page": 341,
+   "text": "A {{c1::bulbous}} nose can indicate {{c2::alcohol abuse}}.",
+   "extra": "The book writes \"ED and a bulbous nose\" — \"ED\" is not explained (probably redness/erythema of the nose)."
+  },
+  {
+   "id": "poc-p341-004",
+   "deck": "Process of Care",
+   "section": "TMJ and muscle examination",
+   "page": 341,
+   "text": "To examine the TMJ, {{c1::bilaterally}} palpate the joint with both {{c2::index fingers}} while the patient opens and closes the mouth and moves the jaw side to side several times slowly."
+  },
+  {
+   "id": "poc-p341-005",
+   "deck": "Process of Care",
+   "section": "TMJ and muscle examination",
+   "page": 341,
+   "text": "During TMJ palpation, note any pain, clicking, popping, {{c1::deviation}}, and {{c2::restriction}} in movements of the mandible."
+  },
+  {
+   "id": "poc-p341-006",
+   "deck": "Process of Care",
+   "section": "TMJ and muscle examination",
+   "page": 341,
+   "text": "An enlarged {{c1::masseter}} muscle can indicate {{c2::bruxism and/or clenching}} habits."
+  },
+  {
+   "id": "poc-p341-007",
+   "deck": "Process of Care",
+   "section": "Lymph nodes and glands examination",
+   "page": 341,
+   "text": "When palpating lymph nodes, check for abnormal {{c1::size}}, {{c2::induration}}, and/or {{c3::fixed position}}."
+  },
+  {
+   "id": "poc-p341-008",
+   "deck": "Process of Care",
+   "section": "Lymph nodes and glands examination",
+   "page": 341,
+   "text": "The {{c1::submental}} nodes lie under the chin; the {{c2::submandibular}} nodes lie under the lateral sides of the mandible."
+  },
+  {
+   "id": "poc-p341-009",
+   "deck": "Process of Care",
+   "section": "Lymph nodes and glands examination",
+   "page": 341,
+   "text": "To check the thyroid gland for enlargement and/or immobility, ask the patient to {{c1::swallow}} (may need a glass of water)."
+  },
+  {
+   "id": "poc-p341-010",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "text": "Tongue varicosities are {{c1::dark veins}} located {{c2::sublingually}}; more common in {{c3::elderly}} patients and considered {{c4::normal}}."
+  },
+  {
+   "id": "poc-p341-011",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "text": "Fissures of the tongue are grooves that entrap {{c1::food and bacteria}}."
+  },
+  {
+   "id": "poc-p341-012",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "text": "Geographic tongue: affected areas typically present as {{c1::red lesions with white borders}}; the lesions can {{c2::change location}}."
+  },
+  {
+   "id": "poc-p341-013",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "text": "Median rhomboid glossitis: flat, {{c1::red}} smoothness on the {{c2::middle dorsal}} surface of the tongue; related to {{c3::candidiasis}} and patients who are {{c4::immunocompromised}}."
+  },
+  {
+   "id": "poc-p341-014",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "text": "Black hairy tongue: elongation of the {{c1::filiform}} papillae with dark staining."
+  },
+  {
+   "id": "poc-p341-015",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "text": "Black hairy tongue is caused by long-term use of {{c1::metronidazole}}, {{c2::tobacco}}, {{c3::hydrogen peroxide}}, and ingestion of chromogenic food."
+  },
+  {
+   "id": "poc-p341-016",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "text": "The clinician may use {{c1::gauze}} to manipulate the tongue to examine all surfaces; the {{c2::lateral and ventral}} surfaces are the more common areas for oral cancer."
+  },
+  {
+   "id": "poc-p342-001",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "A herpetic lesion appears on {{c1::keratinized}} mucosa, usually forming a {{c2::cluster}}.",
+   "extra": "WakeUpMemory: Herpes → H, Keratinized → K: HK → Hong Kong. Herpes is on keratinized tissue, so aphthous ulcers are on non-keratinized tissue."
+  },
+  {
+   "id": "poc-p342-002",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "With an active herpetic lesion, {{c1::postpone treatment}} until the lesion crusts/heals (usually within {{c2::7–10 days}})."
+  },
+  {
+   "id": "poc-p342-003",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "An aphthous ulcer appears on {{c1::non-keratinized}} surfaces such as buccal and labial mucosa, ventral tongue, floor of the mouth, and soft palate.",
+   "extra": "WakeUpMemory: HK (Hong Kong) = Herpes on Keratinized, so aphthous = non-keratinized."
+  },
+  {
+   "id": "poc-p342-004",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "Aphthous ulcer lesions are filled, {{c1::white or yellow}}, and surrounded by a {{c2::red halo}}."
+  },
+  {
+   "id": "poc-p342-005",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "{{c1::Petechiae}}: small red dots on mucous membranes caused by trauma or systemic disease."
+  },
+  {
+   "id": "poc-p342-006",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "A {{c1::fistula}} is an opening for infection drainage and may appear as a small, pale, fluid-filled pustule."
+  },
+  {
+   "id": "poc-p342-007",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "{{c1::Linea alba}} appears as a thin white line paralleling the {{c2::occlusal plane}}."
+  },
+  {
+   "id": "poc-p342-008",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "An {{c1::amalgam tattoo}} appears as blue or black macules of varying sizes on soft tissues."
+  },
+  {
+   "id": "poc-p342-009",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "{{c1::Hyperkeratosis}} is a thickening of the tissue, caused by lozenges, drugs, smokeless tobacco, chronic trauma, etc."
+  },
+  {
+   "id": "poc-p342-010",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "Hyperkeratosis from trauma is common on the {{c1::tongue or lip}}; in smokeless tobacco users it is common in the {{c2::vestibules}}."
+  },
+  {
+   "id": "poc-p342-011",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "text": "A tight {{c1::frenum}} attachment can cause loss of attached gingiva, leading to {{c2::recession}} or {{c3::diastema}}."
+  },
+  {
+   "id": "poc-p342-012",
+   "deck": "Process of Care",
+   "section": "Duct examination",
+   "page": 342,
+   "text": "A {{c1::ranula}} is a soft, bluish, movable enlarged mass on the {{c2::floor of the mouth}}; usually painless."
+  },
+  {
+   "id": "poc-p342-013",
+   "deck": "Process of Care",
+   "section": "Duct examination",
+   "page": 342,
+   "text": "A ranula involves the {{c1::major}} salivary glands such as the {{c2::submandibular and sublingual}} glands."
+  },
+  {
+   "id": "poc-p342-014",
+   "deck": "Process of Care",
+   "section": "Duct examination",
+   "page": 342,
+   "text": "A {{c1::mucocele}} is a soft, movable, semi-clear or bluish small swelling, most often on the {{c2::lower lip}} (also gums or palate)."
+  },
+  {
+   "id": "poc-p342-015",
+   "deck": "Process of Care",
+   "section": "Duct examination",
+   "page": 342,
+   "text": "A mucocele involves the {{c1::minor}} salivary glands."
+  },
+  {
+   "id": "poc-p342-016",
+   "deck": "Process of Care",
+   "section": "Bone examination",
+   "page": 342,
+   "text": "An {{c1::exostosis}} is a small benign bone growth of the alveolar process, mostly on the {{c2::maxillary facial}} surface."
+  },
+  {
+   "id": "poc-p342-017",
+   "deck": "Process of Care",
+   "section": "Bone examination",
+   "page": 342,
+   "text": "A {{c1::torus}} (plural tori) is a benign bone growth on the {{c2::palate or floor of the mouth}}; it can be unilateral or bilateral."
+  },
+  {
+   "id": "poc-p342-018",
+   "deck": "Process of Care",
+   "section": "Bone examination",
+   "page": 342,
+   "text": "Tori are not a concern unless a {{c1::partial or full denture}} cannot be fitted."
+  },
+  {
+   "id": "poc-p342-019",
+   "deck": "Process of Care",
+   "section": "Palate examination",
+   "page": 342,
+   "text": "On palate examination, assess for {{c1::denture}}-related candidiasis, traumas (e.g., \"pizza burn\"), or signs of {{c2::abuse}}."
+  },
+  {
+   "id": "poc-p342-020",
+   "deck": "Process of Care",
+   "section": "Palate examination",
+   "page": 342,
+   "text": "In smokers, palatal ducts may appear as {{c1::red dots}} and the palate may be {{c2::\"whiter\"}} due to physical irritation from smoke."
+  },
+  {
+   "id": "poc-p342-021",
+   "deck": "Process of Care",
+   "section": "Palate examination",
+   "page": 342,
+   "text": "Assess the shape and height of the palate to adjust the use of the {{c1::radiographic receptor}}."
+  },
+  {
+   "id": "poc-p342-022",
+   "deck": "Process of Care",
+   "section": "Teeth evaluation",
+   "page": 342,
+   "text": "During teeth evaluation, record open contacts, crowding, malpositioned, rotated, fractured and missing teeth; areas of demineralization or hypocalcification usually appear {{c1::white}}."
+  },
+  {
+   "id": "poc-p342-023",
+   "deck": "Process of Care",
+   "section": "Teeth evaluation",
+   "page": 342,
+   "text": "Record all {{c1::restorations}}, including bridge, implant, crown, sealant, inlay, onlay, root canal, etc."
+  },
+  {
+   "id": "poc-p342-024",
+   "deck": "Process of Care",
+   "section": "Teeth evaluation",
+   "page": 342,
+   "text": "{{c1::Attrition}}: loss of tooth structure by {{c2::mechanical forces}} on the occlusal/incisal surfaces."
+  },
+  {
+   "id": "poc-p342-025",
+   "deck": "Process of Care",
+   "section": "Teeth evaluation",
+   "page": 342,
+   "text": "{{c1::Abrasion}}: loss of tooth structure by mechanical forces {{c2::other than mastication}} (e.g., aggressive brushing, holding a pen in the mouth)."
+  },
+  {
+   "id": "poc-p342-026",
+   "deck": "Process of Care",
+   "section": "Teeth evaluation",
+   "page": 342,
+   "text": "{{c1::Abfraction}}: loss of tooth structure from mechanical stress and flexing of the tooth due to {{c2::occlusal forces}}, usually at the cervical area; usually appears on the cervical third as a {{c3::V-shaped notch}}."
+  },
+  {
+   "id": "poc-p342-027",
+   "deck": "Process of Care",
+   "section": "Teeth evaluation",
+   "page": 342,
+   "text": "{{c1::Erosion}}: loss of tooth structure by {{c2::chemicals (acids)}}, e.g., excessive vomiting, sucking on lemons, acid reflux."
+  },
+  {
+   "id": "poc-p342-028",
+   "deck": "Process of Care",
+   "section": "Occlusal evaluation",
+   "page": 342,
+   "text": "Angle's classification is based on the relationship of the {{c1::mesiobuccal cusp}} of the permanent {{c2::maxillary first molar}} and the {{c3::buccal groove}} of the permanent {{c4::mandibular first molar}}."
+  },
+  {
+   "id": "poc-p342-029",
+   "deck": "Process of Care",
+   "section": "Occlusal evaluation",
+   "page": 342,
+   "text": "Class I {{c1::neutrocclusion}}: MB cusp of the max 1st molar fits in the buccal groove of the mandibular 1st molar, with normal overbite and overjet and {{c2::no rotation or crowding}}."
+  },
+  {
+   "id": "poc-p343-001",
+   "deck": "Process of Care",
+   "section": "Occlusal evaluation",
+   "page": 343,
+   "text": "Class I {{c1::malocclusion}}: MB cusp of the max 1st molar fits in the buccal groove of the mandibular 1st molar, but {{c2::crowding, crossbite, etc.}} is present."
+  },
+  {
+   "id": "poc-p343-002",
+   "deck": "Process of Care",
+   "section": "Occlusal evaluation",
+   "page": 343,
+   "text": "Angle Class II: the MB cusp of the max 1st molar is {{c1::in front of (mesial to)}} the buccal groove of the mandibular 1st molar."
+  },
+  {
+   "id": "poc-p343-003",
+   "deck": "Process of Care",
+   "section": "Occlusal evaluation",
+   "page": 343,
+   "text": "Angle Class III: the MB cusp of the max 1st molar is {{c1::behind (distal to)}} the buccal groove of the mandibular 1st molar."
+  },
+  {
+   "id": "poc-p343-004",
+   "deck": "Process of Care",
+   "section": "Occlusal evaluation",
+   "page": 343,
+   "text": "Class II Division {{c1::I}}: upper incisors protruded (out). Class II Division {{c2::II}}: upper incisors retruded (in)."
+  },
+  {
+   "id": "poc-p343-005",
+   "deck": "Process of Care",
+   "section": "Overbite and overjet",
+   "page": 343,
+   "text": "Overbite is the {{c1::vertical}} overlap of the maxillary central incisors over the mandibular central incisors."
+  },
+  {
+   "id": "poc-p343-006",
+   "deck": "Process of Care",
+   "section": "Overbite and overjet",
+   "page": 343,
+   "text": "Overjet is the {{c1::horizontal}} overlap of the maxillary central incisors over the mandibular central incisors."
+  },
+  {
+   "id": "poc-p343-007",
+   "deck": "Process of Care",
+   "section": "Malrelations",
+   "page": 343,
+   "text": "{{c1::Crossbite}}: teeth are either facial or lingual to their normal position, resulting in \"crossover\" of the dental arches; it can be {{c2::posterior or anterior}}."
+  },
+  {
+   "id": "poc-p343-008",
+   "deck": "Process of Care",
+   "section": "Malrelations",
+   "page": 343,
+   "text": "{{c1::Edge-to-edge}}: incisal surfaces of maxillary and mandibular {{c2::anteriors}} occlude instead of overlapping."
+  },
+  {
+   "id": "poc-p343-009",
+   "deck": "Process of Care",
+   "section": "Malrelations",
+   "page": 343,
+   "text": "{{c1::End-to-end}}: occlusal surfaces of maxillary and mandibular {{c2::posterior}} teeth occlude cusp-to-cusp."
+  },
+  {
+   "id": "poc-p343-010",
+   "deck": "Process of Care",
+   "section": "Malrelations",
+   "page": 343,
+   "text": "{{c1::Open bite}}: no occlusal contact between teeth that should be in contact."
+  },
+  {
+   "id": "poc-p343-011",
+   "deck": "Process of Care",
+   "section": "Others (dentition)",
+   "page": 343,
+   "text": "Note the type of {{c1::orthodontics}} (brackets, clear aligners, retainers) — important for identifying {{c2::plaque-retentive}} areas and modifying oral hygiene instructions."
+  },
+  {
+   "id": "poc-p343-012",
+   "deck": "Process of Care",
+   "section": "Others (dentition)",
+   "page": 343,
+   "text": "Document {{c1::appliances}} such as space maintainers, night guards or expanders, as they may affect tissue health and complicate plaque control."
+  },
+  {
+   "id": "poc-p343-013",
+   "deck": "Process of Care",
+   "section": "Others (dentition)",
+   "page": 343,
+   "text": "For {{c1::implants}}, record presence and location, assess for {{c2::mucositis or peri-implantitis}}, and avoid using {{c3::metal}} instruments during care."
+  },
+  {
+   "id": "poc-p343-014",
+   "deck": "Process of Care",
+   "section": "Others (dentition)",
+   "page": 343,
+   "text": "Identify and chart all {{c1::restorations}} (crowns, fillings, veneers, bridges), noting materials and checking margins for {{c2::overhangs}} or wear."
+  },
+  {
+   "id": "poc-p343-015",
+   "deck": "Process of Care",
+   "section": "Others (dentition)",
+   "page": 343,
+   "text": "Document missing teeth and the {{c1::reason}} (extraction, congenital); missing teeth affect occlusion and arch integrity and may lead to {{c2::drifting}}."
+  },
+  {
+   "id": "poc-p343-016",
+   "deck": "Process of Care",
+   "section": "Others (dentition)",
+   "page": 343,
+   "text": "Extra teeth (supernumerary) are most common in the {{c1::midline or molar}} region and may interfere with eruption, spacing, or esthetics."
+  },
+  {
+   "id": "poc-p343-017",
+   "deck": "Process of Care",
+   "section": "Others (dentition)",
+   "page": 343,
+   "text": "Note unusual shades, white spots or surface defects in color/texture — they may indicate {{c1::hypoplasia}}, {{c2::demineralization}}, or trauma history."
+  },
+  {
+   "id": "poc-p343-018",
+   "deck": "Process of Care",
+   "section": "Others (dentition)",
+   "page": 343,
+   "text": "{{c1::Digital (intraoral) scanning}} improves accuracy, enhances patient education, supports treatment planning (restorations, ortho, dentures), and replaces traditional {{c2::impressions}} for better comfort and communication."
+  },
+  {
+   "id": "poc-p344-001",
+   "deck": "Process of Care",
+   "section": "Eruption abnormalities",
+   "page": 344,
+   "text": "{{c1::Delayed}} eruption can be caused by genetics, hormonal imbalances, nutritional deficiencies or medical conditions, e.g., {{c2::hypothyroidism}}, or genetic disorders such as {{c3::ectodermal dysplasia}}."
+  },
+  {
+   "id": "poc-p344-002",
+   "deck": "Process of Care",
+   "section": "Eruption abnormalities",
+   "page": 344,
+   "text": "{{c1::Accelerated}} eruption can be caused by {{c2::hyperthyroidism}}, growth hormone therapy, or medications such as {{c3::phenytoin}} (an anticonvulsant)."
+  },
+  {
+   "id": "poc-p344-003",
+   "deck": "Process of Care",
+   "section": "Eruption abnormalities",
+   "page": 344,
+   "text": "Missing teeth (genetic abnormalities or trauma) can lead to {{c1::spacing and alignment}} issues in the remaining teeth."
+  },
+  {
+   "id": "poc-p344-004",
+   "deck": "Process of Care",
+   "section": "Eruption abnormalities",
+   "page": 344,
+   "text": "An {{c1::impacted}} tooth is blocked by bone or teeth (angulation issue); it can cause pain, discomfort and swelling and may require surgical removal or repositioning."
+  },
+  {
+   "id": "poc-p344-005",
+   "deck": "Process of Care",
+   "section": "Eruption abnormalities",
+   "page": 344,
+   "text": "{{c1::Supernumerary}} teeth result from genetic factors or environmental factors such as {{c2::radiation exposure}}; they can lead to crowding and alignment issues."
+  },
+  {
+   "id": "poc-p344-006",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "{{c1::CAMBRA}} (Caries Management By Risk Assessment) classifies patients into caries risk levels and provides targeted interventions."
+  },
+  {
+   "id": "poc-p344-007",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "The CAMBRA recommendations table is designed for {{c1::adult}} patients; for pediatric patients, fluoride concentrations, recall intervals and product use (e.g., CHX) must be adjusted for age and safety."
+  },
+  {
+   "id": "poc-p344-008",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA caries history — low risk: {{c1::no caries in past 3 years}}; moderate: {{c2::no caries but visible risk factors}}; high: {{c3::1 or more cavitated lesions in past 12 months}}; extreme: {{c4::high risk + severe xerostomia}}."
+  },
+  {
+   "id": "poc-p344-009",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA plaque and diet — low risk: minimal plaque, balanced diet; moderate: {{c1::visible plaque, frequent sugar exposure}}; high: {{c2::heavy plaque, frequent snacking}}; extreme: same as high + {{c3::dry mouth worsens sugar clearance}}."
+  },
+  {
+   "id": "poc-p344-010",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA saliva flow — low: normal; moderate: {{c1::slight reduction possible}}; high: may be reduced; extreme: {{c2::severely reduced}} (e.g., radiation, medications, Sjögren's)."
+  },
+  {
+   "id": "poc-p344-011",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA protective factors — low: fluoride toothpaste, regular care; moderate: {{c1::inconsistent fluoride, no sealants}}; high: {{c2::inadequate fluoride, no xylitol or varnish use}}; extreme: {{c3::lacks all protective factors, needs saliva support}}."
+  },
+  {
+   "id": "poc-p344-012",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA toothpaste — low and moderate risk: {{c1::OTC fluoride toothpaste 2×/day}}; high and extreme: {{c2::prescription fluoride toothpaste daily}}."
+  },
+  {
+   "id": "poc-p344-013",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA rinse — low: none needed; moderate: optional {{c1::OTC fluoride rinse (NaF)}}; high and extreme: optional short-term {{c2::chlorhexidine rinse}}."
+  },
+  {
+   "id": "poc-p344-014",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA fluoride varnish — low: {{c1::not typically needed}}; moderate: {{c2::every 6 months (optional)}}; high and extreme: {{c3::every 3 months}}."
+  },
+  {
+   "id": "poc-p344-015",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA xylitol — low: optional; moderate: {{c1::gum or mints 2–3×/day}}; high and extreme: {{c2::4–5×/day}}."
+  },
+  {
+   "id": "poc-p344-016",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA sealants — low: {{c1::as needed}}; moderate: {{c2::recommended if deep pits/fissures present}}; high and extreme: {{c3::strongly recommended if not already placed}}."
+  },
+  {
+   "id": "poc-p344-017",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "text": "CAMBRA diet counseling — low: general advice; moderate: {{c1::recommend limiting fermentable carbohydrates}}; high and extreme: {{c2::detailed counseling on sugar frequency and acid exposure}}."
+  },
+  {
+   "id": "poc-p345-001",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 345,
+   "text": "CAMBRA saliva support — low: not needed; moderate: {{c1::monitor only}}; high: {{c2::evaluate if flow appears reduced}}; extreme: {{c3::saliva substitutes, MI Paste, consider physician referral}}."
+  },
+  {
+   "id": "poc-p345-002",
+   "deck": "Process of Care",
+   "section": "Visual detection of caries",
+   "page": 345,
+   "text": "Decalcified areas can appear (chalky) {{c1::white}}, brown, or black; {{c2::drying}} the tooth may help detect them."
+  },
+  {
+   "id": "poc-p345-003",
+   "deck": "Process of Care",
+   "section": "Visual detection of caries",
+   "page": 345,
+   "text": "Carious lesions feel {{c1::soft}}; do {{c2::not stab}} the lesion with the explorer."
+  },
+  {
+   "id": "poc-p345-004",
+   "deck": "Process of Care",
+   "section": "Visual detection of caries",
+   "page": 345,
+   "text": "Use {{c1::transillumination}} (light passes through) to examine dark areas; it can also be used to detect {{c2::calculus}}."
+  },
+  {
+   "id": "poc-p345-005",
+   "deck": "Process of Care",
+   "section": "Visual detection of caries",
+   "page": 345,
+   "text": "Early childhood caries is mainly present on the {{c1::maxillary anteriors}} because of contact with {{c2::milk}} on those teeth."
+  },
+  {
+   "id": "poc-p345-006",
+   "deck": "Process of Care",
+   "section": "Visual detection of caries",
+   "page": 345,
+   "text": "{{c1::Arrested}} caries appears brown, smooth, or shiny."
+  },
+  {
+   "id": "poc-p345-007",
+   "deck": "Process of Care",
+   "section": "Visual detection of caries",
+   "page": 345,
+   "text": "{{c1::Recurrent}} caries can appear as dark shadows surrounding a restoration."
+  },
+  {
+   "id": "poc-p345-008",
+   "deck": "Process of Care",
+   "section": "Visual detection of caries",
+   "page": 345,
+   "text": "{{c1::Root}} caries appears on root surfaces."
+  },
+  {
+   "id": "poc-p345-009",
+   "deck": "Process of Care",
+   "section": "Visual detection of caries",
+   "page": 345,
+   "text": "Methamphetamine users may exhibit {{c1::meth mouth}}: severe attrition, erosion, {{c2::rampant caries}}, and mucosal damage."
+  },
+  {
+   "id": "poc-p345-010",
+   "deck": "Process of Care",
+   "section": "G.V. Black's classification",
+   "page": 345,
+   "text": "G.V. Black Class {{c1::I}}: occlusal surfaces of posterior teeth; {{c2::buccal/lingual pits}} of molars and anterior teeth (lingual pits).",
+   "extra": "Don't be confused: Class I is not just the occlusal surface of posteriors — it also includes buccal/lingual pits."
+  },
+  {
+   "id": "poc-p345-011",
+   "deck": "Process of Care",
+   "section": "G.V. Black's classification",
+   "page": 345,
+   "text": "G.V. Black Class {{c1::II}}: {{c2::proximal}} surfaces of {{c3::posterior}} teeth."
+  },
+  {
+   "id": "poc-p345-012",
+   "deck": "Process of Care",
+   "section": "G.V. Black's classification",
+   "page": 345,
+   "text": "G.V. Black Class {{c1::III}}: proximal surfaces of anterior teeth {{c2::not involving the incisal edge}}."
+  },
+  {
+   "id": "poc-p345-013",
+   "deck": "Process of Care",
+   "section": "G.V. Black's classification",
+   "page": 345,
+   "text": "G.V. Black Class {{c1::IV}}: proximal surfaces of anterior teeth {{c2::with incisal edge involvement}}."
+  },
+  {
+   "id": "poc-p345-014",
+   "deck": "Process of Care",
+   "section": "G.V. Black's classification",
+   "page": 345,
+   "text": "G.V. Black Class {{c1::V}}: {{c2::gingival third}} of facial or lingual surfaces (anterior and posterior teeth)."
+  },
+  {
+   "id": "poc-p345-015",
+   "deck": "Process of Care",
+   "section": "G.V. Black's classification",
+   "page": 345,
+   "text": "G.V. Black Class {{c1::VI}}: {{c2::incisal edges}} of anterior teeth or {{c3::cusp tips}} of posterior teeth."
+  },
+  {
+   "id": "poc-p345-016",
+   "deck": "Process of Care",
+   "section": "Radiographic interpretation of carious lesions",
+   "page": 345,
+   "text": "Radiographic caries Class 1 ({{c1::incipient}}): radiolucency in the {{c2::outer half of enamel}}; {{c3::reversible}} if caught early, no cavitation."
+  },
+  {
+   "id": "poc-p345-017",
+   "deck": "Process of Care",
+   "section": "Radiographic interpretation of carious lesions",
+   "page": 345,
+   "text": "Radiographic caries Class 2 ({{c1::moderate}}): radiolucency extends to the {{c2::inner half of enamel}} but not into dentin; {{c3::remineralization}} possible."
+  },
+  {
+   "id": "poc-p345-018",
+   "deck": "Process of Care",
+   "section": "Radiographic interpretation of carious lesions",
+   "page": 345,
+   "text": "Radiographic caries Class 3 ({{c1::advanced}}): radiolucency into the {{c2::outer third of dentin}}; dentin involvement begins, {{c3::needs restoration}}."
+  },
+  {
+   "id": "poc-p345-019",
+   "deck": "Process of Care",
+   "section": "Radiographic interpretation of carious lesions",
+   "page": 345,
+   "text": "Radiographic caries Class 4 ({{c1::severe}}): radiolucency extends into the {{c2::middle/inner third of dentin}}; extensive damage, usually {{c3::symptomatic}}."
+  },
+  {
+   "id": "poc-p345-020",
+   "deck": "Process of Care",
+   "section": "Sealants",
+   "page": 345,
+   "text": "Sealants are {{c1::physical barriers}} that prevent bacteria from collecting in the {{c2::pits and fissures}} of the occlusal, facial and lingual surfaces."
+  },
+  {
+   "id": "poc-p345-021",
+   "deck": "Process of Care",
+   "section": "Sealants",
+   "page": 345,
+   "text": "Apply sealants {{c1::before}} applying fluoride varnish, or retention may be affected."
+  },
+  {
+   "id": "poc-p345-022",
+   "deck": "Process of Care",
+   "section": "Sealants",
+   "page": 345,
+   "text": "Sealants are {{c1::not necessary}} for adults with low caries risk; they are recommended for {{c2::moderate}} caries risk and up."
+  },
+  {
+   "id": "poc-p346-001",
+   "deck": "Process of Care",
+   "section": "Sealants",
+   "page": 346,
+   "text": "Deep occlusal pits and fissures are most prevalent on the {{c1::first and second permanent molars}}; seal molars {{c2::soon after eruption}}."
+  },
+  {
+   "id": "poc-p346-002",
+   "deck": "Process of Care",
+   "section": "Sealants",
+   "page": 346,
+   "text": "Sealants are contraindicated for {{c1::open occlusal lesions}} or caries on {{c2::proximal}} surfaces."
+  },
+  {
+   "id": "poc-p346-003",
+   "deck": "Process of Care",
+   "section": "Healthy periodontium",
+   "page": 346,
+   "text": "Healthy attached gingiva is {{c1::coral pink}} and {{c2::stippled}} (orange-peel appearance); {{c3::melanin pigmentation}} may be present."
+  },
+  {
+   "id": "poc-p346-004",
+   "deck": "Process of Care",
+   "section": "Healthy periodontium",
+   "page": 346,
+   "text": "In health, the gingival margin fits snugly around the tooth and is positioned {{c1::1–2 mm coronal}} to the CEJ."
+  },
+  {
+   "id": "poc-p346-005",
+   "deck": "Process of Care",
+   "section": "Healthy periodontium",
+   "page": 346,
+   "text": "In health, interdental papillae fill the embrasure space with a {{c1::knife-edge}} point ({{c2::type I}} embrasure)."
+  },
+  {
+   "id": "poc-p346-006",
+   "deck": "Process of Care",
+   "section": "Healthy periodontium",
+   "page": 346,
+   "text": "In health, the alveolar crest is {{c1::1–2 mm apical}} to the cementoenamel junction (CEJ)."
+  },
+  {
+   "id": "poc-p346-007",
+   "deck": "Process of Care",
+   "section": "Healthy periodontium",
+   "page": 346,
+   "text": "A healthy periodontium has no {{c1::bleeding on probing}} or suppuration, no {{c2::attachment loss}} or mobility, and no furcation involvement because the {{c3::bone level is intact}}."
+  },
+  {
+   "id": "poc-p346-008",
+   "deck": "Process of Care",
+   "section": "Diseased periodontium",
+   "page": 346,
+   "text": "Gingivitis: {{c1::bright red}} gingiva, rolled gingival margins {{c2::coronal}} to the CEJ, bulbous papillae, {{c3::spongy and edematous}}, and shiny; bleeds upon gentle probing."
+  },
+  {
+   "id": "poc-p346-009",
+   "deck": "Process of Care",
+   "section": "Diseased periodontium",
+   "page": 346,
+   "text": "Periodontitis: {{c1::pale pink, fibrotic}} gingiva, rolled gingival margins {{c2::apical}} to the CEJ, {{c3::blunted}} papillae, firm and leathery appearance."
+  },
+  {
+   "id": "poc-p346-010",
+   "deck": "Process of Care",
+   "section": "Diseased periodontium",
+   "page": 346,
+   "text": "In disease, interdental papillae are reduced (type {{c1::II}} embrasure) or lost (type {{c2::III}} embrasure)."
+  },
+  {
+   "id": "poc-p346-011",
+   "deck": "Process of Care",
+   "section": "Diseased periodontium",
+   "page": 346,
+   "text": "Bleeding on gentle probing may be {{c1::reduced}} in periodontitis (fibrotic tissue)."
+  },
+  {
+   "id": "poc-p346-012",
+   "deck": "Process of Care",
+   "section": "Diseased periodontium",
+   "page": 346,
+   "text": "Attachment loss signifies that {{c1::bone destruction}} has occurred; recession, furcation, and mobility may be present."
+  },
+  {
+   "id": "poc-p346-013",
+   "deck": "Process of Care",
+   "section": "Plaque and calculus",
+   "page": 346,
+   "text": "{{c1::Disclosing solution or tablets}} can be used to stain plaque biofilm for easier visualization during assessment."
+  },
+  {
+   "id": "poc-p346-014",
+   "deck": "Process of Care",
+   "section": "Plaque and calculus",
+   "page": 346,
+   "text": "Disclosing agents contain dyes that bind to the plaque biofilm's {{c1::extracellular matrix}}."
+  },
+  {
+   "id": "poc-p346-015",
+   "deck": "Process of Care",
+   "section": "Plaque and calculus",
+   "page": 346,
+   "text": "In two-tone disclosing formulas, {{c1::red}} stains new plaque and {{c2::blue or purple}} stains mature plaque."
+  },
+  {
+   "id": "poc-p346-016",
+   "deck": "Process of Care",
+   "section": "Plaque and calculus",
+   "page": 346,
+   "text": "Record a {{c1::plaque score}}, communicate it with the patient and repeat at following visits to monitor home-care {{c2::progress}}."
+  },
+  {
+   "id": "poc-p346-017",
+   "deck": "Process of Care",
+   "section": "Plaque and calculus",
+   "page": 346,
+   "text": "Create achievable plaque-control goals, e.g., reduce the plaque score by {{c1::20%}} for the next re-care visit."
+  },
+  {
+   "id": "poc-p346-018",
+   "deck": "Process of Care",
+   "section": "Plaque and calculus",
+   "page": 346,
+   "text": "Detect calculus with {{c1::explorers}}, {{c2::radiographs}}, and {{c3::transillumination}}."
+  },
+  {
+   "id": "poc-p346-019",
+   "deck": "Process of Care",
+   "section": "Plaque and calculus",
+   "page": 346,
+   "text": "Drying with the air-water syringe helps identify calculus: supragingival deposits look {{c1::chalky}} and light in color; subgingival deposits look {{c2::darker}} (blood pigments are absorbed into the calculus)."
+  },
+  {
+   "id": "poc-p346-020",
+   "deck": "Process of Care",
+   "section": "Mobility",
+   "page": 346,
+   "text": "To assess mobility, use the {{c1::blunt ends}} of instruments on opposite sides of the tooth, rock {{c2::horizontally}}, then press {{c3::vertically}} with one end of the mirror handle."
+  },
+  {
+   "id": "poc-p346-021",
+   "deck": "Process of Care",
+   "section": "Mobility",
+   "page": 346,
+   "text": "Tooth mobility is recorded with the {{c1::Miller}} classification."
+  },
+  {
+   "id": "poc-p346-022",
+   "deck": "Process of Care",
+   "section": "Mobility",
+   "page": 346,
+   "text": "Miller mobility Class {{c1::I}}: facial-lingual horizontal displacement up to {{c2::1 mm}}."
+  },
+  {
+   "id": "poc-p346-023",
+   "deck": "Process of Care",
+   "section": "Mobility",
+   "page": 346,
+   "text": "Miller mobility Class {{c1::II}}: facial-lingual horizontal displacement {{c2::greater than 1 mm, up to 2 mm}}."
+  },
+  {
+   "id": "poc-p346-024",
+   "deck": "Process of Care",
+   "section": "Mobility",
+   "page": 346,
+   "text": "Miller mobility Class {{c1::III}}: horizontal displacement {{c2::more than 2 mm}} and/or {{c3::vertical displacement (depression into the socket)}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "poc-p341-b-01",
+   "deck": "Process of Care",
+   "section": "Nose and lip examination",
+   "page": 341,
+   "front": "Chapping and angular cheilitis of the lips can indicate what? (5 causes)",
+   "back": "Mouth breathing, nutritional deficiency, purging habits, excessive sun exposure, or fungal infection",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "poc-p341-b-02",
+   "deck": "Process of Care",
+   "section": "Lymph nodes and glands examination",
+   "page": 341,
+   "front": "Lymphadenopathy",
+   "back": "Disease of the lymph nodes that includes enlargement",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p341-b-03",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "front": "Ankyloglossia (tongue-tied)",
+   "back": "Short, tight lingual frenum",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p341-b-04",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "front": "Geographic tongue is also known as …",
+   "back": "Benign migratory glossitis",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p341-b-05",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "front": "Median rhomboid glossitis is also known as …",
+   "back": "Central papillary atrophy",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p342-b-01",
+   "deck": "Process of Care",
+   "section": "Myofunctional therapy",
+   "page": 342,
+   "front": "What is myofunctional therapy, and when can it help a frenectomy patient?",
+   "back": "Targeted exercises for the lips, tongue and orofacial muscles; done before or after a frenectomy it can improve function, promote proper tongue posture and enhance outcomes.",
+   "reverse": false,
+   "extra": "Did you know? Some dental hygienists became oral myofunctional therapists."
+  },
+  {
+   "id": "poc-p343-b-01",
+   "deck": "Process of Care",
+   "section": "Board Alert — missing teeth",
+   "page": 343,
+   "front": "In a case study with missing teeth, why does the reason for the tooth loss matter?",
+   "back": "If even one tooth was lost due to periodontitis, AAP staging jumps to Stage III or IV. Loss from malformation, infection, orthodontics or other reasons does not change the stage.",
+   "reverse": false,
+   "extra": "Board Alert: checking for missing teeth and asking why is one of the first things to do in a case study."
+  },
+  {
+   "id": "poc-p345-b-01",
+   "deck": "Process of Care",
+   "section": "G.V. Black's classification",
+   "page": 345,
+   "front": "How do you tell a Class I buccal-pit lesion from a Class V buccal lesion?",
+   "back": "Class I = a pit, an indentation more toward the middle of the buccal surface; Class V = along the gingival margin (gingival third).",
+   "reverse": false,
+   "extra": "Don't be confused! box, p.345"
+  },
+  {
+   "id": "poc-p346-b-01",
+   "deck": "Process of Care",
+   "section": "Plaque and calculus",
+   "page": 346,
+   "front": "Two-tone disclosing: why does new plaque stain red and mature plaque blue/purple?",
+   "back": "New plaque is loosely organized and high in water, so it absorbs the red dye quickly; mature plaque is denser with more bacterial byproducts that trap the darker dye molecules.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "poc-p343-t-01",
+   "deck": "Process of Care",
+   "section": "Overbite and overjet",
+   "page": 343,
+   "question": "Normal overbite: how many mm? (format: a–b mm)",
+   "answer": "2–3 mm",
+   "extra": "About 20–30% of overbite is normal."
+  },
+  {
+   "id": "poc-p343-t-02",
+   "deck": "Process of Care",
+   "section": "Overbite and overjet",
+   "page": 343,
+   "question": "Normal overbite as a percentage of the lower incisor covered? (format: a–b%)",
+   "answer": "20–30%",
+   "extra": ""
+  },
+  {
+   "id": "poc-p343-t-03",
+   "deck": "Process of Care",
+   "section": "Overbite and overjet",
+   "page": 343,
+   "question": "Overjet greater than how many mm is considered excessive?",
+   "answer": "3 mm",
+   "extra": ""
+  },
+  {
+   "id": "poc-p343-t-04",
+   "deck": "Process of Care",
+   "section": "Board Alert — missing teeth",
+   "page": 343,
+   "question": "AAP 2017: tooth loss due to periodontitis of how many teeth or more = Stage IV?",
+   "answer": "5",
+   "extra": "Stage III = loss of up to 4 teeth due to periodontitis."
+  },
+  {
+   "id": "poc-p344-t-01",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "question": "How many CAMBRA caries-risk levels are there in the book's table?",
+   "answer": "4",
+   "extra": "Low, moderate, high, extreme."
+  },
+  {
+   "id": "poc-p344-t-02",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "question": "CAMBRA: OTC fluoride toothpaste for low-risk adults contains how many ppm? (format: a–b)",
+   "answer": "1,000–1,500",
+   "extra": "Used 2×/day."
+  },
+  {
+   "id": "poc-p344-t-03",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "question": "CAMBRA: prescription fluoride toothpaste for high/extreme risk contains how many ppm NaF?",
+   "answer": "5,000",
+   "extra": ""
+  },
+  {
+   "id": "poc-p344-t-04",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "question": "CAMBRA: concentration of the OTC NaF rinse for moderate risk? (in %)",
+   "answer": "0.05%",
+   "extra": ""
+  },
+  {
+   "id": "poc-p344-t-05",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "question": "CAMBRA: concentration of the short-term chlorhexidine rinse for high risk? (in %)",
+   "answer": "0.12%",
+   "extra": ""
+  },
+  {
+   "id": "poc-p344-t-06",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "question": "CAMBRA: total daily xylitol for high-risk adults? (format: a–b g/day)",
+   "answer": "6–10 g/day",
+   "extra": ""
+  },
+  {
+   "id": "poc-p345-t-01",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 345,
+   "question": "CAMBRA recall interval for HIGH-risk adults? (format: a–b months)",
+   "answer": "3–4 months",
+   "extra": ""
+  },
+  {
+   "id": "poc-p345-t-02",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 345,
+   "question": "CAMBRA recall interval for MODERATE-risk adults? (format: a–b months)",
+   "answer": "4–6 months",
+   "extra": ""
+  },
+  {
+   "id": "poc-p346-t-01",
+   "deck": "Process of Care",
+   "section": "Healthy periodontium",
+   "page": 346,
+   "question": "Healthy probing depth (sulcus)? (format: a–b mm)",
+   "answer": "1–3 mm",
+   "extra": ""
+  },
+  {
+   "id": "poc-p346-t-02",
+   "deck": "Process of Care",
+   "section": "Diseased periodontium",
+   "page": 346,
+   "question": "A probing depth of at least how many mm forms a pocket? (format: N mm)",
+   "answer": "4 mm",
+   "extra": "Probing depth 4 mm+ = pocket; 1–3 mm = sulcus."
+  }
+ ],
+ "match": [
+  {
+   "id": "poc-p341-m-01",
+   "deck": "Process of Care",
+   "section": "Lymph nodes and glands examination",
+   "page": 341,
+   "prompt": "Match each lymph-node group to where you palpate it.",
+   "pairs": [
+    [
+     "Occipital",
+     "Bottom of the skull"
+    ],
+    [
+     "Auricular",
+     "Around the ear"
+    ],
+    [
+     "Cervical",
+     "Along the SCM"
+    ],
+    [
+     "Submental",
+     "Under the chin"
+    ],
+    [
+     "Submandibular",
+     "Under the lateral sides of the mandible"
+    ],
+    [
+     "Parotid",
+     "Around the cheeks"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p342-m-01",
+   "deck": "Process of Care",
+   "section": "Teeth evaluation",
+   "page": 342,
+   "prompt": "Match each type of tooth-structure loss to its cause.",
+   "pairs": [
+    [
+     "Attrition",
+     "Mechanical forces on occlusal/incisal surfaces (chewing)"
+    ],
+    [
+     "Abrasion",
+     "Mechanical forces other than mastication (brushing, pen)"
+    ],
+    [
+     "Abfraction",
+     "Flexing from occlusal stress — cervical V-shaped notch"
+    ],
+    [
+     "Erosion",
+     "Chemicals (acids) — vomiting, lemons, reflux"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p343-m-01",
+   "deck": "Process of Care",
+   "section": "Occlusal evaluation",
+   "page": 343,
+   "prompt": "Match each Angle category to its description.",
+   "pairs": [
+    [
+     "Class I neutrocclusion",
+     "MB cusp in buccal groove; no crowding/rotation"
+    ],
+    [
+     "Class I malocclusion",
+     "MB cusp in buccal groove; crowding/crossbite present"
+    ],
+    [
+     "Class II, Division I",
+     "MB cusp ahead of groove; upper incisors protruded"
+    ],
+    [
+     "Class II, Division II",
+     "MB cusp ahead of groove; upper incisors retruded"
+    ],
+    [
+     "Class III",
+     "MB cusp behind the buccal groove"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p343-m-02",
+   "deck": "Process of Care",
+   "section": "Malrelations",
+   "page": 343,
+   "prompt": "Match each malrelation to its description.",
+   "pairs": [
+    [
+     "Crossbite",
+     "Teeth facial or lingual to normal — arches cross over"
+    ],
+    [
+     "Edge-to-edge",
+     "Anterior incisal edges meet instead of overlapping"
+    ],
+    [
+     "End-to-end",
+     "Posterior teeth occlude cusp-to-cusp"
+    ],
+    [
+     "Open bite",
+     "No contact between teeth that should touch"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p345-m-01",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 345,
+   "prompt": "Match each CAMBRA risk level to its recall interval.",
+   "pairs": [
+    [
+     "Low risk",
+     "Every 6 months"
+    ],
+    [
+     "Moderate risk",
+     "Every 4–6 months"
+    ],
+    [
+     "High risk",
+     "Every 3–4 months"
+    ],
+    [
+     "Extreme risk",
+     "Every 3 months"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p345-m-02",
+   "deck": "Process of Care",
+   "section": "G.V. Black's classification",
+   "page": 345,
+   "prompt": "Match each G.V. Black class to its location.",
+   "pairs": [
+    [
+     "Class I",
+     "Pits & fissures: occlusal of posteriors, buccal/lingual pits"
+    ],
+    [
+     "Class II",
+     "Proximal surfaces of posterior teeth"
+    ],
+    [
+     "Class III",
+     "Proximal of anteriors, incisal edge not involved"
+    ],
+    [
+     "Class IV",
+     "Proximal of anteriors with incisal edge"
+    ],
+    [
+     "Class V",
+     "Gingival third of facial/lingual surfaces"
+    ],
+    [
+     "Class VI",
+     "Incisal edges or cusp tips"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "poc-p345-o-01",
+   "deck": "Process of Care",
+   "section": "Radiographic interpretation of carious lesions",
+   "page": 345,
+   "prompt": "Order the radiographic depths of carious lesions, Class 1 → Class 4.",
+   "items": [
+    "Outer half of enamel (incipient)",
+    "Inner half of enamel, not into dentin (moderate)",
+    "Outer third of dentin (advanced)",
+    "Middle/inner third of dentin (severe)"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "poc-p344-s-01",
+   "deck": "Process of Care",
+   "section": "Eruption abnormalities",
+   "page": 344,
+   "prompt": "Sort these causes by the eruption problem they produce.",
+   "categories": [
+    [
+     "Delayed eruption",
+     [
+      "Hypothyroidism",
+      "Ectodermal dysplasia",
+      "Nutritional deficiencies"
+     ]
+    ],
+    [
+     "Accelerated eruption",
+     [
+      "Hyperthyroidism",
+      "Growth hormone therapy",
+      "Phenytoin"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "poc-p346-s-01",
+   "deck": "Process of Care",
+   "section": "Diseased periodontium",
+   "page": 346,
+   "prompt": "Sort these findings: gingivitis or periodontitis?",
+   "categories": [
+    [
+     "Gingivitis",
+     [
+      "Bright red gingiva",
+      "Margins coronal to the CEJ",
+      "Bulbous papillae",
+      "Spongy, edematous, shiny"
+     ]
+    ],
+    [
+     "Periodontitis",
+     [
+      "Pale pink, fibrotic gingiva",
+      "Margins apical to the CEJ",
+      "Blunted papillae",
+      "Firm and leathery"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "poc-p341-mcq-01",
+   "deck": "Process of Care",
+   "section": "Tongue examination",
+   "page": 341,
+   "question": "An HIV-positive patient has a flat, smooth, red, diamond-shaped area in the middle of the dorsal tongue that does not change location between visits. Which condition is most likely?",
+   "options": [
+    "A. Geographic tongue",
+    "B. Median rhomboid glossitis",
+    "C. Black hairy tongue",
+    "D. Lingual varicosities"
+   ],
+   "answer": "B. Median rhomboid glossitis",
+   "explanation": "Median rhomboid glossitis (central papillary atrophy) is a flat red smooth area on the middle dorsal tongue, linked to candidiasis and immunocompromise. Geographic tongue also shows red areas, but they have white borders and change location."
+  },
+  {
+   "id": "poc-p342-mcq-01",
+   "deck": "Process of Care",
+   "section": "Mucosal examination",
+   "page": 342,
+   "question": "A patient reports a painful lesion that appeared two days ago. Clinically you see a cluster of small ulcerated vesicles on the attached gingiva. What is the best action?",
+   "options": [
+    "A. Proceed with scaling, avoiding the area",
+    "B. Postpone treatment until the lesion crusts/heals",
+    "C. Apply topical anesthetic and proceed",
+    "D. Refer for biopsy before any care"
+   ],
+   "answer": "B. Postpone treatment until the lesion crusts/heals",
+   "explanation": "Clustered lesions on keratinized tissue (attached gingiva) are herpetic; treatment is postponed until the lesion crusts/heals, usually within 7–10 days. An aphthous ulcer would be single, on non-keratinized mucosa, with a red halo."
+  },
+  {
+   "id": "poc-p342-mcq-02",
+   "deck": "Process of Care",
+   "section": "Duct examination",
+   "page": 342,
+   "question": "A child has a soft, painless, bluish, movable swelling on the floor of the mouth to one side of the tongue. Which glands are most likely involved?",
+   "options": [
+    "A. Minor salivary glands",
+    "B. Submandibular/sublingual (major) glands",
+    "C. Parotid gland",
+    "D. Von Ebner's glands"
+   ],
+   "answer": "B. Submandibular/sublingual (major) glands",
+   "explanation": "A bluish movable mass on the floor of the mouth is a ranula, which involves major salivary glands (submandibular and sublingual). A mucocele looks similar but usually on the lower lip and involves minor salivary glands."
+  },
+  {
+   "id": "poc-p344-mcq-01",
+   "deck": "Process of Care",
+   "section": "CAMBRA",
+   "page": 344,
+   "question": "An adult patient had two cavitated lesions restored 8 months ago and has normal salivary flow. Per CAMBRA, which home-care recommendation fits her risk level?",
+   "options": [
+    "A. OTC fluoride toothpaste (1,000–1,500 ppm) 2×/day only",
+    "B. Prescription 5,000 ppm NaF toothpaste daily",
+    "C. Saliva substitutes and MI Paste",
+    "D. No fluoride product needed"
+   ],
+   "answer": "B. Prescription 5,000 ppm NaF toothpaste daily",
+   "explanation": "≥1 cavitated lesion in the past 12 months = high risk; high risk gets prescription 5,000 ppm NaF toothpaste daily (plus varnish every 3 months). Saliva substitutes/MI Paste are for extreme risk (high risk + severe xerostomia), which she does not have."
+  },
+  {
+   "id": "poc-p345-mcq-01",
+   "deck": "Process of Care",
+   "section": "Radiographic interpretation of carious lesions",
+   "page": 345,
+   "question": "A bitewing shows a proximal radiolucency reaching the inner half of the enamel but not the DEJ. Which is the most appropriate statement?",
+   "options": [
+    "A. It is incipient and limited to the outer enamel",
+    "B. Remineralization is possible",
+    "C. Dentin is involved and it needs restoration",
+    "D. It is usually symptomatic"
+   ],
+   "answer": "B. Remineralization is possible",
+   "explanation": "Radiolucency in the inner half of enamel but not dentin = Class 2 (moderate), where remineralization is possible. Restoration is needed once the radiolucency reaches the outer third of dentin (Class 3)."
+  },
+  {
+   "id": "poc-p346-mcq-01",
+   "deck": "Process of Care",
+   "section": "Sealants",
+   "page": 346,
+   "question": "Which tooth is the BEST candidate for a sealant?",
+   "options": [
+    "A. A newly erupted permanent first molar with deep fissures in a moderate-risk child",
+    "B. A molar with an open occlusal carious lesion",
+    "C. A premolar with proximal caries",
+    "D. Any molar of a low-risk adult"
+   ],
+   "answer": "A. A newly erupted permanent first molar with deep fissures in a moderate-risk child",
+   "explanation": "Deep pits and fissures of 1st/2nd permanent molars should be sealed soon after eruption; sealants are recommended for moderate risk and up. They are contraindicated for open occlusal lesions or proximal caries, and not necessary for low-risk adults."
+  },
+  {
+   "id": "poc-p346-mcq-02",
+   "deck": "Process of Care",
+   "section": "Diseased periodontium",
+   "page": 346,
+   "question": "Which finding confirms that periodontitis rather than gingivitis is present?",
+   "options": [
+    "A. Bleeding on gentle probing",
+    "B. Bulbous, edematous papillae",
+    "C. Clinical attachment loss",
+    "D. Bright red, shiny gingiva"
+   ],
+   "answer": "C. Clinical attachment loss",
+   "explanation": "Attachment loss signifies bone destruction has occurred — the defining feature of periodontitis. Bleeding, bulbous papillae and bright red shiny tissue are gingivitis signs (bleeding may even be reduced in fibrotic periodontitis)."
+  },
+  {
+   "id": "poc-p346-mcq-03",
+   "deck": "Process of Care",
+   "section": "Mobility",
+   "page": 346,
+   "question": "A tooth moves 1.5 mm facial-lingually and cannot be depressed into the socket. What is its Miller mobility class?",
+   "options": [
+    "A. Class I",
+    "B. Class II",
+    "C. Class III",
+    "D. Class IV"
+   ],
+   "answer": "B. Class II",
+   "explanation": "Class II = horizontal displacement greater than 1 mm up to 2 mm. Class III requires more than 2 mm or vertical displacement (depression into the socket)."
+  }
+ ]
+}

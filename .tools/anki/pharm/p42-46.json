@@ -1,0 +1,2159 @@
+{
+ "cloze": [
+  {
+   "id": "pharm-p42-001",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "text": "Brand-name insulins used for Type I diabetes include Lantus®, Humalog® and {{c1::NovoLog®}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-002",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "text": "The first-line drug for Type I diabetes is {{c1::insulin}}; for Type II diabetes it is {{c2::metformin (Glucophage®)}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-003",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "text": "Dental relevance of Type I diabetes drugs (insulin): risk of {{c1::hypoglycemia}} if the appointment is long or insulin timing is off — {{c2::monitor vitals}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-004",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "text": "Dental relevance of Type II diabetes drugs: {{c1::xerostomia}}, increased {{c2::infection risk}}, delayed {{c3::healing}} and {{c4::periodontal diseases}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-005",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "text": "Common side effects of Type I diabetes drugs: {{c1::hypoglycemia}} and {{c2::weight gain}} (especially insulin).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-006",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "text": "Among Type II diabetes drugs, {{c1::GI upset}} is a typical side effect of metformin, and {{c2::hypoglycemia}} occurs especially with {{c3::sulfonylureas}}.",
+   "extra": "Some Type II drugs also cause weight gain."
+  },
+  {
+   "id": "pharm-p42-007",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "text": "Type I diabetes is usually diagnosed {{c1::young}}, and {{c2::lifelong insulin}} is required.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-008",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "text": "Type II diabetes may be reversible/improved with {{c1::weight loss and a healthy lifestyle}}; it is often associated with {{c2::cardiovascular}} risk factors.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-009",
+   "deck": "Pharmacology",
+   "section": "Diabetes",
+   "page": 42,
+   "text": "Diabetes is a disease in which blood {{c1::glucose}} levels are too high; sugar staying in the bloodstream instead of entering cells damages organs, blood vessels and {{c2::gums}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-010",
+   "deck": "Pharmacology",
+   "section": "Diabetes",
+   "page": 42,
+   "text": "{{c1::Insulin}} is the hormone that helps sugar move from the blood into the cells.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-011",
+   "deck": "Pharmacology",
+   "section": "Diabetes",
+   "page": 42,
+   "text": "In Type I diabetes the body's {{c1::immune system destroys the cells that make insulin}}, so insulin has to be {{c2::injected}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-012",
+   "deck": "Pharmacology",
+   "section": "Diabetes",
+   "page": 42,
+   "text": "In Type II diabetes the body still makes insulin but cells don't respond properly, called {{c1::insulin resistance}}; it is usually linked to {{c2::obesity}}, inactivity and age.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-013",
+   "deck": "Pharmacology",
+   "section": "Diabetes",
+   "page": 42,
+   "text": "The goal of diabetes treatment is to prevent complications by keeping blood sugar {{c1::stable throughout the day}}, especially {{c2::after eating}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-014",
+   "deck": "Pharmacology",
+   "section": "Diabetes",
+   "page": 42,
+   "text": "{{c1::GLP-1 receptor agonists}} (e.g., Ozempic®, Wegovy®, Mounjaro®) mimic a natural hormone that increases insulin secretion, {{c2::slows gastric emptying}} and {{c3::suppresses appetite}}; used for Type 2 diabetes and weight loss.",
+   "extra": "WakeUpMemory: \"GLP = Gastric Lagging Progress\" → GLP slows the stomach down = reflux builds up."
+  },
+  {
+   "id": "pharm-p42-015",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "Levothyroxine is used for {{c1::hypothyroidism}}; methimazole and propylthiouracil (PTU) are used for {{c2::hyperthyroidism}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-016",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "Levothyroxine replaces {{c1::T4}} (the inactive thyroid hormone), which the body converts to {{c2::T3}} (the active form).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-017",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "Methimazole and PTU block thyroid hormone production by inhibiting {{c1::iodination}} in the thyroid gland.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-018",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "Dental relevance of levothyroxine (hypothyroid patients): possible {{c1::delayed healing}} and increased {{c2::sensitivity to sedatives}} such as benzodiazepines.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-019",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "Poorly controlled hyperthyroidism increases the risk of {{c1::thyroid storm}} (sudden fever, high heart rate, mental confusion); avoid {{c2::high-dose epinephrine}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-020",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "A levothyroxine overdose causes weight loss, anxiety and palpitations — it {{c1::mimics hyperthyroidism}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-021",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "Side effects of methimazole/PTU: skin rash, {{c1::agranulocytosis}} (dangerously low white blood cells) and {{c2::liver damage}} (especially with {{c3::PTU}}).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-022",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "The thyroid produces T4 ({{c1::thyroxine}}) and T3 ({{c2::triiodothyronine}}).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-023",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "{{c1::T4}} is the main hormone the thyroid makes but is less active; it is converted to {{c2::T3}}, the more active form, in organs like the {{c3::liver}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-024",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "text": "{{c1::T3}} is the thyroid hormone that regulates metabolism, heart rate and temperature.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-001",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 43,
+   "text": "Levothyroxine is synthetic {{c1::T4}}; it must be taken {{c2::on an empty stomach}} at the same time each day.",
+   "extra": "WakeUpMemory: the thyroid is the engine that controls body speed — too fast = hyperthyroidism, too slow = hypothyroidism."
+  },
+  {
+   "id": "pharm-p43-002",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 43,
+   "text": "Methimazole and PTU inhibit thyroid hormone synthesis and are used for hyperthyroidism and {{c1::Graves'}} disease.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-003",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 43,
+   "text": "{{c1::Iodine}} is necessary for thyroid hormone (T3, T4) production; deficiency can lead to {{c2::goiter}} (thyroid gland enlargement).",
+   "extra": "Did you know: iodized salt was introduced as a simple way to prevent thyroid disorders."
+  },
+  {
+   "id": "pharm-p43-004",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "text": "Corticosteroids (also called {{c1::glucocorticoids}}) are synthetic drugs that mimic {{c2::cortisol}}, a hormone produced by the {{c3::adrenal cortex}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-005",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "text": "Corticosteroids treat asthma, allergic reactions, autoimmune diseases (e.g., lupus, rheumatoid arthritis) and {{c1::adrenal insufficiency}} ({{c2::Addison's}} disease).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-006",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "text": "Budesonide (brand {{c1::Pulmicort®}}) is a corticosteroid.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-007",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "text": "Corticosteroids work by suppressing inflammatory cells and signals (e.g., {{c1::prostaglandins}}, {{c2::cytokines}}), reducing pain, swelling and immune overreaction.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-008",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "text": "Corticosteroids can be taken orally, {{c1::topically}}, {{c2::inhaled}} or by injection, depending on the condition.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-009",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "text": "Corticosteroid side effects: xerostomia, delayed healing, increased infection risk, {{c1::peptic ulcers}} (take with food), bone loss ({{c2::osteoporosis}}) and {{c3::Cushingoid}} features like moon face or buffalo hump.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-010",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "text": "Inhaled corticosteroids (e.g., fluticasone) can cause {{c1::oral candidiasis}}; patients should {{c2::rinse thoroughly}} after use.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-011",
+   "deck": "Pharmacology",
+   "section": "Immunosuppressants",
+   "page": 43,
+   "text": "Immunosuppressants prevent {{c1::rejection of transplanted organs}} (e.g., kidney, liver, heart) and may be used for autoimmune conditions.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-012",
+   "deck": "Pharmacology",
+   "section": "Immunosuppressants",
+   "page": 43,
+   "text": "The immunosuppressant {{c1::cyclosporine}} (Sandimmune®) causes {{c2::gingival hyperplasia}} (overgrowth of gum tissue).",
+   "extra": "WakeUpMemory: \"Cyclosporine grows your 'cyclo-smile'\" — gums growing too much and covering the teeth."
+  },
+  {
+   "id": "pharm-p43-013",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Statins inhibit {{c1::HMG-CoA reductase}} to reduce cholesterol synthesis in the {{c2::liver}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-014",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Main effect of statins: {{c1::↓}} LDL, {{c2::↑}} HDL, {{c3::↓}} triglycerides.",
+   "extra": "WakeUpMemory: LDL = \"Low Desirable Lipid\", HDL = \"Highly Desirable Lipids\"."
+  },
+  {
+   "id": "pharm-p43-015",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Common statin side effects: {{c1::muscle pain (myalgia)}}, {{c2::liver enzyme elevation}} and GI upset.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-016",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "{{c1::Grapefruit juice}} inhibits statin metabolism → increased statin toxicity.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-017",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Bile acid sequestrants (e.g., cholestyramine) bind {{c1::bile acids}} in the intestine, increasing {{c2::cholesterol excretion}}; main effect ↓ LDL.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-018",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Bile acid sequestrants cause {{c1::constipation}} and GI distress, and may interfere with {{c2::other drugs' absorption}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-019",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Niacin {{c1::reduces hepatic VLDL}}; fibrates (gemfibrozil, fenofibrate) {{c2::activate lipoprotein lipase}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-020",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Main effect of niacin and fibrates: ↓ {{c1::triglycerides}}, mild ↑ HDL.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-021",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Side effects of niacin/fibrates: {{c1::flushing}} (niacin), {{c2::gallstones}} and liver toxicity.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-022",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Combining niacin with a {{c1::statin}} increases the risk of {{c2::myopathy}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-023",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Antihyperlipidemic agents lower blood lipids to reduce the risk of {{c1::atherosclerosis}} — fat building up inside blood vessels and narrowing them.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-024",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Lipid-lowering drugs lower {{c1::LDL}} (low-density lipoprotein) cholesterol and triglycerides and can raise {{c2::HDL}} (high-density lipoprotein).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-025",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "text": "Grapefruit juice should be avoided with many lipid-lowering drugs, especially statins, because it interferes with {{c1::liver metabolism}} and may increase drug toxicity.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-001",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Short-acting beta-agonists (SABA) give {{c1::quick relief during an asthma attack}} — the \"{{c2::rescue inhaler}}\".",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-002",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "SABAs relax airway muscles within {{c1::minutes}}; LABAs relax airway muscles over {{c2::12 hours}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-003",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "SABAs are inhaled as needed for immediate symptoms; ideally used no more than {{c1::2x/week}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-004",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "SABA side effects: {{c1::tremor}}, {{c2::xerostomia}} and fast heartbeat.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-005",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Long-acting beta-agonists (LABA) {{c1::prevent attacks}}; they are taken daily for long-term control.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-006",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "LABAs are inhaled {{c1::twice daily}} on schedule and are {{c2::never used for rescue}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-007",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "LABA side effects: {{c1::throat irritation}} and headache.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-008",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "LABAs must be used {{c1::with an inhaled corticosteroid (ICS)}}, never alone.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-009",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Inhaled corticosteroids (ICS) reduce airway inflammation for long-term control by suppressing the {{c1::immune response}} and inflammation.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-010",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Asthma ICS examples: fluticasone ({{c1::Flovent®}}) and mometasone ({{c2::Asmanex®}}).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-011",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "ICS are inhaled once or twice daily {{c1::even if there are no symptoms}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-012",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "ICS side effects: xerostomia and {{c1::oral candidiasis (thrush)}} — instruct the patient to {{c2::rinse the mouth}} after use.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-013",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Leukotriene modifiers prevent airway inflammation and mucus production by blocking {{c1::leukotrienes}}, which tighten airways and increase mucus.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-014",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Leukotriene modifiers are taken as a {{c1::once-daily pill}} as preventive therapy.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-015",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Leukotriene modifier side effects: headache and possible {{c1::mood changes}}; oral effects are {{c2::minimal}} (ask if asthma is well controlled).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-016",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Asthma is a chronic inflammatory airway condition in which the {{c1::bronchi}} become hypersensitive to triggers (allergens, exercise, cold air), causing {{c2::bronchoconstriction}}, inflammation and excess mucus.",
+   "extra": "Did you know: the first inhaler (1956) was based on military aerosol technology."
+  },
+  {
+   "id": "pharm-p44-017",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Combination inhalers (e.g., {{c1::fluticasone + salmeterol}}) deliver anti-inflammatory and bronchodilating effects in one device, improving {{c2::adherence}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-018",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "In the dental chair, asthma patients: watch for wheezing, shortness of breath or chest tightness; ask if she brought her {{c1::inhaler}}; consider {{c2::shorter appointments}} and a {{c3::semi-upright}} position.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-019",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "text": "Stress, anxiety and {{c1::sulfite preservatives}} in local anesthetics can trigger asthma; use {{c2::plain anesthetic}} when necessary.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-020",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "In COPD, short-acting bronchodilators (SABA) give {{c1::emergency relief of acute symptoms}}; long-acting bronchodilators (LABA/LAMA) are {{c2::maintenance therapy}} to prevent symptoms long-term.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-021",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "In COPD, inhaled corticosteroids are used to reduce inflammation in {{c1::moderate to severe}} COPD.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-022",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "COPD SABA examples: albuterol (ProAir®, Ventolin®) and {{c1::levalbuterol}} (Xopenex®).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-023",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "COPD long-acting bronchodilators: {{c1::formoterol}} (Foradil®, Perforomist®), arformoterol (Brovana®), {{c2::aclidinium}} (Tudorza®).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-024",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "COPD inhaled corticosteroids: fluticasone (Flovent®) and {{c1::budesonide}} (Pulmicort®).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-025",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "COPD inhaled corticosteroids have a {{c1::slow}} onset and are used consistently for long-term control.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-026",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "COPD patients on SABAs may need to {{c1::use their inhaler before dental visits}}; watch for dry mouth.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-027",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "COPD long-acting bronchodilators: risk of dry mouth; may require {{c1::chair adjustments}} to avoid {{c2::dizziness}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-028",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "COPD inhaled corticosteroids can cause {{c1::oral candidiasis}} — advise rinsing the mouth thoroughly after use.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-029",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "Side effect shared by all COPD inhaler classes (SABA, LABA/LAMA, ICS): {{c1::xerostomia}}.",
+   "extra": "SABA: + headache, cough. LABA/LAMA: + dizziness, upset stomach, sore throat. ICS: + hoarseness, thrush, sore throat."
+  },
+  {
+   "id": "pharm-p44-030",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "text": "COPD inhaler side effects beyond xerostomia: SABA → headache and {{c1::cough}}; ICS → {{c2::hoarseness}}, thrush, sore throat.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-001",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 45,
+   "text": "COPD is a progressive lung disease that includes chronic {{c1::bronchitis}} and {{c2::emphysema}}; it causes airway inflammation, mucus buildup and destruction of {{c3::alveoli}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-002",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 45,
+   "text": "Common triggers of COPD exacerbation: {{c1::respiratory infections}}, allergens, air pollution and stress.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-003",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 45,
+   "text": "COPD treatment aims to reduce airway obstruction by relaxing bronchial muscles and reducing inflammation; COPD is {{c1::not reversible}}, but symptoms are managed with medications, lifestyle changes and {{c2::oxygen therapy}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-004",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "Antacids directly {{c1::neutralize}} existing stomach acid by buffering {{c2::hydrochloric acid}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-005",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "H2 blockers block {{c1::histamine (H2) receptors}} in the stomach lining, reducing acid secretion.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-006",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "Proton pump inhibitors inhibit the {{c1::H⁺/K⁺ ATPase proton pump}} in {{c2::parietal cells}}, preventing the final step of acid production.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-007",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "PPIs give long relief — up to {{c1::24}} hours, longer if used daily.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-008",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "Antacid generics: calcium carbonate, {{c1::aluminum hydroxide}}, {{c2::magnesium hydroxide}}.",
+   "extra": "Brands: Tums®, Maalox®, Gaviscon®"
+  },
+  {
+   "id": "pharm-p45-009",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "Antacid brands include {{c1::Tums®}}, Maalox® and Gaviscon®.",
+   "extra": "Tums® = calcium carbonate"
+  },
+  {
+   "id": "pharm-p45-010",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "Ranitidine ({{c1::Zantac®}}), an H2 blocker, was withdrawn from the U.S. market in April 2020 because of {{c2::NDMA}} contamination, a potential carcinogen.",
+   "extra": "Recalled in Canada from late 2019; Health Canada suspended all ranitidine products May 2020."
+  },
+  {
+   "id": "pharm-p45-011",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "Antacid side effects: xerostomia, {{c1::constipation}} (aluminum), {{c2::diarrhea}} (magnesium), taste changes.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-012",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "H2 blocker side effects: headache, dizziness, dry mouth and vitamin {{c1::B12}} malabsorption.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-013",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "text": "PPI side effects: headache, xerostomia, GI discomfort; long-term use → low {{c1::calcium}}, B12 and {{c2::iron}} absorption.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-014",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Laxative mechanisms vary: {{c1::bulk agents}} absorb water, {{c2::stimulants}} trigger motility, {{c3::softeners}} allow water into the stool.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-015",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Laxative generics: psyllium, {{c1::docusate sodium}}, {{c2::bisacodyl}}, mineral oil.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-016",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Chronic laxative use can alter {{c1::nutrient absorption}} and carries a risk of {{c2::hypokalemia}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-017",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Laxative overuse can lead to {{c1::dependency}} or electrolyte imbalance.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-018",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Antidiarrheals {{c1::reduce gut motility}} or promote reabsorption; some are {{c2::opioids}} or antispasmodics.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-019",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Antidiarrheal generics: {{c1::loperamide}}, {{c2::diphenoxylate + atropine}}, mebeverine.",
+   "extra": "Brands: Imodium®, Lomotil®"
+  },
+  {
+   "id": "pharm-p45-020",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Antidiarrheals: dental relevance {{c1::xerostomia}} or dehydration; they are often used {{c2::short-term}}, and loperamide is {{c3::OTC}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-021",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Antiemetics block neurotransmitters involved in nausea, e.g., {{c1::serotonin}}, dopamine and histamine.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-022",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Antiemetic generics: ondansetron, promethazine, {{c1::scopolamine}}, metoclopramide.",
+   "extra": "Brands listed: Zofran®, Phenergan®, Dramamine®, Reglan®"
+  },
+  {
+   "id": "pharm-p45-023",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Antiemetic brands include Zofran®, Phenergan®, {{c1::Dramamine®}} and Reglan®.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-024",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Antiemetics: dental relevance xerostomia, {{c1::sedation}} and taste changes; often used post-surgery, with {{c2::chemo}}, or for drug-induced nausea.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-025",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Appetite suppressants {{c1::mimic satiety hormones}} or affect CNS appetite pathways.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-026",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Appetite suppressant generics: {{c1::semaglutide}} (Ozempic®, Wegovy®), liraglutide, {{c2::phentermine-topiramate}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-027",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "text": "Appetite suppressants: dental relevance xerostomia, nausea and {{c1::altered gag reflex}}; GLP-1s double as {{c2::diabetes}} drugs.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-001",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 46,
+   "text": "Laxative misuse can lead to electrolyte imbalances like hypokalemia, especially in patients with {{c1::eating disorders}} or chronic constipation.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-002",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 46,
+   "text": "{{c1::Ondansetron}} (Zofran®) is commonly used for nausea post-anesthesia in dental settings, for patient comfort after sedation.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-003",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Local anesthetics block nerve impulse transmission by inhibiting the influx of {{c1::sodium}} ions through sodium channels; the action potential is not propagated because the {{c2::threshold}} level is never attained.",
+   "extra": "Board Alert: the NBDHE will not ask injection-technique questions; it asks about the pharmacology of anesthetics (how they act, where they are metabolized, epinephrine, etc.)."
+  },
+  {
+   "id": "pharm-p46-004",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Most local anesthetics are {{c1::vasodilators}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-005",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Epinephrine is added to local anesthetics for vasoconstriction: it {{c1::increases the duration}}, {{c2::reduces bleeding}} and decreases the potential for adverse reactions.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-006",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Local anesthetic solutions {{c1::decrease}} local tissue pH, creating a {{c2::burning}} sensation.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-007",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Adverse reactions to local anesthetics include {{c1::excitation}}, depression and {{c2::seizures}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-008",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "A 1.8 mL cartridge of 1:50,000 epinephrine contains {{c1::0.036}} mg; of 1:200,000, {{c2::0.009}} mg.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-009",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "\"Cardiovascular patients\" (epinephrine limit) include recent {{c1::myocardial infarction}}, angina, arrhythmias, severe or uncontrolled {{c2::hypertension}} and {{c3::congestive heart failure}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-010",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "{{c1::Levonordefrin}} is a vasoconstrictor used only in {{c2::2% mepivacaine}} ({{c3::1:20,000}}).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-011",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "{{c1::Sulfites}} are added as a preservative to local anesthetic cartridges that contain {{c2::epinephrine}}; anesthetics without epinephrine contain none, so they are safer for sulfite-sensitive patients.",
+   "extra": "Sulfite-sensitive patients may have allergic-like reactions."
+  },
+  {
+   "id": "pharm-p46-012",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Ester local anesthetics: {{c1::procaine}}, tetracaine, {{c2::benzocaine}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-013",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Amide local anesthetics: lidocaine, {{c1::articaine}}, mepivacaine, {{c2::prilocaine}}, bupivacaine.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-014",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Name rule: esters have {{c1::one \"i\"}} (procaine); amides have {{c2::two \"i\"s}} (lidocaine).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-015",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Esters are mostly {{c1::topical}} anesthetics; amides are mostly {{c2::injectable}}.",
+   "extra": "Clinical relevance: esters used topically (not injections); lidocaine is the main LA."
+  },
+  {
+   "id": "pharm-p46-016",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Esters are metabolized in the {{c1::plasma}} by {{c2::pseudocholinesterase}}; amides mainly in the {{c3::liver}} (hepatic enzymes), with some exceptions.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-017",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Esters are {{c1::unstable}} in solution; amides are {{c2::stable}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-018",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Allergic potential: {{c1::esters}} are more likely to cause allergic reactions; allergies to {{c2::amides}} are rare.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-019",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "The main local anesthetic in dentistry is {{c1::lidocaine}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-020",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "text": "Mepivacaine comes as {{c1::3%}} plain and {{c2::2%}} with a vasoconstrictor.",
+   "extra": "Book's table says \"2% (with epi)\"; the book's own bullet notes levonordefrin 1:20,000 is used only in 2% mepivacaine."
+  }
+ ],
+ "basic": [
+  {
+   "id": "pharm-p42-b-01",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "front": "Lantus®",
+   "back": "insulin glargine",
+   "reverse": true,
+   "extra": "Used for Type I diabetes (brand ⇄ generic)"
+  },
+  {
+   "id": "pharm-p42-b-02",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "front": "Humalog®",
+   "back": "insulin lispro",
+   "reverse": true,
+   "extra": "Used for Type I diabetes (brand ⇄ generic)"
+  },
+  {
+   "id": "pharm-p42-b-03",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "front": "Symlin®",
+   "back": "pramlintide",
+   "reverse": true,
+   "extra": "Used for Type I diabetes (brand ⇄ generic)"
+  },
+  {
+   "id": "pharm-p42-b-04",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "front": "Glucophage®",
+   "back": "metformin",
+   "reverse": true,
+   "extra": "Used for Type II diabetes (brand ⇄ generic)"
+  },
+  {
+   "id": "pharm-p42-b-05",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "front": "Glucotrol®",
+   "back": "glipizide",
+   "reverse": true,
+   "extra": "Used for Type II diabetes (brand ⇄ generic)"
+  },
+  {
+   "id": "pharm-p42-b-06",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "front": "Prandin®",
+   "back": "repaglinide",
+   "reverse": true,
+   "extra": "Used for Type II diabetes (brand ⇄ generic)"
+  },
+  {
+   "id": "pharm-p42-b-07",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "front": "Januvia®",
+   "back": "sitagliptin",
+   "reverse": true,
+   "extra": "Used for Type II diabetes (brand ⇄ generic)"
+  },
+  {
+   "id": "pharm-p42-b-08",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "front": "Invokana®",
+   "back": "canagliflozin",
+   "reverse": true,
+   "extra": "Used for Type II diabetes (brand ⇄ generic)"
+  },
+  {
+   "id": "pharm-p42-b-09",
+   "deck": "Pharmacology",
+   "section": "Diabetes",
+   "page": 42,
+   "front": "Why may a patient on a GLP-1 drug (e.g., semaglutide) have a stronger gag reflex and tooth erosion?",
+   "back": "Delayed gastric emptying can indirectly trigger a gag reflex in the dental chair, and the resulting acid reflux can cause erosion.",
+   "reverse": "",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-b-10",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "front": "Synthroid®",
+   "back": "levothyroxine",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p42-b-11",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "front": "Tapazole®",
+   "back": "methimazole",
+   "reverse": true,
+   "extra": "Methimazole and propylthiouracil (PTU) are the anti-thyroid drugs in the book's table."
+  },
+  {
+   "id": "pharm-p43-b-01",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "front": "Deltasone®",
+   "back": "prednisone",
+   "reverse": true,
+   "extra": "Corticosteroid"
+  },
+  {
+   "id": "pharm-p43-b-02",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "front": "Medrol®",
+   "back": "methylprednisolone",
+   "reverse": true,
+   "extra": "Corticosteroid"
+  },
+  {
+   "id": "pharm-p43-b-03",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "front": "Decadron®",
+   "back": "dexamethasone",
+   "reverse": true,
+   "extra": "Corticosteroid"
+  },
+  {
+   "id": "pharm-p43-b-04",
+   "deck": "Pharmacology",
+   "section": "Steroids",
+   "page": 43,
+   "front": "Flonase®",
+   "back": "fluticasone (nasal)",
+   "reverse": true,
+   "extra": "Corticosteroid"
+  },
+  {
+   "id": "pharm-p43-b-05",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "front": "Lipitor®",
+   "back": "atorvastatin",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-b-06",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "front": "Zocor®",
+   "back": "simvastatin",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-b-07",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "front": "Crestor®",
+   "back": "rosuvastatin",
+   "reverse": true,
+   "extra": "WakeUpMemory: Crestor sounds like CRISCO / CREAM STORE → lowers (bad) lipids."
+  },
+  {
+   "id": "pharm-p43-b-08",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "front": "Mevacor®",
+   "back": "lovastatin",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p43-b-09",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "front": "Questran®",
+   "back": "cholestyramine",
+   "reverse": true,
+   "extra": "WakeUpMemory: Questran → QUEST To RUN (to reduce bad fat)."
+  },
+  {
+   "id": "pharm-p43-b-10",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "front": "Lopid®",
+   "back": "gemfibrozil",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-b-01",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "front": "Ventolin® / Proventil®",
+   "back": "albuterol",
+   "reverse": true,
+   "extra": "SABA (rescue inhaler); also used in COPD (ProAir®, Ventolin®)"
+  },
+  {
+   "id": "pharm-p44-b-02",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "front": "Asthma patient on a SABA: what should you ask, and why?",
+   "back": "How often she uses it — frequent use = poorly controlled asthma.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p44-b-03",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "front": "Serevent®",
+   "back": "salmeterol",
+   "reverse": true,
+   "extra": "LABA"
+  },
+  {
+   "id": "pharm-p44-b-04",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "front": "Singulair®",
+   "back": "montelukast",
+   "reverse": true,
+   "extra": "Leukotriene modifier — a once-daily pill"
+  },
+  {
+   "id": "pharm-p44-b-05",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "front": "Xopenex®",
+   "back": "levalbuterol",
+   "reverse": true,
+   "extra": "SABA"
+  },
+  {
+   "id": "pharm-p44-b-06",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "front": "Why is nitrous oxide generally contraindicated in moderate to severe COPD (unlike asthma)?",
+   "back": "Risk of hypoxia or air trapping.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-b-01",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "front": "Pepcid®",
+   "back": "famotidine",
+   "reverse": true,
+   "extra": "H2 blocker"
+  },
+  {
+   "id": "pharm-p45-b-02",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "front": "Tagamet®",
+   "back": "cimetidine",
+   "reverse": true,
+   "extra": "H2 blocker"
+  },
+  {
+   "id": "pharm-p45-b-03",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "front": "Prilosec®",
+   "back": "omeprazole",
+   "reverse": true,
+   "extra": "PPI"
+  },
+  {
+   "id": "pharm-p45-b-04",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "front": "Nexium®",
+   "back": "esomeprazole",
+   "reverse": true,
+   "extra": "PPI"
+  },
+  {
+   "id": "pharm-p45-b-05",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "front": "Metamucil®",
+   "back": "psyllium",
+   "reverse": true,
+   "extra": "Bulk laxative"
+  },
+  {
+   "id": "pharm-p45-b-06",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "front": "Colace®",
+   "back": "docusate sodium",
+   "reverse": true,
+   "extra": "Stool softener"
+  },
+  {
+   "id": "pharm-p45-b-07",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "front": "Dulcolax®",
+   "back": "bisacodyl",
+   "reverse": true,
+   "extra": "Stimulant laxative"
+  },
+  {
+   "id": "pharm-p45-b-08",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "front": "Why can laxative overuse cause hypokalemia?",
+   "back": "Frequent bowel movements cause excessive loss of potassium through the stool.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-b-09",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "front": "Imodium®",
+   "back": "loperamide",
+   "reverse": true,
+   "extra": "Antidiarrheal — OTC"
+  },
+  {
+   "id": "pharm-p45-b-10",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "front": "Lomotil®",
+   "back": "diphenoxylate + atropine",
+   "reverse": true,
+   "extra": "Antidiarrheal"
+  },
+  {
+   "id": "pharm-p45-b-11",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "front": "Zofran®",
+   "back": "ondansetron",
+   "reverse": true,
+   "extra": "Antiemetic"
+  },
+  {
+   "id": "pharm-p45-b-12",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "front": "Phenergan®",
+   "back": "promethazine",
+   "reverse": true,
+   "extra": "Antiemetic"
+  },
+  {
+   "id": "pharm-p45-b-13",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "front": "Reglan®",
+   "back": "metoclopramide",
+   "reverse": true,
+   "extra": "Antiemetic"
+  },
+  {
+   "id": "pharm-p46-b-01",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "front": "Why is epinephrine limited in cardiovascular patients?",
+   "back": "It is a vasoconstrictor and sympathomimetic that can overstimulate the heart (↑ heart rate, ↑ myocardial oxygen demand) → angina, arrhythmias or a cardiac event.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-b-02",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "front": "Levonordefrin is used at 1:20,000 — a higher dose than epinephrine. Is it safer for cardiac patients?",
+   "back": "No. It is less potent than epinephrine, which is why the dosage appears higher, but it is not safer for cardiac patients.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-b-03",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "front": "Xylocaine®",
+   "back": "lidocaine",
+   "reverse": true,
+   "extra": "Amide local anesthetic"
+  },
+  {
+   "id": "pharm-p46-b-04",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "front": "Carbocaine® / Polocaine®",
+   "back": "mepivacaine",
+   "reverse": true,
+   "extra": "Amide local anesthetic"
+  },
+  {
+   "id": "pharm-p46-b-05",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "front": "Septocaine® / Articadent®",
+   "back": "articaine",
+   "reverse": true,
+   "extra": "Amide local anesthetic"
+  },
+  {
+   "id": "pharm-p46-b-06",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "front": "Citanest®",
+   "back": "prilocaine",
+   "reverse": true,
+   "extra": "Amide local anesthetic"
+  },
+  {
+   "id": "pharm-p46-b-07",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "front": "Marcaine®",
+   "back": "bupivacaine",
+   "reverse": true,
+   "extra": "Amide local anesthetic"
+  }
+ ],
+ "typein": [
+  {
+   "id": "pharm-p44-t-01",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "question": "Short-acting bronchodilators (SABA) in COPD: duration of action, in hours?",
+   "answer": "4–6",
+   "extra": "Fast onset (within minutes)"
+  },
+  {
+   "id": "pharm-p44-t-02",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "question": "Long-acting bronchodilators (LABA/LAMA) in COPD: duration of action, in hours?",
+   "answer": "12–24",
+   "extra": "Slower onset; not for acute relief"
+  },
+  {
+   "id": "pharm-p45-t-01",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "question": "Onset of action of H2 blockers (hours)?",
+   "answer": "1",
+   "extra": "Antacids: minutes. PPIs: 1–2 hours."
+  },
+  {
+   "id": "pharm-p45-t-02",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "question": "Onset of action of proton pump inhibitors (hours)?",
+   "answer": "1–2",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-t-03",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "question": "Duration of relief from antacids (hours)?",
+   "answer": "1–2",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p45-t-04",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "question": "Duration of relief from H2 blockers (hours)?",
+   "answer": "6–12",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-t-01",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Maximum epinephrine dose for a HEALTHY patient (mg)?",
+   "answer": "0.2",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-t-02",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Maximum epinephrine dose for a CARDIOVASCULAR disease patient (mg)?",
+   "answer": "0.04",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-t-03",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Epinephrine content of a 1.8 mL cartridge of 1:100,000 (mg)?",
+   "answer": "0.018",
+   "extra": "1:50,000 = 0.036 mg; 1:200,000 = 0.009 mg"
+  },
+  {
+   "id": "pharm-p46-t-04",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Maximum cartridges of 1:100,000 epinephrine for a HEALTHY patient (approx.)?",
+   "answer": "11.1",
+   "extra": "0.2 mg ÷ 0.018 mg"
+  },
+  {
+   "id": "pharm-p46-t-05",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Maximum cartridges of 1:100,000 epinephrine for a CARDIOVASCULAR patient (approx.)?",
+   "answer": "2.2",
+   "extra": "0.04 mg ÷ 0.018 mg"
+  },
+  {
+   "id": "pharm-p46-t-06",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Maximum cartridges of 1:50,000 epinephrine — healthy patient (approx.)?",
+   "answer": "5.5",
+   "extra": "Cardiovascular patient: ~1.1"
+  },
+  {
+   "id": "pharm-p46-t-07",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Maximum cartridges of 1:50,000 epinephrine — cardiovascular patient (approx.)?",
+   "answer": "1.1",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-t-08",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Maximum cartridges of 1:200,000 epinephrine — healthy patient (approx.)?",
+   "answer": "22.2",
+   "extra": "Cardiovascular patient: ~4.4"
+  },
+  {
+   "id": "pharm-p46-t-09",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Maximum cartridges of 1:200,000 epinephrine — cardiovascular patient (approx.)?",
+   "answer": "4.4",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-t-10",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Concentration of lidocaine (%)?",
+   "answer": "2",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-t-11",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Concentration of articaine (%)?",
+   "answer": "4",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-t-12",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Concentration of prilocaine (%)?",
+   "answer": "4",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p46-t-13",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Concentration of bupivacaine (%)?",
+   "answer": "0.5",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "pharm-p43-m-01",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "prompt": "Match each lipid-lowering agent to its mechanism.",
+   "pairs": [
+    [
+     "Statins",
+     "Inhibit HMG-CoA reductase"
+    ],
+    [
+     "Bile acid sequestrants",
+     "Bind bile acids in the intestine"
+    ],
+    [
+     "Niacin",
+     "Reduces hepatic VLDL"
+    ],
+    [
+     "Fibrates",
+     "Activate lipoprotein lipase"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p45-m-01",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "prompt": "Match each acid-reducing class to its mechanism.",
+   "pairs": [
+    [
+     "Antacids",
+     "Neutralize existing acid (buffer HCl)"
+    ],
+    [
+     "H2 blockers",
+     "Block histamine receptors in stomach lining"
+    ],
+    [
+     "PPIs",
+     "Inhibit H⁺/K⁺ ATPase in parietal cells"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p46-m-01",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "prompt": "Match each local anesthetic to its concentration.",
+   "pairs": [
+    [
+     "Lidocaine",
+     "2%"
+    ],
+    [
+     "Mepivacaine (plain)",
+     "3%"
+    ],
+    [
+     "Articaine",
+     "4%"
+    ],
+    [
+     "Bupivacaine",
+     "0.5%"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "pharm-p45-o-01",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "prompt": "Order the acid-reducing drug classes by onset of action (fastest → slowest).",
+   "items": [
+    "Antacids (minutes)",
+    "H2 blockers (1 hour)",
+    "Proton pump inhibitors (1–2 hours)"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "pharm-p42-s-01",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 42,
+   "prompt": "Sort the diabetes drugs by the type of diabetes they treat.",
+   "categories": [
+    [
+     "Type I",
+     [
+      "Insulin glargine",
+      "Insulin lispro",
+      "Pramlintide"
+     ]
+    ],
+    [
+     "Type II",
+     [
+      "Metformin",
+      "Glipizide",
+      "Repaglinide",
+      "Sitagliptin",
+      "Canagliflozin"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p42-s-02",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "prompt": "Sort the signs by thyroid disorder.",
+   "categories": [
+    [
+     "Hypothyroidism",
+     [
+      "Fatigue",
+      "Weight gain",
+      "Slow heart rate",
+      "Cold intolerance",
+      "Dry skin"
+     ]
+    ],
+    [
+     "Hyperthyroidism",
+     [
+      "Weight loss",
+      "Anxiety",
+      "Rapid heart rate",
+      "Sweating",
+      "Heat intolerance"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p43-s-01",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "prompt": "Sort the lipid-lowering drugs by class.",
+   "categories": [
+    [
+     "Statins",
+     [
+      "Atorvastatin",
+      "Simvastatin",
+      "Rosuvastatin",
+      "Lovastatin"
+     ]
+    ],
+    [
+     "Bile acid sequestrants",
+     [
+      "Cholestyramine"
+     ]
+    ],
+    [
+     "Other (niacin, fibrates)",
+     [
+      "Niacin",
+      "Gemfibrozil",
+      "Fenofibrate"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p44-s-01",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "prompt": "Sort the asthma/COPD drugs by class.",
+   "categories": [
+    [
+     "SABA",
+     [
+      "Albuterol",
+      "Levalbuterol"
+     ]
+    ],
+    [
+     "LABA / LAMA",
+     [
+      "Salmeterol",
+      "Formoterol",
+      "Arformoterol",
+      "Aclidinium"
+     ]
+    ],
+    [
+     "Inhaled corticosteroid",
+     [
+      "Fluticasone",
+      "Mometasone",
+      "Budesonide"
+     ]
+    ],
+    [
+     "Leukotriene modifier",
+     [
+      "Montelukast"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p45-s-01",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "prompt": "Sort the drugs by acid-reducing class.",
+   "categories": [
+    [
+     "Antacid",
+     [
+      "Calcium carbonate",
+      "Aluminum hydroxide",
+      "Magnesium hydroxide"
+     ]
+    ],
+    [
+     "H2 blocker",
+     [
+      "Famotidine",
+      "Cimetidine",
+      "Ranitidine"
+     ]
+    ],
+    [
+     "PPI",
+     [
+      "Omeprazole",
+      "Esomeprazole",
+      "Lansoprazole",
+      "Pantoprazole"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p45-s-02",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 45,
+   "prompt": "Sort the GI drugs by class.",
+   "categories": [
+    [
+     "Laxative",
+     [
+      "Psyllium",
+      "Docusate sodium",
+      "Bisacodyl",
+      "Mineral oil"
+     ]
+    ],
+    [
+     "Antidiarrheal",
+     [
+      "Loperamide",
+      "Diphenoxylate + atropine",
+      "Mebeverine"
+     ]
+    ],
+    [
+     "Antiemetic",
+     [
+      "Ondansetron",
+      "Promethazine",
+      "Scopolamine",
+      "Metoclopramide"
+     ]
+    ],
+    [
+     "Appetite suppressant",
+     [
+      "Semaglutide",
+      "Liraglutide",
+      "Phentermine-topiramate"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p46-s-01",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "prompt": "Sort the local anesthetics: ester or amide?",
+   "categories": [
+    [
+     "Ester",
+     [
+      "Procaine",
+      "Tetracaine",
+      "Benzocaine"
+     ]
+    ],
+    [
+     "Amide",
+     [
+      "Lidocaine",
+      "Articaine",
+      "Mepivacaine",
+      "Prilocaine",
+      "Bupivacaine"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "pharm-p42-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Diabetes",
+   "page": 42,
+   "question": "A patient with Type I diabetes took her usual insulin but skipped breakfast. Ninety minutes into a long scaling appointment she becomes shaky, sweaty and confused. What is the most likely cause?",
+   "options": [
+    "A. Hyperglycemia",
+    "B. Hypoglycemia",
+    "C. Xerostomia",
+    "D. Thyroid storm"
+   ],
+   "answer": "B. Hypoglycemia",
+   "explanation": "Insulin's main dental risk is hypoglycemia when the appointment is long or insulin timing is off (hence: monitor vitals). Hyperglycemia develops slowly and is not caused by the insulin dose."
+  },
+  {
+   "id": "pharm-p42-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Thyroid disorders",
+   "page": 42,
+   "question": "A patient with poorly controlled hyperthyroidism needs local anesthesia. Which precaution is most important?",
+   "options": [
+    "A. Avoid high-dose epinephrine",
+    "B. Avoid amide anesthetics",
+    "C. Give extra benzodiazepine sedation",
+    "D. Use only ester topical anesthetics"
+   ],
+   "answer": "A. Avoid high-dose epinephrine",
+   "explanation": "Poorly controlled hyperthyroidism raises the risk of thyroid storm (fever, high heart rate, confusion), so high-dose epinephrine is avoided. Increased sedative sensitivity is a concern in HYPOthyroid patients on levothyroxine."
+  },
+  {
+   "id": "pharm-p43-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "question": "A patient taking atorvastatin reports new muscle aches. Which addition to her regimen most increases the risk of statin toxicity or myopathy?",
+   "options": [
+    "A. Cholestyramine",
+    "B. Grapefruit juice or niacin",
+    "C. Calcium carbonate",
+    "D. Famotidine"
+   ],
+   "answer": "B. Grapefruit juice or niacin",
+   "explanation": "Grapefruit juice inhibits statin metabolism (↑ toxicity) and niacin + statin ↑ myopathy risk. Cholestyramine may interfere with absorption of other drugs but does not raise statin toxicity."
+  },
+  {
+   "id": "pharm-p43-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Anti-hyperlipidemic agents",
+   "page": 43,
+   "question": "Which lipid-lowering drug is most associated with flushing?",
+   "options": [
+    "A. Simvastatin",
+    "B. Cholestyramine",
+    "C. Niacin",
+    "D. Rosuvastatin"
+   ],
+   "answer": "C. Niacin",
+   "explanation": "Flushing is the classic niacin side effect. Statins cause myalgia and liver enzyme elevation; bile acid sequestrants cause constipation/GI distress."
+  },
+  {
+   "id": "pharm-p44-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "question": "During scaling, a patient with asthma begins wheezing and is short of breath. Which of her inhalers should she use now?",
+   "options": [
+    "A. Salmeterol (Serevent®)",
+    "B. Albuterol (Ventolin®)",
+    "C. Fluticasone (Flovent®)",
+    "D. Montelukast (Singulair®)"
+   ],
+   "answer": "B. Albuterol (Ventolin®)",
+   "explanation": "Albuterol is a SABA — the rescue inhaler that relaxes airway muscles within minutes. Salmeterol is a LABA: it works over 12 hours and is never used for rescue."
+  },
+  {
+   "id": "pharm-p44-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Asthma",
+   "page": 44,
+   "question": "A patient who uses a fluticasone inhaler has white, wipeable plaques on the palate. What is the best instruction?",
+   "options": [
+    "A. Stop the inhaler",
+    "B. Rinse the mouth thoroughly after each use",
+    "C. Use the inhaler only during attacks",
+    "D. Switch to a LABA alone"
+   ],
+   "answer": "B. Rinse the mouth thoroughly after each use",
+   "explanation": "Inhaled corticosteroids cause oral candidiasis; rinsing after use prevents it. ICS must be taken daily even without symptoms, and LABAs are never used alone."
+  },
+  {
+   "id": "pharm-p44-mcq-03",
+   "deck": "Pharmacology",
+   "section": "COPD",
+   "page": 44,
+   "question": "A patient with severe COPD is anxious about her appointment. Which statement is most accurate?",
+   "options": [
+    "A. Nitrous oxide is the sedation of choice",
+    "B. Nitrous oxide is generally contraindicated because of hypoxia/air trapping risk",
+    "C. Her long-acting bronchodilator should be used for any acute attack",
+    "D. Inhaled corticosteroids give fast relief of acute symptoms"
+   ],
+   "answer": "B. Nitrous oxide is generally contraindicated because of hypoxia/air trapping risk",
+   "explanation": "In moderate–severe COPD N2O risks hypoxia or air trapping. Long-acting bronchodilators are not for acute relief, and ICS have a slow onset."
+  },
+  {
+   "id": "pharm-p45-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Acid-reducing medications",
+   "page": 45,
+   "question": "A patient has taken omeprazole daily for years. Which long-term effect is most relevant?",
+   "options": [
+    "A. Diarrhea",
+    "B. Reduced calcium, B12 and iron absorption",
+    "C. Gingival hyperplasia",
+    "D. Tremor"
+   ],
+   "answer": "B. Reduced calcium, B12 and iron absorption",
+   "explanation": "Long-term PPI use lowers calcium/B12/iron absorption. Diarrhea is a magnesium-antacid effect."
+  },
+  {
+   "id": "pharm-p46-mcq-01",
+   "deck": "Pharmacology",
+   "section": "GI regulation medications",
+   "page": 46,
+   "question": "A patient with bulimia reports frequent laxative use. Which lab abnormality is she most at risk for?",
+   "options": [
+    "A. Hyperglycemia",
+    "B. Hypokalemia",
+    "C. Hypercalcemia",
+    "D. Agranulocytosis"
+   ],
+   "answer": "B. Hypokalemia",
+   "explanation": "Laxative misuse causes potassium loss in stool → hypokalemia, especially with eating disorders. Agranulocytosis is a methimazole/PTU effect."
+  },
+  {
+   "id": "pharm-p46-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "A patient with a recent myocardial infarction needs anesthesia with 2% lidocaine 1:100,000 epinephrine. What is the maximum number of 1.8 mL cartridges?",
+   "options": [
+    "A. About 1.1",
+    "B. About 2.2",
+    "C. About 5.5",
+    "D. About 11.1"
+   ],
+   "answer": "B. About 2.2",
+   "explanation": "Cardiac max epinephrine 0.04 mg ÷ 0.018 mg per 1:100,000 cartridge ≈ 2.2. 11.1 is the healthy-patient maximum (0.2 mg)."
+  },
+  {
+   "id": "pharm-p46-mcq-03",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "Which local anesthetic is metabolized mainly in the plasma by pseudocholinesterase and carries the highest allergic potential?",
+   "options": [
+    "A. Lidocaine",
+    "B. Articaine",
+    "C. Benzocaine",
+    "D. Bupivacaine"
+   ],
+   "answer": "C. Benzocaine",
+   "explanation": "Benzocaine is an ester (one \"i\"): plasma pseudocholinesterase metabolism, higher allergy risk. The others are amides — liver metabolism, rare allergy."
+  },
+  {
+   "id": "pharm-p46-mcq-04",
+   "deck": "Pharmacology",
+   "section": "Local anesthesia",
+   "page": 46,
+   "question": "A patient reports a sulfite sensitivity. Which anesthetic choice is most appropriate?",
+   "options": [
+    "A. Lidocaine 1:100,000 epinephrine",
+    "B. Articaine 1:100,000 epinephrine",
+    "C. Mepivacaine 3% plain",
+    "D. Lidocaine 1:50,000 epinephrine"
+   ],
+   "answer": "C. Mepivacaine 3% plain",
+   "explanation": "Sulfites are preservatives only in cartridges containing epinephrine (vasoconstrictor); plain anesthetics contain no sulfites."
+  }
+ ]
+}

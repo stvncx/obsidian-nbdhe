@@ -4,6 +4,43 @@ You are turning pages of a scanned review book (StudentRDH NBDHE guide) into Ank
 dental-hygiene student sitting the NBDHE ~January 2027. Steven (an experienced adult educator)
 leads the learning design; follow these rules exactly.
 
+## Books (all 16 PDFs — 2026-10-10)
+The rules below were written on Anatomy; for every other book swap in that book's values:
+folder `.tools/anki/<book>/`, ids/names `<prefix>-p<bookpage>-…` (not `anat-`), quiz ids
+`<prefix>-quiz-NN`, page images `.tools/cache/<PDF>-NNN.png`. Content cards go in the deck named
+like the book (column "deck"); the bonus quiz goes in `"Quizzes"`. `validate_spec.py` enforces
+deck names and prefixes. Book page = PDF page + offset — confirm with the printed page number.
+
+| book (folder) | PDF | offset | prefix | deck | content PDF pp. | quiz / key PDF pp. |
+|---|---|---|---|---|---|---|
+| anatomy | Anatomy | +146 / +200 | anat | Head and Neck / Dental Anatomy | see below | |
+| community | CommunityResearch | +252 | comm | Community Oral Health & Research | 2–18 (9–12 printed sideways) | 19 / 20 |
+| materials | DentalMaterials | +412 | mat | Dental Materials | 2–15 | 16 / 17 |
+| embryology | Embriology&Histology | +178 | emb | Embryology & Histology | 2–18 | 19 / 20 |
+| infection | InfectionControl | +274 | ic | Infection Control | 2–14 | 15 / 16 |
+| instruments | Instrumentation | +372 | inst | Instrumentation | 2–18 | 19 / 20 |
+| law | Law&Ethics | +362 | law | Law & Ethics | 2–6 | 7 / 8 |
+| emergencies | MedEmergencies | +394 | emerg | Medical Emergencies | 2–14 | 15 / 16 |
+| micro | Micro&Immunology | +312 | micro | Microbiology & Immunology | 2–16 | 17 / 18 |
+| nutrition | Nutrition | +292 | nutr | Nutrition | 2–16 | 17 / 18 |
+| pathology | Pathology | +58 | path | Oral Pathology | 2–22 | 23 / 24 |
+| perio | Periodontology | +84 | perio | Periodontology | 2–30 | 31 / 32 |
+| pharm | Pharmacology | +24 | pharm | Pharmacology | 2–28 | 29–30 / 30–31 |
+| care | ProcessOfCare | +332 | poc | Process of Care | 2–26 | 27 / 28 |
+| radiology | Radiology | +118 | rad | Radiology | 2–24 | 25 / 26 |
+| special | SpecialNeedsMedConditions | +200 | spec | Special Needs & Medical Conditions | 2–27 | 28 / 29 |
+
+Every book: PDF 1 = cover, last two pages = "Practice questions" + "Thoughts" (skip). The answer
+key is printed upside down — rotate 180° to read it. Some pages are printed sideways — rotate.
+- **Radiology:** the exam no longer uses the word "film" and asks NO darkroom / chemical
+  processing questions. Make no cards for darkroom, processing chemistry, processing errors or
+  film-only facts; say "image receptor"/"radiograph" where the book says film for concepts that
+  still apply (sizes, PID, technique). List what you skipped in your report.
+- Perio uses the AAP 2017 classification (staging/grading); BP = AHA 2017 categories;
+  smoking = cigarettes per day (1 pack = 20; pack-years = packs/day × years). Where the book
+  disagrees, follow the standard and say so in `extra`.
+- Photos with no printed labels (most pathology pictures) get no occlusion card.
+
 ## Inputs
 - Rendered pages (200 dpi, 1700×2200 px): `.tools/cache/<Book>-NNN.png` (NNN = PDF page, 3 digits).
   View a page or a zoomed crop with the Read tool. Make zoomed crops with PIL into your own
@@ -137,6 +174,11 @@ are Claude's; **Steven leads learning design** and may change them. Principles:
   quizzes stay in "Quizzes".
 
 ## Diagrams
+- Stray text inside the crop that gives an answer away (a caption, a neighbouring figure's label):
+  `"mask": [[x0, y0, x1, y1], ...]` (page px, after any rotate) paints it white.
+- Figure on a sideways/upside-down page: add `"rotate": 90` (or 180/270) = degrees CLOCKWISE
+  that turn the page upright; `crop` and label boxes are then in the ROTATED page's pixels
+  (rotate the image with PIL `im.rotate(-90, expand=True)` to measure).
 - Every diagram with ≥3 labels automatically also gets one **label-the-diagram** card (all
   labels in a tray, tap to place) — nothing to author. Set `"label_all": false` on a diagram
   where that would be silly.

@@ -1,0 +1,1277 @@
+{
+ "diagrams": [
+  {
+   "name": "rad-p128-focal-spot",
+   "title": "Focal spot size and penumbra",
+   "deck": "Radiology",
+   "pdf_page": 10,
+   "page": 128,
+   "crop": [
+    150,
+    460,
+    1250,
+    1085
+   ],
+   "labels": [
+    {
+     "box": [
+      370,
+      487,
+      685,
+      545
+     ],
+     "answer": "Large focal spot",
+     "fit": "text"
+    },
+    {
+     "box": [
+      730,
+      487,
+      1047,
+      545
+     ],
+     "answer": "Small focal spot",
+     "fit": "text"
+    },
+    {
+     "box": [
+      292,
+      552,
+      427,
+      606
+     ],
+     "answer": "Anode",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      278,
+      889,
+      491,
+      1000
+     ],
+     "answer": "Receptor (film)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      640,
+      930,
+      794,
+      974
+     ],
+     "answer": "Penumbra",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      667,
+      992,
+      774,
+      1037
+     ],
+     "answer": "Image",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      894,
+      934,
+      1046,
+      978
+     ],
+     "answer": "Penumbra",
+     "fit": "bg",
+     "key": "Penumbra (2)"
+    },
+    {
+     "box": [
+      921,
+      995,
+      1027,
+      1040
+     ],
+     "answer": "Image",
+     "fit": "bg",
+     "key": "Image (2)"
+    }
+   ]
+  },
+  {
+   "name": "rad-p128-sid-penumbra",
+   "title": "Source-to-image distance (SID) and penumbra",
+   "deck": "Radiology",
+   "pdf_page": 10,
+   "page": 128,
+   "crop": [
+    695,
+    1155,
+    1245,
+    1570
+   ],
+   "labels": [
+    {
+     "box": [
+      812,
+      1172,
+      930,
+      1196
+     ],
+     "answer": "Source of X-Ray",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1040,
+      1312,
+      1155,
+      1336
+     ],
+     "answer": "Source of X-Ray",
+     "fit": "none",
+     "key": "Source of X-Ray (2)"
+    },
+    {
+     "box": [
+      922,
+      1328,
+      990,
+      1351
+     ],
+     "answer": "SID (72\")",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1139,
+      1409,
+      1206,
+      1432
+     ],
+     "answer": "SID (40\")",
+     "fit": "none"
+    },
+    {
+     "box": [
+      708,
+      1430,
+      824,
+      1470
+     ],
+     "answer": "Image Receptor (Detector)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      777,
+      1501,
+      854,
+      1542
+     ],
+     "answer": "Small Penumbra",
+     "fit": "none"
+    },
+    {
+     "box": [
+      883,
+      1501,
+      963,
+      1542
+     ],
+     "answer": "Small Penumbra",
+     "fit": "none",
+     "key": "Small Penumbra (2)"
+    },
+    {
+     "box": [
+      1034,
+      1506,
+      1186,
+      1549
+     ],
+     "answer": "Large Penumbra and magnified image",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "rad-p130-bisecting",
+   "title": "Bisecting technique",
+   "deck": "Radiology",
+   "pdf_page": 12,
+   "page": 130,
+   "crop": [
+    110,
+    295,
+    465,
+    555
+   ],
+   "labels": [
+    {
+     "box": [
+      200,
+      342,
+      240,
+      424
+     ],
+     "answer": "Bisecting angle",
+     "fit": "rtext"
+    },
+    {
+     "box": [
+      272,
+      312,
+      288,
+      406
+     ],
+     "answer": "Long axis of tooth",
+     "fit": "none"
+    },
+    {
+     "box": [
+      361,
+      355,
+      424,
+      371
+     ],
+     "answer": "X-ray head",
+     "fit": "none"
+    },
+    {
+     "box": [
+      276,
+      407,
+      346,
+      423,
+      -23
+     ],
+     "answer": "Central beam",
+     "fit": "none"
+    },
+    {
+     "box": [
+      170,
+      470,
+      224,
+      482,
+      45
+     ],
+     "answer": "X-ray film (image receptor)",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "rad-p131-slob",
+   "title": "SLOB rule example (buccal pit amalgam)",
+   "deck": "Radiology",
+   "pdf_page": 13,
+   "page": 131,
+   "crop": [
+    250,
+    1305,
+    1050,
+    1810
+   ],
+   "labels": [
+    {
+     "box": [
+      359,
+      1309,
+      510,
+      1354
+     ],
+     "answer": "Molar PA",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      747,
+      1310,
+      937,
+      1356
+     ],
+     "answer": "Premolar PA",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      326,
+      1388,
+      541,
+      1419
+     ],
+     "answer": "Buccal pit amalgam",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      731,
+      1381,
+      943,
+      1415
+     ],
+     "answer": "Buccal pit amalgam",
+     "fit": "bg",
+     "key": "Buccal pit amalgam (2)"
+    },
+    {
+     "box": [
+      273,
+      1661,
+      608,
+      1754
+     ],
+     "answer": "As the tubehead moves mesially",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      687,
+      1664,
+      1000,
+      1749
+     ],
+     "answer": "The object appears to move distally",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "rad-p127-001",
+   "deck": "Radiology",
+   "section": "Maximum permissible dose (MPD)",
+   "page": 127,
+   "text": "The maximum accumulated (lifetime) dose for a radiation worker = {{c1::the worker's age × 10 mSv}}.",
+   "extra": "Example: 50-year-old worker → 50 × 10 = 500 mSv (0.5 Sv)."
+  },
+  {
+   "id": "rad-p127-002",
+   "deck": "Radiology",
+   "section": "Radiolucency and radiopacity",
+   "page": 127,
+   "text": "<b>Radiolucent</b> areas appear {{c1::dark}} on a radiograph; they are produced by {{c2::less dense}} structures that readily permit the passage of X-rays.",
+   "extra": "e.g., cysts look darker because they contain no dense material."
+  },
+  {
+   "id": "rad-p127-003",
+   "deck": "Radiology",
+   "section": "Radiolucency and radiopacity",
+   "page": 127,
+   "text": "<b>Radiopaque</b> areas appear {{c1::light}} on a radiograph; they are produced by {{c2::denser}} structures that absorbed the radiation so it did not reach the receptor."
+  },
+  {
+   "id": "rad-p127-004",
+   "deck": "Radiology",
+   "section": "Radiolucency and radiopacity",
+   "page": 127,
+   "text": "The {{c1::lamina dura}} — the dense bone around the roots — is an example of a radiopaque structure."
+  },
+  {
+   "id": "rad-p127-005",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "text": "Beam intensity is affected by {{c1::mA}}, {{c2::kVp}}, {{c3::distance}}, and {{c4::exposure time}}."
+  },
+  {
+   "id": "rad-p127-006",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "text": "To <b>increase</b> beam intensity: {{c1::increase}} mA, kVp and time, and {{c2::decrease}} the distance."
+  },
+  {
+   "id": "rad-p127-007",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "text": "To <b>decrease</b> beam intensity: {{c1::decrease}} mA, kVp and time, and {{c2::increase}} the distance."
+  },
+  {
+   "id": "rad-p127-008",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "text": "Aluminum filters remove the {{c1::less penetrating, longer}} wavelengths from the X-ray beam."
+  },
+  {
+   "id": "rad-p127-009",
+   "deck": "Radiology",
+   "section": "Density",
+   "page": 127,
+   "text": "Radiographic density is also called the {{c1::darkness}} of the image."
+  },
+  {
+   "id": "rad-p127-010",
+   "deck": "Radiology",
+   "section": "Density",
+   "page": 127,
+   "text": "Density (darkness) is directly proportional to {{c1::milliamperage (mA)}}, {{c2::kVp}}, and {{c3::exposure time}}."
+  },
+  {
+   "id": "rad-p127-011",
+   "deck": "Radiology",
+   "section": "Density",
+   "page": 127,
+   "text": "To maintain similar density: if exposure time is increased, milliamperage must be {{c1::decreased}}; if time is decreased, mA must be {{c2::increased}}."
+  },
+  {
+   "id": "rad-p128-001",
+   "deck": "Radiology",
+   "section": "Density",
+   "page": 128,
+   "text": "Density is {{c1::decreased}} (the image is lighter) if the target structure is dense."
+  },
+  {
+   "id": "rad-p128-002",
+   "deck": "Radiology",
+   "section": "Contrast",
+   "page": 128,
+   "text": "Radiographic contrast is dependent on {{c1::kVp}}."
+  },
+  {
+   "id": "rad-p128-003",
+   "deck": "Radiology",
+   "section": "Contrast",
+   "page": 128,
+   "text": "<b>Increased</b> kVp produces many shades of gray = {{c1::long-scale, low}} contrast — best for detecting {{c2::bone abnormalities, changes in bone density and periodontitis progression}}."
+  },
+  {
+   "id": "rad-p128-004",
+   "deck": "Radiology",
+   "section": "Contrast",
+   "page": 128,
+   "text": "<b>Decreased</b> kVp produces more black-and-white areas = {{c1::short-scale, high}} contrast — best for detecting {{c2::caries}}."
+  },
+  {
+   "id": "rad-p128-005",
+   "deck": "Radiology",
+   "section": "Sharpness",
+   "page": 128,
+   "text": "Sharpness increases when the focal spot (tungsten target of the anode) is {{c1::small}}, the object-to-receptor distance is {{c2::short}}, and the tube (target/source)-to-receptor distance is {{c3::long}}."
+  },
+  {
+   "id": "rad-p128-006",
+   "deck": "Radiology",
+   "section": "Sharpness",
+   "page": 128,
+   "text": "{{c1::Patient and tube head movement}} are the most common reasons for a fuzzy (unsharp) image."
+  },
+  {
+   "id": "rad-p128-007",
+   "deck": "Radiology",
+   "section": "Distortion",
+   "page": 128,
+   "text": "Increasing the tube (target)-to-receptor distance gives {{c1::more parallel}} rays and therefore {{c2::less}} magnification."
+  },
+  {
+   "id": "rad-p128-008",
+   "deck": "Radiology",
+   "section": "Distortion",
+   "page": 128,
+   "text": "A {{c1::shorter}} object-to-receptor distance produces less magnification."
+  },
+  {
+   "id": "rad-p128-009",
+   "deck": "Radiology",
+   "section": "Distortion",
+   "page": 128,
+   "text": "In the paralleling technique the receptor and the long axis of the tooth are {{c1::parallel}} to each other, and the central ray is directed {{c2::perpendicular}} to both — to prevent distortion."
+  },
+  {
+   "id": "rad-p129-001",
+   "deck": "Radiology",
+   "section": "Types of intraoral images",
+   "page": 129,
+   "text": "A <b>periapical (PA)</b> image captures the {{c1::crown, CEJ, root, apex and surrounding bone}}.",
+   "extra": "Main uses: diagnosis of periodontal disease, pathology, endodontic therapy and implants."
+  },
+  {
+   "id": "rad-p129-002",
+   "deck": "Radiology",
+   "section": "Types of intraoral images",
+   "page": 129,
+   "text": "A <b>bitewing (BW)</b> captures the {{c1::crowns, contacts and height of the alveolar bone}}; its main use is diagnosing {{c2::interproximal caries}}."
+  },
+  {
+   "id": "rad-p129-003",
+   "deck": "Radiology",
+   "section": "Types of intraoral images",
+   "page": 129,
+   "text": "A <b>vertical bitewing</b> is like a bitewing but includes more of the {{c1::bone level}}; it is used for detecting {{c2::early periodontal disease}}."
+  },
+  {
+   "id": "rad-p129-004",
+   "deck": "Radiology",
+   "section": "Types of intraoral images",
+   "page": 129,
+   "text": "An <b>occlusal</b> image captures the bone around the teeth, floor of the mouth, {{c1::sialoliths}} and {{c2::supernumerary teeth}}; it is useful when the patient has {{c3::limited jaw opening}}."
+  },
+  {
+   "id": "rad-p129-005",
+   "deck": "Radiology",
+   "section": "Types of intraoral images",
+   "page": 129,
+   "text": "A <b>full-mouth series (FMX/CMS)</b> images the entire dentition using a combination of {{c1::PAs and BWs}}, for comprehensive dental assessment."
+  },
+  {
+   "id": "rad-p130-001",
+   "deck": "Radiology",
+   "section": "Bisecting technique",
+   "page": 130,
+   "text": "The bisecting technique is based on the {{c1::rule of isometry}}."
+  },
+  {
+   "id": "rad-p130-002",
+   "deck": "Radiology",
+   "section": "Bisecting technique",
+   "page": 130,
+   "text": "In the bisecting technique, the angle formed by the {{c1::receptor and the long axis of the tooth}} is bisected, and the central beam is directed at {{c2::90°}} to the bisecting line."
+  },
+  {
+   "id": "rad-p130-003",
+   "deck": "Radiology",
+   "section": "Paralleling technique",
+   "page": 130,
+   "text": "The paralleling technique is also called the {{c1::long-cone}} technique."
+  },
+  {
+   "id": "rad-p130-004",
+   "deck": "Radiology",
+   "section": "Paralleling technique",
+   "page": 130,
+   "text": "The paralleling technique requires a {{c1::receptor holder}}, which positions the receptor {{c2::farther from}} the tooth surface."
+  },
+  {
+   "id": "rad-p130-005",
+   "deck": "Radiology",
+   "section": "Paralleling technique",
+   "page": 130,
+   "text": "Paralleling gives a more accurate image with less distortion than bisecting; the increased receptor-to-tooth distance can cause {{c1::magnification}}, compensated for by an increased {{c2::tube-to-tooth}} distance."
+  },
+  {
+   "id": "rad-p130-006",
+   "deck": "Radiology",
+   "section": "Occlusal techniques",
+   "page": 130,
+   "text": "Mandibular (topographic) occlusal technique: the head is tilted {{c1::backward}} and the central ray is directed {{c2::through the chin}}."
+  },
+  {
+   "id": "rad-p130-007",
+   "deck": "Radiology",
+   "section": "Occlusal techniques",
+   "page": 130,
+   "text": "Maxillary (topographic) occlusal technique: the occlusal plane is {{c1::parallel to the floor}} and the central ray is directed through the {{c2::tip of the nose}}."
+  },
+  {
+   "id": "rad-p131-001",
+   "deck": "Radiology",
+   "section": "Occlusal techniques",
+   "page": 131,
+   "text": "Cross-sectional maxillary occlusal technique: the occlusal plane is parallel to the floor, the beam is {{c1::perpendicular to the receptor}}, and the central ray is directed {{c2::between the eyebrows}}."
+  },
+  {
+   "id": "rad-p131-002",
+   "deck": "Radiology",
+   "section": "Occlusal techniques",
+   "page": 131,
+   "text": "Cross-sectional mandibular occlusal technique: the head is tilted back until the {{c1::ala-tragus}} line is almost {{c2::perpendicular}} to the floor; the beam is perpendicular to the receptor and directed {{c3::inferior to the chin}}."
+  },
+  {
+   "id": "rad-p131-003",
+   "deck": "Radiology",
+   "section": "Buccal object rule (SLOB)",
+   "page": 131,
+   "text": "The buccal object rule shows whether an object is {{c1::buccal or lingual}}; a single PA or BW shows only its {{c2::anteroposterior}} location, because a radiograph is a two-dimensional image of a three-dimensional space."
+  },
+  {
+   "id": "rad-p131-004",
+   "deck": "Radiology",
+   "section": "Buccal object rule (SLOB)",
+   "page": 131,
+   "text": "The buccal object rule needs {{c1::two}} images (PA or BW), the second taken from a different {{c2::horizontal or vertical}} angle."
+  },
+  {
+   "id": "rad-p131-005",
+   "deck": "Radiology",
+   "section": "Buccal object rule (SLOB)",
+   "page": 131,
+   "text": "SLOB: if the tube head and the object move in the {{c1::same}} direction, the object is {{c2::lingual}}; if they move in {{c3::opposite}} directions, the object is {{c4::buccal}}.",
+   "extra": "SLOB = Same Lingual, Opposite Buccal. Compare the two images: does the object move with or against the tube-head shift?"
+  },
+  {
+   "id": "rad-p132-001",
+   "deck": "Radiology",
+   "section": "Technique errors",
+   "page": 132,
+   "text": "<b>Overlap</b> (overlapping contacts) is caused by incorrect {{c1::horizontal}} angulation; correct it by directing the beam {{c2::through the contacts}}."
+  },
+  {
+   "id": "rad-p132-002",
+   "deck": "Radiology",
+   "section": "Technique errors",
+   "page": 132,
+   "text": "<b>Foreshortening</b> (teeth too short) is caused by {{c1::too much}} vertical angulation; correct by {{c2::decreasing}} the angulation.",
+   "extra": "WakeUpMemory: the tooth is a building — if it looks too short you are looking at it from high above → angulation too much → decrease it."
+  },
+  {
+   "id": "rad-p132-003",
+   "deck": "Radiology",
+   "section": "Technique errors",
+   "page": 132,
+   "text": "<b>Elongation</b> (teeth too long) is caused by {{c1::too little}} vertical angulation; correct by {{c2::increasing}} the vertical angulation."
+  },
+  {
+   "id": "rad-p132-004",
+   "deck": "Radiology",
+   "section": "Technique errors",
+   "page": 132,
+   "text": "A <b>cone cut</b> happens when the {{c1::PID}} does not cover the entire sensor; the PID should cover the entire surface of the receptor."
+  },
+  {
+   "id": "rad-p132-005",
+   "deck": "Radiology",
+   "section": "Technique errors",
+   "page": 132,
+   "text": "A <b>double exposure</b> results from taking {{c1::multiple images on the same receptor}}; prevent it by {{c2::clearing phosphor plates}} before reusing them.",
+   "extra": "The book says \"same film\"; the exam no longer uses film terminology — the idea applies to any receptor, e.g. PSP plates."
+  },
+  {
+   "id": "rad-p132-006",
+   "deck": "Radiology",
+   "section": "Panoramic imaging",
+   "page": 132,
+   "text": "Panoramic images are useful for evaluating {{c1::impacted teeth}}, {{c2::eruption patterns}}, and {{c3::TMJ problems}}."
+  },
+  {
+   "id": "rad-p132-007",
+   "deck": "Radiology",
+   "section": "Panoramic imaging",
+   "page": 132,
+   "text": "Panoramic images are usually not clear and detailed enough to assess {{c1::caries and periodontal disease}}."
+  },
+  {
+   "id": "rad-p132-008",
+   "deck": "Radiology",
+   "section": "Panoramic imaging",
+   "page": 132,
+   "text": "On a panoramic image, objects {{c1::inside}} the focal trough are clear, whereas objects {{c2::outside}} it are blurred."
+  },
+  {
+   "id": "rad-p133-001",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "text": "A <b>cephalometric projection</b> provides a {{c1::lateral view of the skull}} and evaluates {{c2::trauma and facial growth}}."
+  },
+  {
+   "id": "rad-p133-002",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "text": "A <b>lateral jaw exposure</b> evaluates the {{c1::posterior portion of the mandible}} or lateral areas too large for periapical receptors.",
+   "extra": "Useful for areas that cannot be adequately captured with standard intraoral techniques."
+  },
+  {
+   "id": "rad-p133-003",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "text": "The {{c1::Water's}} projection is specifically designed to visualize the {{c2::maxillary sinuses}}."
+  },
+  {
+   "id": "rad-p133-004",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "text": "<b>MRI</b> uses {{c1::magnetic fields and radio waves}} and is particularly good for {{c2::soft tissue}} contrast, e.g. imaging the {{c3::TMJ}}."
+  },
+  {
+   "id": "rad-p133-005",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "text": "<b>CT/CBCT</b> provides a {{c1::3D}}, cross-sectional image with detailed bone and soft-tissue information; it is used for {{c2::implant planning}} and soft-tissue lesions, especially in the {{c3::salivary glands}}."
+  },
+  {
+   "id": "rad-p133-006",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "text": "{{c1::CBCT (cone beam CT)}} is the form of CT specifically designed for dental and maxillofacial imaging."
+  },
+  {
+   "id": "rad-p133-007",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "text": "<b>Sialography</b> involves injecting a {{c1::contrast medium}} into the salivary ducts; it detects {{c2::salivary stones and other blockages}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "rad-p127-b-01",
+   "deck": "Radiology",
+   "section": "Maximum permissible dose (MPD)",
+   "page": 127,
+   "front": "Maximum permissible dose (MPD)",
+   "back": "The dose of radiation not expected to produce any significant radiation effects",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p127-b-02",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "front": "Beam intensity",
+   "back": "The total energy contained in the X-ray beam",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p127-b-03",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "front": "Half-value layer (HVL)",
+   "back": "The thickness of aluminum filters that reduces the intensity of the beam by half",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p127-b-04",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "front": "Inverse square law",
+   "back": "Radiation intensity is inversely proportional to the square of the distance from the source",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p127-b-05",
+   "deck": "Radiology",
+   "section": "Density",
+   "page": 127,
+   "front": "Milliampere-seconds (mAs)",
+   "back": "The combination (product) of milliamperes and exposure time in seconds",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p128-b-01",
+   "deck": "Radiology",
+   "section": "Contrast",
+   "page": 128,
+   "front": "Contrast (radiographic)",
+   "back": "The difference between the lighter and darker shades of gray on a radiograph",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p128-b-02",
+   "deck": "Radiology",
+   "section": "Sharpness",
+   "page": 128,
+   "front": "Sharpness (radiographic)",
+   "back": "The capacity to produce details and distinct outlines",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p128-b-03",
+   "deck": "Radiology",
+   "section": "Sharpness",
+   "page": 128,
+   "front": "Penumbra",
+   "back": "Blurring at the edges of a structure on a radiograph",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p128-b-04",
+   "deck": "Radiology",
+   "section": "Distortion",
+   "page": 128,
+   "front": "Distortion (radiographic)",
+   "back": "Variation in the size and shape of the actual object on the image",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p128-b-05",
+   "deck": "Radiology",
+   "section": "Distortion",
+   "page": 128,
+   "front": "Magnification (radiographic)",
+   "back": "Enlargement of the object on the image",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p130-b-01",
+   "deck": "Radiology",
+   "section": "Bisecting technique",
+   "page": 130,
+   "front": "Rule of isometry",
+   "back": "Two triangles are equal when they share one complete side and have two equal angles",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p130-b-02",
+   "deck": "Radiology",
+   "section": "Bisecting technique",
+   "page": 130,
+   "front": "Why does the bisecting technique generally produce more distortion than paralleling?",
+   "back": "Because of the position of the palate and the difficulty of visualizing the bisecting line",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "rad-p132-b-01",
+   "deck": "Radiology",
+   "section": "Panoramic imaging",
+   "page": 132,
+   "front": "Focal trough",
+   "back": "The horseshoe-shaped, narrow, curved zone in which structures are captured clearly on a panoramic image",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "rad-p127-t-01",
+   "deck": "Radiology",
+   "section": "Maximum permissible dose (MPD)",
+   "page": 127,
+   "question": "MPD for an occupationally exposed person (e.g., a dental professional) — in mSv per year?",
+   "answer": "50",
+   "extra": "= 5 rem/year (5000 mrem). Applies to people regularly exposed to radiation as part of their work."
+  },
+  {
+   "id": "rad-p127-t-02",
+   "deck": "Radiology",
+   "section": "Maximum permissible dose (MPD)",
+   "page": 127,
+   "question": "MPD for a non-occupationally exposed person (general public) — in mSv per year?",
+   "answer": "1",
+   "extra": "= 0.1 rem/year. Applies to the general public and anyone not occupationally exposed."
+  },
+  {
+   "id": "rad-p127-t-03",
+   "deck": "Radiology",
+   "section": "Maximum permissible dose (MPD)",
+   "page": 127,
+   "question": "MPD for a pregnant patient during the pregnancy months — in mSv per month?",
+   "answer": "0.5",
+   "extra": "Applies specifically during the pregnancy months, to minimize risk to the developing fetus."
+  },
+  {
+   "id": "rad-p127-t-04",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "question": "The PID (cone) length is changed from 8 to 16 inches. The intensity becomes what fraction of the original?",
+   "answer": "1/4",
+   "extra": "2× farther → 2² = 4 → distance increased, so invert → 1/4."
+  },
+  {
+   "id": "rad-p128-t-01",
+   "deck": "Radiology",
+   "section": "Density",
+   "page": 128,
+   "question": "An exposure of 15 mA, 90 kVp, 10 sec is changed to 10 mA, 90 kVp. To keep the same density, how long should the exposure be (in seconds)?",
+   "answer": "15",
+   "extra": "Keep mAs constant: 15 × 10 = 150 mAs → 150 ÷ 10 mA = 15 s."
+  },
+  {
+   "id": "rad-p129-t-01",
+   "deck": "Radiology",
+   "section": "Types of intraoral images",
+   "page": 129,
+   "question": "How many images does a full-mouth series (FMX) typically consist of?",
+   "answer": "18",
+   "extra": "14 PAs + 4 BWs"
+  },
+  {
+   "id": "rad-p129-t-02",
+   "deck": "Radiology",
+   "section": "Receptor sizes",
+   "page": 129,
+   "question": "Which intraoral receptor size is used for children (child PA and BW)? (number)",
+   "answer": "0",
+   "extra": ""
+  },
+  {
+   "id": "rad-p129-t-03",
+   "deck": "Radiology",
+   "section": "Receptor sizes",
+   "page": 129,
+   "question": "Which receptor size is used for children and for adult anteriors? (number)",
+   "answer": "1",
+   "extra": "Figure: \"Adult ant. PA\"."
+  },
+  {
+   "id": "rad-p129-t-04",
+   "deck": "Radiology",
+   "section": "Receptor sizes",
+   "page": 129,
+   "question": "Which receptor size is used for adult bitewings and periapicals? (number)",
+   "answer": "2",
+   "extra": "The figure also lists size 2 for child occlusal images."
+  },
+  {
+   "id": "rad-p129-t-05",
+   "deck": "Radiology",
+   "section": "Receptor sizes",
+   "page": 129,
+   "question": "Which receptor size is the longer (extra-long) bitewing, with only one image taken on each side? (number)",
+   "answer": "3",
+   "extra": ""
+  },
+  {
+   "id": "rad-p129-t-06",
+   "deck": "Radiology",
+   "section": "Receptor sizes",
+   "page": 129,
+   "question": "Which receptor size is used for occlusal technique in adults? (number)",
+   "answer": "4",
+   "extra": ""
+  },
+  {
+   "id": "rad-p130-t-01",
+   "deck": "Radiology",
+   "section": "Occlusal techniques",
+   "page": 130,
+   "question": "Vertical angulation for the mandibular occlusal technique? (sign and degrees, e.g. +10)",
+   "answer": "-55",
+   "extra": "Negative 55°"
+  },
+  {
+   "id": "rad-p130-t-02",
+   "deck": "Radiology",
+   "section": "Occlusal techniques",
+   "page": 130,
+   "question": "Vertical angulation for the maxillary occlusal technique? (sign and degrees, e.g. +10)",
+   "answer": "+65",
+   "extra": "Positive 65°"
+  }
+ ],
+ "match": [
+  {
+   "id": "rad-p129-m-01",
+   "deck": "Radiology",
+   "section": "Types of intraoral images",
+   "page": 129,
+   "prompt": "Match each intraoral image to its main use.",
+   "pairs": [
+    [
+     "Periapical",
+     "Periodontal disease, pathology, endo, implants"
+    ],
+    [
+     "Bitewing",
+     "Interproximal caries"
+    ],
+    [
+     "Vertical bitewing",
+     "Early periodontal disease"
+    ],
+    [
+     "Occlusal",
+     "Limited jaw opening"
+    ],
+    [
+     "Full-mouth series",
+     "Comprehensive assessment"
+    ]
+   ]
+  },
+  {
+   "id": "rad-p129-m-02",
+   "deck": "Radiology",
+   "section": "Receptor sizes",
+   "page": 129,
+   "prompt": "Match each receptor size to its use.",
+   "pairs": [
+    [
+     "Size 0",
+     "Child PA and BW"
+    ],
+    [
+     "Size 1",
+     "Adult anterior PA"
+    ],
+    [
+     "Size 2",
+     "Adult PA and BW; child occlusal"
+    ],
+    [
+     "Size 3",
+     "Extra-long BW, one per side"
+    ],
+    [
+     "Size 4",
+     "Adult occlusal"
+    ]
+   ]
+  },
+  {
+   "id": "rad-p131-m-01",
+   "deck": "Radiology",
+   "section": "Occlusal techniques",
+   "page": 131,
+   "prompt": "Match each occlusal projection to where the central ray is directed.",
+   "pairs": [
+    [
+     "Mandibular occlusal (−55°)",
+     "Through the chin"
+    ],
+    [
+     "Maxillary occlusal (+65°)",
+     "Through the tip of the nose"
+    ],
+    [
+     "Cross-sectional maxillary occlusal",
+     "Between the eyebrows"
+    ],
+    [
+     "Cross-sectional mandibular occlusal",
+     "Inferior to the chin"
+    ]
+   ]
+  },
+  {
+   "id": "rad-p132-m-01",
+   "deck": "Radiology",
+   "section": "Technique errors",
+   "page": 132,
+   "prompt": "Match each technique error to its cause.",
+   "pairs": [
+    [
+     "Overlap",
+     "Incorrect horizontal angulation"
+    ],
+    [
+     "Foreshortening",
+     "Too much vertical angulation"
+    ],
+    [
+     "Elongation",
+     "Too little vertical angulation"
+    ],
+    [
+     "Cone cut",
+     "PID not covering the entire sensor"
+    ],
+    [
+     "Double exposure",
+     "Two exposures on one receptor"
+    ]
+   ]
+  },
+  {
+   "id": "rad-p133-m-01",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "prompt": "Match each special imaging technique to its primary use.",
+   "pairs": [
+    [
+     "Cephalometric projection",
+     "Trauma and facial growth"
+    ],
+    [
+     "Lateral jaw exposure",
+     "Posterior mandible"
+    ],
+    [
+     "Water's projection",
+     "Maxillary sinus"
+    ],
+    [
+     "MRI",
+     "Soft tissue / TMJ"
+    ],
+    [
+     "CBCT",
+     "Implant planning (3D)"
+    ],
+    [
+     "Sialography",
+     "Salivary stones and blockages"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "rad-p127-o-01",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "prompt": "Put the steps for solving an inverse-square-law problem in order.",
+   "items": [
+    "Note how much shorter or longer the distance is (e.g., 2× farther → 2)",
+    "Square the number (2² = 4)",
+    "Invert only if the distance increased (→ 1/4 the intensity)"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "rad-p128-s-01",
+   "deck": "Radiology",
+   "section": "Contrast",
+   "page": 128,
+   "prompt": "Sort each item: long-scale or short-scale contrast?",
+   "categories": [
+    [
+     "Long-scale contrast",
+     [
+      "Increased kVp",
+      "Many shades of gray",
+      "Low contrast",
+      "Detecting periodontitis progression"
+     ]
+    ],
+    [
+     "Short-scale contrast",
+     [
+      "Decreased kVp",
+      "Mostly black and white",
+      "High contrast",
+      "Detecting caries"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "rad-p127-mcq-01",
+   "deck": "Radiology",
+   "section": "Maximum permissible dose (MPD)",
+   "page": 127,
+   "question": "A 35-year-old dental hygienist asks what her maximum accumulated lifetime radiation dose is. Which is correct?",
+   "options": [
+    "A. 35 mSv",
+    "B. 50 mSv",
+    "C. 350 mSv",
+    "D. 500 mSv"
+   ],
+   "answer": "C. 350 mSv",
+   "explanation": "Maximum accumulated dose = age × 10 mSv → 35 × 10 = 350 mSv. 50 mSv is the annual occupational MPD, not the lifetime total; 500 mSv would be for a 50-year-old."
+  },
+  {
+   "id": "rad-p127-mcq-02",
+   "deck": "Radiology",
+   "section": "Beam intensity",
+   "page": 127,
+   "question": "A clinician switches from a 16-inch PID to an 8-inch PID without changing exposure settings. What happens to beam intensity at the skin?",
+   "options": [
+    "A. It is halved",
+    "B. It is reduced to 1/4",
+    "C. It doubles",
+    "D. It becomes 4 times greater"
+   ],
+   "answer": "D. It becomes 4 times greater",
+   "explanation": "Inverse square law: distance halved → factor 2, squared = 4; distance DECREASED so do not invert → 4× the intensity. 'Reduced to 1/4' is the answer for going from 8 to 16 inches."
+  },
+  {
+   "id": "rad-p128-mcq-01",
+   "deck": "Radiology",
+   "section": "Sharpness",
+   "page": 128,
+   "question": "Which change would produce the SHARPEST image with the least penumbra?",
+   "options": [
+    "A. Larger focal spot",
+    "B. Longer object-to-receptor distance",
+    "C. Longer source-to-receptor distance",
+    "D. Shorter source-to-receptor distance"
+   ],
+   "answer": "C. Longer source-to-receptor distance",
+   "explanation": "A long tube-to-receptor distance (with a small focal spot and short object–receptor distance) gives the least penumbra. A larger focal spot and longer object–receptor distance both increase blurring."
+  },
+  {
+   "id": "rad-p130-mcq-01",
+   "deck": "Radiology",
+   "section": "Paralleling technique",
+   "page": 130,
+   "question": "Which statement correctly compares the paralleling and bisecting techniques?",
+   "options": [
+    "A. Paralleling places the receptor close to the tooth and uses a short PID",
+    "B. Bisecting aims the central ray perpendicular to the long axis of the tooth",
+    "C. Paralleling produces less distortion; its magnification is offset by a longer tube-to-tooth distance",
+    "D. Bisecting is less affected by the shape of the palate"
+   ],
+   "answer": "C. Paralleling produces less distortion; its magnification is offset by a longer tube-to-tooth distance",
+   "explanation": "Paralleling = receptor parallel to the tooth, beam 90° to both, receptor held farther from the tooth, magnification compensated by longer tube distance. Bisecting aims at 90° to the bisecting line (not the long axis) and is more distorted because of the palate."
+  },
+  {
+   "id": "rad-p131-mcq-01",
+   "deck": "Radiology",
+   "section": "Buccal object rule (SLOB)",
+   "page": 131,
+   "question": "A molar PA shows a radiopaque object near the apex. For a second PA the tube head is shifted mesially, and the object appears to move distally relative to the teeth. Where is the object?",
+   "options": [
+    "A. Lingual to the teeth",
+    "B. Buccal to the teeth",
+    "C. In the same plane as the teeth",
+    "D. Cannot be determined without a third image"
+   ],
+   "answer": "B. Buccal to the teeth",
+   "explanation": "Tube head mesial, object distal = opposite directions → Opposite = Buccal (SLOB). Lingual would require the object to move in the same direction as the tube head."
+  },
+  {
+   "id": "rad-p132-mcq-01",
+   "deck": "Radiology",
+   "section": "Technique errors",
+   "page": 132,
+   "question": "On a maxillary canine PA, the canine looks abnormally long. Which correction should the hygienist make on the retake?",
+   "options": [
+    "A. Decrease the vertical angulation",
+    "B. Increase the vertical angulation",
+    "C. Change the horizontal angulation to pass through the contacts",
+    "D. Reposition the PID to cover the entire sensor"
+   ],
+   "answer": "B. Increase the vertical angulation",
+   "explanation": "An elongated image = too little vertical angulation → increase it. Decreasing vertical angulation corrects foreshortening (tooth too short); horizontal angulation corrects overlap."
+  },
+  {
+   "id": "rad-p133-mcq-01",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "question": "A patient reports swelling under the jaw at mealtimes. The dentist wants to visualize the structure of the salivary ducts and locate an obstruction. Which technique is designed for this?",
+   "options": [
+    "A. Water's projection",
+    "B. Cephalometric projection",
+    "C. Sialography",
+    "D. Lateral jaw exposure"
+   ],
+   "answer": "C. Sialography",
+   "explanation": "Sialography injects contrast medium into the salivary ducts to show their structure and any stones/blockages. Water's shows the maxillary sinuses; cephalometric is a lateral skull view for growth/trauma."
+  },
+  {
+   "id": "rad-p133-mcq-02",
+   "deck": "Radiology",
+   "section": "Special imaging techniques",
+   "page": 133,
+   "question": "Which imaging modality does NOT use X-rays and is best for soft-tissue contrast of the TMJ?",
+   "options": [
+    "A. CBCT",
+    "B. MRI",
+    "C. Panoramic",
+    "D. Cephalometric projection"
+   ],
+   "answer": "B. MRI",
+   "explanation": "MRI uses magnetic fields and radio waves and excels at soft-tissue contrast (e.g. TMJ disc). CBCT gives 3D images but uses X-rays."
+  }
+ ]
+}

@@ -1,11 +1,17 @@
 """Validate one spec file against the authoring rules (schema, ids, sizes, cloze syntax).
-Usage: .tools/.venv/bin/python .tools/anki/validate_spec.py .tools/anki/anatomy/pNNN-NNN.json"""
+Usage: .tools/.venv/bin/python .tools/anki/validate_spec.py .tools/anki/<book>/pNNN-NNN.json"""
 import json, re, sys, glob, collections
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent)); sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from build_deck import BOOKS
 f = sys.argv[1]; d = json.load(open(f)); errs = []; warn = []
-DECKS = {'Head and Neck', 'Dental Anatomy', 'Quizzes'}
+BOOK = BOOKS[Path(f).resolve().parent.name]; DECKS = set(BOOK['decks'])
+def prefixed(i, where):
+    if i and not str(i).startswith(BOOK['prefix'] + '-'): errs.append(f"{where}: id must start with {BOOK['prefix']}-")
 def need(o, keys, where):
     for k in keys:
         if k not in o or o[k] in ('', None, []): errs.append(f'{where}: missing {k}')
+    prefixed(o.get('id', o.get('name')), where)
     if 'deck' in o and o['deck'] not in DECKS: errs.append(f"{where}: bad deck {o['deck']!r}")
 for c in d.get('cloze', []):
     w = f"cloze {c.get('id')}"; need(c, ['id', 'deck', 'page', 'text'], w)
@@ -40,6 +46,9 @@ for q in d.get('mcq', []):
     if q.get('answer') not in q.get('options', []): errs.append(f'{w}: answer must equal one option exactly')
 for g in d.get('diagrams', []):
     need(g, ['name', 'title', 'deck', 'pdf_page', 'crop', 'labels'], f"diagram {g.get('name')}")
+    for l in g.get('labels', []):
+        if not isinstance(l.get('answer'), str) or not isinstance(l.get('key', ''), str):
+            errs.append(f"diagram {g.get('name')}: label answer/key must be text: {l.get('answer')!r} {l.get('key')!r}")
 # ids unique across ALL spec files of the book
 allids = collections.Counter()
 for ff in glob.glob(f.rsplit('/', 1)[0] + '/*.json'):

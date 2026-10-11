@@ -1,0 +1,1650 @@
+{
+ "diagrams": [
+  {
+   "name": "spec-p215-spinal-cord-spina-bifida",
+   "title": "Spinal cord levels and spina bifida",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 15,
+   "page": 215,
+   "crop": [
+    120,
+    1330,
+    1110,
+    1960
+   ],
+   "labels": [
+    {
+     "box": [
+      324,
+      1349,
+      497,
+      1402
+     ],
+     "answer": "Spinal cord",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      810,
+      1353,
+      997,
+      1397
+     ],
+     "answer": "Spina bifida",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      151,
+      1472,
+      255,
+      1508
+     ],
+     "answer": "Cervical",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      143,
+      1584,
+      264,
+      1621
+     ],
+     "answer": "Thoracic",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      153,
+      1696,
+      252,
+      1733
+     ],
+     "answer": "Lumbar",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      918,
+      1889,
+      1075,
+      1926
+     ],
+     "answer": "Meningocele",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p216-mg-als",
+   "title": "Myasthenia gravis and ALS",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 16,
+   "page": 216,
+   "crop": [
+    95,
+    885,
+    1225,
+    1512
+   ],
+   "labels": [
+    {
+     "box": [
+      289,
+      892,
+      560,
+      936
+     ],
+     "answer": "Myasthenia Gravis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      335,
+      962,
+      512,
+      995
+     ],
+     "answer": "Synaptic vesicle",
+     "fit": "none"
+    },
+    {
+     "box": [
+      372,
+      997,
+      452,
+      1030
+     ],
+     "answer": "Nerve",
+     "fit": "none"
+    },
+    {
+     "box": [
+      103,
+      1178,
+      265,
+      1238
+     ],
+     "answer": "Acetylcholine receptor",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      420,
+      1148,
+      580,
+      1184
+     ],
+     "answer": "Acetylcholine",
+     "fit": "none"
+    },
+    {
+     "box": [
+      425,
+      1188,
+      552,
+      1220
+     ],
+     "answer": "Antibodies",
+     "fit": "none"
+    },
+    {
+     "box": [
+      428,
+      1224,
+      635,
+      1262
+     ],
+     "answer": "Blocked receptors",
+     "fit": "none"
+    },
+    {
+     "box": [
+      426,
+      1277,
+      613,
+      1338
+     ],
+     "answer": "Reduced muscle contraction",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      710,
+      893,
+      1214,
+      939
+     ],
+     "answer": "Amyotrophic Lateral Sclerosis (ALS)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1078,
+      997,
+      1160,
+      1031
+     ],
+     "answer": "Nerve",
+     "fit": "bg",
+     "key": "Nerve (2)"
+    },
+    {
+     "box": [
+      1055,
+      1084,
+      1152,
+      1119
+     ],
+     "answer": "Muscle",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      973,
+      1165,
+      1072,
+      1199
+     ],
+     "answer": "Normal",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      975,
+      1277,
+      1084,
+      1339
+     ],
+     "answer": "Affected nerve",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1008,
+      1413,
+      1141,
+      1475
+     ],
+     "answer": "Weakened muscles",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p217-arthritis",
+   "title": "Normal joint, rheumatoid arthritis and osteoarthritis",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 17,
+   "page": 217,
+   "crop": [
+    160,
+    920,
+    1150,
+    1450
+   ],
+   "labels": [
+    {
+     "box": [
+      418,
+      1058,
+      532,
+      1112
+     ],
+     "answer": "Synovial membrane",
+     "fit": "text"
+    },
+    {
+     "box": [
+      418,
+      1123,
+      516,
+      1176
+     ],
+     "answer": "Synovial fluid",
+     "fit": "text"
+    },
+    {
+     "box": [
+      413,
+      1188,
+      518,
+      1216
+     ],
+     "answer": "Cartilage",
+     "fit": "text"
+    },
+    {
+     "box": [
+      430,
+      1224,
+      512,
+      1281
+     ],
+     "answer": "Joint capsule",
+     "fit": "text"
+    },
+    {
+     "box": [
+      755,
+      1105,
+      857,
+      1160
+     ],
+     "answer": "Erosion of bone",
+     "fit": "text"
+    },
+    {
+     "box": [
+      772,
+      1170,
+      860,
+      1223
+     ],
+     "answer": "Bones rubbing",
+     "fit": "text"
+    },
+    {
+     "box": [
+      790,
+      1233,
+      886,
+      1283
+     ],
+     "answer": "Thinned cartilage",
+     "fit": "text"
+    },
+    {
+     "box": [
+      708,
+      1291,
+      924,
+      1353
+     ],
+     "answer": "Inflamed synovial membrane",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      205,
+      1392,
+      395,
+      1436
+     ],
+     "answer": "Normal joint",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      469,
+      1392,
+      837,
+      1437
+     ],
+     "answer": "Rheumatoid Arthritis (RA)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      856,
+      1393,
+      1133,
+      1437
+     ],
+     "answer": "Osteoarthritis (OA)",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p219-celiac",
+   "title": "Celiac disease: normal villi vs villous atrophy",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 19,
+   "page": 219,
+   "crop": [
+    100,
+    160,
+    732,
+    775
+   ],
+   "labels": [
+    {
+     "box": [
+      313,
+      176,
+      520,
+      218
+     ],
+     "answer": "Celiac disease",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      580,
+      470,
+      678,
+      531
+     ],
+     "answer": "Normal villi",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      125,
+      632,
+      237,
+      692
+     ],
+     "answer": "Small intestine",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      622,
+      696,
+      725,
+      757
+     ],
+     "answer": "Villous atrophy",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p220-copd-asthma",
+   "title": "COPD (chronic bronchitis, emphysema) and asthma",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 20,
+   "page": 220,
+   "crop": [
+    110,
+    240,
+    1140,
+    790
+   ],
+   "labels": [
+    {
+     "box": [
+      121,
+      246,
+      768,
+      289
+     ],
+     "answer": "Chronic Obstructive Pulmonary Disease (COPD)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      501,
+      316,
+      711,
+      349
+     ],
+     "answer": "Chronic bronchitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      428,
+      368,
+      536,
+      401
+     ],
+     "answer": "Healthy",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      576,
+      368,
+      764,
+      429
+     ],
+     "answer": "Inflamed with excess mucus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      535,
+      573,
+      662,
+      600
+     ],
+     "answer": "Emphysema",
+     "fit": "text"
+    },
+    {
+     "box": [
+      435,
+      613,
+      533,
+      644
+     ],
+     "answer": "Healthy",
+     "fit": "bg",
+     "key": "Healthy (2)"
+    },
+    {
+     "box": [
+      570,
+      613,
+      757,
+      672
+     ],
+     "answer": "Alveolar damage and air trapping",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      958,
+      248,
+      1083,
+      289
+     ],
+     "answer": "Asthma",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      911,
+      363,
+      1131,
+      421
+     ],
+     "answer": "Inflamed bronchial tube",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      822,
+      480,
+      1022,
+      532
+     ],
+     "answer": "Tightened smooth muscle",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1003,
+      628,
+      1115,
+      670
+     ],
+     "answer": "Swelling",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1003,
+      681,
+      1106,
+      715
+     ],
+     "answer": "Mucus",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "spec-p215-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 215,
+   "text": "{{c1::Agranulocytosis}} is acquired (due to drugs, autoimmune conditions or bone marrow failure), whereas {{c2::cyclic neutropenia}} is caused by a genetic mutation affecting bone marrow regulation."
+  },
+  {
+   "id": "spec-p215-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 215,
+   "text": "Symptoms of agranulocytosis (and, the same, of cyclic neutropenia): {{c1::fever}}, malaise, {{c2::sore throat}}, skin infections and {{c3::oral ulcers}}."
+  },
+  {
+   "id": "spec-p215-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 215,
+   "text": "Oral impact of agranulocytosis: {{c1::ulcerations}}, {{c2::periodontal destruction}} with attachment loss, delayed healing and infections."
+  },
+  {
+   "id": "spec-p215-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 215,
+   "text": "In cyclic neutropenia the oral problems (same as agranulocytosis) {{c1::worsen during the neutropenic phase}} and {{c2::improve when the neutrophil count returns to normal}}."
+  },
+  {
+   "id": "spec-p215-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 215,
+   "text": "Dental care in agranulocytosis: use {{c1::preventive antibiotics}}, gentle hygiene and {{c2::antimicrobial rinses}}; schedule care during {{c3::stable neutrophil periods}}.",
+   "extra": "Why: oral ulcers, rapid attachment loss and gingival breakdown."
+  },
+  {
+   "id": "spec-p215-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 215,
+   "text": "Dental care in cyclic neutropenia: same as agranulocytosis, and {{c1::delay care during low neutrophil counts}}."
+  },
+  {
+   "id": "spec-p215-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 215,
+   "text": "Agranulocytosis and cyclic neutropenia both involve dangerously low levels of {{c1::neutrophils}}, a type of {{c2::white blood cell (granulocyte)}} essential for fighting infection, especially in the oral cavity."
+  },
+  {
+   "id": "spec-p215-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "text": "{{c1::Cerebral palsy}} is a disorder caused by brain development issues before or shortly after birth, affecting {{c2::muscle control and coordination}}."
+  },
+  {
+   "id": "spec-p215-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "text": "Cause of cerebral palsy: brain injury or abnormal development, often {{c1::before birth}} (e.g., {{c2::lack of oxygen}}, infection or trauma)."
+  },
+  {
+   "id": "spec-p215-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "text": "Signs of cerebral palsy: {{c1::involuntary or stiff movements}}, poor balance, and difficulty with posture or coordination."
+  },
+  {
+   "id": "spec-p215-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "text": "Most patients with cerebral palsy have {{c1::normal intelligence}}; learning difficulties may be due to {{c2::vision or hearing impairment}}, not intellectual disability."
+  },
+  {
+   "id": "spec-p215-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "text": "Cerebral palsy, dental: {{c1::drooling}}, a strong {{c2::gag reflex}} and trouble opening the mouth (muscle dysfunction)."
+  },
+  {
+   "id": "spec-p215-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "text": "In cerebral palsy, gingival hyperplasia can result from seizure medications such as {{c1::phenytoin}}."
+  },
+  {
+   "id": "spec-p215-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "text": "Cerebral palsy, dental: {{c1::bruxism}}, attrition, and trauma from falls or uncontrolled movement."
+  },
+  {
+   "id": "spec-p215-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "text": "Cerebral palsy, dental: mouth breathing, {{c1::tongue thrusting}} and {{c2::TMJ}} problems."
+  },
+  {
+   "id": "spec-p215-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "text": "Patients with cerebral palsy are at high risk for {{c1::caries and periodontal disease}} because of difficulty with home care."
+  },
+  {
+   "id": "spec-p215-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 215,
+   "text": "{{c1::Spinal cord injury}}: damage to the spinal cord that results in loss of mobility or function {{c2::below the level of injury}}."
+  },
+  {
+   "id": "spec-p215-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 215,
+   "text": "In spinal cord injury, the {{c1::higher}} the injury, the more severe the paralysis and disability."
+  },
+  {
+   "id": "spec-p216-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 216,
+   "text": "Spinal cord injury at {{c1::C2–C3}}: minimal head/neck movement; the patient depends on a {{c2::ventilator}}."
+  },
+  {
+   "id": "spec-p216-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 216,
+   "text": "Spinal cord injury at C4: arm and leg paralysis; possible {{c1::breathing difficulty}}."
+  },
+  {
+   "id": "spec-p216-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 216,
+   "text": "Spinal cord injury at C5: limited {{c1::shoulder}} control; needs {{c2::adaptive aids}} for oral care."
+  },
+  {
+   "id": "spec-p216-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 216,
+   "text": "Spinal cord injury at C7: functional hand and arm movement; the patient may perform {{c1::self-care}}."
+  },
+  {
+   "id": "spec-p216-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 216,
+   "text": "Spinal cord injury at T1–T12: full {{c1::upper body}} function, increased rib and trunk control; may use a wheelchair or crutches {{c2::independently}}."
+  },
+  {
+   "id": "spec-p216-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 216,
+   "text": "Spinal cord injury, dental: schedule appointments with {{c1::extra time}} for positioning, transfers and comfort; use {{c2::tilting wheelchair-compatible chairs}} when possible."
+  },
+  {
+   "id": "spec-p216-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 216,
+   "text": "Spinal cord injury, dental: encourage {{c1::adaptive oral hygiene aids}} (e.g., floss holders, electric toothbrushes)."
+  },
+  {
+   "id": "spec-p216-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spina bifida",
+   "page": 216,
+   "text": "{{c1::Spina bifida}} is a {{c2::neural tube defect}} in which the spine does not close properly during early pregnancy, leading to incomplete development of the brain or spinal cord."
+  },
+  {
+   "id": "spec-p216-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spina bifida",
+   "page": 216,
+   "text": "Spina bifida is linked to {{c1::folic acid (vitamin B9)}} deficiency during the {{c2::first month}} of pregnancy."
+  },
+  {
+   "id": "spec-p216-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spina bifida",
+   "page": 216,
+   "text": "{{c1::Meningocele}}: the meninges and cerebrospinal fluid protrude through a spinal opening; it can cause {{c2::hydrocephalus}} (excess fluid in the brain)."
+  },
+  {
+   "id": "spec-p216-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spina bifida",
+   "page": 216,
+   "text": "Severity of spina bifida ranges from mild weakness to permanent paralysis, depending on the {{c1::location and type}}."
+  },
+  {
+   "id": "spec-p216-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spina bifida",
+   "page": 216,
+   "text": "Spina bifida, dental: always ask about a {{c1::latex allergy}}; some patients have {{c2::shunts}} or other medical devices."
+  },
+  {
+   "id": "spec-p216-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "text": "Cause of muscular dystrophy: a {{c1::genetic defect}} causing progressive muscle fiber degeneration."
+  },
+  {
+   "id": "spec-p216-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "text": "Cause of ALS (amyotrophic lateral sclerosis): neurodegeneration that kills {{c1::motor neurons}}, not brain cells."
+  },
+  {
+   "id": "spec-p216-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "text": "Cause of multiple sclerosis: autoimmune attack on the {{c1::myelin sheath}} of nerves."
+  },
+  {
+   "id": "spec-p216-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "text": "Cause of myasthenia gravis: autoimmune attack on the {{c1::nerve-muscle connection}} ({{c2::ACh receptors}})."
+  },
+  {
+   "id": "spec-p216-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "text": "Onset of myasthenia gravis is variable — often {{c1::women under 40}} and {{c2::men over 60}}."
+  },
+  {
+   "id": "spec-p216-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "text": "Progression of muscular dystrophy: gradual muscle weakness, starting in the {{c1::lower body}}."
+  },
+  {
+   "id": "spec-p216-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "text": "Progression of ALS: {{c1::rapid}} loss of voluntary muscle control; {{c2::breathing}} becomes affected.",
+   "extra": "Don't be confused: ALS = motor neuron death → progressive paralysis with NO remission; MS = damage to nerve insulation (myelin) → unpredictable flare-ups and remissions. In both the mind remains intact."
+  },
+  {
+   "id": "spec-p216-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "text": "Progression of multiple sclerosis: a {{c1::flare/remission}} pattern with gradual worsening."
+  },
+  {
+   "id": "spec-p216-021",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "text": "In myasthenia gravis weakness fluctuates daily — it {{c1::worsens with exertion}} and {{c2::improves with rest}}."
+  },
+  {
+   "id": "spec-p217-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 217,
+   "text": "Cognition is normal in muscular dystrophy, ALS and myasthenia gravis; in multiple sclerosis it is usually intact but may affect {{c1::focus/memory}}."
+  },
+  {
+   "id": "spec-p217-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 217,
+   "text": "Mobility: in ALS a {{c1::wheelchair}} is often required; in MS it varies — {{c2::cane, walker or wheelchair}} over time."
+  },
+  {
+   "id": "spec-p217-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 217,
+   "text": "In myasthenia gravis, weakness affects walking, {{c1::chewing}}, speaking and {{c2::breathing}}."
+  },
+  {
+   "id": "spec-p217-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 217,
+   "text": "Muscular dystrophy, dental: the patient needs help with oral hygiene; treat in an {{c1::upright/semi-upright}} position."
+  },
+  {
+   "id": "spec-p217-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 217,
+   "text": "ALS, dental: needs help with oral hygiene, treat upright; monitor {{c1::swallowing}} and {{c2::aspiration}}."
+  },
+  {
+   "id": "spec-p217-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 217,
+   "text": "Multiple sclerosis, dental: avoid {{c1::overheating}}; manage {{c2::spasms}}."
+  },
+  {
+   "id": "spec-p217-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 217,
+   "text": "Myasthenia gravis, dental: {{c1::short, morning}} visits; avoid {{c2::fatigue}}; monitor breathing and swallowing."
+  },
+  {
+   "id": "spec-p217-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Marfan syndrome",
+   "page": 217,
+   "text": "{{c1::Marfan syndrome}} is a genetic disorder of the body's {{c2::connective tissue}}, leading to problems with the skeleton, eyes, blood vessels and heart."
+  },
+  {
+   "id": "spec-p217-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Marfan syndrome",
+   "page": 217,
+   "text": "Marfan syndrome is caused by a mutation in genes that control {{c1::fibrillin}}, a protein that helps form elastic fibers in connective tissue."
+  },
+  {
+   "id": "spec-p217-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Marfan syndrome",
+   "page": 217,
+   "text": "Marfan syndrome signs: usually very {{c1::tall and thin}}, with long fingers and flexible joints, and heart complications like {{c2::aortic aneurysm}}."
+  },
+  {
+   "id": "spec-p217-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Marfan syndrome",
+   "page": 217,
+   "text": "Marfan syndrome, dental: {{c1::high-arched palate}}, narrow jaw and crowded teeth increase caries risk; {{c2::malocclusion}} is common and may require orthodontic care."
+  },
+  {
+   "id": "spec-p217-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Marfan syndrome",
+   "page": 217,
+   "text": "Marfan syndrome with heart involvement: consult the physician — antibiotic premedication only if the patient meets the {{c1::AHA 2021}} criteria (e.g., a {{c2::prosthetic/replaced heart valve}}).",
+   "extra": "Exam standard (AHA 2021) beats the book: the book says heart involvement 'may require premedication'. Prophylaxis is only for prosthetic valves or valve-repair material, previous infective endocarditis, certain congenital heart disease, and cardiac transplant with valvulopathy — Marfan syndrome or aortic aneurysm alone is not an indication."
+  },
+  {
+   "id": "spec-p217-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "text": "Rheumatoid arthritis is {{c1::autoimmune}} — it attacks the joint lining ({{c2::synovium}})."
+  },
+  {
+   "id": "spec-p217-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "text": "Osteoarthritis is {{c1::wear and tear}} — breakdown of joint {{c2::cartilage}}."
+  },
+  {
+   "id": "spec-p217-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "text": "Pattern: rheumatoid arthritis is {{c1::symmetrical}} (both sides of the body); osteoarthritis is {{c2::asymmetrical}} (usually one side worsens first)."
+  },
+  {
+   "id": "spec-p217-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "text": "Age of onset: rheumatoid arthritis can begin in {{c1::young adults}}; osteoarthritis usually affects {{c2::older adults}}."
+  },
+  {
+   "id": "spec-p217-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "text": "Inflammation: in rheumatoid arthritis joints are {{c1::warm, swollen and painful}}; osteoarthritis has less inflammation and more {{c2::grinding and stiffness}}."
+  },
+  {
+   "id": "spec-p217-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "text": "Rheumatoid arthritis, dental: TMJ pain; {{c1::aspirin}} → bleeding risk; {{c2::corticosteroids}} → delayed healing and infection risk."
+  },
+  {
+   "id": "spec-p217-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "text": "Osteoarthritis, dental: TMJ {{c1::stiffness}} and limited opening."
+  },
+  {
+   "id": "spec-p217-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "text": "Board Alert: keywords such as seniors, arthritis, mobility issues or muscular disorders → think {{c1::electric toothbrush, power flossers}} and other tools that help someone who cannot use their hands properly for oral hygiene."
+  },
+  {
+   "id": "spec-p218-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "text": "Body weight: anorexia nervosa — {{c1::underweight}} (significantly below the healthy range); bulimia nervosa — often {{c2::normal weight or slightly overweight}}.",
+   "extra": "The book prints the Body Weight row twice in this table."
+  },
+  {
+   "id": "spec-p218-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "text": "Behavior: anorexia — intense fear of gaining weight and {{c1::refusal to eat}}; bulimia — eats large amounts, then {{c2::induces vomiting or uses laxatives}}."
+  },
+  {
+   "id": "spec-p218-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "text": "Oral signs of anorexia nervosa: nutritional deficiency, {{c1::dry mouth}} and {{c2::angular cheilitis}}."
+  },
+  {
+   "id": "spec-p218-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "text": "Oral signs of bulimia nervosa: {{c1::perimylolysis}} (acid erosion on the {{c2::linguals of the maxillary teeth}}), palatal trauma and {{c3::parotid enlargement}}.",
+   "extra": "Book spells it 'perimolysis'. Photo in the book: erosion."
+  },
+  {
+   "id": "spec-p218-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "text": "Common deficiencies: anorexia — iron, calcium, vitamin B, possible {{c1::osteoporosis}}; bulimia — {{c2::electrolyte imbalance}}, low pH, dehydration."
+  },
+  {
+   "id": "spec-p218-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "text": "Anorexia, dental: {{c1::fluoride and remineralization}}; monitor erosion, caries and sensitivity."
+  },
+  {
+   "id": "spec-p218-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "text": "Bulimia, dental: {{c1::avoid brushing right after vomiting}}; use non-acidic rinses; watch for soft tissue trauma and gland swelling; {{c2::refer}} if purging is suspected."
+  },
+  {
+   "id": "spec-p218-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "text": "After vomiting, rinse gently with {{c1::water or a baking soda solution}} to neutralize the acid, because brushing too soon can {{c2::scrub away acid-softened enamel}}."
+  },
+  {
+   "id": "spec-p218-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "text": "GERD: acid from the stomach flows backward into the {{c1::esophagus}}, causing irritation."
+  },
+  {
+   "id": "spec-p218-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "text": "Peptic ulcer disease: open sores that develop in the lining of the {{c1::stomach or duodenum}}."
+  },
+  {
+   "id": "spec-p218-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "text": "Cause of GERD: a weak {{c1::lower esophageal sphincter}}, worsened by spicy foods, caffeine and obesity."
+  },
+  {
+   "id": "spec-p218-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "text": "Cause of peptic ulcer disease: {{c1::Helicobacter pylori}} infection, or {{c2::NSAIDs}} like aspirin or ibuprofen."
+  },
+  {
+   "id": "spec-p218-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "text": "Symptoms: GERD — heartburn, especially {{c1::when lying down}}; peptic ulcer — heartburn, nausea, bloating, sometimes {{c2::vomiting blood}}."
+  },
+  {
+   "id": "spec-p218-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "text": "Oral signs of GERD: enamel erosion on the {{c1::linguals of the maxillary teeth}}, sensitive teeth and bad breath."
+  },
+  {
+   "id": "spec-p218-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "text": "Oral signs of peptic ulcer disease: possible bad breath and {{c1::dry mouth from medication}}."
+  },
+  {
+   "id": "spec-p218-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "text": "GERD, dental: avoid acidic products and rinses; recommend fluoride and remineralization; schedule {{c1::upright}} appointments."
+  },
+  {
+   "id": "spec-p218-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "text": "Peptic ulcer disease, dental: avoid aspirin when possible; expect {{c1::delayed healing}}."
+  },
+  {
+   "id": "spec-p219-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Celiac disease: an autoimmune reaction to {{c1::gluten}} that damages the {{c2::small intestine lining}}."
+  },
+  {
+   "id": "spec-p219-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Crohn's disease: chronic inflammatory disease affecting {{c1::any part of the GI tract}} (mouth to anus).",
+   "extra": "The book's figure on p.219 swaps the two inflammation labels; the table (and this card) are correct."
+  },
+  {
+   "id": "spec-p219-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Ulcerative colitis: chronic inflammation of the {{c1::colon and rectum only}}."
+  },
+  {
+   "id": "spec-p219-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Celiac disease is triggered by gluten in {{c1::wheat, barley and rye}}."
+  },
+  {
+   "id": "spec-p219-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Cause of Crohn's disease: {{c1::unknown}} — likely immune-related with genetic/environmental triggers; ulcerative colitis is similar (immune-mediated, colon-specific inflammation)."
+  },
+  {
+   "id": "spec-p219-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Oral signs of celiac disease: {{c1::glossitis}}, aphthous ulcers and {{c2::enamel defects}}."
+  },
+  {
+   "id": "spec-p219-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Oral signs of Crohn's disease: oral ulcers and a {{c1::cobblestone}} appearance of the buccal mucosa."
+  },
+  {
+   "id": "spec-p219-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Oral signs of ulcerative colitis: oral ulcers and mucosal inflammation, {{c1::less severe}} than in Crohn's."
+  },
+  {
+   "id": "spec-p219-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Symptoms: celiac — diarrhea, bloating, weight loss, {{c1::nutrient malabsorption}}; Crohn's — cramping, diarrhea, weight loss, possible {{c2::perianal disease}}; ulcerative colitis — {{c3::bloody diarrhea}}, urgency, abdominal pain."
+  },
+  {
+   "id": "spec-p219-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Celiac disease, dental: monitor for ulcers and nutrient deficiencies; recommend {{c1::gluten-free}} home care if needed; assess healing and medication impact."
+  },
+  {
+   "id": "spec-p219-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Crohn's disease, dental: watch for ulcers, dehydration, {{c1::steroid use}} and delayed healing; schedule around {{c2::flare-ups}}."
+  },
+  {
+   "id": "spec-p219-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "Ulcerative colitis, dental: similar to Crohn's; assess {{c1::bleeding risk}}, fatigue and healing delay."
+  },
+  {
+   "id": "spec-p219-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "text": "In celiac disease even small amounts of gluten — including in {{c1::toothpaste or mouth rinse}} — can trigger an autoimmune reaction; some contain gluten-derived ingredients used as {{c2::flavoring agents, binders or thickeners}}."
+  },
+  {
+   "id": "spec-p220-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "text": "COPD is a chronic, {{c1::irreversible}} airflow limitation; asthma is a chronic inflammatory airway disease with {{c2::reversible}} obstruction.",
+   "extra": "Progression: COPD = gradual worsening, irreversible; asthma = comes in attacks, generally reversible."
+  },
+  {
+   "id": "spec-p220-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "text": "Cause: COPD — mainly {{c1::smoking}} or long-term exposure to irritants; asthma — triggered by {{c2::allergens}}, stress, cold air or exercise."
+  },
+  {
+   "id": "spec-p220-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "text": "In COPD, long-term exposure damages lung tissue, thickens airways and {{c1::destroys alveoli}} (especially in emphysema), making {{c2::exhalation}} difficult."
+  },
+  {
+   "id": "spec-p220-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "text": "In asthma, inflammation causes airway {{c1::swelling}} and {{c2::constriction of smooth muscles}}; excess mucus can also narrow the airway.",
+   "extra": "Asthma: no structural damage — airway constriction with triggers."
+  },
+  {
+   "id": "spec-p220-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "text": "Symptoms: COPD — persistent cough, sputum, shortness of breath, {{c1::barrel chest}} (emphysema); asthma — {{c2::wheezing}}, tight chest, episodic shortness of breath, coughing."
+  },
+  {
+   "id": "spec-p220-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "text": "Medications: COPD — bronchodilators, steroids, {{c1::oxygen therapy}}; asthma — inhalers (e.g., {{c2::albuterol}}), corticosteroids."
+  },
+  {
+   "id": "spec-p220-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "text": "COPD, dental: avoid {{c1::nitrous oxide}}; upright chair; monitor dry mouth and fatigue; avoid the {{c2::air polisher}}."
+  },
+  {
+   "id": "spec-p220-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "text": "Asthma, dental: avoid {{c1::sulfites}}; the patient brings their {{c2::rescue inhaler}}; short appointments; upright chair."
+  },
+  {
+   "id": "spec-p220-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cystic fibrosis",
+   "page": 220,
+   "text": "{{c1::Cystic fibrosis}} is a genetic disorder causing thick, sticky mucus to build up in the lungs, digestive tract and {{c2::salivary glands}}, leading to respiratory and nutritional problems."
+  },
+  {
+   "id": "spec-p220-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cystic fibrosis",
+   "page": 220,
+   "text": "Cystic fibrosis is caused by an inherited mutation of the {{c1::CFTR}} gene."
+  },
+  {
+   "id": "spec-p220-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cystic fibrosis",
+   "page": 220,
+   "text": "Symptoms of cystic fibrosis: chronic cough, lung infections, {{c1::salty skin}}, poor growth, malabsorption and GI issues."
+  },
+  {
+   "id": "spec-p220-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cystic fibrosis",
+   "page": 220,
+   "text": "Oral signs of cystic fibrosis: {{c1::xerostomia}}, high caries risk, possibly enlarged salivary glands and {{c2::delayed dental development}}."
+  },
+  {
+   "id": "spec-p220-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cystic fibrosis",
+   "page": 220,
+   "text": "Cystic fibrosis, dental: delay care if an {{c1::active respiratory infection}} is present; use precautions to reduce {{c2::aerosol}} exposure; position the chair to support easier breathing."
+  }
+ ],
+ "basic": [
+  {
+   "id": "spec-p216-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spina bifida",
+   "page": 216,
+   "front": "Why do patients with spina bifida often develop a latex allergy?",
+   "back": "They undergo multiple surgeries and medical procedures early in life, exposing them to latex before the immune system is fully developed; repeated contact raises the chance of a severe allergic reaction.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p218-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "GERD & peptic ulcer disease",
+   "page": 218,
+   "front": "Why is aspirin best avoided in patients with active or past peptic ulcers?",
+   "back": "It blocks protective prostaglandins in the stomach lining (worsening or triggering ulcers) and increases the risk of bleeding.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p220-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "front": "\"Blue bloater\" (COPD type)",
+   "back": "Chronic bronchitis — bronchial inflammation + mucus",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"B\" for Bronchitis — Blue, Bloated, Blocked Bronchi."
+  },
+  {
+   "id": "spec-p220-b-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "front": "\"Pink puffer\" (COPD type)",
+   "back": "Emphysema — alveolar damage and air trapping",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "spec-p216-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "question": "Typical age of onset of Duchenne muscular dystrophy (in years)?",
+   "answer": "3–5",
+   "extra": "Muscular dystrophy onset = childhood."
+  },
+  {
+   "id": "spec-p216-t-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "question": "Typical age of onset of ALS (in years)?",
+   "answer": "40–60",
+   "extra": ""
+  },
+  {
+   "id": "spec-p216-t-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "question": "Typical age of onset of multiple sclerosis (decades)?",
+   "answer": "20s–40s",
+   "extra": ""
+  },
+  {
+   "id": "spec-p217-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 217,
+   "question": "Duchenne muscular dystrophy: walking is lost by about what age (years)?",
+   "answer": "12",
+   "extra": ""
+  },
+  {
+   "id": "spec-p218-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "question": "After vomiting, how long should a patient wait before brushing (minutes)?",
+   "answer": "30–60",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "spec-p216-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spinal cord injury",
+   "page": 216,
+   "prompt": "Match each spinal cord injury level to its typical function.",
+   "pairs": [
+    [
+     "C2–C3",
+     "Ventilator-dependent; minimal head/neck movement"
+    ],
+    [
+     "C4",
+     "Arm and leg paralysis; possible breathing difficulty"
+    ],
+    [
+     "C5",
+     "Limited shoulder control; needs adaptive aids"
+    ],
+    [
+     "C7",
+     "Functional hands and arms; may do self-care"
+    ],
+    [
+     "T1–T12",
+     "Full upper body; wheelchair or crutches independently"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p216-m-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 216,
+   "prompt": "Match each disease to its cause.",
+   "pairs": [
+    [
+     "Muscular dystrophy",
+     "Genetic defect: muscle fiber degeneration"
+    ],
+    [
+     "ALS",
+     "Neurodegeneration of motor neurons"
+    ],
+    [
+     "Multiple sclerosis",
+     "Autoimmune attack on myelin sheath"
+    ],
+    [
+     "Myasthenia gravis",
+     "Autoimmune attack on ACh receptors"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p219-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "prompt": "Match each disease to the part of the GI tract it affects.",
+   "pairs": [
+    [
+     "Celiac disease",
+     "Small intestine lining (villi)"
+    ],
+    [
+     "Crohn's disease",
+     "Any part of the GI tract, mouth to anus"
+    ],
+    [
+     "Ulcerative colitis",
+     "Colon and rectum only"
+    ]
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "spec-p217-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "prompt": "Sort these features: rheumatoid arthritis or osteoarthritis?",
+   "categories": [
+    [
+     "Rheumatoid arthritis",
+     [
+      "Autoimmune (synovium)",
+      "Symmetrical",
+      "Can begin in young adults",
+      "Warm, swollen, painful joints"
+     ]
+    ],
+    [
+     "Osteoarthritis",
+     [
+      "Wear and tear (cartilage)",
+      "Asymmetrical",
+      "Usually older adults",
+      "Grinding and stiffness",
+      "TMJ stiffness, limited opening"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "spec-p218-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "prompt": "Sort: anorexia nervosa or bulimia nervosa?",
+   "categories": [
+    [
+     "Anorexia nervosa",
+     [
+      "Underweight",
+      "Refusal to eat",
+      "Angular cheilitis",
+      "Iron, calcium, vitamin B deficiency",
+      "Possible osteoporosis"
+     ]
+    ],
+    [
+     "Bulimia nervosa",
+     [
+      "Normal or slightly overweight weight",
+      "Induced vomiting or laxatives",
+      "Electrolyte imbalance",
+      "Low pH, dehydration"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "spec-p220-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "prompt": "Sort: COPD or asthma?",
+   "categories": [
+    [
+     "COPD",
+     [
+      "Irreversible airflow limitation",
+      "Mainly smoking",
+      "Barrel chest",
+      "Avoid air polisher",
+      "Oxygen therapy"
+     ]
+    ],
+    [
+     "Asthma",
+     [
+      "Reversible obstruction",
+      "Allergens, cold air, exercise",
+      "Wheezing, episodic",
+      "Bring rescue inhaler",
+      "Albuterol"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "spec-p215-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Neutrophil disorders",
+   "page": 215,
+   "question": "A patient with cyclic neutropenia needs scaling and root planing. Which plan is best?",
+   "options": [
+    "A. Treat at the low point of the neutrophil cycle, when gingival symptoms are most obvious",
+    "B. Schedule treatment when the neutrophil count has returned to normal",
+    "C. Treat at any time, because cyclic neutropenia does not affect the mouth",
+    "D. Avoid all antimicrobial rinses during treatment"
+   ],
+   "answer": "B. Schedule treatment when the neutrophil count has returned to normal",
+   "explanation": "Cyclic neutropenia: oral problems worsen in the neutropenic phase, so care is delayed during low neutrophil counts and done when counts are normal. A is the opposite: infection risk is highest at the low point."
+  },
+  {
+   "id": "spec-p215-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cerebral palsy",
+   "page": 215,
+   "question": "All of the following are typical dental findings in a patient with cerebral palsy EXCEPT:",
+   "options": [
+    "A. Drooling",
+    "B. Gingival hyperplasia from phenytoin",
+    "C. Bruxism and attrition",
+    "D. A diminished gag reflex"
+   ],
+   "answer": "D. A diminished gag reflex",
+   "explanation": "The book lists a STRONG gag reflex (with drooling and trouble opening the mouth) in cerebral palsy. Phenytoin-induced gingival hyperplasia is typical because many patients take seizure medication."
+  },
+  {
+   "id": "spec-p216-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Spina bifida",
+   "page": 216,
+   "question": "A 14-year-old with spina bifida and a ventriculoperitoneal shunt arrives for a prophylaxis. Which question is MOST important at the medical history review?",
+   "options": [
+    "A. Is there a history of latex allergy?",
+    "B. Is there a family history of cyclic neutropenia?",
+    "C. Does the patient grind their teeth at night?",
+    "D. Does the patient take phenytoin?"
+   ],
+   "answer": "A. Is there a history of latex allergy?",
+   "explanation": "Latex allergy is common in spina bifida (many early surgeries mean early, repeated latex exposure) and can cause a severe reaction, so always ask. Phenytoin is a cerebral palsy/seizure concern, not specific to spina bifida."
+  },
+  {
+   "id": "spec-p217-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Muscular dystrophy, ALS, MS, myasthenia gravis",
+   "page": 217,
+   "question": "A patient says her jaw muscles tire while chewing, the weakness gets worse as the day goes on, and it improves after rest. Which appointment plan is MOST appropriate?",
+   "options": [
+    "A. Short morning appointments, avoiding fatigue",
+    "B. Long late-afternoon appointments to complete all treatment at once",
+    "C. Keep the operatory warm and the patient supine",
+    "D. No modification; cognition is normal so no special care is needed"
+   ],
+   "answer": "A. Short morning appointments, avoiding fatigue",
+   "explanation": "Weakness that worsens with exertion and improves with rest = myasthenia gravis; schedule short morning visits, avoid fatigue, and monitor breathing and swallowing. Long afternoon visits catch the patient at her weakest."
+  },
+  {
+   "id": "spec-p217-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arthritis",
+   "page": 217,
+   "question": "A 35-year-old woman has warm, swollen, painful joints on both hands and takes daily aspirin and a corticosteroid. Which dental consideration is MOST important?",
+   "options": [
+    "A. Increased bleeding risk and delayed healing/infection risk",
+    "B. Severe TMJ stiffness from cartilage wear",
+    "C. Perimylolysis from acid exposure",
+    "D. Latex allergy from early surgeries"
+   ],
+   "answer": "A. Increased bleeding risk and delayed healing/infection risk",
+   "explanation": "Symmetrical, inflamed joints in a young adult = rheumatoid arthritis; aspirin raises bleeding risk and corticosteroids delay healing and raise infection risk. TMJ stiffness from cartilage wear describes osteoarthritis."
+  },
+  {
+   "id": "spec-p218-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Anorexia & bulimia nervosa",
+   "page": 218,
+   "question": "A 19-year-old of normal weight has smooth erosion on the lingual surfaces of the maxillary teeth, palatal trauma and bilateral parotid enlargement. Which condition is MOST likely?",
+   "options": [
+    "A. Bulimia nervosa",
+    "B. Anorexia nervosa",
+    "C. GERD",
+    "D. Peptic ulcer disease"
+   ],
+   "answer": "A. Bulimia nervosa",
+   "explanation": "Perimylolysis + palatal trauma + parotid enlargement in a normal-weight patient = bulimia. GERD also erodes maxillary linguals but does not cause parotid enlargement; anorexia patients are underweight."
+  },
+  {
+   "id": "spec-p219-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Celiac disease, Crohn's disease, ulcerative colitis",
+   "page": 219,
+   "question": "A patient has cobblestone-like buccal mucosa, oral ulcers, cramping, weight loss and perianal disease. Which condition is MOST likely?",
+   "options": [
+    "A. Crohn's disease",
+    "B. Ulcerative colitis",
+    "C. Celiac disease",
+    "D. Peptic ulcer disease"
+   ],
+   "answer": "A. Crohn's disease",
+   "explanation": "Cobblestone buccal mucosa and perianal disease point to Crohn's, which can affect any part of the GI tract. Ulcerative colitis is limited to the colon and rectum and its oral signs are milder."
+  },
+  {
+   "id": "spec-p220-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "COPD & asthma",
+   "page": 220,
+   "question": "A 68-year-old long-time smoker with emphysema, barrel chest and chronic shortness of breath needs periodontal debridement. Which is contraindicated?",
+   "options": [
+    "A. Nitrous oxide sedation",
+    "B. Seating the patient upright",
+    "C. Monitoring for dry mouth and fatigue",
+    "D. Using hand instruments instead of the air polisher"
+   ],
+   "answer": "A. Nitrous oxide sedation",
+   "explanation": "The book lists avoiding nitrous oxide (with upright positioning and avoiding the air polisher) for COPD. B, C and D are the recommended modifications."
+  }
+ ]
+}

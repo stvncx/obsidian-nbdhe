@@ -1,0 +1,2138 @@
+{
+ "diagrams": [
+  {
+   "name": "emb-p186-tongue-development",
+   "title": "Development of the tongue",
+   "deck": "Embryology & Histology",
+   "pdf_page": 8,
+   "page": 186,
+   "crop": [
+    95,
+    200,
+    1240,
+    750
+   ],
+   "labels": [
+    {
+     "box": [
+      825,
+      256,
+      1206,
+      340
+     ],
+     "answer": "Anterior 2/3 of tongue — general sensation by lingual nerve, taste by chorda tympani",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      197,
+      291,
+      454,
+      328
+     ],
+     "answer": "Lateral lingual swelling",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      488,
+      292,
+      698,
+      329
+     ],
+     "answer": "Tuberculum impar",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      119,
+      359,
+      342,
+      419
+     ],
+     "answer": "1st pharyngeal arch — mandibular nerve",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      109,
+      440,
+      342,
+      498
+     ],
+     "answer": "2nd pharyngeal arch — facial nerve",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      869,
+      491,
+      1213,
+      576
+     ],
+     "answer": "Posterior 1/3 of tongue — general and taste sensation by glossopharyngeal nerve",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      594,
+      503,
+      707,
+      562
+     ],
+     "answer": "Foramen cecum",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      149,
+      552,
+      418,
+      612
+     ],
+     "answer": "3rd pharyngeal arch — glossopharyngeal nerve",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      576,
+      574,
+      726,
+      634
+     ],
+     "answer": "Hypobranchial eminence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      224,
+      628,
+      452,
+      687
+     ],
+     "answer": "4th pharyngeal arch — vagus nerve",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      830,
+      624,
+      1176,
+      709
+     ],
+     "answer": "Posterior-most part of tongue — general and taste sensation by vagus nerve",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p186-tooth-dev-structures",
+   "title": "Development of the tooth — structures",
+   "deck": "Embryology & Histology",
+   "pdf_page": 8,
+   "page": 186,
+   "crop": [
+    90,
+    1375,
+    1240,
+    1915
+   ],
+   "labels": [
+    {
+     "box": [
+      872,
+      1435,
+      965,
+      1468
+     ],
+     "answer": "Enamel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      103,
+      1482,
+      229,
+      1515
+     ],
+     "answer": "Epithelium",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      247,
+      1483,
+      350,
+      1544
+     ],
+     "answer": "Dental placode",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      522,
+      1495,
+      662,
+      1530
+     ],
+     "answer": "Enamel knot",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      688,
+      1496,
+      832,
+      1531
+     ],
+     "answer": "Enamel knot",
+     "fit": "bg",
+     "key": "Enamel knot (2)"
+    },
+    {
+     "box": [
+      944,
+      1483,
+      1028,
+      1516
+     ],
+     "answer": "Dentin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      96,
+      1643,
+      248,
+      1677
+     ],
+     "answer": "Mesenchyme",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      357,
+      1698,
+      502,
+      1757
+     ],
+     "answer": "Dental mesenchyme",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      538,
+      1697,
+      623,
+      1756
+     ],
+     "answer": "Dental papilla",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      663,
+      1698,
+      792,
+      1732
+     ],
+     "answer": "Ameloblast",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      708,
+      1738,
+      848,
+      1772
+     ],
+     "answer": "Odontoblast",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      980,
+      1678,
+      1045,
+      1712
+     ],
+     "answer": "Root",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      926,
+      1713,
+      988,
+      1742
+     ],
+     "answer": "Pulp",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1117,
+      1722,
+      1184,
+      1754
+     ],
+     "answer": "Bone",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p186-tooth-dev-stages",
+   "title": "Development of the tooth — stages and timeline",
+   "deck": "Embryology & Histology",
+   "pdf_page": 8,
+   "page": 186,
+   "crop": [
+    90,
+    1375,
+    1240,
+    1915
+   ],
+   "labels": [
+    {
+     "box": [
+      170,
+      1775,
+      295,
+      1815
+     ],
+     "answer": "Initiation",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      392,
+      1775,
+      459,
+      1814
+     ],
+     "answer": "Bud",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      547,
+      1776,
+      611,
+      1814
+     ],
+     "answer": "Cap",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      718,
+      1775,
+      788,
+      1813
+     ],
+     "answer": "Bell",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      840,
+      1775,
+      1166,
+      1813
+     ],
+     "answer": "Apposition and maturation",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      165,
+      1817,
+      296,
+      1856
+     ],
+     "answer": "6–7 weeks",
+     "fit": "none"
+    },
+    {
+     "box": [
+      374,
+      1817,
+      480,
+      1856
+     ],
+     "answer": "8 weeks",
+     "fit": "none"
+    },
+    {
+     "box": [
+      512,
+      1817,
+      655,
+      1856
+     ],
+     "answer": "9–10 weeks",
+     "fit": "none"
+    },
+    {
+     "box": [
+      682,
+      1817,
+      840,
+      1856
+     ],
+     "answer": "11–12 weeks",
+     "fit": "none"
+    },
+    {
+     "box": [
+      893,
+      1817,
+      1152,
+      1856
+     ],
+     "answer": "Varies for each tooth",
+     "fit": "none"
+    },
+    {
+     "box": [
+      328,
+      1860,
+      529,
+      1899
+     ],
+     "answer": "Morphogenesis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      636,
+      1860,
+      875,
+      1899
+     ],
+     "answer": "Cell differentiation",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      909,
+      1861,
+      1122,
+      1900
+     ],
+     "answer": "Matrix secretion",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p187-enamel-organ-layers",
+   "title": "Development of tooth layers (secretory and maturation stages)",
+   "deck": "Embryology & Histology",
+   "pdf_page": 9,
+   "page": 187,
+   "crop": [
+    60,
+    1020,
+    1100,
+    1712
+   ],
+   "labels": [
+    {
+     "box": [
+      490,
+      1034,
+      672,
+      1063
+     ],
+     "answer": "Connective tissue",
+     "fit": "none"
+    },
+    {
+     "box": [
+      508,
+      1104,
+      660,
+      1160
+     ],
+     "answer": "Outer enamel epithelium",
+     "fit": "none"
+    },
+    {
+     "box": [
+      489,
+      1175,
+      670,
+      1205
+     ],
+     "answer": "Stellate reticulum",
+     "fit": "none"
+    },
+    {
+     "box": [
+      508,
+      1219,
+      646,
+      1275
+     ],
+     "answer": "Stratum intermedium",
+     "fit": "none"
+    },
+    {
+     "box": [
+      500,
+      1294,
+      652,
+      1326
+     ],
+     "answer": "Papillary layer",
+     "fit": "none"
+    },
+    {
+     "box": [
+      505,
+      1365,
+      648,
+      1396
+     ],
+     "answer": "Blood vessels",
+     "fit": "none"
+    },
+    {
+     "box": [
+      512,
+      1457,
+      641,
+      1489
+     ],
+     "answer": "Ameloblasts",
+     "fit": "none"
+    },
+    {
+     "box": [
+      482,
+      1555,
+      669,
+      1589
+     ],
+     "answer": "Tomes' processes",
+     "fit": "none"
+    },
+    {
+     "box": [
+      500,
+      1609,
+      650,
+      1668
+     ],
+     "answer": "Enamel and enamel space",
+     "fit": "none"
+    },
+    {
+     "box": [
+      166,
+      1673,
+      347,
+      1705
+     ],
+     "answer": "Secretory stage",
+     "fit": "none"
+    },
+    {
+     "box": [
+      803,
+      1676,
+      997,
+      1709
+     ],
+     "answer": "Maturation stage",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "emb-p189-lines-in-enamel",
+   "title": "Lines in enamel",
+   "deck": "Embryology & Histology",
+   "pdf_page": 11,
+   "page": 189,
+   "crop": [
+    85,
+    180,
+    1225,
+    700
+   ],
+   "labels": [
+    {
+     "box": [
+      391,
+      189,
+      569,
+      246
+     ],
+     "answer": "Dentin with dentinal tubules",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      704,
+      192,
+      814,
+      269
+     ],
+     "answer": "Neonatal line",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1046,
+      253,
+      1149,
+      310
+     ],
+     "answer": "Enamel lamellae",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      425,
+      257,
+      558,
+      292
+     ],
+     "answer": "Enamel tuft",
+     "fit": "none"
+    },
+    {
+     "box": [
+      443,
+      296,
+      540,
+      357
+     ],
+     "answer": "Enamel spindle",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      193,
+      360,
+      283,
+      394
+     ],
+     "answer": "Enamel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1023,
+      359,
+      1195,
+      413
+     ],
+     "answer": "Dentinoenamel junction",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1031,
+      414,
+      1117,
+      448
+     ],
+     "answer": "Dentin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      570,
+      454,
+      816,
+      491
+     ],
+     "answer": "Hunter-Schreger bands",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      921,
+      464,
+      1065,
+      498
+     ],
+     "answer": "Enamel rods",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      239,
+      466,
+      409,
+      502
+     ],
+     "answer": "Lines of Retzius",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      88,
+      530,
+      238,
+      570
+     ],
+     "answer": "Perikymata",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      181,
+      650,
+      284,
+      687
+     ],
+     "answer": "External",
+     "fit": "none"
+    },
+    {
+     "box": [
+      383,
+      650,
+      484,
+      687
+     ],
+     "answer": "Internal",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "emb-p189-dentinal-tubules",
+   "title": "Dentin: tubules and odontoblasts",
+   "deck": "Embryology & Histology",
+   "pdf_page": 11,
+   "page": 189,
+   "crop": [
+    515,
+    975,
+    1215,
+    1490
+   ],
+   "labels": [
+    {
+     "box": [
+      942,
+      1060,
+      1067,
+      1105
+     ],
+     "answer": "Enamel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      934,
+      1202,
+      1182,
+      1248
+     ],
+     "answer": "Dentinal tubules",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      944,
+      1328,
+      1152,
+      1373
+     ],
+     "answer": "Odontoblasts",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p190-dentinal-lines",
+   "title": "Dentinal lines",
+   "deck": "Embryology & Histology",
+   "pdf_page": 12,
+   "page": 190,
+   "crop": [
+    95,
+    205,
+    1245,
+    725
+   ],
+   "labels": [
+    {
+     "box": [
+      103,
+      239,
+      447,
+      345
+     ],
+     "answer": "Imbrication lines of von Ebner",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      921,
+      213,
+      1216,
+      277
+     ],
+     "answer": "Lines of Owen",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      461,
+      320,
+      956,
+      390
+     ],
+     "answer": "Granular layer of Tomes",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      843,
+      450,
+      927,
+      480
+     ],
+     "answer": "Dentin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      643,
+      516,
+      688,
+      544
+     ],
+     "answer": "CEJ",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      828,
+      588,
+      918,
+      620
+     ],
+     "answer": "Enamel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      448,
+      620,
+      572,
+      652
+     ],
+     "answer": "Cementum",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p190-dentin-types",
+   "title": "Types of dentin (tooth section)",
+   "deck": "Embryology & Histology",
+   "pdf_page": 12,
+   "page": 190,
+   "crop": [
+    705,
+    1520,
+    1225,
+    2085
+   ],
+   "labels": [
+    {
+     "box": [
+      738,
+      1528,
+      858,
+      1572
+     ],
+     "answer": "Enamel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      742,
+      1590,
+      948,
+      1634
+     ],
+     "answer": "Mantle dentin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      749,
+      1653,
+      944,
+      1728
+     ],
+     "answer": "Circumpulpal dentin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      746,
+      1743,
+      947,
+      1787
+     ],
+     "answer": "Tertiary dentin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      763,
+      1821,
+      1007,
+      1866
+     ],
+     "answer": "Secondary dentin",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p191-tooth-germ-origins",
+   "title": "Tooth germ: germ-layer origins of the tissues",
+   "deck": "Embryology & Histology",
+   "pdf_page": 13,
+   "page": 191,
+   "crop": [
+    80,
+    1140,
+    1220,
+    1720
+   ],
+   "labels": [
+    {
+     "box": [
+      104,
+      1223,
+      334,
+      1291
+     ],
+     "answer": "Ectoderm",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      838,
+      1227,
+      1090,
+      1294
+     ],
+     "answer": "Epithelium",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      822,
+      1309,
+      1006,
+      1377
+     ],
+     "answer": "Enamel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      87,
+      1464,
+      341,
+      1532
+     ],
+     "answer": "Mesoderm",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      834,
+      1460,
+      978,
+      1506
+     ],
+     "answer": "Dentin",
+     "fit": "none"
+    },
+    {
+     "box": [
+      834,
+      1508,
+      950,
+      1552
+     ],
+     "answer": "Pulp",
+     "fit": "none"
+    },
+    {
+     "box": [
+      834,
+      1555,
+      1048,
+      1599
+     ],
+     "answer": "Dental sac",
+     "fit": "none"
+    },
+    {
+     "box": [
+      834,
+      1601,
+      1118,
+      1646
+     ],
+     "answer": "Alveolar bone",
+     "fit": "none"
+    },
+    {
+     "box": [
+      834,
+      1648,
+      1106,
+      1694
+     ],
+     "answer": "Mesenchyme",
+     "fit": "none"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "emb-p186-001",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "text": "The tongue is formed by the first {{c1::four}} paired {{c2::pharyngeal}} arches.",
+   "extra": "Did you know? Tongue prints are as unique as fingerprints."
+  },
+  {
+   "id": "emb-p186-002",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "text": "The body (front) of the tongue develops from the {{c1::first}} paired pharyngeal arches; the base (back) develops from the {{c2::second, third, and fourth}} paired arches."
+  },
+  {
+   "id": "emb-p186-003",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "text": "The lateral lingual swellings and the tuberculum impar form the {{c1::anterior 2/3}} of the tongue."
+  },
+  {
+   "id": "emb-p186-004",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "text": "The {{c1::copula}} swellings form the base of the tongue."
+  },
+  {
+   "id": "emb-p186-005",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "text": "The {{c1::sulcus terminalis}} is the area toward the back of the tongue where the body and the base of the tongue fuse together."
+  },
+  {
+   "id": "emb-p186-006",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "text": "The {{c1::thyroid gland}} forms originally around the tongue and migrates down the neck; if it is trapped on the tongue it forms a {{c2::lingual thyroid}}."
+  },
+  {
+   "id": "emb-p186-007",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "text": "Severe ankyloglossia can cause {{c1::speech}} problems, and surgery to \"untie\" the tongue may be needed."
+  },
+  {
+   "id": "emb-p186-008",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "text": "Ankyloglossia can cause {{c1::gingival recession}} in the area of pulling (the {{c2::mandibular anterior lingual}} surfaces)."
+  },
+  {
+   "id": "emb-p187-001",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "Initiation stage: the {{c1::oral epithelium}} grows into the ectomesenchyme, forming the {{c2::dental lamina}}."
+  },
+  {
+   "id": "emb-p187-002",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "Bud stage: cells {{c1::condense}} to develop into a {{c2::tooth germ}}."
+  },
+  {
+   "id": "emb-p187-003",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "In the cap stage a 3-part structure appears: the enamel organ → future {{c1::enamel}}; the dental papilla → future {{c2::dentin and pulp}}; the dental sac (follicle) → future {{c3::PDL, cementum, and alveolar bone}}."
+  },
+  {
+   "id": "emb-p187-004",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "In the cap stage, cells begin to {{c1::organize}} but have not yet {{c2::differentiated}}."
+  },
+  {
+   "id": "emb-p187-005",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "In the bell stage (cytodifferentiation begins), the inner enamel epithelium becomes {{c1::ameloblasts}} (→ enamel) and the peripheral dental papilla cells become {{c2::odontoblasts}} (→ dentin)."
+  },
+  {
+   "id": "emb-p187-006",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "In the bell stage, dental sac cells begin pre-programming into {{c1::cementoblasts}} (and other cells) for later."
+  },
+  {
+   "id": "emb-p187-007",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "The {{c1::final shape of the crown}} is determined in the {{c2::bell}} stage."
+  },
+  {
+   "id": "emb-p187-008",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "In the apposition stage, {{c1::odontoblasts}} lay down {{c2::predentin}} first; then {{c3::ameloblasts}} lay down enamel on top (moving outward).",
+   "extra": "Same rule in the Enamel section: odontoblasts produce predentin before ameloblasts produce enamel."
+  },
+  {
+   "id": "emb-p187-009",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "In the apposition stage, {{c1::cementoblasts}} begin to form cementum at the root surface, and the {{c2::PDL and alveolar bone}} start to form from the dental sac."
+  },
+  {
+   "id": "emb-p187-010",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "Maturation stage: {{c1::mineralization}} of all layers — dentin and enamel calcify with {{c2::hydroxyapatite}}."
+  },
+  {
+   "id": "emb-p187-011",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "text": "In the maturation stage, cementum continues forming and {{c1::PDL fibers}} attach to cementum and bone; the final structures are strengthened and functional."
+  },
+  {
+   "id": "emb-p187-012",
+   "deck": "Embryology & Histology",
+   "section": "Tissue formation summary",
+   "page": 187,
+   "text": "Dentin forms in bell → apposition → maturation: {{c1::odontoblasts}} from the {{c2::dental papilla}} secrete predentin, which mineralizes into dentin."
+  },
+  {
+   "id": "emb-p187-013",
+   "deck": "Embryology & Histology",
+   "section": "Tissue formation summary",
+   "page": 187,
+   "text": "Enamel forms in bell (after dentin) → apposition → maturation: ameloblasts from the {{c1::inner enamel epithelium}} lay down enamel matrix {{c2::after dentin}} is formed."
+  },
+  {
+   "id": "emb-p187-014",
+   "deck": "Embryology & Histology",
+   "section": "Tissue formation summary",
+   "page": 187,
+   "text": "Cementum forms in apposition (root phase) → maturation: {{c1::HERS}} disintegrates → dental sac cells become cementoblasts → secrete {{c2::cementoid}} → mineralize."
+  },
+  {
+   "id": "emb-p188-001",
+   "deck": "Embryology & Histology",
+   "section": "Tissue formation summary",
+   "page": 188,
+   "text": "The PDL forms in apposition → maturation (the {{c1::eruption}} phase): dental sac cells differentiate into {{c2::fibroblasts}}, which form collagen fibers that insert into cementum and bone."
+  },
+  {
+   "id": "emb-p188-002",
+   "deck": "Embryology & Histology",
+   "section": "Tissue formation summary",
+   "page": 188,
+   "text": "Alveolar bone: dental sac cells become {{c1::osteoblasts}}, which form bone around the developing root; the bone {{c2::remodels throughout life}} with function."
+  },
+  {
+   "id": "emb-p188-003",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "{{c1::Amelogenesis}} is the production of enamel; {{c2::ameloblasts}} are the cells that form enamel."
+  },
+  {
+   "id": "emb-p188-004",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "{{c1::Tomes' process}} extends from ameloblasts at the DEJ, shaping enamel rods as enamel is laid over dentin."
+  },
+  {
+   "id": "emb-p188-005",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "Once enamel formation is complete, Tomes' process {{c1::disappears}}, and the {{c2::DEJ}} remains as the strong boundary between enamel and dentin."
+  },
+  {
+   "id": "emb-p188-006",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "The outer enamel epithelium is the protective outer layer of the enamel organ; it maintains {{c1::shape and nutrient transfer}}."
+  },
+  {
+   "id": "emb-p188-007",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "After enamel formation, the outer enamel epithelium collapses and fuses with the other layers to form the {{c1::reduced enamel epithelium (REE)}}."
+  },
+  {
+   "id": "emb-p188-008",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "Damage to the outer enamel epithelium may affect enamel mineralization or the {{c1::eruption pathway}}."
+  },
+  {
+   "id": "emb-p188-009",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "The inner enamel epithelium differentiates into ameloblasts, which form enamel from the {{c1::DEJ outward}}."
+  },
+  {
+   "id": "emb-p188-010",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "After eruption the ameloblasts disappear, so enamel has no vital cells and {{c1::cannot be repaired (no regeneration)}}."
+  },
+  {
+   "id": "emb-p188-011",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "Fever, trauma, or genetics can disrupt ameloblasts (inner enamel epithelium), causing {{c1::enamel hypoplasia}} or {{c2::amelogenesis imperfecta}}."
+  },
+  {
+   "id": "emb-p188-012",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "The {{c1::stratum intermedium}} supports and nourishes ameloblasts and is essential for enamel {{c2::mineralization}}."
+  },
+  {
+   "id": "emb-p188-013",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "The stratum intermedium fuses into the REE and is {{c1::lost before eruption}}."
+  },
+  {
+   "id": "emb-p188-014",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "Disruption of the stratum intermedium can impair enamel hardening ({{c1::hypocalcification}})."
+  },
+  {
+   "id": "emb-p188-015",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "The {{c1::stellate reticulum}} cushions and supports the inner layers and maintains {{c2::space and hydration}} for cell function; it also collapses and becomes part of the REE."
+  },
+  {
+   "id": "emb-p188-016",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "Early collapse of the stellate reticulum may reduce enamel {{c1::thickness}} or affect {{c2::rod structure}}."
+  },
+  {
+   "id": "emb-p188-017",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "The basic unit of enamel is the {{c1::enamel rod (prism)}}, which is shaped like a {{c2::fish (head and tail)}}."
+  },
+  {
+   "id": "emb-p188-018",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "Enamel rods (prisms) run from the {{c1::DEJ}} to the {{c2::enamel surface}}."
+  },
+  {
+   "id": "emb-p188-019",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "Once erupted, enamel continues to mineralize through {{c1::fluoride and calcium}} uptake from the oral environment; fluoride creates {{c2::fluorapatite}} from existing hydroxyapatite."
+  },
+  {
+   "id": "emb-p188-020",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "text": "Enamel does not cover the {{c1::root}} surfaces; it is only on the crown."
+  },
+  {
+   "id": "emb-p188-021",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "text": "{{c1::Hunter-Schreger bands}} are light/dark bands perpendicular to the DEJ, caused by the curvature and changing direction of enamel rods and seen in {{c2::reflected light}}."
+  },
+  {
+   "id": "emb-p188-022",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "text": "The {{c1::lines of Retzius}} are dark incremental growth lines in enamel, like rings in a tree, representing rhythmic enamel deposition."
+  },
+  {
+   "id": "emb-p188-023",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "text": "{{c1::Perikymata}} are surface grooves formed by the ends of the Retzius lines (their surface expression)."
+  },
+  {
+   "id": "emb-p188-024",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "text": "Perikymata are visible on {{c1::newly erupted}} teeth and fade with {{c2::age and wear}}."
+  },
+  {
+   "id": "emb-p188-025",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "text": "The {{c1::neonatal line}} is a pronounced dark line in enamel (and dentin) formed at birth, reflecting disrupted ameloblast activity due to birth trauma."
+  },
+  {
+   "id": "emb-p188-026",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "text": "{{c1::Enamel spindles}} are short, linear extensions from dentin crossing the DEJ into enamel, caused by trapped {{c2::odontoblast processes}}."
+  },
+  {
+   "id": "emb-p188-027",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "text": "{{c1::Enamel tufts}} are brush-like areas of hypomineralized enamel at the DEJ, caused by abrupt changes in rod orientation; they are {{c2::not pathological}}."
+  },
+  {
+   "id": "emb-p188-028",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "text": "{{c1::Enamel lamellae}} are long cracks or defects running from the enamel surface toward the DEJ, caused by stress, trauma, or incomplete mineralization."
+  },
+  {
+   "id": "emb-p189-001",
+   "deck": "Embryology & Histology",
+   "section": "Dental papilla vs dental sac",
+   "page": 189,
+   "text": "The dental papilla is the {{c1::inner}} part of the tooth germ; the dental sac (dental follicle) is the {{c2::outer}} layer surrounding the tooth germ.",
+   "extra": "Don't be confused: the papilla builds the tooth itself (inside stuff); the sac builds the surrounding support system."
+  },
+  {
+   "id": "emb-p189-002",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "text": "Dentin forms the {{c1::bulk}} of the tooth and is present in both the {{c2::crown and root}}."
+  },
+  {
+   "id": "emb-p189-003",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "text": "{{c1::Dentinogenesis}} is the production of dentin; {{c2::odontoblasts}} are the cells that form dentin."
+  },
+  {
+   "id": "emb-p189-004",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "text": "The dental papilla forms the dentin and pulp on the {{c1::concave}} side (the area inside the arch); it is an {{c2::ectomesenchymal}} product."
+  },
+  {
+   "id": "emb-p189-005",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "text": "{{c1::Preameloblasts}} initiate the differentiation of odontoblasts along the DEJ."
+  },
+  {
+   "id": "emb-p189-006",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "text": "Odontoblasts elongate and travel toward the {{c1::pulp}}, depositing {{c2::predentin}}, which eventually calcifies."
+  },
+  {
+   "id": "emb-p189-007",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "text": "Dentinal tubules extend from the {{c1::DEJ}} in the crown, or the {{c2::DCJ (dentinocemental junction)}} in the root, to the outer wall of the pulp."
+  },
+  {
+   "id": "emb-p189-008",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "text": "Unlike enamel, dentin {{c1::stays vital}} throughout the life of the tooth because the odontoblasts' bodies remain alive along the {{c2::outer pulpal wall}}."
+  },
+  {
+   "id": "emb-p189-009",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "text": "Dentin is {{c1::yellow}} in appearance and is {{c2::less}} resistant to wear and acid attacks than enamel."
+  },
+  {
+   "id": "emb-p189-010",
+   "deck": "Embryology & Histology",
+   "section": "Dentinal lines",
+   "page": 189,
+   "text": "The {{c1::imbrication lines of von Ebner}} are incremental lines of {{c2::daily}} growth within the dentin.",
+   "extra": "Like enamel, dentin shows incremental lines and structural features that reflect its formation and responses to stimuli."
+  },
+  {
+   "id": "emb-p189-011",
+   "deck": "Embryology & Histology",
+   "section": "Dentinal lines",
+   "page": 189,
+   "text": "The {{c1::contour line of Owen}} is a prominent line in dentin caused by disturbances in the body that affect odontoblasts during dentin formation."
+  },
+  {
+   "id": "emb-p189-012",
+   "deck": "Embryology & Histology",
+   "section": "Dentinal lines",
+   "page": 189,
+   "text": "{{c1::Tomes' granular layer}} is the outer portion of dentin beneath the root cementum, adjacent to the {{c2::DCJ}}.",
+   "extra": "Not to be confused with Tomes' process, which forms enamel."
+  },
+  {
+   "id": "emb-p190-001",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "{{c1::Peritubular}} dentin is formed immediately around the odontoblastic process and is {{c2::more}} mineralized."
+  },
+  {
+   "id": "emb-p190-002",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "In peritubular dentin, the tubule diameter {{c1::narrows}} with age due to deposition."
+  },
+  {
+   "id": "emb-p190-003",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "{{c1::Intertubular}} dentin is the {{c2::less}} mineralized dentin that remains in between the tubules.",
+   "extra": "The book prints \"Intratubular\"; the standard term for the dentin between the tubules is intertubular."
+  },
+  {
+   "id": "emb-p190-004",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "{{c1::Mantle}} dentin is the first layer of dentin, next to the DEJ."
+  },
+  {
+   "id": "emb-p190-005",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "{{c1::Circumpulpal}} dentin is the layer of dentin around the outer pulpal wall."
+  },
+  {
+   "id": "emb-p190-006",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "{{c1::Primary}} dentin is formed before completion of the {{c2::apical foramen}} during tooth development."
+  },
+  {
+   "id": "emb-p190-007",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "Primary dentin includes {{c1::mantle and circumpulpal}} dentin and makes up the {{c2::majority}} of the tooth's dentin."
+  },
+  {
+   "id": "emb-p190-008",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "{{c1::Secondary}} dentin forms after root development is complete and continues slowly over life, reducing {{c2::pulp chamber size}} with age."
+  },
+  {
+   "id": "emb-p190-009",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "{{c1::Tertiary (reparative, reactive)}} dentin is formed in response to a {{c2::localized trauma}}."
+  },
+  {
+   "id": "emb-p190-010",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "text": "{{c1::Sclerotic}} dentin is fully calcified dentin associated with {{c2::chronic injury}}."
+  },
+  {
+   "id": "emb-p190-011",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 190,
+   "text": "The root is derived from the {{c1::cervical portion}} of the {{c2::enamel organ}}."
+  },
+  {
+   "id": "emb-p190-012",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 190,
+   "text": "{{c1::Hertwig's epithelial root sheath (HERS)}} is derived from the enamel organ and plays a fundamental role in the formation and shaping of tooth roots."
+  },
+  {
+   "id": "emb-p190-013",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 190,
+   "text": "The root is {{c1::not}} fully formed when the tooth erupts; it continues to form after completion of the {{c2::crown}}."
+  },
+  {
+   "id": "emb-p191-001",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 191,
+   "text": "HERS is formed by the proliferation of the {{c1::inner and outer enamel epithelium}} from the {{c2::cervical loop}} of the enamel organ."
+  },
+  {
+   "id": "emb-p191-002",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 191,
+   "text": "HERS induces the differentiation of {{c1::odontoblasts}} in the dental papilla, leading to root dentin formation and root shaping — an example of {{c2::morphodifferentiation}}."
+  },
+  {
+   "id": "emb-p191-003",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 191,
+   "text": "HERS grows {{c1::downward}}, signaling undifferentiated dental papilla cells to become odontoblasts, which then secrete {{c2::dentin matrix}} for the root."
+  },
+  {
+   "id": "emb-p191-004",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 191,
+   "text": "After inducing dentin formation, HERS typically breaks down; its remnants can persist as the {{c1::epithelial rests of Malassez}} within the {{c2::periodontal ligament}}."
+  },
+  {
+   "id": "emb-p191-005",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 191,
+   "text": "HERS determines the {{c1::number and shape}} of tooth roots (e.g., single, bifurcated, trifurcated)."
+  },
+  {
+   "id": "emb-p191-006",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 191,
+   "text": "Incomplete breakdown of HERS can lead to {{c1::enamel pearls}} on the root surface or {{c2::accessory root canals}}."
+  },
+  {
+   "id": "emb-p191-007",
+   "deck": "Embryology & Histology",
+   "section": "Pulp",
+   "page": 191,
+   "text": "The {{c1::center}} of the dental papilla becomes the pulp."
+  },
+  {
+   "id": "emb-p191-008",
+   "deck": "Embryology & Histology",
+   "section": "Pulp",
+   "page": 191,
+   "text": "The pulp hosts {{c1::nerves, blood vessels, and lymphatics}}, which enter through the {{c2::apical foramen}}."
+  },
+  {
+   "id": "emb-p191-009",
+   "deck": "Embryology & Histology",
+   "section": "Pulp",
+   "page": 191,
+   "text": "The pulp provides nutrition for the {{c1::odontoblasts}} that lie on its outer layer."
+  },
+  {
+   "id": "emb-p191-010",
+   "deck": "Embryology & Histology",
+   "section": "Pulp",
+   "page": 191,
+   "text": "{{c1::Fibroblasts}} (cells forming the collagen and other connective tissues) are the most common cells in the pulp."
+  },
+  {
+   "id": "emb-p191-011",
+   "deck": "Embryology & Histology",
+   "section": "Pulp",
+   "page": 191,
+   "text": "Layers within the pulp, from the outside to the inside: {{c1::odontoblast layer}}, {{c2::cell-free zone}}, {{c3::cell-rich zone}}."
+  },
+  {
+   "id": "emb-p191-012",
+   "deck": "Embryology & Histology",
+   "section": "Pulp",
+   "page": 191,
+   "text": "{{c1::Pulp stones (denticles)}} are calcified masses inside the pulp and can be a complication for {{c2::endodontic}} treatment."
+  },
+  {
+   "id": "emb-p191-013",
+   "deck": "Embryology & Histology",
+   "section": "Pulp",
+   "page": 191,
+   "text": "After endodontic therapy removes the pulp, the tooth is no longer vital and may {{c1::darken}} and become {{c2::brittle}}."
+  },
+  {
+   "id": "emb-p191-014",
+   "deck": "Embryology & Histology",
+   "section": "Pulp",
+   "page": 191,
+   "text": "The pulp becomes {{c1::more mineralized}} with age as secondary dentin is deposited, so patients may note a {{c2::decrease}} in tooth sensitivity."
+  },
+  {
+   "id": "emb-p191-015",
+   "deck": "Embryology & Histology",
+   "section": "Cementum",
+   "page": 191,
+   "text": "The dental sac (the area surrounding the enamel organ) is an {{c1::ectomesenchymal}} product."
+  },
+  {
+   "id": "emb-p191-016",
+   "deck": "Embryology & Histology",
+   "section": "Cementum",
+   "page": 191,
+   "text": "{{c1::Cementoblasts}} produce cementum, which covers the entire {{c2::root}} (it is not present on the crown)."
+  },
+  {
+   "id": "emb-p191-017",
+   "deck": "Embryology & Histology",
+   "section": "Cementum",
+   "page": 191,
+   "text": "Cementum can form throughout the life of the tooth; repair of traumatic {{c1::resorption}} involves apposition of cementum by cementoblasts."
+  },
+  {
+   "id": "emb-p191-018",
+   "deck": "Embryology & Histology",
+   "section": "Cementum",
+   "page": 191,
+   "text": "Cementum is {{c1::not vascularized}}, and its percentage of inorganic material is similar to {{c2::bone}}."
+  },
+  {
+   "id": "emb-p191-019",
+   "deck": "Embryology & Histology",
+   "section": "Cementum",
+   "page": 191,
+   "text": "At the CEJ, cementum {{c1::overlaps}} the enamel in most cases; they can also meet {{c2::end-to-end}}, and less frequently there is a {{c3::gap}} between them."
+  },
+  {
+   "id": "emb-p191-020",
+   "deck": "Embryology & Histology",
+   "section": "Cementum",
+   "page": 191,
+   "text": "Exposed dentin (e.g., a gap between cementum and enamel) can cause {{c1::dentinal hypersensitivity}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "emb-p186-b-01",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "front": "Ankyloglossia",
+   "back": "A short lingual frenum (\"tongue-tied\")",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emb-p187-b-01",
+   "deck": "Embryology & Histology",
+   "section": "Language builder",
+   "page": 187,
+   "front": "Suffix -blast",
+   "back": "Builder / formative cell — a cell that builds, forms or creates tissue",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emb-p187-b-02",
+   "deck": "Embryology & Histology",
+   "section": "Language builder",
+   "page": 187,
+   "front": "Suffix -clast",
+   "back": "Destroyer / resorbing cell — a cell that destroys or resorbs tissue (important for remodeling)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emb-p187-b-03",
+   "deck": "Embryology & Histology",
+   "section": "Language builder",
+   "page": 187,
+   "front": "Suffix -genesis",
+   "back": "Beginning / formation — the creation or formation of something",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emb-p189-b-01",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "front": "What explains dentinal sensitivity?",
+   "back": "Movement of fluid in the dentinal tubules",
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "emb-p186-t-01",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "question": "The tongue develops during which prenatal weeks? (format: X–Y)",
+   "answer": "4–8",
+   "extra": "Weeks 4 through 8. Did you know? The fetus grows from the size of a poppy seed to a blueberry during tongue development."
+  },
+  {
+   "id": "emb-p188-t-01",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "question": "Enamel (the enamel organ) is originally composed of how many layers?",
+   "answer": "4",
+   "extra": "Outer enamel epithelium, inner enamel epithelium, stratum intermedium, stellate reticulum."
+  },
+  {
+   "id": "emb-p188-t-02",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "question": "Enamel is approximately what percent inorganic material? (number + %)",
+   "answer": "96%",
+   "extra": "Calcium hydroxyapatite."
+  },
+  {
+   "id": "emb-p189-t-01",
+   "deck": "Embryology & Histology",
+   "section": "Dentin",
+   "page": 189,
+   "question": "Dentin is approximately what percent inorganic material? (number + %)",
+   "answer": "70%",
+   "extra": "Dentin is the second hardest dental tissue, after enamel."
+  },
+  {
+   "id": "emb-p191-t-01",
+   "deck": "Embryology & Histology",
+   "section": "Cementum",
+   "page": 191,
+   "question": "Cementum is approximately what percent inorganic material? (number + %)",
+   "answer": "50%",
+   "extra": "Calcium hydroxyapatite — a percentage similar to bone."
+  }
+ ],
+ "match": [
+  {
+   "id": "emb-p186-m-01",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "prompt": "Match each pharyngeal arch to the nerve shown with it in the tongue-development figure.",
+   "pairs": [
+    [
+     "1st pharyngeal arch",
+     "Mandibular nerve"
+    ],
+    [
+     "2nd pharyngeal arch",
+     "Facial nerve"
+    ],
+    [
+     "3rd pharyngeal arch",
+     "Glossopharyngeal nerve"
+    ],
+    [
+     "4th pharyngeal arch",
+     "Vagus nerve"
+    ]
+   ]
+  },
+  {
+   "id": "emb-p187-m-01",
+   "deck": "Embryology & Histology",
+   "section": "Language builder",
+   "page": 187,
+   "prompt": "Match each word root to its meaning.",
+   "pairs": [
+    [
+     "Amelo-",
+     "Enamel"
+    ],
+    [
+     "Dento-",
+     "Dentin (calcified bulk of the tooth)"
+    ],
+    [
+     "Odonto-",
+     "Tooth / dentin-related structures"
+    ],
+    [
+     "Fibro-",
+     "Fibrous connective tissue / fibers"
+    ],
+    [
+     "Osteo-",
+     "Bone"
+    ]
+   ]
+  },
+  {
+   "id": "emb-p188-m-01",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "prompt": "Match each enamel-organ layer to the clinical result of its disruption.",
+   "pairs": [
+    [
+     "Outer enamel epithelium",
+     "Affected mineralization or eruption pathway"
+    ],
+    [
+     "Inner enamel epithelium",
+     "Enamel hypoplasia or amelogenesis imperfecta"
+    ],
+    [
+     "Stratum intermedium",
+     "Hypocalcification (impaired hardening)"
+    ],
+    [
+     "Stellate reticulum",
+     "Reduced enamel thickness or altered rod structure"
+    ]
+   ]
+  },
+  {
+   "id": "emb-p188-m-02",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "prompt": "Match each enamel irregularity to its cause.",
+   "pairs": [
+    [
+     "Hunter-Schreger bands",
+     "Curvature and changing direction of enamel rods"
+    ],
+    [
+     "Neonatal line",
+     "Birth trauma disrupting ameloblasts"
+    ],
+    [
+     "Enamel spindles",
+     "Trapped odontoblast processes"
+    ],
+    [
+     "Enamel tufts",
+     "Abrupt changes in rod orientation"
+    ],
+    [
+     "Enamel lamellae",
+     "Stress, trauma, or incomplete mineralization"
+    ],
+    [
+     "Lines of Retzius",
+     "Rhythmic enamel deposition"
+    ]
+   ]
+  },
+  {
+   "id": "emb-p190-m-01",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "prompt": "Match each type of dentin to its description.",
+   "pairs": [
+    [
+     "Mantle dentin",
+     "First layer, next to the DEJ"
+    ],
+    [
+     "Peritubular dentin",
+     "Around the odontoblastic process; more mineralized"
+    ],
+    [
+     "Intertubular dentin",
+     "Between tubules; less mineralized"
+    ],
+    [
+     "Secondary dentin",
+     "After root completion; shrinks the pulp chamber with age"
+    ],
+    [
+     "Tertiary dentin",
+     "Response to localized trauma"
+    ],
+    [
+     "Sclerotic dentin",
+     "Fully calcified; chronic injury"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "emb-p186-o-01",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 186,
+   "prompt": "Put the stages of tooth development in order.",
+   "items": [
+    "Initiation",
+    "Bud",
+    "Cap",
+    "Bell",
+    "Apposition",
+    "Maturation"
+   ],
+   "extra": "WakeUpMemory: I B C B A M = \"I Became Confident Before A Milestone\". Did you know? The fetus is the size of a raspberry at the bud stage and of a lime at the bell stage."
+  },
+  {
+   "id": "emb-p191-o-01",
+   "deck": "Embryology & Histology",
+   "section": "Cementum",
+   "page": 191,
+   "prompt": "Order the dental hard tissues from MOST to LEAST inorganic (mineral) content.",
+   "items": [
+    "Enamel",
+    "Dentin",
+    "Cementum"
+   ],
+   "extra": "Enamel ~96%, dentin ~70%, cementum ~50% inorganic."
+  }
+ ],
+ "sort": [
+  {
+   "id": "emb-p189-s-01",
+   "deck": "Embryology & Histology",
+   "section": "Dental papilla vs dental sac",
+   "page": 189,
+   "prompt": "Sort: which part of the tooth germ forms each cell/tissue?",
+   "categories": [
+    [
+     "Dental papilla",
+     [
+      "Odontoblasts",
+      "Dentin",
+      "Dental pulp"
+     ]
+    ],
+    [
+     "Dental sac (follicle)",
+     [
+      "Cementoblasts",
+      "Cementum",
+      "Fibroblasts",
+      "Periodontal ligament",
+      "Osteoblasts",
+      "Alveolar bone"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "emb-p189-s-02",
+   "deck": "Embryology & Histology",
+   "section": "Dentinal lines",
+   "page": 189,
+   "prompt": "Sort each line/structure by the tissue it is found in.",
+   "categories": [
+    [
+     "Enamel",
+     [
+      "Lines of Retzius",
+      "Perikymata",
+      "Hunter-Schreger bands",
+      "Enamel tufts",
+      "Enamel lamellae"
+     ]
+    ],
+    [
+     "Dentin",
+     [
+      "Imbrication lines of von Ebner",
+      "Contour line of Owen",
+      "Tomes' granular layer"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "emb-p186-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Tongue development",
+   "page": 186,
+   "question": "A patient has lost taste sensation on the anterior two-thirds of the tongue, but general sensation there is normal. Which nerve is most likely affected?",
+   "options": [
+    "A. Lingual nerve",
+    "B. Chorda tympani",
+    "C. Glossopharyngeal nerve",
+    "D. Vagus nerve"
+   ],
+   "answer": "B. Chorda tympani",
+   "explanation": "Anterior 2/3: taste by the chorda tympani, general sensation by the lingual nerve (intact here). The glossopharyngeal nerve carries general and taste sensation for the posterior 1/3; the vagus for the posterior-most part."
+  },
+  {
+   "id": "emb-p187-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Stages of tooth development",
+   "page": 187,
+   "question": "During which stage of tooth development is the final shape of the crown determined?",
+   "options": [
+    "A. Bud stage",
+    "B. Cap stage",
+    "C. Bell stage",
+    "D. Apposition stage"
+   ],
+   "answer": "C. Bell stage",
+   "explanation": "The bell stage (cytodifferentiation) sets the final crown shape. In the cap stage cells organize but have not yet differentiated; apposition is matrix secretion."
+  },
+  {
+   "id": "emb-p188-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Enamel irregularities",
+   "page": 188,
+   "question": "Short, linear structures crossing the DEJ into enamel are seen in a ground section. They are caused by trapped odontoblast processes. What are they?",
+   "options": [
+    "A. Enamel tufts",
+    "B. Enamel lamellae",
+    "C. Enamel spindles",
+    "D. Hunter-Schreger bands"
+   ],
+   "answer": "C. Enamel spindles",
+   "explanation": "Spindles = trapped odontoblast processes extending from dentin into enamel. Tufts also sit at the DEJ but are brush-like hypomineralized areas from abrupt changes in rod orientation."
+  },
+  {
+   "id": "emb-p188-mcq-02",
+   "deck": "Embryology & Histology",
+   "section": "Enamel",
+   "page": 188,
+   "question": "A newly erupted tooth with an enamel defect cannot repair itself. Why?",
+   "options": [
+    "A. Odontoblasts stop working after eruption",
+    "B. Ameloblasts disappear after eruption, so enamel has no vital cells",
+    "C. Fluoride uptake stops after eruption",
+    "D. The stratum intermedium persists and blocks repair"
+   ],
+   "answer": "B. Ameloblasts disappear after eruption, so enamel has no vital cells",
+   "explanation": "Enamel has no vital cells after eruption, so there is no regeneration. Fluoride and calcium uptake actually continue after eruption (forming fluorapatite), so C is false."
+  },
+  {
+   "id": "emb-p189-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Dentinal lines",
+   "page": 189,
+   "question": "Which incremental lines represent the DAILY growth of dentin?",
+   "options": [
+    "A. Lines of Retzius",
+    "B. Contour lines of Owen",
+    "C. Imbrication lines of von Ebner",
+    "D. Perikymata"
+   ],
+   "answer": "C. Imbrication lines of von Ebner",
+   "explanation": "Von Ebner lines = daily incremental growth in dentin. Retzius lines (and their surface grooves, perikymata) are in enamel; Owen lines are prominent lines from body disturbances affecting odontoblasts."
+  },
+  {
+   "id": "emb-p190-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Types of dentin",
+   "page": 190,
+   "question": "Radiographs of a 75-year-old show markedly smaller pulp chambers than at age 30, with no history of caries or trauma. Which dentin is mainly responsible?",
+   "options": [
+    "A. Mantle dentin",
+    "B. Secondary dentin",
+    "C. Tertiary dentin",
+    "D. Sclerotic dentin"
+   ],
+   "answer": "B. Secondary dentin",
+   "explanation": "Secondary dentin forms slowly throughout life after root completion, reducing pulp chamber size with age. Tertiary dentin forms only in response to a localized trauma, which this patient did not have."
+  },
+  {
+   "id": "emb-p191-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Root and HERS",
+   "page": 191,
+   "question": "During scaling, a small enamel pearl is found on the root surface of a maxillary molar. It most likely resulted from:",
+   "options": [
+    "A. Remnants persisting as epithelial rests of Malassez",
+    "B. Incomplete breakdown of Hertwig's epithelial root sheath",
+    "C. Early collapse of the stellate reticulum",
+    "D. Trapped odontoblast processes"
+   ],
+   "answer": "B. Incomplete breakdown of Hertwig's epithelial root sheath",
+   "explanation": "Incomplete HERS breakdown → enamel pearls or accessory root canals. Epithelial rests of Malassez are the normal HERS remnants in the PDL, not enamel on the root."
+  },
+  {
+   "id": "emb-p191-mcq-02",
+   "deck": "Embryology & Histology",
+   "section": "Pulp",
+   "page": 191,
+   "question": "Which cell is the most common cell in the dental pulp?",
+   "options": [
+    "A. Odontoblast",
+    "B. Fibroblast",
+    "C. Cementoblast",
+    "D. Ameloblast"
+   ],
+   "answer": "B. Fibroblast",
+   "explanation": "Fibroblasts (forming collagen and other connective tissue) are the most common pulp cells. Odontoblasts line only the outer layer of the pulp."
+  }
+ ]
+}

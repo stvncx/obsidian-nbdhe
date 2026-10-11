@@ -1,0 +1,1669 @@
+{
+ "cloze": [
+  {
+   "id": "pharm-p47-001",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "The epi-free (plain) local anesthetic options are {{c1::mepivacaine 3%}} and {{c2::prilocaine 4%}}; lidocaine, articaine and bupivacaine are supplied with epinephrine (no epi-free option)."
+  },
+  {
+   "id": "pharm-p47-002",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Lidocaine, mepivacaine and bupivacaine are metabolized in the {{c1::liver}}.",
+   "extra": "WakeUpMemory: most drugs are processed in the liver — the exceptions are articaine and prilocaine."
+  },
+  {
+   "id": "pharm-p47-003",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Articaine is metabolized mostly in the {{c1::plasma::site}} (because of its {{c2::ester}} side chain), with partial liver metabolism.",
+   "extra": "WakeUpMemory: ARTicaine → ARTery → blood."
+  },
+  {
+   "id": "pharm-p47-004",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Prilocaine is metabolized in the liver, {{c1::lungs}} and {{c2::kidneys}}.",
+   "extra": "WakeUpMemory: pilot (prilocaine) is lucky → lucky is lung + kidney."
+  },
+  {
+   "id": "pharm-p47-005",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Articaine is unique among amides because it has an {{c1::ester group}}, so it is partially metabolized in the blood by {{c2::plasma cholinesterase}} in addition to the liver."
+  },
+  {
+   "id": "pharm-p47-006",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Mepivacaine has only {{c1::weak}} vasodilating properties — good for patients needing no epinephrine."
+  },
+  {
+   "id": "pharm-p47-007",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Bupivacaine has {{c1::high}} vasodilating properties; lidocaine, articaine and prilocaine are moderate."
+  },
+  {
+   "id": "pharm-p47-008",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Duration of action: lidocaine is {{c1::medium::short / medium / long}} (~60 min pulpal)."
+  },
+  {
+   "id": "pharm-p47-009",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Duration of action: plain mepivacaine is {{c1::short::short / medium / long}} (~20–40 min pulpal)."
+  },
+  {
+   "id": "pharm-p47-010",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Duration of action: articaine and prilocaine are {{c1::medium::short / medium / long}}."
+  },
+  {
+   "id": "pharm-p47-011",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Bupivacaine has a {{c1::very long}} duration of action (~{{c2::90–180}} min pulpal)."
+  },
+  {
+   "id": "pharm-p47-012",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Surgical use: {{c1::lidocaine}} is the local anesthetic for general dentistry and the most commonly used."
+  },
+  {
+   "id": "pharm-p47-013",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Mepivacaine plain is good for {{c1::short}} procedures and {{c2::epi-sensitive}} patients — good when epinephrine is contraindicated."
+  },
+  {
+   "id": "pharm-p47-014",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Articaine carries a risk of {{c1::paresthesia}} — use caution in nerve blocks, especially {{c2::IA (inferior alveolar)}} blocks."
+  },
+  {
+   "id": "pharm-p47-015",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "Prilocaine is used as an {{c1::alternative to lidocaine}}; in large doses it may cause {{c2::methemoglobinemia}}."
+  },
+  {
+   "id": "pharm-p47-016",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "text": "{{c1::Bupivacaine}} is ideal for long procedures and is often used in oral surgery or for {{c2::post-op pain control}}."
+  },
+  {
+   "id": "pharm-p47-017",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "The FDA pregnancy letter categories (A, B, C, D, X) were replaced in {{c1::2015}} by the {{c2::Pregnancy and Lactation Labeling Rule (PLLR)}}.",
+   "extra": "Board Alert: the letter system is still commonly taught for board exams."
+  },
+  {
+   "id": "pharm-p47-018",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "FDA pregnancy category {{c1::B}} drugs (e.g., lidocaine, amoxicillin) are generally considered safe during pregnancy."
+  },
+  {
+   "id": "pharm-p47-019",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "FDA pregnancy category {{c1::C}} drugs (e.g., mepivacaine, bupivacaine, articaine) should be used with caution."
+  },
+  {
+   "id": "pharm-p47-020",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "FDA pregnancy category {{c1::D/X}} drugs (e.g., tetracycline, temazepam) should be avoided due to known risks."
+  },
+  {
+   "id": "pharm-p47-021",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "During pregnancy, the best time to provide dental procedures is the {{c1::second}} trimester.",
+   "extra": "Pregnancy is a relative complication to extensive elective dental care, especially in the first trimester."
+  },
+  {
+   "id": "pharm-p47-022",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "Pregnancy local anesthetics: {{c1::lidocaine (Xylocaine)}} and {{c2::prilocaine (Citanest)}} are safe (A/B)."
+  },
+  {
+   "id": "pharm-p47-023",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "Pregnancy local anesthetics: mepivacaine (Carbocaine), articaine (Septocaine) and bupivacaine are {{c1::use with caution (C)}}."
+  },
+  {
+   "id": "pharm-p47-024",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "Pregnancy antibiotics: {{c1::amoxicillin}} and {{c2::clindamycin}} are safe (A/B)."
+  },
+  {
+   "id": "pharm-p47-025",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "Pregnancy antibiotics to avoid (D/X): the {{c1::tetracyclines}} — tetracycline, doxycycline, minocycline."
+  },
+  {
+   "id": "pharm-p47-026",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "Pregnancy analgesics: {{c1::acetaminophen (Tylenol)}} is safe (A/B)."
+  },
+  {
+   "id": "pharm-p47-027",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "Pregnancy analgesics: ibuprofen and naproxen are use-with-caution and should be avoided in the {{c1::3rd}} trimester."
+  },
+  {
+   "id": "pharm-p47-028",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "Pregnancy analgesics: {{c1::aspirin}} should be avoided (D/X)."
+  },
+  {
+   "id": "pharm-p47-029",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "Pregnancy anti-anxiety/sedatives: {{c1::diazepam (Valium)}} and {{c2::temazepam}} should be avoided (D/X)."
+  },
+  {
+   "id": "pharm-p47-030",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "Pregnancy antifungals: {{c1::nystatin (topical)}} is safe (A/B); fluconazole (Diflucan) and ketoconazole are use-with-caution (ketoconazole {{c2::topical}} preferred)."
+  },
+  {
+   "id": "pharm-p47-031",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "text": "During pregnancy, avoid {{c1::nitrous oxide}}."
+  },
+  {
+   "id": "pharm-p48-001",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "text": "Premedication, standard oral regimen: {{c1::amoxicillin}} {{c2::2 g}} for adults; {{c3::50 mg/kg}} for children.",
+   "extra": "AHA 2021 regimen — this is the exam's standard."
+  },
+  {
+   "id": "pharm-p48-002",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "text": "Premedication, unable to take oral medication: {{c1::ampicillin}} 2 g IM or IV (children 50 mg/kg IM or IV), OR cefazolin or ceftriaxone 1 g IM or IV.",
+   "extra": "AHA 2021 regimen — this is the exam's standard."
+  },
+  {
+   "id": "pharm-p48-003",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "text": "Premedication, unable to take oral medication: {{c1::cefazolin or ceftriaxone}} {{c2::1 g}} IM or IV for adults (children 50 mg/kg IM or IV).",
+   "extra": "AHA 2021 regimen — this is the exam's standard."
+  },
+  {
+   "id": "pharm-p48-004",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "text": "Premedication, allergic to penicillin/ampicillin, oral: {{c1::cephalexin}} {{c2::2 g}} (children 50 mg/kg).",
+   "extra": "AHA 2021 note (not printed in the book): do not use a cephalosporin in a patient with a history of anaphylaxis, angioedema or urticaria with penicillin."
+  },
+  {
+   "id": "pharm-p48-005",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "text": "Premedication, allergic to penicillin/ampicillin, oral: {{c1::azithromycin or clarithromycin}} {{c2::500 mg}} (children {{c3::15 mg/kg}}).",
+   "extra": "AHA 2021 regimen — this is the exam's standard."
+  },
+  {
+   "id": "pharm-p48-006",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "text": "Premedication, allergic to penicillin/ampicillin, oral: {{c1::doxycycline}} {{c2::100 mg}} (children <45 kg: 2.2 mg/kg; >45 kg: 100 mg).",
+   "extra": "AHA 2021 regimen — this is the exam's standard."
+  },
+  {
+   "id": "pharm-p48-007",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "text": "Premedication, allergic to penicillin/ampicillin AND unable to take oral medication: {{c1::cefazolin or ceftriaxone}} 1 g IM or IV (children 50 mg/kg IM or IV).",
+   "extra": "AHA 2021: avoid cephalosporins after anaphylaxis, angioedema or urticaria with penicillin."
+  },
+  {
+   "id": "pharm-p48-008",
+   "deck": "Pharmacology",
+   "section": "Artificial joints",
+   "page": 48,
+   "text": "Artificial joints do {{c1::not}} require antibiotics before dental procedures, unless the patient is {{c2::immunocompromised}} and/or has an infection.",
+   "extra": "Source: Journal of the American Dental Association, January 2015 update."
+  },
+  {
+   "id": "pharm-p48-009",
+   "deck": "Pharmacology",
+   "section": "Artificial joints",
+   "page": 48,
+   "text": "For patients with a history of complications with their joint replacement who are having gingival manipulation or mucosal incision, prophylactic antibiotics are considered only after consultation with the patient and {{c1::orthopedic surgeon}}."
+  },
+  {
+   "id": "pharm-p48-010",
+   "deck": "Pharmacology",
+   "section": "Artificial joints",
+   "page": 48,
+   "text": "Previous joint-replacement guidelines recommended antibiotics for {{c1::two years}} after surgery; even earlier guidelines recommended premedication {{c2::for life}}."
+  },
+  {
+   "id": "pharm-p48-011",
+   "deck": "Pharmacology",
+   "section": "Premedication for heart conditions (AHA 2021)",
+   "page": 48,
+   "text": "AHA 2021 — premedication recommended: {{c1::artificial (prosthetic) heart valves}}."
+  },
+  {
+   "id": "pharm-p48-012",
+   "deck": "Pharmacology",
+   "section": "Premedication for heart conditions (AHA 2021)",
+   "page": 48,
+   "text": "AHA 2021 — premedication recommended: history of {{c1::infective endocarditis}}."
+  },
+  {
+   "id": "pharm-p48-013",
+   "deck": "Pharmacology",
+   "section": "Premedication for heart conditions (AHA 2021)",
+   "page": 48,
+   "text": "AHA 2021 — premedication recommended: {{c1::cardiac transplant}} with valvulopathy."
+  },
+  {
+   "id": "pharm-p48-014",
+   "deck": "Pharmacology",
+   "section": "Premedication for heart conditions (AHA 2021)",
+   "page": 48,
+   "text": "AHA 2021 — premedication recommended: {{c1::unrepaired}} or incompletely repaired cyanotic congenital heart disease (e.g., with shunts/conduits)."
+  },
+  {
+   "id": "pharm-p48-015",
+   "deck": "Pharmacology",
+   "section": "Premedication for heart conditions (AHA 2021)",
+   "page": 48,
+   "text": "AHA 2021 — premedication recommended: repaired congenital heart defect with prosthetic material, within the first {{c1::6 months}} post-op."
+  },
+  {
+   "id": "pharm-p48-016",
+   "deck": "Pharmacology",
+   "section": "Premedication for heart conditions (AHA 2021)",
+   "page": 48,
+   "text": "AHA 2021 — premedication recommended: repaired congenital defect with {{c1::residual defect}} at or adjacent to the prosthetic patch/device."
+  },
+  {
+   "id": "pharm-p49-001",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "text": "DEA Schedule {{c1::I}} drugs have the highest abuse potential and {{c2::no accepted medical use}}; Schedules II–V all have accepted medical use.",
+   "extra": "Source: U.S. DEA Controlled Substances Act classification."
+  },
+  {
+   "id": "pharm-p49-002",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "text": "Schedule I examples: {{c1::heroin}}, LSD, ecstasy — not used in practice."
+  },
+  {
+   "id": "pharm-p49-003",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "text": "Schedule {{c1::II}} (high abuse potential) examples: oxycodone (Percocet), hydrocodone (Vicodin), morphine, cocaine (topical)."
+  },
+  {
+   "id": "pharm-p49-004",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "text": "Schedule II drugs are strong analgesics for severe pain; {{c1::no refills}} allowed."
+  },
+  {
+   "id": "pharm-p49-005",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "text": "Schedule {{c1::III}} (moderate abuse potential) examples: codeine (low dose), ketamine, anabolic steroids — sometimes used for moderate pain."
+  },
+  {
+   "id": "pharm-p49-006",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "text": "Schedule {{c1::IV}} (low abuse potential) examples: diazepam (Valium), zolpidem (Ambien) — used for {{c2::anxiety before dental treatment}}."
+  },
+  {
+   "id": "pharm-p49-007",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "text": "Schedule {{c1::V}} (lowest abuse potential) examples: Robitussin AC, pregabalin (Lyrica) — minimal dental use; very low risk of dependence."
+  },
+  {
+   "id": "pharm-p49-008",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Tetracyclines}} (e.g., doxycycline) can cause permanent intrinsic tooth discoloration — avoid in children under {{c2::9}} and pregnant women."
+  },
+  {
+   "id": "pharm-p49-009",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Metronidazole}} may cause a metallic taste and {{c2::black hairy tongue}} — a harmless but alarming discoloration from overgrowth of keratin."
+  },
+  {
+   "id": "pharm-p49-010",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Bismuth subsalicylate}} (e.g., Pepto-Bismol) may turn the tongue and stool black — due to a chemical reaction with {{c2::sulfur}}."
+  },
+  {
+   "id": "pharm-p49-011",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Iron supplements}} can cause grayish staining on teeth or tongue if chewed or in liquid form — use straws and rinse."
+  },
+  {
+   "id": "pharm-p49-012",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Chlorhexidine}} mouthwash can cause brown staining of teeth and tongue with prolonged use — educate patients on limiting duration."
+  },
+  {
+   "id": "pharm-p49-013",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Antipsychotic}} drugs (e.g., haloperidol, clozapine) may cause involuntary tongue movements ({{c2::tardive dyskinesia}}) and dry mouth."
+  },
+  {
+   "id": "pharm-p49-014",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Benzodiazepines}} (e.g., diazepam) can suppress the {{c2::gag reflex}} and cause drowsiness — use caution during long procedures."
+  },
+  {
+   "id": "pharm-p49-015",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Digoxin}} (for heart failure) may {{c2::exaggerate}} the gag reflex — manage suction and chair positioning accordingly."
+  },
+  {
+   "id": "pharm-p49-016",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Clindamycin}} increases the risk of {{c2::pseudomembranous colitis}} — educate patients to report persistent diarrhea."
+  },
+  {
+   "id": "pharm-p49-017",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::NSAIDs and aspirin}} increase the risk of prolonged bleeding — ask about pre-procedural use."
+  },
+  {
+   "id": "pharm-p49-018",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Warfarin (Coumadin)}} requires {{c2::INR}} monitoring — dental procedures may need modification if it is high."
+  },
+  {
+   "id": "pharm-p49-019",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::SSRIs}} (e.g., fluoxetine, sertraline) cause xerostomia and may increase {{c2::bruxism}} or jaw tension."
+  },
+  {
+   "id": "pharm-p49-020",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Tricyclic antidepressants}} (e.g., amitriptyline) enhance {{c2::epinephrine}} effects — limit vasoconstrictors."
+  },
+  {
+   "id": "pharm-p49-021",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Inhaled corticosteroids}} (e.g., fluticasone) can cause {{c2::oral candidiasis}} — advise rinsing the mouth after use."
+  },
+  {
+   "id": "pharm-p49-022",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Anticholinergic}} drugs (e.g., antihistamines, muscle relaxants) cause dry mouth, blurred vision and constipation — hydrate and suggest saliva substitutes."
+  },
+  {
+   "id": "pharm-p49-023",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "Drug-induced gingival overgrowth: {{c1::phenytoin (Dilantin)}}, {{c2::cyclosporine}} (immunosuppressant, transplant patients) and {{c3::calcium channel blockers}} (e.g., nifedipine).",
+   "extra": "Phenytoin: stress excellent plaque control. Calcium channel blockers: monitor and scale regularly."
+  },
+  {
+   "id": "pharm-p49-024",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Opioids}} cause xerostomia, constipation and {{c2::miosis}} (pinpoint pupils) — patients may have altered pain response."
+  },
+  {
+   "id": "pharm-p49-025",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "text": "{{c1::Metformin (Glucophage)}}, a common diabetes medication, may cause taste disturbances and a {{c2::metallic}} taste — monitor for xerostomia and delayed healing due to the underlying diabetes."
+  },
+  {
+   "id": "pharm-p50-001",
+   "deck": "Pharmacology",
+   "section": "Blood pressure drugs",
+   "page": 50,
+   "text": "{{c1::ACE inhibitors}} (suffix {{c2::-pril}}; e.g., lisinopril, enalapril) inhibit angiotensin-converting enzyme → vasodilation and ↓ blood pressure."
+  },
+  {
+   "id": "pharm-p50-002",
+   "deck": "Pharmacology",
+   "section": "Blood pressure drugs",
+   "page": 50,
+   "text": "{{c1::ARBs (angiotensin II blockers)}} (suffix {{c2::-sartan}}; e.g., losartan, valsartan) block angiotensin II receptors → vasodilation and ↓ blood pressure."
+  },
+  {
+   "id": "pharm-p50-003",
+   "deck": "Pharmacology",
+   "section": "Blood pressure drugs",
+   "page": 50,
+   "text": "{{c1::Beta blockers}} (suffix {{c2::-olol}}; e.g., metoprolol, atenolol, propranolol) block beta receptors → ↓ {{c3::heart rate and cardiac output}}."
+  },
+  {
+   "id": "pharm-p50-004",
+   "deck": "Pharmacology",
+   "section": "Blood pressure drugs",
+   "page": 50,
+   "text": "{{c1::Calcium channel blockers}} (suffix {{c2::-dipine}}; e.g., amlodipine, nifedipine) relax blood vessels by blocking calcium entry into smooth muscle."
+  },
+  {
+   "id": "pharm-p50-005",
+   "deck": "Pharmacology",
+   "section": "Blood pressure drugs",
+   "page": 50,
+   "text": "{{c1::Thiazide diuretics}} (suffix {{c2::-thiazide}}; e.g., hydrochlorothiazide) promote {{c3::sodium/water excretion}} → ↓ blood volume and pressure."
+  },
+  {
+   "id": "pharm-p50-006",
+   "deck": "Pharmacology",
+   "section": "Other cardiovascular drugs",
+   "page": 50,
+   "text": "{{c1::Statins}} (suffix -statin; e.g., atorvastatin, simvastatin, rosuvastatin) inhibit {{c2::HMG-CoA reductase}} → ↓ LDL cholesterol, ↓ CVD risk."
+  },
+  {
+   "id": "pharm-p50-007",
+   "deck": "Pharmacology",
+   "section": "Other cardiovascular drugs",
+   "page": 50,
+   "text": "{{c1::Thrombolytics}} (\"clot busters\"; suffix {{c2::-ase}}; e.g., alteplase (tPA), streptokinase) break down {{c3::fibrin}} in clots → restore blood flow in stroke/MI."
+  },
+  {
+   "id": "pharm-p50-008",
+   "deck": "Pharmacology",
+   "section": "Other cardiovascular drugs",
+   "page": 50,
+   "text": "{{c1::Anticoagulants}} (no consistent suffix; e.g., warfarin (Coumadin), apixaban (Eliquis), dabigatran) interfere with clotting pathways → prevent thromboembolic events."
+  },
+  {
+   "id": "pharm-p50-009",
+   "deck": "Pharmacology",
+   "section": "Other cardiovascular drugs",
+   "page": 50,
+   "text": "{{c1::Antiplatelets}} (no consistent suffix; e.g., aspirin, clopidogrel (Plavix)) prevent {{c2::platelet aggregation}} → reduce risk of clots."
+  },
+  {
+   "id": "pharm-p50-010",
+   "deck": "Pharmacology",
+   "section": "Other cardiovascular drugs",
+   "page": 50,
+   "text": "{{c1::Cardiac glycosides}} (e.g., digoxin (Lanoxin)) increase the {{c2::force of contraction}} and slow heart rate — used in heart failure/AFib."
+  },
+  {
+   "id": "pharm-p50-011",
+   "deck": "Pharmacology",
+   "section": "Other cardiovascular drugs",
+   "page": 50,
+   "text": "{{c1::Nitrates}} (suffix -nitrate or none; e.g., {{c2::nitroglycerin}}, isosorbide mononitrate) are vasodilators that relieve {{c3::angina}} by increasing blood flow."
+  },
+  {
+   "id": "pharm-p50-012",
+   "deck": "Pharmacology",
+   "section": "Other cardiovascular drugs",
+   "page": 50,
+   "text": "{{c1::Antiarrhythmics}} (varied suffixes; e.g., amiodarone, lidocaine (cardiac use)) stabilize heart rhythm by altering ion flow."
+  },
+  {
+   "id": "pharm-p50-013",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 50,
+   "text": "{{c1::Penicillins}} (suffix {{c2::-cillin}}; e.g., penicillin, amoxicillin, ampicillin) inhibit bacterial {{c3::cell wall synthesis}} (bactericidal)."
+  },
+  {
+   "id": "pharm-p50-014",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 50,
+   "text": "{{c1::Cephalosporins}} (prefix {{c2::ceph- / cef-}}; e.g., cephalexin (Keflex), ceftriaxone) inhibit cell wall synthesis (bactericidal)."
+  },
+  {
+   "id": "pharm-p50-015",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 50,
+   "text": "{{c1::Tetracyclines}} (suffix {{c2::-cycline}}; e.g., tetracycline, doxycycline, minocycline) inhibit protein synthesis ({{c3::bacteriostatic}})."
+  },
+  {
+   "id": "pharm-p51-001",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 51,
+   "text": "{{c1::Macrolides}} (suffix {{c2::-thromycin}}; e.g., erythromycin, azithromycin, clarithromycin) inhibit protein synthesis ({{c3::bacteriostatic}})."
+  },
+  {
+   "id": "pharm-p51-002",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 51,
+   "text": "{{c1::Aminoglycosides}} (suffix {{c2::-micin / -mycin}}; e.g., gentamicin, tobramycin, streptomycin) inhibit protein synthesis ({{c3::bactericidal}})."
+  },
+  {
+   "id": "pharm-p51-003",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 51,
+   "text": "{{c1::Fluoroquinolones}} (suffix {{c2::-floxacin}}; e.g., ciprofloxacin, levofloxacin) inhibit {{c3::DNA gyrase}} (bactericidal)."
+  },
+  {
+   "id": "pharm-p51-004",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 51,
+   "text": "{{c1::Metronidazole}} (unique, no class suffix) damages DNA in {{c2::anaerobic}} bacteria (bactericidal)."
+  },
+  {
+   "id": "pharm-p51-005",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 51,
+   "text": "{{c1::Clindamycin}} (unique, no class suffix) inhibits protein synthesis ({{c2::bacteriostatic}})."
+  },
+  {
+   "id": "pharm-p51-006",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 51,
+   "text": "{{c1::Sulfonamides}} (prefix {{c2::sulfa-}}; e.g., sulfamethoxazole, sulfadiazine) inhibit {{c3::folic acid}} synthesis (bacteriostatic)."
+  },
+  {
+   "id": "pharm-p51-007",
+   "deck": "Pharmacology",
+   "section": "GI drugs",
+   "page": 51,
+   "text": "{{c1::Antiemetics}} (suffix {{c2::-azine}}; e.g., promethazine, prochlorperazine) block dopamine or histamine receptors to prevent or treat {{c3::nausea and vomiting}}."
+  },
+  {
+   "id": "pharm-p51-008",
+   "deck": "Pharmacology",
+   "section": "GI drugs",
+   "page": 51,
+   "text": "{{c1::Proton pump inhibitors (PPIs)}} (suffix {{c2::-prazole}}; e.g., omeprazole, lansoprazole, esomeprazole) inhibit the {{c3::H+/K+ ATPase}} enzyme in the stomach lining, reducing gastric acid secretion."
+  },
+  {
+   "id": "pharm-p51-009",
+   "deck": "Pharmacology",
+   "section": "GI drugs",
+   "page": 51,
+   "text": "{{c1::H2 receptor antagonists (H2 blockers)}} (suffix {{c2::-tidine}}; e.g., cimetidine, famotidine, ranitidine (withdrawn)) block histamine H2 receptors in the stomach lining, lowering acid production."
+  },
+  {
+   "id": "pharm-p51-010",
+   "deck": "Pharmacology",
+   "section": "Respiratory & allergy drugs",
+   "page": 51,
+   "text": "Short/long-acting {{c1::bronchodilators}} (suffix {{c2::-terol}}; e.g., albuterol, levalbuterol, salmeterol) stimulate {{c3::β2 receptors}} to relax airway smooth muscle — used for asthma, COPD.",
+   "extra": "Book's summary row: bronchodilators (-terol, -phylline) dilate bronchi/bronchioles to increase airflow in asthma and COPD."
+  },
+  {
+   "id": "pharm-p51-011",
+   "deck": "Pharmacology",
+   "section": "Respiratory & allergy drugs",
+   "page": 51,
+   "text": "{{c1::Methylxanthines}} (stimulant bronchodilators; suffix {{c2::-phylline}}; e.g., theophylline, aminophylline) increase {{c3::cAMP}} by inhibiting phosphodiesterase → bronchodilation. Narrow therapeutic index."
+  },
+  {
+   "id": "pharm-p51-012",
+   "deck": "Pharmacology",
+   "section": "Respiratory & allergy drugs",
+   "page": 51,
+   "text": "{{c1::Antihistamines}} (2nd gen & mixed; suffix {{c2::-ine}}; e.g., diphenhydramine, loratadine, cetirizine) block {{c3::histamine H1 receptors}}, reducing allergy symptoms.",
+   "extra": "p.52 row: antihistamines (diphenhydramine, loratadine, brompheniramine) block H1 receptors to reduce sneezing and itching."
+  },
+  {
+   "id": "pharm-p51-013",
+   "deck": "Pharmacology",
+   "section": "Respiratory & allergy drugs",
+   "page": 51,
+   "text": "{{c1::Leukotriene receptor antagonists}} (no true suffix; e.g., {{c2::montelukast (Singulair)}}) block leukotriene D4 receptors — used for asthma, allergic rhinitis."
+  },
+  {
+   "id": "pharm-p51-014",
+   "deck": "Pharmacology",
+   "section": "Respiratory & allergy drugs",
+   "page": 51,
+   "text": "{{c1::Inhaled corticosteroids}} (suffix {{c2::-asone / -ide}}; e.g., fluticasone, budesonide, mometasone) reduce airway {{c3::inflammation}} — asthma, COPD maintenance."
+  },
+  {
+   "id": "pharm-p51-015",
+   "deck": "Pharmacology",
+   "section": "Respiratory & allergy drugs",
+   "page": 51,
+   "text": "Respiratory {{c1::anticholinergics}} (suffix {{c2::-tropium}}; e.g., ipratropium, tiotropium) block {{c3::muscarinic}} receptors in airway smooth muscle → bronchodilation."
+  },
+  {
+   "id": "pharm-p52-001",
+   "deck": "Pharmacology",
+   "section": "Diabetes drugs",
+   "page": 52,
+   "text": "{{c1::Sulfonylureas}} (suffix {{c2::-ide}}; e.g., glyburide, glipizide) stimulate the pancreas to release more insulin."
+  },
+  {
+   "id": "pharm-p52-002",
+   "deck": "Pharmacology",
+   "section": "Diabetes drugs",
+   "page": 52,
+   "text": "{{c1::Meglitinides}} (suffix {{c2::-glinide}}; e.g., repaglinide, nateglinide) rapidly stimulate {{c3::short bursts}} of insulin release."
+  },
+  {
+   "id": "pharm-p52-003",
+   "deck": "Pharmacology",
+   "section": "Diabetes drugs",
+   "page": 52,
+   "text": "{{c1::GLP-1 agonists}} (suffix {{c2::-tide}}; e.g., liraglutide, semaglutide) mimic a gut hormone to increase insulin, reduce appetite and {{c3::delay gastric emptying}}."
+  },
+  {
+   "id": "pharm-p52-004",
+   "deck": "Pharmacology",
+   "section": "Diabetes drugs",
+   "page": 52,
+   "text": "{{c1::SGLT2 inhibitors}} (suffix {{c2::-flozin}}; e.g., canagliflozin, dapagliflozin) increase glucose excretion in {{c3::urine}} by inhibiting reabsorption in the kidneys."
+  },
+  {
+   "id": "pharm-p52-005",
+   "deck": "Pharmacology",
+   "section": "Diabetes drugs",
+   "page": 52,
+   "text": "{{c1::DPP-4 inhibitors}} (suffix {{c2::-gliptin}}; e.g., sitagliptin, saxagliptin) prolong the action of {{c3::incretin}} hormones to stimulate insulin release."
+  },
+  {
+   "id": "pharm-p52-006",
+   "deck": "Pharmacology",
+   "section": "Diabetes drugs",
+   "page": 52,
+   "text": "{{c1::Thiazolidinediones}} (suffix {{c2::-glitazone}}; e.g., pioglitazone, rosiglitazone) improve insulin sensitivity in {{c3::muscle and fat}} cells."
+  },
+  {
+   "id": "pharm-p52-007",
+   "deck": "Pharmacology",
+   "section": "Diabetes drugs",
+   "page": 52,
+   "text": "{{c1::Biguanides}} (no consistent suffix; e.g., {{c2::metformin}}) decrease {{c3::liver glucose production}} and increase insulin sensitivity."
+  }
+ ],
+ "basic": [
+  {
+   "id": "pharm-p47-b-01",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "front": "Why does articaine have a shorter half-life (and possibly lower systemic toxicity) than other amides?",
+   "back": "Its ester group lets plasma cholinesterase break it down in the blood as well as the liver.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p48-b-01",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "front": "Why is clindamycin no longer the recommended premedication for penicillin-allergic patients?",
+   "back": "High risk of gastrointestinal problems — particularly C. difficile-associated diarrhea.",
+   "reverse": false,
+   "extra": "Board Alert: clindamycin was once the go-to. On the exam, if azithromycin or clarithromycin is an option, choose it first; choose clindamycin only if no other acceptable alternative is listed. (AHA 2021 removed clindamycin.)"
+  }
+ ],
+ "typein": [
+  {
+   "id": "pharm-p48-t-01",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "question": "Antibiotic premedication is given as a single dose how many minutes before treatment? (range, e.g. 10-20)",
+   "answer": "30-60",
+   "extra": "If not given then, it may be given up to 2 hours after the procedure."
+  },
+  {
+   "id": "pharm-p48-t-02",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "question": "If the premedication antibiotic was not given before treatment, it may be given up to how many hours after the procedure?",
+   "answer": "2",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "pharm-p47-m-01",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "prompt": "Match each local anesthetic to where it is metabolized.",
+   "pairs": [
+    [
+     "Lidocaine / mepivacaine / bupivacaine",
+     "Liver"
+    ],
+    [
+     "Articaine",
+     "Mostly plasma, partial liver"
+    ],
+    [
+     "Prilocaine",
+     "Liver, lungs, kidneys"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p48-m-01",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "prompt": "Match the AHA 2021 adult premedication dose to the drug.",
+   "pairs": [
+    [
+     "Amoxicillin (oral)",
+     "2 g"
+    ],
+    [
+     "Azithromycin / clarithromycin",
+     "500 mg"
+    ],
+    [
+     "Doxycycline",
+     "100 mg"
+    ],
+    [
+     "Cefazolin / ceftriaxone",
+     "1 g IM or IV"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p49-m-01",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "prompt": "Match each drug to its DEA schedule.",
+   "pairs": [
+    [
+     "Heroin",
+     "Schedule I"
+    ],
+    [
+     "Hydrocodone (Vicodin)",
+     "Schedule II"
+    ],
+    [
+     "Codeine (low dose)",
+     "Schedule III"
+    ],
+    [
+     "Diazepam (Valium)",
+     "Schedule IV"
+    ],
+    [
+     "Robitussin AC",
+     "Schedule V"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p49-m-02",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "prompt": "Match the drug to its oral discoloration.",
+   "pairs": [
+    [
+     "Tetracycline",
+     "Permanent intrinsic tooth discoloration"
+    ],
+    [
+     "Metronidazole",
+     "Black hairy tongue"
+    ],
+    [
+     "Bismuth subsalicylate",
+     "Black tongue and stool"
+    ],
+    [
+     "Iron supplements (liquid)",
+     "Grayish staining"
+    ],
+    [
+     "Chlorhexidine",
+     "Brown extrinsic staining"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p49-m-03",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "prompt": "Match the drug to the dental consideration.",
+   "pairs": [
+    [
+     "Benzodiazepines",
+     "Suppressed gag reflex"
+    ],
+    [
+     "Digoxin",
+     "Exaggerated gag reflex"
+    ],
+    [
+     "Inhaled corticosteroids",
+     "Rinse to prevent candidiasis"
+    ],
+    [
+     "Warfarin",
+     "Check INR"
+    ],
+    [
+     "SSRIs",
+     "Bruxism / jaw tension"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p51-m-01",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 51,
+   "prompt": "Match each antibiotic class to its target.",
+   "pairs": [
+    [
+     "Penicillins / cephalosporins",
+     "Cell wall synthesis"
+    ],
+    [
+     "Fluoroquinolones",
+     "DNA gyrase"
+    ],
+    [
+     "Sulfonamides",
+     "Folic acid synthesis"
+    ],
+    [
+     "Macrolides / tetracyclines",
+     "Protein synthesis"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p51-m-02",
+   "deck": "Pharmacology",
+   "section": "Respiratory & allergy drugs",
+   "page": 51,
+   "prompt": "Match the respiratory drug to its class.",
+   "pairs": [
+    [
+     "Albuterol",
+     "β2 agonist bronchodilator"
+    ],
+    [
+     "Montelukast",
+     "Leukotriene receptor antagonist"
+    ],
+    [
+     "Fluticasone",
+     "Inhaled corticosteroid"
+    ],
+    [
+     "Ipratropium",
+     "Anticholinergic"
+    ],
+    [
+     "Loratadine",
+     "H1 antihistamine"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p52-m-01",
+   "deck": "Pharmacology",
+   "section": "Diabetes drugs",
+   "page": 52,
+   "prompt": "Match the diabetes drug suffix to its class.",
+   "pairs": [
+    [
+     "-gliptin",
+     "DPP-4 inhibitor"
+    ],
+    [
+     "-glitazone",
+     "Thiazolidinedione"
+    ],
+    [
+     "-glinide",
+     "Meglitinide"
+    ],
+    [
+     "-tide (e.g., semaglutide)",
+     "GLP-1 agonist"
+    ],
+    [
+     "-ide (e.g., glipizide)",
+     "Sulfonylurea"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p50-m-01",
+   "deck": "Pharmacology",
+   "section": "Drug suffixes",
+   "page": 50,
+   "prompt": "Match the suffix to the drug class.",
+   "pairs": [
+    [
+     "-pril",
+     "ACE inhibitor"
+    ],
+    [
+     "-thiazide",
+     "Thiazide diuretic"
+    ],
+    [
+     "-olol",
+     "Beta blocker"
+    ],
+    [
+     "-dipine",
+     "Calcium channel blocker"
+    ],
+    [
+     "-statin",
+     "HMG-CoA reductase inhibitor"
+    ],
+    [
+     "-ase",
+     "Thrombolytic"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p51-m-03",
+   "deck": "Pharmacology",
+   "section": "Drug suffixes",
+   "page": 51,
+   "prompt": "Match the suffix to the drug class.",
+   "pairs": [
+    [
+     "-prazole",
+     "Proton pump inhibitor"
+    ],
+    [
+     "-tidine",
+     "H2 blocker"
+    ],
+    [
+     "-azine",
+     "Antiemetic"
+    ],
+    [
+     "-floxacin",
+     "Fluoroquinolone"
+    ],
+    [
+     "-thromycin",
+     "Macrolide"
+    ],
+    [
+     "-tropium",
+     "Respiratory anticholinergic"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "pharm-p49-o-01",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "prompt": "Order the DEA schedules from HIGHEST to LOWEST abuse potential.",
+   "items": [
+    "Schedule I",
+    "Schedule II",
+    "Schedule III",
+    "Schedule IV",
+    "Schedule V"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "pharm-p47-s-01",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "prompt": "Sort these drugs by pregnancy safety (letter categories, as taught for boards).",
+   "categories": [
+    [
+     "Safe (A/B)",
+     [
+      "Lidocaine",
+      "Prilocaine",
+      "Amoxicillin",
+      "Clindamycin",
+      "Nystatin (topical)"
+     ]
+    ],
+    [
+     "Use with caution (C)",
+     [
+      "Mepivacaine",
+      "Articaine",
+      "Bupivacaine",
+      "Fluconazole"
+     ]
+    ],
+    [
+     "Avoid (D/X)",
+     [
+      "Tetracycline",
+      "Doxycycline",
+      "Diazepam",
+      "Nitrous oxide"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p48-s-01",
+   "deck": "Pharmacology",
+   "section": "Premedication for heart conditions (AHA 2021)",
+   "page": 48,
+   "prompt": "AHA 2021: is antibiotic premedication recommended for dental treatment?",
+   "categories": [
+    [
+     "Recommended",
+     [
+      "Prosthetic heart valve",
+      "Cardiac transplant with valvulopathy",
+      "Unrepaired cyanotic congenital heart disease",
+      "Repaired CHD with prosthetic material (<6 months)",
+      "Repaired defect with residual defect at patch"
+     ]
+    ],
+    [
+     "Not recommended",
+     [
+      "Mitral valve prolapse",
+      "Rheumatic heart disease",
+      "Bicuspid valve disease",
+      "Calcified aortic stenosis",
+      "Coronary artery stents",
+      "Ventricular/atrial septal defect",
+      "Hypertrophic cardiomyopathy"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p50-s-01",
+   "deck": "Pharmacology",
+   "section": "Other cardiovascular drugs",
+   "page": 50,
+   "prompt": "Sort the cardiovascular drugs by class.",
+   "categories": [
+    [
+     "Anticoagulant",
+     [
+      "Warfarin",
+      "Apixaban",
+      "Dabigatran"
+     ]
+    ],
+    [
+     "Antiplatelet",
+     [
+      "Aspirin",
+      "Clopidogrel"
+     ]
+    ],
+    [
+     "Thrombolytic",
+     [
+      "Alteplase (tPA)",
+      "Streptokinase"
+     ]
+    ],
+    [
+     "Statin",
+     [
+      "Atorvastatin",
+      "Rosuvastatin"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p51-s-01",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 51,
+   "prompt": "Sort the antibiotic classes: bactericidal or bacteriostatic (per the book)?",
+   "categories": [
+    [
+     "Bactericidal",
+     [
+      "Penicillins",
+      "Cephalosporins",
+      "Aminoglycosides",
+      "Fluoroquinolones",
+      "Metronidazole"
+     ]
+    ],
+    [
+     "Bacteriostatic",
+     [
+      "Tetracyclines",
+      "Macrolides",
+      "Clindamycin",
+      "Sulfonamides"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "pharm-p47-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "question": "A patient needs a 3-hour periodontal surgery and will need post-op pain control. Which local anesthetic is the best choice?",
+   "options": [
+    "A. Mepivacaine 3% plain",
+    "B. Prilocaine 4% plain",
+    "C. Bupivacaine 0.5% with epinephrine",
+    "D. Lidocaine 2% with epinephrine"
+   ],
+   "answer": "C. Bupivacaine 0.5% with epinephrine",
+   "explanation": "Bupivacaine has a very long duration (~90–180 min pulpal) and is often used in oral surgery and for post-op pain control. Lidocaine is medium (~60 min pulpal); mepivacaine plain is short."
+  },
+  {
+   "id": "pharm-p47-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Local anesthetics compared",
+   "page": 47,
+   "question": "A patient with a history of methemoglobinemia needs local anesthesia. Which agent should be avoided?",
+   "options": [
+    "A. Lidocaine",
+    "B. Prilocaine",
+    "C. Mepivacaine",
+    "D. Bupivacaine"
+   ],
+   "answer": "B. Prilocaine",
+   "explanation": "Prilocaine may cause methemoglobinemia in large doses. Articaine's main caution is paresthesia, not methemoglobinemia."
+  },
+  {
+   "id": "pharm-p47-mcq-03",
+   "deck": "Pharmacology",
+   "section": "Pregnancy",
+   "page": 47,
+   "question": "A patient in her 34th week of pregnancy needs pain relief after scaling and root planing. Which analgesic is the best choice?",
+   "options": [
+    "A. Aspirin",
+    "B. Ibuprofen",
+    "C. Naproxen",
+    "D. Acetaminophen"
+   ],
+   "answer": "D. Acetaminophen",
+   "explanation": "Acetaminophen is safe (A/B) in pregnancy. Ibuprofen and naproxen are 'use with caution' and should be avoided in the 3rd trimester; aspirin is to be avoided."
+  },
+  {
+   "id": "pharm-p48-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Antibiotic premedication (AHA 2021)",
+   "page": 48,
+   "question": "A patient with a prosthetic heart valve reports a penicillin allergy (hives). Which premedication is the best choice?",
+   "options": [
+    "A. Amoxicillin 2 g orally",
+    "B. Clindamycin 600 mg orally",
+    "C. Azithromycin 500 mg orally",
+    "D. Cephalexin 2 g orally"
+   ],
+   "answer": "C. Azithromycin 500 mg orally",
+   "explanation": "AHA 2021: for penicillin allergy, azithromycin or clarithromycin 500 mg (or doxycycline 100 mg). Clindamycin is no longer recommended (C. difficile risk). Cephalexin should not be used after urticaria/anaphylaxis with penicillin."
+  },
+  {
+   "id": "pharm-p48-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Premedication for heart conditions (AHA 2021)",
+   "page": 48,
+   "question": "Which patient requires antibiotic premedication before scaling according to the AHA 2021 guidelines?",
+   "options": [
+    "A. A patient with mitral valve prolapse",
+    "B. A patient with a history of rheumatic heart disease",
+    "C. A patient who had infective endocarditis 5 years ago",
+    "D. A patient with coronary artery stents"
+   ],
+   "answer": "C. A patient who had infective endocarditis 5 years ago",
+   "explanation": "A history of infective endocarditis is on the AHA 2021 'recommended' list. Mitral valve prolapse, rheumatic heart disease and coronary stents are not."
+  },
+  {
+   "id": "pharm-p49-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Controlled substances (DEA schedules)",
+   "page": 49,
+   "question": "A dentist prescribes oxycodone (Percocet) after a surgical extraction. The patient asks for a refill. Which statement is correct?",
+   "options": [
+    "A. Refills are allowed up to 5 times in 6 months",
+    "B. It is Schedule II; no refills are allowed",
+    "C. It is Schedule IV; refills are allowed",
+    "D. It is Schedule I; it cannot be prescribed"
+   ],
+   "answer": "B. It is Schedule II; no refills are allowed",
+   "explanation": "Oxycodone is Schedule II (high abuse potential, accepted medical use) — no refills allowed. Schedule I drugs (heroin, LSD) have no accepted medical use."
+  },
+  {
+   "id": "pharm-p49-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Dental side effects of drugs",
+   "page": 49,
+   "question": "A patient taking amitriptyline needs local anesthesia. What is the main concern?",
+   "options": [
+    "A. Methemoglobinemia",
+    "B. Enhanced effects of epinephrine — limit vasoconstrictor",
+    "C. Gingival overgrowth",
+    "D. Exaggerated gag reflex"
+   ],
+   "answer": "B. Enhanced effects of epinephrine — limit vasoconstrictor",
+   "explanation": "Tricyclic antidepressants enhance epinephrine effects, so vasoconstrictor should be limited. An exaggerated gag reflex is the concern with digoxin."
+  },
+  {
+   "id": "pharm-p50-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Blood pressure drugs",
+   "page": 50,
+   "question": "A patient's medication list includes losartan. To which drug class does it belong?",
+   "options": [
+    "A. ACE inhibitor",
+    "B. Angiotensin II receptor blocker",
+    "C. Beta blocker",
+    "D. Calcium channel blocker"
+   ],
+   "answer": "B. Angiotensin II receptor blocker",
+   "explanation": "-sartan = ARB (blocks angiotensin II receptors). ACE inhibitors end in -pril (lisinopril) and block the enzyme, not the receptor."
+  },
+  {
+   "id": "pharm-p50-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Other cardiovascular drugs",
+   "page": 50,
+   "question": "A patient with heart failure and atrial fibrillation takes a drug that increases the force of cardiac contraction and slows the heart rate. Which class is it?",
+   "options": [
+    "A. Nitrate",
+    "B. Cardiac glycoside",
+    "C. Thrombolytic",
+    "D. Statin"
+   ],
+   "answer": "B. Cardiac glycoside",
+   "explanation": "Cardiac glycosides (digoxin/Lanoxin) increase force of contraction and slow heart rate — used in heart failure/AFib. Nitrates (nitroglycerin) are vasodilators that relieve angina."
+  },
+  {
+   "id": "pharm-p51-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Antibiotics",
+   "page": 51,
+   "question": "Which antibiotic damages DNA in anaerobic bacteria and is therefore useful for anaerobic periodontal infections?",
+   "options": [
+    "A. Clindamycin",
+    "B. Metronidazole",
+    "C. Ciprofloxacin",
+    "D. Sulfamethoxazole"
+   ],
+   "answer": "B. Metronidazole",
+   "explanation": "Metronidazole (unique, no class suffix) damages DNA in anaerobic bacteria (bactericidal). Ciprofloxacin, a fluoroquinolone, inhibits DNA gyrase rather than damaging DNA directly."
+  },
+  {
+   "id": "pharm-p51-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Respiratory & allergy drugs",
+   "page": 51,
+   "question": "Which drug has a narrow therapeutic index and works by inhibiting phosphodiesterase?",
+   "options": [
+    "A. Albuterol",
+    "B. Montelukast",
+    "C. Theophylline",
+    "D. Tiotropium"
+   ],
+   "answer": "C. Theophylline",
+   "explanation": "Theophylline (a methylxanthine, -phylline) increases cAMP by inhibiting phosphodiesterase and has a narrow therapeutic index. Albuterol stimulates β2 receptors."
+  },
+  {
+   "id": "pharm-p52-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Diabetes drugs",
+   "page": 52,
+   "question": "A patient with type 2 diabetes takes dapagliflozin. How does it lower blood glucose?",
+   "options": [
+    "A. Stimulates the pancreas to release insulin",
+    "B. Increases glucose excretion in the urine",
+    "C. Decreases liver glucose production",
+    "D. Delays gastric emptying"
+   ],
+   "answer": "B. Increases glucose excretion in the urine",
+   "explanation": "-flozin = SGLT2 inhibitor: blocks glucose reabsorption in the kidneys so more is excreted in urine. Decreasing liver glucose production is metformin (biguanide)."
+  },
+  {
+   "id": "pharm-quiz-01",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Which medication may cause gingival hyperplasia and is commonly prescribed to prevent organ transplant rejection?",
+   "options": [
+    "A. Methotrexate",
+    "B. Prednisone",
+    "C. Cyclosporine",
+    "D. Amoxicillin"
+   ],
+   "answer": "C. Cyclosporine",
+   "explanation": "Cyclosporine (Sandimmune) is an immunosuppressant used primarily to prevent rejection in organ transplants. It inhibits T-lymphocyte activation to dampen the immune system. One of its best-known side effects in dentistry is gingival hyperplasia, a non-inflammatory overgrowth of gum tissue that may require gingivectomy — similar to the hyperplasia caused by calcium channel blockers or phenytoin."
+  },
+  {
+   "id": "pharm-quiz-02",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Which medication is a calcium channel blocker that may cause gingival enlargement?",
+   "options": [
+    "A. Metoprolol",
+    "B. Amlodipine",
+    "C. Losartan",
+    "D. Furosemide"
+   ],
+   "answer": "B. Amlodipine",
+   "explanation": "Amlodipine (Norvasc) is a calcium channel blocker used to manage hypertension and angina. It relaxes vascular smooth muscle, improving blood flow and reducing blood pressure. Long-term use — especially over 6 months — may lead to gingival enlargement, making oral hygiene more difficult and possibly requiring surgical intervention. This adverse effect is dose- and duration-dependent."
+  },
+  {
+   "id": "pharm-quiz-03",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Which medication is used for asthma and may lead to oral candidiasis if the patient doesn't rinse after use?",
+   "options": [
+    "A. Albuterol",
+    "B. Montelukast",
+    "C. Fluticasone",
+    "D. Diphenhydramine"
+   ],
+   "answer": "C. Fluticasone",
+   "explanation": "Fluticasone (Flovent) is an inhaled corticosteroid used in long-term asthma control to reduce airway inflammation. Corticosteroids suppress local immunity in the mouth, especially if inhaled residues are not rinsed away, which can lead to oral candidiasis (thrush) — white patches on the mucosa. Patients should rinse and spit after each use."
+  },
+  {
+   "id": "pharm-quiz-04",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Which drug is most associated with a black hairy tongue and metallic taste?",
+   "options": [
+    "A. Cephalexin",
+    "B. Metronidazole",
+    "C. Clindamycin",
+    "D. Amoxicillin"
+   ],
+   "answer": "B. Metronidazole",
+   "explanation": "Metronidazole (Flagyl) is effective against anaerobic bacteria and protozoa, making it useful for periodontal infections. A distinctive side effect is a metallic taste, which may affect compliance. It can disrupt oral flora, leading to black hairy tongue, a benign condition caused by hypertrophy of filiform papillae and bacterial overgrowth. Alcohol should be avoided due to the risk of a disulfiram-like reaction (severe nausea, vomiting, headache)."
+  },
+  {
+   "id": "pharm-quiz-05",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Which medication is used for treating oral candidiasis and is typically prescribed as a rinse?",
+   "options": [
+    "A. Acyclovir",
+    "B. Nystatin",
+    "C. Fluconazole",
+    "D. Clotrimazole"
+   ],
+   "answer": "B. Nystatin",
+   "explanation": "Nystatin is a polyene antifungal commonly used as an oral suspension (\"swish and swallow\" or \"swish and spit\") to treat oral candidiasis (thrush). It binds to ergosterol in fungal cell membranes, creating pores that lead to cell death. Advise patients not to rinse with water immediately after use so the drug stays in contact with the mucosa. Sweetened versions may contain sugar, so oral hygiene must be reinforced."
+  },
+  {
+   "id": "pharm-quiz-06",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Metoprolol is commonly prescribed for what cardiovascular purpose, and what are two dental side effects to monitor?",
+   "options": [
+    "A. Angina; gingival hyperplasia and dry mouth",
+    "B. Hypertension; xerostomia and orthostatic hypotension",
+    "C. Arrhythmia; metallic taste and candidiasis",
+    "D. Heart failure; dysgeusia and ulcerations"
+   ],
+   "answer": "B. Hypertension; xerostomia and orthostatic hypotension",
+   "explanation": "Metoprolol is a beta-1 selective blocker used to treat hypertension, angina and heart failure. Beta blockers can cause xerostomia and orthostatic hypotension, especially when patients rise quickly from the chair — adjust chair positions slowly and check for dizziness."
+  },
+  {
+   "id": "pharm-quiz-07",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Diazepam is used to treat anxiety. What is a significant dental hygiene consideration when a patient is on benzodiazepines like diazepam or alprazolam?",
+   "options": [
+    "A. Increased bleeding risk",
+    "B. High rate of oral candidiasis",
+    "C. Sedation and impaired motor coordination",
+    "D. Excess salivary flow"
+   ],
+   "answer": "C. Sedation and impaired motor coordination",
+   "explanation": "Benzodiazepines like diazepam (Valium) and alprazolam (Xanax) are CNS depressants that calm the patient but also cause drowsiness, impaired motor function and delayed response time. Keep this in mind when discussing oral hygiene routines and post-op instructions — patients may not retain information well or may need a caregiver's help."
+  },
+  {
+   "id": "pharm-quiz-08",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Long-term corticosteroid use can lead to bone loss. How is this relevant to dental hygiene care?",
+   "options": [
+    "A. It increases calculus buildup",
+    "B. It may result in compromised implant osseointegration",
+    "C. It enhances gingival keratinization",
+    "D. It increases salivary protein content"
+   ],
+   "answer": "B. It may result in compromised implant osseointegration",
+   "explanation": "Chronic corticosteroid therapy (e.g., prednisone) inhibits osteoblast activity and increases bone resorption, leading to osteopenia or osteoporosis. This affects implant placement, post-surgical healing and periodontal support. Evaluate carefully before implant therapy; emphasize gentle instrumentation and careful healing monitoring."
+  },
+  {
+   "id": "pharm-quiz-09",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Patients taking digoxin are at risk of what dental complication, and how should you respond?",
+   "options": [
+    "A. Periodontal abscess; refer to periodontist",
+    "B. Exaggerated gag reflex; minimize posterior stimulation",
+    "C. Candidiasis; prescribe antifungal prophylactically",
+    "D. Dry socket; delay extractions"
+   ],
+   "answer": "B. Exaggerated gag reflex; minimize posterior stimulation",
+   "explanation": "Digoxin is used for heart failure and arrhythmias. It can cause excess saliva and a strong gag reflex, especially during procedures that touch the back of the mouth — be gentle with radiographs and impressions. Also use caution with epinephrine, as it can increase the risk of irregular heartbeats in these patients."
+  },
+  {
+   "id": "pharm-quiz-10",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "What best describes the difference between pharmacokinetics and pharmacodynamics?",
+   "options": [
+    "A. Pharmacokinetics is about how drugs affect the body, while pharmacodynamics is how the body processes drugs",
+    "B. Pharmacodynamics includes metabolism and excretion, while pharmacokinetics includes receptor binding",
+    "C. Pharmacokinetics is how the body affects a drug; pharmacodynamics is how the drug affects the body",
+    "D. Both terms mean the same thing in clinical pharmacology"
+   ],
+   "answer": "C. Pharmacokinetics is how the body affects a drug; pharmacodynamics is how the drug affects the body",
+   "explanation": "Pharmacokinetics = what the body does to the drug (ADME: Absorption, Distribution, Metabolism, Excretion). Pharmacodynamics = what the drug does to the body (e.g., binding to receptors, triggering responses like reducing inflammation or slowing heart rate). The distinction matters when choosing drugs, understanding onset and duration, and predicting side effects."
+  },
+  {
+   "id": "pharm-quiz-11",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Which of the following drugs is safest to use during pregnancy?",
+   "options": [
+    "A. Mepivacaine",
+    "B. Doxycycline",
+    "C. Lidocaine",
+    "D. Warfarin"
+   ],
+   "answer": "C. Lidocaine",
+   "explanation": "Lidocaine is Category B and considered the safest local anesthetic during pregnancy. Doxycycline is contraindicated due to effects on fetal tooth and bone development. Warfarin is teratogenic, and mepivacaine is Category C."
+  },
+  {
+   "id": "pharm-quiz-12",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 53,
+   "question": "Which drug can cause bone loss and increased infection risk, especially with long-term use?",
+   "options": [
+    "A. Loratadine",
+    "B. Prednisone",
+    "C. Ranitidine",
+    "D. Montelukast"
+   ],
+   "answer": "B. Prednisone",
+   "explanation": "Prednisone, a corticosteroid, can cause significant bone demineralization, suppressed immune response and delayed healing. Monitor for signs of oral infections and periodontal deterioration."
+  },
+  {
+   "id": "pharm-quiz-13",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 54,
+   "question": "Which drug is most likely to prolong bleeding and should be used cautiously in post-extraction patients?",
+   "options": [
+    "A. Acetaminophen",
+    "B. Ibuprofen",
+    "C. Codeine",
+    "D. Hydrocodone"
+   ],
+   "answer": "B. Ibuprofen",
+   "explanation": "NSAIDs like ibuprofen inhibit COX enzymes, reducing platelet aggregation, which can increase the risk of prolonged bleeding during or after dental procedures."
+  },
+  {
+   "id": "pharm-quiz-14",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 54,
+   "question": "A patient reports a severe penicillin allergy. Which of the following antibiotics is safest for dental premedication?",
+   "options": [
+    "A. Amoxicillin",
+    "B. Cephalexin",
+    "C. Azithromycin",
+    "D. Penicillin VK"
+   ],
+   "answer": "C. Azithromycin",
+   "explanation": "Azithromycin is a macrolide and is used as an alternative for premedication in penicillin-allergic patients (AHA 2021: 500 mg). Cephalexin is a cephalosporin and should be avoided in patients with anaphylactic reactions to penicillin."
+  },
+  {
+   "id": "pharm-quiz-15",
+   "deck": "Quizzes",
+   "section": "Pharmacology bonus quiz",
+   "page": 54,
+   "question": "Levothyroxine (Synthroid) is typically used to treat which condition?",
+   "options": [
+    "A. Hyperthyroidism",
+    "B. Myxedema",
+    "C. Cushing's syndrome",
+    "D. Diabetes insipidus"
+   ],
+   "answer": "B. Myxedema",
+   "explanation": "Myxedema is the severe form of hypothyroidism in adults. Levothyroxine is a synthetic T4 hormone that replaces insufficient thyroid hormone. Symptoms include fatigue, weight gain and cold intolerance."
+  }
+ ]
+}

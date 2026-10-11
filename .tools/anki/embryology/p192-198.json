@@ -1,0 +1,1842 @@
+{
+ "diagrams": [
+  {
+   "name": "emb-p192-cementum",
+   "title": "Abnormalities of the cementum",
+   "deck": "Embryology & Histology",
+   "pdf_page": 14,
+   "page": 192,
+   "crop": [
+    125,
+    265,
+    1190,
+    725
+   ],
+   "labels": [
+    {
+     "box": [
+      138,
+      431,
+      211,
+      473
+     ],
+     "answer": "PDL",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      432,
+      430,
+      630,
+      504
+     ],
+     "answer": "Cementocyte lacunae",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      246,
+      500,
+      396,
+      544
+     ],
+     "answer": "Canaliculi",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      680,
+      368,
+      914,
+      428
+     ],
+     "answer": "Cementicle",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p193-epithelium-types",
+   "title": "Types of epithelium",
+   "deck": "Embryology & Histology",
+   "pdf_page": 15,
+   "page": 193,
+   "crop": [
+    160,
+    915,
+    620,
+    1420
+   ],
+   "labels": [
+    {
+     "box": [
+      290,
+      936,
+      334,
+      966
+     ],
+     "answer": "Cell",
+     "fit": "text"
+    },
+    {
+     "box": [
+      428,
+      944,
+      550,
+      1026
+     ],
+     "answer": "Simple Squamous Epithelium",
+     "fit": "text"
+    },
+    {
+     "box": [
+      240,
+      1000,
+      318,
+      1027
+     ],
+     "answer": "Nucleus",
+     "fit": "text"
+    },
+    {
+     "box": [
+      262,
+      1034,
+      450,
+      1062
+     ],
+     "answer": "Basement membrane",
+     "fit": "text"
+    },
+    {
+     "box": [
+      428,
+      1077,
+      555,
+      1157
+     ],
+     "answer": "Ciliated Columnar Epithelium",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      425,
+      1198,
+      552,
+      1279
+     ],
+     "answer": "Simple Cuboidal Epithelium",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      428,
+      1318,
+      606,
+      1398
+     ],
+     "answer": "Simple (Smooth) Columnar Epithelium",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "emb-p193-mucosa-layers",
+   "title": "Layers of the oral mucosa",
+   "deck": "Embryology & Histology",
+   "pdf_page": 15,
+   "page": 193,
+   "crop": [
+    700,
+    895,
+    1095,
+    1420
+   ],
+   "labels": [
+    {
+     "box": [
+      924,
+      950,
+      1083,
+      991
+     ],
+     "answer": "Epithelium",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      908,
+      1057,
+      1024,
+      1128
+     ],
+     "answer": "Lamina propria",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      900,
+      1248,
+      1062,
+      1291
+     ],
+     "answer": "Submucosa",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      904,
+      1324,
+      1060,
+      1366
+     ],
+     "answer": "Periosteum",
+     "fit": "text"
+    },
+    {
+     "box": [
+      910,
+      1375,
+      992,
+      1412
+     ],
+     "answer": "Bone",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "emb-p194-taste-bud",
+   "title": "Taste bud",
+   "deck": "Embryology & Histology",
+   "pdf_page": 16,
+   "page": 194,
+   "crop": [
+    390,
+    590,
+    1060,
+    1215
+   ],
+   "labels": [
+    {
+     "box": [
+      483,
+      601,
+      630,
+      645
+     ],
+     "answer": "Microvilli",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      710,
+      600,
+      870,
+      646
+     ],
+     "answer": "Taste pore",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      828,
+      896,
+      1047,
+      940
+     ],
+     "answer": "Supporting cell",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      399,
+      1135,
+      547,
+      1179
+     ],
+     "answer": "Basal cell",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      575,
+      1118,
+      765,
+      1157
+     ],
+     "answer": "Gustatory cell",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      814,
+      1110,
+      1046,
+      1155
+     ],
+     "answer": "Transitional cell",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      728,
+      1168,
+      900,
+      1207
+     ],
+     "answer": "Nerve fibrils",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p195-mucosa-photo",
+   "title": "Keratinized vs non-keratinized mucosa",
+   "deck": "Embryology & Histology",
+   "pdf_page": 17,
+   "page": 195,
+   "crop": [
+    140,
+    390,
+    582,
+    735
+   ],
+   "labels": [
+    {
+     "box": [
+      462,
+      448,
+      578,
+      502
+     ],
+     "answer": "Keratinized Mucosa",
+     "fit": "text"
+    },
+    {
+     "box": [
+      298,
+      692,
+      530,
+      727
+     ],
+     "answer": "Non-Keratinized Mucosa",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p195-keratinization",
+   "title": "Keratinization and pigmentation (epithelial layers)",
+   "deck": "Embryology & Histology",
+   "pdf_page": 17,
+   "page": 195,
+   "crop": [
+    582,
+    318,
+    1240,
+    740
+   ],
+   "labels": [
+    {
+     "box": [
+      1094,
+      322,
+      1194,
+      372
+     ],
+     "answer": "Stratum corneum",
+     "fit": "text"
+    },
+    {
+     "box": [
+      590,
+      364,
+      734,
+      423
+     ],
+     "answer": "Dead keratinocyte",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1096,
+      375,
+      1234,
+      428
+     ],
+     "answer": "Granular cell layer",
+     "fit": "text"
+    },
+    {
+     "box": [
+      588,
+      458,
+      722,
+      492
+     ],
+     "answer": "Keratinocyte",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1094,
+      450,
+      1194,
+      505
+     ],
+     "answer": "Spinous Layer",
+     "fit": "text"
+    },
+    {
+     "box": [
+      598,
+      548,
+      698,
+      583
+     ],
+     "answer": "Melanin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1086,
+      537,
+      1208,
+      588
+     ],
+     "answer": "Langerhans cell",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1074,
+      618,
+      1214,
+      654
+     ],
+     "answer": "Basal Layer",
+     "fit": "text"
+    },
+    {
+     "box": [
+      587,
+      632,
+      724,
+      666
+     ],
+     "answer": "Melanocyte",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1047,
+      683,
+      1177,
+      716
+     ],
+     "answer": "Merkel cell",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      578,
+      696,
+      723,
+      730
+     ],
+     "answer": "Basal lamina",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p195-eukaryotic-cell",
+   "title": "Eukaryotic cell",
+   "deck": "Embryology & Histology",
+   "pdf_page": 17,
+   "page": 195,
+   "crop": [
+    80,
+    1420,
+    682,
+    1880
+   ],
+   "labels": [
+    {
+     "box": [
+      256,
+      1459,
+      374,
+      1496
+     ],
+     "answer": "Lysosome",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      406,
+      1435,
+      534,
+      1494
+     ],
+     "answer": "Plasma membrane",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      505,
+      1503,
+      627,
+      1537
+     ],
+     "answer": "Cytoplasm",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      91,
+      1554,
+      250,
+      1589
+     ],
+     "answer": "Golgi complex",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      562,
+      1638,
+      658,
+      1672
+     ],
+     "answer": "Nucleus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      85,
+      1691,
+      213,
+      1725
+     ],
+     "answer": "Ribosomes",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      507,
+      1760,
+      664,
+      1797
+     ],
+     "answer": "Mitochondria",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      131,
+      1811,
+      274,
+      1867
+     ],
+     "answer": "Endoplasmic reticulum",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p195-prokaryotic-cell",
+   "title": "Prokaryotic cell",
+   "deck": "Embryology & Histology",
+   "pdf_page": 17,
+   "page": 195,
+   "crop": [
+    672,
+    1420,
+    1200,
+    1840
+   ],
+   "labels": [
+    {
+     "box": [
+      832,
+      1479,
+      927,
+      1512
+     ],
+     "answer": "Capsule",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1092,
+      1484,
+      1148,
+      1516
+     ],
+     "answer": "Tail",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      756,
+      1540,
+      860,
+      1574
+     ],
+     "answer": "Cell wall",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      679,
+      1686,
+      812,
+      1746
+     ],
+     "answer": "Plasma membrane",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      997,
+      1691,
+      1137,
+      1734
+     ],
+     "answer": "Ribosomes",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1000,
+      1774,
+      1070,
+      1808
+     ],
+     "answer": "DNA",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emb-p196-membrane-transport",
+   "title": "Movement of molecules across the cell membrane",
+   "deck": "Embryology & Histology",
+   "pdf_page": 18,
+   "page": 196,
+   "crop": [
+    150,
+    1035,
+    1240,
+    1580
+   ],
+   "labels": [
+    {
+     "box": [
+      295,
+      1044,
+      670,
+      1090
+     ],
+     "answer": "Passive transport",
+     "fit": "none"
+    },
+    {
+     "box": [
+      845,
+      1044,
+      1215,
+      1090
+     ],
+     "answer": "Active transport",
+     "fit": "none"
+    },
+    {
+     "box": [
+      335,
+      1435,
+      550,
+      1470
+     ],
+     "answer": "Channel protein",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      625,
+      1435,
+      840,
+      1470
+     ],
+     "answer": "Carrier proteins",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      170,
+      1521,
+      305,
+      1563
+     ],
+     "answer": "Diffusion",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      442,
+      1523,
+      700,
+      1560
+     ],
+     "answer": "Facilitated diffusion",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      914,
+      1521,
+      1140,
+      1564
+     ],
+     "answer": "Requires Energy",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "emb-p192-001",
+   "deck": "Embryology & Histology",
+   "section": "Abnormalities of the cementum",
+   "page": 192,
+   "text": "A {{c1::reversal line}} is a line formed during {{c2::remodeling}} of cementum, often seen with {{c3::orthodontic tooth movement}}."
+  },
+  {
+   "id": "emb-p192-002",
+   "deck": "Embryology & Histology",
+   "section": "Abnormalities of the cementum",
+   "page": 192,
+   "text": "{{c1::Hypercementosis}} is thickening of the cementum around the roots, often associated with {{c2::trauma and infection}}."
+  },
+  {
+   "id": "emb-p192-003",
+   "deck": "Embryology & Histology",
+   "section": "Periodontal ligament",
+   "page": 192,
+   "text": "The {{c1::dental sac}} (the area surrounding the enamel organ) forms the {{c2::cementum, periodontal ligament (PDL), and alveolar bone}}."
+  },
+  {
+   "id": "emb-p192-004",
+   "deck": "Embryology & Histology",
+   "section": "Periodontal ligament",
+   "page": 192,
+   "text": "The {{c1::periodontal ligament (PDL)}} is the structure that attaches the teeth to the bone."
+  },
+  {
+   "id": "emb-p192-005",
+   "deck": "Embryology & Histology",
+   "section": "Periodontal ligament",
+   "page": 192,
+   "text": "{{c1::Sharpey's fibers}} are the parts of the PDL fibers embedded in {{c2::bone and cementum}}."
+  },
+  {
+   "id": "emb-p192-006",
+   "deck": "Embryology & Histology",
+   "section": "Periodontal ligament",
+   "page": 192,
+   "text": "The periodontal ligaments are constantly being {{c1::remodeled}} as they carry {{c2::blood vessels and nerves}}."
+  },
+  {
+   "id": "emb-p192-007",
+   "deck": "Embryology & Histology",
+   "section": "Alveolar bone",
+   "page": 192,
+   "text": "Alveolar bone {{c1::supports the teeth}} and is dependent on the {{c2::presence of teeth}}."
+  },
+  {
+   "id": "emb-p192-008",
+   "deck": "Embryology & Histology",
+   "section": "Alveolar bone",
+   "page": 192,
+   "text": "If teeth do not erupt, alveolar bone does {{c1::not develop}}; if teeth are lost, the bone {{c2::resorbs}}."
+  },
+  {
+   "id": "emb-p192-009",
+   "deck": "Embryology & Histology",
+   "section": "Alveolar bone",
+   "page": 192,
+   "text": "{{c1::Cortical bone}} is compact, dense alveolar bone on the {{c2::buccal and lingual}} sides.",
+   "extra": "WakeUpMemory: COrtical → O → Outside."
+  },
+  {
+   "id": "emb-p192-010",
+   "deck": "Embryology & Histology",
+   "section": "Alveolar bone",
+   "page": 192,
+   "text": "{{c1::Cancellous (spongy)}} bone is {{c2::porous}} bone located between the cortical plates, on the \"inside.\""
+  },
+  {
+   "id": "emb-p192-011",
+   "deck": "Embryology & Histology",
+   "section": "Alveolar bone",
+   "page": 192,
+   "text": "The {{c1::cribriform plate}} (alveolar bone proper) is the part of the alveolar bone directly facing the root of the tooth; it contains {{c2::holes}} where blood vessels and nerves penetrate."
+  },
+  {
+   "id": "emb-p192-012",
+   "deck": "Embryology & Histology",
+   "section": "Alveolar bone",
+   "page": 192,
+   "text": "Radiographically, the cribriform plate (alveolar bone proper) is called the {{c1::lamina dura}}."
+  },
+  {
+   "id": "emb-p193-001",
+   "deck": "Embryology & Histology",
+   "section": "Succedaneous and non-succedaneous teeth",
+   "page": 193,
+   "text": "The {{c1::permanent molars}} are non-succedaneous; all other permanent teeth (incisors, canines, premolars) are succedaneous."
+  },
+  {
+   "id": "emb-p193-002",
+   "deck": "Embryology & Histology",
+   "section": "Succedaneous and non-succedaneous teeth",
+   "page": 193,
+   "text": "Succedaneous teeth erupt in a {{c1::lingual}} position to the primary tooth, except the {{c2::permanent maxillary incisors}}."
+  },
+  {
+   "id": "emb-p193-003",
+   "deck": "Embryology & Histology",
+   "section": "Succedaneous and non-succedaneous teeth",
+   "page": 193,
+   "text": "Because non-succedaneous teeth do not replace a primary tooth, their eruption position is {{c1::independent of one}}."
+  },
+  {
+   "id": "emb-p193-004",
+   "deck": "Embryology & Histology",
+   "section": "Succedaneous and non-succedaneous teeth",
+   "page": 193,
+   "text": "{{c1::Nasmyth's membrane}} is a thin layer of tissue residue from eruption, present on both succedaneous and non-succedaneous teeth, that can leave a removable {{c2::green extrinsic}} stain."
+  },
+  {
+   "id": "emb-p193-005",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "The oral cavity is lined by {{c1::stratified squamous}} epithelium."
+  },
+  {
+   "id": "emb-p193-006",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "The oral epithelium acts as a {{c1::protective}} barrier that can be renewed by {{c2::mitosis}}."
+  },
+  {
+   "id": "emb-p193-007",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "The oral epithelium is composed of epithelium, {{c1::basement membrane}}, {{c2::connective tissue}}, and, in some cases, {{c3::submucosa}}."
+  },
+  {
+   "id": "emb-p193-008",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "{{c1::Connective tissue}} fills the space between the tissues and organs of the body; it includes loose connective tissue, cartilage, bone marrow, alveolar bone, and dental tissues."
+  },
+  {
+   "id": "emb-p193-009",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "All dental tissues (cementum, dentin, pulp) are specialized connective tissues except {{c1::enamel}}, which is an {{c2::epithelial}} tissue."
+  },
+  {
+   "id": "emb-p193-010",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "The interface between epithelium and connective tissue is the {{c1::basement membrane}}."
+  },
+  {
+   "id": "emb-p193-011",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "{{c1::Rete pegs}} are inward projections of epithelium into the connective tissue that increase the {{c2::surface area}} of the two tissues and strengthen the connection."
+  },
+  {
+   "id": "emb-p193-012",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "The {{c1::stippling}} of the attached gingiva is caused by {{c2::rete pegs}}."
+  },
+  {
+   "id": "emb-p193-013",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "Rete pegs are NOT present on {{c1::sulcular or junctional}} epithelium."
+  },
+  {
+   "id": "emb-p193-014",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "The connective tissue underlying the oral epithelium is the {{c1::lamina propria}}; it contains salivary glands, sebaceous glands, blood, nerves, collagen, and elastin."
+  },
+  {
+   "id": "emb-p193-015",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "The {{c1::reticular}} layer of the lamina propria is a netlike arrangement of collagen fibers; the {{c2::papillary}} layer is composed of thin, loose collagen fibers."
+  },
+  {
+   "id": "emb-p193-016",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "text": "The {{c1::submucosa}} is loose connective tissue present only in areas needing extra {{c2::cushion and flexibility}} (e.g., cheeks)."
+  },
+  {
+   "id": "emb-p194-001",
+   "deck": "Embryology & Histology",
+   "section": "Lining and masticatory mucosa",
+   "page": 194,
+   "text": "{{c1::Lining}} mucosa acts as a barrier between the oral cavity and the deeper structures."
+  },
+  {
+   "id": "emb-p194-002",
+   "deck": "Embryology & Histology",
+   "section": "Lining and masticatory mucosa",
+   "page": 194,
+   "text": "Lining mucosa is soft, moist, cushiony, elastic, and {{c1::non-keratinized}}."
+  },
+  {
+   "id": "emb-p194-003",
+   "deck": "Embryology & Histology",
+   "section": "Lining and masticatory mucosa",
+   "page": 194,
+   "text": "{{c1::Masticatory}} mucosa is present on areas closely related to chewing; it is firm, resilient, has {{c2::more rete pegs}}, and is {{c3::keratinized}}."
+  },
+  {
+   "id": "emb-p194-004",
+   "deck": "Embryology & Histology",
+   "section": "Lining and masticatory mucosa",
+   "page": 194,
+   "text": "The {{c1::ventral}} side of the tongue is covered by lining mucosa; the {{c2::dorsal}} side by masticatory mucosa."
+  },
+  {
+   "id": "emb-p194-005",
+   "deck": "Embryology & Histology",
+   "section": "Lining and masticatory mucosa",
+   "page": 194,
+   "text": "The {{c1::soft}} palate is covered by lining mucosa; the {{c2::hard}} palate by masticatory mucosa."
+  },
+  {
+   "id": "emb-p194-006",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "text": "The surface of the tongue is covered by various types of {{c1::papillae}}, some of which house {{c2::taste buds}}."
+  },
+  {
+   "id": "emb-p194-007",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "text": "{{c1::Filiform}} papillae are the most numerous, covering the {{c2::anterior 2/3}} of the dorsal tongue."
+  },
+  {
+   "id": "emb-p194-008",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "text": "{{c1::Filiform}} papillae are the only papillae with {{c2::no}} taste buds.",
+   "extra": "WakeUpMemory: Filiform has NO taste feelings; they are here to just \"fill\" the space."
+  },
+  {
+   "id": "emb-p194-009",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "text": "Elongation of filiform papillae can cause {{c1::black hairy tongue}}; filiform papillae are lost in {{c2::rhomboid glossitis}}."
+  },
+  {
+   "id": "emb-p194-010",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "text": "{{c1::Fungiform}} papillae are {{c2::mushroom}}-shaped on the dorsal tongue and noticeably red from rich vascularization."
+  },
+  {
+   "id": "emb-p194-011",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "text": "{{c1::Circumvallate}} papillae are large, dome-shaped, in a {{c2::V-shaped row}} on the posterior dorsal surface, in front of the sulcus terminalis and foramen cecum."
+  },
+  {
+   "id": "emb-p194-012",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "text": "{{c1::Von Ebner's}} salivary glands empty a {{c2::serous}} secretion to flush the circumvallate papillae."
+  },
+  {
+   "id": "emb-p194-013",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "text": "{{c1::Foliate}} papillae are elongated papillae on the {{c2::side}} of the tongue (they have taste buds)."
+  },
+  {
+   "id": "emb-p195-001",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "text": "{{c1::Keratin}} is a fibrous protein with {{c2::no nuclei}} that makes tissue {{c3::stiffer and waterproof}}."
+  },
+  {
+   "id": "emb-p195-002",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "text": "Keratin is found in the {{c1::superficial}} layer of the epithelium."
+  },
+  {
+   "id": "emb-p195-003",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "text": "The most heavily keratinized tissues of the body are the {{c1::palms of the hands and soles of the feet}}."
+  },
+  {
+   "id": "emb-p195-004",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "text": "Keratinized oral mucosa is tightly bound to the {{c1::hard palate and gingiva}}."
+  },
+  {
+   "id": "emb-p195-005",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "text": "Keratinized mucosa supports underlying tissues by resisting the {{c1::loading forces exerted during mastication}}."
+  },
+  {
+   "id": "emb-p195-006",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "text": "Lining mucosa in the cheeks, lips, and floor of the mouth is {{c1::mobile}} to create space when chewing and talking."
+  },
+  {
+   "id": "emb-p195-007",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "text": "Non-keratinized cells {{c1::have nuclei}} and cover the more {{c2::flexible}} areas, such as the mucosal lining of the cheeks."
+  },
+  {
+   "id": "emb-p195-008",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "text": "{{c1::Melanocytes}} are cells in the {{c2::basal}} layer of the epithelium that produce pigmentation."
+  },
+  {
+   "id": "emb-p195-009",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "text": "In the oral cavity, benign pigmentation occurs on the {{c1::attached gingiva}}."
+  },
+  {
+   "id": "emb-p195-010",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 195,
+   "text": "Human organs are made of {{c1::tissues}}, which are composed of {{c2::cells}}."
+  },
+  {
+   "id": "emb-p195-011",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 195,
+   "text": "Human and fungal cells are {{c1::eukaryotes}}; bacteria are {{c2::prokaryotes}}."
+  },
+  {
+   "id": "emb-p196-001",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "text": "{{c1::Prokaryotes}} are very small cells without an organized {{c2::nucleus}} — their DNA floats in the cell."
+  },
+  {
+   "id": "emb-p196-002",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "text": "The {{c1::cell membrane}} is a protein and lipid layer that protects the cell."
+  },
+  {
+   "id": "emb-p196-003",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "text": "The {{c1::cytoplasm}} is the aqueous substance that holds the organelles within the cell."
+  },
+  {
+   "id": "emb-p196-004",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "text": "The {{c1::nucleus}} contains DNA and stores the cell's genetic code."
+  },
+  {
+   "id": "emb-p196-005",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "text": "The {{c1::endoplasmic reticulum}} is a network of membranes and spaces within the cell."
+  },
+  {
+   "id": "emb-p196-006",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "text": "The {{c1::Golgi complex}} is a stack of sacs that {{c2::packages and distributes proteins}} out of the cell; it also synthesizes {{c3::lysosomes}}."
+  },
+  {
+   "id": "emb-p196-007",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "text": "{{c1::Lysosomes}} (made by the Golgi complex) break down foreign substances."
+  },
+  {
+   "id": "emb-p196-008",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "text": "The {{c1::mitochondria}} are the \"powerhouse\" of the cell, generating {{c2::ATP}} as the cell's energy source."
+  },
+  {
+   "id": "emb-p196-009",
+   "deck": "Embryology & Histology",
+   "section": "Cell replication and attachment",
+   "page": 196,
+   "text": "{{c1::Mitosis}} is nuclear division in {{c2::somatic}} cells (the cells that make up the body)."
+  },
+  {
+   "id": "emb-p196-010",
+   "deck": "Embryology & Histology",
+   "section": "Cell replication and attachment",
+   "page": 196,
+   "text": "A {{c1::diploid}} cell contains two sets of chromosomes, one inherited from each parent."
+  },
+  {
+   "id": "emb-p196-011",
+   "deck": "Embryology & Histology",
+   "section": "Cell replication and attachment",
+   "page": 196,
+   "text": "{{c1::Meiosis}} is a modified cell division in {{c2::gamete (sex)}} cells, with {{c3::two}} rounds of cell division but only {{c4::one}} round of DNA replication."
+  },
+  {
+   "id": "emb-p196-012",
+   "deck": "Embryology & Histology",
+   "section": "Cell replication and attachment",
+   "page": 196,
+   "text": "A {{c1::haploid}} cell contains only one set of chromosomes."
+  },
+  {
+   "id": "emb-p196-013",
+   "deck": "Embryology & Histology",
+   "section": "Cell replication and attachment",
+   "page": 196,
+   "text": "{{c1::Junctional}} epithelium attaches the gingiva to the tooth surface by {{c2::hemidesmosomes}}."
+  },
+  {
+   "id": "emb-p196-014",
+   "deck": "Embryology & Histology",
+   "section": "Movement across the cell membrane",
+   "page": 196,
+   "text": "{{c1::Diffusion}} is movement of molecules from {{c2::high to low}} concentration; no energy is needed."
+  },
+  {
+   "id": "emb-p196-015",
+   "deck": "Embryology & Histology",
+   "section": "Movement across the cell membrane",
+   "page": 196,
+   "text": "{{c1::Facilitated diffusion}} (passive transport) is movement of water-soluble molecules with the help of a {{c2::carrier protein}}; no energy is needed."
+  },
+  {
+   "id": "emb-p196-016",
+   "deck": "Embryology & Histology",
+   "section": "Movement across the cell membrane",
+   "page": 196,
+   "text": "{{c1::Active transport}} requires {{c2::energy (ATP)}} and proteins to force molecules into and out of the cell."
+  },
+  {
+   "id": "emb-p196-017",
+   "deck": "Embryology & Histology",
+   "section": "Movement across the cell membrane",
+   "page": 196,
+   "text": "{{c1::Osmosis}} is movement of {{c2::water}} molecules across a semipermeable membrane from an area of {{c3::lower}} solute concentration to an area of higher solute concentration.",
+   "extra": "Purpose: to balance solute levels on both sides. Lower solute = more water."
+  }
+ ],
+ "basic": [
+  {
+   "id": "emb-p192-b-01",
+   "deck": "Embryology & Histology",
+   "section": "Abnormalities of the cementum",
+   "page": 192,
+   "front": "Cementicle",
+   "back": "A calcified area found within the periodontal ligament (PDL)",
+   "reverse": true
+  },
+  {
+   "id": "emb-p192-b-02",
+   "deck": "Embryology & Histology",
+   "section": "Abnormalities of the cementum",
+   "page": 192,
+   "front": "Cementocyte",
+   "back": "A cementoblast that has become entrapped within the cementum matrix",
+   "reverse": true
+  },
+  {
+   "id": "emb-p192-b-03",
+   "deck": "Embryology & Histology",
+   "section": "Alveolar bone",
+   "page": 192,
+   "front": "Why do edentulous patients experience a change in the vertical dimension of the face?",
+   "back": "Alveolar bone depends on the presence of teeth; when teeth are lost the bone resorbs, so bone (height) is lost."
+  },
+  {
+   "id": "emb-p192-b-04",
+   "deck": "Embryology & Histology",
+   "section": "Alveolar bone",
+   "page": 192,
+   "front": "Alveolus",
+   "back": "U-shaped socket that houses the tooth",
+   "reverse": true
+  },
+  {
+   "id": "emb-p193-b-01",
+   "deck": "Embryology & Histology",
+   "section": "Succedaneous and non-succedaneous teeth",
+   "page": 193,
+   "front": "Succedaneous teeth",
+   "back": "Permanent teeth that replace primary teeth",
+   "reverse": true,
+   "extra": "WakeUpMemory: Succedaneous = Replacement (it replaces something already there)."
+  },
+  {
+   "id": "emb-p193-b-02",
+   "deck": "Embryology & Histology",
+   "section": "Succedaneous and non-succedaneous teeth",
+   "page": 193,
+   "front": "Non-succedaneous teeth",
+   "back": "Permanent teeth that do not replace any primary teeth (no primary predecessor)",
+   "reverse": true,
+   "extra": "WakeUpMemory: Non-succedaneous = Brand New (a new addition, not a replacement)."
+  },
+  {
+   "id": "emb-p196-b-01",
+   "deck": "Embryology & Histology",
+   "section": "Cell replication and attachment",
+   "page": 196,
+   "front": "Desmosomes",
+   "back": "Attach neighboring cells to each other",
+   "reverse": true
+  },
+  {
+   "id": "emb-p196-b-02",
+   "deck": "Embryology & Histology",
+   "section": "Cell replication and attachment",
+   "page": 196,
+   "front": "Hemidesmosomes",
+   "back": "Attach a cell to a non-cellular surface",
+   "reverse": true,
+   "extra": "e.g., junctional epithelium to the tooth surface"
+  }
+ ],
+ "typein": [
+  {
+   "id": "emb-p194-t-01",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "question": "How many circumvallate papillae are present? (range)",
+   "answer": "8-12"
+  },
+  {
+   "id": "emb-p195-t-01",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "question": "Keratinized mucosa accounts for what percentage of all oral mucosa? (%)",
+   "answer": "25%"
+  },
+  {
+   "id": "emb-p196-t-01",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "question": "How many chromosomes does the nucleus of a human body cell contain?",
+   "answer": "46",
+   "extra": "23 pairs"
+  }
+ ],
+ "match": [
+  {
+   "id": "emb-p192-m-01",
+   "deck": "Embryology & Histology",
+   "section": "Abnormalities of the cementum",
+   "page": 192,
+   "prompt": "Match each cementum feature to its description.",
+   "pairs": [
+    [
+     "Reversal line",
+     "Line formed during remodeling (orthodontic movement)"
+    ],
+    [
+     "Cementicle",
+     "Calcified area within the PDL"
+    ],
+    [
+     "Cementocyte",
+     "Cementoblast entrapped in cementum matrix"
+    ],
+    [
+     "Hypercementosis",
+     "Thickened cementum around roots"
+    ]
+   ]
+  },
+  {
+   "id": "emb-p194-m-01",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "prompt": "Match each papilla to its shape/location.",
+   "pairs": [
+    [
+     "Filiform",
+     "Most numerous; anterior 2/3 of dorsal tongue"
+    ],
+    [
+     "Fungiform",
+     "Mushroom-shaped, red, on dorsal side"
+    ],
+    [
+     "Circumvallate",
+     "Large, dome-shaped, V-shaped row at the back"
+    ],
+    [
+     "Foliate",
+     "Elongated, on the side of the tongue"
+    ]
+   ]
+  },
+  {
+   "id": "emb-p196-m-01",
+   "deck": "Embryology & Histology",
+   "section": "Cell components",
+   "page": 196,
+   "prompt": "Match each cell component to its function.",
+   "pairs": [
+    [
+     "Cell membrane",
+     "Protein-lipid layer that protects the cell"
+    ],
+    [
+     "Cytoplasm",
+     "Aqueous substance holding organelles"
+    ],
+    [
+     "Nucleus",
+     "Contains DNA; stores genetic code"
+    ],
+    [
+     "Endoplasmic reticulum",
+     "Network of membranes and spaces"
+    ],
+    [
+     "Golgi complex",
+     "Packages/distributes proteins; makes lysosomes"
+    ],
+    [
+     "Mitochondria",
+     "Generates ATP"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "emb-p193-o-01",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "prompt": "Put the layers of the oral mucosa in order from surface to deep.",
+   "items": [
+    "Epithelium",
+    "Lamina propria",
+    "Submucosa",
+    "Periosteum",
+    "Bone"
+   ]
+  },
+  {
+   "id": "emb-p195-o-01",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "prompt": "Put the layers of keratinized epithelium in order from surface to deep.",
+   "items": [
+    "Stratum corneum",
+    "Granular cell layer",
+    "Spinous layer",
+    "Basal layer"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "emb-p193-s-01",
+   "deck": "Embryology & Histology",
+   "section": "Succedaneous and non-succedaneous teeth",
+   "page": 193,
+   "prompt": "Sort the permanent teeth.",
+   "categories": [
+    [
+     "Succedaneous",
+     [
+      "Central incisor",
+      "Lateral incisor",
+      "Canine",
+      "First premolar",
+      "Second premolar"
+     ]
+    ],
+    [
+     "Non-succedaneous",
+     [
+      "First molar",
+      "Second molar",
+      "Third molar"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "emb-p194-s-01",
+   "deck": "Embryology & Histology",
+   "section": "Lining and masticatory mucosa",
+   "page": 194,
+   "prompt": "Sort the sites by type of oral mucosa.",
+   "categories": [
+    [
+     "Lining (non-keratinized)",
+     [
+      "Buccal/labial mucosa",
+      "Floor of the mouth",
+      "Ventral tongue",
+      "Soft palate",
+      "Alveolar mucosa"
+     ]
+    ],
+    [
+     "Masticatory (keratinized)",
+     [
+      "Attached gingiva",
+      "Marginal gingiva",
+      "Dorsal tongue",
+      "Hard palate"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "emb-p196-s-01",
+   "deck": "Embryology & Histology",
+   "section": "Cell replication and attachment",
+   "page": 196,
+   "prompt": "Sort the features: mitosis or meiosis?",
+   "categories": [
+    [
+     "Mitosis",
+     [
+      "Somatic (body) cells",
+      "Produces diploid cells"
+     ]
+    ],
+    [
+     "Meiosis",
+     [
+      "Gamete (sex) cells",
+      "Produces haploid cells",
+      "Two rounds of division, one DNA replication"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "emb-p192-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Alveolar bone",
+   "page": 192,
+   "question": "On a periapical radiograph, the thin radiopaque line outlining the tooth socket is the lamina dura. Anatomically, this structure is the:",
+   "options": [
+    "A. Cancellous bone",
+    "B. Cribriform plate (alveolar bone proper)",
+    "C. Cortical plate on the buccal side",
+    "D. Periodontal ligament"
+   ],
+   "answer": "B. Cribriform plate (alveolar bone proper)",
+   "explanation": "The cribriform plate — the alveolar bone proper facing the root, perforated by vessels and nerves — is called the lamina dura radiographically. Cortical plates are the outer buccal/lingual bone; the PDL is soft tissue (radiolucent space)."
+  },
+  {
+   "id": "emb-p193-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "question": "Each of the following dental tissues is a specialized connective tissue EXCEPT one. Which is the exception?",
+   "options": [
+    "A. Cementum",
+    "B. Dentin",
+    "C. Pulp",
+    "D. Enamel"
+   ],
+   "answer": "D. Enamel",
+   "explanation": "Enamel is an epithelial tissue; cementum, dentin, and pulp are specialized connective tissues."
+  },
+  {
+   "id": "emb-p193-mcq-02",
+   "deck": "Embryology & Histology",
+   "section": "Structure of the oral epithelium",
+   "page": 193,
+   "question": "The orange-peel stippling of healthy attached gingiva is produced by which structure?",
+   "options": [
+    "A. Rete pegs",
+    "B. Submucosa",
+    "C. Hemidesmosomes",
+    "D. Sebaceous glands"
+   ],
+   "answer": "A. Rete pegs",
+   "explanation": "Rete pegs (epithelial projections into connective tissue) cause stippling. Attached gingiva has no submucosa (submucosa is only where cushion is needed, e.g., cheeks)."
+  },
+  {
+   "id": "emb-p194-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Mucosa of the tongue",
+   "page": 194,
+   "question": "A patient presents with an elongated, dark, hair-like coating on the dorsum of the tongue (black hairy tongue). Which papillae are elongated?",
+   "options": [
+    "A. Fungiform",
+    "B. Circumvallate",
+    "C. Filiform",
+    "D. Foliate"
+   ],
+   "answer": "C. Filiform",
+   "explanation": "Elongation of filiform papillae (the most numerous, anterior 2/3 of the dorsum) causes black hairy tongue. Fungiform papillae are mushroom-shaped and red, not elongated."
+  },
+  {
+   "id": "emb-p194-mcq-02",
+   "deck": "Embryology & Histology",
+   "section": "Lining and masticatory mucosa",
+   "page": 194,
+   "question": "A biopsy taken from which site would show NON-keratinized epithelium?",
+   "options": [
+    "A. Hard palate",
+    "B. Attached gingiva",
+    "C. Dorsal tongue",
+    "D. Ventral tongue"
+   ],
+   "answer": "D. Ventral tongue",
+   "explanation": "The ventral tongue is lining mucosa (non-keratinized). Hard palate, attached gingiva, and dorsal tongue are masticatory mucosa (keratinized)."
+  },
+  {
+   "id": "emb-p195-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Keratinization and pigmentation",
+   "page": 195,
+   "question": "Benign physiologic pigmentation of the attached gingiva is produced by which cells?",
+   "options": [
+    "A. Langerhans cells",
+    "B. Melanocytes in the basal layer",
+    "C. Merkel cells",
+    "D. Keratinocytes in the stratum corneum"
+   ],
+   "answer": "B. Melanocytes in the basal layer",
+   "explanation": "Melanocytes, located in the basal layer, produce pigmentation (melanin). Langerhans and Merkel cells are other cells in the epithelium but do not produce pigment."
+  },
+  {
+   "id": "emb-p196-mcq-01",
+   "deck": "Embryology & Histology",
+   "section": "Cell replication and attachment",
+   "page": 196,
+   "question": "The junctional epithelium attaches the gingiva to the tooth surface by means of:",
+   "options": [
+    "A. Desmosomes",
+    "B. Hemidesmosomes",
+    "C. Sharpey's fibers",
+    "D. Rete pegs"
+   ],
+   "answer": "B. Hemidesmosomes",
+   "explanation": "Hemidesmosomes attach a cell to a non-cellular surface (the tooth). Desmosomes attach neighboring cells to each other."
+  },
+  {
+   "id": "emb-p196-mcq-02",
+   "deck": "Embryology & Histology",
+   "section": "Movement across the cell membrane",
+   "page": 196,
+   "question": "Water moves across a semipermeable membrane from an area of low solute concentration to an area of high solute concentration. This process is:",
+   "options": [
+    "A. Diffusion",
+    "B. Facilitated diffusion",
+    "C. Active transport",
+    "D. Osmosis"
+   ],
+   "answer": "D. Osmosis",
+   "explanation": "Osmosis is movement of water toward the higher solute concentration to balance solute levels. Diffusion moves molecules (solutes) from high to low concentration."
+  },
+  {
+   "id": "emb-quiz-01",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "Hard tooth surfaces, including enamel and dentin, develop during which stage of tooth formation?",
+   "options": [
+    "A. Cap stage",
+    "B. Bell stage",
+    "C. Bud stage",
+    "D. Maturation stage"
+   ],
+   "answer": "D. Maturation stage",
+   "explanation": "During the maturation stage, dental tissues develop into their mature forms and undergo calcification by the deposition of hydroxyapatite crystals, forming the hard tooth surfaces."
+  },
+  {
+   "id": "emb-quiz-02",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "The enamel organ, dental papilla and dental follicle collectively form one unit referred to as the:",
+   "options": [
+    "A. Tooth germ",
+    "B. Preameloblast",
+    "C. Ameloblast",
+    "D. Lamina dura"
+   ],
+   "answer": "A. Tooth germ",
+   "explanation": "The tooth germ is the embryonic structure that develops into a tooth, consisting of the enamel organ, dental papilla, and dental sac (follicle)."
+  },
+  {
+   "id": "emb-quiz-03",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "Which is a correct statement?",
+   "options": [
+    "A. In the oral cavity, the midsagittal plane is called the midline, or median line-of-separation",
+    "B. The permanent premolars are considered non-succedaneous",
+    "C. In the universal naming system, the mandibular left second molar is number 31",
+    "D. The first teeth to erupt in the oral cavity are usually the deciduous maxillary central incisors"
+   ],
+   "answer": "A. In the oral cavity, the midsagittal plane is called the midline, or median line-of-separation",
+   "explanation": "The midsagittal plane divides the oral cavity into equal right and left halves and is referred to as the midline or median line-of-separation."
+  },
+  {
+   "id": "emb-quiz-04",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "Which epithelial tissue surrounding the tooth is nonkeratinized?",
+   "options": [
+    "A. Inner surface of the free gingival margin",
+    "B. Outer surface of the free gingiva",
+    "C. Papillae",
+    "D. Attached gingiva"
+   ],
+   "answer": "A. Inner surface of the free gingival margin",
+   "explanation": "The sulcular epithelium (the inner surface of the free gingival margin) and the junctional epithelium are nonkeratinized."
+  },
+  {
+   "id": "emb-quiz-05",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "Endoderm, mesoderm, and ectoderm are the three primary layers formed early in embryonic development. The ectoderm layer differentiates into each of the following EXCEPT one. Which one is the exception?",
+   "options": [
+    "A. Skin",
+    "B. Nails",
+    "C. Brain and spinal cord",
+    "D. Circulatory system"
+   ],
+   "answer": "D. Circulatory system",
+   "explanation": "The ectoderm gives rise to the skin, nervous system (brain), hair, and nails. The circulatory system primarily develops from the mesoderm. (The book's 5th option, \"E. Hair\" — also ectoderm — is omitted to fit the 4-option format.)"
+  },
+  {
+   "id": "emb-quiz-06",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "Red blood cells, most white blood cells, and platelets are produced in the:",
+   "options": [
+    "A. Cardiovascular system",
+    "B. Bone marrow",
+    "C. Skeletal system",
+    "D. Corpuscle"
+   ],
+   "answer": "B. Bone marrow",
+   "explanation": "Hematopoiesis, the process of forming blood cellular components, occurs primarily in the red bone marrow."
+  },
+  {
+   "id": "emb-quiz-07",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "During embryonic development the primitive mouth is called the:",
+   "options": [
+    "A. Frontonasal process",
+    "B. Stomodeum",
+    "C. First pharyngeal arch",
+    "D. Foregut"
+   ],
+   "answer": "B. Stomodeum",
+   "explanation": "The stomodeum is the embryonic invagination that develops into the oral cavity. (The book's 5th option, \"E. Mandibular pharyngeal arch\", is omitted to fit the 4-option format.)"
+  },
+  {
+   "id": "emb-quiz-08",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "The type of epithelial tissue that is found in the oral cavity is called:",
+   "options": [
+    "A. Stratified squamous epithelium",
+    "B. Simple columnar epithelium",
+    "C. Simple cuboidal epithelium",
+    "D. Pseudo-stratified columnar epithelium"
+   ],
+   "answer": "A. Stratified squamous epithelium",
+   "explanation": "The oral cavity is primarily lined with stratified squamous epithelium, which provides protection against abrasion."
+  },
+  {
+   "id": "emb-quiz-09",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "Which embryonic structure gives rise to the enamel of teeth?",
+   "options": [
+    "A. Inner enamel epithelium",
+    "B. Dental sac (follicle)",
+    "C. Dental papilla",
+    "D. Neural crest cells"
+   ],
+   "answer": "A. Inner enamel epithelium",
+   "explanation": "Inner enamel epithelium cells differentiate into ameloblasts, which are responsible for enamel formation."
+  },
+  {
+   "id": "emb-quiz-10",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "Which is derived from the first pharyngeal (branchial) arch?",
+   "options": [
+    "A. Muscles of facial expression",
+    "B. Stylopharyngeus muscle",
+    "C. Hyoid bone (lesser horn)",
+    "D. Maxillary process"
+   ],
+   "answer": "D. Maxillary process",
+   "explanation": "The first arch gives rise to the maxillary and mandibular processes, forming much of the face and jaw."
+  },
+  {
+   "id": "emb-quiz-11",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "What is the origin of the cementum of the tooth?",
+   "options": [
+    "A. Inner enamel epithelium",
+    "B. Dental papilla",
+    "C. Dental sac (follicle)",
+    "D. Stellate reticulum"
+   ],
+   "answer": "C. Dental sac (follicle)",
+   "explanation": "This ectomesenchymal tissue forms the cementum, periodontal ligament, and alveolar bone — the supporting structures of the tooth."
+  },
+  {
+   "id": "emb-quiz-12",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "Which germ layer gives rise to the oral epithelium?",
+   "options": [
+    "A. Ectoderm",
+    "B. Mesoderm",
+    "C. Endoderm",
+    "D. Neural crest"
+   ],
+   "answer": "A. Ectoderm",
+   "explanation": "The oral epithelium, which gives rise to structures like the enamel organ, originates from surface ectoderm."
+  },
+  {
+   "id": "emb-quiz-13",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 197,
+   "question": "Which event marks the beginning of the bell stage in tooth development?",
+   "options": [
+    "A. Formation of the dental lamina",
+    "B. Appearance of tooth buds",
+    "C. Enamel matrix secretion",
+    "D. Differentiation of enamel organ layers"
+   ],
+   "answer": "D. Differentiation of enamel organ layers",
+   "explanation": "The bell stage is characterized by the distinct layering of the enamel organ: outer enamel epithelium, stellate reticulum, stratum intermedium, and inner enamel epithelium."
+  },
+  {
+   "id": "emb-quiz-14",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 198,
+   "question": "Which is a characteristic of masticatory mucosa?",
+   "options": [
+    "A. Non-keratinized epithelium covering the inner cheeks",
+    "B. Found on the hard palate and attached gingiva",
+    "C. Contains numerous taste buds",
+    "D. Lines the floor of the mouth and vestibule"
+   ],
+   "answer": "B. Found on the hard palate and attached gingiva",
+   "explanation": "Masticatory mucosa is keratinized and located in areas subject to friction and pressure, such as the hard palate and attached gingiva."
+  },
+  {
+   "id": "emb-quiz-15",
+   "deck": "Quizzes",
+   "section": "Embryology bonus quiz",
+   "page": 198,
+   "question": "What is the primary function of rete pegs in oral epithelium?",
+   "options": [
+    "A. Secrete collagen fibers into the lamina propria",
+    "B. Provide vascular supply to keratinized tissues",
+    "C. Increase surface area for epithelial-connective tissue attachment",
+    "D. House sensory nerve endings for taste and pressure"
+   ],
+   "answer": "C. Increase surface area for epithelial-connective tissue attachment",
+   "explanation": "Rete pegs (rete ridges) are extensions of epithelium into the connective tissue that help anchor the tissue and resist shear forces, especially in areas like masticatory mucosa."
+  }
+ ]
+}

@@ -1,0 +1,2026 @@
+{
+ "diagrams": [
+  {
+   "name": "path-p60-sessile-pedunculated",
+   "title": "Sessile vs pedunculated lesion",
+   "deck": "Oral Pathology",
+   "pdf_page": 2,
+   "page": 60,
+   "crop": [
+    165,
+    628,
+    420,
+    782
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      322,
+      650,
+      384,
+      673
+     ],
+     "answer": "Sessile",
+     "fit": "text"
+    },
+    {
+     "box": [
+      322,
+      709,
+      402,
+      732
+     ],
+     "answer": "Pedunculated",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "path-p63-skin-cancer",
+   "title": "Skin cancer: healthy epidermis and three cancer types",
+   "deck": "Oral Pathology",
+   "pdf_page": 5,
+   "page": 63,
+   "crop": [
+    360,
+    970,
+    1190,
+    1700
+   ],
+   "labels": [
+    {
+     "box": [
+      597,
+      1050,
+      682,
+      1097
+     ],
+     "answer": "Squamous cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      597,
+      1110,
+      686,
+      1136
+     ],
+     "answer": "Melanocyte",
+     "fit": "text"
+    },
+    {
+     "box": [
+      596,
+      1141,
+      648,
+      1186
+     ],
+     "answer": "Basal cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      634,
+      1244,
+      760,
+      1293
+     ],
+     "answer": "Squamous cell carcinoma",
+     "fit": "text"
+    },
+    {
+     "box": [
+      814,
+      1244,
+      908,
+      1293
+     ],
+     "answer": "Basal cell carcinoma",
+     "fit": "text"
+    },
+    {
+     "box": [
+      969,
+      1255,
+      1063,
+      1285
+     ],
+     "answer": "Melanoma",
+     "fit": "text"
+    },
+    {
+     "box": [
+      380,
+      1434,
+      497,
+      1465
+     ],
+     "answer": "Epidermis",
+     "fit": "text"
+    },
+    {
+     "box": [
+      397,
+      1554,
+      483,
+      1583
+     ],
+     "answer": "Dermis",
+     "fit": "text"
+    },
+    {
+     "box": [
+      367,
+      1655,
+      503,
+      1686
+     ],
+     "answer": "Hypodermis",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "path-p60-001",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "text": "Examples of a {{c1::macule}}: freckle, amalgam tattoo in the oral mucosa, petechiae.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-002",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "text": "Examples of a {{c1::plaque}}: oral leukoplakia, psoriasis plaque, oral hairy leukoplakia.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-003",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "text": "Examples of a {{c1::pustule}}: acne pimple, impetigo lesion, periapical abscess draining on the gums.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-004",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "text": "Examples of a {{c1::vesicle}}: herpes simplex blister on the lip, chickenpox blister.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-005",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "text": "Examples of a {{c1::bulla}}: bullous pemphigoid skin blisters, second-degree burn blister.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-006",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "text": "Examples of a {{c1::papule}}: skin mole (nevus), Fordyce granule, lichen planus bump, skin tag.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-007",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "text": "Examples of a {{c1::nodule}}: lymph nodules, fibroma, lipoma, cyst.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-008",
+   "deck": "Oral Pathology",
+   "section": "How to describe lesions",
+   "page": 60,
+   "text": "Describing a lesion — <b>color</b>: red, white, yellow, blue, black, brown, or mixed. <b>Shape/form</b>: round, oval, irregular, flat, {{c1::raised}}, or {{c2::depressed}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-009",
+   "deck": "Oral Pathology",
+   "section": "How to describe lesions",
+   "page": 60,
+   "text": "Describing a lesion — <b>{{c1::content}}</b> (what is inside): clear fluid (serum, mucin), yellow pus, or solid tissue.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-010",
+   "deck": "Oral Pathology",
+   "section": "How to describe lesions",
+   "page": 60,
+   "text": "Describing a lesion — lesion size is measured in {{c1::millimeters (mm) or centimeters (cm)}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-011",
+   "deck": "Oral Pathology",
+   "section": "How to describe lesions",
+   "page": 60,
+   "text": "Describing a lesion — <b>texture</b> terms: smooth, rough, {{c1::papillary}}, cauliflower-like, {{c2::verrucous}}, corrugated, crusted, or ulcerated.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-012",
+   "deck": "Oral Pathology",
+   "section": "How to describe lesions",
+   "page": 60,
+   "text": "Describing a lesion — <b>location</b>: the {{c1::precise anatomical site}} (e.g., buccal mucosa, tongue, palate, gingiva).",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-013",
+   "deck": "Oral Pathology",
+   "section": "How to describe lesions",
+   "page": 60,
+   "text": "Describing a lesion — <b>border/margin</b>: {{c1::well-defined}} (sharp) or {{c2::ill-defined}} (diffuse).",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-014",
+   "deck": "Oral Pathology",
+   "section": "How to describe lesions",
+   "page": 60,
+   "text": "Describing a lesion — <b>consistency</b> (on palpation): soft, firm, {{c1::fluctuant}} (fluid-filled), or hard.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-015",
+   "deck": "Oral Pathology",
+   "section": "Example: minor aphthous ulcer",
+   "page": 60,
+   "text": "Minor aphthous ulcer — color: {{c1::red border}} with a {{c2::yellowish-white base}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-016",
+   "deck": "Oral Pathology",
+   "section": "Example: minor aphthous ulcer",
+   "page": 60,
+   "text": "Minor aphthous ulcer — content: {{c1::no fluid; exposed connective tissue}} (solid base).",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-017",
+   "deck": "Oral Pathology",
+   "section": "Example: minor aphthous ulcer",
+   "page": 60,
+   "text": "Minor aphthous ulcer — texture: {{c1::rough, necrotic}} surface; shape: {{c2::round or oval depression}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-018",
+   "deck": "Oral Pathology",
+   "section": "Example: minor aphthous ulcer",
+   "page": 60,
+   "text": "Minor aphthous ulcer — location: {{c1::labial mucosa, buccal mucosa, ventral tongue}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p60-019",
+   "deck": "Oral Pathology",
+   "section": "Example: minor aphthous ulcer",
+   "page": 60,
+   "text": "Minor aphthous ulcer — border: well-defined {{c1::red halo}} around the lesion; consistency: soft at the center, slightly {{c2::tender}} on palpation.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-001",
+   "deck": "Oral Pathology",
+   "section": "Fordyce granules",
+   "page": 61,
+   "text": "Fordyce granules are clusters of {{c1::ectopic sebaceous (oil) glands}}.",
+   "extra": "Ectopic = in an abnormal place or pattern. WakeUpMemory: \"Fordyce = Face oil dots.\""
+  },
+  {
+   "id": "path-p61-002",
+   "deck": "Oral Pathology",
+   "section": "Fordyce granules",
+   "page": 61,
+   "text": "Fordyce granules are found mostly on the {{c1::lips}} and {{c2::buccal mucosa}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-003",
+   "deck": "Oral Pathology",
+   "section": "Fordyce granules",
+   "page": 61,
+   "text": "Fordyce granules appear as clusters of tiny {{c1::yellow}} lobules.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-004",
+   "deck": "Oral Pathology",
+   "section": "Tori and exostosis",
+   "page": 61,
+   "text": "An {{c1::exostosis}} is a benign bony overgrowth on the {{c2::buccal (outer)}} surface of the maxilla or mandible.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-005",
+   "deck": "Oral Pathology",
+   "section": "Tori and exostosis",
+   "page": 61,
+   "text": "{{c1::Torus palatinus}} (maxillary torus) appears near the {{c2::midline of the hard palate}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-006",
+   "deck": "Oral Pathology",
+   "section": "Tori and exostosis",
+   "page": 61,
+   "text": "Mandibular tori appear on the {{c1::lingual}} aspect of the mandible in the {{c2::premolar}} region; usually {{c3::bilateral}}, lobulated, or nodular.",
+   "extra": "Tori is the plural of torus."
+  },
+  {
+   "id": "path-p61-007",
+   "deck": "Oral Pathology",
+   "section": "Tori and exostosis",
+   "page": 61,
+   "text": "On a radiograph, a large torus may appear as a {{c1::radiopaque}} mass.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-008",
+   "deck": "Oral Pathology",
+   "section": "Melanin pigmentation",
+   "page": 61,
+   "text": "Melanin pigmentation is caused by {{c1::increased melanin production}} in the oral mucosa.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-009",
+   "deck": "Oral Pathology",
+   "section": "Melanin pigmentation",
+   "page": 61,
+   "text": "Melanin pigmentation is common on the {{c1::gingiva}} and {{c2::labial mucosa}}, most often in {{c3::dark-skinned}} individuals.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-010",
+   "deck": "Oral Pathology",
+   "section": "Melanin pigmentation",
+   "page": 61,
+   "text": "Melanin pigmentation appears as flat, dark {{c1::macules}}; borders may be well-defined or diffuse.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-011",
+   "deck": "Oral Pathology",
+   "section": "Lingual varicosity",
+   "page": 61,
+   "text": "Lingual varicosities are enlarged, dilated veins on the {{c1::ventral surface and sides}} of the tongue.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-012",
+   "deck": "Oral Pathology",
+   "section": "Lingual varicosity",
+   "page": 61,
+   "text": "Lingual varicosities appear as {{c1::purple or blue}}, enlarged vessels visible under the tongue; they are asymptomatic.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-013",
+   "deck": "Oral Pathology",
+   "section": "Linea alba",
+   "page": 61,
+   "text": "Linea alba is a {{c1::white line}} on the buccal mucosa at the level where the upper and lower teeth meet, following the {{c2::occlusal plane}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-014",
+   "deck": "Oral Pathology",
+   "section": "Linea alba",
+   "page": 61,
+   "text": "Linea alba appears as a white, raised, well-defined line, often {{c1::bilateral}}; it is asymptomatic.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-015",
+   "deck": "Oral Pathology",
+   "section": "Leukoedema",
+   "page": 61,
+   "text": "Leukoedema is a generalized opalescent or milky-white appearance of the buccal mucosa caused by {{c1::intracellular edema in the spinous cell layer}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-016",
+   "deck": "Oral Pathology",
+   "section": "Leukoedema",
+   "page": 61,
+   "text": "Leukoedema is a bilateral, diffuse, gray-white opalescent surface with a wrinkled texture that {{c1::diminishes when stretched}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-017",
+   "deck": "Oral Pathology",
+   "section": "Leukoedema",
+   "page": 61,
+   "text": "Leukoedema is most often seen on the {{c1::buccal mucosa}} and is more common in {{c2::Black adults}} and {{c3::smokers}}; it is asymptomatic.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-001",
+   "deck": "Oral Pathology",
+   "section": "Lingual thyroid nodule",
+   "page": 62,
+   "text": "The thyroid originates at the base of the tongue near the {{c1::foramen cecum}} around the {{c2::4th}} week and descends to its final position in the neck by the {{c3::7th}} week.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-002",
+   "deck": "Oral Pathology",
+   "section": "Lingual thyroid nodule",
+   "page": 62,
+   "text": "A lingual thyroid nodule is located on the {{c1::midline of the dorsal tongue}}, behind the circumvallate papillae, near the foramen cecum.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-003",
+   "deck": "Oral Pathology",
+   "section": "Lingual thyroid nodule",
+   "page": 62,
+   "text": "A lingual thyroid is a smooth, nodular mass that is usually asymptomatic but may interfere with {{c1::swallowing, speech, or breathing}} if large.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-004",
+   "deck": "Oral Pathology",
+   "section": "Amalgam tattoo",
+   "page": 62,
+   "text": "An amalgam tattoo is a benign discoloration of the mucosa due to accidental {{c1::implantation of amalgam (silver filling)}} during dental procedures; it is commonly found near a {{c2::restoration site}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-005",
+   "deck": "Oral Pathology",
+   "section": "Amalgam tattoo",
+   "page": 62,
+   "text": "An amalgam tattoo is a flat, {{c1::blue-gray}} discoloration with well-defined borders; it may show {{c2::radiopaque flecks}} on a radiograph.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-006",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Tumors are staged by malignancy potential using the {{c1::TNM}} staging system ({{c2::Tumor, Node, Metastasis}}); higher stages mean a {{c3::worse}} prognosis.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-007",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "A {{c1::benign}} tumor remains localized and does not invade surrounding tissues (no metastasis).",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-008",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "A {{c1::malignant}} tumor invades and destroys surrounding tissues and can metastasize to distant sites.",
+   "extra": "Cancer is synonymous with malignancy."
+  },
+  {
+   "id": "path-p62-009",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Tumor names end with {{c1::-oma}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-010",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Benign tumor of fat = {{c1::lipoma}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-011",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Benign tumor of salivary glands = {{c1::adenoma}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-012",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Benign tumor of bone = {{c1::osteoma}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-013",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Benign tumor of muscle = {{c1::rhabdomyoma}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-014",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Benign tumor of squamous epithelium = {{c1::papilloma}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-015",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Malignant tumor of epithelium = {{c1::carcinoma}}.",
+   "extra": "WakeUpMemory: SArcoma, MElanoma, CARcinoma are cancerous — SA ME CAR."
+  },
+  {
+   "id": "path-p62-016",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Malignant tumor of connective tissue = {{c1::sarcoma}}.",
+   "extra": "SA ME CAR = sarcoma, melanoma, carcinoma are cancerous."
+  },
+  {
+   "id": "path-p62-017",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "text": "Malignant tumor of melanocytes = {{c1::melanoma}}.",
+   "extra": "SA ME CAR = sarcoma, melanoma, carcinoma are cancerous."
+  },
+  {
+   "id": "path-p62-018",
+   "deck": "Oral Pathology",
+   "section": "Papilloma",
+   "page": 62,
+   "text": "Oral squamous papilloma is a benign tumor of {{c1::squamous epithelium}} related to {{c2::HPV types 6 and 11}} (low-risk types).",
+   "extra": "WakeUpMemory: papilloma means \"small projections\" in Latin — hence its finger-like projections."
+  },
+  {
+   "id": "path-p62-019",
+   "deck": "Oral Pathology",
+   "section": "Papilloma",
+   "page": 62,
+   "text": "Oral papilloma is most common on the {{c1::soft palate, uvula, tongue, or lips}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-020",
+   "deck": "Oral Pathology",
+   "section": "Papilloma",
+   "page": 62,
+   "text": "Oral papilloma is a small, exophytic, pedunculated or sessile mass with a {{c1::cauliflower-like or finger-like}} surface.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-021",
+   "deck": "Oral Pathology",
+   "section": "Irritation fibroma",
+   "page": 62,
+   "text": "An irritation fibroma is a benign {{c1::fibrous}} overgrowth caused by {{c2::chronic irritation}} (e.g., cheek biting, friction from sharp teeth).",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-022",
+   "deck": "Oral Pathology",
+   "section": "Irritation fibroma",
+   "page": 62,
+   "text": "An irritation fibroma is most often found on the {{c1::buccal mucosa}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p62-023",
+   "deck": "Oral Pathology",
+   "section": "Irritation fibroma",
+   "page": 62,
+   "text": "An irritation fibroma appears as a small, firm, smooth, light pink, elevated {{c1::nodule}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-001",
+   "deck": "Oral Pathology",
+   "section": "Lipoma",
+   "page": 63,
+   "text": "A lipoma is a benign tumor of mature {{c1::fat}} cells, {{c2::rare}} in the oral cavity but common elsewhere in the body.",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-002",
+   "deck": "Oral Pathology",
+   "section": "Lipoma",
+   "page": 63,
+   "text": "In the mouth, a lipoma is most common on the {{c1::buccal mucosa or vestibule}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-003",
+   "deck": "Oral Pathology",
+   "section": "Lipoma",
+   "page": 63,
+   "text": "A lipoma is a soft, smooth, {{c1::yellowish}}, fluctuant submucosal mass, usually under {{c2::3 cm}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-004",
+   "deck": "Oral Pathology",
+   "section": "Neurofibroma",
+   "page": 63,
+   "text": "Neurofibromas are benign tumors derived from {{c1::nerve}} tissue; they involve multiple cell types ({{c2::Schwann cells and fibroblasts}}) and are {{c3::diffuse}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-005",
+   "deck": "Oral Pathology",
+   "section": "Neurofibroma",
+   "page": 63,
+   "text": "Multiple neurofibromas may be a sign of {{c1::neurofibromatosis type 1}} ({{c2::von Recklinghausen}} disease), a genetic disorder.",
+   "extra": "Did you know: actor Adam Pearson has neurofibromatosis; his twin brother is less visibly affected, showing the variable expression of the condition."
+  },
+  {
+   "id": "path-p63-006",
+   "deck": "Oral Pathology",
+   "section": "Neurofibroma",
+   "page": 63,
+   "text": "Oral neurofibromas are most common on the {{c1::tongue or buccal mucosa}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-007",
+   "deck": "Oral Pathology",
+   "section": "Neurofibroma",
+   "page": 63,
+   "text": "Neurofibromatosis: slow-growing, soft, painless nodules plus {{c1::café au lait spots}} (flat, light-brown skin patches).",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-008",
+   "deck": "Oral Pathology",
+   "section": "Squamous cell carcinoma",
+   "page": 63,
+   "text": "{{c1::Squamous cell carcinoma (SCC)}} is the most common primary malignancy of the oral cavity.",
+   "extra": "WakeUpMemory: SCC → \"SCO = Scary Cancer in the Oral cavity.\""
+  },
+  {
+   "id": "path-p63-009",
+   "deck": "Oral Pathology",
+   "section": "Squamous cell carcinoma",
+   "page": 63,
+   "text": "Oral SCC arises from {{c1::squamous epithelium}} — flat epithelial cells that make up most of the epidermis and line the entire oral cavity.",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-010",
+   "deck": "Oral Pathology",
+   "section": "Squamous cell carcinoma",
+   "page": 63,
+   "text": "Oral SCC is common on the {{c1::ventrolateral tongue}}, {{c2::floor of the mouth}}, soft palate, tonsillar pillar, and {{c3::lower lip}} (from sun exposure).",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-011",
+   "deck": "Oral Pathology",
+   "section": "Squamous cell carcinoma",
+   "page": 63,
+   "text": "Risk factors for oral SCC: {{c1::tobacco}} use, {{c2::alcohol}} consumption, and {{c3::sun}} exposure.",
+   "extra": ""
+  },
+  {
+   "id": "path-p63-012",
+   "deck": "Oral Pathology",
+   "section": "Squamous cell carcinoma",
+   "page": 63,
+   "text": "Oral SCC appears as a non-healing ulcer, exophytic mass, or leukoplakic/erythroplakic lesion with {{c1::indurated (firm)}} borders.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-001",
+   "deck": "Oral Pathology",
+   "section": "Basal cell carcinoma",
+   "page": 64,
+   "text": "Basal cell carcinoma is a {{c1::malignant}} tumor of {{c2::basal cells}} in the deepest layer of the epidermis.",
+   "extra": "WakeUpMemory: think basal = beach — a lot of sun."
+  },
+  {
+   "id": "path-p64-002",
+   "deck": "Oral Pathology",
+   "section": "Basal cell carcinoma",
+   "page": 64,
+   "text": "Basal cell carcinoma occurs on {{c1::sun-exposed skin}} (face, scalp, ears) and {{c2::does not occur intraorally}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-003",
+   "deck": "Oral Pathology",
+   "section": "Basal cell carcinoma",
+   "page": 64,
+   "text": "Basal cell carcinoma appears as a non-healing ulcer with {{c1::rolled borders}} and a central depression, often with visible blood vessels ({{c2::telangiectasia}}).",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-004",
+   "deck": "Oral Pathology",
+   "section": "Melanoma",
+   "page": 64,
+   "text": "Melanoma is a malignant tumor of {{c1::melanocytes}} (pigment-producing cells).",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-005",
+   "deck": "Oral Pathology",
+   "section": "Melanoma",
+   "page": 64,
+   "text": "Melanoma occurs mainly on the skin; intraoral melanomas are very rare and most common on the {{c1::palate or gingiva}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-006",
+   "deck": "Oral Pathology",
+   "section": "Melanoma",
+   "page": 64,
+   "text": "Melanoma appears as a dark lesion with {{c1::irregular}} borders; it may also be pink, red, or white.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-007",
+   "deck": "Oral Pathology",
+   "section": "Sarcomas",
+   "page": 64,
+   "text": "Sarcomas are malignant tumors of {{c1::connective tissue}} origin, including bone, muscle, and blood vessels.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-008",
+   "deck": "Oral Pathology",
+   "section": "Sarcomas",
+   "page": 64,
+   "text": "Osteosarcoma is a malignant bone tumor, often presenting as {{c1::painful}} swelling, tooth mobility, or toothache.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-009",
+   "deck": "Oral Pathology",
+   "section": "Sarcomas",
+   "page": 64,
+   "text": "On a radiograph, osteosarcoma shows a {{c1::\"sunburst\"}} radiopaque pattern due to spiculated bone formation.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-010",
+   "deck": "Oral Pathology",
+   "section": "Sarcomas",
+   "page": 64,
+   "text": "Osteosarcoma is common in {{c1::young adults}} and often affects the {{c2::posterior mandible}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-011",
+   "deck": "Oral Pathology",
+   "section": "Sarcomas",
+   "page": 64,
+   "text": "Kaposi sarcoma is a {{c1::vascular}} malignancy associated with {{c2::HHV-8}} (human herpesvirus 8), mostly in {{c3::immunocompromised}} patients (e.g., HIV/AIDS).",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-012",
+   "deck": "Oral Pathology",
+   "section": "Sarcomas",
+   "page": 64,
+   "text": "Kaposi sarcoma appears as red, purple, or bluish plaques or nodules, especially on the {{c1::palate or gingiva}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-013",
+   "deck": "Oral Pathology",
+   "section": "Sarcomas",
+   "page": 64,
+   "text": "Treatment of Kaposi sarcoma may involve {{c1::antiretroviral therapy}}, radiation, or chemotherapy.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-014",
+   "deck": "Oral Pathology",
+   "section": "Leukoplakia",
+   "page": 64,
+   "text": "Leukoplakia is a {{c1::white patch}} or plaque on the oral mucosa that {{c2::cannot be rubbed off}} and cannot be clinically or histologically diagnosed as any other disease.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-015",
+   "deck": "Oral Pathology",
+   "section": "Leukoplakia",
+   "page": 64,
+   "text": "Leukoplakia is common on the buccal mucosa, tongue, floor of the mouth, and gingiva; risk factors are {{c1::tobacco}}, {{c2::alcohol}}, and {{c3::chronic irritation}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-016",
+   "deck": "Oral Pathology",
+   "section": "Leukoplakia",
+   "page": 64,
+   "text": "Leukoplakia is asymptomatic but requires a {{c1::biopsy}} to rule out malignancy.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-017",
+   "deck": "Oral Pathology",
+   "section": "Erythroplakia",
+   "page": 64,
+   "text": "Erythroplakia is a {{c1::red patch}} on the oral mucosa that cannot be attributed to any other condition.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-018",
+   "deck": "Oral Pathology",
+   "section": "Erythroplakia",
+   "page": 64,
+   "text": "Erythroplakia is most common on the {{c1::floor of the mouth}}, ventral tongue, and soft palate.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-019",
+   "deck": "Oral Pathology",
+   "section": "Erythroplakia",
+   "page": 64,
+   "text": "Erythroplakia carries a {{c1::higher}} risk of malignant transformation than leukoplakia.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-020",
+   "deck": "Oral Pathology",
+   "section": "Erythroplakia",
+   "page": 64,
+   "text": "Erythroplakia appears {{c1::velvety red}} and well-demarcated, often with no surface irregularities; it is asymptomatic — biopsy to rule out malignancy.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-021",
+   "deck": "Oral Pathology",
+   "section": "Solar cheilitis",
+   "page": 64,
+   "text": "Solar (actinic) cheilitis is a {{c1::precancerous}} condition caused by chronic {{c2::sun (UV) exposure}}, especially in fair-skinned individuals.",
+   "extra": "WakeUpMemory: cheilitis = Greek \"cheilos\" (lip) + \"-itis\" (inflammation)."
+  },
+  {
+   "id": "path-p64-022",
+   "deck": "Oral Pathology",
+   "section": "Solar cheilitis",
+   "page": 64,
+   "text": "Solar cheilitis primarily affects the {{c1::lower lip}} and vermilion border.",
+   "extra": ""
+  },
+  {
+   "id": "path-p64-023",
+   "deck": "Oral Pathology",
+   "section": "Solar cheilitis",
+   "page": 64,
+   "text": "Solar cheilitis appears as pale, dry, crusted, or fissured mucosa with a {{c1::blurred lip-skin junction}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-001",
+   "deck": "Oral Pathology",
+   "section": "Solar cheilitis",
+   "page": 65,
+   "text": "Solar cheilitis is asymptomatic; a {{c1::biopsy}} is recommended.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-002",
+   "deck": "Oral Pathology",
+   "section": "Ameloblastoma",
+   "page": 65,
+   "text": "Ameloblastoma is a {{c1::benign}}, slow-growing, locally aggressive {{c2::odontogenic}} tumor from remnants of the {{c3::dental lamina}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-003",
+   "deck": "Oral Pathology",
+   "section": "Ameloblastoma",
+   "page": 65,
+   "text": "Ameloblastoma is most common in the {{c1::posterior mandible}}, especially the {{c2::ramus}} (about 80% of cases).",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-004",
+   "deck": "Oral Pathology",
+   "section": "Ameloblastoma",
+   "page": 65,
+   "text": "Radiographically, ameloblastoma is a {{c1::multilocular}} radiolucency with a {{c2::soap bubble or honeycomb}} appearance.",
+   "extra": "WakeUpMemory: ameloBLAST → celebration → champagne → bubbles → soap bubble appearance."
+  },
+  {
+   "id": "path-p65-005",
+   "deck": "Oral Pathology",
+   "section": "Ameloblastoma",
+   "page": 65,
+   "text": "Ameloblastoma causes painless swelling, gradual {{c1::bone expansion}}, facial asymmetry, and possible tooth displacement or {{c2::root resorption}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-006",
+   "deck": "Oral Pathology",
+   "section": "Nasopalatine canal cyst",
+   "page": 65,
+   "text": "The nasopalatine cyst is a cyst within the {{c1::nasopalatine canal}}, near the midline of the anterior palate between or behind the {{c2::maxillary central incisors}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-007",
+   "deck": "Oral Pathology",
+   "section": "Nasopalatine canal cyst",
+   "page": 65,
+   "text": "Radiographically, the nasopalatine cyst is a radiolucent, {{c1::heart-shaped}} lesion near the apices of the central incisors.",
+   "extra": "WakeUpMemory: I \"heart\" (love) naps — nasopalatine."
+  },
+  {
+   "id": "path-p65-008",
+   "deck": "Oral Pathology",
+   "section": "Nasopalatine canal cyst",
+   "page": 65,
+   "text": "A nasopalatine cyst may present as a small pink bulge on the palate in the {{c1::incisive papilla}} area.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-009",
+   "deck": "Oral Pathology",
+   "section": "Median palatine cyst",
+   "page": 65,
+   "text": "The median palatine cyst is a {{c1::non-odontogenic developmental}} cyst in the midline of the {{c2::posterior hard palate}} (more posterior than the nasopalatine cyst).",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-010",
+   "deck": "Oral Pathology",
+   "section": "Median palatine cyst",
+   "page": 65,
+   "text": "Radiographically, the median palatine cyst is a well-defined {{c1::unilocular}} radiolucency; asymptomatic, removal if needed.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-011",
+   "deck": "Oral Pathology",
+   "section": "Globulomaxillary cyst",
+   "page": 65,
+   "text": "The globulomaxillary cyst is a non-odontogenic developmental cyst between the roots of the {{c1::maxillary lateral incisor and canine}}.",
+   "extra": "Historically thought to arise from fusion of the globular and maxillary processes."
+  },
+  {
+   "id": "path-p65-012",
+   "deck": "Oral Pathology",
+   "section": "Globulomaxillary cyst",
+   "page": 65,
+   "text": "Radiographically, the globulomaxillary cyst is a well-defined, {{c1::pear-shaped}} radiolucency.",
+   "extra": "WakeUpMemory: think of a canine (dog) eating a pear."
+  },
+  {
+   "id": "path-p65-013",
+   "deck": "Oral Pathology",
+   "section": "Globulomaxillary cyst",
+   "page": 65,
+   "text": "A globulomaxillary cyst is asymptomatic but can cause root {{c1::divergence}}; removal if needed.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-014",
+   "deck": "Oral Pathology",
+   "section": "Static bone cyst (Stafne defect)",
+   "page": 65,
+   "text": "The static bone cyst (Stafne bone defect) is a {{c1::pseudocyst}}: a developmental bone depression in the posterior mandible, often containing {{c2::salivary gland tissue}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-015",
+   "deck": "Oral Pathology",
+   "section": "Static bone cyst (Stafne defect)",
+   "page": 65,
+   "text": "The static bone cyst is located {{c1::below the mandibular canal}}, typically near the {{c2::angle of the mandible}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p65-016",
+   "deck": "Oral Pathology",
+   "section": "Static bone cyst (Stafne defect)",
+   "page": 65,
+   "text": "Radiographically, the static bone cyst is a well-defined radiolucent area; it is asymptomatic and {{c1::non-expansile}}, and needs {{c2::no treatment}}.",
+   "extra": "\"Static\" = stable, as the name suggests."
+  },
+  {
+   "id": "path-p65-017",
+   "deck": "Oral Pathology",
+   "section": "Simple bone cyst (traumatic bone cyst)",
+   "page": 65,
+   "text": "The simple (traumatic) bone cyst is a cavity inside the bone, typically without an epithelial lining, making it a {{c1::pseudocyst}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-001",
+   "deck": "Oral Pathology",
+   "section": "Simple bone cyst (traumatic bone cyst)",
+   "page": 66,
+   "text": "The simple bone cyst is commonly in the {{c1::posterior mandible}} of {{c2::adolescents and young adults}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-002",
+   "deck": "Oral Pathology",
+   "section": "Simple bone cyst (traumatic bone cyst)",
+   "page": 66,
+   "text": "Radiographically, the simple bone cyst is a well-defined radiolucency with {{c1::scalloping}} between the roots of {{c2::vital}} teeth.",
+   "extra": "WakeUpMemory: simple bone cyst = scalloped — scallops with a simple dash of salt and pepper."
+  },
+  {
+   "id": "path-p66-003",
+   "deck": "Oral Pathology",
+   "section": "Simple bone cyst (traumatic bone cyst)",
+   "page": 66,
+   "text": "The simple bone cyst is often linked to prior {{c1::trauma}}; it is asymptomatic and needs no treatment.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-004",
+   "deck": "Oral Pathology",
+   "section": "Aneurysmal bone cyst",
+   "page": 66,
+   "text": "The aneurysmal bone cyst is a {{c1::pseudocyst}} filled with {{c2::blood-filled spaces}}, leading to rapid bone expansion and noticeable facial swelling.",
+   "extra": "WakeUpMemory: aneurysm means \"blood-filled swelling\" — think of a honeycomb filled with blood."
+  },
+  {
+   "id": "path-p66-005",
+   "deck": "Oral Pathology",
+   "section": "Aneurysmal bone cyst",
+   "page": 66,
+   "text": "The aneurysmal bone cyst is most common in the {{c1::mandible}} and typically affects {{c2::children and young adults}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-006",
+   "deck": "Oral Pathology",
+   "section": "Aneurysmal bone cyst",
+   "page": 66,
+   "text": "Radiographically, the aneurysmal bone cyst is a multilocular radiolucency with a {{c1::honeycomb or soap bubble}} pattern.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-007",
+   "deck": "Oral Pathology",
+   "section": "Cherubism",
+   "page": 66,
+   "text": "Cherubism is a {{c1::hereditary}} condition in which the bone of the mandible is replaced by excessive {{c2::fibrous tissue}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-008",
+   "deck": "Oral Pathology",
+   "section": "Cherubism",
+   "page": 66,
+   "text": "Cherubism mostly affects the {{c1::posterior mandible}}; the swelling is often {{c2::symmetrical (bilateral)}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-009",
+   "deck": "Oral Pathology",
+   "section": "Cherubism",
+   "page": 66,
+   "text": "Cherubism causes {{c1::painless}}, progressive jaw enlargement giving a \"cherubic\" facial appearance.",
+   "extra": "WakeUpMemory: a cherub is a sweet, innocent-looking child with plump cheeks — bilateral jaw swelling creates full, rounded cheeks."
+  },
+  {
+   "id": "path-p66-010",
+   "deck": "Oral Pathology",
+   "section": "Cherubism",
+   "page": 66,
+   "text": "Dental impact of cherubism: premature loss of {{c1::primary}} teeth and delayed or failed eruption of {{c2::permanent}} teeth.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-011",
+   "deck": "Oral Pathology",
+   "section": "Cherubism",
+   "page": 66,
+   "text": "Cherubism often {{c1::stabilizes after puberty}}; surgeries if needed.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-012",
+   "deck": "Oral Pathology",
+   "section": "Fibrous dysplasia",
+   "page": 66,
+   "text": "Fibrous dysplasia is a genetic condition affecting {{c1::bone and pigment cells}}: bone is replaced by abnormal fibrous connective tissue with calcifications, weakening the bone.",
+   "extra": "The book pictures café au lait spots with this condition."
+  },
+  {
+   "id": "path-p66-013",
+   "deck": "Oral Pathology",
+   "section": "Fibrous dysplasia",
+   "page": 66,
+   "text": "Fibrous dysplasia is common in the {{c1::maxilla}}; it can also involve the skull, clavicles, or long bones.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-014",
+   "deck": "Oral Pathology",
+   "section": "Fibrous dysplasia",
+   "page": 66,
+   "text": "Fibrous dysplasia causes bone enlargement with a {{c1::\"ground glass\"}} radiopacity.",
+   "extra": "WakeUpMemory: ground glass → fiberglass (glass fibers in resin)."
+  },
+  {
+   "id": "path-p66-015",
+   "deck": "Oral Pathology",
+   "section": "Fibrous dysplasia",
+   "page": 66,
+   "text": "Fibrous dysplasia is {{c1::painless}} and slow-growing; surgeries if needed.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-016",
+   "deck": "Oral Pathology",
+   "section": "Paget disease (osteitis deformans)",
+   "page": 66,
+   "text": "Paget disease ({{c1::osteitis deformans}}) is a chronic metabolic bone disorder with abnormal cycles of bone {{c2::resorption, repair, and remineralization}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-017",
+   "deck": "Oral Pathology",
+   "section": "Paget disease (osteitis deformans)",
+   "page": 66,
+   "text": "Paget disease can affect the skull, jaws, and other bones; it is most common in {{c1::men over 50}}.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-018",
+   "deck": "Oral Pathology",
+   "section": "Paget disease (osteitis deformans)",
+   "page": 66,
+   "text": "Paget disease shows a {{c1::\"cotton-wool\"}} radiopacity (patchy, disorganized, fluffy) due to irregular bone deposition.",
+   "extra": "WakeUpMemory: Paget sounds like pajama — pajamas made of cotton or wool."
+  },
+  {
+   "id": "path-p66-019",
+   "deck": "Oral Pathology",
+   "section": "Multiple myeloma",
+   "page": 66,
+   "text": "Multiple myeloma is a {{c1::malignant}} tumor of {{c2::plasma cells}} that originates in the {{c3::bone marrow}}, commonly affecting older adults.",
+   "extra": "Myelo = bone marrow."
+  },
+  {
+   "id": "path-p66-020",
+   "deck": "Oral Pathology",
+   "section": "Multiple myeloma",
+   "page": 66,
+   "text": "Multiple myeloma often involves the skull, spine, or jaw bones and appears as {{c1::punched-out}} radiolucencies.",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-021",
+   "deck": "Oral Pathology",
+   "section": "Multiple myeloma",
+   "page": 66,
+   "text": "Symptoms of multiple myeloma: pain, fatigue, anemia, and {{c1::renal}} issues due to abnormal proteins.",
+   "extra": ""
+  }
+ ],
+ "basic": [
+  {
+   "id": "path-p60-b-01",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "front": "Macule",
+   "back": "A flat area of altered color, with no elevation or depression",
+   "reverse": true,
+   "extra": "Compare to a papule: papules are raised, macules are completely flat."
+  },
+  {
+   "id": "path-p60-b-02",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "front": "Plaque (lesion)",
+   "back": "A slightly raised, broad, flat-topped lesion",
+   "reverse": true,
+   "extra": "Compare to a papule: plaques are broad and flat-topped; papules are small and rounded."
+  },
+  {
+   "id": "path-p60-b-03",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "front": "Pustule",
+   "back": "A pus-filled lesion of any size, containing yellow pus",
+   "reverse": true,
+   "extra": "Compare to a papule: papules are solid, pustules have pus."
+  },
+  {
+   "id": "path-p60-b-04",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "front": "Sessile lesion",
+   "back": "A lesion with a broad base — base wider than the top",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "path-p60-b-05",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "front": "Pedunculated lesion",
+   "back": "A lesion on a narrow stalk (pedicle) — base smaller than the top",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "path-p60-b-06",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "front": "Vesicle",
+   "back": "A fluid-filled blister ≤ 5 mm, containing serum or mucin",
+   "reverse": true,
+   "extra": "Compare to a bulla: both are fluid-filled, but a bulla is larger (> 5 mm)."
+  },
+  {
+   "id": "path-p60-b-07",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "front": "Bulla",
+   "back": "A fluid-filled blister > 5 mm, containing serum or mucin",
+   "reverse": true,
+   "extra": "Compare to a vesicle: same fluid type, just larger."
+  },
+  {
+   "id": "path-p60-b-08",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "front": "Papule",
+   "back": "A small solid raised lesion ≤ 5 mm, made of tissue",
+   "reverse": true,
+   "extra": "Compare to a pustule: same size range, but papules contain solid tissue, not pus."
+  },
+  {
+   "id": "path-p60-b-09",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "front": "Nodule",
+   "back": "A solid raised lesion > 5 mm, made of tissue",
+   "reverse": true,
+   "extra": "Compare to a papule: nodules are larger, but both are solid."
+  },
+  {
+   "id": "path-p61-b-01",
+   "deck": "Oral Pathology",
+   "section": "Tori and exostosis",
+   "page": 61,
+   "front": "When do tori need treatment?",
+   "back": "Only if they interfere with speech, prosthetic appliances, or swallowing.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p61-b-02",
+   "deck": "Oral Pathology",
+   "section": "Melanin pigmentation",
+   "page": 61,
+   "front": "Melanin pigmentation: symptoms and treatment?",
+   "back": "Asymptomatic. Biopsy only if melanoma (cancer) is suspected.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p61-b-03",
+   "deck": "Oral Pathology",
+   "section": "Lingual varicosity",
+   "page": 61,
+   "front": "What causes lingual varicosities?",
+   "back": "Age-related loss of elasticity in the venous walls, leading to dilated, tortuous veins.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p61-b-04",
+   "deck": "Oral Pathology",
+   "section": "Linea alba",
+   "page": 61,
+   "front": "What causes linea alba?",
+   "back": "Frictional irritation from habits such as cheek biting, bruxism, or pressure from the teeth.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p62-b-01",
+   "deck": "Oral Pathology",
+   "section": "Lingual thyroid nodule",
+   "page": 62,
+   "front": "What causes a lingual thyroid nodule?",
+   "back": "Incomplete migration of the thyroid during embryonic development, leaving ectopic thyroid tissue on the tongue.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p62-b-02",
+   "deck": "Oral Pathology",
+   "section": "Amalgam tattoo",
+   "page": 62,
+   "front": "Amalgam tattoo: symptoms and treatment?",
+   "back": "Asymptomatic; no treatment needed. A biopsy may be considered to rule out melanoma.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p62-b-03",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "front": "Tumor",
+   "back": "An abnormal growth of tissue resulting from uncontrolled, excessive cell proliferation",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "path-p62-b-04",
+   "deck": "Oral Pathology",
+   "section": "Papilloma",
+   "page": 62,
+   "front": "Why can an oral papilloma be white or pink?",
+   "back": "White if keratinized, pink if non-keratinized.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p62-b-05",
+   "deck": "Oral Pathology",
+   "section": "Papilloma",
+   "page": 62,
+   "front": "Oral papilloma: behavior and treatment?",
+   "back": "Slow-growing, sharply demarcated, asymptomatic and non-invasive; treated by surgical excision.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p62-b-06",
+   "deck": "Oral Pathology",
+   "section": "Irritation fibroma",
+   "page": 62,
+   "front": "Irritation fibroma: symptoms and treatment?",
+   "back": "Asymptomatic and stable; no treatment needed — remove the source of irritation.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p62-b-07",
+   "deck": "Oral Pathology",
+   "section": "Irritation fibroma",
+   "page": 62,
+   "front": "Frictional keratosis vs irritation fibroma — both are reactive lesions from chronic irritation. How do they differ?",
+   "back": "Frictional keratosis = EPITHELIAL response → white, flat, rough.<br>Irritation fibroma = CONNECTIVE TISSUE response → pink, raised, smooth.",
+   "reverse": false,
+   "extra": "Book's \"Don't Be Confused!\" box."
+  },
+  {
+   "id": "path-p63-b-01",
+   "deck": "Oral Pathology",
+   "section": "Lipoma",
+   "page": 63,
+   "front": "Lipoma: behavior and treatment?",
+   "back": "Slow-growing, painless, mobile on palpation; harmless — surgical removal if needed.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p63-b-02",
+   "deck": "Oral Pathology",
+   "section": "Neurofibroma",
+   "page": 63,
+   "front": "Neurofibroma vs schwannoma — cell origin and capsule?",
+   "back": "Neurofibroma: Schwann cells + fibroblasts, diffuse (not encapsulated).<br>Schwannoma: Schwann cells only, encapsulated.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p63-b-03",
+   "deck": "Oral Pathology",
+   "section": "Neurofibroma",
+   "page": 63,
+   "front": "Neurofibroma: symptoms and treatment?",
+   "back": "Asymptomatic; surgical removal may be considered.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p63-b-04",
+   "deck": "Oral Pathology",
+   "section": "Squamous cell carcinoma",
+   "page": 63,
+   "front": "Oral SCC: symptoms early on, and why it matters?",
+   "back": "Asymptomatic early, but it can invade surrounding tissues.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p64-b-01",
+   "deck": "Oral Pathology",
+   "section": "Basal cell carcinoma",
+   "page": 64,
+   "front": "Basal cell carcinoma: behavior and treatment?",
+   "back": "Slow-growing and rarely metastasizes, but can cause significant local destruction. Remove surgically.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p64-b-02",
+   "deck": "Oral Pathology",
+   "section": "Melanoma",
+   "page": 64,
+   "front": "Why is the prognosis of melanoma poor?",
+   "back": "It is asymptomatic in early stages, so detection is late, and it progresses rapidly.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p64-b-03",
+   "deck": "Oral Pathology",
+   "section": "Leukoplakia",
+   "page": 64,
+   "front": "Is leukoplakia a diagnosis of cancer?",
+   "back": "No — it is a clinical description: a white patch that cannot be wiped off and cannot be classified as any other disease. Most leukoplakias are benign.",
+   "reverse": false,
+   "extra": "Book's \"Don't Be Confused!\" box."
+  },
+  {
+   "id": "path-p64-b-04",
+   "deck": "Oral Pathology",
+   "section": "Solar cheilitis",
+   "page": 64,
+   "front": "What causes solar cheilitis — friction, trauma, or UV?",
+   "back": "Cumulative UV damage (not friction or trauma).",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p65-b-01",
+   "deck": "Oral Pathology",
+   "section": "Ameloblastoma",
+   "page": 65,
+   "front": "Ameloblastoma: symptoms and treatment?",
+   "back": "Asymptomatic in early stages. Surgical excision; recurrence is common.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p65-b-02",
+   "deck": "Oral Pathology",
+   "section": "Nasopalatine canal cyst",
+   "page": 65,
+   "front": "Nasopalatine cyst: are the adjacent teeth vital? Treatment?",
+   "back": "Yes — asymptomatic and the teeth are vital. Removal if needed.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p65-b-03",
+   "deck": "Oral Pathology",
+   "section": "Static bone cyst (Stafne defect)",
+   "page": 65,
+   "front": "What makes a lesion a true cyst vs a pseudocyst?",
+   "back": "A true cyst is a cavity lined by epithelium (usually filled with fluid, semi-fluid, or gas). A pseudocyst looks like a cyst but lacks the epithelial lining.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p66-b-01",
+   "deck": "Oral Pathology",
+   "section": "Aneurysmal bone cyst",
+   "page": 66,
+   "front": "Aneurysmal bone cyst: symptoms and treatment?",
+   "back": "Rapid expansion (despite being benign) may cause pain or facial asymmetry. Surgical curettage; recurrence is possible.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p66-b-02",
+   "deck": "Oral Pathology",
+   "section": "Paget disease (osteitis deformans)",
+   "page": 66,
+   "front": "Paget disease: signs relevant to dentistry?",
+   "back": "Bone pain, jaw enlargement, increased spacing of teeth; dentures may no longer fit due to jaw changes. Treatment is needed.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "path-p60-t-01",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "question": "What size (in mm) separates a vesicle from a bulla, and a papule from a nodule?",
+   "answer": "5 mm",
+   "extra": "Vesicle/papule ≤ 5 mm; bulla/nodule > 5 mm."
+  },
+  {
+   "id": "path-p60-t-02",
+   "deck": "Oral Pathology",
+   "section": "Example: minor aphthous ulcer",
+   "page": 60,
+   "question": "A minor aphthous ulcer is usually less than how many cm in diameter?",
+   "answer": "1 cm",
+   "extra": ""
+  },
+  {
+   "id": "path-p61-t-01",
+   "deck": "Oral Pathology",
+   "section": "Fordyce granules",
+   "page": 61,
+   "question": "Over what percentage of adults have Fordyce granules?",
+   "answer": "80%",
+   "extra": "\"Over 80%\" — considered normal."
+  },
+  {
+   "id": "path-p61-t-02",
+   "deck": "Oral Pathology",
+   "section": "Lingual varicosity",
+   "page": 61,
+   "question": "Lingual varicosities are especially common in adults over what age?",
+   "answer": "60",
+   "extra": ""
+  },
+  {
+   "id": "path-p66-t-01",
+   "deck": "Oral Pathology",
+   "section": "Cherubism",
+   "page": 66,
+   "question": "Cherubism is common in children under what age?",
+   "answer": "20",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "path-p60-m-01",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "prompt": "Match each example to its lesion type.",
+   "pairs": [
+    [
+     "Amalgam tattoo",
+     "Macule"
+    ],
+    [
+     "Oral leukoplakia",
+     "Plaque"
+    ],
+    [
+     "Periapical abscess draining on the gums",
+     "Pustule"
+    ],
+    [
+     "Herpes simplex blister on the lip",
+     "Vesicle"
+    ],
+    [
+     "Second-degree burn blister",
+     "Bulla"
+    ],
+    [
+     "Fordyce granule",
+     "Papule"
+    ],
+    [
+     "Lipoma",
+     "Nodule"
+    ]
+   ]
+  },
+  {
+   "id": "path-p61-m-01",
+   "deck": "Oral Pathology",
+   "section": "Oral pathology considered normal",
+   "page": 61,
+   "prompt": "Match each normal variant to its location.",
+   "pairs": [
+    [
+     "Fordyce granules",
+     "Lips and buccal mucosa"
+    ],
+    [
+     "Mandibular tori",
+     "Lingual mandible, premolar area"
+    ],
+    [
+     "Torus palatinus",
+     "Midline of the hard palate"
+    ],
+    [
+     "Lingual varicosity",
+     "Ventral surface and sides of the tongue"
+    ],
+    [
+     "Linea alba",
+     "Buccal mucosa along the occlusal plane"
+    ],
+    [
+     "Lingual thyroid nodule",
+     "Midline dorsal tongue behind the circumvallate papillae"
+    ]
+   ]
+  },
+  {
+   "id": "path-p65-m-01",
+   "deck": "Oral Pathology",
+   "section": "Cysts of the jaws",
+   "page": 65,
+   "prompt": "Match each cyst to its location / radiographic clue.",
+   "pairs": [
+    [
+     "Nasopalatine canal cyst",
+     "Heart-shaped radiolucency at central incisor apices"
+    ],
+    [
+     "Median palatine cyst",
+     "Unilocular radiolucency, midline posterior hard palate"
+    ],
+    [
+     "Globulomaxillary cyst",
+     "Pear-shaped radiolucency between lateral incisor and canine"
+    ],
+    [
+     "Static bone cyst",
+     "Radiolucency below the mandibular canal near the angle"
+    ],
+    [
+     "Simple bone cyst",
+     "Radiolucency scalloping between roots of vital teeth"
+    ]
+   ]
+  },
+  {
+   "id": "path-p66-m-01",
+   "deck": "Oral Pathology",
+   "section": "Oral pathology in bones",
+   "page": 66,
+   "prompt": "Match each bone lesion to its classic radiographic description.",
+   "pairs": [
+    [
+     "Osteosarcoma",
+     "Sunburst radiopacity"
+    ],
+    [
+     "Fibrous dysplasia",
+     "Ground-glass radiopacity"
+    ],
+    [
+     "Paget disease",
+     "Cotton-wool radiopacity"
+    ],
+    [
+     "Multiple myeloma",
+     "Punched-out radiolucencies"
+    ],
+    [
+     "Ameloblastoma",
+     "Multilocular soap-bubble radiolucency, posterior mandible/ramus"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "path-p60-o-01",
+   "deck": "Oral Pathology",
+   "section": "How to describe lesions",
+   "page": 60,
+   "prompt": "Put the lesion-description checklist in the book's order (mnemonic CCSTSLBC: Colorful Cats Sit Tall, Silently Licking Big Cookies).",
+   "items": [
+    "Color",
+    "Content",
+    "Size",
+    "Texture",
+    "Shape/Form",
+    "Location",
+    "Border/Margin",
+    "Consistency"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "path-p62-s-01",
+   "deck": "Oral Pathology",
+   "section": "Tumor definitions",
+   "page": 62,
+   "prompt": "Sort the tumor names: benign or malignant? (SA ME CAR)",
+   "categories": [
+    [
+     "Benign",
+     [
+      "Lipoma",
+      "Adenoma",
+      "Osteoma",
+      "Rhabdomyoma",
+      "Papilloma"
+     ]
+    ],
+    [
+     "Malignant",
+     [
+      "Carcinoma",
+      "Sarcoma",
+      "Melanoma"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "path-p65-s-01",
+   "deck": "Oral Pathology",
+   "section": "Tumors and precancerous lesions",
+   "page": 65,
+   "prompt": "Sort these lesions by behavior.",
+   "categories": [
+    [
+     "Benign",
+     [
+      "Squamous papilloma",
+      "Irritation fibroma",
+      "Lipoma",
+      "Neurofibroma",
+      "Ameloblastoma"
+     ]
+    ],
+    [
+     "Malignant",
+     [
+      "Squamous cell carcinoma",
+      "Basal cell carcinoma",
+      "Osteosarcoma",
+      "Kaposi sarcoma",
+      "Multiple myeloma"
+     ]
+    ],
+    [
+     "Precancerous / biopsy to rule out malignancy",
+     [
+      "Leukoplakia",
+      "Erythroplakia",
+      "Solar cheilitis"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "path-p66-s-01",
+   "deck": "Oral Pathology",
+   "section": "Oral pathology in bones",
+   "page": 66,
+   "prompt": "Sort by how the lesion looks on a radiograph.",
+   "categories": [
+    [
+     "Radiopaque",
+     [
+      "Large torus",
+      "Amalgam tattoo flecks",
+      "Osteosarcoma",
+      "Fibrous dysplasia",
+      "Paget disease"
+     ]
+    ],
+    [
+     "Radiolucent",
+     [
+      "Ameloblastoma",
+      "Nasopalatine canal cyst",
+      "Median palatine cyst",
+      "Globulomaxillary cyst",
+      "Static bone cyst",
+      "Simple bone cyst",
+      "Aneurysmal bone cyst",
+      "Multiple myeloma"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "path-p60-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "question": "A patient has a flat, brown, 3-mm area of discoloration on the buccal mucosa with no elevation. How is it best described?",
+   "options": [
+    "A. Papule",
+    "B. Macule",
+    "C. Plaque",
+    "D. Vesicle"
+   ],
+   "answer": "B. Macule",
+   "explanation": "A macule is a flat area of altered color with no elevation or depression. A papule is the best distractor but is raised and solid."
+  },
+  {
+   "id": "path-p60-mcq-02",
+   "deck": "Oral Pathology",
+   "section": "Descriptive terms for oral lesions",
+   "page": 60,
+   "question": "A clear, fluid-filled blister measuring 8 mm is seen on the lip. Which term describes it?",
+   "options": [
+    "A. Vesicle",
+    "B. Pustule",
+    "C. Bulla",
+    "D. Nodule"
+   ],
+   "answer": "C. Bulla",
+   "explanation": "A bulla is a fluid-filled blister > 5 mm. A vesicle contains the same fluid (serum or mucin) but is ≤ 5 mm; a pustule contains yellow pus."
+  },
+  {
+   "id": "path-p61-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Oral pathology considered normal",
+   "page": 61,
+   "question": "A 45-year-old Black patient who smokes has a bilateral, diffuse, gray-white opalescent buccal mucosa. The whiteness fades when the cheek is stretched. What is the most likely diagnosis?",
+   "options": [
+    "A. Leukoplakia",
+    "B. Linea alba",
+    "C. Leukoedema",
+    "D. Fordyce granules"
+   ],
+   "answer": "C. Leukoedema",
+   "explanation": "Leukoedema is a gray-white opalescent buccal mucosa that diminishes when stretched; more common in Black adults and smokers. Leukoplakia does not disappear on stretching and cannot be wiped off; it needs a biopsy."
+  },
+  {
+   "id": "path-p61-mcq-02",
+   "deck": "Oral Pathology",
+   "section": "Oral pathology considered normal",
+   "page": 61,
+   "question": "Clusters of tiny yellow lobules are seen on the buccal mucosa of an otherwise healthy adult. These are",
+   "options": [
+    "A. Fordyce granules",
+    "B. Melanin pigmentation",
+    "C. Lingual varicosities",
+    "D. Exostoses"
+   ],
+   "answer": "A. Fordyce granules",
+   "explanation": "Fordyce granules are ectopic sebaceous (oil) glands that look like tiny yellow lobules on the lips and buccal mucosa; over 80% of adults have them. Melanin pigmentation is flat and dark, not yellow."
+  },
+  {
+   "id": "path-p62-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Amalgam tattoo",
+   "page": 62,
+   "question": "A flat, blue-gray, well-defined lesion is found on the gingiva next to a large amalgam restoration. A radiograph shows tiny radiopaque flecks in the area. What is the most likely diagnosis?",
+   "options": [
+    "A. Melanoma",
+    "B. Amalgam tattoo",
+    "C. Melanin pigmentation",
+    "D. Kaposi sarcoma"
+   ],
+   "answer": "B. Amalgam tattoo",
+   "explanation": "An amalgam tattoo is a flat blue-gray discoloration near a restoration, often with radiopaque flecks on the radiograph. Melanoma has irregular borders and no radiopaque flecks; a biopsy may be done to rule it out."
+  },
+  {
+   "id": "path-p62-mcq-02",
+   "deck": "Oral Pathology",
+   "section": "Irritation fibroma",
+   "page": 62,
+   "question": "A patient who habitually bites her cheek has a firm, smooth, light-pink, raised nodule on the buccal mucosa at the occlusal plane. What is the most likely diagnosis?",
+   "options": [
+    "A. Frictional keratosis",
+    "B. Squamous papilloma",
+    "C. Irritation fibroma",
+    "D. Lipoma"
+   ],
+   "answer": "C. Irritation fibroma",
+   "explanation": "Irritation fibroma is a connective-tissue response to chronic irritation: pink, raised, smooth, firm. Frictional keratosis is an epithelial response: white, flat, rough. A lipoma is soft and yellowish."
+  },
+  {
+   "id": "path-p64-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Melanoma",
+   "page": 64,
+   "question": "Which skin cancer does NOT occur intraorally?",
+   "options": [
+    "A. Squamous cell carcinoma",
+    "B. Melanoma",
+    "C. Basal cell carcinoma",
+    "D. Kaposi sarcoma"
+   ],
+   "answer": "C. Basal cell carcinoma",
+   "explanation": "Basal cell carcinoma occurs on sun-exposed skin (face, scalp, ears) and does not occur intraorally. Melanoma is rare in the mouth but does occur, mostly on the palate or gingiva."
+  },
+  {
+   "id": "path-p64-mcq-02",
+   "deck": "Oral Pathology",
+   "section": "Sarcomas",
+   "page": 64,
+   "question": "A patient with HIV/AIDS has several purple nodules on the hard palate. Which virus is associated with the most likely diagnosis?",
+   "options": [
+    "A. HPV 6 and 11",
+    "B. HHV-8",
+    "C. Epstein-Barr virus",
+    "D. Herpes simplex virus 1"
+   ],
+   "answer": "B. HHV-8",
+   "explanation": "Purple/red/bluish palatal plaques or nodules in an immunocompromised patient suggest Kaposi sarcoma, a vascular malignancy associated with HHV-8. HPV 6 and 11 are linked to the benign squamous papilloma."
+  },
+  {
+   "id": "path-p64-mcq-03",
+   "deck": "Oral Pathology",
+   "section": "Erythroplakia",
+   "page": 64,
+   "question": "Which oral lesion carries the HIGHEST risk of malignant transformation?",
+   "options": [
+    "A. Leukoedema",
+    "B. Leukoplakia",
+    "C. Erythroplakia",
+    "D. Linea alba"
+   ],
+   "answer": "C. Erythroplakia",
+   "explanation": "Erythroplakia (velvety red patch) has a higher risk of malignant transformation than leukoplakia. Leukoedema and linea alba are normal variants."
+  },
+  {
+   "id": "path-p65-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Cysts of the jaws",
+   "page": 65,
+   "question": "A well-defined, pear-shaped radiolucency is seen between the roots of the maxillary lateral incisor and canine, which are diverging. The teeth are vital. What is the most likely diagnosis?",
+   "options": [
+    "A. Nasopalatine canal cyst",
+    "B. Globulomaxillary cyst",
+    "C. Median palatine cyst",
+    "D. Ameloblastoma"
+   ],
+   "answer": "B. Globulomaxillary cyst",
+   "explanation": "The globulomaxillary cyst is a pear-shaped radiolucency between the maxillary lateral incisor and canine and can cause root divergence. The nasopalatine cyst is heart-shaped and sits between the central incisors."
+  },
+  {
+   "id": "path-p65-mcq-02",
+   "deck": "Oral Pathology",
+   "section": "Cysts of the jaws",
+   "page": 65,
+   "question": "A routine panoramic image shows a well-defined radiolucency below the mandibular canal near the angle of the mandible. It has not changed in size over several years. What is the appropriate management?",
+   "options": [
+    "A. Surgical curettage",
+    "B. Enucleation and biopsy",
+    "C. No treatment",
+    "D. Radiation therapy"
+   ],
+   "answer": "C. No treatment",
+   "explanation": "This is a static bone cyst (Stafne defect): a non-expansile pseudocyst, often containing salivary gland tissue, that needs no treatment. Curettage is the treatment for the aneurysmal bone cyst."
+  },
+  {
+   "id": "path-p66-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Oral pathology in bones",
+   "page": 66,
+   "question": "A 60-year-old man reports bone pain, and his complete denture no longer fits. Radiographs show patchy, fluffy \"cotton-wool\" radiopacities in the jaws. What is the most likely diagnosis?",
+   "options": [
+    "A. Fibrous dysplasia",
+    "B. Paget disease",
+    "C. Multiple myeloma",
+    "D. Cherubism"
+   ],
+   "answer": "B. Paget disease",
+   "explanation": "Paget disease (osteitis deformans) is most common in men over 50, enlarges the jaws (dentures stop fitting, teeth space out) and shows a cotton-wool radiopacity. Fibrous dysplasia is painless and shows a ground-glass radiopacity."
+  },
+  {
+   "id": "path-p66-mcq-02",
+   "deck": "Oral Pathology",
+   "section": "Oral pathology in bones",
+   "page": 66,
+   "question": "A 9-year-old has painless, symmetrical bilateral enlargement of the posterior mandible, early loss of primary teeth and delayed eruption of permanent teeth. A sibling had the same condition. What is the most likely diagnosis?",
+   "options": [
+    "A. Aneurysmal bone cyst",
+    "B. Cherubism",
+    "C. Osteosarcoma",
+    "D. Ameloblastoma"
+   ],
+   "answer": "B. Cherubism",
+   "explanation": "Cherubism is hereditary, affects children under 20, causes painless bilateral posterior mandibular enlargement and disrupts tooth eruption; it often stabilizes after puberty. An aneurysmal bone cyst expands rapidly and may be painful and asymmetric."
+  }
+ ]
+}

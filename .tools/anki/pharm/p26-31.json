@@ -1,0 +1,2542 @@
+{
+ "diagrams": [
+  {
+   "name": "pharm-p26-injection-angles",
+   "title": "Routes and angles of injection",
+   "deck": "Pharmacology",
+   "pdf_page": 2,
+   "page": 26,
+   "crop": [
+    690,
+    1450,
+    1262,
+    1800
+   ],
+   "labels": [
+    {
+     "box": [
+      712,
+      1462,
+      826,
+      1488
+     ],
+     "answer": "Intramuscular",
+     "fit": "text"
+    },
+    {
+     "box": [
+      770,
+      1486,
+      800,
+      1514
+     ],
+     "answer": "90°",
+     "fit": "none"
+    },
+    {
+     "box": [
+      936,
+      1468,
+      1056,
+      1490
+     ],
+     "answer": "Subcutaneous",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1000,
+      1494,
+      1040,
+      1522
+     ],
+     "answer": "45°",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1004,
+      1536,
+      1106,
+      1559
+     ],
+     "answer": "Intravenous",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1058,
+      1562,
+      1094,
+      1586
+     ],
+     "answer": "25°",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1126,
+      1566,
+      1230,
+      1596
+     ],
+     "answer": "Intradermal",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1134,
+      1592,
+      1210,
+      1620
+     ],
+     "answer": "10°–15°",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1134,
+      1658,
+      1220,
+      1686
+     ],
+     "answer": "Epidermis",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1134,
+      1688,
+      1198,
+      1716
+     ],
+     "answer": "Dermis",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1134,
+      1728,
+      1246,
+      1770
+     ],
+     "answer": "Subcutaneous tissue",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1134,
+      1770,
+      1196,
+      1796
+     ],
+     "answer": "Muscle",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "pharm-p27-pk-pd",
+   "title": "Pharmacokinetics vs pharmacodynamics",
+   "deck": "Pharmacology",
+   "pdf_page": 3,
+   "page": 27,
+   "crop": [
+    100,
+    480,
+    1215,
+    1040
+   ],
+   "labels": [
+    {
+     "box": [
+      252,
+      682,
+      384,
+      721
+     ],
+     "answer": "Absorbed",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      241,
+      769,
+      394,
+      809
+     ],
+     "answer": "Distributed",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      235,
+      864,
+      400,
+      904
+     ],
+     "answer": "Metabolised",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      256,
+      952,
+      378,
+      992
+     ],
+     "answer": "Excreted",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      890,
+      605,
+      1056,
+      645
+     ],
+     "answer": "Drug targets",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      855,
+      976,
+      1115,
+      1016
+     ],
+     "answer": "Dose response curve",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "pharm-p27-therapeutic-index",
+   "title": "Therapeutic index graph",
+   "deck": "Pharmacology",
+   "pdf_page": 3,
+   "page": 27,
+   "crop": [
+    110,
+    1330,
+    560,
+    1720
+   ],
+   "labels": [
+    {
+     "box": [
+      178,
+      1352,
+      298,
+      1408
+     ],
+     "answer": "Therapeutic effect",
+     "fit": "none"
+    },
+    {
+     "box": [
+      462,
+      1352,
+      534,
+      1408
+     ],
+     "answer": "Toxic effect",
+     "fit": "none"
+    },
+    {
+     "box": [
+      270,
+      1428,
+      388,
+      1480
+     ],
+     "answer": "Therapeutic index",
+     "fit": "none"
+    },
+    {
+     "box": [
+      238,
+      1680,
+      302,
+      1716
+     ],
+     "answer": "ED50",
+     "fit": "none"
+    },
+    {
+     "box": [
+      356,
+      1680,
+      418,
+      1716
+     ],
+     "answer": "TD50",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "pharm-p27-potency-efficacy",
+   "title": "Dose–response: potency vs efficacy",
+   "deck": "Pharmacology",
+   "pdf_page": 3,
+   "page": 27,
+   "crop": [
+    585,
+    1220,
+    1215,
+    1770
+   ],
+   "labels": [
+    {
+     "box": [
+      590,
+      1328,
+      627,
+      1662
+     ],
+     "answer": "Clinical response / Efficacy (%)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      745,
+      1716,
+      1110,
+      1758
+     ],
+     "answer": "Dose / Concentration / Potency",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      972,
+      1426,
+      1168,
+      1464
+     ],
+     "answer": "Efficacy difference",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "pharm-p29-nephron",
+   "title": "Nephron: renal excretion",
+   "deck": "Pharmacology",
+   "pdf_page": 5,
+   "page": 29,
+   "crop": [
+    785,
+    65,
+    1245,
+    570
+   ],
+   "labels": [
+    {
+     "box": [
+      890,
+      72,
+      962,
+      122
+     ],
+     "answer": "Afferent arteriole",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1016,
+      72,
+      1090,
+      122
+     ],
+     "answer": "Efferent arteriole",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1112,
+      142,
+      1205,
+      164
+     ],
+     "answer": "1. Filtration",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1112,
+      164,
+      1238,
+      185
+     ],
+     "answer": "2. Reabsorption",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1112,
+      185,
+      1208,
+      206
+     ],
+     "answer": "3. Secretion",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1112,
+      206,
+      1208,
+      228
+     ],
+     "answer": "4. Excretion",
+     "fit": "text"
+    },
+    {
+     "box": [
+      794,
+      166,
+      882,
+      214
+     ],
+     "answer": "Glomerular capillaries",
+     "fit": "text"
+    },
+    {
+     "box": [
+      804,
+      250,
+      884,
+      298
+     ],
+     "answer": "Bowman's capsule",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1112,
+      340,
+      1200,
+      388
+     ],
+     "answer": "Peritubular capillaries",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1174,
+      446,
+      1230,
+      494
+     ],
+     "answer": "Renal vein",
+     "fit": "text"
+    },
+    {
+     "box": [
+      924,
+      542,
+      1062,
+      568
+     ],
+     "answer": "Urinary excretion",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "pharm-p30-ans-effects",
+   "title": "Parasympathetic vs sympathetic effects",
+   "deck": "Pharmacology",
+   "pdf_page": 6,
+   "page": 30,
+   "crop": [
+    100,
+    70,
+    1245,
+    725
+   ],
+   "labels": [
+    {
+     "box": [
+      312,
+      89,
+      512,
+      124
+     ],
+     "answer": "Parasympathetic",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      470,
+      138,
+      582,
+      195
+     ],
+     "answer": "Constrict pupils",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      470,
+      208,
+      584,
+      264
+     ],
+     "answer": "Slow heartbeat",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      124,
+      218,
+      244,
+      292
+     ],
+     "answer": "Stimulate salivation",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      463,
+      299,
+      581,
+      356
+     ],
+     "answer": "Constrict airways",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      467,
+      395,
+      618,
+      452
+     ],
+     "answer": "Relax blood vessels",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      467,
+      465,
+      586,
+      522
+     ],
+     "answer": "Stimulate digestion",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      466,
+      572,
+      548,
+      632
+     ],
+     "answer": "Relax uterus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      460,
+      634,
+      590,
+      717
+     ],
+     "answer": "Promote urination, defecation",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      880,
+      88,
+      1032,
+      124
+     ],
+     "answer": "Sympathetic",
+     "fit": "none"
+    },
+    {
+     "box": [
+      828,
+      130,
+      900,
+      190
+     ],
+     "answer": "Dilate pupils",
+     "fit": "none"
+    },
+    {
+     "box": [
+      793,
+      190,
+      902,
+      242
+     ],
+     "answer": "Increase heartbeat",
+     "fit": "none"
+    },
+    {
+     "box": [
+      776,
+      253,
+      902,
+      307
+     ],
+     "answer": "Dilates bronchioles",
+     "fit": "none"
+    },
+    {
+     "box": [
+      763,
+      316,
+      902,
+      368
+     ],
+     "answer": "Stimulate sweat glands",
+     "fit": "none"
+    },
+    {
+     "box": [
+      740,
+      378,
+      902,
+      430
+     ],
+     "answer": "Stimulates glucose release",
+     "fit": "none"
+    },
+    {
+     "box": [
+      793,
+      441,
+      898,
+      494
+     ],
+     "answer": "Inhibits digestion",
+     "fit": "none"
+    },
+    {
+     "box": [
+      598,
+      505,
+      898,
+      560
+     ],
+     "answer": "Releases epinephrine, norepinephrine",
+     "fit": "none"
+    },
+    {
+     "box": [
+      800,
+      568,
+      898,
+      622
+     ],
+     "answer": "Contract uterus",
+     "fit": "none"
+    },
+    {
+     "box": [
+      778,
+      630,
+      898,
+      708
+     ],
+     "answer": "Slow urination, defecation",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "pharm-p31-raas",
+   "title": "Renin–angiotensin system: ACE inhibitors and ARBs",
+   "deck": "Pharmacology",
+   "pdf_page": 7,
+   "page": 31,
+   "crop": [
+    700,
+    1565,
+    1232,
+    2085
+   ],
+   "labels": [
+    {
+     "box": [
+      983,
+      1567,
+      1126,
+      1608
+     ],
+     "answer": "Angiotensinogen",
+     "fit": "none"
+    },
+    {
+     "box": [
+      983,
+      1622,
+      1126,
+      1662
+     ],
+     "answer": "Renin",
+     "fit": "none"
+    },
+    {
+     "box": [
+      983,
+      1684,
+      1126,
+      1723
+     ],
+     "answer": "Angiotensin I",
+     "fit": "none"
+    },
+    {
+     "box": [
+      785,
+      1746,
+      900,
+      1779
+     ],
+     "answer": "ACE inhibitors",
+     "fit": "none"
+    },
+    {
+     "box": [
+      997,
+      1744,
+      1110,
+      1779
+     ],
+     "answer": "ACE",
+     "fit": "none"
+    },
+    {
+     "box": [
+      983,
+      1804,
+      1126,
+      1845
+     ],
+     "answer": "Angiotensin II",
+     "fit": "none"
+    },
+    {
+     "box": [
+      708,
+      1899,
+      820,
+      1935
+     ],
+     "answer": "ARBs",
+     "fit": "none"
+    },
+    {
+     "box": [
+      919,
+      1899,
+      996,
+      1935
+     ],
+     "answer": "AT1",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1112,
+      1899,
+      1189,
+      1935
+     ],
+     "answer": "AT2",
+     "fit": "none"
+    },
+    {
+     "box": [
+      885,
+      1977,
+      1031,
+      2079
+     ],
+     "answer": "Vasoconstriction, water and salt retention, pro-inflammatory effects",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1078,
+      1977,
+      1223,
+      2079
+     ],
+     "answer": "Vasodilatory, anti-inflammatory, anti-fibrotic, anti-proliferative",
+     "fit": "none"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "pharm-p26-001",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "text": "The {{c1::Physician's Desk Reference (PDR)}} can provide information on drugs, side effects, names, etc."
+  },
+  {
+   "id": "pharm-p26-002",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "text": "A drug's {{c1::brand (trade)}} name is the manufacturer's name, written with the first letter {{c2::capitalized}} (e.g., Valium®, Tylenol®)."
+  },
+  {
+   "id": "pharm-p26-003",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "text": "A drug's {{c1::generic}} name names its chemical makeup and is written in {{c2::lowercase}} (e.g., diazepam, acetaminophen).",
+   "extra": "Generic drugs (marketed without brand names) are less expensive than brand-name drugs."
+  },
+  {
+   "id": "pharm-p26-004",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "text": "The generic name of Valium® (Vazepam®) is {{c1::diazepam}}; the generic name of Tylenol® is {{c2::acetaminophen}}."
+  },
+  {
+   "id": "pharm-p26-005",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "text": "Generic drugs marketed without brand names are {{c1::less expensive}} than brand-name drugs."
+  },
+  {
+   "id": "pharm-p26-006",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "text": "{{c1::Synergism}}: getting more than the desired effects when taking two drugs together ({{c2::1 + 1 > 2}})."
+  },
+  {
+   "id": "pharm-p26-007",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "text": "Example of synergism: {{c1::oxycodone}} + {{c2::acetaminophen}} = Percocet®."
+  },
+  {
+   "id": "pharm-p26-008",
+   "deck": "Pharmacology",
+   "section": "Enteral administration",
+   "page": 26,
+   "text": "Enteral administration uses the {{c1::GI tract}}; it is the {{c2::safest, slowest, and most variable}} route."
+  },
+  {
+   "id": "pharm-p26-009",
+   "deck": "Pharmacology",
+   "section": "Enteral administration",
+   "page": 26,
+   "text": "Oral route: the drug is swallowed (e.g., {{c1::ibuprofen}}); it may cause GI upset because the drug is largely absorbed in the {{c2::small intestines}}."
+  },
+  {
+   "id": "pharm-p26-010",
+   "deck": "Pharmacology",
+   "section": "Enteral administration",
+   "page": 26,
+   "text": "Sublingual route: the drug is placed {{c1::under the tongue}} (e.g., Nitroglycerin®); {{c2::capillaries}} under the tongue speed up absorption."
+  },
+  {
+   "id": "pharm-p26-011",
+   "deck": "Pharmacology",
+   "section": "Enteral administration",
+   "page": 26,
+   "text": "The sublingual route is commonly used for {{c1::nitrates}} (for cardiac conditions)."
+  },
+  {
+   "id": "pharm-p26-012",
+   "deck": "Pharmacology",
+   "section": "Enteral administration",
+   "page": 26,
+   "text": "The {{c1::sublingual}} and {{c2::rectal}} enteral routes avoid the first-pass effect."
+  },
+  {
+   "id": "pharm-p26-013",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 26,
+   "text": "{{c1::Parenteral}} administration: drug administered elsewhere in the body than the mouth and alimentary canal — it {{c2::bypasses the GI tract}}."
+  },
+  {
+   "id": "pharm-p26-014",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 26,
+   "text": "{{c1::Intravenous}} administration: drug directly enters the systemic circulation, giving {{c2::100%}} instant and complete availability in the bloodstream."
+  },
+  {
+   "id": "pharm-p26-015",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 26,
+   "text": "Intravenous administration is the best option to {{c1::control the level}} of drugs and is used in {{c2::emergency situations}} and {{c3::chemotherapy}}."
+  },
+  {
+   "id": "pharm-p26-016",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 26,
+   "text": "{{c1::Intramuscular}} injection uses muscles because of their high volume of {{c2::blood flow}} (e.g., EpiPen®)."
+  },
+  {
+   "id": "pharm-p26-017",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 26,
+   "text": "Intramuscular absorption is rapid and is {{c1::increased}} when {{c2::massaging}} the area."
+  },
+  {
+   "id": "pharm-p27-001",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 27,
+   "text": "{{c1::Subcutaneous}} injection: drug injected under the skin but not into the muscles — useful for protein products such as {{c2::insulin}} that would otherwise be digested in the intestines."
+  },
+  {
+   "id": "pharm-p27-002",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 27,
+   "text": "{{c1::Intradermal}} injection: drug injected into the dermal layer (e.g., {{c2::allergy testing, TB skin test}})."
+  },
+  {
+   "id": "pharm-p27-003",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 27,
+   "text": "{{c1::Topical/transdermal}} route: drug applied to the body surface and absorbed slowly by capillaries under the skin (e.g., hydrocortisone, {{c2::nicotine patches}})."
+  },
+  {
+   "id": "pharm-p27-004",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 27,
+   "text": "With topical/transdermal drugs, more concentrated {{c1::toxicity}} should be carefully monitored."
+  },
+  {
+   "id": "pharm-p27-005",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 27,
+   "text": "Topical drug effects last a long time through slow absorption, but are less effective on {{c1::keratinized}} tissue."
+  },
+  {
+   "id": "pharm-p27-006",
+   "deck": "Pharmacology",
+   "section": "Parenteral administration",
+   "page": 27,
+   "text": "Topicals include {{c1::ophthalmic}} (eye) and {{c2::otic}} (ear) preparations."
+  },
+  {
+   "id": "pharm-p27-007",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "text": "On a dose–response graph, the x-axis is {{c1::dose}} and the y-axis is {{c2::response}}."
+  },
+  {
+   "id": "pharm-p27-008",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "text": "{{c1::Therapeutic range}}: the range between the dose causing the minimum effect and the dose causing the minimum adverse effect."
+  },
+  {
+   "id": "pharm-p27-009",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "text": "{{c1::Therapeutic index (TI)}}: a number that determines the {{c2::safety}} of a drug."
+  },
+  {
+   "id": "pharm-p27-010",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "text": "Therapeutic index = {{c1::lethal dose (LD50)}} ÷ {{c2::effective dose (ED50)}}."
+  },
+  {
+   "id": "pharm-p27-011",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "text": "The {{c1::bigger}} the therapeutic index number, the safer the drug."
+  },
+  {
+   "id": "pharm-p28-001",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 28,
+   "text": "{{c1::Potency}}: the amount of drug needed to achieve the desired effect — the {{c2::less}} amount needed, the more potent the drug."
+  },
+  {
+   "id": "pharm-p28-002",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 28,
+   "text": "On a dose–response graph, the drug curve closest to the {{c1::left}} side is the most potent."
+  },
+  {
+   "id": "pharm-p28-003",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 28,
+   "text": "{{c1::Efficacy}}: the maximal response obtained by a drug ({{c2::Emax}})."
+  },
+  {
+   "id": "pharm-p28-004",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 28,
+   "text": "On a dose–response graph, the drug with the {{c1::highest point}} has the greatest efficacy."
+  },
+  {
+   "id": "pharm-p28-005",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 28,
+   "text": "Taking more of a drug will not increase its {{c1::efficacy}}, but will cause more {{c2::adverse reactions}}."
+  },
+  {
+   "id": "pharm-p28-006",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 28,
+   "text": "There is {{c1::no}} relationship between potency and efficacy.",
+   "extra": "Book graph: Drug A (5 mg) and Drug B (50 mg) give the same 50% response, so A is more potent — but even though Drug B is less potent, at 500 mg it is 50% more efficacious."
+  },
+  {
+   "id": "pharm-p28-007",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "text": "All adverse reactions are {{c1::undesirable}} effects."
+  },
+  {
+   "id": "pharm-p28-008",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "text": "A {{c1::side effect}} acts on {{c2::non-target}} organs (e.g., xerostomia from antihypertensive meds)."
+  },
+  {
+   "id": "pharm-p28-009",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "text": "A {{c1::toxic reaction}} is an {{c2::exaggerated effect on the target organ}} (e.g., barbiturate overdose → respiratory depression, death)."
+  },
+  {
+   "id": "pharm-p28-010",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "text": "An {{c1::allergic reaction}} is an {{c2::immune hypersensitivity}} to a drug (e.g., swelling from benzocaine — Type I or IV)."
+  },
+  {
+   "id": "pharm-p28-011",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "text": "Side effects and toxic reactions are {{c1::dose-related}} and {{c2::predictable}}; allergic reactions are neither."
+  },
+  {
+   "id": "pharm-p28-012",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "text": "The target of an allergic reaction is the {{c1::immune system}}."
+  },
+  {
+   "id": "pharm-p28-013",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "text": "Allergic reaction timing: Type I is {{c1::immediate (minutes–hours)}}; Type IV is {{c2::delayed (hours–days)}}."
+  },
+  {
+   "id": "pharm-p28-014",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "text": "Toxic reaction timing: {{c1::immediate to delayed}}, depending on the overdose level; side-effect timing depends on the drug."
+  },
+  {
+   "id": "pharm-p28-015",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "text": "Reversibility: side effects are {{c1::often reversible}}; toxic reactions depend on severity ({{c2::can be fatal}}); allergic reactions vary — {{c3::remove the allergen and treat}}."
+  },
+  {
+   "id": "pharm-p28-016",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "text": "Rate and efficiency of absorption depend on the {{c1::route of administration}}, the {{c2::pKa}} of the drug, drug {{c3::solubility}}, and the {{c4::pH}} of the media."
+  },
+  {
+   "id": "pharm-p28-017",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "text": "{{c1::Metabolism (biotransformation)}}: the process where the body breaks down/converts medication into other substances."
+  },
+  {
+   "id": "pharm-p28-018",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "text": "The {{c1::liver}} is the primary site for drug metabolism; other sites include {{c2::blood, lungs}}, etc."
+  },
+  {
+   "id": "pharm-p28-019",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "text": "{{c1::Seniors}}, {{c2::newborns}}, and patients with {{c3::liver malfunction}} may have difficulties metabolizing drugs."
+  },
+  {
+   "id": "pharm-p28-020",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "text": "{{c1::Elimination (excretion)}}: drugs and their metabolites are eliminated from the body."
+  },
+  {
+   "id": "pharm-p29-001",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 29,
+   "text": "Drug excretion occurs primarily in the {{c1::kidneys}}; drugs and metabolites are flushed out through {{c2::urine}}."
+  },
+  {
+   "id": "pharm-p29-002",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 29,
+   "text": "Each nephron contains a {{c1::glomerulus}}, a network of capillaries that performs the first step in filtering; it is surrounded by the thin-walled, bowl-shaped {{c2::Bowman's capsule}}."
+  },
+  {
+   "id": "pharm-p29-003",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 29,
+   "text": "Other sites of drug excretion: intestines, {{c1::saliva}}, {{c2::gingival crevicular fluid}}, sweat, tears, {{c3::breast milk}}, and lungs."
+  },
+  {
+   "id": "pharm-p29-004",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 29,
+   "text": "Renal excretion = {{c1::filtration}} − {{c2::reabsorption}} + {{c3::secretion}}."
+  },
+  {
+   "id": "pharm-p29-005",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "The autonomic nervous system is part of the {{c1::peripheral}} nervous system and controls {{c2::involuntary}} actions such as the beating of the heart."
+  },
+  {
+   "id": "pharm-p29-006",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "The autonomic nervous system includes the {{c1::sympathetic}} + {{c2::parasympathetic}} nervous systems."
+  },
+  {
+   "id": "pharm-p29-007",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "The ANS is a major focus in pharmacology because many drugs either {{c1::stimulate or block}} it; it controls involuntary functions like heart rate, digestion, and salivation."
+  },
+  {
+   "id": "pharm-p29-008",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "{{c1::Adrenergic}} = sympathetic nervous system (SANS); {{c2::cholinergic}} = parasympathetic nervous system (PANS)."
+  },
+  {
+   "id": "pharm-p29-009",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Main neurotransmitters: sympathetic (adrenergic) — {{c1::epinephrine, norepinephrine}}; parasympathetic (cholinergic) — {{c2::acetylcholine}}.",
+   "extra": "Acetylcholine mediates responses at the cholinergic receptors."
+  },
+  {
+   "id": "pharm-p29-010",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Adrenergic receptor subtypes: {{c1::α1}} — blood vessels; {{c2::β1}} — heart; {{c3::β2}} — lungs, skeletal muscle vessels, uterus."
+  },
+  {
+   "id": "pharm-p29-011",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Cholinergic {{c1::muscarinic}} receptors are found in the {{c2::salivary glands, heart, GI tract, bladder}}."
+  },
+  {
+   "id": "pharm-p29-012",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "α1 activation → {{c1::vasoconstriction}}, ↑ BP."
+  },
+  {
+   "id": "pharm-p29-013",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "β1 activation → ↑ {{c1::heart rate}}, ↑ {{c2::contractility}}."
+  },
+  {
+   "id": "pharm-p29-014",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "β2 activation → {{c1::bronchodilation}}, vasodilation."
+  },
+  {
+   "id": "pharm-p29-015",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Cholinergic activation → ↑ saliva, ↑ GI motility, {{c1::↓}} heart rate, ↑ bladder contraction."
+  },
+  {
+   "id": "pharm-p29-016",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Adrenergic agonist {{c1::albuterol}} stimulates {{c2::β2}} receptors in the lungs → bronchodilator that treats asthma."
+  },
+  {
+   "id": "pharm-p29-017",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Adrenergic agonist {{c1::epinephrine}} prolongs local anesthesia and treats {{c2::anaphylaxis}}."
+  },
+  {
+   "id": "pharm-p29-018",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Cholinergic agonist {{c1::pilocarpine}} increases salivation — treats {{c2::xerostomia}}."
+  },
+  {
+   "id": "pharm-p29-019",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Adrenergic antagonists: {{c1::propranolol}} is a non-selective β-blocker; {{c2::atenolol}} is a selective β1-blocker."
+  },
+  {
+   "id": "pharm-p29-020",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Cholinergic antagonist {{c1::atropine}} {{c2::reduces}} saliva and {{c3::increases}} heart rate.",
+   "extra": "Dental use: atropine may be used to reduce salivation before procedures."
+  },
+  {
+   "id": "pharm-p29-021",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Common side effects of adrenergic drugs: {{c1::tachycardia}}, anxiety, {{c2::tremors}}, {{c3::dry mouth}}.",
+   "extra": "p.30 also lists cardiac arrhythmia and increased headaches/anxiety as adverse effects of adrenergic drugs."
+  },
+  {
+   "id": "pharm-p29-022",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Cholinergic AGONIST side effects: {{c1::excess saliva}}, diarrhea, {{c2::bradycardia}}."
+  },
+  {
+   "id": "pharm-p29-023",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Cholinergic ANTAGONIST side effects: {{c1::dry mouth}}, {{c2::blurred vision}}, {{c3::constipation}}."
+  },
+  {
+   "id": "pharm-p29-024",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Adrenergic drugs are contraindicated in {{c1::angina}}, {{c2::uncontrolled hypertension}}, and {{c3::(uncontrolled) hyperthyroidism}}."
+  },
+  {
+   "id": "pharm-p29-025",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Cholinergic drugs are contraindicated in {{c1::asthma}}, {{c2::cardiac disease}}, and {{c3::peptic ulcers}}.",
+   "extra": "p.30: contraindicated for cardiac conditions because of side effects like a slowed heart rate."
+  },
+  {
+   "id": "pharm-p29-026",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "text": "Dental relevance: limit epinephrine to {{c1::0.04 mg}} (2 cartridges) in patients on {{c2::non-selective β-blockers}}.",
+   "extra": "Adrenergics may also cause dry mouth."
+  },
+  {
+   "id": "pharm-p30-001",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "The sympathetic nervous system (SANS) is the {{c1::fight or flight}} system."
+  },
+  {
+   "id": "pharm-p30-002",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "Sympathetic adrenergic receptors: {{c1::alpha (α)}}, {{c2::beta-1 (β1)}}, {{c3::beta-2 (β2)}}."
+  },
+  {
+   "id": "pharm-p30-003",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "{{c1::Adrenergic}} drugs stimulate adrenergic receptors and mimic the effects of the SANS."
+  },
+  {
+   "id": "pharm-p30-004",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "{{c1::Antiadrenergic}} drugs block adrenergic receptors, produce the opposite effect of the SANS, and {{c2::decrease}} blood pressure."
+  },
+  {
+   "id": "pharm-p30-005",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "Beta-blockers (suffix {{c1::-olol}}) {{c2::slow the heart rate}} and lower blood pressure."
+  },
+  {
+   "id": "pharm-p30-006",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "The parasympathetic nervous system (PANS) creates {{c1::\"rest and digest\"}} responses.",
+   "extra": "WakeUpMemory: PARAsympathetic → PARAlyzed (from too much eating) → need to rest and digest."
+  },
+  {
+   "id": "pharm-p30-007",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "PANS effects: pupils {{c1::return to normal}}; {{c2::slows}} heart rate and respiration; {{c3::decreases}} perspiration and arterial blood pressure."
+  },
+  {
+   "id": "pharm-p30-008",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "PANS effects: {{c1::dilates}} blood vessels leading to the GI tract (↑ blood flow for digestion), {{c2::accelerates peristalsis}}, and stimulates salivary gland secretion."
+  },
+  {
+   "id": "pharm-p30-009",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "{{c1::Cholinergic}} drugs stimulate cholinergic receptors and produce the effects of the PANS (e.g., pilocarpine)."
+  },
+  {
+   "id": "pharm-p30-010",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 30,
+   "text": "{{c1::Anticholinergic}} drugs block cholinergic receptors and produce the opposite of rest and digest (e.g., atropine decreases salivation)."
+  },
+  {
+   "id": "pharm-p30-011",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "text": "{{c1::Antihypertensive}} agents prevent and control high blood pressure."
+  },
+  {
+   "id": "pharm-p31-001",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "{{c1::Beta blockers}} are NOT first-line for hypertension (used for comorbidities); diuretics, calcium channel blockers, ACE inhibitors and ARBs are first-line."
+  },
+  {
+   "id": "pharm-p31-002",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Diuretics block {{c1::sodium reabsorption}} in the {{c2::loop of Henle/distal tubule}} → ↓ blood volume and resistance."
+  },
+  {
+   "id": "pharm-p31-003",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Beta blockers block {{c1::β1}} (heart) ± {{c2::β2}} (lungs) → ↓ heart rate and contractility."
+  },
+  {
+   "id": "pharm-p31-004",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Calcium channel blockers inhibit {{c1::calcium influx}} in vascular smooth muscle → {{c2::vasodilation}}."
+  },
+  {
+   "id": "pharm-p31-005",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "ACE inhibitors inhibit the ACE enzyme → block formation of {{c1::angiotensin II}}."
+  },
+  {
+   "id": "pharm-p31-006",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "ARBs block {{c1::angiotensin II receptors}} → vasodilation."
+  },
+  {
+   "id": "pharm-p31-007",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Suffixes: diuretics {{c1::-ide}}; beta blockers {{c2::-olol}}; calcium channel blockers {{c3::-pine}} (mostly); ACE inhibitors {{c4::-pril}}; ARBs {{c5::-tan}}.",
+   "extra": "WakeUpMemory: Diuretic → \"DI\" flipped → ID → -ide. Beta blocker → bb → flipped dd → olol. Calcium channel blocker → CC → with your credit card you bought a pint of beer (-pine). ARB → Arab countries have tan colored sand dunes (-tan)."
+  },
+  {
+   "id": "pharm-p31-008",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Target sites: diuretics — {{c1::kidneys (nephron)}}; calcium channel blockers — {{c2::vascular smooth muscle and heart}}; ACE inhibitors and ARBs — the {{c3::renin-angiotensin system}}."
+  },
+  {
+   "id": "pharm-p31-009",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Primary effect: diuretics — ↓ {{c1::blood volume and preload}}; beta blockers — ↓ {{c2::heart rate and cardiac output}}; CCBs, ACE inhibitors, ARBs — {{c3::vasodilation}}."
+  },
+  {
+   "id": "pharm-p31-010",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Common side effects of diuretics: frequent urination, dehydration, {{c1::hypokalemia}}, dizziness."
+  },
+  {
+   "id": "pharm-p31-011",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Common side effects of beta blockers: fatigue, {{c1::bradycardia}}, {{c2::bronchoconstriction}} (non-selective), {{c3::masks hypoglycemia}}."
+  },
+  {
+   "id": "pharm-p31-012",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Common side effects of calcium channel blockers: {{c1::gingival hyperplasia}}, headache, flushing, hypotension."
+  },
+  {
+   "id": "pharm-p31-013",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Common side effects of ACE inhibitors: {{c1::dry cough}} (bradykinin-related), {{c2::angioedema}}, hypotension."
+  },
+  {
+   "id": "pharm-p31-014",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Common side effects of ARBs: dizziness, angioedema (rare), and {{c1::no dry cough}}."
+  },
+  {
+   "id": "pharm-p31-015",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Contraindications: diuretics — severe {{c1::renal impairment}}, dehydration; beta blockers — {{c2::asthma}} (non-selective), bradycardia."
+  },
+  {
+   "id": "pharm-p31-016",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Contraindications: calcium channel blockers — severe hypotension, {{c1::AV block}}; ACE inhibitors and ARBs — history of {{c2::angioedema}}, {{c3::pregnancy}}."
+  },
+  {
+   "id": "pharm-p31-017",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Dental relevance of diuretics: risk of {{c1::orthostatic hypotension}}, {{c2::dry mouth}}."
+  },
+  {
+   "id": "pharm-p31-018",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Dental relevance of calcium channel blockers: {{c1::gingival enlargement}}, especially with {{c2::nifedipine}}."
+  },
+  {
+   "id": "pharm-p31-019",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Other clinical uses: diuretics — {{c1::edema}}, CHF; beta blockers — angina, post-MI, arrhythmias, {{c2::anxiety}}."
+  },
+  {
+   "id": "pharm-p31-020",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "Other clinical uses: calcium channel blockers — arrhythmias, {{c1::Raynaud's syndrome}}; ACE inhibitors and ARBs — heart failure, {{c2::diabetic nephropathy}}."
+  },
+  {
+   "id": "pharm-p31-021",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "{{c1::Selective}} beta blockers block only β1 receptors in the heart — they slow the heart rate and lower BP without affecting breathing, so they are safer for patients with {{c2::asthma or lung conditions}}."
+  },
+  {
+   "id": "pharm-p31-022",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "text": "{{c1::Non-selective}} beta blockers block both β1 (heart) and β2 (lungs) — they lower BP but can cause {{c2::bronchoconstriction}}, dangerous for asthma or COPD."
+  }
+ ],
+ "basic": [
+  {
+   "id": "pharm-p26-b-01",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "front": "Drug (definition)",
+   "back": "Chemicals that act on living systems at the molecular level",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p26-b-02",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "front": "Pharmacology",
+   "back": "The study of drugs and their effects on living organisms",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p26-b-03",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "front": "Toxicology",
+   "back": "The study of harmful or toxic effects of drugs",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p26-b-04",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "front": "Contraindications",
+   "back": "Medical or physical conditions that make a drug inadvisable",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p26-b-05",
+   "deck": "Pharmacology",
+   "section": "Definitions",
+   "page": 26,
+   "front": "Tolerance",
+   "back": "Decreased effect of a drug over time, so the patient needs larger doses to achieve the same effect",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p26-b-06",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "front": "Rx abbreviation: <b>qd</b>",
+   "back": "Once a day (quaque die)",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"Quote of the day\" → once"
+  },
+  {
+   "id": "pharm-p26-b-07",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "front": "Rx abbreviation: <b>bid</b>",
+   "back": "Twice a day (bis in die)",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"Bi\" → \"Bi\""
+  },
+  {
+   "id": "pharm-p26-b-08",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "front": "Rx abbreviation: <b>tid</b>",
+   "back": "3 times a day (ter in die)",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"T\" → \"Three\""
+  },
+  {
+   "id": "pharm-p26-b-09",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "front": "Rx abbreviation: <b>qid</b>",
+   "back": "4 times a day (quater in die)",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"Q\" → \"Quatro\""
+  },
+  {
+   "id": "pharm-p26-b-10",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "front": "Rx abbreviation: <b>pc</b>",
+   "back": "After meals (post cebum)",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"PC\" → \"Plates Clean\""
+  },
+  {
+   "id": "pharm-p26-b-11",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "front": "Rx abbreviation: <b>ac</b>",
+   "back": "Before meals (ante cebum)",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"AC\" → \"Appetite Comes\""
+  },
+  {
+   "id": "pharm-p26-b-12",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "front": "Rx abbreviation: <b>po</b>",
+   "back": "By mouth (per os)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p26-b-13",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "front": "Rx abbreviation: <b>prn</b>",
+   "back": "As needed (pro re nata)",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"PRN\" → \"Please Respond Now\""
+  },
+  {
+   "id": "pharm-p26-b-14",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "front": "Rx abbreviation: <b>hs</b>",
+   "back": "At bedtime (hora somni)",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"HS\" → \"Hit the Sheets\""
+  },
+  {
+   "id": "pharm-p26-b-15",
+   "deck": "Pharmacology",
+   "section": "Enteral administration",
+   "page": 26,
+   "front": "What is the first-pass effect, and why does it matter?",
+   "back": "The drug is metabolized in the GI tract and liver before it reaches the systemic circulation — this significantly reduces the amount of drug available.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p27-b-01",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "front": "Pharmacodynamics (in a phrase)",
+   "back": "\"What the drug does to the body\"",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p27-b-02",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "front": "Pharmacokinetics (in a phrase)",
+   "back": "\"What the body does to the drug\"",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p27-b-03",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "front": "Therapeutic action",
+   "back": "The desired result of a drug",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p27-b-04",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "front": "ED50 (effective dose)",
+   "back": "The dose that produces the desired response in 50% of people",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p28-b-01",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 28,
+   "front": "LD50 (lethal dose)",
+   "back": "The dose that is lethal in 50% of the participants",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p28-b-02",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "front": "Absorption (pharmacokinetics)",
+   "back": "Entry of the therapeutic agent into the bloodstream",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p28-b-03",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "front": "Distribution (pharmacokinetics)",
+   "back": "Distribution of the drug to other parts of the body",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p28-b-04",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "front": "Half-life",
+   "back": "The time it takes for the body to eliminate half of the drug present in the body",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-01",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Hydrochlorothiazide — antihypertensive drug class?",
+   "back": "Diuretic<br>Brand: Microzide®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-02",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Furosemide — antihypertensive drug class?",
+   "back": "Diuretic<br>Brand: Lasix®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-03",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Atenolol — antihypertensive drug class?",
+   "back": "Beta blocker<br>Brand: Tenormin®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-04",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Metoprolol — antihypertensive drug class?",
+   "back": "Beta blocker<br>Brand: Lopressor®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-05",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Propranolol — antihypertensive drug class?",
+   "back": "Beta blocker<br>Brand: Inderal®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-06",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Nifedipine — antihypertensive drug class?",
+   "back": "Calcium channel blocker<br>Brand: Procardia®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-07",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Amlodipine — antihypertensive drug class?",
+   "back": "Calcium channel blocker<br>Brand: Norvasc®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-08",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Diltiazem — antihypertensive drug class?",
+   "back": "Calcium channel blocker<br>Brand: Cardizem®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-09",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Verapamil — antihypertensive drug class?",
+   "back": "Calcium channel blocker<br>Brand: Isoptin®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-10",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Lisinopril — antihypertensive drug class?",
+   "back": "ACE inhibitor<br>Brand: Zestril®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-11",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Enalapril — antihypertensive drug class?",
+   "back": "ACE inhibitor<br>Brand: Vasotec®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-12",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Ramipril — antihypertensive drug class?",
+   "back": "ACE inhibitor<br>Brand: Altace®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-13",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Captopril — antihypertensive drug class?",
+   "back": "ACE inhibitor<br>Brand: Capoten®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-14",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Losartan — antihypertensive drug class?",
+   "back": "ARB (angiotensin II receptor blocker)<br>Brand: Cozaar®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-15",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Valsartan — antihypertensive drug class?",
+   "back": "ARB (angiotensin II receptor blocker)<br>Brand: Diovan®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p30-b-16",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 30,
+   "front": "Irbesartan — antihypertensive drug class?",
+   "back": "ARB (angiotensin II receptor blocker)<br>Brand: Avapro®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p31-b-01",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "front": "Chlorthalidone — antihypertensive drug class?",
+   "back": "Diuretic<br>Brand: Hygroton®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p31-b-02",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "front": "Bumetanide — antihypertensive drug class?",
+   "back": "Diuretic<br>Brand: Bumex®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p31-b-03",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "front": "Bisoprolol — antihypertensive drug class?",
+   "back": "Beta blocker<br>Brand: Zebeta®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p31-b-04",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "front": "Timolol — antihypertensive drug class?",
+   "back": "Beta blocker<br>Brand: Timoptic®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p31-b-05",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "front": "Nadolol — antihypertensive drug class?",
+   "back": "Beta blocker<br>Brand: Corgard®",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p31-b-06",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "front": "Why are diuretics nicknamed \"water pills\"?",
+   "back": "They make patients urinate more, removing excess fluid and sodium from the body → lower blood volume and blood pressure.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p31-b-07",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "front": "Why must epinephrine be limited to 0.04 mg (2 cartridges) in patients taking non-selective beta blockers?",
+   "back": "Their blood vessels can't dilate properly, increasing the risk of a dangerous spike in blood pressure.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "pharm-p27-t-01",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 27,
+   "question": "A drug has LD50 = 400 mg and ED50 = 20 mg. What is its therapeutic index?",
+   "answer": "20",
+   "extra": "TI = LD50 ÷ ED50 = 400 ÷ 20."
+  },
+  {
+   "id": "pharm-p28-t-01",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "question": "After 2 half-lives, what percentage of the drug remains in the body?",
+   "answer": "25%",
+   "extra": "75% cleared. Each half-life removes half of what is left (1 half-life: 50% cleared, 50% remains)."
+  },
+  {
+   "id": "pharm-p28-t-02",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "question": "After 3 half-lives, what percentage of the drug remains in the body?",
+   "answer": "12.5%",
+   "extra": "87.5% cleared. Each half-life removes half of what is left (1 half-life: 50% cleared, 50% remains)."
+  },
+  {
+   "id": "pharm-p28-t-03",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "question": "After 4 half-lives, what percentage of the drug remains in the body?",
+   "answer": "6.25%",
+   "extra": "93.75% cleared. Each half-life removes half of what is left (1 half-life: 50% cleared, 50% remains)."
+  },
+  {
+   "id": "pharm-p28-t-04",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "question": "After 5 half-lives, what percentage of the drug remains in the body?",
+   "answer": "3.125%",
+   "extra": "96.875% cleared. Each half-life removes half of what is left (1 half-life: 50% cleared, 50% remains)."
+  },
+  {
+   "id": "pharm-p28-t-05",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "question": "After 6 half-lives, what percentage of the drug remains in the body?",
+   "answer": "1.5625%",
+   "extra": "98.4375% cleared. Each half-life removes half of what is left (1 half-life: 50% cleared, 50% remains)."
+  },
+  {
+   "id": "pharm-p28-t-06",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "question": "Book example: morphine's half-life (in hours)?",
+   "answer": "2–3",
+   "extra": "Every drug has a different half-life."
+  },
+  {
+   "id": "pharm-p29-t-01",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 29,
+   "question": "About how many nephrons does each kidney contain?",
+   "answer": "1 million",
+   "extra": "Nephrons are microscopic units that filter the blood and produce urine."
+  }
+ ],
+ "match": [
+  {
+   "id": "pharm-p26-m-01",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "prompt": "Match each dosing-frequency abbreviation to its meaning.",
+   "pairs": [
+    [
+     "qd",
+     "Once a day"
+    ],
+    [
+     "bid",
+     "Twice a day"
+    ],
+    [
+     "tid",
+     "3 times a day"
+    ],
+    [
+     "qid",
+     "4 times a day"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p26-m-02",
+   "deck": "Pharmacology",
+   "section": "Pharmacological abbreviations",
+   "page": 26,
+   "prompt": "Match each abbreviation to its meaning.",
+   "pairs": [
+    [
+     "ac",
+     "Before meals"
+    ],
+    [
+     "pc",
+     "After meals"
+    ],
+    [
+     "hs",
+     "At bedtime"
+    ],
+    [
+     "prn",
+     "As needed"
+    ],
+    [
+     "po",
+     "By mouth"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p27-m-01",
+   "deck": "Pharmacology",
+   "section": "Routes of administration",
+   "page": 27,
+   "prompt": "Match each route to the book's example.",
+   "pairs": [
+    [
+     "Oral",
+     "Ibuprofen"
+    ],
+    [
+     "Sublingual",
+     "Nitroglycerin"
+    ],
+    [
+     "Intramuscular",
+     "EpiPen"
+    ],
+    [
+     "Subcutaneous",
+     "Insulin"
+    ],
+    [
+     "Intradermal",
+     "TB skin test"
+    ],
+    [
+     "Transdermal",
+     "Nicotine patch"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p27-m-02",
+   "deck": "Pharmacology",
+   "section": "Routes of administration",
+   "page": 27,
+   "prompt": "Match each injection route to its needle angle.",
+   "pairs": [
+    [
+     "Intramuscular",
+     "90°"
+    ],
+    [
+     "Subcutaneous",
+     "45°"
+    ],
+    [
+     "Intravenous",
+     "25°"
+    ],
+    [
+     "Intradermal",
+     "10°–15°"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p28-m-01",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "prompt": "Match each example to the type of adverse reaction.",
+   "pairs": [
+    [
+     "Xerostomia from antihypertensive meds",
+     "Side effect"
+    ],
+    [
+     "Barbiturate overdose → respiratory depression",
+     "Toxic reaction"
+    ],
+    [
+     "Swelling after benzocaine",
+     "Allergic reaction"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p29-m-01",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "prompt": "Match each receptor to its main effect when activated.",
+   "pairs": [
+    [
+     "α1",
+     "Vasoconstriction, ↑ BP"
+    ],
+    [
+     "β1",
+     "↑ HR, ↑ contractility"
+    ],
+    [
+     "β2",
+     "Bronchodilation"
+    ],
+    [
+     "Muscarinic",
+     "↑ Saliva, ↑ GI motility"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p31-m-01",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "prompt": "Match each antihypertensive class to its mechanism.",
+   "pairs": [
+    [
+     "Diuretics",
+     "Block Na⁺ reabsorption in the nephron"
+    ],
+    [
+     "Beta blockers",
+     "Block β1 (± β2) → ↓ HR"
+    ],
+    [
+     "Calcium channel blockers",
+     "Inhibit Ca²⁺ influx in vascular smooth muscle"
+    ],
+    [
+     "ACE inhibitors",
+     "Block formation of angiotensin II"
+    ],
+    [
+     "ARBs",
+     "Block angiotensin II receptors"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "pharm-p28-o-01",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 28,
+   "prompt": "Put the pharmacokinetic stages in order.",
+   "items": [
+    "Absorption",
+    "Distribution",
+    "Metabolism",
+    "Excretion"
+   ]
+  },
+  {
+   "id": "pharm-p29-o-01",
+   "deck": "Pharmacology",
+   "section": "Pharmacokinetics",
+   "page": 29,
+   "prompt": "Put the steps of renal drug handling in order (nephron figure).",
+   "items": [
+    "Filtration",
+    "Reabsorption",
+    "Secretion",
+    "Excretion"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "pharm-p27-s-01",
+   "deck": "Pharmacology",
+   "section": "Routes of administration",
+   "page": 27,
+   "prompt": "Sort the routes as the book groups them.",
+   "categories": [
+    [
+     "Enteral (GI tract)",
+     [
+      "Oral",
+      "Sublingual",
+      "Rectal"
+     ]
+    ],
+    [
+     "Parenteral",
+     [
+      "Intravenous",
+      "Intramuscular",
+      "Subcutaneous",
+      "Intradermal",
+      "Topical/transdermal"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p29-s-01",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "prompt": "Sort the drugs by their action on the autonomic nervous system.",
+   "categories": [
+    [
+     "Adrenergic agonist",
+     [
+      "Albuterol",
+      "Epinephrine"
+     ]
+    ],
+    [
+     "Adrenergic antagonist",
+     [
+      "Propranolol",
+      "Atenolol"
+     ]
+    ],
+    [
+     "Cholinergic agonist",
+     [
+      "Pilocarpine"
+     ]
+    ],
+    [
+     "Cholinergic antagonist",
+     [
+      "Atropine"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p31-s-01",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "prompt": "Sort the generic drugs by antihypertensive class.",
+   "categories": [
+    [
+     "Diuretics",
+     [
+      "Hydrochlorothiazide",
+      "Furosemide",
+      "Chlorthalidone",
+      "Bumetanide"
+     ]
+    ],
+    [
+     "Beta blockers",
+     [
+      "Atenolol",
+      "Metoprolol",
+      "Propranolol",
+      "Bisoprolol",
+      "Timolol",
+      "Nadolol"
+     ]
+    ],
+    [
+     "Calcium channel blockers",
+     [
+      "Nifedipine",
+      "Amlodipine",
+      "Diltiazem",
+      "Verapamil"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p31-s-02",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "prompt": "Sort the generic drugs: ACE inhibitor or ARB?",
+   "categories": [
+    [
+     "ACE inhibitors",
+     [
+      "Lisinopril",
+      "Enalapril",
+      "Ramipril",
+      "Captopril"
+     ]
+    ],
+    [
+     "ARBs",
+     [
+      "Losartan",
+      "Valsartan",
+      "Irbesartan"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "pharm-p27-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Routes of administration",
+   "page": 27,
+   "question": "A medication must reach 100% bioavailability immediately during a medical emergency. Which route is best?",
+   "options": [
+    "A. Oral",
+    "B. Intramuscular",
+    "C. Intravenous",
+    "D. Subcutaneous"
+   ],
+   "answer": "C. Intravenous",
+   "explanation": "IV puts the drug directly into the systemic circulation — 100% instant, complete availability, best control of drug level; used in emergencies. IM is rapid but still depends on absorption from muscle."
+  },
+  {
+   "id": "pharm-p27-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Routes of administration",
+   "page": 27,
+   "question": "Nitroglycerin for angina is given sublingually mainly because this route:",
+   "options": [
+    "A. Avoids the first-pass effect and absorbs quickly through capillaries under the tongue",
+    "B. Is the safest and slowest route",
+    "C. Gives 100% instant bioavailability",
+    "D. Allows absorption in the small intestine"
+   ],
+   "answer": "A. Avoids the first-pass effect and absorbs quickly through capillaries under the tongue",
+   "explanation": "Sublingual capillaries speed absorption and the drug bypasses first-pass metabolism in the GI tract/liver. 100% instant availability describes IV only."
+  },
+  {
+   "id": "pharm-p28-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Pharmacodynamics",
+   "page": 28,
+   "question": "Drug X reaches a 50% response at 5 mg and plateaus at 50% efficacy. Drug Y reaches 50% at 50 mg and plateaus at 100%. Which statement is correct?",
+   "options": [
+    "A. X is more potent; Y is more efficacious",
+    "B. X is more potent and more efficacious",
+    "C. Y is more potent; X is more efficacious",
+    "D. Both have the same potency"
+   ],
+   "answer": "A. X is more potent; Y is more efficacious",
+   "explanation": "Potency = less drug needed for the effect (curve further left) → X. Efficacy = maximal response (highest point) → Y. Potency and efficacy are unrelated."
+  },
+  {
+   "id": "pharm-p28-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Adverse reactions",
+   "page": 28,
+   "question": "Which type of adverse drug reaction is neither dose-related nor predictable?",
+   "options": [
+    "A. Side effect",
+    "B. Toxic reaction",
+    "C. Allergic reaction",
+    "D. Overdose"
+   ],
+   "answer": "C. Allergic reaction",
+   "explanation": "Allergic reactions are immune hypersensitivity — not dose-related, not predictable. Side effects and toxic reactions are both dose-related and predictable."
+  },
+  {
+   "id": "pharm-p29-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "question": "A patient taking propranolol needs local anesthesia. What is the appropriate precaution?",
+   "options": [
+    "A. Limit epinephrine to 0.04 mg (2 cartridges)",
+    "B. Avoid all local anesthetics",
+    "C. Premedicate with atropine",
+    "D. Use only topical anesthetic"
+   ],
+   "answer": "A. Limit epinephrine to 0.04 mg (2 cartridges)",
+   "explanation": "Propranolol is a non-selective β-blocker. Epinephrine is limited to 0.04 mg because blocked β2 vessels can't dilate, so unopposed α1 vasoconstriction risks a dangerous BP spike. Local anesthesia itself is not contraindicated."
+  },
+  {
+   "id": "pharm-p29-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Autonomic nervous system",
+   "page": 29,
+   "question": "Which drug would be used to increase salivation in a patient with xerostomia?",
+   "options": [
+    "A. Atropine",
+    "B. Pilocarpine",
+    "C. Albuterol",
+    "D. Propranolol"
+   ],
+   "answer": "B. Pilocarpine",
+   "explanation": "Pilocarpine is a cholinergic agonist (stimulates muscarinic receptors → ↑ saliva). Atropine is the cholinergic antagonist that reduces saliva."
+  },
+  {
+   "id": "pharm-p31-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "question": "A patient's medication list includes amlodipine. Which oral finding is most likely related to this drug?",
+   "options": [
+    "A. Gingival enlargement",
+    "B. Dry, persistent cough",
+    "C. Excess salivation",
+    "D. Candidiasis"
+   ],
+   "answer": "A. Gingival enlargement",
+   "explanation": "Amlodipine is a calcium channel blocker (-pine); CCBs cause gingival hyperplasia/enlargement (especially nifedipine). A dry cough points to an ACE inhibitor."
+  },
+  {
+   "id": "pharm-p31-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Hypertension pharmacology",
+   "page": 31,
+   "question": "A hypertensive patient reports a dry, persistent cough since starting a new medication. Which drug is most likely responsible?",
+   "options": [
+    "A. Losartan",
+    "B. Lisinopril",
+    "C. Hydrochlorothiazide",
+    "D. Metoprolol"
+   ],
+   "answer": "B. Lisinopril",
+   "explanation": "Lisinopril is an ACE inhibitor (-pril); dry cough (bradykinin-related) is its classic side effect. Losartan, an ARB, causes no dry cough."
+  }
+ ]
+}

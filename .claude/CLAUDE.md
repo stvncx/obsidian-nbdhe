@@ -40,3 +40,9 @@ The repo is also the Obsidian vault (`stvncx/obsidian-nbdhe`): **`git pull` befo
   Open questions for Steven: saliva % conflict in the book (75/20/5 vs 65/25); his review of
   the v2 type mix.
 - Obsidian card attempt (SR plugin) abandoned 2026-10-08 — history in RUNBOOK §2–5.
+- 2026-10-11: ALL 15 other books built the same way (44 parallel authors, ranges of 5–7 pages; 3 QA
+  agents reviewed all 151 diagrams). Shipped `exchange/from-claude/NBDHE-<Book>.apkg` ×15 +
+  `NBDHE-15-books-review-notes.md` (book-vs-standard corrections, doubtful book facts, design
+  questions — Steven to review). New build features: per-diagram `rotate` and `mask`; duplicate
+  labels greyed automatically (NOT applied to Anatomy — Steven's call).
+

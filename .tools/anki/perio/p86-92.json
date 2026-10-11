@@ -1,0 +1,2064 @@
+{
+ "diagrams": [
+  {
+   "name": "perio-p86-tooth-overview",
+   "title": "Tooth and supporting tissues",
+   "deck": "Periodontology",
+   "pdf_page": 2,
+   "page": 86,
+   "crop": [
+    915,
+    170,
+    1255,
+    605
+   ],
+   "labels": [
+    {
+     "box": [
+      1045,
+      178,
+      1098,
+      198
+     ],
+     "answer": "Enamel",
+     "fit": "text"
+    },
+    {
+     "box": [
+      918,
+      244,
+      968,
+      268
+     ],
+     "answer": "Crown",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1178,
+      203,
+      1226,
+      226
+     ],
+     "answer": "Dentin",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1195,
+      274,
+      1233,
+      297
+     ],
+     "answer": "Pulp",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1195,
+      306,
+      1250,
+      331
+     ],
+     "answer": "Gingiva",
+     "fit": "text"
+    },
+    {
+     "box": [
+      937,
+      528,
+      1033,
+      551
+     ],
+     "answer": "Alveolar bone",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1074,
+      571,
+      1161,
+      596
+     ],
+     "answer": "Cementum",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "perio-p86-gingival-landmarks",
+   "title": "Gingival landmarks",
+   "deck": "Periodontology",
+   "pdf_page": 2,
+   "page": 86,
+   "crop": [
+    94,
+    957,
+    1100,
+    1375
+   ],
+   "labels": [
+    {
+     "box": [
+      353,
+      1003,
+      548,
+      1041
+     ],
+     "answer": "Gingival sulcus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      287,
+      1074,
+      491,
+      1114
+     ],
+     "answer": "Gingival margin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      847,
+      1071,
+      1014,
+      1109
+     ],
+     "answer": "Free gingiva",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      783,
+      1119,
+      1046,
+      1158
+     ],
+     "answer": "Free gingival groove",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      811,
+      1165,
+      1029,
+      1205
+     ],
+     "answer": "Attached gingiva",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      783,
+      1224,
+      1076,
+      1264
+     ],
+     "answer": "Mucogingival junction",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      826,
+      1317,
+      1042,
+      1356
+     ],
+     "answer": "Alveolar mucosa",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p86-col",
+   "title": "Interdental col and contacts",
+   "deck": "Periodontology",
+   "pdf_page": 2,
+   "page": 86,
+   "crop": [
+    572,
+    1518,
+    1243,
+    1892
+   ],
+   "labels": [
+    {
+     "box": [
+      900,
+      1633,
+      983,
+      1658
+     ],
+     "answer": "Contacts",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      940,
+      1675,
+      1000,
+      1715
+     ],
+     "answer": "Col",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p87-supragingival-fibers",
+   "title": "Supragingival fibers of the gingiva",
+   "deck": "Periodontology",
+   "pdf_page": 3,
+   "page": 87,
+   "crop": [
+    77,
+    374,
+    1144,
+    957
+   ],
+   "labels": [
+    {
+     "box": [
+      457,
+      431,
+      572,
+      473
+     ],
+     "answer": "Enamel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      242,
+      498,
+      585,
+      540
+     ],
+     "answer": "Gingival connective tissue",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      277,
+      560,
+      600,
+      603
+     ],
+     "answer": "Cementoenamel junction",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      377,
+      627,
+      572,
+      669
+     ],
+     "answer": "Circular fibers",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      323,
+      688,
+      611,
+      731
+     ],
+     "answer": "Alveologingival fibers",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      324,
+      747,
+      594,
+      789
+     ],
+     "answer": "Dentogingival fibers",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      325,
+      812,
+      683,
+      854
+     ],
+     "answer": "Periodontal ligament fibers",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      476,
+      870,
+      565,
+      912
+     ],
+     "answer": "Bone",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p87-pdl",
+   "title": "Periodontal ligament",
+   "deck": "Periodontology",
+   "pdf_page": 3,
+   "page": 87,
+   "crop": [
+    655,
+    1665,
+    1180,
+    2060
+   ],
+   "labels": [
+    {
+     "box": [
+      709,
+      1783,
+      739,
+      1893
+     ],
+     "answer": "Alveolar bone",
+     "fit": "none"
+    },
+    {
+     "box": [
+      920,
+      1800,
+      949,
+      1908
+     ],
+     "answer": "Cementum",
+     "fit": "none"
+    },
+    {
+     "box": [
+      944,
+      1823,
+      1000,
+      1847
+     ],
+     "answer": "Dentin",
+     "fit": "text"
+    },
+    {
+     "box": [
+      758,
+      1876,
+      916,
+      1899
+     ],
+     "answer": "Periodontal ligament",
+     "fit": "none"
+    },
+    {
+     "box": [
+      792,
+      2022,
+      898,
+      2046
+     ],
+     "answer": "Sharpey's fibers",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "perio-p88-pdl-fiber-groups",
+   "title": "PDL fiber groups",
+   "deck": "Periodontology",
+   "pdf_page": 4,
+   "page": 88,
+   "crop": [
+    99,
+    220,
+    1210,
+    671
+   ],
+   "labels": [
+    {
+     "box": [
+      794,
+      302,
+      1115,
+      351
+     ],
+     "answer": "Alveolar crest fibers",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      798,
+      372,
+      1062,
+      410
+     ],
+     "answer": "Horizontal fibers",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      798,
+      429,
+      1111,
+      471
+     ],
+     "answer": "Interradicular fibers",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      792,
+      486,
+      1028,
+      536
+     ],
+     "answer": "Oblique fibers",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      791,
+      556,
+      1002,
+      605
+     ],
+     "answer": "Apical fibers",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p88-cementum",
+   "title": "Cementum and related structures",
+   "deck": "Periodontology",
+   "pdf_page": 4,
+   "page": 88,
+   "crop": [
+    770,
+    1375,
+    1243,
+    1859
+   ],
+   "labels": [
+    {
+     "box": [
+      966,
+      1447,
+      1062,
+      1476
+     ],
+     "answer": "Enamel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      971,
+      1512,
+      1211,
+      1573
+     ],
+     "answer": "Cementoenamel junction (CEJ)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1023,
+      1606,
+      1155,
+      1637
+     ],
+     "answer": "Cementum",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      936,
+      1717,
+      1213,
+      1753
+     ],
+     "answer": "Hypercementosis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      941,
+      1780,
+      1157,
+      1817
+     ],
+     "answer": "Apical foramen",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p89-alveolar-bone",
+   "title": "Alveolar bone",
+   "deck": "Periodontology",
+   "pdf_page": 5,
+   "page": 89,
+   "crop": [
+    82,
+    82,
+    1221,
+    715
+   ],
+   "labels": [
+    {
+     "box": [
+      420,
+      230,
+      585,
+      309
+     ],
+     "answer": "Cancellous bone",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      629,
+      262,
+      748,
+      328
+     ],
+     "answer": "Alveolar crest",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      902,
+      217,
+      1067,
+      261
+     ],
+     "answer": "Lamina dura",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      654,
+      421,
+      862,
+      462
+     ],
+     "answer": "Trabecular bone",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      450,
+      609,
+      576,
+      704
+     ],
+     "answer": "Cortical bone",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p90-health-disease",
+   "title": "Healthy, gingivitis, periodontitis",
+   "deck": "Periodontology",
+   "pdf_page": 6,
+   "page": 90,
+   "crop": [
+    94,
+    1260,
+    1238,
+    1760
+   ],
+   "labels": [
+    {
+     "box": [
+      463,
+      1380,
+      560,
+      1413
+     ],
+     "answer": "Plaque",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      366,
+      1425,
+      536,
+      1452
+     ],
+     "answer": "Inflammation",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      859,
+      1344,
+      954,
+      1400
+     ],
+     "answer": "Deep pocket",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      797,
+      1421,
+      954,
+      1478
+     ],
+     "answer": "Bone destruction",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      209,
+      1654,
+      316,
+      1681
+     ],
+     "answer": "Healthy",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      587,
+      1654,
+      711,
+      1686
+     ],
+     "answer": "Gingivitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      949,
+      1654,
+      1120,
+      1686
+     ],
+     "answer": "Periodontitis",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p92-defects",
+   "title": "Classification of periodontal defects",
+   "deck": "Periodontology",
+   "pdf_page": 8,
+   "page": 92,
+   "crop": [
+    143,
+    1188,
+    1177,
+    1716
+   ],
+   "labels": [
+    {
+     "box": [
+      196,
+      1645,
+      316,
+      1682
+     ],
+     "answer": "No defect",
+     "fit": "text"
+    },
+    {
+     "box": [
+      428,
+      1645,
+      634,
+      1712
+     ],
+     "answer": "Suprabony (horizontal) defect",
+     "fit": "text"
+    },
+    {
+     "box": [
+      700,
+      1645,
+      886,
+      1712
+     ],
+     "answer": "Infrabony (vertical) defect",
+     "fit": "text"
+    },
+    {
+     "box": [
+      949,
+      1645,
+      1156,
+      1712
+     ],
+     "answer": "Inter-radicular (furcation) defect",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "perio-p86-001",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "The gingiva provides a {{c1::tissue seal}} around the tooth and protects the underlying structures."
+  },
+  {
+   "id": "perio-p86-002",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Gingival epithelium is a type of specialized {{c1::stratified squamous}} epithelium."
+  },
+  {
+   "id": "perio-p86-003",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Biologic width includes the {{c1::junctional epithelium}} and the {{c2::connective tissue attachment}} to the tooth surface."
+  },
+  {
+   "id": "perio-p86-004",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Free gingiva (marginal gingiva) is the {{c1::unattached}} portion of the gingiva near the gingival margin."
+  },
+  {
+   "id": "perio-p86-005",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "The free gingival groove is a slight depression that separates the {{c1::free (unattached)}} gingiva from the {{c2::attached}} gingiva.",
+   "extra": "It may not be visible in some patients."
+  },
+  {
+   "id": "perio-p86-006",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "The free gingival groove corresponds to the depth of the {{c1::sulcus}}.",
+   "extra": "It is not measured on the palate."
+  },
+  {
+   "id": "perio-p86-007",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Attached gingiva lies between the {{c1::free gingival groove}} and the {{c2::mucogingival junction}}."
+  },
+  {
+   "id": "perio-p86-008",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Attached gingiva is connected to the {{c1::cementum}} of the root and to the {{c2::periosteum}} of the alveolar bone.",
+   "extra": "Periosteum = the connective tissue cover of the bone."
+  },
+  {
+   "id": "perio-p86-009",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Oral pigmentation usually occurs on the {{c1::attached}} gingiva."
+  },
+  {
+   "id": "perio-p86-010",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Attached gingiva is {{c1::keratinized}}, which gives better protection from daily activities such as chewing."
+  },
+  {
+   "id": "perio-p86-011",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Attached gingiva is generally widest on the facial of the {{c1::maxillary anteriors}} and narrowest on the facial of the {{c2::mandibular premolars}}."
+  },
+  {
+   "id": "perio-p86-012",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "The mucogingival junction (MGJ) is the {{c1::apical}} boundary where the attached gingiva meets the {{c2::alveolar mucosa}}."
+  },
+  {
+   "id": "perio-p86-013",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Alveolar mucosa is {{c1::red, smooth and shiny}} and {{c2::non-keratinized}}, whereas attached gingiva is coral pink and keratinized."
+  },
+  {
+   "id": "perio-p86-014",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Interdental gingiva fills the area between two teeth and prevents {{c1::food and other irritants}} from becoming trapped."
+  },
+  {
+   "id": "perio-p86-015",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "Interdental gingiva is made of two interdental papillae, one {{c1::facial}} and one {{c1::lingual}}, connected by the {{c2::col}}."
+  },
+  {
+   "id": "perio-p86-016",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "The col is the gingiva directly {{c1::apical to (underneath)}} the contact point of two adjacent teeth, directed {{c2::bucco-lingually}}."
+  },
+  {
+   "id": "perio-p86-017",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "The col is not present if the adjacent teeth are {{c1::not in contact}} or if the gingiva has {{c2::receded}}."
+  },
+  {
+   "id": "perio-p86-018",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "text": "The col consists of {{c1::non-keratinized}} tissue."
+  },
+  {
+   "id": "perio-p87-001",
+   "deck": "Periodontology",
+   "section": "Gingival epithelium and fibers",
+   "page": 87,
+   "text": "Sulcular epithelium lines the free gingival sulcus — the surface that faces the {{c1::tooth/root}}."
+  },
+  {
+   "id": "perio-p87-002",
+   "deck": "Periodontology",
+   "section": "Gingival epithelium and fibers",
+   "page": 87,
+   "text": "Sulcular epithelium extends from the crest of the {{c1::gingival margin}} to the {{c2::junctional epithelium}}."
+  },
+  {
+   "id": "perio-p87-003",
+   "deck": "Periodontology",
+   "section": "Gingival epithelium and fibers",
+   "page": 87,
+   "text": "Sulcular epithelium is {{c1::non-keratinized}}."
+  },
+  {
+   "id": "perio-p87-004",
+   "deck": "Periodontology",
+   "section": "Gingival epithelium and fibers",
+   "page": 87,
+   "text": "The permeability of the non-keratinized sulcular epithelium lets {{c1::gingival crevicular fluid (GCF)}} flow into the sulcus."
+  },
+  {
+   "id": "perio-p87-005",
+   "deck": "Periodontology",
+   "section": "Gingival epithelium and fibers",
+   "page": 87,
+   "text": "Gingival crevicular fluid is always present but {{c1::increases}} in disease."
+  },
+  {
+   "id": "perio-p87-006",
+   "deck": "Periodontology",
+   "section": "Gingival epithelium and fibers",
+   "page": 87,
+   "text": "The junctional epithelium (JE) forms the {{c1::base of the sulcus}} and provides a seal between the gingiva and the tooth surface."
+  },
+  {
+   "id": "perio-p87-007",
+   "deck": "Periodontology",
+   "section": "Gingival epithelium and fibers",
+   "page": 87,
+   "text": "Supragingival fibers of the gingiva are composed mainly of {{c1::collagen}} and {{c2::elastic}} fibers."
+  },
+  {
+   "id": "perio-p87-008",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "text": "Supragingival fibers: {{c1::Alveologingival}} fibers run from the alveolar crest to the gingiva; function: {{c2::attach gingiva to bone}}.",
+   "extra": "Language Builder: the first part of the name = origin, the second = destination (dento- = tooth, -gingival = gingiva); inter- = between, trans- = across/through."
+  },
+  {
+   "id": "perio-p87-009",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "text": "Supragingival fibers: {{c1::Circular}} fibers encircle the tooth like a ring; function: {{c2::support the free gingiva}}.",
+   "extra": "Language Builder: the first part of the name = origin, the second = destination (dento- = tooth, -gingival = gingiva); inter- = between, trans- = across/through."
+  },
+  {
+   "id": "perio-p87-010",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "text": "Supragingival fibers: {{c1::Dentogingival}} fibers run from the cementum to the gingiva; function: {{c2::attach gingiva to tooth}}.",
+   "extra": "Language Builder: the first part of the name = origin, the second = destination (dento- = tooth, -gingival = gingiva); inter- = between, trans- = across/through."
+  },
+  {
+   "id": "perio-p87-011",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "text": "Supragingival fibers: {{c1::Periosteogingival}} fibers run from the periosteum to the gingiva; function: {{c2::attach gingiva to bone}}.",
+   "extra": "Language Builder: the first part of the name = origin, the second = destination (dento- = tooth, -gingival = gingiva); inter- = between, trans- = across/through."
+  },
+  {
+   "id": "perio-p87-012",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "text": "Supragingival fibers: {{c1::Intergingival}} fibers form a mesiodistal connection between teeth; function: {{c2::link adjacent teeth in the dental arch}}.",
+   "extra": "Language Builder: the first part of the name = origin, the second = destination (dento- = tooth, -gingival = gingiva); inter- = between, trans- = across/through."
+  },
+  {
+   "id": "perio-p87-013",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "text": "Supragingival fibers: {{c1::Intercircular}} fibers encircle several teeth; function: {{c2::link adjacent teeth in the dental arch}}.",
+   "extra": "Language Builder: the first part of the name = origin, the second = destination (dento- = tooth, -gingival = gingiva); inter- = between, trans- = across/through."
+  },
+  {
+   "id": "perio-p87-014",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "text": "Supragingival fibers: {{c1::Interpapillary}} fibers lie in the papillae, coronal to the transseptal fibers; function: {{c2::support the papillary gingiva}}.",
+   "extra": "Language Builder: the first part of the name = origin, the second = destination (dento- = tooth, -gingival = gingiva); inter- = between, trans- = across/through."
+  },
+  {
+   "id": "perio-p87-015",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "text": "Supragingival fibers: {{c1::Transgingival}} fibers run horizontally from the cementum near the CEJ; function: {{c2::link adjacent teeth in the dental arch}}.",
+   "extra": "Language Builder: the first part of the name = origin, the second = destination (dento- = tooth, -gingival = gingiva); inter- = between, trans- = across/through."
+  },
+  {
+   "id": "perio-p87-016",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "text": "Supragingival fibers: {{c1::Transseptal}} fibers run from the cementum of one tooth over the alveolar crest to the cementum of the adjacent tooth; function: {{c2::connect adjacent teeth to one another}}.",
+   "extra": "Language Builder: the first part of the name = origin, the second = destination (dento- = tooth, -gingival = gingiva); inter- = between, trans- = across/through."
+  },
+  {
+   "id": "perio-p87-017",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 87,
+   "text": "The PDL connects the tooth ({{c1::cementum}}) to the {{c2::alveolar bone}} of the tooth socket."
+  },
+  {
+   "id": "perio-p87-018",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 87,
+   "text": "The {{c1::supportive}} function of the PDL suspends the tooth in its socket and absorbs the impact of forces."
+  },
+  {
+   "id": "perio-p87-019",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 87,
+   "text": "The {{c1::sensory}} function of the PDL detects pressure and pain."
+  },
+  {
+   "id": "perio-p87-020",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 87,
+   "text": "The {{c1::nutritive}} function of the PDL carries nutrients from blood vessels to the cementum, bone and gingiva."
+  },
+  {
+   "id": "perio-p87-021",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 87,
+   "text": "The {{c1::formative}} function of the PDL builds and maintains cementum and bone; the PDL contains {{c2::cementoblasts}} and {{c2::osteoblasts}}."
+  },
+  {
+   "id": "perio-p87-022",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 87,
+   "text": "The {{c1::resorptive}} function of the PDL remodels the alveolar bone in response to pressure (e.g., braces)."
+  },
+  {
+   "id": "perio-p88-001",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 88,
+   "text": "The PDL has a rich supply of {{c1::nerves}} and {{c1::blood vessels}}."
+  },
+  {
+   "id": "perio-p88-002",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 88,
+   "text": "{{c1::Fibroblasts}} are the most prominent cells of the PDL."
+  },
+  {
+   "id": "perio-p88-003",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 88,
+   "text": "Teeth that are accidentally exfoliated can be re-implanted into the socket if damage to the {{c1::periodontal ligament}} is minimal."
+  },
+  {
+   "id": "perio-p88-004",
+   "deck": "Periodontology",
+   "section": "PDL fiber groups",
+   "page": 88,
+   "text": "PDL fibers: the {{c1::alveolar crest}} group runs diagonally downward from the cementum to the alveolar crest and resists {{c2::horizontal movement}} of the tooth."
+  },
+  {
+   "id": "perio-p88-005",
+   "deck": "Periodontology",
+   "section": "PDL fiber groups",
+   "page": 88,
+   "text": "PDL fibers: the {{c1::horizontal}} group runs horizontally from the cementum to the bone just apical to the alveolar crest fibers and resists {{c2::horizontal pressure}}."
+  },
+  {
+   "id": "perio-p88-006",
+   "deck": "Periodontology",
+   "section": "PDL fiber groups",
+   "page": 88,
+   "text": "PDL fibers: the {{c1::oblique}} group runs diagonally downward from the bone to the cementum and resists {{c2::vertical pressure}}.",
+   "extra": "Oblique = the largest and most significant PDL fiber group."
+  },
+  {
+   "id": "perio-p88-007",
+   "deck": "Periodontology",
+   "section": "PDL fiber groups",
+   "page": 88,
+   "text": "The largest and most significant PDL fiber group is the {{c1::oblique}} group."
+  },
+  {
+   "id": "perio-p88-008",
+   "deck": "Periodontology",
+   "section": "PDL fiber groups",
+   "page": 88,
+   "text": "PDL fibers: the {{c1::apical}} group extends from the apex of the tooth to the bone and resists forces that {{c2::pull the tooth out of the socket}}."
+  },
+  {
+   "id": "perio-p88-009",
+   "deck": "Periodontology",
+   "section": "PDL fiber groups",
+   "page": 88,
+   "text": "PDL fibers: the {{c1::interradicular}} group extends from the cementum in the furcation to the interradicular septum and stabilizes the tooth; it is present only in {{c2::multirooted}} teeth."
+  },
+  {
+   "id": "perio-p88-010",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "text": "Cementum is a thin layer of mineralized tissue made of {{c1::hydroxyapatite}} crystals that covers the {{c2::root}} of a tooth.",
+   "extra": "Hydroxyapatite = calcium and phosphate."
+  },
+  {
+   "id": "perio-p88-011",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "text": "Cementum is {{c1::light yellow}} in color."
+  },
+  {
+   "id": "perio-p88-012",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "text": "Cementum is where the {{c1::PDL}} connects the tooth to the alveolar bone (via Sharpey's fibers)."
+  },
+  {
+   "id": "perio-p88-013",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "text": "{{c1::Trauma}} and {{c1::infection}} may thicken the cementum.",
+   "extra": "Thickened cementum = hypercementosis (see figure)."
+  },
+  {
+   "id": "perio-p88-014",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "text": "Cementum receives its nutrients from the {{c1::PDL}}; it contains no {{c2::blood vessels or nerves}}."
+  },
+  {
+   "id": "perio-p88-015",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "text": "At the CEJ, the cementum most often {{c1::overlaps}} the enamel; less often it {{c2::meets}} the enamel; rarely there is a {{c3::gap}} between them."
+  },
+  {
+   "id": "perio-p88-016",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "text": "The continuous cycle of bone breakdown (resorption) and rebuilding (formation) is called {{c1::bone remodeling}}.",
+   "extra": "It is essential for maintaining bone health and adapting to stress."
+  },
+  {
+   "id": "perio-p89-001",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "The presence of alveolar bone depends on the {{c1::teeth}}: if teeth are lost, the bone {{c2::resorbs}}, leading to a loss of ridge dimensions."
+  },
+  {
+   "id": "perio-p89-002",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Alveolar bone gives direct support to the teeth and is critical for maintaining {{c1::tooth position}} and {{c2::masticatory function}}."
+  },
+  {
+   "id": "perio-p89-003",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "The alveolus (tooth socket) is lined by the {{c1::cribriform plate}}."
+  },
+  {
+   "id": "perio-p89-004",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Alveolar bone proper is a thin layer of {{c1::compact}} bone that lines the tooth socket."
+  },
+  {
+   "id": "perio-p89-005",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Alveolar bone proper has numerous holes through which blood vessels and nerves connect the {{c1::PDL}} to the {{c2::cancellous bone}}."
+  },
+  {
+   "id": "perio-p89-006",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Alveolar bone proper is called the {{c1::cribriform plate}} because of its sieve-like appearance and the {{c2::lamina dura}} radiographically."
+  },
+  {
+   "id": "perio-p89-007",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "On a radiograph the lamina dura appears as a distinct, thin {{c1::white}} line."
+  },
+  {
+   "id": "perio-p89-008",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Alveolar bone proper forms the inner wall of the socket and provides attachment for the {{c1::PDL fibers}}."
+  },
+  {
+   "id": "perio-p89-009",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Cortical bone is a layer of {{c1::compact, dense}} bone forming the outer wall of the alveolar process on the {{c2::facial and lingual}} sides.",
+   "extra": "Provides strength and protection to the alveolar process."
+  },
+  {
+   "id": "perio-p89-010",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Cortical bone does not show on radiographs in the {{c1::maxilla}} because it is thin; it is thicker and more visible in the {{c2::mandible}}."
+  },
+  {
+   "id": "perio-p89-011",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Cancellous bone is the {{c1::spongy}}, lattice-like bone that fills the interior of the alveolar process, between the {{c2::cortical plates}} and the {{c3::alveolar bone proper}}.",
+   "extra": "Also called trabecular bone. Many holes for blood vessels and nerves; porous, web-like appearance."
+  },
+  {
+   "id": "perio-p89-012",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Cancellous (spongy) bone is also known as {{c1::trabecular}} bone."
+  },
+  {
+   "id": "perio-p89-013",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "Cancellous bone provides metabolic support and acts as a reservoir for {{c1::bone marrow}}."
+  },
+  {
+   "id": "perio-p89-014",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "The alveolar crest is the most {{c1::coronal}} portion of the alveolar process (its highest point)."
+  },
+  {
+   "id": "perio-p89-015",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "The {{c1::alveolar crest}} is the first bone to be destroyed in periodontal disease, and a key radiographic indicator of periodontal health/disease."
+  },
+  {
+   "id": "perio-p89-016",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "The periosteum is a layer of {{c1::connective soft tissue}} that covers the outer surface of bone, except the {{c2::articular surfaces}}.",
+   "extra": "It contains blood vessels and nerves that nourish the bone."
+  },
+  {
+   "id": "perio-p89-017",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "text": "The periosteum is essential for bone {{c1::growth}}, {{c1::repair}} and {{c1::nourishment}}, and protects the bone."
+  },
+  {
+   "id": "perio-p90-001",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 90,
+   "text": "Healthy gingiva is {{c1::coral pink}} in color; {{c2::melanin}} pigmentation may be present."
+  },
+  {
+   "id": "perio-p90-002",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 90,
+   "text": "Healthy gingiva has a {{c1::firm and resilient}} consistency."
+  },
+  {
+   "id": "perio-p90-003",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 90,
+   "text": "Healthy attached gingiva has a {{c1::stippled (orange-peel)}} appearance because of the firm binding of the fibers to the alveolar bone."
+  },
+  {
+   "id": "perio-p90-004",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 90,
+   "text": "In health the gingival margin has a {{c1::scalloped}} outline."
+  },
+  {
+   "id": "perio-p90-005",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 90,
+   "text": "Healthy interdental papillae are {{c1::knife-edged and pointed}} and fill the embrasure space."
+  },
+  {
+   "id": "perio-p90-006",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 90,
+   "text": "Healthy gingiva shows {{c1::no bleeding}} upon probing."
+  },
+  {
+   "id": "perio-p90-007",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 90,
+   "text": "In health the junctional epithelium is firmly attached to the tooth by {{c1::hemidesmosomes}}."
+  },
+  {
+   "id": "perio-p90-008",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 90,
+   "text": "In health the alveolar crest is {{c1::1–2 mm}} apical to the base of the {{c2::junctional epithelium}}.",
+   "extra": "Book p.89 also gives 1–2 mm apical to the CEJ."
+  },
+  {
+   "id": "perio-p90-009",
+   "deck": "Periodontology",
+   "section": "Periodontal disease overview",
+   "page": 90,
+   "text": "{{c1::Dental plaque biofilm}} is the primary etiology of periodontal diseases."
+  },
+  {
+   "id": "perio-p90-010",
+   "deck": "Periodontology",
+   "section": "Periodontal disease overview",
+   "page": 90,
+   "text": "Gingival inflammation and periodontal destruction can also occur or be worsened by {{c1::hormonal changes}}, {{c1::systemic diseases}} or {{c1::genetic disorders}} that modify the \"{{c2::host factor}}\"."
+  },
+  {
+   "id": "perio-p90-011",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 90,
+   "text": "Gingivitis is a {{c1::reversible}} inflammatory condition of the gingiva."
+  },
+  {
+   "id": "perio-p90-012",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 90,
+   "text": "Gingivitis is typically observed clinically within {{c1::4–14 days}} after plaque accumulation in the gingival sulcus."
+  },
+  {
+   "id": "perio-p90-013",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 90,
+   "text": "Gingivitis can present as {{c1::localized}} or {{c1::generalized}}."
+  },
+  {
+   "id": "perio-p91-001",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "text": "{{c1::Acute}} gingivitis has a sudden onset and short duration; {{c2::chronic}} gingivitis persists for months or years."
+  },
+  {
+   "id": "perio-p91-002",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "text": "Gingivitis: the gingiva is red/erythematous due to {{c1::increased blood flow}}; if persistent, congestion can give a {{c2::bluish/purple}} hue."
+  },
+  {
+   "id": "perio-p91-003",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "text": "Gingivitis consistency: {{c1::edematous (swollen/spongy)}} in acute forms; may become {{c2::fibrotic (leathery, firm)}} in chronic forms due to collagen formation."
+  },
+  {
+   "id": "perio-p91-004",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "text": "{{c1::Bleeding upon gentle probing}} is a hallmark sign of gingivitis."
+  },
+  {
+   "id": "perio-p91-005",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "text": "In gingivitis the gingival margin is usually {{c1::rolled or blunted}}, losing its normal knife-edged adaptation."
+  },
+  {
+   "id": "perio-p91-006",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "text": "In gingivitis the interdental papillae are {{c1::bulbous and swollen}}, often filling the embrasure space."
+  },
+  {
+   "id": "perio-p91-007",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "text": "In gingivitis probing depths are typically {{c1::4 mm or greater}} because of swelling of the gingival margin, {{c2::without}} apical migration of the junctional epithelium."
+  },
+  {
+   "id": "perio-p91-008",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "text": "In gingivitis the junctional epithelium stays at or {{c1::coronal}} to the CEJ — there is no apical migration."
+  },
+  {
+   "id": "perio-p91-009",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "text": "Gingivitis shows {{c1::no radiographic changes}} — there is no bone loss."
+  },
+  {
+   "id": "perio-p91-010",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "Periodontitis is an {{c1::irreversible}} inflammatory disease characterized by {{c2::loss of clinical attachment}} due to destruction of the periodontium."
+  },
+  {
+   "id": "perio-p91-011",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "Unlike gingivitis, periodontitis damages the supporting {{c1::alveolar bone}} and {{c1::periodontal ligament}}."
+  },
+  {
+   "id": "perio-p91-012",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "Periodontitis can be localized or generalized, based on the extent of {{c1::attachment loss}}."
+  },
+  {
+   "id": "perio-p91-013",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "The severity, complexity and rate of progression of periodontitis are determined by the {{c1::AAP Staging and Grading}} system."
+  },
+  {
+   "id": "perio-p91-014",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "Under current AAP classification, common forms include {{c1::biofilm-induced periodontitis}}, {{c2::necrotizing periodontal diseases}}, and {{c3::periodontitis as a manifestation of systemic diseases}}."
+  },
+  {
+   "id": "perio-p91-015",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "The clinical appearance of the gingiva {{c1::is NOT a reliable indicator}} of the presence, severity or extent of periodontitis."
+  },
+  {
+   "id": "perio-p91-016",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "Periodontitis: tissues can look dark bluish-purplish or red; in chronic cases they may look {{c1::light pink}} because new {{c2::collagen fiber}} production masks the inflammation."
+  },
+  {
+   "id": "perio-p91-017",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "Periodontitis: consistency can be {{c1::edematous}} (spongy, swollen, smooth, shiny) or {{c2::fibrotic}} (leathery, firm) in chronic conditions."
+  },
+  {
+   "id": "perio-p91-018",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "In periodontitis the gingival margin is typically {{c1::swollen or fibrotic}}, losing its knife-edged adaptation."
+  },
+  {
+   "id": "perio-p91-019",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "In periodontitis interdental papillae are often blunted and may no longer fill the embrasure because of {{c1::destruction}} and {{c1::recession}}."
+  },
+  {
+   "id": "perio-p91-020",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "Periodontitis: bleeding upon gentle probing is common, and/or {{c1::suppuration (pus)}} may be present."
+  },
+  {
+   "id": "perio-p91-021",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "In periodontitis probing depths are {{c1::4 mm or greater}} due to inflammation and, critically, {{c2::apical migration of the junctional epithelium}}."
+  },
+  {
+   "id": "perio-p91-022",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "The presence of a periodontal pocket indicates a {{c1::history}} of infection, not necessarily current activity."
+  },
+  {
+   "id": "perio-p91-023",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "text": "The defining characteristic of periodontitis is {{c1::apical migration of the junctional epithelium}} along the root surface."
+  },
+  {
+   "id": "perio-p92-001",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 92,
+   "text": "Pain in periodontitis is often {{c1::absent}} — the disease can progress silently.",
+   "extra": "\"Mother Nature blew it!\""
+  },
+  {
+   "id": "perio-p92-002",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 92,
+   "text": "In periodontitis the alveolar bone is {{c1::permanently destroyed}}; radiographically evident bone loss is a key diagnostic feature."
+  },
+  {
+   "id": "perio-p92-003",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 92,
+   "text": "{{c1::Tooth mobility}} may be present in periodontitis because of bone loss."
+  },
+  {
+   "id": "perio-p92-004",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 92,
+   "text": "{{c1::Horizontal}} bone loss is the most common pattern and results in a {{c2::suprabony}} pocket."
+  },
+  {
+   "id": "perio-p92-005",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 92,
+   "text": "{{c1::Vertical (angular)}} bone loss is less common and results in an {{c2::infrabony}} pocket."
+  },
+  {
+   "id": "perio-p92-006",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 92,
+   "text": "In a suprabony pocket the base of the pocket is {{c1::coronal to (above)}} the alveolar bone crest.",
+   "extra": "Supra- = above. Bone is reduced uniformly."
+  },
+  {
+   "id": "perio-p92-007",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 92,
+   "text": "In an infrabony pocket the base of the pocket is {{c1::apical to (below)}} the alveolar crest, forming within a trench-like bone defect.",
+   "extra": "Infra- = below. Bone loss is uneven."
+  }
+ ],
+ "basic": [
+  {
+   "id": "perio-p86-b-01",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "front": "Gingival margin",
+   "back": "The coronal boundary of the gingiva, near the crown of the tooth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p86-b-02",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "front": "Biologic width",
+   "back": "The distance from the alveolar crest to the junctional epithelium",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p86-b-03",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "front": "The mucogingival junction is hard to see. How can you find it?",
+   "back": "Pull the lip or move the mucosa with a blunt instrument — the movable alveolar mucosa is distinguished from the firmly attached gingiva.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "perio-p86-b-04",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "front": "Gingival sulcus",
+   "back": "The space between the lining of the free gingiva and the tooth surface, where the probe is inserted",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p87-b-01",
+   "deck": "Periodontology",
+   "section": "Gingival epithelium and fibers",
+   "page": 87,
+   "front": "Why is the junctional epithelium an easy point of entry for bacteria?",
+   "back": "It is non-keratinized epithelium.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "perio-p88-b-01",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 88,
+   "front": "Sharpey's fibers",
+   "back": "The ends of the PDL fibers embedded in the cementum and alveolar bone",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p88-b-02",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "front": "Why can bone be resorbed (e.g., during tooth movement) without the root being resorbed?",
+   "back": "Cementum is resilient to pressure, so bone resorbs while the root does not.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "perio-p88-b-03",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "front": "Which cementum-enamel relationship can cause dentinal hypersensitivity?",
+   "back": "A gap between cementum and enamel (they do not overlap), leaving dentin exposed.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "perio-p88-b-04",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "front": "Osteoblasts",
+   "back": "Cells that build bone",
+   "reverse": true,
+   "extra": "WakeUpMemory: Osteo = bone; -blast = build; -clast = crush. Blasts = Build! Clasts = Crush/Consume!"
+  },
+  {
+   "id": "perio-p88-b-05",
+   "deck": "Periodontology",
+   "section": "Cementum and alveolar bone",
+   "page": 88,
+   "front": "Osteoclasts",
+   "back": "Cells that resorb (crush) bone",
+   "reverse": true,
+   "extra": "WakeUpMemory: Osteo = bone; -blast = build; -clast = crush. Blasts = Build! Clasts = Crush/Consume!"
+  },
+  {
+   "id": "perio-p89-b-01",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "front": "Alveolus",
+   "back": "The hole (socket) in the alveolar bone that contains the root of the tooth — the direct \"bed\" for the root",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p90-b-01",
+   "deck": "Periodontology",
+   "section": "Periodontal disease overview",
+   "page": 90,
+   "front": "Pathogenesis",
+   "back": "The sequence of events in the development of a disease",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p91-b-01",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "front": "Why can chronic gingivitis look deceptively healthy?",
+   "back": "The body's repair forms new collagen fibers → fibrotic (leathery) tissue; the excess collagen masks the clinical redness.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "perio-p91-b-02",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "front": "Periodontal disease stability",
+   "back": "Disease successfully treated; clinical signs do not worsen despite a reduced periodontium",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p91-b-03",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "front": "Periodontal disease remission/control",
+   "back": "A period when symptoms become less severe but may not be fully resolved",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p92-b-01",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 92,
+   "front": "Furcation defect",
+   "back": "Loss of interradicular bone between the roots of a multirooted tooth (a defect that can be probed)",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "perio-p86-t-01",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "question": "At least how much vertical space (biologic width) is needed for a restoration to be placed successfully? (in mm)",
+   "answer": "2 mm",
+   "extra": "If a restoration is too close to the bone and invades the biologic width, the periodontium is damaged."
+  },
+  {
+   "id": "perio-p86-t-02",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "question": "Width of attached gingiva on the facial of maxillary anteriors (mm range)?",
+   "answer": "3.5-4.5 mm",
+   "extra": "Widest site"
+  },
+  {
+   "id": "perio-p86-t-03",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "question": "Width of attached gingiva on the facial of mandibular premolars (mm)?",
+   "answer": "1.8 mm",
+   "extra": "Narrowest site"
+  },
+  {
+   "id": "perio-p89-t-01",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "question": "In health, how far apical to the CEJ is the alveolar crest? (mm)",
+   "answer": "1-2 mm",
+   "extra": "Book p.90 also says 1–2 mm apical to the base of the JE."
+  },
+  {
+   "id": "perio-p90-t-01",
+   "deck": "Periodontology",
+   "section": "Periodontal health",
+   "page": 90,
+   "question": "Probing depth of a healthy sulcus (mm range)?",
+   "answer": "1-3 mm",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "perio-p87-m-01",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 87,
+   "prompt": "Match each PDL function to what it does.",
+   "pairs": [
+    [
+     "Supportive",
+     "Suspends the tooth and absorbs forces"
+    ],
+    [
+     "Sensory",
+     "Detects pressure and pain"
+    ],
+    [
+     "Nutritive",
+     "Carries nutrients to cementum, bone, gingiva"
+    ],
+    [
+     "Formative",
+     "Builds and maintains cementum and bone"
+    ],
+    [
+     "Resorptive",
+     "Remodels alveolar bone under pressure"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p88-m-01",
+   "deck": "Periodontology",
+   "section": "PDL fiber groups",
+   "page": 88,
+   "prompt": "Match each PDL fiber group to its function.",
+   "pairs": [
+    [
+     "Alveolar crest",
+     "Resists horizontal movement"
+    ],
+    [
+     "Oblique",
+     "Resists vertical pressure"
+    ],
+    [
+     "Apical",
+     "Resists forces pulling the tooth out"
+    ],
+    [
+     "Interradicular",
+     "Stabilizes multirooted teeth"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p89-m-01",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "prompt": "Match each part of the alveolar process to its description.",
+   "pairs": [
+    [
+     "Alveolus",
+     "The socket that holds the root"
+    ],
+    [
+     "Alveolar bone proper",
+     "Thin compact lining of the socket"
+    ],
+    [
+     "Cortical bone",
+     "Dense outer wall, facial and lingual"
+    ],
+    [
+     "Cancellous bone",
+     "Spongy bone filling the interior"
+    ],
+    [
+     "Alveolar crest",
+     "Most coronal part of the process"
+    ],
+    [
+     "Periosteum",
+     "Connective tissue covering the outer bone"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "perio-p88-o-01",
+   "deck": "Periodontology",
+   "section": "PDL fiber groups",
+   "page": 88,
+   "prompt": "Order these PDL fiber groups from most coronal to most apical.",
+   "items": [
+    "Alveolar crest",
+    "Horizontal",
+    "Oblique",
+    "Apical"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "perio-p87-s-01",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "prompt": "Sort the supragingival fibers by function.",
+   "categories": [
+    [
+     "Attach gingiva to bone",
+     [
+      "Alveologingival",
+      "Periosteogingival"
+     ]
+    ],
+    [
+     "Attach gingiva to tooth",
+     [
+      "Dentogingival"
+     ]
+    ],
+    [
+     "Link / connect adjacent teeth",
+     [
+      "Intergingival",
+      "Intercircular",
+      "Transgingival",
+      "Transseptal"
+     ]
+    ],
+    [
+     "Support the gingiva",
+     [
+      "Circular",
+      "Interpapillary"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "perio-p91-s-01",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "prompt": "Sort each finding: healthy, gingivitis, or periodontitis?",
+   "categories": [
+    [
+     "Health",
+     [
+      "Probing depth 1–3 mm",
+      "Stippled, orange-peel attached gingiva",
+      "Knife-edged, pointed papillae"
+     ]
+    ],
+    [
+     "Gingivitis",
+     [
+      "4 mm probing depth, JE at the CEJ",
+      "Bulbous papillae filling the embrasure",
+      "Bleeding on probing, no bone loss"
+     ]
+    ],
+    [
+     "Periodontitis",
+     [
+      "Apical migration of the JE",
+      "Radiographic bone loss",
+      "Blunted papillae not filling the embrasure"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "perio-p86-mcq-01",
+   "deck": "Periodontology",
+   "section": "Gingiva",
+   "page": 86,
+   "question": "While probing, the hygienist pulls the patient's lip and watches where the tissue begins to move. Which landmark is she locating?",
+   "options": [
+    "A. Free gingival groove",
+    "B. Gingival margin",
+    "C. Mucogingival junction",
+    "D. Col"
+   ],
+   "answer": "C. Mucogingival junction",
+   "explanation": "The MGJ separates the firmly attached gingiva from the movable alveolar mucosa; moving the lip shows where movable mucosa begins. The free gingival groove separates free from attached gingiva and does not move with the lip."
+  },
+  {
+   "id": "perio-p87-mcq-01",
+   "deck": "Periodontology",
+   "section": "Supragingival fibers",
+   "page": 87,
+   "question": "Which supragingival fiber group runs from the cementum of one tooth, over the alveolar crest, to the cementum of the adjacent tooth?",
+   "options": [
+    "A. Intercircular",
+    "B. Transseptal",
+    "C. Alveologingival",
+    "D. Dentogingival"
+   ],
+   "answer": "B. Transseptal",
+   "explanation": "Trans- = across: transseptal fibers cross over the interdental septum (alveolar crest) from tooth to tooth. Intercircular fibers also link teeth but encircle several teeth rather than crossing the crest."
+  },
+  {
+   "id": "perio-p87-mcq-02",
+   "deck": "Periodontology",
+   "section": "Periodontal ligament (PDL)",
+   "page": 87,
+   "question": "A patient in orthodontic treatment asks how braces move her teeth through bone. Which PDL function is mainly responsible?",
+   "options": [
+    "A. Sensory",
+    "B. Nutritive",
+    "C. Resorptive",
+    "D. Supportive"
+   ],
+   "answer": "C. Resorptive",
+   "explanation": "The resorptive function remodels alveolar bone in response to pressure (e.g., braces). The supportive function only suspends the tooth and absorbs forces."
+  },
+  {
+   "id": "perio-p88-mcq-01",
+   "deck": "Periodontology",
+   "section": "PDL fiber groups",
+   "page": 88,
+   "question": "Which PDL fiber group bears most of the vertical force of chewing?",
+   "options": [
+    "A. Horizontal",
+    "B. Alveolar crest",
+    "C. Apical",
+    "D. Oblique"
+   ],
+   "answer": "D. Oblique",
+   "explanation": "Oblique fibers are the largest and most significant group and resist vertical pressure. Horizontal fibers resist horizontal (sideways) pressure."
+  },
+  {
+   "id": "perio-p89-mcq-01",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "question": "On a periapical radiograph, the thin white line outlining the tooth socket is the radiographic image of which structure?",
+   "options": [
+    "A. Cortical plate",
+    "B. Alveolar bone proper",
+    "C. Cancellous bone",
+    "D. Periosteum"
+   ],
+   "answer": "B. Alveolar bone proper",
+   "explanation": "Alveolar bone proper (cribriform plate) appears radiographically as the lamina dura. Cortical bone is the outer facial/lingual wall and is often not seen in the maxilla."
+  },
+  {
+   "id": "perio-p89-mcq-02",
+   "deck": "Periodontology",
+   "section": "Alveolar bone",
+   "page": 89,
+   "question": "Which bone is the first to be destroyed in periodontal disease?",
+   "options": [
+    "A. Alveolar crest",
+    "B. Cortical bone of the mandible",
+    "C. Basal bone",
+    "D. Cancellous bone around the apex"
+   ],
+   "answer": "A. Alveolar crest",
+   "explanation": "The alveolar crest, the most coronal part of the alveolar process, is the first bone lost and a key radiographic indicator. Apical cancellous bone is affected only later."
+  },
+  {
+   "id": "perio-p91-mcq-01",
+   "deck": "Periodontology",
+   "section": "Gingivitis",
+   "page": 91,
+   "question": "A patient has red, bulbous papillae that bleed on gentle probing and 4-mm probing depths. Radiographs show no bone loss and the junctional epithelium is at the CEJ. What is the most likely diagnosis?",
+   "options": [
+    "A. Periodontitis",
+    "B. Gingivitis",
+    "C. Periodontal health",
+    "D. Periodontal disease stability"
+   ],
+   "answer": "B. Gingivitis",
+   "explanation": "Probing depth is increased only by gingival swelling, with no apical migration of the JE and no bone loss — gingivitis. Periodontitis requires loss of attachment (apical migration of the JE)."
+  },
+  {
+   "id": "perio-p91-mcq-02",
+   "deck": "Periodontology",
+   "section": "Periodontitis",
+   "page": 91,
+   "question": "Which finding defines periodontitis rather than gingivitis?",
+   "options": [
+    "A. Bleeding on gentle probing",
+    "B. Probing depth of 4 mm",
+    "C. Apical migration of the junctional epithelium",
+    "D. Bluish-red gingival color"
+   ],
+   "answer": "C. Apical migration of the junctional epithelium",
+   "explanation": "Apical migration of the JE (loss of attachment) is the defining characteristic of periodontitis. A 4-mm probing depth also occurs in gingivitis from swelling alone, without JE migration."
+  },
+  {
+   "id": "perio-p92-mcq-01",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 92,
+   "question": "A radiograph shows uneven, trench-like bone loss along the mesial root of #19, and the probe tip passes apical to the alveolar crest. This pocket is best described as:",
+   "options": [
+    "A. Suprabony pocket from horizontal bone loss",
+    "B. Infrabony pocket from vertical (angular) bone loss",
+    "C. Furcation defect",
+    "D. Gingival pocket without attachment loss"
+   ],
+   "answer": "B. Infrabony pocket from vertical (angular) bone loss",
+   "explanation": "A pocket whose base lies apical to the crest, inside an uneven angular defect, is infrabony. A suprabony pocket has its base coronal to the crest, with uniform horizontal loss."
+  }
+ ]
+}

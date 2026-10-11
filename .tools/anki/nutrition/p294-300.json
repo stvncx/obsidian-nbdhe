@@ -1,0 +1,1619 @@
+{
+ "diagrams": [
+  {
+   "name": "nutr-p295-carbohydrate-types",
+   "title": "Types of carbohydrates",
+   "deck": "Nutrition",
+   "pdf_page": 3,
+   "page": 295,
+   "crop": [
+    95,
+    1075,
+    1225,
+    1370
+   ],
+   "labels": [
+    {
+     "box": [
+      130,
+      1093,
+      373,
+      1138
+     ],
+     "answer": "Monosaccharide",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      509,
+      1096,
+      701,
+      1139
+     ],
+     "answer": "Disaccharide",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      896,
+      1098,
+      1099,
+      1142
+     ],
+     "answer": "Polysaccharide",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "nutr-p298-atherosclerosis",
+   "title": "Atherosclerosis: normal artery to plaque rupture",
+   "deck": "Nutrition",
+   "pdf_page": 6,
+   "page": 298,
+   "crop": [
+    1060,
+    550,
+    1235,
+    830
+   ],
+   "labels": [
+    {
+     "box": [
+      1078,
+      607,
+      1170,
+      624
+     ],
+     "answer": "Normal artery",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1078,
+      690,
+      1225,
+      728
+     ],
+     "answer": "Artery showing buildup of cholesterol plaque with resulting arterial narrowing",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1078,
+      787,
+      1225,
+      824
+     ],
+     "answer": "Artery showing plaque rupture with superimposed blood clot (thrombus)",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "nutr-p299-protein-roles",
+   "title": "Major roles of protein",
+   "deck": "Nutrition",
+   "pdf_page": 7,
+   "page": 299,
+   "crop": [
+    95,
+    1225,
+    1225,
+    1855
+   ],
+   "labels": [
+    {
+     "box": [
+      160,
+      1513,
+      416,
+      1556
+     ],
+     "answer": "Helps Repair DNA",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      495,
+      1515,
+      794,
+      1590
+     ],
+     "answer": "Strengthens Immune System",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      850,
+      1513,
+      1147,
+      1561
+     ],
+     "answer": "Supports Movement",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      104,
+      1781,
+      348,
+      1834
+     ],
+     "answer": "Aids in Digestion",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      374,
+      1779,
+      582,
+      1826
+     ],
+     "answer": "Builds Muscle",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      605,
+      1773,
+      899,
+      1820
+     ],
+     "answer": "Balances Hormones",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      915,
+      1770,
+      1206,
+      1846
+     ],
+     "answer": "Carrier for nutrients in blood",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "nutr-p294-001",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Oral-health role of <b>vitamin A</b>: forms {{c1::ameloblasts}} and {{c1::odontoblasts}}, and maintains healthy oral tissues (the {{c2::sulcus}}).",
+   "extra": "WakeUpMemory: A for Ameloblast, A in odontoblast, A for tissue health."
+  },
+  {
+   "id": "nutr-p294-002",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Deficiency of {{c1::vitamin A}} causes impaired night vision and {{c2::xerophthalmia}}.",
+   "extra": "Xerophthalmia can lead to blindness — vitamin A is important for preventing blindness (p.300)."
+  },
+  {
+   "id": "nutr-p294-003",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Toxicity of {{c1::vitamin A}}: headache, dry skin, hair loss, liver damage."
+  },
+  {
+   "id": "nutr-p294-004",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "The <b>vitamin B complex</b> is essential for oral {{c1::tissue repair}}."
+  },
+  {
+   "id": "nutr-p294-005",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Deficiency of the {{c1::vitamin B complex}} causes {{c2::angular cheilitis}}, glossitis, oral ulcerations and unhealthy gingiva.",
+   "extra": "WakeUpMemory: B for Border of lips → angular cheilitis."
+  },
+  {
+   "id": "nutr-p294-006",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Toxicity of B-complex vitamins (from supplements): nausea and {{c1::nerve damage}}, especially from vitamin {{c2::B6}}."
+  },
+  {
+   "id": "nutr-p294-007",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "<b>Vitamin C</b> supports wound healing by synthesizing {{c1::collagen}} (periodontium).",
+   "extra": "WakeUpMemory: C for Collagen."
+  },
+  {
+   "id": "nutr-p294-008",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Vitamin C deficiency (= {{c1::scurvy}}): spongy, swollen, {{c2::bleeding gums}}, impaired wound healing, loose teeth."
+  },
+  {
+   "id": "nutr-p294-009",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Toxicity of {{c1::vitamin C}}: diarrhea, stomach upset, kidney stones (rare)."
+  },
+  {
+   "id": "nutr-p294-010",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "<b>Vitamin D</b> promotes bone {{c1::density}} and is essential for {{c2::mineralization}} of teeth and bones.",
+   "extra": "WakeUpMemory: D for Delicate bones."
+  },
+  {
+   "id": "nutr-p294-011",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Vitamin D deficiency causes {{c1::rickets}} in children and {{c2::osteomalacia}} in adults.",
+   "extra": "Both are characterized by bowed legs (p.300). WakeUpMemory: the curved part of the letter D → curved legs."
+  },
+  {
+   "id": "nutr-p294-012",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Toxicity of vitamin D: {{c1::hypercalcemia}} (high blood calcium) and kidney stones/damage."
+  },
+  {
+   "id": "nutr-p294-013",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "<b>Vitamin K</b> is crucial for blood clotting: it synthesizes {{c1::prothrombin}}.",
+   "extra": "WakeUpMemory: K sounds like C — C for Clot. Prothrombin = PT, a blood-clotting factor (p.300)."
+  },
+  {
+   "id": "nutr-p294-014",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Vitamin K deficiency: abnormal bleeding ({{c1::prolonged}} clotting time)."
+  },
+  {
+   "id": "nutr-p294-015",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Toxicity of (synthetic) {{c1::vitamin K}}: jaundice and hemolytic anemia in infants."
+  },
+  {
+   "id": "nutr-p294-016",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "<b>Zinc</b> speeds up {{c1::wound healing}} and tissue repair.",
+   "extra": "WakeUpMemory: Zinc → Zip the wound."
+  },
+  {
+   "id": "nutr-p294-017",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Deficiency of {{c1::zinc}}: impaired wound healing, altered {{c2::taste/smell}}, oral ulcerations."
+  },
+  {
+   "id": "nutr-p294-018",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Zinc toxicity: nausea, vomiting, and it can cause {{c1::copper}} deficiency."
+  },
+  {
+   "id": "nutr-p294-019",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "<b>Protein</b> helps defend, heal and repair tissues and maintains a healthy {{c1::pulp}} and {{c1::periodontium}}.",
+   "extra": "WakeUpMemory: Protein is Pro-tissues."
+  },
+  {
+   "id": "nutr-p294-020",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Protein deficiency: impaired tissue repair, {{c1::enamel hypoplasia}}, poor oral wound healing."
+  },
+  {
+   "id": "nutr-p294-021",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Protein toxicity (excess): {{c1::kidney}} strain and dehydration."
+  },
+  {
+   "id": "nutr-p294-022",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Dietary <b>fat</b> coats the tooth surface, {{c1::raises}} oral pH and helps prevent {{c2::demineralization}}.",
+   "extra": "WakeUpMemory: Fat Forms Film."
+  },
+  {
+   "id": "nutr-p294-023",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Fat deficiency impairs absorption of the {{c1::fat-soluble vitamins}}."
+  },
+  {
+   "id": "nutr-p294-024",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Excess saturated/trans fat: increased risk of {{c1::cardiovascular disease}} and weight gain."
+  },
+  {
+   "id": "nutr-p294-025",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "<b>Calcium and phosphorus</b> promote bone density and help {{c1::calcify}} cementoblasts, ameloblasts and odontoblasts.",
+   "extra": "WakeUpMemory: Calcium Calcifies Cementoblasts."
+  },
+  {
+   "id": "nutr-p294-026",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Calcium/phosphorus deficiency: weak bones, increased tooth decay, {{c1::delayed eruption}}, bone {{c2::resorption}}."
+  },
+  {
+   "id": "nutr-p294-027",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "text": "Toxicity: high {{c1::calcium}} → kidney stones and kidney failure; high {{c2::phosphorus}} → bone weakness and soft-tissue calcification."
+  },
+  {
+   "id": "nutr-p295-001",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "text": "1 (small) calorie raises the temperature of 1 gram of water by {{c1::1 °C}}."
+  },
+  {
+   "id": "nutr-p295-002",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "text": "The nutritional unit of 1,000 small calories is the {{c1::kilocalorie}}; food labels list {{c1::kilocalories}}."
+  },
+  {
+   "id": "nutr-p295-003",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "text": "{{c1::Malnutrition}} is the imbalance between the nutrients the body needs and the nutrients taken; it includes {{c2::overnutrition}} and undernutrition."
+  },
+  {
+   "id": "nutr-p295-004",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "text": "{{c1::Macronutrients}} make up the bulk of the diet: proteins, carbohydrates, lipids, macrominerals and {{c2::water}}."
+  },
+  {
+   "id": "nutr-p295-005",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "text": "{{c1::Micronutrients}} (vitamins and minerals) are needed only in trace amounts; they enable the body to produce {{c2::enzymes}}, hormones, etc., and their absence has severe consequences."
+  },
+  {
+   "id": "nutr-p295-006",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "text": "Adult AMDRs: {{c1::10–35}}% of calories from protein, {{c2::45–65}}% from carbohydrates, {{c3::20–35}}% from lipids.",
+   "extra": "AMDR = Acceptable Macronutrient Distribution Range."
+  },
+  {
+   "id": "nutr-p295-007",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "text": "Children's AMDRs are similar to adults', but infants and younger children need more fat: {{c1::25–40}}% of calories."
+  },
+  {
+   "id": "nutr-p295-008",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 295,
+   "text": "Carbohydrates are organic compounds containing {{c1::carbon, hydrogen and oxygen}} (CHO); their structure dictates how {{c2::quickly}} the body uses them."
+  },
+  {
+   "id": "nutr-p295-009",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 295,
+   "text": "Carbohydrates are classified by the number of {{c1::sugar units}} they contain.",
+   "extra": "\"Mono\" = one, \"Di\" = two, \"Poly\" = many."
+  },
+  {
+   "id": "nutr-p295-010",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 295,
+   "text": "Complex carbohydrates ({{c1::oligosaccharides}} and polysaccharides) break down {{c2::more slowly}} than simple sugars, giving a sustained energy release."
+  },
+  {
+   "id": "nutr-p295-011",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 295,
+   "text": "{{c1::Glucose}} is the most efficient energy source; all sugars convert to it.",
+   "extra": "Sources: dried and fresh fruits, honey, bread, grains."
+  },
+  {
+   "id": "nutr-p295-012",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 295,
+   "text": "{{c1::Fructose}} is the sweetest sugar.",
+   "extra": "Sources: fruits, vegetables, corn/maple syrup."
+  },
+  {
+   "id": "nutr-p296-001",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "The monosaccharide {{c1::galactose}} is the milk sugar found in milk and dairy products."
+  },
+  {
+   "id": "nutr-p296-002",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "Disaccharides consist of two monosaccharide units, at least one of which is {{c1::glucose}}."
+  },
+  {
+   "id": "nutr-p296-003",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "{{c1::Sucrose}} (glucose + fructose) is table sugar / cane sugar."
+  },
+  {
+   "id": "nutr-p296-004",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "{{c1::Maltose}} (glucose + glucose) is a plant sugar that ferments {{c2::alcohol}}."
+  },
+  {
+   "id": "nutr-p296-005",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "{{c1::Lactose}} (glucose + galactose) is milk sugar."
+  },
+  {
+   "id": "nutr-p296-006",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "{{c1::Raffinose}} (galactose + glucose + fructose) is an oligosaccharide found in beans, cabbage, broccoli and whole grains."
+  },
+  {
+   "id": "nutr-p296-007",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "{{c1::Stachyose}} (2 galactose + glucose + fructose) is an oligosaccharide found in beans and soybeans."
+  },
+  {
+   "id": "nutr-p296-008",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "{{c1::Fructooligosaccharides (FOS)}} are found in onions, garlic, leeks, asparagus and bananas."
+  },
+  {
+   "id": "nutr-p296-009",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "{{c1::Galactooligosaccharides (GOS)}} are found in beans, lentils, chickpeas and human milk."
+  },
+  {
+   "id": "nutr-p296-010",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "Oligosaccharides often act as {{c1::prebiotics}} (feed beneficial gut bacteria) and can cause {{c2::flatulence}} during digestion."
+  },
+  {
+   "id": "nutr-p296-011",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "{{c1::Starch}} is the polysaccharide that stores energy in plants (rice, wheat, corn, potatoes, legumes)."
+  },
+  {
+   "id": "nutr-p296-012",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "text": "{{c1::Glycogen}} is the polysaccharide for energy storage in animals; it is stored in the {{c2::liver}}.",
+   "extra": "Also stored in muscles (Function section)."
+  },
+  {
+   "id": "nutr-p296-013",
+   "deck": "Nutrition",
+   "section": "Carbohydrate function",
+   "page": 296,
+   "text": "Digestion converts all disaccharides and polysaccharides into simple sugars (glucose and fructose); {{c1::fructose}} must be converted to glucose in the {{c2::liver}} before it can be used for energy."
+  },
+  {
+   "id": "nutr-p296-014",
+   "deck": "Nutrition",
+   "section": "Carbohydrate function",
+   "page": 296,
+   "text": "Glucose is used as fuel by the {{c1::brain}}, nervous system and muscles.",
+   "extra": "Did you know? The brain burns 20–30% of your energy and (per the book) can only use carbohydrates — a small carbohydrate dose (fruit juice, granola bar) before the exam can boost performance."
+  },
+  {
+   "id": "nutr-p296-015",
+   "deck": "Nutrition",
+   "section": "Carbohydrate function",
+   "page": 296,
+   "text": "A small portion of glucose is stored as {{c1::glycogen}} in the liver and muscles; any excess is converted to {{c2::fat}} as an energy reserve."
+  },
+  {
+   "id": "nutr-p296-016",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 296,
+   "text": "Fiber (from fruits and vegetables) is not {{c1::digestible}}; it aids {{c2::peristalsis}} and the elimination of water."
+  },
+  {
+   "id": "nutr-p296-017",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 296,
+   "text": "Orally, fiber helps remove {{c1::food debris}} from the teeth and stimulates {{c2::saliva}} flow."
+  },
+  {
+   "id": "nutr-p296-018",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 296,
+   "text": "{{c1::Soluble}} fiber dissolves in water and forms a {{c2::gel-like}} substance in the digestive tract."
+  },
+  {
+   "id": "nutr-p296-019",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 296,
+   "text": "Soluble fiber helps moderate {{c1::blood glucose}} and lower {{c2::cholesterol}}.",
+   "extra": "Sources: oats, legumes, barley, uncooked fruits and vegetables."
+  },
+  {
+   "id": "nutr-p296-020",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 296,
+   "text": "{{c1::Insoluble}} fiber does not absorb or dissolve in water and passes through the digestive tract.",
+   "extra": "Source: the bran layers of cereal grains."
+  },
+  {
+   "id": "nutr-p296-021",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 296,
+   "text": "Insoluble fiber reduces the risk of {{c1::colorectal cancer}}, hemorrhoids and {{c2::constipation}}."
+  },
+  {
+   "id": "nutr-p297-001",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 297,
+   "text": "Higher dietary fiber intake is associated with a lower incidence of {{c1::heart disease}}."
+  },
+  {
+   "id": "nutr-p297-002",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 297,
+   "text": "Fiber provides {{c1::satiety}} (adds bulk and delays emptying of the stomach), increases bowel movements and regulates the body's {{c2::glucose}} absorption."
+  },
+  {
+   "id": "nutr-p297-003",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "Fats (lipids) are crucial for energy {{c1::storage}}, cell {{c2::structure}} and various bodily functions."
+  },
+  {
+   "id": "nutr-p297-004",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "Lipids are organic compounds composed of {{c1::CHO}} (carbon, hydrogen, oxygen)."
+  },
+  {
+   "id": "nutr-p297-005",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "High levels of fatty acids increase the risk of {{c1::atherosclerosis}} (plaque buildup in the artery walls) and other cardiovascular diseases."
+  },
+  {
+   "id": "nutr-p297-006",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "To reduce atherosclerosis risk: limit {{c1::saturated}} fat, lower {{c2::LDL}}, and increase dietary {{c3::fiber}}."
+  },
+  {
+   "id": "nutr-p297-007",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "{{c1::Saturated}} fatty acids have no double bonds (\"saturated\" with hydrogen) and remain {{c2::solid}} at room temperature.",
+   "extra": "Sources: animal fat, palm oil."
+  },
+  {
+   "id": "nutr-p297-008",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "{{c1::Unsaturated}} fatty acids have one or more double bonds and are {{c2::viscous}} (liquid or semi-solid) at room temperature.",
+   "extra": "Sources: vegetable oil, soybean."
+  },
+  {
+   "id": "nutr-p297-009",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "{{c1::Monounsaturated}} fatty acids have one double bond (one link has no hydrogen); source: {{c2::olive oil}}."
+  },
+  {
+   "id": "nutr-p297-010",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "{{c1::Polyunsaturated}} fatty acids have two or more double bonds; they can help reduce bad cholesterol and lower the risk of heart disease and {{c2::stroke}}.",
+   "extra": "Sources: fatty fish, corn oil."
+  },
+  {
+   "id": "nutr-p297-011",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "Polyunsaturated fats include the {{c1::essential fatty acids}}, omega-3 and omega-6, which the body cannot make."
+  },
+  {
+   "id": "nutr-p297-012",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "Omega-3 fatty acid = {{c1::linolenic}} acid; omega-6 fatty acid = {{c2::linoleic}} acid.",
+   "extra": "WakeUpMemory: one extra \"n\" for omega-3 — say \"nut tree\". Both have proven health benefits. Omega-3 sources: seeds, nuts, vegetable oil. Omega-6 sources: corn, soybean, vegetable oil."
+  },
+  {
+   "id": "nutr-p297-013",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "{{c1::Hydrogenated}} fatty acids are formed by adding hydrogen to some of the double bonds in unsaturated fats; they present health risks (e.g., {{c2::margarine}})."
+  },
+  {
+   "id": "nutr-p297-014",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "{{c1::Cholesterol}} is a precursor for many steroids and cell membranes, and comes from {{c2::animal}} sources only."
+  },
+  {
+   "id": "nutr-p297-015",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "text": "Cholesterol is synthesized in the {{c1::liver}}, where it is used to make {{c2::bile}} to aid fat digestion (emulsification)."
+  },
+  {
+   "id": "nutr-p298-001",
+   "deck": "Nutrition",
+   "section": "Lipoproteins",
+   "page": 298,
+   "text": "{{c1::LDLs}} (\"bad guys\") carry cholesterol from the {{c2::liver}} to the rest of the body.",
+   "extra": "WakeUpMemory: LDL → Low (or Less) desirable."
+  },
+  {
+   "id": "nutr-p298-002",
+   "deck": "Nutrition",
+   "section": "Lipoproteins",
+   "page": 298,
+   "text": "{{c1::HDLs}} (\"good guys\") pick up cholesterol in the bloodstream and carry it back to the {{c2::liver}} to be disposed of.",
+   "extra": "WakeUpMemory: HDL → Highly desirable."
+  },
+  {
+   "id": "nutr-p298-003",
+   "deck": "Nutrition",
+   "section": "Lipid function",
+   "page": 298,
+   "text": "Lipids facilitate absorption of the fat-soluble vitamins {{c1::A, D, E and K}}."
+  },
+  {
+   "id": "nutr-p298-004",
+   "deck": "Nutrition",
+   "section": "Lipid function",
+   "page": 298,
+   "text": "Other lipid functions: precursor to {{c1::hormones}}; help regulate and excrete nutrients in cells; surround, protect and hold {{c2::organs}} in place."
+  },
+  {
+   "id": "nutr-p298-005",
+   "deck": "Nutrition",
+   "section": "Lipid function",
+   "page": 298,
+   "text": "Lipids {{c1::insulate}} the body from environmental temperature changes and preserve body heat, and give foods satiety, {{c2::flavor}} and texture."
+  },
+  {
+   "id": "nutr-p298-006",
+   "deck": "Nutrition",
+   "section": "Lipid function",
+   "page": 298,
+   "text": "Athletes are recommended to get {{c1::20–25}}% of total calories from fat.",
+   "extra": "General adult AMDR for fat: 20–35%."
+  },
+  {
+   "id": "nutr-p298-007",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 298,
+   "text": "Proteins are organic compounds made of CHO and {{c1::nitrogen}}.",
+   "extra": "Carbohydrates and lipids are CHO only."
+  },
+  {
+   "id": "nutr-p299-001",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 299,
+   "text": "{{c1::Indispensable (essential)}} amino acids cannot be synthesized by the body and must be obtained from the diet."
+  },
+  {
+   "id": "nutr-p299-002",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 299,
+   "text": "The 9 indispensable amino acids: {{c1::histidine}}, isoleucine, leucine, lysine, methionine, {{c2::phenylalanine}}, threonine, {{c3::tryptophan}}, and {{c4::valine}}."
+  },
+  {
+   "id": "nutr-p299-003",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 299,
+   "text": "{{c1::Dispensable (nonessential)}} amino acids can be synthesized by the body, but only when {{c2::nitrogen}} is present."
+  },
+  {
+   "id": "nutr-p299-004",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 299,
+   "text": "The 11 dispensable amino acids: alanine, arginine, asparagine, aspartic acid, cysteine, {{c1::glutamic acid}}, glutamine, {{c2::glycine}}, {{c3::proline}}, serine, and tyrosine."
+  },
+  {
+   "id": "nutr-p299-005",
+   "deck": "Nutrition",
+   "section": "Protein types",
+   "page": 299,
+   "text": "{{c1::Complete}} (high-quality) proteins contain all the essential amino acids the body cannot synthesize; they come primarily from {{c2::animal}} sources.",
+   "extra": "Meat, fish, poultry, eggs, cheese, milk."
+  },
+  {
+   "id": "nutr-p299-006",
+   "deck": "Nutrition",
+   "section": "Protein types",
+   "page": 299,
+   "text": "{{c1::Incomplete}} proteins lack one or more essential amino acids; they come primarily from {{c2::plant}} sources.",
+   "extra": "Nuts, legumes, grains, seeds, vegetables. They can be combined with other proteins to form complete proteins."
+  },
+  {
+   "id": "nutr-p299-007",
+   "deck": "Nutrition",
+   "section": "Protein types",
+   "page": 299,
+   "text": "{{c1::Complementary}} proteins compensate for each other's amino-acid deficiencies when combined, e.g. {{c2::whole grains}} (rice) with {{c2::legumes}} (beans).",
+   "extra": "Did you know? Because the body can't make the essential amino acids, eating complete proteins (meat) or carefully combining incomplete proteins (rice and beans) is vital for health and tissue repair."
+  },
+  {
+   "id": "nutr-p299-008",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 299,
+   "text": "Proteins assist in the growth, maintenance, construction and {{c1::repair}} of body tissues."
+  },
+  {
+   "id": "nutr-p299-009",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 299,
+   "text": "Proteins make hormones, {{c1::enzymes}} and {{c2::antibodies}}."
+  },
+  {
+   "id": "nutr-p299-010",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 299,
+   "text": "Because protein is used for both tissue repair and energy, protein requirements {{c1::increase}} as total energy intake decreases (e.g., when dieting)."
+  },
+  {
+   "id": "nutr-p300-001",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 300,
+   "text": "When protein is used for energy, amino acids are first {{c1::deaminated}} (stripped of the amine group); the remaining carbon skeleton is used to produce {{c2::glucose}} or ketones."
+  },
+  {
+   "id": "nutr-p300-002",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 300,
+   "text": "The removed amine group produces {{c1::ammonia}} (toxic), which the liver converts to {{c2::urea}}, excreted in urine by the kidneys."
+  },
+  {
+   "id": "nutr-p300-003",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 300,
+   "text": "If protein intake exceeds needs for synthesis and energy, the amino acids are deaminated and their carbon fragments may be stored as {{c1::fat}}.",
+   "extra": "In North America, protein and caloric intakes are typically well above requirements, contributing significantly to fat."
+  },
+  {
+   "id": "nutr-p300-004",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 300,
+   "text": "Dietary protein requirements increase during growth, {{c1::pregnancy}}, lactation, trauma, {{c2::surgery}} and fever."
+  },
+  {
+   "id": "nutr-p300-005",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 300,
+   "text": "Vegans (no eggs or milk) are at greater risk of {{c1::iron}}, calcium, protein and {{c2::vitamin B12}} deficiency, because these nutrients usually come from animal products."
+  },
+  {
+   "id": "nutr-p300-006",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 300,
+   "text": "Ovo-lacto vegetarians (eat eggs and milk) can get the essential amino acids but may be deficient in {{c1::iron}}."
+  },
+  {
+   "id": "nutr-p300-007",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Vitamins are {{c1::organic}} nutrients needed in small quantities; they do not provide {{c2::energy}} but facilitate many processes."
+  },
+  {
+   "id": "nutr-p300-008",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Unlike water-soluble vitamins, {{c1::fat-soluble}} vitamins are stored in the body's {{c2::liver}} and fatty tissues, so they are not easily excreted and can accumulate to toxic levels.",
+   "extra": "WakeUpMemory: a fat-soluble man relaxing on a DECK soaking up the sun: A, D, E, (c silent), K."
+  },
+  {
+   "id": "nutr-p300-009",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Vitamin A is also called {{c1::retinol}}; sources: {{c2::carrots}}, squash.",
+   "extra": "Key functions: night vision, healthy oral mucosa and sulcus, ameloblast/odontoblast formation, preventing blindness."
+  },
+  {
+   "id": "nutr-p300-010",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Vitamin D is also called {{c1::calciferol}} (the \"{{c2::Sunshine}} Vitamin\")."
+  },
+  {
+   "id": "nutr-p300-011",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Vitamin D aids {{c1::calcium}} and phosphorus absorption."
+  },
+  {
+   "id": "nutr-p300-012",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Rickets and osteomalacia (vitamin D deficiency) are characterized by {{c1::bowed legs}}.",
+   "extra": "WakeUpMemory: curved part of the letter D → curved legs."
+  },
+  {
+   "id": "nutr-p300-013",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Sources of vitamin D: {{c1::sunlight}} exposure (activates a precursor) and {{c2::fortified}} milk (natural milk lacks it)."
+  },
+  {
+   "id": "nutr-p300-014",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Vitamin E is also called {{c1::tocopherol}}; it functions as an {{c2::antioxidant}} (prevents vitamin oxidation).",
+   "extra": "Sources: vegetable oils, nuts, seeds, green leafy vegetables, fortified cereals."
+  },
+  {
+   "id": "nutr-p300-015",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Vitamin E deficiency causes {{c1::hemolytic anemia}} (especially in {{c2::preterm infants}}) due to red blood cell fragility."
+  },
+  {
+   "id": "nutr-p300-016",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "At high doses, vitamin {{c1::E}} can interfere with blood {{c2::coagulation}}."
+  },
+  {
+   "id": "nutr-p300-017",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "text": "Vitamin K sources: green leafy vegetables, meat, dairy; it is also synthesized by the {{c1::intestine}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "nutr-p295-b-01",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "front": "Nutrients",
+   "back": "Substances obtained from food to promote growth, maintenance, or repair",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p295-b-02",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 295,
+   "front": "Monosaccharide",
+   "back": "Simple sugar: the basic unit of carbohydrate (one sugar unit)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p297-b-01",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "front": "Triglycerides",
+   "back": "The major form of fat stored by the body; the backbone for many types of lipids",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p297-b-02",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "front": "Fatty acids",
+   "back": "The basic unit of fat",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p298-b-01",
+   "deck": "Nutrition",
+   "section": "Lipoproteins",
+   "page": 298,
+   "front": "Lipoproteins",
+   "back": "The means of transport through the bloodstream for cholesterol, triglycerides and phospholipids",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p298-b-02",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 298,
+   "front": "Essential fatty acids",
+   "back": "Fats the body cannot make (must come from the diet)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p298-b-03",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 298,
+   "front": "Amino acid",
+   "back": "The basic unit of protein",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p299-b-01",
+   "deck": "Nutrition",
+   "section": "Protein types",
+   "page": 299,
+   "front": "What is the limiting amino acid (\"limiting protein\") and why does it matter?",
+   "back": "The essential amino acid missing or present in the smallest amount in an incomplete protein; it limits overall protein synthesis, because all amino acids must be present to build protein.",
+   "reverse": false,
+   "extra": "Varies by food source; critical in incomplete proteins."
+  },
+  {
+   "id": "nutr-p300-b-01",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 300,
+   "front": "Why are carbohydrates called \"protein-sparing\"?",
+   "back": "Meeting most energy needs with carbohydrate (and fat) saves protein for tissue repair and growth instead of being burned for energy.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "nutr-p295-t-01",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "question": "A nutritional Calorie (kilocalorie) equals how many small calories? (number)",
+   "answer": "1000",
+   "extra": "Also called large, dietary, nutritional or food calories, or Calories with a capital C."
+  },
+  {
+   "id": "nutr-p296-t-01",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "question": "Oligosaccharides contain how many monosaccharide units? (range, e.g. 1-2)",
+   "answer": "3-10",
+   "extra": ""
+  },
+  {
+   "id": "nutr-p296-t-02",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "question": "A polysaccharide has at least how many monosaccharide units? (number)",
+   "answer": "11",
+   "extra": ""
+  },
+  {
+   "id": "nutr-p296-t-03",
+   "deck": "Nutrition",
+   "section": "Carbohydrate function",
+   "page": 296,
+   "question": "How many kcal per gram do carbohydrates provide? (number)",
+   "answer": "4",
+   "extra": "Carbohydrate = the body's primary source of quick energy."
+  },
+  {
+   "id": "nutr-p296-t-04",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 296,
+   "question": "Recommended fiber intake: how many grams per day? (range, e.g. 1-2)",
+   "answer": "20-35",
+   "extra": "Did you know? Passion fruit has about 24 g of fiber per cup; artichokes and raspberries are also very high in fiber."
+  },
+  {
+   "id": "nutr-p297-t-01",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "question": "Saturated fat should make up at most what percentage of total daily calories? (number)",
+   "answer": "10",
+   "extra": ""
+  },
+  {
+   "id": "nutr-p298-t-01",
+   "deck": "Nutrition",
+   "section": "Lipid function",
+   "page": 298,
+   "question": "How many kcal per gram do lipids provide? (number)",
+   "answer": "9",
+   "extra": "Lipids are the second major source of energy after carbohydrates. WakeUpMemory: see the fat face in 9, or the curve reminds you of a fat belly."
+  },
+  {
+   "id": "nutr-p299-t-01",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 299,
+   "question": "The body uses about how many amino acids to build proteins? (number)",
+   "answer": "20",
+   "extra": "They can be arranged in different ways to make different proteins, like letters of the alphabet."
+  },
+  {
+   "id": "nutr-p299-t-02",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 299,
+   "question": "How many indispensable (essential) amino acids are there? (number)",
+   "answer": "9",
+   "extra": ""
+  },
+  {
+   "id": "nutr-p299-t-03",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 299,
+   "question": "How many dispensable (nonessential) amino acids are there? (number)",
+   "answer": "11",
+   "extra": ""
+  },
+  {
+   "id": "nutr-p299-t-04",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 299,
+   "question": "How many kcal per gram does protein provide? (number)",
+   "answer": "4",
+   "extra": "Protein is used for energy when carbohydrate and fat intake are inadequate."
+  }
+ ],
+ "match": [
+  {
+   "id": "nutr-p294-m-01",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "prompt": "Match each nutrient to its deficiency sign.",
+   "pairs": [
+    [
+     "Vitamin B complex",
+     "Angular cheilitis"
+    ],
+    [
+     "Vitamin C",
+     "Spongy, bleeding gums (scurvy)"
+    ],
+    [
+     "Vitamin D",
+     "Rickets / osteomalacia"
+    ],
+    [
+     "Vitamin K",
+     "Prolonged clotting time"
+    ],
+    [
+     "Zinc",
+     "Altered taste and smell"
+    ],
+    [
+     "Protein",
+     "Enamel hypoplasia"
+    ],
+    [
+     "Calcium & phosphorus",
+     "Delayed tooth eruption"
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p296-m-01",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "prompt": "Match each sugar to its component monosaccharides.",
+   "pairs": [
+    [
+     "Sucrose",
+     "Glucose + fructose"
+    ],
+    [
+     "Maltose",
+     "Glucose + glucose"
+    ],
+    [
+     "Lactose",
+     "Glucose + galactose"
+    ],
+    [
+     "Raffinose",
+     "Galactose + glucose + fructose"
+    ],
+    [
+     "Stachyose",
+     "2 galactose + glucose + fructose"
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p298-m-01",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 298,
+   "prompt": "Match each amino-acid abbreviation to its name.",
+   "pairs": [
+    [
+     "GLN",
+     "Glutamine"
+    ],
+    [
+     "GLU",
+     "Glutamic acid"
+    ],
+    [
+     "ASP",
+     "Aspartic acid"
+    ],
+    [
+     "TRP",
+     "Tryptophan"
+    ],
+    [
+     "THR",
+     "Threonine"
+    ],
+    [
+     "ILE",
+     "Isoleucine"
+    ],
+    [
+     "LYS",
+     "Lysine"
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p300-m-01",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "prompt": "Match each fat-soluble vitamin to its other name.",
+   "pairs": [
+    [
+     "Vitamin A",
+     "Retinol"
+    ],
+    [
+     "Vitamin D",
+     "Calciferol"
+    ],
+    [
+     "Vitamin E",
+     "Tocopherol"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "nutr-p300-o-01",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 300,
+   "prompt": "Put the steps of protein breakdown for energy in order.",
+   "items": [
+    "Amino acid is deaminated (amine group removed)",
+    "Amine group forms ammonia",
+    "Liver converts ammonia to urea",
+    "Kidneys excrete urea in urine"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "nutr-p296-s-01",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "prompt": "Sort the carbohydrates by type.",
+   "categories": [
+    [
+     "Monosaccharide",
+     [
+      "Glucose",
+      "Fructose",
+      "Galactose"
+     ]
+    ],
+    [
+     "Disaccharide",
+     [
+      "Sucrose",
+      "Maltose",
+      "Lactose"
+     ]
+    ],
+    [
+     "Oligosaccharide",
+     [
+      "Raffinose",
+      "Stachyose",
+      "FOS",
+      "GOS"
+     ]
+    ],
+    [
+     "Polysaccharide",
+     [
+      "Starch",
+      "Glycogen"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p296-s-02",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 296,
+   "prompt": "Sort: soluble or insoluble fiber?",
+   "categories": [
+    [
+     "Soluble",
+     [
+      "Dissolves in water",
+      "Forms a gel in the gut",
+      "Moderates blood glucose",
+      "Lowers cholesterol",
+      "Oats, barley, legumes"
+     ]
+    ],
+    [
+     "Insoluble",
+     [
+      "Does not dissolve in water",
+      "Reduces colorectal cancer risk",
+      "Prevents constipation & hemorrhoids",
+      "Bran layers of cereal grains"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p297-s-01",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "prompt": "Sort the fatty acids by number of double bonds.",
+   "categories": [
+    [
+     "No double bonds",
+     [
+      "Saturated",
+      "Animal fat",
+      "Palm oil"
+     ]
+    ],
+    [
+     "One double bond",
+     [
+      "Monounsaturated",
+      "Olive oil"
+     ]
+    ],
+    [
+     "Two or more double bonds",
+     [
+      "Polyunsaturated",
+      "Omega-3 (linolenic)",
+      "Omega-6 (linoleic)",
+      "Fatty fish"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p299-s-01",
+   "deck": "Nutrition",
+   "section": "Proteins",
+   "page": 299,
+   "prompt": "Sort the amino acids: essential or nonessential?",
+   "categories": [
+    [
+     "Essential (indispensable)",
+     [
+      "Histidine",
+      "Isoleucine",
+      "Leucine",
+      "Lysine",
+      "Methionine",
+      "Phenylalanine",
+      "Threonine",
+      "Tryptophan",
+      "Valine"
+     ]
+    ],
+    [
+     "Nonessential (dispensable)",
+     [
+      "Alanine",
+      "Arginine",
+      "Asparagine",
+      "Aspartic acid",
+      "Cysteine",
+      "Serine",
+      "Tyrosine"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "nutr-p294-mcq-01",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "question": "A patient with a very restricted diet presents with spongy, swollen gingiva that bleeds easily, loose teeth and slow healing of a recent extraction site. Which nutrient deficiency is most likely?",
+   "options": [
+    "A. Vitamin K",
+    "B. Vitamin C",
+    "C. Vitamin B complex",
+    "D. Vitamin D"
+   ],
+   "answer": "B. Vitamin C",
+   "explanation": "Spongy, bleeding gums, impaired wound healing and loose teeth = scurvy (vitamin C deficiency; vitamin C is needed to synthesize collagen). Vitamin K deficiency also causes bleeding, but as prolonged clotting time — not spongy gingiva and loose teeth."
+  },
+  {
+   "id": "nutr-p294-mcq-02",
+   "deck": "Nutrition",
+   "section": "Key nutrients affecting oral health",
+   "page": 294,
+   "question": "A patient takes high-dose zinc supplements to speed healing. Which toxicity effect listed in the book can this cause?",
+   "options": [
+    "A. Copper deficiency",
+    "B. Hypercalcemia",
+    "C. Jaundice",
+    "D. Soft-tissue calcification"
+   ],
+   "answer": "A. Copper deficiency",
+   "explanation": "Zinc toxicity causes nausea, vomiting and copper deficiency. Hypercalcemia is vitamin D toxicity; soft-tissue calcification is high phosphorus; jaundice is synthetic vitamin K toxicity."
+  },
+  {
+   "id": "nutr-p295-mcq-01",
+   "deck": "Nutrition",
+   "section": "Nutrients overview",
+   "page": 295,
+   "question": "An adult's diet supplies 1,000 kcal from fat out of a 2,000-kcal daily intake. Compared with the adult AMDR for lipids, this intake is:",
+   "options": [
+    "A. Within the range",
+    "B. Above the range",
+    "C. Below the range",
+    "D. Appropriate only for an athlete"
+   ],
+   "answer": "B. Above the range",
+   "explanation": "1,000/2,000 = 50% of calories from fat; the adult AMDR for lipids is 20–35%, so the intake is above the range. Athletes are advised even less: 20–25%."
+  },
+  {
+   "id": "nutr-p296-mcq-01",
+   "deck": "Nutrition",
+   "section": "Carbohydrates",
+   "page": 296,
+   "question": "A patient reports bloating and flatulence after eating beans, cabbage and broccoli. Which carbohydrate in these foods is most likely responsible?",
+   "options": [
+    "A. Sucrose",
+    "B. Glycogen",
+    "C. Raffinose",
+    "D. Galactose"
+   ],
+   "answer": "C. Raffinose",
+   "explanation": "Raffinose is an oligosaccharide found in beans, cabbage, broccoli and whole grains; oligosaccharides feed gut bacteria (prebiotics) and can cause flatulence. Glycogen is animal storage carbohydrate, not a plant food component."
+  },
+  {
+   "id": "nutr-p297-mcq-01",
+   "deck": "Nutrition",
+   "section": "Fiber",
+   "page": 297,
+   "question": "A patient with chronic constipation and hemorrhoids asks which food to add to her diet. Based on fiber type, which is the best choice?",
+   "options": [
+    "A. Wheat bran cereal",
+    "B. Oatmeal",
+    "C. Barley soup",
+    "D. Lean chicken"
+   ],
+   "answer": "A. Wheat bran cereal",
+   "explanation": "Insoluble fiber (bran layers of cereal grains) passes through the digestive tract and reduces constipation and hemorrhoids. Oats and barley are soluble-fiber sources, better known for lowering cholesterol and moderating blood glucose; chicken has no fiber."
+  },
+  {
+   "id": "nutr-p297-mcq-02",
+   "deck": "Nutrition",
+   "section": "Lipids",
+   "page": 297,
+   "question": "Which fat is solid at room temperature and should be limited to 10% or less of daily calories?",
+   "options": [
+    "A. Olive oil",
+    "B. Palm oil",
+    "C. Corn oil",
+    "D. Soybean oil"
+   ],
+   "answer": "B. Palm oil",
+   "explanation": "Palm oil (like animal fat) is a saturated fat: no double bonds, solid at room temperature, ≤10% of calories. Olive oil is monounsaturated; corn and soybean oils are unsaturated (polyunsaturated) and liquid."
+  },
+  {
+   "id": "nutr-p298-mcq-01",
+   "deck": "Nutrition",
+   "section": "Lipoproteins",
+   "page": 298,
+   "question": "A patient's lab report shows a high HDL level. How should this be interpreted?",
+   "options": [
+    "A. Unfavorable — HDL carries cholesterol from the liver to the tissues",
+    "B. Favorable — HDL carries cholesterol back to the liver for disposal",
+    "C. Unfavorable — HDL is formed by hydrogenating unsaturated fats",
+    "D. Neutral — HDL only transports fat-soluble vitamins"
+   ],
+   "answer": "B. Favorable — HDL carries cholesterol back to the liver for disposal",
+   "explanation": "HDL (\"good guys\", Highly desirable) picks up cholesterol in the bloodstream and returns it to the liver to be disposed of. Carrying cholesterol from the liver to the body is LDL (\"bad guys\")."
+  },
+  {
+   "id": "nutr-p299-mcq-01",
+   "deck": "Nutrition",
+   "section": "Protein types",
+   "page": 299,
+   "question": "A vegan patient eats rice and beans together at most meals. What principle does this combination illustrate?",
+   "options": [
+    "A. Complete protein",
+    "B. Complementary proteins",
+    "C. Protein sparing",
+    "D. Deamination"
+   ],
+   "answer": "B. Complementary proteins",
+   "explanation": "Rice (whole grain) and beans (legume) are each incomplete plant proteins; combined, they compensate for each other's limiting amino acids and supply all essential amino acids — complementary proteins. Neither food alone is a complete protein."
+  },
+  {
+   "id": "nutr-p300-mcq-01",
+   "deck": "Nutrition",
+   "section": "Protein function",
+   "page": 300,
+   "question": "Which patient has the LOWEST increase in dietary protein requirement, according to the book?",
+   "options": [
+    "A. A pregnant woman",
+    "B. A patient recovering from surgery",
+    "C. A healthy, weight-stable adult",
+    "D. A patient with a fever"
+   ],
+   "answer": "C. A healthy, weight-stable adult",
+   "explanation": "Protein requirements increase during growth, pregnancy, lactation, trauma, surgery and fever. A healthy, weight-stable adult has none of these stresses (and North Americans typically eat well above requirements)."
+  },
+  {
+   "id": "nutr-p300-mcq-02",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "question": "A patient takes high-dose vitamin E supplements daily. Before scaling and root planing, which concern is most relevant?",
+   "options": [
+    "A. Delayed tooth eruption",
+    "B. Increased bleeding from impaired coagulation",
+    "C. Hypercalcemia",
+    "D. Night blindness"
+   ],
+   "answer": "B. Increased bleeding from impaired coagulation",
+   "explanation": "At high doses vitamin E can interfere with blood coagulation, so expect more bleeding. Hypercalcemia is vitamin D toxicity; night blindness is vitamin A deficiency."
+  },
+  {
+   "id": "nutr-p300-mcq-03",
+   "deck": "Nutrition",
+   "section": "Vitamins",
+   "page": 300,
+   "question": "A preterm infant develops hemolytic anemia due to red blood cell fragility. Deficiency of which vitamin is most likely?",
+   "options": [
+    "A. Vitamin A",
+    "B. Vitamin D",
+    "C. Vitamin E",
+    "D. Vitamin K"
+   ],
+   "answer": "C. Vitamin E",
+   "explanation": "Vitamin E (tocopherol) is an antioxidant; its deficiency causes hemolytic anemia, especially in preterm infants. Vitamin K deficiency causes impaired clotting (the book lists hemolytic anemia in infants only as a toxicity of synthetic vitamin K)."
+  }
+ ]
+}

@@ -1,0 +1,1833 @@
+{
+ "diagrams": [
+  {
+   "name": "ic-p283-bubble-cavitation",
+   "title": "Bubble cavitation (ultrasonic cleaning)",
+   "deck": "Infection Control",
+   "pdf_page": 9,
+   "page": 283,
+   "crop": [
+    95,
+    125,
+    1225,
+    680
+   ],
+   "labels": [
+    {
+     "box": [
+      551,
+      141,
+      826,
+      190
+     ],
+     "answer": "Bubble cavitation",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      177,
+      240,
+      395,
+      320
+     ],
+     "answer": "High pressure liquid",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      516,
+      237,
+      858,
+      319
+     ],
+     "answer": "Vapor bubble collapse (Implosion)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      939,
+      238,
+      1182,
+      319
+     ],
+     "answer": "Surface erosion Microjet",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      222,
+      436,
+      306,
+      492
+     ],
+     "answer": "Vapor Bubble",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "ic-p286-sterilization-room",
+   "title": "Instrument processing area: sterilization room",
+   "deck": "Infection Control",
+   "pdf_page": 12,
+   "page": 286,
+   "crop": [
+    95,
+    580,
+    1240,
+    1220
+   ],
+   "labels": [
+    {
+     "box": [
+      252,
+      650,
+      478,
+      690
+     ],
+     "answer": "Sharp disposal",
+     "fit": "text"
+    },
+    {
+     "box": [
+      530,
+      655,
+      736,
+      722
+     ],
+     "answer": "Sink for handwashing",
+     "fit": "text"
+    },
+    {
+     "box": [
+      350,
+      705,
+      488,
+      772
+     ],
+     "answer": "Garbage disposal",
+     "fit": "text"
+    },
+    {
+     "box": [
+      894,
+      770,
+      1142,
+      868
+     ],
+     "answer": "Cooling area for sterile items awaiting storage",
+     "fit": "text"
+    },
+    {
+     "box": [
+      432,
+      822,
+      630,
+      891
+     ],
+     "answer": "Handpiece maintenance",
+     "fit": "text"
+    },
+    {
+     "box": [
+      450,
+      892,
+      612,
+      926
+     ],
+     "answer": "Ultrasonic",
+     "fit": "text"
+    },
+    {
+     "box": [
+      280,
+      930,
+      360,
+      966
+     ],
+     "answer": "Sink",
+     "fit": "text"
+    },
+    {
+     "box": [
+      944,
+      950,
+      1104,
+      988
+     ],
+     "answer": "Sterilizers",
+     "fit": "text"
+    },
+    {
+     "box": [
+      436,
+      985,
+      716,
+      1050
+     ],
+     "answer": "Optional instrument washer",
+     "fit": "text"
+    },
+    {
+     "box": [
+      870,
+      1078,
+      1072,
+      1178
+     ],
+     "answer": "Items waiting to be in sterilizer",
+     "fit": "text"
+    },
+    {
+     "box": [
+      384,
+      1110,
+      564,
+      1148
+     ],
+     "answer": "Drying area",
+     "fit": "text"
+    },
+    {
+     "box": [
+      600,
+      1110,
+      828,
+      1148
+     ],
+     "answer": "Packaging area",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "ic-p283-001",
+   "deck": "Infection Control",
+   "section": "Ultrasonic cleaning",
+   "page": 283,
+   "text": "In an ultrasonic cleaner, process loose instruments for {{c1::1–15}} minutes and cassettes for {{c2::10–20}} minutes.",
+   "extra": "Keep the unit covered during use."
+  },
+  {
+   "id": "ic-p283-002",
+   "deck": "Infection Control",
+   "section": "Ultrasonic cleaning",
+   "page": 283,
+   "text": "Keep the ultrasonic cleaner {{c1::covered}} while it is running."
+  },
+  {
+   "id": "ic-p283-003",
+   "deck": "Infection Control",
+   "section": "Ultrasonic cleaning",
+   "page": 283,
+   "text": "After ultrasonic cleaning, {{c1::rinse}} instruments thoroughly and allow them to {{c2::drain and dry}}."
+  },
+  {
+   "id": "ic-p283-004",
+   "deck": "Infection Control",
+   "section": "Ultrasonic cleaning",
+   "page": 283,
+   "text": "To ensure full exposure in the ultrasonic cleaner, avoid {{c1::overloading}} the unit and {{c2::disassemble}} items."
+  },
+  {
+   "id": "ic-p283-005",
+   "deck": "Infection Control",
+   "section": "Ultrasonic cleaning",
+   "page": 283,
+   "text": "The ultrasonic cleaner itself should be disinfected {{c1::daily}}."
+  },
+  {
+   "id": "ic-p283-006",
+   "deck": "Infection Control",
+   "section": "Ultrasonic cleaning",
+   "page": 283,
+   "text": "If instruments must be hand scrubbed, use {{c1::heavy-duty}} gloves and {{c2::long-handled}} brushes."
+  },
+  {
+   "id": "ic-p283-007",
+   "deck": "Infection Control",
+   "section": "Ultrasonic cleaning",
+   "page": 283,
+   "text": "{{c1::Automatic instrument washers}} use high-temperature cycles to clean and {{c2::thermally disinfect}} instruments, reducing manual handling."
+  },
+  {
+   "id": "ic-p283-008",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "The steam autoclave uses {{c1::moist heat under pressure}} to denature proteins and kill microbes."
+  },
+  {
+   "id": "ic-p283-009",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Dry heat sterilization uses high dry heat to {{c1::oxidize}} and denature cell parts."
+  },
+  {
+   "id": "ic-p283-010",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Unsaturated chemical vapor sterilization uses heated vapors of {{c1::alcohol + formaldehyde}} under pressure."
+  },
+  {
+   "id": "ic-p283-011",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Steam autoclave cycles: 121°C for {{c1::20–30}} min, or 135°C for {{c2::3–10}} min."
+  },
+  {
+   "id": "ic-p283-012",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Dry heat sterilizes at {{c1::162–180°C}}: {{c2::6–20 min}} in the rapid type or {{c3::1–2 hours}} in the oven type.",
+   "extra": "Dry heat subtypes: rapid type and oven type."
+  },
+  {
+   "id": "ic-p283-013",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Unsaturated chemical vapor sterilizes at {{c1::135°C}} for {{c2::20–30}} min.",
+   "extra": "No standard subtypes."
+  },
+  {
+   "id": "ic-p283-014",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Sterilizer pressures: steam autoclave {{c1::15–20 psi}}; unsaturated chemical vapor {{c2::20–40 psi}}; dry heat {{c3::none}}."
+  },
+  {
+   "id": "ic-p283-015",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Steam autoclave subtypes: gravity displacement and {{c1::pre-vacuum}} (faster, deeper steam penetration)."
+  },
+  {
+   "id": "ic-p283-016",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Steam autoclave advantages: fast, reliable, and {{c1::wraps allowed}}."
+  },
+  {
+   "id": "ic-p283-017",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Steam autoclave disadvantages: may {{c1::dull or corrode}} instruments, may {{c2::melt plastic}}, and needs {{c3::distilled water}}."
+  },
+  {
+   "id": "ic-p283-018",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "The {{c1::steam autoclave}} is the standard sterilizer in dental offices for general wrapped instruments."
+  },
+  {
+   "id": "ic-p283-019",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Dry heat advantages: maintains {{c1::sharpness}}, prevents {{c2::corrosion}}, and uses no moisture."
+  },
+  {
+   "id": "ic-p283-020",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Dry heat disadvantages: {{c1::longer cycles}}, damages {{c2::rubber/plastics}}, and special packaging may be needed."
+  },
+  {
+   "id": "ic-p283-021",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Dry heat is ideal for {{c1::sharp instruments}} and {{c2::moisture-sensitive}} metal."
+  },
+  {
+   "id": "ic-p283-022",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Unsaturated chemical vapor maintains sharpness and is {{c1::less corrosive}} than steam."
+  },
+  {
+   "id": "ic-p283-023",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Unsaturated chemical vapor disadvantages: {{c1::chemical odor}} (ventilation needed) and may damage plastics/rubber."
+  },
+  {
+   "id": "ic-p283-024",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "Unsaturated chemical vapor is used for instruments sensitive to {{c1::steam or moisture}}."
+  },
+  {
+   "id": "ic-p283-025",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "text": "{{c1::Formaldehyde}} is still used in some dental sterilizers, like {{c2::Chemiclaves}}, because it is effective at killing spores and viruses."
+  },
+  {
+   "id": "ic-p284-001",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Cold sterilization is immersion in {{c1::EPA}}-approved chemical solutions."
+  },
+  {
+   "id": "ic-p284-002",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Ethylene oxide sterilization uses {{c1::low-temperature}} ethylene oxide gas."
+  },
+  {
+   "id": "ic-p284-003",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Flash sterilization uses the same temperatures as the steam autoclave ({{c1::121–135°C}}) for {{c2::3–10}} min at {{c3::15–20 psi}}."
+  },
+  {
+   "id": "ic-p284-004",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Cold sterilization: {{c1::room temperature}}, often a {{c2::10+ hour}} soak, no pressure."
+  },
+  {
+   "id": "ic-p284-005",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Ethylene oxide gas: 25°C (77°F) for {{c1::10–16}} hours in a {{c2::low-pressure}} sealed chamber."
+  },
+  {
+   "id": "ic-p284-006",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Flash sterilization is a fast option for {{c1::emergencies}}, but no wrapping means {{c2::no sterile storage}} and risk of contamination.",
+   "extra": "Flash, cold and ethylene oxide sterilization have no subtypes."
+  },
+  {
+   "id": "ic-p284-007",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Cold sterilization can be used on some {{c1::heat-sensitive semi-critical}} items when heat sterilization isn't possible."
+  },
+  {
+   "id": "ic-p284-008",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Cold sterilization requires a long soak and is NOT for {{c1::critical}} items and NOT for {{c2::single-use}} items."
+  },
+  {
+   "id": "ic-p284-009",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Ethylene oxide is ideal for {{c1::plastic/rubber}} and other heat- and moisture-sensitive materials."
+  },
+  {
+   "id": "ic-p284-010",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "text": "Ethylene oxide is very slow, expensive, and needs special equipment and ventilation, so it is used mainly in {{c1::hospitals}}, not typical dental practice."
+  },
+  {
+   "id": "ic-p285-001",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "{{c1::Mechanical}} monitoring uses built-in gauges, digital displays, or printouts on the sterilizer."
+  },
+  {
+   "id": "ic-p285-002",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "{{c1::Chemical}} monitoring uses color-changing indicators (tape, pouches, strips) that react to heat or sterilant."
+  },
+  {
+   "id": "ic-p285-003",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "{{c1::Biological}} monitoring (the spore test) uses paper strips or vials containing highly resistant {{c2::bacterial spores}}."
+  },
+  {
+   "id": "ic-p285-004",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Mechanical monitoring checks {{c1::time, temperature, and pressure}}, showing the cycle ran correctly."
+  },
+  {
+   "id": "ic-p285-005",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Chemical monitoring checks whether {{c1::physical conditions}} (e.g., temperature, time, sterilant) were met."
+  },
+  {
+   "id": "ic-p285-006",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Biological monitoring checks whether actual {{c1::microorganisms are killed}}, proving sterilization occurred."
+  },
+  {
+   "id": "ic-p285-007",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Mechanical monitoring: view the digital screen or pressure gauge {{c1::before and after}} the cycle; the clinician records it {{c2::immediately}}.",
+   "extra": "Correct readings = cycle ran properly; abnormal readings = possible malfunction."
+  },
+  {
+   "id": "ic-p285-008",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "{{c1::Autoclave tape}} is placed outside packs and changes color (white to black) when heated.",
+   "extra": "The figure caption describes indicator stripes changing from green to black; either way, the stripes darken."
+  },
+  {
+   "id": "ic-p285-009",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "{{c1::Internal}} chemical indicators are placed inside packs to confirm the sterilant reached the instruments."
+  },
+  {
+   "id": "ic-p285-010",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Chemical indicator classes: Class {{c1::I}} = external (e.g., autoclave tape); Classes {{c2::II/IV/V}} = internal (single- or multi-parameter)."
+  },
+  {
+   "id": "ic-p285-011",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "For a spore test, a spore strip is placed inside a pouch or cassette; some are {{c1::self-contained vials}} with growth media."
+  },
+  {
+   "id": "ic-p285-012",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "After sterilization, spore strips/vials are {{c1::incubated}} for {{c2::24 hours}} (in-office or mailed to a lab)."
+  },
+  {
+   "id": "ic-p285-013",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "A chemical indicator's color change means conditions were met but is {{c1::not proof of sterility}}.",
+   "extra": "Record results if required."
+  },
+  {
+   "id": "ic-p285-014",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Spore test: if spores do {{c1::not grow}}, sterilization was effective; if spores {{c2::grow}}, sterilization failed."
+  },
+  {
+   "id": "ic-p285-015",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Use mechanical monitoring on {{c1::every load}} and chemical indicators on {{c2::every pack or load}}, especially with internal instruments."
+  },
+  {
+   "id": "ic-p285-016",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Besides weekly, spore test after sterilizer {{c1::repairs}}, with loads containing {{c2::implantable devices}}, and after new staff or new sterilizer use."
+  },
+  {
+   "id": "ic-p285-017",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Mechanical and chemical monitoring results are immediate; biological results are delayed {{c1::24–48}} hours (faster in-office, slower by mail)."
+  },
+  {
+   "id": "ic-p285-018",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "Biological monitoring systems: {{c1::in-office incubation kits}} (faster, more hands-on) or {{c2::mail-in services}} (convenient, slower).",
+   "extra": "Mechanical monitoring is built into the sterilizer."
+  },
+  {
+   "id": "ic-p285-019",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "text": "{{c1::Biological monitoring}} is the most accurate: the only method that proves microorganisms were destroyed."
+  },
+  {
+   "id": "ic-p285-020",
+   "deck": "Infection Control",
+   "section": "Sterilization failure",
+   "page": 285,
+   "text": "Causes of sterilization failure: chamber {{c1::overload}}, excessive {{c2::packaging material}}, inadequate {{c3::exposure time}}, and incorrect temperature/pressure settings."
+  },
+  {
+   "id": "ic-p286-001",
+   "deck": "Infection Control",
+   "section": "Sterilization failure",
+   "page": 286,
+   "text": "More causes of sterilization failure: failure to {{c1::preheat}} the sterilizer (if indicated), {{c2::interruption}} of the cycle, and {{c3::expired}} chemical solution."
+  },
+  {
+   "id": "ic-p286-002",
+   "deck": "Infection Control",
+   "section": "Sterilization failure",
+   "page": 286,
+   "text": "Packages and cassettes should be placed on their {{c1::edges or vertically}}, not lying flat."
+  },
+  {
+   "id": "ic-p286-003",
+   "deck": "Infection Control",
+   "section": "Sterilization failure",
+   "page": 286,
+   "text": "If mechanical and chemical indicators show the sterilizer works correctly, a single positive spore test does {{c1::not}} indicate sterilizer malfunction."
+  },
+  {
+   "id": "ic-p286-004",
+   "deck": "Infection Control",
+   "section": "Sterilization failure",
+   "page": 286,
+   "text": "After a single positive spore test, items other than {{c1::implantable devices}} do not necessarily need recall; {{c2::repeat the spore test}} immediately after correctly loading the sterilizer."
+  },
+  {
+   "id": "ic-p286-005",
+   "deck": "Infection Control",
+   "section": "Sterilization failure",
+   "page": 286,
+   "text": "If the repeated spore test is negative, return the sterilizer to service and re-challenge with spore tests in {{c1::three}} consecutive {{c2::empty-chamber}} cycles."
+  },
+  {
+   "id": "ic-p286-006",
+   "deck": "Infection Control",
+   "section": "Sterilization failure",
+   "page": 286,
+   "text": "If the repeated spore test is positive, {{c1::remove the sterilizer from service}}. Record biologic monitoring results in a {{c2::logbook}}."
+  },
+  {
+   "id": "ic-p286-007",
+   "deck": "Infection Control",
+   "section": "Receiving, cleaning, and decontamination",
+   "page": 286,
+   "text": "Use a {{c1::closed}} transportation box to move instruments to the processing area."
+  },
+  {
+   "id": "ic-p286-008",
+   "deck": "Infection Control",
+   "section": "Receiving, cleaning, and decontamination",
+   "page": 286,
+   "text": "For instrument cleaning and decontamination, wear {{c1::puncture- and chemical-resistant heavy-duty utility}} gloves.",
+   "extra": "Plus other appropriate PPE."
+  },
+  {
+   "id": "ic-p286-009",
+   "deck": "Infection Control",
+   "section": "Receiving, cleaning, and decontamination",
+   "page": 286,
+   "text": "Clean debris by hand washing or an automated process: {{c1::ultrasonic cleaner}} or automatic washer."
+  },
+  {
+   "id": "ic-p286-010",
+   "deck": "Infection Control",
+   "section": "Receiving, cleaning, and decontamination",
+   "page": 286,
+   "text": "After cleaning, rinse instruments with water to remove {{c1::chemical or detergent residue}}."
+  },
+  {
+   "id": "ic-p286-011",
+   "deck": "Infection Control",
+   "section": "Preparation and packaging",
+   "page": 286,
+   "text": "Wear puncture-resistant utility gloves when packaging instruments; utility gloves can be {{c1::disinfected or sterilized in an autoclave}}."
+  },
+  {
+   "id": "ic-p286-012",
+   "deck": "Infection Control",
+   "section": "Preparation and packaging",
+   "page": 286,
+   "text": "A chemical indicator should be used {{c1::inside every package}} to verify the sterilizing agent has penetrated the package and reached the instruments."
+  },
+  {
+   "id": "ic-p286-013",
+   "deck": "Infection Control",
+   "section": "Preparation and packaging",
+   "page": 286,
+   "text": "Add an {{c1::external}} chemical indicator (e.g., indicator tape) when the internal indicator cannot be seen from outside the package."
+  },
+  {
+   "id": "ic-p286-014",
+   "deck": "Infection Control",
+   "section": "Preparation and packaging",
+   "page": 286,
+   "text": "Chemical indicators differentiate {{c1::processed from unprocessed}} items, eliminating the possibility of using unsterilized instruments."
+  },
+  {
+   "id": "ic-p286-015",
+   "deck": "Infection Control",
+   "section": "Sterilization",
+   "page": 286,
+   "text": "Arrange items to permit {{c1::free circulation}} of the sterilizing agent (steam, chemical vapor, or dry heat)."
+  },
+  {
+   "id": "ic-p286-016",
+   "deck": "Infection Control",
+   "section": "Sterilization",
+   "page": 286,
+   "text": "Instrument packs should be allowed to {{c1::dry}} inside the sterilizer chamber before they are removed."
+  },
+  {
+   "id": "ic-p286-017",
+   "deck": "Infection Control",
+   "section": "Sterilization",
+   "page": 286,
+   "text": "Sterilization should be monitored by {{c1::mechanical}}, {{c2::chemical}}, and {{c3::biological}} indicators."
+  },
+  {
+   "id": "ic-p286-018",
+   "deck": "Infection Control",
+   "section": "Sterilization",
+   "page": 286,
+   "text": "Boiling water ({{c1::100°C}}) does not destroy {{c2::bacterial spores}}.",
+   "extra": "Did you know: once hepatitis B and HIV became concerns in the 1980s, autoclaves (up to 135°C under pressure) became the gold standard in dentistry."
+  },
+  {
+   "id": "ic-p287-001",
+   "deck": "Infection Control",
+   "section": "Storage",
+   "page": 287,
+   "text": "The sterile storage area should be {{c1::enclosed}} and {{c2::dry}}."
+  },
+  {
+   "id": "ic-p287-002",
+   "deck": "Infection Control",
+   "section": "Storage",
+   "page": 287,
+   "text": "Instruments should be {{c1::cooled}} before being stored."
+  },
+  {
+   "id": "ic-p287-003",
+   "deck": "Infection Control",
+   "section": "Storage",
+   "page": 287,
+   "text": "Write the {{c1::date}} and the {{c2::sterilizer used}} on the packaging."
+  },
+  {
+   "id": "ic-p287-004",
+   "deck": "Infection Control",
+   "section": "Infection control for radiographic exposure",
+   "page": 287,
+   "text": "During radiographic exposure, use PPE if {{c1::blood or other bodily fluids}} are likely to contact the clinician."
+  },
+  {
+   "id": "ic-p287-005",
+   "deck": "Infection Control",
+   "section": "Infection control for radiographic exposure",
+   "page": 287,
+   "text": "Heat-tolerant radiograph items (e.g., receptor-holding and positioning devices) should be {{c1::heat-sterilized}}.",
+   "extra": "The book says \"film-holding\" devices; the exam now says image receptor."
+  },
+  {
+   "id": "ic-p287-006",
+   "deck": "Infection Control",
+   "section": "Infection control for radiographic exposure",
+   "page": 287,
+   "text": "During radiography, {{c1::cover}} items likely to be contaminated: PID, tube head, swivel arms, countertop, keyboard, mouse, light handle, exposure control switch, headrest, chair controls."
+  },
+  {
+   "id": "ic-p287-007",
+   "deck": "Infection Control",
+   "section": "Exposure incident protocol",
+   "page": 287,
+   "text": "After a sharps exposure, wash the injured area with antimicrobial {{c1::soap and water}}."
+  },
+  {
+   "id": "ic-p287-008",
+   "deck": "Infection Control",
+   "section": "Exposure incident protocol",
+   "page": 287,
+   "text": "After an exposure, flush mucous membranes with {{c1::water}}."
+  },
+  {
+   "id": "ic-p287-009",
+   "deck": "Infection Control",
+   "section": "Exposure incident protocol",
+   "page": 287,
+   "text": "Immediately {{c1::report}} an exposure to the {{c2::infection control coordinator}} (or designated person), who should initiate referral to the qualified health care professional and complete reports."
+  },
+  {
+   "id": "ic-p287-010",
+   "deck": "Infection Control",
+   "section": "Exposure report",
+   "page": 287,
+   "text": "An exposure report records the {{c1::date and time}} of exposure and details of the {{c2::procedure}} being performed."
+  },
+  {
+   "id": "ic-p287-011",
+   "deck": "Infection Control",
+   "section": "Exposure report",
+   "page": 287,
+   "text": "Exposure details in the report include {{c1::depth of injury}}, {{c2::type of instrument}} used, and {{c3::amount of blood}}."
+  },
+  {
+   "id": "ic-p287-012",
+   "deck": "Infection Control",
+   "section": "Exposure report",
+   "page": 287,
+   "text": "The exposure report records whether the {{c1::source material}} was known to contain HIV or other blood-borne pathogens, details of the {{c2::exposed person}}, and counselling, {{c3::post-exposure management}}, and follow-up."
+  },
+  {
+   "id": "ic-p287-013",
+   "deck": "Infection Control",
+   "section": "Exposure report",
+   "page": 287,
+   "text": "The first known provider-to-patient HIV transmission: Florida dentist {{c1::Dr. David Acer}} was linked to transmission to {{c2::six}} patients.",
+   "extra": "It led to mandatory gloves and masks and the creation of standard precautions: treat every patient as potentially infectious."
+  },
+  {
+   "id": "ic-p287-014",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "Most bacteria are {{c1::harmless or beneficial}} (e.g., some strains of E. coli in the intestinal tract); only {{c2::pathogenic}} (disease-causing) bacteria are harmful."
+  },
+  {
+   "id": "ic-p287-015",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "<i>{{c1::Streptococcus pyogenes}}</i> causes streptococcal pharyngitis and {{c2::scarlet fever}}."
+  },
+  {
+   "id": "ic-p287-016",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "<i>{{c1::Treponema pallidum}}</i> causes {{c2::syphilis}}; spread by direct contact and {{c3::transplacental}}ly."
+  },
+  {
+   "id": "ic-p287-017",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "<i>{{c1::Mycobacterium tuberculosis}}</i> causes {{c2::tuberculosis}}; spread by {{c3::droplet nuclei}}, sputum, saliva."
+  },
+  {
+   "id": "ic-p287-018",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "Food poisoning is caused by <i>{{c1::Escherichia coli}}</i> and <i>{{c2::Salmonella}}</i>."
+  },
+  {
+   "id": "ic-p287-019",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "<i>{{c1::Helicobacter pylori}}</i> causes {{c2::gastritis and ulcers}}."
+  },
+  {
+   "id": "ic-p287-020",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "<i>{{c1::Neisseria gonorrhoeae}}</i> causes {{c2::gonorrhea}} (direct and indirect contact)."
+  },
+  {
+   "id": "ic-p287-021",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "<i>{{c1::Neisseria meningitidis}}</i> causes {{c2::meningitis}}: inflammation of the meninges, the {{c3::three}} membranes covering the brain and spinal cord."
+  },
+  {
+   "id": "ic-p287-022",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "<i>{{c1::Clostridium difficile}}</i> causes {{c2::colitis}}."
+  },
+  {
+   "id": "ic-p287-023",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "Strep throat is caused by {{c1::Group A Streptococcus}} (respiratory droplets, direct contact)."
+  },
+  {
+   "id": "ic-p287-024",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "{{c1::Cellulitis}} (a common, sometimes painful bacterial skin infection) is caused by <i>{{c2::Staphylococcus}}</i> and <i>Streptococcus</i>."
+  },
+  {
+   "id": "ic-p287-025",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "text": "The STD chlamydia is caused by <i>{{c1::Chlamydia trachomatis}}</i>."
+  },
+  {
+   "id": "ic-p287-026",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 287,
+   "text": "Viruses are {{c1::non-living}} organisms smaller than bacteria that require {{c2::living hosts}} (humans, plants, animals) to multiply."
+  },
+  {
+   "id": "ic-p287-027",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 287,
+   "text": "AIDS is caused by the {{c1::human immunodeficiency virus (HIV)}}."
+  },
+  {
+   "id": "ic-p287-028",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 287,
+   "text": "{{c1::Hepatitis D}} virus can only occur in the presence of {{c2::HBV}}."
+  },
+  {
+   "id": "ic-p287-029",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 287,
+   "text": "Primary herpetic gingivostomatitis and recurrent herpes are both caused by {{c1::herpes simplex virus}}."
+  },
+  {
+   "id": "ic-p287-030",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 287,
+   "text": "Hand, foot, and mouth disease is caused by {{c1::Coxsackie virus}}."
+  },
+  {
+   "id": "ic-p287-031",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 287,
+   "text": "Infectious mononucleosis is caused by the {{c1::Epstein-Barr virus (EBV)}}."
+  },
+  {
+   "id": "ic-p287-032",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 287,
+   "text": "Rubeola (measles) is from the {{c1::Paramyxoviridae}} family; rubella (German measles) is a {{c2::Togavirus}}.",
+   "extra": "Both named for their reddish rashes: \"rubeola\" = little red, \"rubella\" = reddish (Latin). Different viruses, very different symptoms and risks."
+  },
+  {
+   "id": "ic-p288-001",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 288,
+   "text": "Encephalitis and meningitis can be caused by {{c1::herpes virus}}."
+  },
+  {
+   "id": "ic-p288-002",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 288,
+   "text": "Chickenpox is caused by {{c1::varicella zoster virus (VZV)}}."
+  },
+  {
+   "id": "ic-p288-003",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 288,
+   "text": "Measles (rubeola) is caused by measles virus, genus <i>{{c1::Morbillivirus}}</i>; spread by direct contact, saliva, and {{c2::airborne droplet}}."
+  },
+  {
+   "id": "ic-p288-004",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 288,
+   "text": "Mumps virus spreads by direct contact through saliva, droplets, and the {{c1::fecal-oral}} route."
+  },
+  {
+   "id": "ic-p288-005",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 288,
+   "text": "Influenza viruses come in types {{c1::A, B, C}}; spread by nasal discharge and respiratory droplets."
+  },
+  {
+   "id": "ic-p288-006",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 288,
+   "text": "Polio is caused by poliovirus types {{c1::1, 2, 3}}."
+  },
+  {
+   "id": "ic-p288-007",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 288,
+   "text": "Ebola belongs to the viral family <i>{{c1::Filoviridae}}</i>."
+  },
+  {
+   "id": "ic-p288-008",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 288,
+   "text": "Rabies virus is spread through the {{c1::saliva of infected animals}}."
+  },
+  {
+   "id": "ic-p288-009",
+   "deck": "Infection Control",
+   "section": "Infectious agents transmissible from the oral cavity",
+   "page": 288,
+   "text": "Viruses transmissible from the oral cavity include HIV, HBV, HCV, {{c1::HEV}}, herpes simplex (types 1 and 2), {{c2::HPV}}, varicella zoster, Epstein-Barr, mumps, polio, influenza, measles, and rubella viruses.",
+   "extra": "Note: the quiz answer key says HIV is not spread through saliva or aerosols in dental settings."
+  },
+  {
+   "id": "ic-p288-010",
+   "deck": "Infection Control",
+   "section": "Infectious agents transmissible from the oral cavity",
+   "page": 288,
+   "text": "Bacteria and fungi transmissible from the oral cavity include <i>M. tuberculosis</i>, <i>T. pallidum</i>, <i>N. gonorrhoeae</i>, <i>{{c1::Bordetella pertussis}}</i>, Group A streptococci, <i>Staphylococcus aureus</i> and <i>epidermidis</i>, <i>{{c2::Candida albicans}}</i>, and <i>Streptococcus pneumoniae</i>."
+  },
+  {
+   "id": "ic-p288-011",
+   "deck": "Infection Control",
+   "section": "Vaccines for healthcare workers",
+   "page": 288,
+   "text": "Vaccines for healthcare workers: chickenpox (varicella), influenza, hepatitis B, {{c1::meningococcal}}, MMR, and Tdap."
+  },
+  {
+   "id": "ic-p288-012",
+   "deck": "Infection Control",
+   "section": "Vaccines for healthcare workers",
+   "page": 288,
+   "text": "The hepatitis B vaccine also protects against {{c1::hepatitis D}}."
+  },
+  {
+   "id": "ic-p288-013",
+   "deck": "Infection Control",
+   "section": "Vaccines for healthcare workers",
+   "page": 288,
+   "text": "MMR protects against {{c1::measles, mumps, and rubella}}; Tdap against {{c2::tetanus, diphtheria, and whooping cough}}."
+  },
+  {
+   "id": "ic-p288-014",
+   "deck": "Infection Control",
+   "section": "Vaccines for healthcare workers",
+   "page": 288,
+   "text": "Depending on local authorities, other vaccines may be required: HPV, {{c1::shingles}}, COVID-19, etc."
+  },
+  {
+   "id": "ic-p288-015",
+   "deck": "Infection Control",
+   "section": "Vaccines for healthcare workers",
+   "page": 288,
+   "text": "There is NO vaccine for {{c1::hepatitis C}} or {{c2::HIV}}."
+  },
+  {
+   "id": "ic-p288-016",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "The {{c1::CDC}} (Centers for Disease Control and Prevention) is a federal {{c2::advisory}} agency that develops national infection prevention {{c3::guidelines}} for dental settings."
+  },
+  {
+   "id": "ic-p288-017",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "CDC key responsibilities: Standard Precautions, dental {{c1::waterlines}}, {{c2::post-exposure}} protocols, and outbreak guidance (e.g., COVID, TB)."
+  },
+  {
+   "id": "ic-p288-018",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "The CDC does NOT {{c1::enforce laws, inspect offices, or approve products}}."
+  },
+  {
+   "id": "ic-p288-019",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "{{c1::NIOSH}} (National Institute for Occupational Safety and Health) is a federal {{c2::research}} agency that studies occupational health risks, e.g., in dental clinics."
+  },
+  {
+   "id": "ic-p288-020",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "NIOSH researches PPE, airborne diseases, and {{c1::latex allergies}}, but does NOT regulate or enforce rules."
+  },
+  {
+   "id": "ic-p288-021",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "{{c1::OSHA}} (Occupational Safety and Health Administration) is a federal {{c2::regulatory}} agency that enforces workplace safety laws for {{c3::employees}}."
+  },
+  {
+   "id": "ic-p288-022",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "OSHA covers the {{c1::Bloodborne Pathogens (BBP) Standard}}, exposure plans, PPE, disinfection, vaccination, sterilization, and {{c2::eyewash}}."
+  },
+  {
+   "id": "ic-p288-023",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "OSHA does NOT {{c1::write guidelines}} (like the CDC) or {{c2::approve products}}."
+  },
+  {
+   "id": "ic-p288-024",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "The {{c1::EPA}} (Environmental Protection Agency) is a federal regulatory agency that regulates {{c2::surface disinfectants}} and {{c3::medical waste}}."
+  },
+  {
+   "id": "ic-p288-025",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "The EPA approves disinfectants for environmental surfaces, monitors {{c1::drinking water}}, and handles waste (sharps, {{c2::amalgam}})."
+  },
+  {
+   "id": "ic-p288-026",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "The EPA does NOT approve {{c1::devices or patient-care instruments}}."
+  },
+  {
+   "id": "ic-p288-027",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "The {{c1::FDA}} (Food and Drug Administration) is a federal regulatory agency that regulates dental/medical {{c2::devices}} and {{c3::chemical sterilants}}."
+  },
+  {
+   "id": "ic-p288-028",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "The FDA approves gloves, masks, {{c1::sterilizers}}, indicators, radiography, and disinfectants for {{c2::instruments}}, but does NOT issue practice guidelines."
+  },
+  {
+   "id": "ic-p288-029",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "{{c1::OSAP}} (Organization for Safety, Asepsis, and Prevention) is a {{c2::non-profit educational}} organization offering infection control education and best practices."
+  },
+  {
+   "id": "ic-p288-030",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "text": "OSAP gives guidance on sterilization, waterline safety, surface asepsis, and continuing education, but does NOT {{c1::regulate, inspect, or approve products}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "ic-p283-b-01",
+   "deck": "Infection Control",
+   "section": "Ultrasonic cleaning",
+   "page": 283,
+   "front": "Why is hand scrubbing of instruments not recommended, and when may it be done?",
+   "back": "Increased risk of sharps injuries. Only when ultrasonic or automated methods are not available.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "ic-p283-b-02",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "front": "Why must formaldehyde (chemical vapor) sterilizers be used in sealed, ventilated systems?",
+   "back": "Formaldehyde is a respiratory irritant and a probable carcinogen.",
+   "reverse": false,
+   "extra": "That's why most offices now prefer steam or dry heat sterilization."
+  },
+  {
+   "id": "ic-p284-b-01",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "front": "Flash sterilization",
+   "back": "Steam used on unwrapped items for rapid sterilization",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p287-b-01",
+   "deck": "Infection Control",
+   "section": "Storage",
+   "page": 287,
+   "front": "Which sterilized packages are considered contaminated, and what do you do?",
+   "back": "Packages dropped on the floor, punctured, torn, or that look wet. Repackage and re-sterilize the instruments before use.",
+   "reverse": false,
+   "extra": "Always examine the packaging before opening it chairside."
+  },
+  {
+   "id": "ic-p287-b-02",
+   "deck": "Infection Control",
+   "section": "Exposure incident protocol",
+   "page": 287,
+   "front": "After a needlestick, should you squeeze the wound or apply an antiseptic?",
+   "back": "No. There is no evidence that antiseptics or expressing fluid by squeezing the wound reduces blood-borne pathogen transmission.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "ic-p284-t-01",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "question": "How many hours of aeration follow ethylene oxide sterilization? (hours)",
+   "answer": "24",
+   "extra": ""
+  },
+  {
+   "id": "ic-p285-t-01",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "question": "How often, at minimum, should biological monitoring (spore testing) be done? (one word)",
+   "answer": "Weekly",
+   "extra": ""
+  },
+  {
+   "id": "ic-p287-t-01",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 287,
+   "question": "HBV can survive in dried blood at room temperature on environmental surfaces for at least how many days? (number)",
+   "answer": "7",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "ic-p287-m-01",
+   "deck": "Infection Control",
+   "section": "Bacteria",
+   "page": 287,
+   "prompt": "Match each disease to its bacterium.",
+   "pairs": [
+    [
+     "Syphilis",
+     "Treponema pallidum"
+    ],
+    [
+     "Gastritis and ulcers",
+     "Helicobacter pylori"
+    ],
+    [
+     "Meningitis",
+     "Neisseria meningitidis"
+    ],
+    [
+     "Gonorrhea",
+     "Neisseria gonorrhoeae"
+    ],
+    [
+     "Colitis",
+     "Clostridium difficile"
+    ],
+    [
+     "Scarlet fever",
+     "Streptococcus pyogenes"
+    ]
+   ]
+  },
+  {
+   "id": "ic-p288-m-01",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 288,
+   "prompt": "Match each disease to its virus.",
+   "pairs": [
+    [
+     "Hand, foot, and mouth disease",
+     "Coxsackie virus"
+    ],
+    [
+     "Infectious mononucleosis",
+     "Epstein-Barr virus"
+    ],
+    [
+     "Chickenpox",
+     "Varicella zoster virus"
+    ],
+    [
+     "AIDS",
+     "HIV"
+    ],
+    [
+     "Primary herpetic gingivostomatitis",
+     "Herpes simplex virus"
+    ],
+    [
+     "Ebola",
+     "Filoviridae"
+    ]
+   ]
+  },
+  {
+   "id": "ic-p288-m-02",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "prompt": "Match each agency to what it does in infection control.",
+   "pairs": [
+    [
+     "CDC",
+     "Writes national infection-prevention guidelines"
+    ],
+    [
+     "NIOSH",
+     "Researches occupational health risks"
+    ],
+    [
+     "OSHA",
+     "Enforces employee safety (BBP Standard)"
+    ],
+    [
+     "EPA",
+     "Approves surface disinfectants; regulates medical waste"
+    ],
+    [
+     "FDA",
+     "Approves devices, sterilizers and chemical sterilants"
+    ],
+    [
+     "OSAP",
+     "Infection control education and best practices"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "ic-p286-o-01",
+   "deck": "Infection Control",
+   "section": "Receiving, cleaning, and decontamination",
+   "page": 286,
+   "prompt": "Put the instrument-processing areas in workflow order.",
+   "items": [
+    "Receiving",
+    "Cleaning",
+    "Decontamination",
+    "Packaging",
+    "Sterilization",
+    "Storage"
+   ]
+  },
+  {
+   "id": "ic-p287-o-01",
+   "deck": "Infection Control",
+   "section": "Exposure incident protocol",
+   "page": 287,
+   "prompt": "Put the exposure-incident steps in order.",
+   "items": [
+    "Wash the wound with soap and water / flush membranes with water",
+    "Report to the infection control coordinator",
+    "Referral to a qualified health care professional",
+    "Complete the exposure report and follow-up"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "ic-p283-s-01",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "prompt": "Sort each feature to its sterilizer.",
+   "categories": [
+    [
+     "Steam autoclave",
+     [
+      "Moist heat under pressure",
+      "15–20 psi",
+      "Needs distilled water",
+      "Gravity displacement / pre-vacuum",
+      "Wraps allowed"
+     ]
+    ],
+    [
+     "Dry heat",
+     [
+      "Oxidizes cell parts",
+      "No pressure",
+      "162–180°C",
+      "Rapid type / oven type"
+     ]
+    ],
+    [
+     "Unsaturated chemical vapor",
+     [
+      "Alcohol + formaldehyde",
+      "20–40 psi",
+      "Chemical odor; needs ventilation"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ic-p284-s-01",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "prompt": "Sort each feature: flash, cold, or ethylene oxide sterilization?",
+   "categories": [
+    [
+     "Flash sterilization",
+     [
+      "Unwrapped items",
+      "Steam, 3–10 min",
+      "No sterile storage",
+      "Emergencies in dental clinics"
+     ]
+    ],
+    [
+     "Cold sterilization",
+     [
+      "Immersion in chemical solution",
+      "Room-temperature soak",
+      "Not for critical items"
+     ]
+    ],
+    [
+     "Ethylene oxide gas",
+     [
+      "24 hrs aeration",
+      "Ideal for plastic/rubber",
+      "Mostly hospitals"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ic-p285-s-01",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "prompt": "Sort each item: mechanical, chemical, or biological monitoring?",
+   "categories": [
+    [
+     "Mechanical",
+     [
+      "Gauges and printouts",
+      "Time/temperature/pressure readings",
+      "Built into sterilizer"
+     ]
+    ],
+    [
+     "Chemical",
+     [
+      "Autoclave tape",
+      "Class I–V indicators",
+      "Color change"
+     ]
+    ],
+    [
+     "Biological",
+     [
+      "Self-contained vial with growth media",
+      "Incubated 24 hrs",
+      "At least weekly",
+      "Proves microorganisms were killed"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ic-p288-s-01",
+   "deck": "Infection Control",
+   "section": "Vaccines for healthcare workers",
+   "page": 288,
+   "prompt": "Sort: is there a vaccine for healthcare workers?",
+   "categories": [
+    [
+     "Vaccine available",
+     [
+      "Varicella",
+      "Influenza",
+      "Hepatitis B",
+      "Hepatitis D (via HBV vaccine)",
+      "Meningococcus",
+      "Rubella",
+      "Pertussis"
+     ]
+    ],
+    [
+     "No vaccine",
+     [
+      "Hepatitis C",
+      "HIV"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ic-p288-s-02",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "prompt": "Sort the infection control agencies by type.",
+   "categories": [
+    [
+     "Advisory",
+     [
+      "CDC"
+     ]
+    ],
+    [
+     "Research",
+     [
+      "NIOSH"
+     ]
+    ],
+    [
+     "Regulatory",
+     [
+      "OSHA",
+      "EPA",
+      "FDA"
+     ]
+    ],
+    [
+     "Non-profit educational",
+     [
+      "OSAP"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "ic-p283-mcq-01",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "question": "Which sterilizer is correctly matched with its cycle parameters?",
+   "options": [
+    "A. Steam autoclave — 135°C for 3–10 min at 15–20 psi",
+    "B. Dry heat — 121°C for 20–30 min at 15–20 psi",
+    "C. Unsaturated chemical vapor — 162°C for 1–2 hrs with no pressure",
+    "D. Dry heat — 135°C for 20–30 min at 20–40 psi"
+   ],
+   "answer": "A. Steam autoclave — 135°C for 3–10 min at 15–20 psi",
+   "explanation": "Steam autoclave: 121°C for 20–30 min or 135°C for 3–10 min at 15–20 psi. Dry heat runs at 162–180°C with no pressure; 135°C for 20–30 min at 20–40 psi is unsaturated chemical vapor."
+  },
+  {
+   "id": "ic-p283-mcq-02",
+   "deck": "Infection Control",
+   "section": "Sterilizers",
+   "page": 283,
+   "question": "A hygienist is choosing a sterilization method for plastic items that would melt in one unit and be damaged in another. Which statement is correct?",
+   "options": [
+    "A. Steam autoclave is safe for plastics because it uses lower temperatures",
+    "B. Both steam autoclave and dry heat can damage plastics",
+    "C. Dry heat is preferred for plastics because it contains no moisture",
+    "D. Unsaturated chemical vapor never damages plastics or rubber"
+   ],
+   "answer": "B. Both steam autoclave and dry heat can damage plastics",
+   "explanation": "Steam may melt plastic; dry heat damages rubber/plastics. Chemical vapor may also damage plastics/rubber, so D is false."
+  },
+  {
+   "id": "ic-p284-mcq-01",
+   "deck": "Infection Control",
+   "section": "Other sterilization methods",
+   "page": 284,
+   "question": "A heat-sensitive semi-critical item must be reprocessed in a dental office where heat sterilization isn't possible. Which method does the book recommend?",
+   "options": [
+    "A. Flash sterilization",
+    "B. Cold sterilization (immersion in an EPA-approved chemical)",
+    "C. Dry heat",
+    "D. Steam autoclave, gravity displacement"
+   ],
+   "answer": "B. Cold sterilization (immersion in an EPA-approved chemical)",
+   "explanation": "Cold sterilization is used when heat sterilization isn't possible for semi-critical items (never critical or single-use items). Flash sterilization is still steam at 121–135°C, so it is not an option for heat-sensitive items."
+  },
+  {
+   "id": "ic-p285-mcq-01",
+   "deck": "Infection Control",
+   "section": "Sterilizer monitoring",
+   "page": 285,
+   "question": "Which sterilizer monitoring result is available only after a delay of 24–48 hours?",
+   "options": [
+    "A. Pressure gauge readings",
+    "B. Autoclave tape color change",
+    "C. Internal multi-parameter indicator",
+    "D. Spore test"
+   ],
+   "answer": "D. Spore test",
+   "explanation": "Spore tests must be incubated, so results take 24–48 hours (faster in-office, slower by mail). Mechanical and chemical results, including internal multi-parameter indicators, are immediate."
+  },
+  {
+   "id": "ic-p286-mcq-01",
+   "deck": "Infection Control",
+   "section": "Sterilization failure",
+   "page": 286,
+   "question": "A routine weekly spore test is positive. Mechanical readings and chemical indicators for that load were normal, and no implants were processed. What should be done first?",
+   "options": [
+    "A. Remove the sterilizer from service permanently",
+    "B. Recall every instrument processed since the last negative test",
+    "C. Repeat the spore test immediately after correctly loading the sterilizer",
+    "D. Ignore the result and retest next week"
+   ],
+   "answer": "C. Repeat the spore test immediately after correctly loading the sterilizer",
+   "explanation": "With normal mechanical and chemical indicators, one positive spore test does not mean malfunction. Repeat it right away after loading correctly. Only implantable devices must be recalled. The sterilizer is removed from service only if the repeat test is also positive."
+  },
+  {
+   "id": "ic-p287-mcq-01",
+   "deck": "Infection Control",
+   "section": "Viruses",
+   "page": 287,
+   "question": "A child presents with fever, oral ulcers, and vesicles on the hands and feet. Which virus is the most likely cause?",
+   "options": [
+    "A. Herpes simplex virus",
+    "B. Coxsackie virus",
+    "C. Epstein-Barr virus",
+    "D. Varicella zoster virus"
+   ],
+   "answer": "B. Coxsackie virus",
+   "explanation": "Hand, foot and mouth disease is caused by Coxsackie virus. HSV causes primary herpetic gingivostomatitis and recurrent herpes, not lesions on the hands and feet."
+  },
+  {
+   "id": "ic-p288-mcq-01",
+   "deck": "Infection Control",
+   "section": "Vaccines for healthcare workers",
+   "page": 288,
+   "question": "A new dental hygienist asks which bloodborne infections she cannot be vaccinated against. Which pair is correct?",
+   "options": [
+    "A. Hepatitis B and hepatitis D",
+    "B. Hepatitis C and HIV",
+    "C. Hepatitis B and HIV",
+    "D. Hepatitis D and hepatitis C"
+   ],
+   "answer": "B. Hepatitis C and HIV",
+   "explanation": "There is no vaccine for hepatitis C or HIV. The hepatitis B vaccine also protects against hepatitis D, because HDV only occurs with HBV."
+  },
+  {
+   "id": "ic-p288-mcq-02",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "question": "A dental office wants to confirm that the product used to disinfect countertops and the dental chair is approved. Which agency approves it?",
+   "options": [
+    "A. FDA",
+    "B. EPA",
+    "C. OSHA",
+    "D. CDC"
+   ],
+   "answer": "B. EPA",
+   "explanation": "The EPA approves disinfectants for environmental surfaces. The FDA approves devices, sterilizers and disinfectants for instruments, not surface disinfectants."
+  },
+  {
+   "id": "ic-p288-mcq-03",
+   "deck": "Infection Control",
+   "section": "Agencies",
+   "page": 288,
+   "question": "All of the following are true of the CDC EXCEPT:",
+   "options": [
+    "A. It develops national infection prevention guidelines for dental settings",
+    "B. It issues guidance on dental waterlines and post-exposure protocols",
+    "C. It inspects dental offices and enforces the Bloodborne Pathogens Standard",
+    "D. It is a federal advisory agency"
+   ],
+   "answer": "C. It inspects dental offices and enforces the Bloodborne Pathogens Standard",
+   "explanation": "The CDC advises; it does not enforce laws, inspect offices or approve products. OSHA enforces the Bloodborne Pathogens Standard."
+  },
+  {
+   "id": "ic-quiz-01",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "Which item is correctly paired with its required level of processing?",
+   "options": [
+    "A. Radiographic receptor holder – Intermediate-level disinfection",
+    "B. X-ray tube head – Heat sterilization",
+    "C. Mouth mirror – Heat sterilization or high-level disinfection",
+    "D. Blood pressure cuff – High-level disinfection"
+   ],
+   "answer": "C. Mouth mirror – Heat sterilization or high-level disinfection",
+   "explanation": "Mouth mirrors are semi-critical items that contact mucous membranes and must be either heat sterilized or high-level disinfected. Radiographic receptor holders are also semi-critical (same rule applies). X-ray tube heads and blood pressure cuffs are non-critical and only require low- or intermediate-level disinfection. (The book says \"film holder\"; the exam uses image receptor.)"
+  },
+  {
+   "id": "ic-quiz-02",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "You open a pack of sterilized instruments and notice that the external chemical tape has changed color, but the internal indicator shows no change. What is the most appropriate next step?",
+   "options": [
+    "A. Use the instruments but record the incident.",
+    "B. Repeat the chemical test in the next load.",
+    "C. Consider the instruments unsterile and reprocess them.",
+    "D. Disregard the internal indicator; external is sufficient."
+   ],
+   "answer": "C. Consider the instruments unsterile and reprocess them.",
+   "explanation": "An external indicator only confirms that the package was exposed to sterilization conditions. Only the internal indicator confirms penetration of the sterilant. A failed internal indicator suggests that the instruments were not properly sterilized, and they must be reprocessed."
+  },
+  {
+   "id": "ic-quiz-03",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "A sterilization pouch shows black lines on the tape but inside instruments are still contaminated. What does this suggest?",
+   "options": [
+    "A. Sterilization was successful",
+    "B. The chemical indicator malfunctioned",
+    "C. Only external indicators were used",
+    "D. Biological indicator was positive"
+   ],
+   "answer": "C. Only external indicators were used",
+   "explanation": "External indicators (e.g., tape) only confirm exposure to heat. They do not confirm sterilant penetration. Internal indicators or biological monitoring are needed."
+  },
+  {
+   "id": "ic-quiz-04",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "Which pathogen is not transmitted through saliva or aerosols in dental settings?",
+   "options": [
+    "A. Herpes simplex virus",
+    "B. Hepatitis B",
+    "C. HIV",
+    "D. Varicella-zoster virus"
+   ],
+   "answer": "C. HIV",
+   "explanation": "HIV is not spread through saliva or aerosols. In dental settings it spreads via blood, through needlesticks or mucosal exposure."
+  },
+  {
+   "id": "ic-quiz-05",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "Which infection control principle is the foundation for treating all patients as potentially infectious?",
+   "options": [
+    "A. Airborne precautions",
+    "B. Standard precautions",
+    "C. Droplet isolation",
+    "D. Universal sterilization"
+   ],
+   "answer": "B. Standard precautions",
+   "explanation": "Standard precautions assume all blood, saliva, and body fluids may carry infection, even in asymptomatic patients."
+  },
+  {
+   "id": "ic-quiz-06",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "A dental unit waterline is flushed for only 5 seconds between patients. Which outcome is most likely?",
+   "options": [
+    "A. Water will become sterile",
+    "B. Risk of biofilm transmission increases",
+    "C. Water becomes too warm",
+    "D. Patient develops chemical sensitivity"
+   ],
+   "answer": "B. Risk of biofilm transmission increases",
+   "explanation": "Inadequate flushing increases the risk of biofilm buildup and exposure to bacteria. Guidelines recommend 20–30 seconds between patients."
+  },
+  {
+   "id": "ic-quiz-07",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "Which type of sterilization is best suited for maintaining sharp edges and avoiding corrosion in instruments?",
+   "options": [
+    "A. Steam autoclave",
+    "B. Ethylene oxide gas",
+    "C. Dry heat",
+    "D. Flash sterilization"
+   ],
+   "answer": "C. Dry heat",
+   "explanation": "Dry heat sterilization maintains the sharpness of instruments and does not cause corrosion, unlike moist heat."
+  },
+  {
+   "id": "ic-quiz-08",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "Which of the following diseases requires airborne precautions (e.g., N95 respirator) during aerosol-generating dental procedures?",
+   "options": [
+    "A. Herpes simplex virus",
+    "B. Mumps",
+    "C. COVID-19",
+    "D. Epstein Barr virus"
+   ],
+   "answer": "C. COVID-19",
+   "explanation": "COVID-19 typically spreads by droplets, but during aerosol-generating procedures airborne precautions like N95 masks are required. The other options spread mainly by droplets."
+  },
+  {
+   "id": "ic-quiz-09",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "In the chain of infection, what is the role of improperly canned food containing C. botulinum toxin?",
+   "options": [
+    "A. Reservoir",
+    "B. Portal of exit",
+    "C. Vehicle",
+    "D. Vector"
+   ],
+   "answer": "C. Vehicle",
+   "explanation": "The improperly canned food is a vehicle because it carries the toxin to the host. The actual reservoir is soil, where the organism naturally lives."
+  },
+  {
+   "id": "ic-quiz-10",
+   "deck": "Quizzes",
+   "section": "Infection Control bonus quiz",
+   "page": 289,
+   "question": "Which of the following statements about HIV transmission in dentistry is TRUE?",
+   "options": [
+    "A. HIV is airborne and requires N95 use",
+    "B. HIV is commonly transmitted through saliva",
+    "C. Risk of HIV transmission after needlestick is approximately 0.3%",
+    "D. HIV survives on surfaces for 30 days"
+   ],
+   "answer": "C. Risk of HIV transmission after needlestick is approximately 0.3%",
+   "explanation": "The risk of HIV transmission after a needlestick from HIV+ blood is about 0.3%. HIV is not airborne and does not spread through saliva."
+  }
+ ]
+}

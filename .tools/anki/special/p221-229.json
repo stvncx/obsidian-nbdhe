@@ -1,0 +1,2099 @@
+{
+ "diagrams": [
+  {
+   "name": "spec-p221-diabetes",
+   "title": "Diabetes mellitus: healthy vs Type 1 vs Type 2",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 21,
+   "page": 221,
+   "crop": [
+    150,
+    225,
+    1250,
+    860
+   ],
+   "labels": [
+    {
+     "box": [
+      270,
+      327,
+      397,
+      372
+     ],
+     "answer": "Healthy",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      613,
+      329,
+      725,
+      373
+     ],
+     "answer": "Type 1",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      960,
+      330,
+      1070,
+      373
+     ],
+     "answer": "Type 2",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      303,
+      459,
+      416,
+      494
+     ],
+     "answer": "Pancreas",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      667,
+      501,
+      859,
+      561
+     ],
+     "answer": "Pancreas fails to produce insulin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      164,
+      530,
+      266,
+      566
+     ],
+     "answer": "Glucose",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      348,
+      596,
+      434,
+      630
+     ],
+     "answer": "Insulin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      348,
+      640,
+      532,
+      674
+     ],
+     "answer": "Insulin receptor",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      888,
+      783,
+      1120,
+      845
+     ],
+     "answer": "Cells fail to respond to circulating insulin",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p223-adrenal-pituitary",
+   "title": "Adrenal glands and pituitary gland",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 23,
+   "page": 223,
+   "crop": [
+    80,
+    370,
+    1250,
+    990
+   ],
+   "labels": [
+    {
+     "box": [
+      213,
+      484,
+      378,
+      520
+     ],
+     "answer": "Adrenal gland",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      510,
+      540,
+      712,
+      567
+     ],
+     "answer": "Adrenal medulla",
+     "fit": "text"
+    },
+    {
+     "box": [
+      580,
+      866,
+      760,
+      899
+     ],
+     "answer": "Adrenal cortex",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1031,
+      721,
+      1193,
+      756
+     ],
+     "answer": "Pituitary gland",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p226-hemodialysis",
+   "title": "Hemodialysis",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 26,
+   "page": 226,
+   "crop": [
+    500,
+    690,
+    1240,
+    1270
+   ],
+   "labels": [
+    {
+     "box": [
+      940,
+      714,
+      1142,
+      744
+     ],
+     "answer": "Venous pressure monitor",
+     "fit": "text"
+    },
+    {
+     "box": [
+      944,
+      745,
+      1132,
+      773
+     ],
+     "answer": "Air trap and air detector",
+     "fit": "text"
+    },
+    {
+     "box": [
+      520,
+      790,
+      632,
+      818
+     ],
+     "answer": "Saline solution",
+     "fit": "text"
+    },
+    {
+     "box": [
+      980,
+      782,
+      1086,
+      810
+     ],
+     "answer": "Clean blood",
+     "fit": "text"
+    },
+    {
+     "box": [
+      514,
+      902,
+      636,
+      930
+     ],
+     "answer": "Fresh dialysate",
+     "fit": "text"
+    },
+    {
+     "box": [
+      818,
+      934,
+      894,
+      962
+     ],
+     "answer": "Dialyser",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1030,
+      946,
+      1098,
+      974
+     ],
+     "answer": "Patient",
+     "fit": "text"
+    },
+    {
+     "box": [
+      514,
+      962,
+      630,
+      990
+     ],
+     "answer": "Used dialysate",
+     "fit": "text"
+    },
+    {
+     "box": [
+      514,
+      1026,
+      630,
+      1072
+     ],
+     "answer": "Inflow pressure monitor",
+     "fit": "text"
+    },
+    {
+     "box": [
+      760,
+      1170,
+      866,
+      1198
+     ],
+     "answer": "Blood pump",
+     "fit": "text"
+    },
+    {
+     "box": [
+      582,
+      1206,
+      730,
+      1254
+     ],
+     "answer": "Heparin pump (to prevent clotting)",
+     "fit": "text"
+    },
+    {
+     "box": [
+      752,
+      1206,
+      892,
+      1254
+     ],
+     "answer": "Arterial pressure monitor",
+     "fit": "text"
+    },
+    {
+     "box": [
+      912,
+      1206,
+      1044,
+      1254
+     ],
+     "answer": "Removed blood for cleaning",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "spec-p221-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Type 1 diabetes is caused by {{c1::autoimmune destruction of the pancreatic beta cells}}, so no insulin is produced."
+  },
+  {
+   "id": "spec-p221-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Type 2 diabetes is caused by {{c1::insulin resistance}} or reduced insulin output."
+  },
+  {
+   "id": "spec-p221-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Type 1 diabetes has a {{c1::sudden}} onset, usually in {{c2::childhood or adolescence}}."
+  },
+  {
+   "id": "spec-p221-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Type 2 diabetes has a {{c1::gradual}} onset, usually in {{c2::adults}} (but rising in younger people)."
+  },
+  {
+   "id": "spec-p221-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Body type: Type 1 diabetics are usually {{c1::thin or normal weight}}; Type 2 diabetics are usually {{c2::overweight or obese}}."
+  },
+  {
+   "id": "spec-p221-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Insulin is {{c1::always}} required in Type 1 diabetes; Type 2 may be managed with {{c2::oral meds, lifestyle changes}}, or insulin."
+  },
+  {
+   "id": "spec-p221-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Classic diabetes symptoms: {{c1::polyuria}} (frequent urination), {{c2::polydipsia}} (excess thirst), {{c3::polyphagia}} (excess hunger), plus weight loss and fatigue.",
+   "extra": "Type 2 has the same symptoms, but they are often milder or unnoticed for years."
+  },
+  {
+   "id": "spec-p221-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "In Type 1 diabetes there is a risk of {{c1::diabetic ketoacidosis (DKA)}}: the body burns fat → acidic ketones, {{c2::fruity breath}}, coma.",
+   "extra": "In Type 2, DKA is rare but possible in advanced cases."
+  },
+  {
+   "id": "spec-p221-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Long-term complications of diabetes (both types) include damage to the {{c1::eyes, kidneys, nerves and heart}}."
+  },
+  {
+   "id": "spec-p221-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Diabetes medication can cause {{c1::hypoglycemia}} — keep a {{c2::glucose source}} ready at dental visits."
+  },
+  {
+   "id": "spec-p221-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Diabetes (both types) carries a high risk of {{c1::periodontal disease}} and oral infections such as {{c2::candidiasis}}."
+  },
+  {
+   "id": "spec-p221-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Other oral findings in diabetes: {{c1::xerostomia}}, {{c2::delayed healing}}, {{c3::burning mouth}} and taste changes."
+  },
+  {
+   "id": "spec-p221-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "Schedule diabetic patients for {{c1::short, morning}} visits."
+  },
+  {
+   "id": "spec-p221-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "text": "The {{c1::oral glucose tolerance test (OGTT)}} measures blood sugar {{c2::2 hours}} after drinking a sugary drink; 200 mg/dL or more = diabetes."
+  },
+  {
+   "id": "spec-p222-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "A1C and ketoacidosis",
+   "page": 222,
+   "text": "An A1C below {{c1::5.7%}} is normal."
+  },
+  {
+   "id": "spec-p222-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "A1C and ketoacidosis",
+   "page": 222,
+   "text": "An A1C of 5.7%–6.4% indicates {{c1::prediabetes}}."
+  },
+  {
+   "id": "spec-p222-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "A1C and ketoacidosis",
+   "page": 222,
+   "text": "An A1C of {{c1::6.5%}} or higher = diabetes diagnosis.",
+   "extra": "Don't be confused! 6.5%+ means the patient already HAS diabetes — the 7% target is for keeping blood sugar under control once diabetes is confirmed, not for diagnosis."
+  },
+  {
+   "id": "spec-p222-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "A1C and ketoacidosis",
+   "page": 222,
+   "text": "For most diabetic patients the A1C target (well-controlled diabetes) is {{c1::below 7%}} — individual targets may vary.",
+   "extra": "A1C <7% means blood sugar is well controlled, reducing complications including periodontal disease."
+  },
+  {
+   "id": "spec-p222-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "A1C and ketoacidosis",
+   "page": 222,
+   "text": "AAP perio classification: diabetes affects {{c1::grading}} — A1C <7% = {{c2::Grade B}}, A1C ≥7% = {{c3::Grade C}} (faster disease progression)."
+  },
+  {
+   "id": "spec-p222-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "The {{c1::thyroid gland}} controls metabolism by producing the hormones {{c2::T3 and T4}}, which regulate how fast the body uses energy, how warm we feel and how fast the heart beats."
+  },
+  {
+   "id": "spec-p222-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "In {{c1::hypothyroidism}} ('slow') not enough T3/T4 is produced, slowing body functions; in {{c2::hyperthyroidism}} ('fast') too much is produced, speeding up metabolism."
+  },
+  {
+   "id": "spec-p222-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "Common causes of hypothyroidism: {{c1::Hashimoto's}} (autoimmune) and {{c2::iodine deficiency}}."
+  },
+  {
+   "id": "spec-p222-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "The common cause of hyperthyroidism is {{c1::Graves' disease}} (autoimmune overstimulation)."
+  },
+  {
+   "id": "spec-p222-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "Temperature: hypothyroidism → {{c1::cold}} intolerance; hyperthyroidism → {{c2::heat}} intolerance."
+  },
+  {
+   "id": "spec-p222-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "Heart rate: hypothyroidism → {{c1::bradycardia}} (slow); hyperthyroidism → {{c2::tachycardia}} (fast)."
+  },
+  {
+   "id": "spec-p222-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "Weight: hypothyroidism → weight {{c1::gain}} with {{c2::decreased}} appetite; hyperthyroidism → weight loss with increased appetite."
+  },
+  {
+   "id": "spec-p222-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "Oral findings in hypothyroidism: {{c1::macroglossia}} (enlarged tongue), dry mouth (xerostomia), {{c2::delayed eruption}} of teeth, malocclusion and an underdeveloped jaw."
+  },
+  {
+   "id": "spec-p222-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "Oral findings in hyperthyroidism: {{c1::burning tongue}}, {{c2::early eruption}} of teeth (in children) and stress sensitivity."
+  },
+  {
+   "id": "spec-p222-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "Dental implications of hypothyroidism: monitor for {{c1::dry mouth}}, cold sensitivity and {{c2::delayed healing}}."
+  },
+  {
+   "id": "spec-p222-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "text": "Dental implications of hyperthyroidism: use stress reduction, {{c1::limit epinephrine}} and monitor for {{c2::cardiac symptoms}}."
+  },
+  {
+   "id": "spec-p223-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 223,
+   "text": "{{c1::Graves' disease}} is an autoimmune condition that causes hyperthyroidism; its hallmark sign is {{c2::exophthalmos}} (bulging eyes), plus goiter, insomnia and high anxiety."
+  },
+  {
+   "id": "spec-p223-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "The adrenal glands sit {{c1::on top of each kidney}}.",
+   "extra": "They produce key hormones that regulate stress response, blood pressure, metabolism and fluid balance."
+  },
+  {
+   "id": "spec-p223-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "The adrenal {{c1::cortex}} is the outer layer of the adrenal gland; the adrenal {{c2::medulla}} is the inner part."
+  },
+  {
+   "id": "spec-p223-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "The adrenal cortex makes {{c1::cortisol}} (stress hormone) and {{c2::aldosterone}} (controls salt and water balance)."
+  },
+  {
+   "id": "spec-p223-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "The adrenal medulla makes {{c1::epinephrine and norepinephrine}}, which increase heart rate and blood flow during stress ('fight or flight')."
+  },
+  {
+   "id": "spec-p223-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "Cortisol helps the body manage stress, regulate {{c1::metabolism}} and maintain {{c2::blood pressure}}."
+  },
+  {
+   "id": "spec-p223-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "Constant stress keeps cortisol high, which can shrink the {{c1::hippocampus}} — the part of the brain that controls memory.",
+   "extra": "Did you know? Short bursts of stress help you stay alert before an exam; constant worry backfires."
+  },
+  {
+   "id": "spec-p223-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "Addison's disease = {{c1::hypocortisolism}}; Cushing's syndrome = {{c2::hypercortisolism}}."
+  },
+  {
+   "id": "spec-p223-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "Addison's disease is caused by destruction of the {{c1::adrenal cortex}} → too little {{c2::cortisol and aldosterone}}.",
+   "extra": "WakeUpMemory: Addison's = \"Need to ADD cortisol\" — low energy, low BP → everything is down."
+  },
+  {
+   "id": "spec-p223-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "Cushing's syndrome is excess cortisol, often due to a {{c1::tumor}} or {{c2::long-term steroid use}}.",
+   "extra": "WakeUpMemory: Cushing's = \"Cushy cushion\" — weight gain, moon face, buffalo hump (fat at the back of the neck)."
+  },
+  {
+   "id": "spec-p223-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "Main symptoms of Addison's disease: fatigue, {{c1::low BP}}, poor stress tolerance and skin/oral {{c2::pigmentation}}."
+  },
+  {
+   "id": "spec-p223-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "Main symptoms of Cushing's syndrome: weight gain, {{c1::moon face}}, {{c2::buffalo hump}}, high BP and poor healing."
+  },
+  {
+   "id": "spec-p223-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "The oral finding of Addison's disease is {{c1::brown/bronze pigmentation}} of the buccal mucosa and gingiva."
+  },
+  {
+   "id": "spec-p223-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "Oral findings of Cushing's syndrome: early tooth loss, early eruption, large mandible, {{c1::osteoporosis of alveolar bone}}, periodontal breakdown and delayed healing."
+  },
+  {
+   "id": "spec-p223-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "text": "In Addison's disease, stress can trigger an {{c1::adrenal crisis}} — a life-threatening emergency.",
+   "extra": "Cushing's: no crisis, but an exaggerated stress response and poor wound healing."
+  },
+  {
+   "id": "spec-p224-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 224,
+   "text": "In Addison's disease the body struggles with {{c1::stress}}, {{c2::salt balance}} and blood pressure because it lacks cortisol and aldosterone."
+  },
+  {
+   "id": "spec-p224-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 224,
+   "text": "In Cushing's syndrome too much cortisol leads to weight gain, {{c1::fragile tissues}} and poor healing."
+  },
+  {
+   "id": "spec-p224-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "text": "The {{c1::pituitary gland}} ('master gland') sits at the {{c2::base of the brain}} and controls many other glands."
+  },
+  {
+   "id": "spec-p224-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "text": "The pituitary releases {{c1::growth hormone (GH)}}, {{c2::thyroid-stimulating hormone (TSH)}} and others that regulate growth, metabolism and reproduction."
+  },
+  {
+   "id": "spec-p224-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "text": "Growth hormone affects height, bone size and soft tissues like the {{c1::jaw and tongue}}."
+  },
+  {
+   "id": "spec-p224-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "text": "Pituitary dwarfism: {{c1::↓ growth hormone}}, occurs in {{c2::childhood}}; short stature with normal proportions."
+  },
+  {
+   "id": "spec-p224-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "text": "Gigantism: ↑ growth hormone {{c1::before}} the growth plates close (childhood); excessive height, long limbs."
+  },
+  {
+   "id": "spec-p224-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "text": "Acromegaly: ↑ growth hormone {{c1::after}} the growth plates close ({{c2::adulthood}}); bone thickening in face, hands, feet; joint pain.",
+   "extra": "WakeUpMemory: Acromegaly = \"Adult = After plates close.\" Pituitary dwarfism and gigantism occur in childhood."
+  },
+  {
+   "id": "spec-p224-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "text": "Oral findings of pituitary dwarfism: {{c1::delayed eruption}}, small jaws, crowded teeth."
+  },
+  {
+   "id": "spec-p224-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "text": "Oral findings of gigantism: {{c1::enlarged jaws}}, spacing, delayed eruption."
+  },
+  {
+   "id": "spec-p224-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "text": "Oral findings of acromegaly: {{c1::macroglossia}}, large mandible, spacing and {{c2::TMJ}} issues."
+  },
+  {
+   "id": "spec-p224-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Hepatitis is {{c1::liver inflammation}} caused by a virus; the types most relevant for dentistry are Hepatitis A, B, C and D."
+  },
+  {
+   "id": "spec-p224-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Hepatitis {{c1::E}} (HEV) spreads through contaminated water like Hep A, but is rare in North America."
+  },
+  {
+   "id": "spec-p224-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Hepatitis A is transmitted by the {{c1::fecal–oral}} route (contaminated food/water)."
+  },
+  {
+   "id": "spec-p224-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Hepatitis B is transmitted through blood, {{c1::saliva}}, sexual fluids and {{c2::perinatally}}."
+  },
+  {
+   "id": "spec-p224-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Hepatitis C is transmitted {{c1::bloodborne}} (needles, transfusions)."
+  },
+  {
+   "id": "spec-p224-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Hepatitis D is bloodborne and occurs {{c1::only in people with Hep B}}."
+  },
+  {
+   "id": "spec-p224-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Onset: Hep A is {{c1::acute only}}; Hep B is acute or chronic; Hep C is {{c2::often chronic}}; Hep D is chronic (more severe than HBV alone)."
+  },
+  {
+   "id": "spec-p224-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Vaccines exist for Hepatitis {{c1::A and B}}; there is no vaccine for Hep C or Hep D — but Hep D is {{c2::prevented by the HBV vaccine}}.",
+   "extra": "Healthcare professionals need the Hep B vaccine."
+  },
+  {
+   "id": "spec-p224-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Chronic infection risk: Hep A {{c1::none}}; Hep B moderate; Hep C {{c2::high}}; Hep D high (co-infection worsens liver damage)."
+  },
+  {
+   "id": "spec-p224-021",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "text": "Oral (saliva) transmission risk is {{c1::moderate}} for Hep B (saliva, gingival fluid), minimal for Hep A and very low for Hep C and Hep D."
+  },
+  {
+   "id": "spec-p224-022",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tuberculosis (TB)",
+   "page": 224,
+   "text": "Tuberculosis is a chronic bacterial infection caused by {{c1::Mycobacterium tuberculosis}} that mainly affects the {{c2::lungs}}."
+  },
+  {
+   "id": "spec-p224-023",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tuberculosis (TB)",
+   "page": 224,
+   "text": "TB spreads by {{c1::inhalation of airborne droplets}} from a cough, sneeze or speech of an infected person."
+  },
+  {
+   "id": "spec-p224-024",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tuberculosis (TB)",
+   "page": 224,
+   "text": "TB symptoms: {{c1::persistent cough}}, {{c2::night sweats}}, fever, fatigue and weight loss."
+  },
+  {
+   "id": "spec-p224-025",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tuberculosis (TB)",
+   "page": 224,
+   "text": "Oral findings in TB are rare but may include {{c1::painful ulcers}} on the tongue or palate."
+  },
+  {
+   "id": "spec-p224-026",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tuberculosis (TB)",
+   "page": 224,
+   "text": "Before elective treatment, ask about a history of TB and confirm {{c1::medical clearance}}."
+  },
+  {
+   "id": "spec-p225-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tuberculosis (TB)",
+   "page": 225,
+   "text": "If a patient with TB is actively contagious, use an {{c1::N95 mask}} and {{c2::postpone non-urgent care}}."
+  },
+  {
+   "id": "spec-p225-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tuberculosis (TB)",
+   "page": 225,
+   "text": "Do not use {{c1::ultrasonic scalers or high-speed handpieces}} if a patient's TB status is unclear."
+  },
+  {
+   "id": "spec-p225-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tuberculosis (TB)",
+   "page": 225,
+   "text": "Notify {{c1::public health authorities}} if undiagnosed active TB is suspected."
+  },
+  {
+   "id": "spec-p225-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "HIV attacks and destroys {{c1::CD4 T-cells}} (a type of white blood cell), weakening the immune system."
+  },
+  {
+   "id": "spec-p225-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "A normal CD4 count is {{c1::500–1,600}}/mm³."
+  },
+  {
+   "id": "spec-p225-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "{{c1::AIDS}} is the final stage of HIV; death usually results from {{c2::opportunistic infections}}."
+  },
+  {
+   "id": "spec-p225-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "HIV spreads through {{c1::blood, semen, vaginal fluids and breast milk}} — not through saliva or casual contact."
+  },
+  {
+   "id": "spec-p225-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "HIV may be asymptomatic for years; later stages show fever, weight loss, fatigue, night sweats and {{c1::swollen lymph nodes}}."
+  },
+  {
+   "id": "spec-p225-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "{{c1::Antiretroviral therapy (ART)}} prolongs life and reduces HIV transmission."
+  },
+  {
+   "id": "spec-p225-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "The most common oral finding in HIV is {{c1::candidiasis}}."
+  },
+  {
+   "id": "spec-p225-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "In HIV, {{c1::linear gingival erythema}} appears as a red band at the gingival margin."
+  },
+  {
+   "id": "spec-p225-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "In HIV, {{c1::hairy leukoplakia}} appears as a white patch on the tongue border."
+  },
+  {
+   "id": "spec-p225-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "In HIV, {{c1::Kaposi's sarcoma}} appears as red/purple lesions, often on the palate."
+  },
+  {
+   "id": "spec-p225-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "Other HIV oral findings: {{c1::NUG/NUP}} and persistent herpes (widespread, long-lasting)."
+  },
+  {
+   "id": "spec-p225-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "Treat HIV patients with {{c1::standard precautions}}."
+  },
+  {
+   "id": "spec-p225-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "In HIV patients monitor for oral signs of {{c1::immunosuppression}} (e.g., thrush, unexplained ulcers); they may require antifungals or antibiotics for opportunistic infections."
+  },
+  {
+   "id": "spec-p225-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "text": "In HIV, avoid elective care during acute illness or {{c1::uncontrolled viral load}}."
+  },
+  {
+   "id": "spec-p225-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Syphilis",
+   "page": 225,
+   "text": "Primary syphilis appears about {{c1::3 weeks}} after exposure as a {{c2::painless chancre}} at the infection site (orally: on lips/tongue)."
+  },
+  {
+   "id": "spec-p225-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Syphilis",
+   "page": 225,
+   "text": "Secondary syphilis appears about {{c1::6 weeks}} after the chancre heals: skin rash, fever, malaise and {{c2::mucous patches}} on the oral mucosa."
+  },
+  {
+   "id": "spec-p225-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Syphilis",
+   "page": 225,
+   "text": "Latent syphilis: early = {{c1::<1 year}} after infection, late = >1 year; no symptoms, but still infected.",
+   "extra": "Contagious? Early latent = possibly; late latent = no."
+  },
+  {
+   "id": "spec-p225-021",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Syphilis",
+   "page": 225,
+   "text": "Tertiary syphilis occurs years after an untreated latent stage: organ damage (brain, heart, nerves) and {{c1::gummas}}; orally a gumma on the palate or tongue → possible {{c2::perforation}}."
+  },
+  {
+   "id": "spec-p225-022",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Syphilis",
+   "page": 225,
+   "text": "Syphilis is contagious in the {{c1::primary and secondary}} stages, possibly in early latent, and not in late latent or tertiary."
+  },
+  {
+   "id": "spec-p225-023",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Syphilis",
+   "page": 225,
+   "text": "Syphilis cases are rising worldwide — nearly {{c1::tripling}} in the past decade in the U.S. and Canada, including young adults.",
+   "extra": "Oral lesions (especially in secondary syphilis) can appear on the tongue, lips or palate and may look like other conditions."
+  },
+  {
+   "id": "spec-p225-024",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 225,
+   "text": "HSV-1 (oral herpes) typically affects the {{c1::mouth, lips and face}}; HSV-2 the {{c2::genital region}}."
+  },
+  {
+   "id": "spec-p225-025",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 225,
+   "text": "Primary HSV-1 infection = {{c1::primary herpetic gingivostomatitis}}: fever, malaise, painful red gums, ulcers on tongue/lips; mostly in {{c2::children}}.",
+   "extra": "Primary HSV-2 is often asymptomatic or a mild flu-like illness."
+  },
+  {
+   "id": "spec-p225-026",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 225,
+   "text": "Recurrent HSV-1 = {{c1::recurrent herpes labialis}} (cold sores): tingling → lip sore in the same location.",
+   "extra": "Recurrent HSV-2: genital sores triggered by illness or stress."
+  },
+  {
+   "id": "spec-p225-027",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 225,
+   "text": "Recurrent herpes labialis is triggered by stress, {{c1::sunlight}}, trauma and {{c2::dental care}}."
+  },
+  {
+   "id": "spec-p225-028",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 225,
+   "text": "HSV-1 lies latent in the {{c1::trigeminal ganglion}}; HSV-2 in the {{c2::sacral ganglion}}."
+  },
+  {
+   "id": "spec-p225-029",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 225,
+   "text": "HSV-1 is transmitted by {{c1::saliva}}, kissing, shared utensils and aerosol contact; HSV-2 by sexual contact."
+  },
+  {
+   "id": "spec-p226-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 226,
+   "text": "HSV-1 is highly contagious during both primary and {{c1::recurrent}} outbreaks — {{c2::delay elective care}} if active.",
+   "extra": "HSV-2 is contagious even without visible sores."
+  },
+  {
+   "id": "spec-p226-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 226,
+   "text": "Healing time of HSV-1: primary {{c1::10–14 days}}; recurrent {{c2::7–10 days}}. (HSV-2: 2–3 weeks.)"
+  },
+  {
+   "id": "spec-p226-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 226,
+   "text": "HSV-1 in the dental setting carries a very high risk of {{c1::herpetic whitlow}}, eye infection and aerosol transmission — use PPE and reschedule non-urgent care during active outbreaks.",
+   "extra": "HSV-2 dental relevance is low unless cross-infection occurs via oral–genital contact."
+  },
+  {
+   "id": "spec-p226-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 226,
+   "text": "Herpes is treated with {{c1::acyclovir}} or valacyclovir (especially early in the outbreak), plus palliative care for discomfort."
+  },
+  {
+   "id": "spec-p226-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 226,
+   "text": "About 8% of human DNA comes from ancient viruses called {{c1::endogenous retroviruses (ERVs)}}.",
+   "extra": "Did you know? They inserted genetic material into reproductive cells and became part of the human genome; they helped shape pregnancy and the immune system."
+  },
+  {
+   "id": "spec-p226-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "{{c1::End-stage renal disease (ESRD)}} is the final stage of chronic kidney disease: the kidneys can no longer filter waste, leading to a buildup of toxins ({{c2::uremia}})."
+  },
+  {
+   "id": "spec-p226-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "Healthy kidneys filter waste, balance electrolytes, regulate blood pressure and activate {{c1::vitamin D}}."
+  },
+  {
+   "id": "spec-p226-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "In {{c1::hemodialysis}}, the patient's blood is removed, filtered by a machine outside the body and returned clean — like a mechanical kidney."
+  },
+  {
+   "id": "spec-p226-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "ESRD is most often caused by {{c1::diabetes}}, {{c2::hypertension}} or long-term kidney damage."
+  },
+  {
+   "id": "spec-p226-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "Signs/symptoms of ESRD: fatigue, nausea, weakness, {{c1::pale skin}} and {{c2::high blood pressure}}."
+  },
+  {
+   "id": "spec-p226-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "ESRD requires {{c1::dialysis}} (usually 2–3×/week for 3–5 hours) or a {{c2::kidney transplant}} to survive."
+  },
+  {
+   "id": "spec-p226-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "Schedule dental visits for a dialysis patient {{c1::the day after dialysis}}, when the patient is more stable and bleeding is less likely."
+  },
+  {
+   "id": "spec-p226-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "Oral signs to monitor in ESRD: {{c1::uremic breath}}, {{c2::metallic taste}}, xerostomia, candidiasis, stomatitis and bleeding gingiva."
+  },
+  {
+   "id": "spec-p226-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "{{c1::Cyclosporine}} (Sandimmune), an anti-rejection drug for transplant patients, can cause {{c2::gingival hyperplasia}}."
+  },
+  {
+   "id": "spec-p226-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "text": "The kidneys filter about {{c1::50 gallons}} of blood every day, but only about {{c2::1 to 2 quarts}} become urine.",
+   "extra": "Did you know? They reabsorb most of the water and nutrients and send only waste and excess fluid to the bladder."
+  },
+  {
+   "id": "spec-p226-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Autism spectrum disorder",
+   "page": 226,
+   "text": "Autism spectrum disorder is a {{c1::neurodevelopmental}} disorder affecting communication, social interaction and behavior."
+  },
+  {
+   "id": "spec-p226-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Autism spectrum disorder",
+   "page": 226,
+   "text": "Autism is likely linked to genetic and environmental factors; it is {{c1::not caused by vaccines}}."
+  },
+  {
+   "id": "spec-p226-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Autism spectrum disorder",
+   "page": 226,
+   "text": "Signs of autism: difficulty with {{c1::eye contact}}, sensitivity to sound or light, {{c2::repetitive behaviors}} and delayed speech."
+  },
+  {
+   "id": "spec-p226-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Autism spectrum disorder",
+   "page": 226,
+   "text": "For patients with autism keep visits {{c1::short and predictable}} and consider {{c2::pre-visit desensitization}}.",
+   "extra": "Did you know? Short, predictable visits with visual cues help."
+  },
+  {
+   "id": "spec-p226-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Autism spectrum disorder",
+   "page": 226,
+   "text": "For patients with autism use {{c1::quiet rooms, dim lighting}} and minimal waiting; avoid unnecessary touch or unexpected sounds."
+  },
+  {
+   "id": "spec-p226-021",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Autism spectrum disorder",
+   "page": 226,
+   "text": "Patients with autism may need caregiver support or {{c1::restraint}}, depending on severity."
+  },
+  {
+   "id": "spec-p226-022",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Autism spectrum disorder",
+   "page": 226,
+   "text": "Autism carries a high risk of bruxism, trauma, poor hygiene and {{c1::diet-related caries}} (especially if food is used as a reward)."
+  },
+  {
+   "id": "spec-p226-023",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Autism spectrum disorder",
+   "page": 226,
+   "text": "Many patients with autism have oral sensory issues: light touch may feel irritating, while {{c1::firm pressure}} (like a lead apron) can be calming.",
+   "extra": "They may struggle with gagging, bruxism or self-injury (like cheek biting)."
+  },
+  {
+   "id": "spec-p227-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "Down syndrome is a genetic disorder caused by an {{c1::extra chromosome 21}}, leading to physical and intellectual delays."
+  },
+  {
+   "id": "spec-p227-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "Signs of Down syndrome: short stature, {{c1::flat facial profile}}, small nose, {{c2::open mouth posture}} and low muscle tone."
+  },
+  {
+   "id": "spec-p227-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "Down syndrome: prognathic mandible with {{c1::Class III}} malocclusion and open bite due to {{c2::tongue thrusting}}."
+  },
+  {
+   "id": "spec-p227-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "In Down syndrome, open-mouth posture and mouth breathing are due to {{c1::low muscle tone}} and a large tongue, and a narrowed oropharynx with enlarged tonsils and adenoids that compromise the upper airway."
+  },
+  {
+   "id": "spec-p227-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "Down syndrome: {{c1::fissured tongue}} and cracked lips result from mouth-breathing habits (small airways contribute to mouth breathing)."
+  },
+  {
+   "id": "spec-p227-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "In Down syndrome, true macroglossia is rare — the tongue appears larger because the {{c1::mouth is small}}."
+  },
+  {
+   "id": "spec-p227-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "Down syndrome: {{c1::delayed}} exfoliation and tooth development."
+  },
+  {
+   "id": "spec-p227-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "Down syndrome: {{c1::microdontia}} with malformed teeth, anomalies in eruption and {{c2::congenitally missing teeth}}."
+  },
+  {
+   "id": "spec-p227-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "Down syndrome has a higher risk of periodontal disease due to poor oral hygiene, malocclusion, bruxism, {{c1::conical-shaped roots}} and {{c2::PMN dysfunction}}."
+  },
+  {
+   "id": "spec-p227-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "{{c1::Early-onset, severe periodontal disease}} is the most significant oral health issue in Down syndrome, affecting up to {{c2::90%}} of patients."
+  },
+  {
+   "id": "spec-p227-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "Children and young adults with Down syndrome have a {{c1::lower}} risk of dental caries because of delayed eruption, missing permanent teeth, small teeth and wider interproximal spaces."
+  },
+  {
+   "id": "spec-p227-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "In Down syndrome the palate may appear highly vaulted and narrow, from increased {{c1::thickness of the hard palate}}; this restricts the tongue and affects speaking and chewing."
+  },
+  {
+   "id": "spec-p227-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "Cleft lip and palate, as well as {{c1::bifid uvula}}, are occasionally seen in Down syndrome."
+  },
+  {
+   "id": "spec-p227-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "For patients with Down syndrome use {{c1::tell-show-do}}, short appointments and a calm tone, and stress caregiver involvement and home hygiene coaching."
+  },
+  {
+   "id": "spec-p227-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "About {{c1::40–50%}} of individuals with Down syndrome have {{c2::congenital heart defects}}; they may need premedication (consult MD).",
+   "extra": "Exam standard (AHA 2021): antibiotic prophylaxis is indicated only for certain congenital heart disease — unrepaired cyanotic CHD, CHD repaired with prosthetic material (first 6 months) or with a residual defect — so consult the physician rather than premedicating every heart defect."
+  },
+  {
+   "id": "spec-p227-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "text": "In Down syndrome, avoid neck {{c1::hyperextension}} because of {{c2::atlantoaxial instability}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "spec-p221-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "front": "What does the A1C blood test measure?",
+   "back": "Average blood sugar over the past 2–3 months — by measuring how much glucose is attached to hemoglobin in red blood cells.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p222-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "A1C and ketoacidosis",
+   "page": 222,
+   "front": "Board Alert: why always get the A1C level of a diabetic patient?",
+   "back": "Whether it is below 7 or at/above 7 gives a very good indication of the periodontal status (Grade B vs C) and of how healing will happen.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p222-b-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "A1C and ketoacidosis",
+   "page": 222,
+   "front": "Why does diabetic ketoacidosis (DKA) develop when there is no insulin (e.g., uncontrolled Type 1)?",
+   "back": "Without insulin glucose can't get into the cells and stays in the blood; the body thinks it's starving and burns fat for energy, releasing acidic ketones — too many ketones make the blood dangerously acidic.",
+   "reverse": false,
+   "extra": "Normally insulin lets glucose from food enter the cells to give them energy."
+  },
+  {
+   "id": "spec-p223-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 223,
+   "front": "Cretinism",
+   "back": "Severe hypothyroidism in infants/children → stunted growth, delayed brain development and oral underdevelopment",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "spec-p223-b-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 223,
+   "front": "Myxedema",
+   "back": "Advanced hypothyroidism in adults → marked facial puffiness, slowed speech and bradycardia",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "spec-p225-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "front": "Why isn't HIV spread through saliva?",
+   "back": "Saliva contains enzymes and antibodies that break down the virus, and the amount of virus in saliva is extremely low — not nearly enough to cause infection.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "spec-p221-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "question": "Type 1 diabetes accounts for about what percentage of diagnosed diabetes cases?",
+   "answer": "5%",
+   "extra": ""
+  },
+  {
+   "id": "spec-p221-t-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "question": "Type 2 diabetes accounts for over what percentage of diabetes cases?",
+   "answer": "90%",
+   "extra": ""
+  },
+  {
+   "id": "spec-p221-t-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "question": "Fasting blood glucose (no food for 8 hours): what value in mg/dL or more = diabetes?",
+   "answer": "126",
+   "extra": "Fasting = nothing to eat for 8 hours."
+  },
+  {
+   "id": "spec-p221-t-04",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "question": "Random blood glucose (any time, even after meals): what value in mg/dL or more, with symptoms, = diabetes?",
+   "answer": "200",
+   "extra": ""
+  },
+  {
+   "id": "spec-p224-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "question": "HBV can live on surfaces for up to how many days?",
+   "answer": "7",
+   "extra": "That is why disinfection is essential even if no symptoms are present."
+  },
+  {
+   "id": "spec-p225-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "question": "AIDS is diagnosed when the CD4 count falls below what value per mm³?",
+   "answer": "200",
+   "extra": ""
+  },
+  {
+   "id": "spec-p227-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "question": "Enamel hypocalcification occurs in about what percentage of persons with Down syndrome?",
+   "answer": "20%",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "spec-p221-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "prompt": "Match each classic diabetes symptom to its meaning.",
+   "pairs": [
+    [
+     "Polyuria",
+     "Frequent urination"
+    ],
+    [
+     "Polydipsia",
+     "Excess thirst"
+    ],
+    [
+     "Polyphagia",
+     "Excess hunger"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p222-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "A1C and ketoacidosis",
+   "page": 222,
+   "prompt": "Match each A1C value to its meaning.",
+   "pairs": [
+    [
+     "Below 5.7%",
+     "Normal"
+    ],
+    [
+     "5.7%–6.4%",
+     "Prediabetes"
+    ],
+    [
+     "6.5% or higher",
+     "Diabetes diagnosis"
+    ],
+    [
+     "< 7%",
+     "Goal: well-controlled diabetes"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p224-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Pituitary disorders",
+   "page": 224,
+   "prompt": "Match each growth-hormone disorder to its oral findings.",
+   "pairs": [
+    [
+     "Pituitary dwarfism",
+     "Delayed eruption, small jaws, crowded teeth"
+    ],
+    [
+     "Gigantism",
+     "Enlarged jaws, spacing, delayed eruption"
+    ],
+    [
+     "Acromegaly",
+     "Macroglossia, large mandible, spacing, TMJ issues"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p224-m-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "prompt": "Match each hepatitis virus to its distinguishing feature.",
+   "pairs": [
+    [
+     "HAV",
+     "Fecal–oral; acute only"
+    ],
+    [
+     "HBV",
+     "Blood, saliva, sexual fluids, perinatal"
+    ],
+    [
+     "HCV",
+     "No vaccine; high chronic risk"
+    ],
+    [
+     "HDV",
+     "Only with Hep B co-infection"
+    ],
+    [
+     "HEV",
+     "Contaminated water; rare in North America"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p225-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "HIV",
+   "page": 225,
+   "prompt": "Match each HIV-associated oral lesion to its appearance.",
+   "pairs": [
+    [
+     "Linear gingival erythema",
+     "Red band at the gingival margin"
+    ],
+    [
+     "Hairy leukoplakia",
+     "White patch on the tongue border"
+    ],
+    [
+     "Kaposi's sarcoma",
+     "Red/purple lesions, often palate"
+    ],
+    [
+     "Candidiasis",
+     "Most common oral finding (thrush)"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "spec-p225-o-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Syphilis",
+   "page": 225,
+   "prompt": "Put the stages of syphilis in order.",
+   "items": [
+    "Primary (painless chancre)",
+    "Secondary (rash, mucous patches)",
+    "Latent (no symptoms)",
+    "Tertiary (gummas, organ damage)"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "spec-p221-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "prompt": "Sort the features: Type 1 or Type 2 diabetes?",
+   "categories": [
+    [
+     "Type 1",
+     [
+      "Autoimmune beta-cell destruction",
+      "Sudden onset",
+      "Usually childhood/adolescence",
+      "Usually thin or normal weight",
+      "Insulin always required",
+      "~5% of cases"
+     ]
+    ],
+    [
+     "Type 2",
+     [
+      "Insulin resistance",
+      "Gradual onset",
+      "Usually adults",
+      "Usually overweight/obese",
+      "May use oral meds or lifestyle changes",
+      ">90% of cases"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "spec-p222-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "prompt": "Sort the systemic symptoms: hypothyroidism or hyperthyroidism?",
+   "categories": [
+    [
+     "Hypothyroidism",
+     [
+      "Fatigue",
+      "Depression",
+      "Dry skin",
+      "Slow thinking",
+      "Constipation",
+      "Cold intolerance",
+      "Bradycardia"
+     ]
+    ],
+    [
+     "Hyperthyroidism",
+     [
+      "Irritability",
+      "Nervousness/anxiety",
+      "Tremors",
+      "Sweating",
+      "Insomnia",
+      "Heat intolerance",
+      "Tachycardia"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "spec-p222-s-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "prompt": "Sort the oral findings: hypothyroidism or hyperthyroidism?",
+   "categories": [
+    [
+     "Hypothyroidism",
+     [
+      "Macroglossia",
+      "Dry mouth",
+      "Delayed eruption",
+      "Malocclusion",
+      "Underdeveloped jaw"
+     ]
+    ],
+    [
+     "Hyperthyroidism",
+     [
+      "Burning tongue",
+      "Early eruption",
+      "Stress sensitivity"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "spec-p223-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "prompt": "Sort the features: Addison's disease or Cushing's syndrome?",
+   "categories": [
+    [
+     "Addison's",
+     [
+      "Low BP",
+      "Poor stress tolerance",
+      "Too little aldosterone",
+      "Destroyed adrenal cortex"
+     ]
+    ],
+    [
+     "Cushing's",
+     [
+      "High BP",
+      "Moon face",
+      "Buffalo hump",
+      "Osteoporosis of alveolar bone",
+      "Long-term steroid use"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "spec-p221-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "question": "A patient with poorly controlled Type 1 diabetes is drowsy and has a fruity breath odor. Which condition is most likely developing?",
+   "options": [
+    "A. Hypoglycemia",
+    "B. Diabetic ketoacidosis",
+    "C. Uremia",
+    "D. Adrenal crisis"
+   ],
+   "answer": "B. Diabetic ketoacidosis",
+   "explanation": "Without insulin the body burns fat, producing acidic ketones (fruity breath) that can lead to coma = DKA. Hypoglycemia is the medication-related low-sugar emergency and has no fruity breath."
+  },
+  {
+   "id": "spec-p221-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Diabetes mellitus",
+   "page": 221,
+   "question": "Which appointment plan is best for a patient with diabetes?",
+   "options": [
+    "A. Long afternoon visit after lunch",
+    "B. Short morning visit with a glucose source ready",
+    "C. Late evening visit after fasting all day",
+    "D. Any time — diabetes does not affect scheduling"
+   ],
+   "answer": "B. Short morning visit with a glucose source ready",
+   "explanation": "The book advises short, morning visits and keeping glucose ready in case of hypoglycemia (a medication side effect)."
+  },
+  {
+   "id": "spec-p222-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypothyroidism and hyperthyroidism",
+   "page": 222,
+   "question": "A patient with tremors, sweating, weight loss and a rapid pulse is scheduled for scaling with local anesthesia. Which precaution is most appropriate?",
+   "options": [
+    "A. Use extra epinephrine for longer anesthesia",
+    "B. Limit epinephrine and monitor for cardiac symptoms",
+    "C. Warm the operatory because of cold intolerance",
+    "D. No special precautions are needed"
+   ],
+   "answer": "B. Limit epinephrine and monitor for cardiac symptoms",
+   "explanation": "These are hyperthyroid signs; the book says limit epinephrine, reduce stress and watch for cardiac symptoms. Cold intolerance belongs to hypothyroidism."
+  },
+  {
+   "id": "spec-p223-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Adrenal gland disorders",
+   "page": 223,
+   "question": "A patient reports fatigue and low blood pressure; brown-bronze patches are seen on the buccal mucosa and gingiva. Which emergency is this patient at risk for during a stressful appointment?",
+   "options": [
+    "A. Thyroid storm",
+    "B. Adrenal crisis",
+    "C. Diabetic ketoacidosis",
+    "D. Hypertensive crisis"
+   ],
+   "answer": "B. Adrenal crisis",
+   "explanation": "Fatigue, low BP and bronze pigmentation = Addison's disease (too little cortisol); stress can trigger a life-threatening adrenal crisis. Cushing's (excess cortisol) has no crisis risk."
+  },
+  {
+   "id": "spec-p224-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hepatitis",
+   "page": 224,
+   "question": "Which hepatitis virus poses the greatest risk of transmission through saliva and gingival fluid during dental care?",
+   "options": [
+    "A. Hepatitis A",
+    "B. Hepatitis B",
+    "C. Hepatitis C",
+    "D. Hepatitis D"
+   ],
+   "answer": "B. Hepatitis B",
+   "explanation": "HBV has a moderate oral transmission risk (saliva, gingival fluid) and survives on surfaces up to 7 days. HCV is bloodborne with very low oral risk; HAV is fecal–oral with minimal oral risk."
+  },
+  {
+   "id": "spec-p225-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Tuberculosis (TB)",
+   "page": 225,
+   "question": "A new patient has had a cough for 6 weeks with night sweats, fever and weight loss and has never been tested for TB. What is the best action?",
+   "options": [
+    "A. Proceed with ultrasonic scaling using high-volume evacuation",
+    "B. Postpone non-urgent care, refer for evaluation, and notify public health if active TB is suspected",
+    "C. Treat with a surgical mask and continue",
+    "D. Prescribe antibiotics and proceed"
+   ],
+   "answer": "B. Postpone non-urgent care, refer for evaluation, and notify public health if active TB is suspected",
+   "explanation": "Possible active TB: postpone non-urgent care (N95 if seen), avoid ultrasonic/high-speed aerosols while status is unclear, and notify public health if undiagnosed active TB is suspected."
+  },
+  {
+   "id": "spec-p225-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Syphilis",
+   "page": 225,
+   "question": "A 24-year-old has a painless ulcer on the lower lip that appeared about 3 weeks after a new sexual partner. Which is most likely?",
+   "options": [
+    "A. Recurrent herpes labialis",
+    "B. Primary syphilis chancre",
+    "C. Tertiary syphilis gumma",
+    "D. Secondary syphilis mucous patch"
+   ],
+   "answer": "B. Primary syphilis chancre",
+   "explanation": "Primary syphilis = painless chancre at the infection site ~3 weeks after exposure. Herpes labialis is preceded by tingling and is painful; gummas appear years later."
+  },
+  {
+   "id": "spec-p226-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Herpes simplex virus",
+   "page": 226,
+   "question": "A patient arrives for a scheduled prophylaxis with an active, weeping cold sore on the lip. What should the hygienist do?",
+   "options": [
+    "A. Proceed using the ultrasonic scaler",
+    "B. Reschedule the non-urgent appointment until the lesion heals",
+    "C. Proceed but avoid touching the lip",
+    "D. Proceed — recurrent lesions are not contagious"
+   ],
+   "answer": "B. Reschedule the non-urgent appointment until the lesion heals",
+   "explanation": "HSV-1 is highly contagious in recurrent outbreaks too, with risk of herpetic whitlow, eye infection and aerosol spread; delay elective care."
+  },
+  {
+   "id": "spec-p226-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "End-stage renal disease",
+   "page": 226,
+   "question": "Which group of oral findings should the hygienist expect to monitor in a patient with end-stage renal disease?",
+   "options": [
+    "A. Bronze gingival pigmentation and early eruption",
+    "B. Uremic breath, metallic taste, xerostomia and bleeding gingiva",
+    "C. Macroglossia and delayed eruption",
+    "D. Painless chancre and mucous patches"
+   ],
+   "answer": "B. Uremic breath, metallic taste, xerostomia and bleeding gingiva",
+   "explanation": "The book lists uremic breath, metallic taste, xerostomia, candidiasis, stomatitis and bleeding gingiva for ESRD. Bronze pigmentation = Addison's; macroglossia/delayed eruption = hypothyroidism."
+  },
+  {
+   "id": "spec-p226-mcq-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Autism spectrum disorder",
+   "page": 226,
+   "question": "Which approach is most appropriate for a child with autism spectrum disorder who is sensitive to sound and touch?",
+   "options": [
+    "A. Long appointment in a busy open-bay clinic",
+    "B. Short, predictable visit in a quiet, dimly lit room, with firm pressure such as a lead apron",
+    "C. Frequent light touches to build trust",
+    "D. Surprise the patient with new instruments each visit"
+   ],
+   "answer": "B. Short, predictable visit in a quiet, dimly lit room, with firm pressure such as a lead apron",
+   "explanation": "The book: short, predictable visits, quiet rooms, dim lighting, minimal waiting; light touch can irritate while firm pressure (lead apron) can calm."
+  },
+  {
+   "id": "spec-p227-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "question": "What is the most significant oral health issue in patients with Down syndrome?",
+   "options": [
+    "A. Rampant caries in childhood",
+    "B. Early-onset, severe periodontal disease",
+    "C. Enamel hypocalcification",
+    "D. Cleft palate"
+   ],
+   "answer": "B. Early-onset, severe periodontal disease",
+   "explanation": "Up to 90% are affected by early-onset severe periodontal disease (PMN dysfunction, conical roots, poor hygiene). Caries risk is actually LOWER in children/young adults; hypocalcification ~20%; clefts only occasional."
+  },
+  {
+   "id": "spec-p227-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Down syndrome (Trisomy 21)",
+   "page": 227,
+   "question": "While positioning a patient with Down syndrome, the hygienist should avoid which movement, and why?",
+   "options": [
+    "A. Reclining the chair — risk of syncope",
+    "B. Neck hyperextension — atlantoaxial instability",
+    "C. Turning the head to the side — macroglossia",
+    "D. Opening wide — TMJ dislocation"
+   ],
+   "answer": "B. Neck hyperextension — atlantoaxial instability",
+   "explanation": "Atlantoaxial instability makes neck hyperextension dangerous in Down syndrome."
+  },
+  {
+   "id": "spec-quiz-01",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "Which condition is most likely to cause gingival hyperplasia due to an anti-rejection medication?",
+   "options": [
+    "A. End-stage renal disease",
+    "B. Addison's disease",
+    "C. Hepatitis B",
+    "D. Diabetes mellitus"
+   ],
+   "answer": "A. End-stage renal disease",
+   "explanation": "Patients with ESRD often receive kidney transplants. To prevent organ rejection they are prescribed cyclosporine (Sandimmune), which commonly causes gingival hyperplasia."
+  },
+  {
+   "id": "spec-quiz-02",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "A patient presents with exophthalmos, weight loss, and rapid heart rate. Which condition is most likely?",
+   "options": [
+    "A. Hypothyroidism",
+    "B. Hyperthyroidism",
+    "C. Addison's disease",
+    "D. Cushing's syndrome"
+   ],
+   "answer": "B. Hyperthyroidism",
+   "explanation": "Exophthalmos (bulging eyes), tachycardia and weight loss are classic signs of Graves' disease, the most common cause of hyperthyroidism."
+  },
+  {
+   "id": "spec-quiz-03",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "Which type of stroke occurs due to a blood vessel rupture?",
+   "options": [
+    "A. Embolic stroke",
+    "B. Ischemic stroke",
+    "C. Transient ischemic attack",
+    "D. Hemorrhagic stroke"
+   ],
+   "answer": "D. Hemorrhagic stroke",
+   "explanation": "A hemorrhagic stroke is caused by bleeding into the brain when a blood vessel ruptures, leading to increased pressure and damage."
+  },
+  {
+   "id": "spec-quiz-04",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "Why is brushing immediately after vomiting discouraged in patients with bulimia?",
+   "options": [
+    "A. It causes metallic taste",
+    "B. It increases saliva production",
+    "C. It pushes acid deeper into enamel",
+    "D. It leads to gingival recession"
+   ],
+   "answer": "C. It pushes acid deeper into enamel",
+   "explanation": "After vomiting, enamel is softened by stomach acid. Brushing too soon can abrade the weakened enamel, worsening erosion. A neutral rinse should be used first."
+  },
+  {
+   "id": "spec-quiz-05",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "What is the role of A1C in diabetes management?",
+   "options": [
+    "A. Measures insulin resistance",
+    "B. Detects hypoglycemia only",
+    "C. Reflects average blood sugar over 2–3 months",
+    "D. Measures blood sugar after fasting"
+   ],
+   "answer": "C. Reflects average blood sugar over 2–3 months",
+   "explanation": "A1C measures the percentage of hemoglobin coated with sugar, reflecting long-term glucose control — key for managing diabetes."
+  },
+  {
+   "id": "spec-quiz-06",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "Which correctly describes systolic and diastolic blood pressure?",
+   "options": [
+    "A. Diastolic pressure is higher than systolic pressure in a normal reading.",
+    "B. Systolic pressure measures pressure during heart relaxation; diastolic during contraction.",
+    "C. Both systolic and diastolic occur when the heart is resting.",
+    "D. Systolic pressure occurs during heart contraction; diastolic pressure occurs when the heart relaxes."
+   ],
+   "answer": "D. Systolic pressure occurs during heart contraction; diastolic pressure occurs when the heart relaxes.",
+   "explanation": "This describes the cardiac cycle: systolic is the peak pressure during left ventricular contraction, and diastolic is the lowest pressure during relaxation."
+  },
+  {
+   "id": "spec-quiz-07",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "A 65-year-old patient in your dental chair suddenly develops slurred speech, facial drooping on one side, and inability to raise one arm fully. What is the most likely medical emergency occurring?",
+   "options": [
+    "A. Cerebrovascular accident",
+    "B. Epileptic seizure",
+    "C. Hypoglycemic episode",
+    "D. Myocardial infarction"
+   ],
+   "answer": "A. Cerebrovascular accident",
+   "explanation": "Facial droop, arm weakness and slurred speech are hallmark signs of a stroke (useful acronym: F.A.S.T. — Face, Arm, Speech, Time)."
+  },
+  {
+   "id": "spec-quiz-08",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "Which features help differentiate stable angina from myocardial infarction during a dental appointment?",
+   "options": [
+    "A. Angina pain usually lasts longer than 30 minutes and radiates to the left arm.",
+    "B. Angina is not relieved by nitroglycerin, while myocardial infarction is.",
+    "C. Stable angina typically resolves with rest or nitroglycerin within 5–10 minutes.",
+    "D. Myocardial infarction presents with sharp, localized chest pain relieved by deep breathing."
+   ],
+   "answer": "C. Stable angina typically resolves with rest or nitroglycerin within 5–10 minutes.",
+   "explanation": "Stable angina is predictable, triggered by exertion or stress, and typically resolves within 5–10 minutes with rest or nitroglycerin."
+  },
+  {
+   "id": "spec-quiz-09",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "A patient with an INR of 3.8 is scheduled for a dental extraction. What should the clinician do FIRST?",
+   "options": [
+    "A. Proceed as planned with extra gauze",
+    "B. Contact the patient's physician for medical clearance",
+    "C. Cancel the procedure and refer to ER",
+    "D. Prescribe aspirin to reduce inflammation"
+   ],
+   "answer": "B. Contact the patient's physician for medical clearance",
+   "explanation": "An INR >3.5 indicates high bleeding risk (e.g., warfarin). Elective procedures should be delayed, and a medical consult is recommended to evaluate safety."
+  },
+  {
+   "id": "spec-quiz-10",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "Which of the following oral signs is most likely seen in a patient with untreated HIV/AIDS and CD4 count <200/mm³?",
+   "options": [
+    "A. Oral lichen planus",
+    "B. Recurrent aphthous ulcers",
+    "C. Hairy leukoplakia on the tongue",
+    "D. Geographic tongue"
+   ],
+   "answer": "C. Hairy leukoplakia on the tongue",
+   "explanation": "Hairy leukoplakia is a common opportunistic infection seen in immunocompromised patients and appears as white patches on the lateral tongue."
+  },
+  {
+   "id": "spec-quiz-11",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "Which blood disorder is characterized by normal platelets but a defective clotting cascade, leading to weak fibrin formation?",
+   "options": [
+    "A. Leukemia",
+    "B. Agranulocytosis",
+    "C. Hemophilia",
+    "D. Thrombocytopenia"
+   ],
+   "answer": "C. Hemophilia",
+   "explanation": "Hemophilia is a genetic disorder in which clotting factors (like VIII or IX) are missing, so the platelet plug forms but no stable fibrin clot develops."
+  },
+  {
+   "id": "spec-quiz-12",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "A patient with spina bifida should be asked about which specific allergy before treatment?",
+   "options": [
+    "A. Penicillin",
+    "B. Latex",
+    "C. Sulfa drugs",
+    "D. Pollen"
+   ],
+   "answer": "B. Latex",
+   "explanation": "Patients with spina bifida have a high risk of developing latex allergy due to repeated surgeries and exposure to latex products from early life."
+  },
+  {
+   "id": "spec-quiz-13",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 228,
+   "question": "A patient on dialysis is best scheduled for dental care:",
+   "options": [
+    "A. Immediately after dialysis",
+    "B. The day after dialysis",
+    "C. Just before dialysis",
+    "D. At any time"
+   ],
+   "answer": "B. The day after dialysis",
+   "explanation": "Dialysis can lead to temporary anticoagulation and fatigue. The day after allows for hemodynamic stabilization and lowers bleeding risk."
+  },
+  {
+   "id": "spec-quiz-14",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 229,
+   "question": "Which of the following symptoms is most characteristic of Parkinson's disease?",
+   "options": [
+    "A. Resting tremor",
+    "B. Memory loss",
+    "C. Hemiplegia",
+    "D. Exophthalmos"
+   ],
+   "answer": "A. Resting tremor",
+   "explanation": "Parkinson's affects the dopamine-producing neurons in the brain (basal ganglia), leading to a tremor at rest, slow movements (bradykinesia) and rigidity."
+  },
+  {
+   "id": "spec-quiz-15",
+   "deck": "Quizzes",
+   "section": "Medical Conditions bonus quiz",
+   "page": 229,
+   "question": "Which endocrine disorder leads to delayed tooth eruption, macroglossia, and mental retardation if not treated early?",
+   "options": [
+    "A. Acromegaly",
+    "B. Addison's disease",
+    "C. Hyperparathyroidism",
+    "D. Hypothyroidism (Cretinism)"
+   ],
+   "answer": "D. Hypothyroidism (Cretinism)",
+   "explanation": "Cretinism is untreated hypothyroidism in children and severely affects mental and physical development, including oral growth."
+  }
+ ]
+}

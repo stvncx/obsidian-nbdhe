@@ -1,0 +1,1790 @@
+{
+ "diagrams": [
+  {
+   "name": "comm-p265-evidence-pyramid",
+   "title": "Evidence pyramid",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 13,
+   "page": 265,
+   "crop": [
+    90,
+    195,
+    860,
+    785
+   ],
+   "labels": [
+    {
+     "box": [
+      475,
+      262,
+      645,
+      322
+     ],
+     "answer": "Clinical Practice Guidelines",
+     "fit": "none"
+    },
+    {
+     "box": [
+      178,
+      272,
+      370,
+      368
+     ],
+     "answer": "Secondary, pre-appraised, or filtered",
+     "fit": "text"
+    },
+    {
+     "box": [
+      466,
+      366,
+      652,
+      422
+     ],
+     "answer": "Meta-Analysis / Systematic Review",
+     "fit": "none"
+    },
+    {
+     "box": [
+      436,
+      432,
+      682,
+      479
+     ],
+     "answer": "Randomized Controlled Trial",
+     "fit": "none"
+    },
+    {
+     "box": [
+      110,
+      456,
+      212,
+      522
+     ],
+     "answer": "Primary Studies",
+     "fit": "text"
+    },
+    {
+     "box": [
+      483,
+      505,
+      634,
+      531
+     ],
+     "answer": "Cohort Studies",
+     "fit": "none"
+    },
+    {
+     "box": [
+      194,
+      541,
+      344,
+      597
+     ],
+     "answer": "Observational Studies",
+     "fit": "none"
+    },
+    {
+     "box": [
+      450,
+      575,
+      657,
+      601
+     ],
+     "answer": "Case Control Studies",
+     "fit": "none"
+    },
+    {
+     "box": [
+      140,
+      655,
+      268,
+      690
+     ],
+     "answer": "No design",
+     "fit": "text"
+    },
+    {
+     "box": [
+      423,
+      647,
+      689,
+      674
+     ],
+     "answer": "Case Report or Case Series",
+     "fit": "none"
+    },
+    {
+     "box": [
+      333,
+      676,
+      777,
+      704
+     ],
+     "answer": "Narrative Reviews, Expert Opinions, Editorials",
+     "fit": "none"
+    },
+    {
+     "box": [
+      108,
+      712,
+      254,
+      775
+     ],
+     "answer": "No humans involved",
+     "fit": "text"
+    },
+    {
+     "box": [
+      408,
+      722,
+      714,
+      753
+     ],
+     "answer": "Animal and Laboratory Studies",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "comm-p266-sampling",
+   "title": "Sampling methods",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 14,
+   "page": 266,
+   "crop": [
+    210,
+    980,
+    1150,
+    1570
+   ],
+   "labels": [
+    {
+     "box": [
+      268,
+      1194,
+      472,
+      1226
+     ],
+     "answer": "Random sampling",
+     "fit": "text"
+    },
+    {
+     "box": [
+      818,
+      1196,
+      1032,
+      1227
+     ],
+     "answer": "Stratified sampling",
+     "fit": "text"
+    },
+    {
+     "box": [
+      261,
+      1507,
+      487,
+      1539
+     ],
+     "answer": "Systematic sampling",
+     "fit": "text"
+    },
+    {
+     "box": [
+      778,
+      1509,
+      1030,
+      1541
+     ],
+     "answer": "Convenience sampling",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "comm-p268-skew",
+   "title": "Positive and negative skew: where mean, median and mode fall",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 16,
+   "page": 268,
+   "crop": [
+    470,
+    370,
+    1210,
+    640
+   ],
+   "labels": [
+    {
+     "box": [
+      584,
+      541,
+      640,
+      566
+     ],
+     "answer": "Mode",
+     "fit": "none"
+    },
+    {
+     "box": [
+      681,
+      541,
+      736,
+      566
+     ],
+     "answer": "Mean",
+     "fit": "none"
+    },
+    {
+     "box": [
+      616,
+      568,
+      686,
+      594
+     ],
+     "answer": "Median",
+     "fit": "none"
+    },
+    {
+     "box": [
+      564,
+      600,
+      737,
+      634
+     ],
+     "answer": "Positive skew",
+     "fit": "none"
+    },
+    {
+     "box": [
+      969,
+      543,
+      1024,
+      568
+     ],
+     "answer": "Mean",
+     "fit": "none",
+     "key": "Mean (2)"
+    },
+    {
+     "box": [
+      1053,
+      543,
+      1104,
+      568
+     ],
+     "answer": "Mode",
+     "fit": "none",
+     "key": "Mode (2)"
+    },
+    {
+     "box": [
+      1013,
+      569,
+      1081,
+      595
+     ],
+     "answer": "Median",
+     "fit": "none",
+     "key": "Median (2)"
+    },
+    {
+     "box": [
+      946,
+      600,
+      1131,
+      634
+     ],
+     "answer": "Negative skew",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "comm-p268-standard-deviation",
+   "title": "Standard deviation and consistency",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 16,
+   "page": 268,
+   "crop": [
+    80,
+    1080,
+    1260,
+    1505
+   ],
+   "labels": [
+    {
+     "box": [
+      122,
+      1206,
+      464,
+      1242
+     ],
+     "answer": "Large SD = less consistency",
+     "fit": "none"
+    },
+    {
+     "box": [
+      681,
+      1272,
+      750,
+      1304
+     ],
+     "answer": "Mean",
+     "fit": "none"
+    },
+    {
+     "box": [
+      102,
+      1416,
+      464,
+      1454
+     ],
+     "answer": "Small SD = more consistency",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "comm-p269-correlation",
+   "title": "Correlation coefficient",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 17,
+   "page": 269,
+   "crop": [
+    100,
+    470,
+    1220,
+    900
+   ],
+   "labels": [
+    {
+     "box": [
+      550,
+      568,
+      781,
+      637
+     ],
+     "answer": "Not correlated at all",
+     "fit": "none"
+    },
+    {
+     "box": [
+      118,
+      655,
+      154,
+      685
+     ],
+     "answer": "-1",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1151,
+      659,
+      1192,
+      691
+     ],
+     "answer": "+1",
+     "fit": "none"
+    },
+    {
+     "box": [
+      242,
+      710,
+      563,
+      745
+     ],
+     "answer": "Negative correlation",
+     "fit": "none"
+    },
+    {
+     "box": [
+      780,
+      713,
+      1091,
+      748
+     ],
+     "answer": "Positive correlation",
+     "fit": "none"
+    },
+    {
+     "box": [
+      277,
+      762,
+      391,
+      798
+     ],
+     "answer": "Strong",
+     "fit": "none"
+    },
+    {
+     "box": [
+      419,
+      762,
+      510,
+      798
+     ],
+     "answer": "Weak",
+     "fit": "none"
+    },
+    {
+     "box": [
+      823,
+      765,
+      915,
+      801
+     ],
+     "answer": "Weak",
+     "fit": "none",
+     "key": "Weak (2)"
+    },
+    {
+     "box": [
+      942,
+      765,
+      1058,
+      803
+     ],
+     "answer": "Strong",
+     "fit": "none",
+     "key": "Strong (2)"
+    },
+    {
+     "box": [
+      262,
+      847,
+      523,
+      878
+     ],
+     "answer": "e.g., Brushing and caries risk",
+     "fit": "none"
+    },
+    {
+     "box": [
+      807,
+      850,
+      1040,
+      883
+     ],
+     "answer": "e.g., Sugar and caries risk",
+     "fit": "none"
+    },
+    {
+     "box": [
+      645,
+      655,
+      678,
+      690
+     ],
+     "answer": "0",
+     "fit": "none"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "comm-p265-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Evidence pyramid",
+   "page": 265,
+   "text": "On the evidence pyramid, the top tiers — clinical practice guidelines and meta-analyses/systematic reviews — are {{c1::secondary, pre-appraised (filtered)}} evidence; RCTs, cohort and case-control studies are {{c2::primary studies}}."
+  },
+  {
+   "id": "comm-p265-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Evidence pyramid",
+   "page": 265,
+   "text": "Cohort and case-control studies are {{c1::observational}} studies; the RCT is the primary study that {{c2::tests a treatment}}."
+  },
+  {
+   "id": "comm-p265-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Evidence pyramid",
+   "page": 265,
+   "text": "Cohort studies are {{c1::prospective}} (an exposed cohort is observed for the outcome); case-control studies are {{c2::retrospective}} (subjects who already have the condition are studied, looking back for risk factors)."
+  },
+  {
+   "id": "comm-p265-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Evidence pyramid",
+   "page": 265,
+   "text": "Below the primary studies on the evidence pyramid sit the 'no design' sources — case reports/series, narrative reviews, expert opinions and editorials — and at the very bottom {{c1::animal and laboratory studies}} (no humans involved).",
+   "extra": "The book's table instead puts expert opinion lowest (below animal studies); the pyramid groups expert opinion with case reports. Both place these at the bottom of the hierarchy."
+  },
+  {
+   "id": "comm-p265-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Key research concepts",
+   "page": 265,
+   "text": "{{c1::Quantitative}} research = numbers, stats, measurable results (e.g., plaque scores, DMFT); {{c2::qualitative}} research = words, observations, patient experiences (e.g., case reports)."
+  },
+  {
+   "id": "comm-p266-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "text": "In a case-control study, a {{c1::case}} is a person with the disease or condition; a {{c2::control}} is a person without the disease, used for comparison."
+  },
+  {
+   "id": "comm-p266-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "text": "The {{c1::independent}} variable is the one you change (the cause/intervention); the {{c2::dependent}} variable is the one you measure (the outcome/effect).",
+   "extra": "E.g., Does soda (independent) increase caries (dependent)?"
+  },
+  {
+   "id": "comm-p266-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "text": "A {{c1::prospective}} study begins before the outcome happens and tracks forward in time; a {{c2::retrospective}} study looks backward — the outcome already happened and is traced back to exposures."
+  },
+  {
+   "id": "comm-p266-004",
+   "deck": "Community Oral Health & Research",
+   "section": "PICO",
+   "page": 266,
+   "text": "Purpose of PICO: to help form {{c1::focused clinical questions}} that guide literature searches and find the best evidence.",
+   "extra": "Technique: break a clinical question into four parts to improve the clarity and precision of the search."
+  },
+  {
+   "id": "comm-p266-005",
+   "deck": "Community Oral Health & Research",
+   "section": "PICO",
+   "page": 266,
+   "text": "PICO: P = {{c1::Patient or Problem}}; I = {{c2::Intervention}}; C = {{c3::Comparison}}; O = {{c4::Outcome}}."
+  },
+  {
+   "id": "comm-p266-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 266,
+   "text": "{{c1::Random}} sampling: every member of the population has an equal chance of being selected.",
+   "extra": "Strength: reduces bias, best for generalizing. Limitation: can be time-consuming to set up."
+  },
+  {
+   "id": "comm-p266-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 266,
+   "text": "Random sampling — strength: {{c1::reduces bias / best for generalizing}}; limitation: {{c2::can be time-consuming to set up}}."
+  },
+  {
+   "id": "comm-p266-008",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 266,
+   "text": "{{c1::Stratified}} sampling: divide the population into subgroups, then randomly select from each."
+  },
+  {
+   "id": "comm-p266-009",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 266,
+   "text": "Stratified sampling — strength: {{c1::ensures all subgroups are represented}}; limitation: {{c2::requires knowing subgroup info first}}."
+  },
+  {
+   "id": "comm-p267-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 267,
+   "text": "{{c1::Systematic}} sampling: select every Nth person on a list."
+  },
+  {
+   "id": "comm-p267-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 267,
+   "text": "Systematic sampling — strength: {{c1::simple to apply}}; limitation: {{c2::not truly random — hidden patterns may skew results}}."
+  },
+  {
+   "id": "comm-p267-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 267,
+   "text": "{{c1::Convenience}} sampling: choose whoever is most easily available."
+  },
+  {
+   "id": "comm-p267-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 267,
+   "text": "Convenience sampling — strength: {{c1::very fast and easy}}; limitation: {{c2::high risk of bias, often unrepresentative}}."
+  },
+  {
+   "id": "comm-p267-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 267,
+   "text": "{{c1::Judgment}} sampling: the researcher picks participants based on familiarity or personal judgment.",
+   "extra": "Strength: may be useful in special cases. Limitation: the MOST biased and subjective sampling method."
+  },
+  {
+   "id": "comm-p267-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Disease frequency and patterns",
+   "page": 267,
+   "text": "{{c1::Epidemiology}} is the study of disease prevalence in populations."
+  },
+  {
+   "id": "comm-p267-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Measuring impact",
+   "page": 267,
+   "text": "{{c1::Morbidity}} rate = % of people who got sick out of the total population at risk; {{c2::mortality}} rate = % of people who died out of the total population at risk.",
+   "extra": "WakeUpMemory: MorBidity — B as in Bed, sick but not dead. MorTality — T as in Tomb, death."
+  },
+  {
+   "id": "comm-p267-008",
+   "deck": "Community Oral Health & Research",
+   "section": "Biostatistics",
+   "page": 267,
+   "text": "{{c1::Descriptive}} statistics describe data as-is (e.g., 'The average score of this class is 83%'); {{c2::inferential}} statistics use sample data to make predictions about a larger group (e.g., 'we estimate the district average is 83%')."
+  },
+  {
+   "id": "comm-p268-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Central tendency",
+   "page": 268,
+   "text": "The {{c1::mean}} is the average and is affected by outliers."
+  },
+  {
+   "id": "comm-p268-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Central tendency",
+   "page": 268,
+   "text": "The {{c1::median}} is the middle number when scores are in order; the {{c2::mode}} is the most frequent score.",
+   "extra": "WakeUpMemory: Median sounds like middle. Mode sounds like most."
+  },
+  {
+   "id": "comm-p268-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Distribution",
+   "page": 268,
+   "text": "A normal distribution is a {{c1::symmetrical (bell/Gaussian)}} curve in which {{c2::mean = median = mode}}."
+  },
+  {
+   "id": "comm-p268-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Distribution",
+   "page": 268,
+   "text": "In a {{c1::positive}} skew the tail goes right (low scores are more common) and mean > median > mode."
+  },
+  {
+   "id": "comm-p268-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Distribution",
+   "page": 268,
+   "text": "In a {{c1::negative}} skew the tail goes left (high scores are more common) and mean < median < mode."
+  },
+  {
+   "id": "comm-p268-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Dispersion",
+   "page": 268,
+   "text": "{{c1::Standard deviation (SD)}} is a number that shows how far the typical score is from the mean (how much scores deviate); a larger SD = {{c2::wider spread}}."
+  },
+  {
+   "id": "comm-p268-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Dispersion",
+   "page": 268,
+   "text": "Empirical rule: nearly all data in a {{c1::normal (Gaussian)}} distribution fall within {{c2::3}} standard deviations of the mean."
+  },
+  {
+   "id": "comm-p268-008",
+   "deck": "Community Oral Health & Research",
+   "section": "Data accuracy",
+   "page": 268,
+   "text": "{{c1::Interexaminer}} reliability = consistency between different people; {{c2::intraexaminer}} reliability = the same person repeats it consistently."
+  },
+  {
+   "id": "comm-p269-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Correlation",
+   "page": 269,
+   "text": "Correlation is the {{c1::relationship}} between two variables, measured from {{c2::−1.0 to +1.0}}.",
+   "extra": "The book prints '1.0 to +1.0' — a typo for −1.0."
+  },
+  {
+   "id": "comm-p269-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Correlation",
+   "page": 269,
+   "text": "The closer a correlation coefficient is to {{c1::1 (either +1 or −1)}}, the stronger the correlation — regardless of sign."
+  },
+  {
+   "id": "comm-p269-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Correlation",
+   "page": 269,
+   "text": "In a {{c1::positive}} correlation both variables move in the same direction (e.g., more sugar = more caries); +1 is a perfect positive, or {{c2::direct}}, relationship."
+  },
+  {
+   "id": "comm-p269-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Correlation",
+   "page": 269,
+   "text": "In a {{c1::negative}} correlation one variable goes up while the other goes down (e.g., more brushing = fewer caries); −1 is a perfect negative, or {{c2::indirect}}, relationship."
+  },
+  {
+   "id": "comm-p269-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Correlation",
+   "page": 269,
+   "text": "{{c1::No correlation}} means there is no predictable relationship at all between two variables."
+  },
+  {
+   "id": "comm-p269-006",
+   "deck": "Community Oral Health & Research",
+   "section": "P-value",
+   "page": 269,
+   "text": "The {{c1::p-value}} tells you whether results are likely due to chance; per the book, p = 0.05 means a {{c2::5%}} probability that the result occurred by random chance.",
+   "extra": "E.g., p = 0.04 → a 4% chance the results happened by random luck."
+  },
+  {
+   "id": "comm-p269-007",
+   "deck": "Community Oral Health & Research",
+   "section": "P-value",
+   "page": 269,
+   "text": "A p-value does NOT tell you {{c1::how big or important the effect is}} — it only tells you whether it's likely real or due to chance."
+  },
+  {
+   "id": "comm-p269-008",
+   "deck": "Community Oral Health & Research",
+   "section": "P-value",
+   "page": 269,
+   "text": "p {{c1::≤ 0.05}} = statistically significant (the difference is real, not coincidence); p {{c2::> 0.05}} = not statistically significant (not enough evidence; cannot conclude)."
+  },
+  {
+   "id": "comm-p270-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Hypothesis",
+   "page": 270,
+   "text": "A {{c1::hypothesis}} is a prediction made before starting a study."
+  },
+  {
+   "id": "comm-p270-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Hypothesis",
+   "page": 270,
+   "text": "The {{c1::null hypothesis (H₀)}} assumes no effect or difference; the {{c2::alternative hypothesis (H₁ or Ha)}} assumes there is a difference or effect."
+  },
+  {
+   "id": "comm-p270-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Hypothesis",
+   "page": 270,
+   "text": "{{c1::Statistical testing}} is used to decide if the results are strong enough to reject the null hypothesis."
+  }
+ ],
+ "basic": [
+  {
+   "id": "comm-p265-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "front": "Meta-analysis",
+   "back": "Combines data from multiple studies using statistical methods",
+   "reverse": true,
+   "extra": "TL;DR: strongest proof — top of the hierarchy. Example: a meta-analysis of 10 RCTs on fluoride varnish reducing caries in kids."
+  },
+  {
+   "id": "comm-p265-b-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "front": "Systematic review",
+   "back": "Reviews and summarizes all high-quality studies on a topic",
+   "reverse": true,
+   "extra": "TL;DR: full-picture summary. Example: a systematic review comparing ultrasonic vs. hand scaling in periodontal therapy."
+  },
+  {
+   "id": "comm-p265-b-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "front": "Randomized controlled trial (RCT)",
+   "back": "Tests a treatment by randomly assigning people to an experimental or control group",
+   "reverse": true,
+   "extra": "TL;DR: fair test with real results. Prospective. Example: RCT on chlorhexidine rinse vs. placebo for gingivitis."
+  },
+  {
+   "id": "comm-p265-b-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "front": "Cohort study",
+   "back": "Follows groups over time based on exposure to see who develops the outcome",
+   "reverse": true,
+   "extra": "TL;DR: watch what happens over time. Prospective, observational. Example: following students with and without bruxism to track TMD risk."
+  },
+  {
+   "id": "comm-p265-b-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "front": "Case-control study",
+   "back": "Looks back to compare exposure in people with vs. without a condition",
+   "reverse": true,
+   "extra": "TL;DR: work backward to find patterns. Retrospective, observational. Example: patients with vs. without gingivitis — did flossing frequency differ?"
+  },
+  {
+   "id": "comm-p265-b-06",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "front": "Cross-sectional study",
+   "back": "Studies one population at a single point in time",
+   "reverse": true,
+   "extra": "TL;DR: one-time snapshot. Example: survey on sugar intake vs. DMFT in teens."
+  },
+  {
+   "id": "comm-p265-b-07",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "front": "Case report / case series",
+   "back": "Detailed report on one or a few patients with unusual findings",
+   "reverse": true,
+   "extra": "TL;DR: first clue, not strong proof. Example: staining and taste changes after long-term chlorhexidine use."
+  },
+  {
+   "id": "comm-p265-b-08",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "front": "Animal study",
+   "back": "Tests effects in animals before human trials",
+   "reverse": true,
+   "extra": "TL;DR: not ready for human decisions. Example: a study in rats on enamel remineralization after fluoride exposure."
+  },
+  {
+   "id": "comm-p265-b-09",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "front": "Expert opinion / background information",
+   "back": "Based on clinical experience, not original research",
+   "reverse": true,
+   "extra": "TL;DR: educated guess — lowest level. Example: the textbook recommends a brushing technique with no supporting study."
+  },
+  {
+   "id": "comm-p266-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "front": "Descriptive study",
+   "back": "Describes patterns — who, what, where, when — with no comparisons",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p266-b-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "front": "Analytic study",
+   "back": "Explains relationships — tests hypotheses and compares groups to find causes",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p266-b-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "front": "Randomized (study)",
+   "back": "Participants are randomly assigned to treatment or control — reduces bias",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p266-b-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "front": "Non-randomized (study)",
+   "back": "Groups are pre-determined — higher risk of bias/confounding",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p266-b-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "front": "Double-blind",
+   "back": "Neither the participant nor the examiner knows the group assignment",
+   "reverse": true,
+   "extra": "Best for avoiding bias."
+  },
+  {
+   "id": "comm-p266-b-06",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "front": "Single-blind",
+   "back": "Only the participant doesn't know the group assignment (the examiner might still influence results)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p266-b-07",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "front": "Quasi-experimental study",
+   "back": "Tries to test cause and effect WITHOUT random assignment",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p266-b-08",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "front": "Experimental study",
+   "back": "Includes randomization, control groups, and manipulated variables",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "comm-p267-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Epidemiology",
+   "page": 267,
+   "front": "Endemic",
+   "back": "A disease that occurs regularly in a specific area or population (= normal)",
+   "reverse": true,
+   "extra": "E.g., malaria in parts of Africa. WakeUpMemory: \"Endemic ENDS as expected.\""
+  },
+  {
+   "id": "comm-p267-b-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Epidemiology",
+   "page": 267,
+   "front": "Epidemic",
+   "back": "A disease occurring in more cases than expected in a certain population (= spike)",
+   "reverse": true,
+   "extra": "E.g., flu outbreak in a school. WakeUpMemory: \"Epidemic is an EPIC spike!\""
+  },
+  {
+   "id": "comm-p267-b-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Epidemiology",
+   "page": 267,
+   "front": "Pandemic",
+   "back": "A disease that spreads across multiple countries or the world (= wide)",
+   "reverse": true,
+   "extra": "E.g., COVID-19 in 2020. WakeUpMemory: \"Pandemic is Planet-wide.\""
+  },
+  {
+   "id": "comm-p267-b-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Disease frequency and patterns",
+   "page": 267,
+   "front": "Incidence",
+   "back": "Number of NEW cases of a disease in a population during a specific time",
+   "reverse": true,
+   "extra": "E.g., 500 new flu cases reported in one month. WakeUpMemory: I for Incoming, I for Incidence = new cases showing up."
+  },
+  {
+   "id": "comm-p267-b-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Disease frequency and patterns",
+   "page": 267,
+   "front": "Prevalence",
+   "back": "Total number of EXISTING cases (new + old) in a population at a given time",
+   "reverse": true,
+   "extra": "E.g., 1 in 5 adults currently has high blood pressure. WakeUpMemory: P for Present, P for Prevalence = what's present, new and old."
+  },
+  {
+   "id": "comm-p268-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Data accuracy",
+   "page": 268,
+   "front": "Reliability",
+   "back": "Results are consistent and reproducible",
+   "reverse": true,
+   "extra": "Reliability = consistency, not accuracy."
+  },
+  {
+   "id": "comm-p268-b-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Data accuracy",
+   "page": 268,
+   "front": "Validity",
+   "back": "The test measures what it's supposed to measure",
+   "reverse": true,
+   "extra": "E.g., if you're testing reading ability, does the test assess reading — not just memory or vocabulary?"
+  },
+  {
+   "id": "comm-p268-b-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Data accuracy",
+   "page": 268,
+   "front": "Internal validity",
+   "back": "Whether the results of a study are trustworthy and free from bias within the study setting",
+   "reverse": true,
+   "extra": "E.g., a fluoride varnish trial controls age group, diet and brushing habits so differences in decay are truly due to the varnish."
+  },
+  {
+   "id": "comm-p269-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Data accuracy",
+   "page": 269,
+   "front": "External validity",
+   "back": "Whether study results can be generalized/applied to other populations or settings outside the study",
+   "reverse": true,
+   "extra": "E.g., a fluoride varnish study done only on teenagers in one city — do the results apply to adults or children in other regions?"
+  },
+  {
+   "id": "comm-p269-b-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Data accuracy",
+   "page": 269,
+   "front": "Sensitivity (of a test)",
+   "back": "Ability to correctly identify those who HAVE the condition (true positives)",
+   "reverse": true,
+   "extra": "\"If someone has the disease, will the test catch it?\""
+  },
+  {
+   "id": "comm-p269-b-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Data accuracy",
+   "page": 269,
+   "front": "Specificity (of a test)",
+   "back": "Ability to correctly identify those who truly do NOT have the condition (true negatives)",
+   "reverse": true,
+   "extra": "\"If the condition is not there, will the test say so?\""
+  },
+  {
+   "id": "comm-p269-b-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Correlation",
+   "page": 269,
+   "front": "People with more dental visits have fewer cavities. Does this prove visits cause fewer cavities?",
+   "back": "No — correlation is not causation (they may also have better home care or education). Experimental studies are needed to show causation.",
+   "reverse": false,
+   "extra": "Classic example: ice cream sales and drowning deaths both rise in summer."
+  },
+  {
+   "id": "comm-p269-b-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Statistical tests",
+   "page": 269,
+   "front": "t-test",
+   "back": "Compares the means (averages) of TWO groups to see if they are significantly different",
+   "reverse": true,
+   "extra": "E.g., comparing average brushing time between males (30 s) and females (45 s)."
+  },
+  {
+   "id": "comm-p269-b-06",
+   "deck": "Community Oral Health & Research",
+   "section": "Statistical tests",
+   "page": 269,
+   "front": "ANOVA",
+   "back": "Compares 3 OR MORE groups to see if at least one group's mean is significantly different",
+   "reverse": true,
+   "extra": "E.g., comparing average exam scores of students from four hygiene schools."
+  },
+  {
+   "id": "comm-p269-b-07",
+   "deck": "Community Oral Health & Research",
+   "section": "Statistical tests",
+   "page": 269,
+   "front": "Chi-square",
+   "back": "Compares the frequency or proportion between categories",
+   "reverse": true,
+   "extra": "E.g., are men and women equally likely to prefer manual vs. electric toothbrushes?"
+  },
+  {
+   "id": "comm-p269-b-08",
+   "deck": "Community Oral Health & Research",
+   "section": "P-value",
+   "page": 269,
+   "front": "Two toothpaste brands are compared and p = 0.11. Interpret.",
+   "back": "11% chance the difference in effectiveness happened by luck → p > 0.05, NOT statistically significant.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "comm-p267-t-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Measuring impact",
+   "page": 267,
+   "question": "30 out of 100 people at risk catch a virus. What is the morbidity rate? (%)",
+   "answer": "30%",
+   "extra": ""
+  },
+  {
+   "id": "comm-p267-t-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Measuring impact",
+   "page": 267,
+   "question": "There are 2 deaths per 100 infections. What is the mortality rate? (%)",
+   "answer": "2%",
+   "extra": ""
+  },
+  {
+   "id": "comm-p268-t-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Central tendency",
+   "page": 268,
+   "question": "Mean of 3, 5, 7, 9?",
+   "answer": "6",
+   "extra": "(3 + 5 + 7 + 9) / 4 = 6"
+  },
+  {
+   "id": "comm-p268-t-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Central tendency",
+   "page": 268,
+   "question": "Median of 12, 50, 50, 79, 80, 81, 100?",
+   "answer": "79",
+   "extra": "Middle value of the ordered list."
+  },
+  {
+   "id": "comm-p268-t-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Central tendency",
+   "page": 268,
+   "question": "Mode of 12, 50, 50, 79, 80, 81, 100?",
+   "answer": "50",
+   "extra": "Most frequent score."
+  },
+  {
+   "id": "comm-p268-t-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Dispersion",
+   "page": 268,
+   "question": "Mean = 85, SD = 5. What score is +1 SD? (number)",
+   "answer": "90",
+   "extra": "−1 SD = 85 − 5 = 80. (The book's sample list states mean 84 but then calculates with 85.)"
+  },
+  {
+   "id": "comm-p268-t-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Dispersion",
+   "page": 268,
+   "question": "Empirical rule: what % of values fall within ±1 SD? (%)",
+   "answer": "68%",
+   "extra": "Figure: 68.27%"
+  },
+  {
+   "id": "comm-p268-t-06",
+   "deck": "Community Oral Health & Research",
+   "section": "Dispersion",
+   "page": 268,
+   "question": "Empirical rule: what % of values fall within ±2 SD? (%)",
+   "answer": "95%",
+   "extra": "Figure: 95.45%"
+  },
+  {
+   "id": "comm-p268-t-07",
+   "deck": "Community Oral Health & Research",
+   "section": "Dispersion",
+   "page": 268,
+   "question": "Empirical rule: what % of values fall within ±3 SD? (%)",
+   "answer": "99.7%",
+   "extra": "Figure: 99.73%"
+  }
+ ],
+ "match": [
+  {
+   "id": "comm-p265-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "prompt": "Match each study design to its dental-hygiene example.",
+   "pairs": [
+    [
+     "Meta-analysis",
+     "Pooled data from 10 RCTs on fluoride varnish and caries in kids"
+    ],
+    [
+     "RCT",
+     "Chlorhexidine rinse vs. placebo for gingivitis"
+    ],
+    [
+     "Cohort study",
+     "Following students with and without bruxism to track TMD risk"
+    ],
+    [
+     "Case-control study",
+     "Patients with vs. without gingivitis: did flossing frequency differ?"
+    ],
+    [
+     "Cross-sectional study",
+     "Survey on sugar intake vs. DMFT in teens"
+    ],
+    [
+     "Case series",
+     "Staining and taste changes after long-term chlorhexidine use"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p266-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "prompt": "Match each term to its key feature.",
+   "pairs": [
+    [
+     "Double-blind",
+     "Neither participant nor examiner knows"
+    ],
+    [
+     "Single-blind",
+     "Only the participant doesn't know"
+    ],
+    [
+     "Randomized",
+     "Random assignment to groups"
+    ],
+    [
+     "Non-randomized",
+     "Groups pre-determined"
+    ],
+    [
+     "Quasi-experimental",
+     "Cause-and-effect test without random assignment"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p266-m-02",
+   "deck": "Community Oral Health & Research",
+   "section": "PICO",
+   "page": 266,
+   "prompt": "PICO: 'For a patient with interproximal plaque, is waxed floss more effective than unwaxed floss in reducing plaque?' Match each part.",
+   "pairs": [
+    [
+     "P",
+     "Patient with interproximal plaque"
+    ],
+    [
+     "I",
+     "Waxed floss"
+    ],
+    [
+     "C",
+     "Unwaxed floss"
+    ],
+    [
+     "O",
+     "Reducing plaque"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p267-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 267,
+   "prompt": "Match each sampling method to its example.",
+   "pairs": [
+    [
+     "Random",
+     "Spinning an online name wheel to pick 10 students from the class list"
+    ],
+    [
+     "Stratified",
+     "Picking 3 students from each grade level (freshman–senior)"
+    ],
+    [
+     "Systematic",
+     "Selecting every 10th person who fills out an interest form online"
+    ],
+    [
+     "Convenience",
+     "Surveying only friends who show up early because they're nearby"
+    ],
+    [
+     "Judgment",
+     "Surveying only classmates you think are 'good at filling things out'"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p267-m-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Epidemiology",
+   "page": 267,
+   "prompt": "Match each example to its disease pattern.",
+   "pairs": [
+    [
+     "Malaria in parts of Africa",
+     "Endemic"
+    ],
+    [
+     "Flu outbreak in a school",
+     "Epidemic"
+    ],
+    [
+     "COVID-19 in 2020",
+     "Pandemic"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "comm-p265-o-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "prompt": "Rank these study designs from STRONGEST to weakest evidence.",
+   "items": [
+    "Meta-analysis",
+    "Systematic review",
+    "Randomized controlled trial",
+    "Cohort study",
+    "Case-control study",
+    "Case report / case series"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "comm-p267-s-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Biostatistics",
+   "page": 267,
+   "prompt": "Sort: descriptive or inferential statistics?",
+   "categories": [
+    [
+     "Descriptive (central tendency & dispersion)",
+     [
+      "Mean",
+      "Median",
+      "Mode",
+      "Standard deviation"
+     ]
+    ],
+    [
+     "Inferential",
+     [
+      "t-test",
+      "Chi-square",
+      "ANOVA",
+      "Correlation",
+      "p-value"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "comm-p265-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "question": "A researcher identifies 50 patients with oral cancer and 50 without, then reviews their records to compare past tobacco use. Which study design is this?",
+   "options": [
+    "A. Cohort study",
+    "B. Case-control study",
+    "C. Randomized controlled trial",
+    "D. Cross-sectional study"
+   ],
+   "answer": "B. Case-control study",
+   "explanation": "Starting from people who already have vs. don't have the condition and looking BACK at exposures = case-control (retrospective). A cohort study starts from exposure and follows people FORWARD to see who develops the outcome."
+  },
+  {
+   "id": "comm-p265-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Hierarchy of evidence",
+   "page": 265,
+   "question": "Which type of evidence would provide the STRONGEST support for recommending fluoride varnish to prevent caries in children?",
+   "options": [
+    "A. A single well-designed RCT",
+    "B. A meta-analysis of multiple RCTs",
+    "C. A cohort study of 5,000 children",
+    "D. An expert panel's opinion"
+   ],
+   "answer": "B. A meta-analysis of multiple RCTs",
+   "explanation": "A meta-analysis statistically combines data from multiple studies and sits at the top of the hierarchy of primary/secondary evidence ('strongest proof'). One RCT is strong but below a meta-analysis of many RCTs."
+  },
+  {
+   "id": "comm-p266-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "question": "A study tests whether chewing xylitol gum 3 times a day reduces Streptococcus mutans counts. What is the dependent variable?",
+   "options": [
+    "A. Chewing xylitol gum",
+    "B. Frequency of gum chewing",
+    "C. S. mutans counts",
+    "D. The participants' age"
+   ],
+   "answer": "C. S. mutans counts",
+   "explanation": "The dependent variable is what you MEASURE (the outcome) — S. mutans counts. The gum (and how often it is chewed) is what the researcher changes: the independent variable."
+  },
+  {
+   "id": "comm-p266-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Research design terms",
+   "page": 266,
+   "question": "Which design is BEST for avoiding bias when testing a new desensitizing toothpaste?",
+   "options": [
+    "A. Single-blind, non-randomized",
+    "B. Double-blind, randomized",
+    "C. Retrospective case-control",
+    "D. Quasi-experimental"
+   ],
+   "answer": "B. Double-blind, randomized",
+   "explanation": "Random assignment reduces bias, and double-blinding (neither participant nor examiner knows the group) is best for avoiding bias. Single-blind still lets the examiner influence results."
+  },
+  {
+   "id": "comm-p267-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 267,
+   "question": "A public health hygienist wants a sample of a school district that includes students from every grade, so she randomly selects 20 students from each grade. Which sampling method is this?",
+   "options": [
+    "A. Systematic",
+    "B. Stratified",
+    "C. Convenience",
+    "D. Judgment"
+   ],
+   "answer": "B. Stratified",
+   "explanation": "Dividing the population into subgroups (grades) and then randomly selecting from each = stratified sampling. Systematic sampling picks every Nth person from one list."
+  },
+  {
+   "id": "comm-p267-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Sampling",
+   "page": 267,
+   "question": "Which sampling method is considered the MOST biased and subjective?",
+   "options": [
+    "A. Random",
+    "B. Systematic",
+    "C. Judgment",
+    "D. Stratified"
+   ],
+   "answer": "C. Judgment",
+   "explanation": "In judgment sampling the researcher hand-picks participants based on familiarity or personal judgment — the most biased and subjective. Convenience sampling is also high-risk for bias, but the book ranks judgment as most biased."
+  },
+  {
+   "id": "comm-p267-mcq-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Disease frequency and patterns",
+   "page": 267,
+   "question": "A county health department reports that 1,200 adults currently have periodontitis, including 150 diagnosed this year. The figure of 1,200 represents the:",
+   "options": [
+    "A. Incidence",
+    "B. Prevalence",
+    "C. Morbidity rate",
+    "D. Mortality rate"
+   ],
+   "answer": "B. Prevalence",
+   "explanation": "Prevalence = ALL existing cases (new + old) at a given time. The 150 new cases diagnosed this year would be the incidence."
+  },
+  {
+   "id": "comm-p268-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Distribution",
+   "page": 268,
+   "question": "On a board review exam, most students scored high but a few scored very low. The mean is 72, median 80, mode 85. How is this distribution described?",
+   "options": [
+    "A. Normal distribution",
+    "B. Positive skew",
+    "C. Negative skew",
+    "D. Bimodal distribution"
+   ],
+   "answer": "C. Negative skew",
+   "explanation": "Tail to the left (a few low scores) with mean < median < mode = negative skew (high scores more common). Positive skew is the reverse: mean > median > mode, tail to the right."
+  },
+  {
+   "id": "comm-p268-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Data accuracy",
+   "page": 268,
+   "question": "Two hygienists score the same patient's gingivitis with the same index and both record 'moderate.' This demonstrates:",
+   "options": [
+    "A. Validity",
+    "B. Intraexaminer reliability",
+    "C. Interexaminer reliability",
+    "D. Specificity"
+   ],
+   "answer": "C. Interexaminer reliability",
+   "explanation": "Agreement between DIFFERENT examiners = interexaminer reliability. Intraexaminer reliability is one examiner getting the same result on repeated measurements."
+  },
+  {
+   "id": "comm-p269-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Data accuracy",
+   "page": 269,
+   "question": "A new oral cancer screening device correctly identifies 95 of 100 patients who truly have lesions. This describes the device's:",
+   "options": [
+    "A. Specificity",
+    "B. Sensitivity",
+    "C. Reliability",
+    "D. Internal validity"
+   ],
+   "answer": "B. Sensitivity",
+   "explanation": "Correctly catching those who HAVE the condition (true positives) = sensitivity. Specificity is correctly identifying those who do NOT have it (true negatives)."
+  },
+  {
+   "id": "comm-p269-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Correlation",
+   "page": 269,
+   "question": "Which correlation coefficient indicates the STRONGEST relationship between two variables?",
+   "options": [
+    "A. +0.45",
+    "B. −0.85",
+    "C. +0.60",
+    "D. 0.00"
+   ],
+   "answer": "B. −0.85",
+   "explanation": "Strength depends on how close the value is to 1, regardless of sign: −0.85 is closest to ±1 (a strong negative correlation). 0.00 = no correlation."
+  },
+  {
+   "id": "comm-p269-mcq-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Statistical tests",
+   "page": 269,
+   "question": "A researcher compares mean plaque scores among patients using a manual brush, a sonic brush, and an oscillating-rotating brush. Which test is most appropriate?",
+   "options": [
+    "A. t-test",
+    "B. Chi-square",
+    "C. ANOVA",
+    "D. Correlation"
+   ],
+   "answer": "C. ANOVA",
+   "explanation": "Comparing the MEANS of 3 or more groups = ANOVA. A t-test compares only two group means; chi-square compares frequencies/proportions between categories."
+  },
+  {
+   "id": "comm-p270-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Hypothesis",
+   "page": 270,
+   "question": "A study tests whether a fluoride rinse reduces caries. H₀: the rinse has no effect. The analysis gives p = 0.02. What should the researcher conclude?",
+   "options": [
+    "A. Accept the null hypothesis; the rinse has no effect",
+    "B. Reject the null hypothesis; the rinse likely helped",
+    "C. The result is not statistically significant",
+    "D. The rinse has a large, clinically important effect"
+   ],
+   "answer": "B. Reject the null hypothesis; the rinse likely helped",
+   "explanation": "p = 0.02 is ≤ 0.05, so the result is statistically significant and H₀ is rejected — the rinse likely helped. The p-value does not tell you how BIG or important the effect is, so D overreaches."
+  },
+  {
+   "id": "comm-quiz-01",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "What level of prevention is fluoride varnish application considered if the dental hygienist is using it when there are no carious lesions detected?",
+   "options": [
+    "A. Primary prevention",
+    "B. Secondary prevention",
+    "C. Tertiary prevention",
+    "D. Restorative treatment"
+   ],
+   "answer": "A. Primary prevention",
+   "explanation": "Primary prevention: fluoride varnish prevents the onset of dental caries by strengthening enamel and aiding remineralization. Primary prevention = stopping disease before it begins, avoiding the need for treatment altogether. (The book prints only options A–C; D was added for the 4-option format.)"
+  },
+  {
+   "id": "comm-quiz-02",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "What role does a dental hygienist take when organizing and coordinating an oral health program?",
+   "options": [
+    "A. Clinician",
+    "B. Educator",
+    "C. Administrator",
+    "D. Advocate"
+   ],
+   "answer": "C. Administrator",
+   "explanation": "In public health, the administrator role involves managing, developing and coordinating oral health programs — e.g., planning community fluoride rinse programs, supervising staff, creating schedules, ensuring goals and budgets are met. Focused on logistics, organization and leadership rather than clinical care."
+  },
+  {
+   "id": "comm-quiz-03",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "What is a limitation of school-based fluoridation programs?",
+   "options": [
+    "A. Requires radiographs",
+    "B. Is not allowed in urban schools",
+    "C. Children are at school only part of the day",
+    "D. Uses rinse with too much fluoride"
+   ],
+   "answer": "C. Children are at school only part of the day",
+   "explanation": "School-based fluoride programs can only be given during school hours, and school is not year-round. This intermittent exposure limits effectiveness compared with community water fluoridation, which offers constant access regardless of time or location."
+  },
+  {
+   "id": "comm-quiz-04",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "What does incidence measure in epidemiology?",
+   "options": [
+    "A. Total number of cases",
+    "B. Risk factors for disease",
+    "C. New cases over a while",
+    "D. Number of deaths"
+   ],
+   "answer": "C. New cases over a while",
+   "explanation": "Incidence = the number of NEW cases of a disease that occur within a specified time frame in a defined population; it shows how fast a disease is spreading. E.g., tracking 200 new flu cases in a city during January. Total cases (A) = prevalence."
+  },
+  {
+   "id": "comm-quiz-05",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "What does reliability mean when referring to a dental index?",
+   "options": [
+    "A. Measures what it's intended to",
+    "B. Produces consistent results",
+    "C. Is simple to use",
+    "D. Shows improvement over time"
+   ],
+   "answer": "B. Produces consistent results",
+   "explanation": "Reliability = consistent results regardless of when or by whom the measurement is taken. Intraexaminer: same examiner gets the same result multiple times; interexaminer: different examiners get consistent results with the same criteria. Reliability is about consistency, not accuracy — measuring what it's intended to (A) is validity."
+  },
+  {
+   "id": "comm-quiz-06",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "A study finds a p-value of 0.04. What does this indicate?",
+   "options": [
+    "A. The study failed",
+    "B. Results are likely due to chance",
+    "C. Results are statistically significant",
+    "D. The groups were identical"
+   ],
+   "answer": "C. Results are statistically significant",
+   "explanation": "Per the book: p = 0.04 means a 4% chance the results occurred by luck. A p-value of 0.05 or less indicates statistically significant results, and the null hypothesis is rejected."
+  },
+  {
+   "id": "comm-quiz-07",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "If one variable increases while the other decreases, what type of correlation exists?",
+   "options": [
+    "A. Positive",
+    "B. Negative",
+    "C. No correlation",
+    "D. Perfect correlation"
+   ],
+   "answer": "B. Negative",
+   "explanation": "Negative correlation: one variable increases as the other decreases (e.g., as brushing frequency increases, plaque levels decrease). The relationship is inverse but predictable; the closer the coefficient is to −1.0, the stronger the negative relationship."
+  },
+  {
+   "id": "comm-quiz-08",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "What does a high score on the Plaque Index indicate?",
+   "options": [
+    "A. The patient has excellent oral hygiene",
+    "B. There is minimal plaque on all teeth",
+    "C. The patient has significant plaque accumulation",
+    "D. The teeth are caries-free"
+   ],
+   "answer": "C. The patient has significant plaque accumulation",
+   "explanation": "On the Plaque Index a higher score = more plaque. The scale ranges from 0 (no plaque) to 3 (abundant plaque visible to the naked eye). A high score means poor plaque control and oral hygiene, requiring improved brushing and flossing."
+  },
+  {
+   "id": "comm-quiz-09",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "Which index would be best to use for measuring the improvement of gingival health through some new education programs?",
+   "options": [
+    "A. Gingival Index (GI)",
+    "B. DMFT Index",
+    "C. Root Caries Index",
+    "D. Periodontal Index"
+   ],
+   "answer": "A. Gingival Index (GI)",
+   "explanation": "The GI measures gingival inflammation (color, swelling, bleeding). Gingivitis is reversible, so the index can monitor both severity and improvement; widely used in research and clinical practice to assess response to treatment."
+  },
+  {
+   "id": "comm-quiz-10",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "What does the \"d\" in the deft index stand for?",
+   "options": [
+    "A. Debris",
+    "B. Decayed",
+    "C. Demineralized",
+    "D. Diseased"
+   ],
+   "answer": "B. Decayed",
+   "explanation": "The deft index measures caries in primary (deciduous) teeth: d = decayed, e = indicated for extraction, f = filled. It tracks visible decay experience in children, especially those younger than 6."
+  },
+  {
+   "id": "comm-quiz-11",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "What is the primary focus of the Plaque Index (PI)?",
+   "options": [
+    "A. Calculus thickness",
+    "B. Frequency of brushing",
+    "C. Amount of plaque on specific teeth",
+    "D. Number of decayed surfaces"
+   ],
+   "answer": "C. Amount of plaque on specific teeth",
+   "explanation": "The Plaque Index (Silness and Löe) measures the thickness of plaque at the gingival margin on selected teeth, scored 0 (no plaque) to 3 (heavy accumulation). Used to evaluate oral hygiene status and plaque control over time."
+  },
+  {
+   "id": "comm-quiz-12",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "Which is a cumulative and irreversible index?",
+   "options": [
+    "A. Gingival Index",
+    "B. Plaque Index",
+    "C. DMFT Index",
+    "D. OHI-S (Simplified Oral Hygiene Index)"
+   ],
+   "answer": "C. DMFT Index",
+   "explanation": "DMFT (Decayed, Missing, Filled Teeth) is cumulative — it records past and present caries — and irreversible, because once a tooth is filled or extracted that cannot be undone. Commonly used in epidemiological studies of total caries experience."
+  },
+  {
+   "id": "comm-quiz-13",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "Which term refers to the ongoing presence of a disease in a specific geographic area or population group?",
+   "options": [
+    "A. Pandemic",
+    "B. Endemic",
+    "C. Epidemic",
+    "D. Morbidity"
+   ],
+   "answer": "B. Endemic",
+   "explanation": "Endemic: e.g., malaria in certain parts of Africa, or chickenpox in school-aged children (before widespread vaccination). These diseases are predictable and persistent in specific areas."
+  },
+  {
+   "id": "comm-quiz-14",
+   "deck": "Quizzes",
+   "section": "Community bonus quiz",
+   "page": 271,
+   "question": "A patient learns that brushing twice a day prevents gum disease and begins to feel motivated to start. Which stage of the Learning Ladder are they in?",
+   "options": [
+    "A. Awareness",
+    "B. Self-interest",
+    "C. Habit",
+    "D. Involvement"
+   ],
+   "answer": "B. Self-interest",
+   "explanation": "The patient now understands how brushing affects their health and begins to care personally about preventing gum disease. This shift from general awareness to personal relevance is the hallmark of self-interest."
+  }
+ ]
+}

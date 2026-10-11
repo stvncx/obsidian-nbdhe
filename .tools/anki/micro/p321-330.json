@@ -1,0 +1,2023 @@
+{
+ "diagrams": [
+  {
+   "name": "micro-p321-immune-organs",
+   "title": "Organs of the immune system",
+   "deck": "Microbiology & Immunology",
+   "pdf_page": 9,
+   "page": 321,
+   "crop": [
+    590,
+    880,
+    1215,
+    1460
+   ],
+   "labels": [
+    {
+     "box": [
+      1050,
+      964,
+      1192,
+      1034
+     ],
+     "answer": "Tonsils & adenoids",
+     "fit": "text"
+    },
+    {
+     "box": [
+      637,
+      1114,
+      754,
+      1156
+     ],
+     "answer": "Lymph nodes",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1081,
+      1133,
+      1154,
+      1162
+     ],
+     "answer": "Thymus",
+     "fit": "text"
+    },
+    {
+     "box": [
+      648,
+      1267,
+      737,
+      1300
+     ],
+     "answer": "Appendix",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1083,
+      1276,
+      1149,
+      1303
+     ],
+     "answer": "Spleen",
+     "fit": "text"
+    },
+    {
+     "box": [
+      633,
+      1389,
+      748,
+      1434
+     ],
+     "answer": "Bone marrow",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1056,
+      1395,
+      1173,
+      1440
+     ],
+     "answer": "Peyer's patch",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "micro-p321-phagocytosis",
+   "title": "Phagocytosis",
+   "deck": "Microbiology & Immunology",
+   "pdf_page": 9,
+   "page": 321,
+   "crop": [
+    50,
+    1735,
+    435,
+    2090
+   ],
+   "labels": [
+    {
+     "box": [
+      58,
+      1835,
+      108,
+      1853
+     ],
+     "answer": "Pathogen",
+     "fit": "none"
+    },
+    {
+     "box": [
+      52,
+      1889,
+      102,
+      1904
+     ],
+     "answer": "Phagocyte",
+     "fit": "none"
+    },
+    {
+     "box": [
+      70,
+      1905,
+      142,
+      1936
+     ],
+     "answer": "1. Binds with pathogen",
+     "fit": "none"
+    },
+    {
+     "box": [
+      185,
+      1775,
+      340,
+      1806
+     ],
+     "answer": "2. The pathogen is ingested by a phagocyte",
+     "fit": "none"
+    },
+    {
+     "box": [
+      282,
+      1882,
+      430,
+      1914
+     ],
+     "answer": "3. The fusion of lysosomes with the phagosome",
+     "fit": "none"
+    },
+    {
+     "box": [
+      128,
+      1967,
+      170,
+      1993
+     ],
+     "answer": "T-helper cell",
+     "fit": "none"
+    },
+    {
+     "box": [
+      233,
+      1986,
+      270,
+      2011
+     ],
+     "answer": "Particle of pathogen",
+     "fit": "none"
+    },
+    {
+     "box": [
+      131,
+      2008,
+      188,
+      2024
+     ],
+     "answer": "MHC class II",
+     "fit": "none"
+    },
+    {
+     "box": [
+      126,
+      2040,
+      168,
+      2055
+     ],
+     "answer": "Receptor",
+     "fit": "none"
+    },
+    {
+     "box": [
+      160,
+      2064,
+      288,
+      2083
+     ],
+     "answer": "4. Antigen presentation",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "micro-p321-blood-cells",
+   "title": "Development of blood cells from the blood stem cell",
+   "deck": "Microbiology & Immunology",
+   "pdf_page": 9,
+   "page": 321,
+   "crop": [
+    480,
+    1700,
+    1165,
+    2110
+   ],
+   "labels": [
+    {
+     "box": [
+      755,
+      1764,
+      882,
+      1790
+     ],
+     "answer": "Blood Stem Cell",
+     "fit": "text"
+    },
+    {
+     "box": [
+      563,
+      1806,
+      702,
+      1828
+     ],
+     "answer": "Myeloid Stem Cell",
+     "fit": "text"
+    },
+    {
+     "box": [
+      927,
+      1811,
+      1080,
+      1831
+     ],
+     "answer": "Lymphoid Stem Cell",
+     "fit": "text"
+    },
+    {
+     "box": [
+      653,
+      1900,
+      741,
+      1921
+     ],
+     "answer": "Myeloblast",
+     "fit": "text"
+    },
+    {
+     "box": [
+      950,
+      1907,
+      1052,
+      1925
+     ],
+     "answer": "Lymphoblast",
+     "fit": "text"
+    },
+    {
+     "box": [
+      697,
+      1939,
+      800,
+      1955
+     ],
+     "answer": "Granulocytes",
+     "fit": "text"
+    },
+    {
+     "box": [
+      646,
+      1957,
+      731,
+      1973
+     ],
+     "answer": "Eosinophil",
+     "fit": "text"
+    },
+    {
+     "box": [
+      777,
+      1957,
+      848,
+      1973
+     ],
+     "answer": "Basophil",
+     "fit": "text"
+    },
+    {
+     "box": [
+      490,
+      2012,
+      612,
+      2034
+     ],
+     "answer": "Red Blood Cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      660,
+      2024,
+      743,
+      2045
+     ],
+     "answer": "Neutrophil",
+     "fit": "text"
+    },
+    {
+     "box": [
+      856,
+      2013,
+      967,
+      2034
+     ],
+     "answer": "B Lymphocyte",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1080,
+      2018,
+      1152,
+      2053
+     ],
+     "answer": "Natural Killer Cell",
+     "fit": "text"
+    },
+    {
+     "box": [
+      943,
+      2035,
+      1051,
+      2054
+     ],
+     "answer": "T Lymphocyte",
+     "fit": "text"
+    },
+    {
+     "box": [
+      594,
+      2066,
+      664,
+      2088
+     ],
+     "answer": "Platelets",
+     "fit": "text"
+    },
+    {
+     "box": [
+      846,
+      2087,
+      980,
+      2106
+     ],
+     "answer": "White Blood Cells",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "micro-p326-wound-inflammation",
+   "title": "Inflammatory response in a wound",
+   "deck": "Microbiology & Immunology",
+   "pdf_page": 14,
+   "page": 326,
+   "crop": [
+    80,
+    565,
+    800,
+    1275
+   ],
+   "labels": [
+    {
+     "box": [
+      655,
+      672,
+      775,
+      699
+     ],
+     "answer": "Macrophage",
+     "fit": "text"
+    },
+    {
+     "box": [
+      432,
+      693,
+      503,
+      720
+     ],
+     "answer": "Wound",
+     "fit": "text"
+    },
+    {
+     "box": [
+      100,
+      756,
+      173,
+      805
+     ],
+     "answer": "Blood platelets",
+     "fit": "text"
+    },
+    {
+     "box": [
+      633,
+      824,
+      724,
+      925
+     ],
+     "answer": "Cytokines signalling path to injury site",
+     "fit": "text"
+    },
+    {
+     "box": [
+      315,
+      902,
+      398,
+      930
+     ],
+     "answer": "Mast cell",
+     "fit": "text"
+    },
+    {
+     "box": [
+      349,
+      950,
+      446,
+      977
+     ],
+     "answer": "Neutrophil",
+     "fit": "text"
+    },
+    {
+     "box": [
+      690,
+      952,
+      783,
+      981
+     ],
+     "answer": "Cytokines",
+     "fit": "text"
+    },
+    {
+     "box": [
+      663,
+      1024,
+      779,
+      1078
+     ],
+     "answer": "Initiate tissue repair",
+     "fit": "text"
+    },
+    {
+     "box": [
+      610,
+      1156,
+      727,
+      1183
+     ],
+     "answer": "Blood vessel",
+     "fit": "text"
+    },
+    {
+     "box": [
+      637,
+      1203,
+      680,
+      1227
+     ],
+     "answer": "RBC",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "micro-p321-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries prevention",
+   "page": 321,
+   "text": "Caries prevention — saliva stimulation: saliva flow clears food debris, {{c1::buffers acid (raises pH)}}, and provides minerals like {{c2::fluoride, calcium, and phosphate}} to aid remineralization."
+  },
+  {
+   "id": "micro-p321-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries prevention",
+   "page": 321,
+   "text": "{{c1::Xerostomia}} (dry mouth) is a risk factor for caries, because saliva normally clears debris, buffers acid and supplies minerals."
+  },
+  {
+   "id": "micro-p321-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries prevention",
+   "page": 321,
+   "text": "Caries prevention — fluoride therapy: fluoride {{c1::inhibits bacterial activity}} and forms {{c2::fluorapatite}} on tooth surfaces to promote remineralization."
+  },
+  {
+   "id": "micro-p321-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries prevention",
+   "page": 321,
+   "text": "Caries prevention — sealants seal {{c1::pits and fissures}} to prevent food and bacteria retention; some sealants also {{c2::release fluoride}}."
+  },
+  {
+   "id": "micro-p321-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries prevention",
+   "page": 321,
+   "text": "Caries prevention — dietary modifications: avoid sticky foods, sugar and starch; avoid consuming cariogenic food {{c1::alone}}; use water or non-cariogenic foods to {{c2::buffer pH}}; substitute sugar with {{c3::sugar alcohols and xylitol}}."
+  },
+  {
+   "id": "micro-p321-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries prevention",
+   "page": 321,
+   "text": "Caries prevention — management of pH: use {{c1::sodium bicarbonate}} toothpaste, rinse with {{c2::high-pH}} solutions or water, and use remineralizing agents such as fluoride varnish, toothpaste, and rinses."
+  },
+  {
+   "id": "micro-p321-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune system",
+   "page": 321,
+   "text": "The very first line of cellular defense against many invading microorganisms often involves specialized \"eating\" cells called {{c1::phagocytes}}."
+  },
+  {
+   "id": "micro-p321-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune system",
+   "page": 321,
+   "text": "{{c1::Specialized white blood cells}} are the primary \"soldiers\" of the immune response, each with unique roles."
+  },
+  {
+   "id": "micro-p321-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune system",
+   "page": 321,
+   "text": "Antibodies are also called {{c1::immunoglobulins}}.",
+   "extra": "Book: Y-shaped proteins that act like highly specific \"wanted posters\" to identify and neutralize pathogens."
+  },
+  {
+   "id": "micro-p321-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune system",
+   "page": 321,
+   "text": "Immune chemicals and proteins: a vast array of molecules that either {{c1::directly attack invaders}} or {{c2::coordinate the immune response}}."
+  },
+  {
+   "id": "micro-p321-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune system",
+   "page": 321,
+   "text": "Physical barriers: the {{c1::skin}} is an impenetrable external shield; {{c2::mucous membranes}} (mouth, respiratory tract — producing mucus and saliva) act as internal sticky traps; {{c3::stomach acid}} destroys ingested pathogens."
+  },
+  {
+   "id": "micro-p321-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune system",
+   "page": 321,
+   "text": "{{c1::Lymphoid organs}} are key sites where immune cells mature and gather, such as the tonsils and thymus."
+  },
+  {
+   "id": "micro-p322-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune terminology",
+   "page": 322,
+   "text": "Word parts: phago- means {{c1::to eat, devour}}; -cyte means {{c2::cell}}."
+  },
+  {
+   "id": "micro-p322-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune terminology",
+   "page": 322,
+   "text": "Word parts: anti- means {{c1::against, opposite}}; -gen means {{c2::producer, originator}}."
+  },
+  {
+   "id": "micro-p322-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune terminology",
+   "page": 322,
+   "text": "Word parts: lyso- means {{c1::loosening, dissolving, breaking down}}; -some means {{c2::body}}."
+  },
+  {
+   "id": "micro-p322-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune terminology",
+   "page": 322,
+   "text": "A {{c1::lysosome}} is a \"dissolving body\" organelle, particularly abundant in {{c2::phagocytes}}, containing powerful {{c3::digestive enzymes}} that break down engulfed particles, including bacteria."
+  },
+  {
+   "id": "micro-p322-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "text": "{{c1::Phagocytes}} are cells that ingest (\"eat\") and digest microorganisms, foreign particles, and cellular debris; they are crucial for both {{c2::initiating and resolving}} infections."
+  },
+  {
+   "id": "micro-p322-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "text": "Neutrophils are also known as {{c1::polymorphonuclear leukocytes (PMNs)}}."
+  },
+  {
+   "id": "micro-p322-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "text": "{{c1::Neutrophils}} are the first line of cellular defense, rapidly arriving at infection sites, and are the most prevalent immune cells in {{c2::acute}} inflammation."
+  },
+  {
+   "id": "micro-p322-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "text": "Neutrophils contain numerous granules ({{c1::lysosomes}}) filled with potent bactericidal and digestive enzymes to destroy pathogens."
+  },
+  {
+   "id": "micro-p322-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "text": "Accumulation of dead PMNs forms {{c1::pus}} (suppuration/exudate)."
+  },
+  {
+   "id": "micro-p322-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "text": "The same cell is called a {{c1::monocyte}} when circulating in the bloodstream and a {{c2::macrophage}} when located in tissues."
+  },
+  {
+   "id": "micro-p322-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "text": "Macrophages arrive at infection sites {{c1::slower}} than neutrophils and are often the most numerous immune cells in {{c2::chronic}} inflammation."
+  },
+  {
+   "id": "micro-p322-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "text": "Macrophages are highly efficient at {{c1::engulfing (eating) and processing}} foreign intruders."
+  },
+  {
+   "id": "micro-p322-013",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "text": "{{c1::Lymphocytes}} are the white blood cells that are key players in the {{c2::adaptive (specific)}} immune response, recognizing and controlling foreign invaders (antigens) with high precision.",
+   "extra": "Lymphocytes producing antibodies are called plasma cells."
+  },
+  {
+   "id": "micro-p323-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "text": "{{c1::B-lymphocytes}} are responsible for {{c2::humoral}} immunity (antibody-mediated specific immunity)."
+  },
+  {
+   "id": "micro-p323-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "text": "Upon activation, B-lymphocytes differentiate into {{c1::plasma cells}}, specialized factories that produce and secrete antibodies (immunoglobulins).",
+   "extra": "The antibodies then neutralize and recognize specific microorganisms or toxins."
+  },
+  {
+   "id": "micro-p323-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "text": "{{c1::T-lymphocytes}} are responsible for the {{c2::cell-mediated}} immune response and do NOT produce antibodies."
+  },
+  {
+   "id": "micro-p323-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "text": "T-lymphocytes directly attack infected cells (e.g., {{c1::cytotoxic T}} cells) or help regulate other immune cells (e.g., {{c2::helper T}} cells), intensifying the overall immune response."
+  },
+  {
+   "id": "micro-p323-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "text": "Natural killer (NK) cells are a type of {{c1::lymphocyte}} that plays a vital role in the {{c2::innate (non-specific)}} immune response."
+  },
+  {
+   "id": "micro-p323-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "text": "NK cells specialize in detecting and destroying abnormal host cells, e.g., cells infected with {{c1::viruses}} or {{c2::cancer}} cells."
+  },
+  {
+   "id": "micro-p323-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "text": "NK cells identify cells that have stopped making normal surface proteins (like {{c1::MHC1}}) and trigger {{c2::apoptosis}} (programmed cell death) in them."
+  },
+  {
+   "id": "micro-p323-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "{{c1::IgG}} is the most common antibody in the blood.",
+   "extra": "WakeUpMemory GAMED: G → General → Greatest quantity / most common."
+  },
+  {
+   "id": "micro-p323-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "{{c1::IgG}} can cross the placenta to provide passive immunity to a fetus."
+  },
+  {
+   "id": "micro-p323-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "IgG provides {{c1::long-term}} immunity, is found in all body fluids, and is active in bacterial and viral infections."
+  },
+  {
+   "id": "micro-p323-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "{{c1::IgA}} lines body surfaces and prevents pathogens from {{c2::adhering to mucosal surfaces}}.",
+   "extra": "GAMED: A → salivA → found in surfaces."
+  },
+  {
+   "id": "micro-p323-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "{{c1::IgA}} is found in saliva, tears, and mucus of the respiratory, gastrointestinal, and genitourinary tracts, and in {{c2::breast milk}}, providing passive immunity to infants."
+  },
+  {
+   "id": "micro-p323-013",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "{{c1::IgM}} is the first type of antibody made in response to an initial infection; it helps stimulate the production of {{c2::IgG}}.",
+   "extra": "GAMED: M → Moving fast → first response."
+  },
+  {
+   "id": "micro-p323-014",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "IgM is the largest antibody; it exists as a {{c1::pentamer}} (a cluster of five Y-shaped units) found primarily in the bloodstream and lymph fluid."
+  },
+  {
+   "id": "micro-p323-015",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "The presence of {{c1::IgM}} indicates a {{c2::recent or current}} infection."
+  },
+  {
+   "id": "micro-p323-016",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "{{c1::IgE}} is primarily responsible for allergic reactions and is also involved in defense against {{c2::parasites}}.",
+   "extra": "GAMED: E → Emergency → allergic reaction."
+  },
+  {
+   "id": "micro-p323-017",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "IgE binds to {{c1::mast cells and basophils}}, triggering the release of {{c2::histamine}} and other inflammatory mediators (the \"emergency\" signals of an allergic reaction)."
+  },
+  {
+   "id": "micro-p323-018",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "IgE is found in very {{c1::low}} concentrations in the blood."
+  },
+  {
+   "id": "micro-p323-019",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "text": "{{c1::IgD}} is found on the surface of B lymphocytes and acts as a {{c2::B-cell receptor}}, signalling B cells to differentiate into plasma cells.",
+   "extra": "GAMED: D → Detect → recognizes antigens. Its exact function is still being researched."
+  },
+  {
+   "id": "micro-p324-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "Inflammation is the body's immediate, localized response to {{c1::injury or infection}}, orchestrated by chemical messengers known as {{c2::inflammatory mediators}}."
+  },
+  {
+   "id": "micro-p324-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "In chronic conditions like periodontitis, inflammatory mediators can also contribute to {{c1::tissue destruction}}."
+  },
+  {
+   "id": "micro-p324-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "Histamine's primary sources are {{c1::mast cells}} (found in connective tissue) and {{c2::basophils}}."
+  },
+  {
+   "id": "micro-p324-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "{{c1::Histamine}} initiates the early inflammatory response: it causes {{c2::vasodilation}} (redness/warmth) and increased {{c3::vascular permeability}} (\"leaky\" vessels → swelling), and attracts other immune cells."
+  },
+  {
+   "id": "micro-p324-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "{{c1::Cytokines}} (e.g., IL-1, IL-6, IL-8, TNF-alpha) are communication molecules that transmit signals to the immune system and recruit phagocytic cells (like neutrophils) to the site of infection."
+  },
+  {
+   "id": "micro-p324-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "Cytokines are produced by many immune cells, including {{c1::PMNs, macrophages, and B lymphocytes}}."
+  },
+  {
+   "id": "micro-p324-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "The cytokines {{c1::interleukin-1, -6, -8}} and {{c2::tumor necrosis factor-alpha (TNF-α)}} play a significant role in the destruction of the periodontium."
+  },
+  {
+   "id": "micro-p324-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "{{c1::Prostaglandins}} contribute to the classic signs of inflammation (redness, swelling, pain, heat).",
+   "extra": "Produced by various cells, including immune cells and fibroblasts (origin not specified in the book)."
+  },
+  {
+   "id": "micro-p324-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "Prostaglandins of the {{c1::E series (PGE)}} are particularly important in {{c2::bone destruction}} in periodontitis."
+  },
+  {
+   "id": "micro-p324-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "{{c1::Matrix metalloproteinases (MMPs)}} are a group of 12 different enzymes largely responsible for breakdown of the {{c2::connective tissue}} of the periodontium; they degrade components of the extracellular matrix.",
+   "extra": "Produced by host cells like fibroblasts, macrophages and PMNs (origin not specified in the book)."
+  },
+  {
+   "id": "micro-p324-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "text": "{{c1::Collagenases}} are a specific subtype of MMPs that primarily destroy {{c2::collagen}}, a major structural protein of connective tissues, including those supporting the teeth."
+  },
+  {
+   "id": "micro-p324-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Innate (natural) immunity",
+   "page": 324,
+   "text": "{{c1::Innate (natural)}} immunity is the body's immediate, nonspecific set of defenses — a rapid-response team present from {{c2::birth}}."
+  },
+  {
+   "id": "micro-p324-013",
+   "deck": "Microbiology & Immunology",
+   "section": "Innate (natural) immunity",
+   "page": 324,
+   "text": "Innate immunity is non-specific: it acts against a wide range of pathogens and foreign substances and does not \"{{c1::remember}}\" past invaders or target specific ones."
+  },
+  {
+   "id": "micro-p324-014",
+   "deck": "Microbiology & Immunology",
+   "section": "Innate (natural) immunity",
+   "page": 324,
+   "text": "Innate immunity is \"always ready\": it does not require {{c1::prior exposure}} to an invader to be activated."
+  },
+  {
+   "id": "micro-p324-015",
+   "deck": "Microbiology & Immunology",
+   "section": "Innate (natural) immunity",
+   "page": 324,
+   "text": "The physical and chemical barriers — skin, mucous membranes, saliva, and stomach acid — belong to {{c1::innate}} immunity."
+  },
+  {
+   "id": "micro-p324-016",
+   "deck": "Microbiology & Immunology",
+   "section": "Innate (natural) immunity",
+   "page": 324,
+   "text": "The first-responder cells of innate immunity are phagocytes: {{c1::neutrophils and macrophages}}."
+  },
+  {
+   "id": "micro-p325-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Acquired (adaptive) immunity",
+   "page": 325,
+   "text": "{{c1::Acquired (adaptive)}} immunity develops and strengthens over a lifetime as you encounter specific pathogens; it is highly specific and has {{c2::memory}}, so it responds faster to the same invader again."
+  },
+  {
+   "id": "micro-p325-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Acquired (adaptive) immunity",
+   "page": 325,
+   "text": "{{c1::Naturally active}} acquired immunity: a person becomes infected and their body produces its own antibodies against the pathogen (e.g., catching seasonal flu, then being immune to that strain).",
+   "extra": "WakeUpMemory: Natural = NO injection / Artificial = YES injection; Active = ACT — my body does the work / Passive = my body receives."
+  },
+  {
+   "id": "micro-p325-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Acquired (adaptive) immunity",
+   "page": 325,
+   "text": "{{c1::Naturally passive}} acquired immunity: antibodies produced by one individual are naturally passed on to another, giving temporary protection (e.g., Rh antibodies across the placenta, antibodies in breast milk).",
+   "extra": "WakeUpMemory: Natural = NO injection / Artificial = YES injection; Active = ACT — my body does the work / Passive = my body receives."
+  },
+  {
+   "id": "micro-p325-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Acquired (adaptive) immunity",
+   "page": 325,
+   "text": "{{c1::Artificially active}} acquired immunity: an antigen is deliberately introduced in a safe, non-pathogenic form, stimulating the body to produce its own antibodies (e.g., MMR vaccine, annual flu vaccine).",
+   "extra": "WakeUpMemory: Natural = NO injection / Artificial = YES injection; Active = ACT — my body does the work / Passive = my body receives."
+  },
+  {
+   "id": "micro-p325-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Acquired (adaptive) immunity",
+   "page": 325,
+   "text": "{{c1::Artificially passive}} acquired immunity: pre-formed antibodies are injected, giving immediate but temporary protection (e.g., hepatitis B immunoglobulin after exposure to hepatitis B).",
+   "extra": "WakeUpMemory: Natural = NO injection / Artificial = YES injection; Active = ACT — my body does the work / Passive = my body receives."
+  },
+  {
+   "id": "micro-p325-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 325,
+   "text": "Inflammation is the body's dynamic defense response to injury or infection; it begins with {{c1::injury/tissue damage}} (e.g., a cut or infection), which starts the body's defense mechanism."
+  },
+  {
+   "id": "micro-p325-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 325,
+   "text": "Inflammation step 2: brief {{c1::vasoconstriction}} — temporary narrowing of blood vessels to {{c2::limit initial blood loss}}.",
+   "extra": "Vasoconstriction happens very briefly BEFORE vasodilation in acute inflammation."
+  },
+  {
+   "id": "micro-p325-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 325,
+   "text": "Inflammation steps 3–4: {{c1::mast cells}} (in connective tissue) recognize the injury and release chemical \"alarms\" — inflammatory mediators such as histamine — into the injured area."
+  },
+  {
+   "id": "micro-p325-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 325,
+   "text": "Inflammation: histamine causes {{c1::vasodilation}} (widening of local blood vessels), which increases blood flow, bringing immune cells, oxygen and nutrients and producing {{c2::heat and redness (erythema)}}."
+  },
+  {
+   "id": "micro-p325-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 325,
+   "text": "Inflammation: {{c1::increased vascular permeability}} (vessel walls become \"leaky\") lets fluid, proteins and immune cells pass from blood into tissue; their accumulation in the interstitial space causes {{c2::swelling (edema)}}."
+  },
+  {
+   "id": "micro-p326-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 326,
+   "text": "Inflammation: {{c1::pain}} results from pressure from swelling and chemical mediators irritating nerve endings (tissue distention and nerve stimulation)."
+  },
+  {
+   "id": "micro-p326-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 326,
+   "text": "Inflammation: {{c1::loss of function}} — swelling, pain and tissue damage make the area difficult or impossible to move or use (e.g., a swollen knee won't bend)."
+  },
+  {
+   "id": "micro-p326-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 326,
+   "text": "In the wound figure, {{c1::macrophages}} secrete hormones called cytokines that attract immune system cells to the site and activate cells involved in tissue repair."
+  },
+  {
+   "id": "micro-p326-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation terminology",
+   "page": 326,
+   "text": "Word parts: inflamm- means {{c1::to set on fire, to burn}}; -ation means {{c2::process or state}}.",
+   "extra": "Together: the \"process of setting on fire\" — the heat and redness of inflammation."
+  },
+  {
+   "id": "micro-p326-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation terminology",
+   "page": 326,
+   "text": "Word parts: vaso- refers to a {{c1::blood vessel}}; dilat- means {{c2::to widen or expand}}; -ion indicates a process.",
+   "extra": "Vasodilation widens vessels and increases blood flow — why an inflamed site is red and hot."
+  },
+  {
+   "id": "micro-p326-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation terminology",
+   "page": 326,
+   "text": "Word part: constrict- means {{c1::to tighten or narrow}} (as in vasoconstriction)."
+  },
+  {
+   "id": "micro-p326-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation terminology",
+   "page": 326,
+   "text": "Word parts: chemo- refers to {{c1::chemical}} stimuli; -taxis means {{c2::movement or arrangement in response to a stimulus}}."
+  },
+  {
+   "id": "micro-p327-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "text": "Hypersensitivity is an immune reaction caused by an immune response to {{c1::repeated}} exposure to an antigen."
+  },
+  {
+   "id": "micro-p327-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "text": "{{c1::Type I (immediate)}} hypersensitivity: acute inflammation with fluid seepage and blood vessel dilation, followed by {{c2::granulocyte}} infiltration; symptoms begin within {{c3::minutes}} (sneezing, itchy eyes, hives, burning; e.g., asthma, anaphylaxis)."
+  },
+  {
+   "id": "micro-p327-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "text": "In type I hypersensitivity, a {{c1::late-phase}} reaction may follow if the allergen persists, lasting a day or two."
+  },
+  {
+   "id": "micro-p327-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "text": "{{c1::Type II (antibody-mediated)}} hypersensitivity, also known as {{c2::cytotoxic}} reactions: antibodies destroy cells with or without activating the complement system."
+  },
+  {
+   "id": "micro-p327-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "text": "In type II hypersensitivity, {{c1::IgM or IgG}} may activate the {{c2::membrane attack complex}} to destroy cells, or coat target cells to attract macrophages and neutrophils."
+  },
+  {
+   "id": "micro-p327-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "text": "{{c1::Type III (immune complex-mediated)}} hypersensitivity: tissue damage from antigen–antibody complexes (IgG and IgM) deposited in tissues, triggering {{c2::complement}} activation."
+  },
+  {
+   "id": "micro-p327-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "text": "Unlike type II, in type III hypersensitivity the antigen is NOT {{c1::cell-bound}}; common sites of damage are {{c2::blood vessels, kidneys, lungs, skin, and joints}}."
+  },
+  {
+   "id": "micro-p327-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "text": "{{c1::Type IV (cell-mediated)}} hypersensitivity: a delayed response caused by {{c2::T cell}} interaction with antigens, not antibodies; symptoms appear {{c3::hours to days}} after exposure (e.g., contact dermatitis)."
+  },
+  {
+   "id": "micro-p327-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "text": "Repair step 1: {{c1::blood clot formation}} — blood flows into the injured tissue and forms a clot (temporary seal and scaffolding) made of {{c2::fibrin}} meshwork, clumped red blood cells, and platelets."
+  },
+  {
+   "id": "micro-p327-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "text": "Repair step 2 (acute inflammation & cellular influx): {{c1::neutrophils}} rush in first, followed by {{c2::monocytes}}, which transform into macrophages upon migration."
+  },
+  {
+   "id": "micro-p327-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "text": "Repair step 3: {{c1::phagocytosis and debris removal}} — neutrophils and macrophages engulf and digest foreign substances, bacteria and cellular debris, cleaning the wound site."
+  },
+  {
+   "id": "micro-p327-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "text": "Repair step 4: {{c1::granulation tissue}} — new, highly vascularized connective tissue — fills the wound; the clot's fibrinous meshwork also forms part of it."
+  },
+  {
+   "id": "micro-p327-013",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "text": "During granulation tissue formation, {{c1::fibroblasts}} produce extracellular matrix and collagen, and {{c2::endothelial cells}} form new capillaries for blood supply."
+  },
+  {
+   "id": "micro-p327-014",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "text": "Repair step 5: the initial blood clot is broken down by {{c1::tissue enzymes}} and typically detaches from the wound after about {{c2::a week}}."
+  },
+  {
+   "id": "micro-p327-015",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "text": "Repair step 6: as the wound matures, granulation tissue is replaced by more dense, fibrous connective tissue ({{c1::collagen}}), forming the final scar."
+  },
+  {
+   "id": "micro-p327-016",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "text": "In scar formation, fibroblasts produce large amounts of collagen while {{c1::myofibroblasts}} contract the wound."
+  },
+  {
+   "id": "micro-p328-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Types of wound healing",
+   "page": 328,
+   "text": "{{c1::Primary}} intention healing: wound edges are clean and perfectly joined (e.g., a surgical incision); it heals quickly with minimum scarring — a fine, linear scar.",
+   "extra": "WakeUpMemory: Primary → P → Perfect (healing, minimal scar); Secondary → S → Separated (scar, not joined perfectly); Tertiary → T → Terrible (infection)."
+  },
+  {
+   "id": "micro-p328-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Types of wound healing",
+   "page": 328,
+   "text": "{{c1::Secondary}} intention healing: wound edges are not perfectly joined (significant tissue loss, irregular margins, or infection); the wound heals from the {{c2::bottom up}} as {{c3::granulation tissue}} fills the defect.",
+   "extra": "WakeUpMemory: Primary → P → Perfect (healing, minimal scar); Secondary → S → Separated (scar, not joined perfectly); Tertiary → T → Terrible (infection)."
+  },
+  {
+   "id": "micro-p328-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Types of wound healing",
+   "page": 328,
+   "text": "Secondary intention healing is slower and gives more significant scarring, sometimes forming a {{c1::keloid}}."
+  },
+  {
+   "id": "micro-p328-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Types of wound healing",
+   "page": 328,
+   "text": "{{c1::Tertiary}} intention healing: infection or significant contamination is present, so the wound is left open for drainage and infection control, then closed surgically later — a {{c2::delayed primary closure}}.",
+   "extra": "WakeUpMemory: Primary → P → Perfect (healing, minimal scar); Secondary → S → Separated (scar, not joined perfectly); Tertiary → T → Terrible (infection)."
+  },
+  {
+   "id": "micro-p328-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Types of wound healing",
+   "page": 328,
+   "text": "The tertiary-intention scar is more noticeable than with {{c1::primary}} intention, but potentially less than with {{c2::secondary}} intention."
+  }
+ ],
+ "basic": [
+  {
+   "id": "micro-p321-b-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune system",
+   "page": 321,
+   "front": "Immune system",
+   "back": "A complex network of specialized cells, tissues, organs, and chemical messengers working together to identify and eliminate harmful substances and infectious agents (bacteria, viruses, fungi)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p322-b-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune terminology",
+   "page": 322,
+   "front": "Phagocyte",
+   "back": "\"Eating cell\" — an immune cell that eats/engulfs foreign particles, dead cells, and microorganisms (the immune system's \"Pac-Man\")",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p322-b-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune terminology",
+   "page": 322,
+   "front": "Antigen",
+   "back": "A substance that generates an immune response, prompting the body to produce antibodies against it — anything the immune system recognizes as foreign or potentially harmful",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p322-b-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Immune terminology",
+   "page": 322,
+   "front": "Antibody",
+   "back": "A Y-shaped protein produced by the immune system that specifically targets and works against antigens — the body's highly specific weapon to neutralize particular threats",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p326-b-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 326,
+   "front": "Chemotaxis",
+   "back": "The guided movement of immune cells (WBCs) toward the site of inflammation in response to chemical signals (e.g., histamine) — cells \"following a chemical trail\"",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "micro-p321-t-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries prevention",
+   "page": 321,
+   "question": "What is the pH of sodium bicarbonate toothpaste? (number)",
+   "answer": "8.3",
+   "extra": ""
+  },
+  {
+   "id": "micro-p322-t-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "question": "Neutrophils make up approximately what % of white blood cells? (number)",
+   "answer": "60",
+   "extra": "~60%"
+  },
+  {
+   "id": "micro-p322-t-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "question": "Macrophages/monocytes make up approximately what % of white blood cells? (number)",
+   "answer": "5",
+   "extra": "~5%"
+  },
+  {
+   "id": "micro-p322-t-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "question": "Lymphocytes make up approximately what % of white blood cells? (range, e.g. 1–2)",
+   "answer": "20–40",
+   "extra": "~20–40%"
+  },
+  {
+   "id": "micro-p323-t-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "question": "B-lymphocytes make up approximately what % of lymphocytes? (range, e.g. 1–2)",
+   "answer": "10–20",
+   "extra": ""
+  },
+  {
+   "id": "micro-p323-t-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "question": "T-lymphocytes make up approximately what % of lymphocytes? (range, e.g. 1–2)",
+   "answer": "80–90",
+   "extra": ""
+  },
+  {
+   "id": "micro-p323-t-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 323,
+   "question": "NK cells make up approximately what % of lymphocytes? (range, e.g. 1–2)",
+   "answer": "5–15",
+   "extra": ""
+  },
+  {
+   "id": "micro-p323-t-04",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "question": "IgG accounts for approximately what % of total antibodies? (range, e.g. 1–2)",
+   "answer": "75–80",
+   "extra": ""
+  },
+  {
+   "id": "micro-p324-t-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "question": "Matrix metalloproteinases (MMPs) are a group of how many different enzymes? (number)",
+   "answer": "12",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "micro-p321-m-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries prevention",
+   "page": 321,
+   "prompt": "Match each caries-prevention strategy to its purpose.",
+   "pairs": [
+    [
+     "Saliva stimulation",
+     "Clears debris, buffers acid, supplies Ca/PO4/F"
+    ],
+    [
+     "Fluoride therapy",
+     "Forms fluorapatite; inhibits bacteria"
+    ],
+    [
+     "Sealants",
+     "Block food/bacteria retention in pits & fissures"
+    ],
+    [
+     "Dietary modifications",
+     "Xylitol / sugar alcohols instead of sugar"
+    ],
+    [
+     "Management of pH",
+     "Sodium bicarbonate toothpaste, high-pH rinses"
+    ]
+   ]
+  },
+  {
+   "id": "micro-p322-m-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "prompt": "Match each immune cell to its hallmark role.",
+   "pairs": [
+    [
+     "Neutrophil (PMN)",
+     "First responder; dominates acute inflammation"
+    ],
+    [
+     "Macrophage",
+     "Slower arrival; dominates chronic inflammation"
+    ],
+    [
+     "B-lymphocyte",
+     "Humoral immunity — becomes antibody-making plasma cell"
+    ],
+    [
+     "T-lymphocyte",
+     "Cell-mediated immunity — no antibodies"
+    ],
+    [
+     "Natural killer cell",
+     "Innate killing of virus-infected and cancer cells"
+    ]
+   ]
+  },
+  {
+   "id": "micro-p323-m-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "prompt": "Match each immunoglobulin to its hallmark.",
+   "pairs": [
+    [
+     "IgG",
+     "Most common; crosses the placenta"
+    ],
+    [
+     "IgA",
+     "Saliva, tears, mucus, breast milk"
+    ],
+    [
+     "IgM",
+     "First made; pentamer"
+    ],
+    [
+     "IgE",
+     "Allergy and parasites; binds mast cells"
+    ],
+    [
+     "IgD",
+     "B-cell surface receptor"
+    ]
+   ],
+   "extra": "WakeUpMemory GAMED: G General/Greatest · A salivA/surfaces · M Moving fast/first · E Emergency/allergy · D Detect/recognizes antigens."
+  },
+  {
+   "id": "micro-p324-m-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "prompt": "Match each inflammatory mediator to its key role.",
+   "pairs": [
+    [
+     "Histamine",
+     "Vasodilation + vascular permeability (early response)"
+    ],
+    [
+     "Cytokines (IL-1, IL-6, IL-8, TNF-α)",
+     "Signal immune system; recruit neutrophils"
+    ],
+    [
+     "Prostaglandin E (PGE)",
+     "Bone destruction in periodontitis"
+    ],
+    [
+     "MMPs",
+     "Break down periodontal connective tissue (extracellular matrix)"
+    ],
+    [
+     "Collagenases",
+     "Destroy collagen specifically"
+    ]
+   ]
+  },
+  {
+   "id": "micro-p327-m-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "prompt": "Match each hypersensitivity type to its mechanism.",
+   "pairs": [
+    [
+     "Type I",
+     "Immediate; minutes; asthma, anaphylaxis"
+    ],
+    [
+     "Type II",
+     "Cytotoxic — antibodies against cell-bound antigen"
+    ],
+    [
+     "Type III",
+     "Immune complexes deposit in tissues; antigen not cell-bound"
+    ],
+    [
+     "Type IV",
+     "T cells, no antibodies; delayed hours–days"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "micro-p321-o-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Phagocytosis",
+   "page": 321,
+   "prompt": "Put the steps of phagocytosis in order.",
+   "items": [
+    "Phagocyte binds with the pathogen",
+    "Pathogen is ingested by the phagocyte",
+    "Lysosomes fuse with the phagosome",
+    "Antigen presentation (MHC class II → T-helper cell)"
+   ]
+  },
+  {
+   "id": "micro-p325-o-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 325,
+   "prompt": "Put the events of inflammation in order (book's 11-step table).",
+   "items": [
+    "Injury / tissue damage",
+    "Brief vasoconstriction",
+    "Mast cells activated",
+    "Release of inflammatory mediators",
+    "Vasodilation",
+    "Increased blood flow (heat, redness)",
+    "Increased vascular permeability",
+    "Accumulation of fluid, proteins, cells (swelling)",
+    "Pain",
+    "Loss of function",
+    "Chemotaxis"
+   ]
+  },
+  {
+   "id": "micro-p326-o-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 326,
+   "prompt": "Put the events in the book's wound-inflammation figure in order.",
+   "items": [
+    "Bacteria and other pathogens enter the wound",
+    "Platelets release blood-clotting proteins at the wound site",
+    "Mast cells secrete factors mediating vasodilation and vascular constriction",
+    "Neutrophils secrete factors that kill and degrade pathogens",
+    "Neutrophils and macrophages remove pathogens by phagocytosis",
+    "Macrophages secrete cytokines that attract immune cells and activate repair cells",
+    "Inflammation continues until the foreign material is gone and the wound is repaired"
+   ]
+  },
+  {
+   "id": "micro-p327-o-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "prompt": "Put the stages of the repair process (injury → scar) in order.",
+   "items": [
+    "Blood clot formation",
+    "Acute inflammation & cellular influx",
+    "Phagocytosis and debris removal",
+    "Granulation tissue formation",
+    "Clot digestion and removal",
+    "Scar and new tissue formation"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "micro-p321-s-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Blood cell lineages",
+   "page": 321,
+   "prompt": "Sort the blood cells by the stem cell line they come from (per the book's diagram).",
+   "categories": [
+    [
+     "Myeloid stem cell",
+     [
+      "Red blood cells",
+      "Platelets",
+      "Neutrophil",
+      "Eosinophil",
+      "Basophil"
+     ]
+    ],
+    [
+     "Lymphoid stem cell",
+     [
+      "B lymphocyte",
+      "T lymphocyte",
+      "Natural killer cell"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "micro-p324-s-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Innate (natural) immunity",
+   "page": 324,
+   "prompt": "Sort these defenses: innate or acquired immunity?",
+   "categories": [
+    [
+     "Innate (natural)",
+     [
+      "Skin",
+      "Mucous membranes",
+      "Saliva",
+      "Stomach acid",
+      "Neutrophils & macrophages",
+      "Natural killer cells"
+     ]
+    ],
+    [
+     "Acquired (adaptive)",
+     [
+      "B-lymphocytes / antibodies",
+      "T-lymphocytes",
+      "Immunity after a vaccine",
+      "Immunity after recovering from flu"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "micro-p325-s-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Acquired (adaptive) immunity",
+   "page": 325,
+   "prompt": "Sort each example by type of acquired immunity.",
+   "categories": [
+    [
+     "Naturally active",
+     [
+      "Recovering from seasonal flu"
+     ]
+    ],
+    [
+     "Naturally passive",
+     [
+      "Antibodies in breast milk",
+      "Rh antibodies across the placenta"
+     ]
+    ],
+    [
+     "Artificially active",
+     [
+      "MMR vaccine",
+      "Annual flu vaccine"
+     ]
+    ],
+    [
+     "Artificially passive",
+     [
+      "Hepatitis B immunoglobulin after exposure"
+     ]
+    ]
+   ],
+   "extra": "WakeUpMemory: Natural = NO injection / Artificial = YES injection; Active = ACT — my body does the work / Passive = my body receives."
+  }
+ ],
+ "mcq": [
+  {
+   "id": "micro-p321-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries prevention",
+   "page": 321,
+   "question": "A patient taking several xerostomia-inducing medications has new cervical caries. Which prevention strategy most directly addresses the risk factor that has changed?",
+   "options": [
+    "A. Sealants on occlusal pits and fissures",
+    "B. Saliva stimulation",
+    "C. Substituting sugar with xylitol",
+    "D. Sodium bicarbonate toothpaste"
+   ],
+   "answer": "B. Saliva stimulation",
+   "explanation": "Xerostomia is a caries risk factor because saliva clears debris, buffers acid (raises pH) and supplies Ca, PO4 and F for remineralization — stimulating saliva restores that. Sealants protect pits and fissures, not cervical surfaces."
+  },
+  {
+   "id": "micro-p321-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Blood cell lineages",
+   "page": 321,
+   "question": "Which cell develops from the lymphoid stem cell (via the lymphoblast)?",
+   "options": [
+    "A. Neutrophil",
+    "B. Basophil",
+    "C. Natural killer cell",
+    "D. Platelet"
+   ],
+   "answer": "C. Natural killer cell",
+   "explanation": "Lymphoid stem cell → lymphoblast → B lymphocyte, T lymphocyte, natural killer cell. Neutrophils and basophils are granulocytes from the myeloid line (via the myeloblast); platelets are also myeloid."
+  },
+  {
+   "id": "micro-p322-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "question": "A tissue sample from a long-standing (chronic) inflammatory lesion is examined. According to the review guide, which immune cell is often the MOST numerous?",
+   "options": [
+    "A. Neutrophils",
+    "B. Macrophages",
+    "C. Eosinophils",
+    "D. Natural killer cells"
+   ],
+   "answer": "B. Macrophages",
+   "explanation": "Macrophages arrive more slowly than neutrophils and are often the most numerous immune cells in chronic inflammation. Neutrophils (PMNs) are the most prevalent cells in ACUTE inflammation."
+  },
+  {
+   "id": "micro-p322-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Key immune cells",
+   "page": 322,
+   "question": "Purulent exudate (pus) draining from an abscess consists mainly of accumulated dead:",
+   "options": [
+    "A. Lymphocytes",
+    "B. Plasma cells",
+    "C. Neutrophils (PMNs)",
+    "D. Mast cells"
+   ],
+   "answer": "C. Neutrophils (PMNs)",
+   "explanation": "Accumulation of dead PMNs forms pus (suppuration/exudate). Neutrophils are the rapid first responders packed with bactericidal lysosomal enzymes; lymphocytes direct the adaptive response and do not form pus."
+  },
+  {
+   "id": "micro-p323-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "question": "A patient's blood test shows elevated antibodies of the pentameric class against a virus. What does this most likely indicate?",
+   "options": [
+    "A. Lifelong immunity from a childhood vaccine",
+    "B. A recent or current infection",
+    "C. Maternal antibodies passed across the placenta",
+    "D. An allergic (type I) sensitivity"
+   ],
+   "answer": "B. A recent or current infection",
+   "explanation": "IgM is the pentamer and the first antibody made in an initial infection, so it indicates a recent or current infection. Long-term immunity and placental transfer are IgG; allergy is IgE."
+  },
+  {
+   "id": "micro-p323-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Key antibodies (immunoglobulins)",
+   "page": 323,
+   "question": "Within minutes of a latex exposure a patient develops hives and wheezing. Which antibody, bound to mast cells and basophils, triggers this histamine release?",
+   "options": [
+    "A. IgA",
+    "B. IgD",
+    "C. IgE",
+    "D. IgG"
+   ],
+   "answer": "C. IgE",
+   "explanation": "IgE binds mast cells and basophils and triggers release of histamine and other mediators — the allergic \"emergency\". IgG is the most common antibody but is not the allergy antibody."
+  },
+  {
+   "id": "micro-p324-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammatory mediators",
+   "page": 324,
+   "question": "Which inflammatory mediator is particularly important in the alveolar BONE destruction seen in periodontitis?",
+   "options": [
+    "A. Histamine",
+    "B. Prostaglandin E (PGE)",
+    "C. IgD",
+    "D. Collagenase"
+   ],
+   "answer": "B. Prostaglandin E (PGE)",
+   "explanation": "Prostaglandins of the E series (PGE) are especially important in bone destruction in periodontitis. Collagenases (a subtype of MMPs) destroy collagen in connective tissue, not bone specifically; histamine starts the early vascular response."
+  },
+  {
+   "id": "micro-p325-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Acquired (adaptive) immunity",
+   "page": 325,
+   "question": "After a needlestick from a source patient positive for hepatitis B, an unvaccinated hygienist receives hepatitis B immunoglobulin (HBIG). This provides which type of immunity?",
+   "options": [
+    "A. Naturally active acquired",
+    "B. Naturally passive acquired",
+    "C. Artificially active acquired",
+    "D. Artificially passive acquired"
+   ],
+   "answer": "D. Artificially passive acquired",
+   "explanation": "Injected pre-formed antibodies = artificially (injection) passive (her body receives, doesn't make them): immediate but temporary. The hepatitis B VACCINE would be artificially active."
+  },
+  {
+   "id": "micro-p325-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 325,
+   "question": "Which event of inflammation is DIRECTLY responsible for edema?",
+   "options": [
+    "A. Brief vasoconstriction",
+    "B. Increased vascular permeability",
+    "C. Mast cell activation",
+    "D. Chemotaxis"
+   ],
+   "answer": "B. Increased vascular permeability",
+   "explanation": "\"Leaky\" vessel walls let fluid, plasma proteins and WBCs into the interstitial space, which builds up as swelling (edema). Vasoconstriction is the brief initial narrowing that limits blood loss."
+  },
+  {
+   "id": "micro-p326-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Inflammation sequence",
+   "page": 326,
+   "question": "The redness (erythema) and heat of an inflamed gingiva result mainly from:",
+   "options": [
+    "A. Brief vasoconstriction",
+    "B. Increased blood flow from vasodilation",
+    "C. Accumulation of dead PMNs",
+    "D. Loss of function"
+   ],
+   "answer": "B. Increased blood flow from vasodilation",
+   "explanation": "Histamine-driven vasodilation widens local vessels and increases blood flow → heat and redness. Swelling comes from increased permeability; vasoconstriction is the brief initial narrowing."
+  },
+  {
+   "id": "micro-p327-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "question": "Two days after a new nitrile-glove accelerator exposure, a hygienist develops an itchy, red, vesicular rash limited to her hands. Which type of hypersensitivity is this?",
+   "options": [
+    "A. Type I (immediate)",
+    "B. Type II (antibody-mediated)",
+    "C. Type III (immune complex-mediated)",
+    "D. Type IV (cell-mediated)"
+   ],
+   "answer": "D. Type IV (cell-mediated)",
+   "explanation": "Contact dermatitis appearing hours to days after exposure is type IV — T cells interacting with antigen, not antibodies. Type I begins within minutes (hives, wheezing, anaphylaxis)."
+  },
+  {
+   "id": "micro-p327-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Hypersensitivity",
+   "page": 327,
+   "question": "In which hypersensitivity type do antigen–antibody complexes that are NOT bound to cells deposit in blood vessels, kidneys, and joints?",
+   "options": [
+    "A. Type I",
+    "B. Type II",
+    "C. Type III",
+    "D. Type IV"
+   ],
+   "answer": "C. Type III",
+   "explanation": "Type III = immune complexes (IgG/IgM) deposited in tissues, activating complement; unlike type II, the antigen is not cell-bound. Type II antibodies attack antigens on the cell surface (cytotoxic)."
+  },
+  {
+   "id": "micro-p327-mcq-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Repair process (injury to scar)",
+   "page": 327,
+   "question": "Which cells are responsible for contracting a healing wound during scar formation?",
+   "options": [
+    "A. Endothelial cells",
+    "B. Myofibroblasts",
+    "C. Monocytes",
+    "D. Platelets"
+   ],
+   "answer": "B. Myofibroblasts",
+   "explanation": "In the final stage, fibroblasts lay down large amounts of collagen and myofibroblasts contract the wound. Endothelial cells form new capillaries in granulation tissue."
+  },
+  {
+   "id": "micro-p328-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Types of wound healing",
+   "page": 328,
+   "question": "A contaminated facial laceration is left open and packed for drainage, then sutured closed four days later once infection is controlled. This is healing by:",
+   "options": [
+    "A. Primary intention",
+    "B. Secondary intention",
+    "C. Tertiary intention",
+    "D. Granulation-only intention"
+   ],
+   "answer": "C. Tertiary intention",
+   "explanation": "Tertiary intention = delayed primary closure: left open for drainage/infection control, then closed surgically. Secondary intention is left to heal from the bottom up without closure."
+  },
+  {
+   "id": "micro-quiz-01",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which bacterial group is primarily responsible for the initiation of dental caries?",
+   "options": [
+    "A. Lactobacillus species",
+    "B. Streptococcus mutans",
+    "C. Actinomyces species",
+    "D. Porphyromonas gingivalis"
+   ],
+   "answer": "B. Streptococcus mutans",
+   "explanation": "This bacterium is highly acidogenic and aciduric, enabling it to initiate enamel demineralization."
+  },
+  {
+   "id": "micro-quiz-02",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "What characteristic allows gram-positive bacteria to retain the crystal violet stain?",
+   "options": [
+    "A. Thick peptidoglycan layer",
+    "B. Outer membrane",
+    "C. Lipopolysaccharide content",
+    "D. Thin peptidoglycan layer"
+   ],
+   "answer": "A. Thick peptidoglycan layer",
+   "explanation": "This thick layer traps crystal violet during the Gram staining process."
+  },
+  {
+   "id": "micro-quiz-03",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which bacteria is most associated with root caries?",
+   "options": [
+    "A. Streptococcus sobrinus",
+    "B. Lactobacillus species",
+    "C. Actinomyces naeslundii",
+    "D. Streptococcus mutans"
+   ],
+   "answer": "C. Actinomyces naeslundii",
+   "explanation": "These bacteria colonize root surfaces and are linked with root caries."
+  },
+  {
+   "id": "micro-quiz-04",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which bacterial toxin is heat-stable and released only when gram-negative bacteria lyse?",
+   "options": [
+    "A. Exotoxin",
+    "B. Endotoxin",
+    "C. Neurotoxin",
+    "D. Enterotoxin"
+   ],
+   "answer": "B. Endotoxin",
+   "explanation": "Lipopolysaccharide (LPS), also referred to as endotoxin, is in the gram-negative outer membrane, released upon cell lysis, and heat-stable."
+  },
+  {
+   "id": "micro-quiz-05",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which bacteria are facultative anaerobes capable of surviving with or without oxygen?",
+   "options": [
+    "A. Streptococcus mutans",
+    "B. Lactobacillus species",
+    "C. Actinomyces species",
+    "D. Clostridium species"
+   ],
+   "answer": "A. Streptococcus mutans",
+   "explanation": "Can survive in both aerobic and anaerobic environments."
+  },
+  {
+   "id": "micro-quiz-06",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which best describes the role of Lactobacillus in caries formation?",
+   "options": [
+    "A. Initiation of caries on smooth surfaces",
+    "B. Progression of caries into dentin",
+    "C. Root caries initiation",
+    "D. Biofilm formation only"
+   ],
+   "answer": "B. Progression of caries into dentin",
+   "explanation": "Lactobacillus species thrive in acidic environments and deepen existing lesions."
+  },
+  {
+   "id": "micro-quiz-07",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which dietary habit is most harmful in increasing the risk of dental caries?",
+   "options": [
+    "A. Consuming a large amount of sugar once a day",
+    "B. Frequent snacking on small amounts of cariogenic foods",
+    "C. Eating cariogenic foods only during meals",
+    "D. Drinking water after meals"
+   ],
+   "answer": "B. Frequent snacking on small amounts of cariogenic foods",
+   "explanation": "Repeated sugar exposure prolongs acid attacks and lowers pH."
+  },
+  {
+   "id": "micro-quiz-08",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which type of hypersensitivity reaction involves T cells and typically appears hours to days after antigen exposure?",
+   "options": [
+    "A. Type I (Immediate)",
+    "B. Type II (Antibody-mediated)",
+    "C. Type III (Immune complex-mediated)",
+    "D. Type IV (Cell-mediated)"
+   ],
+   "answer": "D. Type IV (Cell-mediated)",
+   "explanation": "Type IV is mediated by T cells, not antibodies, and has a delayed response (e.g., contact dermatitis)."
+  },
+  {
+   "id": "micro-quiz-09",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which form of acquired immunity results from a person receiving an immunization such as the MMR vaccine?",
+   "options": [
+    "A. Naturally active acquired immunity",
+    "B. Naturally passive acquired immunity",
+    "C. Artificially active acquired immunity",
+    "D. Artificially passive acquired immunity"
+   ],
+   "answer": "C. Artificially active acquired immunity",
+   "explanation": "Artificially active immunity comes from vaccines that introduce antigens to stimulate immunity."
+  },
+  {
+   "id": "micro-quiz-10",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "What is the mode of transmission for Bordetella pertussis?",
+   "options": [
+    "A. Blood and blood products",
+    "B. Sexual contact",
+    "C. Droplet inhalation or direct contact with discharges",
+    "D. Fecal-oral route"
+   ],
+   "answer": "C. Droplet inhalation or direct contact with discharges",
+   "explanation": "Pertussis (whooping cough) spreads via respiratory droplets and discharges."
+  },
+  {
+   "id": "micro-quiz-11",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which virus is associated with oropharyngeal cancer and is transmitted through sexual contact?",
+   "options": [
+    "A. Epstein-Barr virus (EBV)",
+    "B. Human papillomavirus (HPV)",
+    "C. Herpes simplex virus",
+    "D. Hepatitis B virus (HBV)"
+   ],
+   "answer": "B. Human papillomavirus (HPV)",
+   "explanation": "HPV is linked to oropharyngeal and cervical cancers; spread sexually."
+  },
+  {
+   "id": "micro-quiz-12",
+   "deck": "Quizzes",
+   "section": "Microbiology & Immunology bonus quiz",
+   "page": 329,
+   "question": "Which describes the mechanism of Type II hypersensitivity reactions?",
+   "options": [
+    "A. Antigen-antibody complexes deposit in tissues, activating complement",
+    "B. IgE antibodies trigger mast cells to release histamine",
+    "C. Antibodies bind to cell-surface antigens, causing destruction of the cell",
+    "D. T cells activate macrophages, leading to inflammation"
+   ],
+   "answer": "C. Antibodies bind to cell-surface antigens, causing destruction of the cell",
+   "explanation": "In Type II, IgG or IgM bind to antigens on cell surfaces and activate complement or opsonization."
+  }
+ ]
+}

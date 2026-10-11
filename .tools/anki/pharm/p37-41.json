@@ -1,0 +1,1358 @@
+{
+ "diagrams": [],
+ "cloze": [
+  {
+   "id": "pharm-p37-001",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 37,
+   "text": "Chlorhexidine is used after {{c1::scaling and root planing (SRP)}} to reduce bacterial load and promote healing; it is indicated for gingivitis, periodontitis, mucositis and {{c2::peri-implantitis}}."
+  },
+  {
+   "id": "pharm-p37-002",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 37,
+   "text": "Topical/local chlorhexidine has no known {{c1::systemic absorption}}, so it is safe during {{c2::pregnancy and breastfeeding}}."
+  },
+  {
+   "id": "pharm-p37-003",
+   "deck": "Pharmacology",
+   "section": "Anti-tuberculosis agents",
+   "page": 37,
+   "text": "Tuberculosis (TB) is caused by the bacterium {{c1::Mycobacterium tuberculosis}}, which primarily affects the {{c2::lungs}} but can also affect other organs."
+  },
+  {
+   "id": "pharm-p37-004",
+   "deck": "Pharmacology",
+   "section": "Anti-tuberculosis agents",
+   "page": 37,
+   "text": "Anti-tuberculosis drugs used for long periods include {{c1::isoniazid (INH)}}, {{c2::rifampin}} (Rifadin®) and {{c3::pyrazinamide}} (Pyrazinamide®)."
+  },
+  {
+   "id": "pharm-p37-005",
+   "deck": "Pharmacology",
+   "section": "Anti-tuberculosis agents",
+   "page": 37,
+   "text": "The PPD ({{c1::purified protein derivative}}) test, also called the {{c2::Mantoux}} skin test, injects a small amount of TB antigen just under the skin."
+  },
+  {
+   "id": "pharm-p37-006",
+   "deck": "Pharmacology",
+   "section": "Anti-tuberculosis agents",
+   "page": 37,
+   "text": "A positive PPD test does NOT mean the patient has {{c1::active TB}}; a {{c2::chest X-ray}} or further tests are required to rule it out."
+  },
+  {
+   "id": "pharm-p37-007",
+   "deck": "Pharmacology",
+   "section": "Antiviral agents",
+   "page": 37,
+   "text": "A virus is much smaller than a fungus or bacterium; it must invade a {{c1::living cell}} and release its {{c2::DNA or RNA}} to reproduce."
+  },
+  {
+   "id": "pharm-p37-008",
+   "deck": "Pharmacology",
+   "section": "Antiviral agents",
+   "page": 37,
+   "text": "Antiviral drugs do not work like antibiotics: they target specific viruses and interfere with {{c1::viral replication (DNA or RNA copying)}}."
+  },
+  {
+   "id": "pharm-p37-009",
+   "deck": "Pharmacology",
+   "section": "Antiviral agents",
+   "page": 37,
+   "text": "{{c1::Acyclovir}} (Zovirax®) treats HSV-1 (cold sores), HSV-2 (genital herpes), {{c2::shingles (varicella-zoster)}} and {{c2::Epstein-Barr virus (mononucleosis)}}."
+  },
+  {
+   "id": "pharm-p37-010",
+   "deck": "Pharmacology",
+   "section": "Antiviral agents",
+   "page": 37,
+   "text": "{{c1::Docosanol}} (Abreva®) is available {{c2::over-the-counter}} and is used for oral herpes labialis (cold sores)."
+  },
+  {
+   "id": "pharm-p37-011",
+   "deck": "Pharmacology",
+   "section": "Antiviral agents",
+   "page": 37,
+   "text": "{{c1::Zidovudine}} (AZT®, Retrovir®) is used to manage {{c2::HIV}} infections; it reduces viral load and slows disease progression."
+  },
+  {
+   "id": "pharm-p37-012",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "text": "Nystatin (Mycostatin®) is a {{c1::polyene}} antifungal used {{c2::topically}} as a rinse, lozenge or ointment; it is great for localized candidiasis and denture wearers."
+  },
+  {
+   "id": "pharm-p37-013",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "text": "Board Alert: nystatin oral suspension can contain {{c1::sugar}} (to improve taste), so patients using it have an increased {{c2::caries}} risk.",
+   "extra": "How a drug is delivered matters — tie the delivery form to the oral finding in case studies."
+  },
+  {
+   "id": "pharm-p37-014",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "text": "Clotrimazole (Mycelex®) is an {{c1::imidazole}} antifungal used topically as a {{c2::lozenge/troche}}; it is good for compliance because of its pleasant taste."
+  },
+  {
+   "id": "pharm-p37-015",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "text": "Fluconazole (Diflucan®) is a {{c1::triazole}} antifungal taken {{c2::systemically}} (oral tablet/suspension); use it if topical therapy fails and monitor for systemic side effects.",
+   "extra": "Also used for esophageal or systemic infections."
+  },
+  {
+   "id": "pharm-p37-016",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "text": "Ketoconazole is an {{c1::imidazole}} antifungal (systemic oral tablet; topical cream); it is {{c2::not a first choice}} and rarely used in oral candidiasis today — consider alternatives."
+  },
+  {
+   "id": "pharm-p37-017",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "text": "Patients using inhaled {{c1::corticosteroids}} (e.g., fluticasone, budesonide) are at increased risk for {{c2::candidiasis}}; always recommend they {{c3::rinse with water and spit}} after inhaler use."
+  },
+  {
+   "id": "pharm-p38-001",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "SSRIs ({{c1::selective serotonin reuptake inhibitors}}) work by inhibiting the reuptake of {{c2::serotonin}}; examples are fluoxetine, sertraline and citalopram."
+  },
+  {
+   "id": "pharm-p38-002",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "SSRIs are {{c1::first-line}} for depression and anxiety and the most commonly prescribed antidepressants today, because of fewer side effects and safer profiles than older drugs.",
+   "extra": "In dentistry patients may take them for depression or anxiety (may be pre-op)."
+  },
+  {
+   "id": "pharm-p38-003",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "SSRIs: the main dental concern is that {{c1::xerostomia}} is common; drug-interaction risk is {{c2::low}}.",
+   "extra": "Common side effects: GI upset, insomnia, dry mouth, headache."
+  },
+  {
+   "id": "pharm-p38-004",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "TCAs ({{c1::tricyclic antidepressants}}, e.g., {{c2::amitriptyline}}) inhibit the reuptake of serotonin + {{c3::norepinephrine}}.",
+   "extra": "In dentistry sometimes used for chronic pain or anxiety."
+  },
+  {
+   "id": "pharm-p38-005",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "TCAs have a {{c1::high}} interaction risk with epinephrine and sedatives; common side effects are dry mouth, drowsiness, dizziness and {{c2::arrhythmia}} risk."
+  },
+  {
+   "id": "pharm-p38-006",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "MAOIs ({{c1::monoamine oxidase inhibitors}}, e.g., {{c2::phenelzine}}) inhibit the {{c3::breakdown}} of monoamines (serotonin, norepinephrine, dopamine)."
+  },
+  {
+   "id": "pharm-p38-007",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "MAOIs are rarely prescribed today because of complex dietary restrictions: combining them with aged cheese, red wine or cured meats can cause {{c1::hypertensive crisis}}; {{c2::epinephrine}} should also be avoided.",
+   "extra": "Dental concern: avoid vasoconstrictors, major interaction risk; rare in dentistry. Side effects: orthostatic hypotension, hypertensive crisis."
+  },
+  {
+   "id": "pharm-p38-008",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "NDRIs (norepinephrine-dopamine reuptake inhibitors, e.g., {{c1::bupropion}}) inhibit the reuptake of norepinephrine + {{c2::dopamine}}."
+  },
+  {
+   "id": "pharm-p38-009",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "Bupropion is used off-label for {{c1::smoking cessation}} and also for ADHD and nicotine withdrawal; its dental concern is possible {{c2::seizure threshold}} reduction.",
+   "extra": "Interacts with stimulants. Side effects: dry mouth, anxiety, insomnia."
+  },
+  {
+   "id": "pharm-p38-010",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "text": "All antidepressants can cause {{c1::xerostomia}}, which can increase {{c2::caries}} risk and contribute to bad breath and oral discomfort."
+  },
+  {
+   "id": "pharm-p38-011",
+   "deck": "Pharmacology",
+   "section": "Antipsychotics",
+   "page": 38,
+   "text": "Typical antipsychotics are {{c1::first}}-generation agents, e.g., chlorpromazine (Thorazine®) and haloperidol (Haldol®), used for {{c2::schizophrenia}} and acute psychosis."
+  },
+  {
+   "id": "pharm-p38-012",
+   "deck": "Pharmacology",
+   "section": "Antipsychotics",
+   "page": 38,
+   "text": "Atypical antipsychotics are {{c1::second}}-generation agents, e.g., clozapine (Clozaril®), risperidone (Risperdal®), olanzapine (Zyprexa®) and quetiapine (Seroquel®), used for schizophrenia, {{c2::bipolar disorder}} and mood stabilization."
+  },
+  {
+   "id": "pharm-p39-001",
+   "deck": "Pharmacology",
+   "section": "Antipsychotics",
+   "page": 39,
+   "text": "Typical antipsychotics: dental concerns are xerostomia, {{c1::tardive dyskinesia}} and sedation; side effects include sedation, {{c2::EPS}} (tremors, stiffness, muscle spasms, restlessness) and {{c3::orthostatic hypotension}}.",
+   "extra": "EPS = extrapyramidal symptoms."
+  },
+  {
+   "id": "pharm-p39-002",
+   "deck": "Pharmacology",
+   "section": "Antipsychotics",
+   "page": 39,
+   "text": "Typical antipsychotics cause increased sedation with {{c1::CNS depressants}}; use caution with {{c2::epinephrine}}."
+  },
+  {
+   "id": "pharm-p39-003",
+   "deck": "Pharmacology",
+   "section": "Antipsychotics",
+   "page": 39,
+   "text": "Atypical antipsychotics: dental concerns are xerostomia and {{c1::metabolic issues (weight gain, diabetes risk)}}; they cause {{c2::less EPS}} than typical agents.",
+   "extra": "Side effects: sedation, weight gain. Interactions similar to typical agents; may increase blood glucose."
+  },
+  {
+   "id": "pharm-p39-004",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "Benzodiazepines {{c1::enhance GABA}} → CNS depression; examples are diazepam (Valium®), lorazepam (Ativan®) and alprazolam (Xanax®)."
+  },
+  {
+   "id": "pharm-p39-005",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "Benzodiazepines have a strong {{c1::additive}} effect with CNS depressants; {{c2::short}}-acting agents (e.g., triazolam) are preferred."
+  },
+  {
+   "id": "pharm-p39-006",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "Benzodiazepine generic names usually end in {{c1::-pam}} or {{c1::-lam}}.",
+   "extra": "WakeUpMemory: \"A lam called Pam calms you down.\""
+  },
+  {
+   "id": "pharm-p39-007",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "Non-benzodiazepine hypnotics (sedative-hypnotics, e.g., zolpidem and eszopiclone) selectively enhance {{c1::GABA-A}} receptors and are mainly prescribed for {{c2::sleep}}, not anxiety.",
+   "extra": "Interactions: same as benzos."
+  },
+  {
+   "id": "pharm-p39-008",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "The beta-blocker {{c1::propranolol}} (Inderal®) blocks {{c2::beta-1}} receptors to reduce heart rate and tremors; it is used for {{c3::situational}} anxiety, not long-term.",
+   "extra": "Caution with vasoconstrictors."
+  },
+  {
+   "id": "pharm-p39-009",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "{{c1::Buspirone}} (Buspar®), an azapirone, acts by serotonin modulation and is {{c2::non-sedating}}."
+  },
+  {
+   "id": "pharm-p39-010",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "SSRIs (e.g., sertraline, paroxetine), originally developed as antidepressants, are now {{c1::first-line}} for chronic generalized anxiety disorder (GAD); they interact with many drugs."
+  },
+  {
+   "id": "pharm-p39-011",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "Every antianxiety drug class (benzodiazepines, non-benzo hypnotics, beta blockers, buspirone/SSRIs) lists {{c1::xerostomia}} and drowsiness as side effects."
+  },
+  {
+   "id": "pharm-p39-012",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "Anxiety disorders include generalized anxiety disorder (GAD), {{c1::panic disorder}}, phobias, {{c2::OCD}} and social anxiety."
+  },
+  {
+   "id": "pharm-p39-013",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "text": "Besides anxiety, benzodiazepines are also used as {{c1::muscle relaxants}}, sedatives and {{c2::anticonvulsants}}."
+  },
+  {
+   "id": "pharm-p39-014",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 39,
+   "text": "Alcohol is a {{c1::depressant}}; its oral effects are xerostomia, {{c2::bleeding}} and poor healing."
+  },
+  {
+   "id": "pharm-p39-015",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 39,
+   "text": "Opioids are {{c1::depressants}}; their oral effects are xerostomia and {{c2::sedation}}."
+  },
+  {
+   "id": "pharm-p39-016",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 39,
+   "text": "Methamphetamine is a {{c1::stimulant}} whose oral effect is \"{{c2::meth mouth}}\" (caries, attrition, dry mucosa)."
+  },
+  {
+   "id": "pharm-p39-017",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 39,
+   "text": "Cocaine is a {{c1::stimulant}}; its oral effects are {{c2::mucosal burns}} and vasoconstriction."
+  },
+  {
+   "id": "pharm-p39-018",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 39,
+   "text": "Nicotine is a {{c1::stimulant}}; its oral effects are xerostomia, {{c2::staining}} and delayed healing."
+  },
+  {
+   "id": "pharm-p39-019",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 39,
+   "text": "Marijuana is classed (in the book) as a {{c1::psychedelic}}; oral effects are xerostomia, anxiety and {{c2::reduced pain control}}."
+  },
+  {
+   "id": "pharm-p39-020",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 39,
+   "text": "LSD is a {{c1::psychedelic}}; its effects are hallucinations and {{c2::altered perception}}."
+  },
+  {
+   "id": "pharm-p40-001",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "Alcohol: key risk is {{c1::liver damage}} → bleeding risk; dental management is to {{c2::monitor bleeding}} and use caution with trauma."
+  },
+  {
+   "id": "pharm-p40-002",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "Opioids: key risks are dependence and {{c1::CNS depression}}; dental management is to {{c2::limit sedation}} and keep appointments short."
+  },
+  {
+   "id": "pharm-p40-003",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "Methamphetamine: key risks are severe decay, {{c1::bruxism}} and poor hygiene; dental management is to avoid epinephrine and provide {{c2::fluoride}}."
+  },
+  {
+   "id": "pharm-p40-004",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "\"Meth mouth\" is caused by the drug's {{c1::acidity}}, severe dry mouth, high {{c2::sugar}} intake, clenching/grinding and poor oral hygiene during binges."
+  },
+  {
+   "id": "pharm-p40-005",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "Cocaine: key risk is {{c1::cardiac arrest}} with epinephrine; give no epinephrine if cocaine was used in the past {{c2::24}} hours.",
+   "extra": "Epinephrine should be carefully considered in any stimulant user (especially cocaine)."
+  },
+  {
+   "id": "pharm-p40-006",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "Nicotine: key risks are periodontal destruction and {{c1::implant failure}}; dental management is hygiene counseling and {{c2::cessation support}}."
+  },
+  {
+   "id": "pharm-p40-007",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "Marijuana: key risk is {{c1::anxiety/paranoia}} during care; dental management is a calm tone and {{c2::adjusting anesthesia}}.",
+   "extra": "Substance use (especially cannabis or CNS stimulants) may interfere with anesthetic response and require dose adjustments."
+  },
+  {
+   "id": "pharm-p40-008",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "LSD: key risk is disorientation and unpredictable behavior; dental management is to {{c1::postpone care}} during active effects."
+  },
+  {
+   "id": "pharm-p40-009",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "Pinpoint pupils ({{c1::miosis}}) are a classic sign of {{c2::opioid}} use or overdose, often with sedation and respiratory depression.",
+   "extra": "WakeUpMemory: \"MIosis = mini pupils\" (e.g., heroin, morphine)."
+  },
+  {
+   "id": "pharm-p40-010",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "Dilated pupils ({{c1::mydriasis}}) are associated with {{c2::stimulant}} use (cocaine, amphetamines, methamphetamine) and may indicate recent or active use.",
+   "extra": "WakeUpMemory: \"MYdriasis = my eyes wide!\""
+  },
+  {
+   "id": "pharm-p40-011",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "text": "When prescribing for recovering addicts, use caution with opioids — {{c1::non-narcotic}} pain control (e.g., NSAIDs, acetaminophen) is preferred."
+  },
+  {
+   "id": "pharm-p40-012",
+   "deck": "Pharmacology",
+   "section": "Anticonvulsants",
+   "page": 40,
+   "text": "Anticonvulsants prevent or control seizures and are prescribed off-label for {{c1::neuropathic pain}}, {{c2::trigeminal neuralgia}}, bipolar disorder and fibromyalgia."
+  },
+  {
+   "id": "pharm-p40-013",
+   "deck": "Pharmacology",
+   "section": "Anticonvulsants",
+   "page": 40,
+   "text": "{{c1::Phenytoin}} (Dilantin®) binds {{c2::sodium channels}} to stabilize neurons; its major oral side effect is {{c3::gingival hyperplasia}}.",
+   "extra": "WakeUpMemory: \"Ph\" in Phenytoin = Puffy and Hyperplasia → \"Phenytoin = Puffy Gums.\""
+  },
+  {
+   "id": "pharm-p40-014",
+   "deck": "Pharmacology",
+   "section": "Anticonvulsants",
+   "page": 40,
+   "text": "{{c1::Carbamazepine}} (Tegretol®) blocks sodium channels and is the drug of choice for {{c2::trigeminal neuralgia}}."
+  },
+  {
+   "id": "pharm-p40-015",
+   "deck": "Pharmacology",
+   "section": "Anticonvulsants",
+   "page": 40,
+   "text": "Carbamazepine causes xerostomia and dizziness and may lead to {{c1::leukopenia}}, which can present as delayed healing or {{c2::oral ulcers}}."
+  },
+  {
+   "id": "pharm-p40-016",
+   "deck": "Pharmacology",
+   "section": "Anticonvulsants",
+   "page": 40,
+   "text": "Phenobarbital (Luminal®) is a {{c1::barbiturate}} that increases {{c2::GABA}} activity, causing sedation and {{c3::respiratory depression}}.",
+   "extra": "Long-term use may affect mental clarity and reduce oral hygiene ability."
+  },
+  {
+   "id": "pharm-p40-017",
+   "deck": "Pharmacology",
+   "section": "Anticonvulsants",
+   "page": 40,
+   "text": "{{c1::Gabapentin}} (Neurontin®) and {{c1::pregabalin}} (Lyrica®) are used for neuropathic pain and {{c2::fibromyalgia}}.",
+   "extra": "Side effects: dry mouth, drowsiness, incoordination → can impair brushing and increase caries or burning mouth sensation."
+  },
+  {
+   "id": "pharm-p40-018",
+   "deck": "Pharmacology",
+   "section": "Muscle relaxants",
+   "page": 40,
+   "text": "Muscle relaxants reduce muscle {{c1::spasms}} from injury, neurologic disorders or chronic pain; most act on the {{c2::central nervous system}} to dampen motor signals."
+  },
+  {
+   "id": "pharm-p40-019",
+   "deck": "Pharmacology",
+   "section": "Muscle relaxants",
+   "page": 40,
+   "text": "{{c1::Cyclobenzaprine}} (Flexeril®) relieves skeletal muscle spasms but frequently causes {{c2::xerostomia}}, drowsiness and dizziness.",
+   "extra": "Patients may report burning mouth, cracked lips or increased caries risk from reduced saliva."
+  },
+  {
+   "id": "pharm-p40-020",
+   "deck": "Pharmacology",
+   "section": "Muscle relaxants",
+   "page": 40,
+   "text": "Methocarbamol (Robaxin®), baclofen and tizanidine are {{c1::CNS depressants}} that reduce muscle tone; they can cause fatigue, {{c2::orthostatic hypotension}} and reduced coordination (affecting brushing)."
+  },
+  {
+   "id": "pharm-p41-001",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "text": "Antihistamines treat {{c1::mild to moderate}} allergy symptoms (sneezing, hives, rash) by {{c2::blocking histamine}}."
+  },
+  {
+   "id": "pharm-p41-002",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "text": "Antihistamines cause xerostomia, dizziness and drowsiness — especially {{c1::diphenhydramine}}.",
+   "extra": "Dental tips: advise hydration; monitor for sedation or dizziness during long appointments."
+  },
+  {
+   "id": "pharm-p41-003",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "text": "Epinephrine (EpiPen®) is the emergency treatment for {{c1::anaphylaxis}}: it opens airways and {{c2::raises blood pressure}} quickly.",
+   "extra": "Side effects: mild xerostomia, rapid heartbeat, anxiety, tremors. Dental tip: confirm EpiPen use if allergy is known; record medical history clearly."
+  },
+  {
+   "id": "pharm-p41-004",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "text": "Corticosteroids (e.g., fluticasone, hydrocortisone, prednisone) treat chronic allergy conditions (rhinitis, eczema, asthma) by {{c1::suppressing the immune response}} to reduce inflammation."
+  },
+  {
+   "id": "pharm-p41-005",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "text": "Corticosteroid side effects include xerostomia, {{c1::delayed healing}}, infection risk and {{c2::osteoporosis}} (with long-term use).",
+   "extra": "Dental tip: ask about long-term use — healing and infection risk increase with systemic steroids."
+  },
+  {
+   "id": "pharm-p41-006",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "text": "Leukotriene receptor antagonists (e.g., {{c1::montelukast}}) are used for long-term allergy and {{c2::asthma}} management; they block leukotrienes, chemicals that trigger swelling and mucus.",
+   "extra": "Side effects: headache, possible mood or sleep changes. No emergency dental concerns — confirm other allergy medications used."
+  },
+  {
+   "id": "pharm-p41-007",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "text": "An allergic reaction occurs when the immune system overreacts to an {{c1::antigen}} (foreign substance)."
+  },
+  {
+   "id": "pharm-p41-008",
+   "deck": "Pharmacology",
+   "section": "Immunosuppressants",
+   "page": 41,
+   "text": "Immunosuppressants suppress the immune system to prevent {{c1::rejection of transplanted organs}} and to manage {{c2::autoimmune}} diseases."
+  },
+  {
+   "id": "pharm-p41-009",
+   "deck": "Pharmacology",
+   "section": "Immunosuppressants",
+   "page": 41,
+   "text": "The major oral side effect of {{c1::cyclosporine}} (Sandimmune®) is {{c2::gingival hyperplasia}}, especially with poor plaque control.",
+   "extra": "Cause: stimulated fibroblasts and altered collagen metabolism (same mechanism as phenytoin)."
+  },
+  {
+   "id": "pharm-p41-010",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 41,
+   "text": "Type I diabetes is {{c1::autoimmune destruction}} of pancreatic {{c2::β-cells}}, so the body produces little or no insulin."
+  },
+  {
+   "id": "pharm-p41-011",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 41,
+   "text": "Type I diabetes is treated primarily with {{c1::insulin injections or an insulin pump}}; drug classes are insulin and {{c2::amylin analogues}}."
+  },
+  {
+   "id": "pharm-p41-012",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 41,
+   "text": "In Type II diabetes the body becomes {{c1::resistant to insulin}} or doesn't produce enough; it is often linked to obesity and lifestyle."
+  },
+  {
+   "id": "pharm-p41-013",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 41,
+   "text": "Type II diabetes is treated primarily with {{c1::oral medications}} (e.g., metformin), lifestyle changes, and sometimes insulin."
+  },
+  {
+   "id": "pharm-p41-014",
+   "deck": "Pharmacology",
+   "section": "Anti-diabetic agents",
+   "page": 41,
+   "text": "Type II diabetes drug classes include biguanides, {{c1::sulfonylureas}}, meglitinides, {{c2::GLP-1 agonists}}, DPP-4 inhibitors and SGLT2 inhibitors."
+  }
+ ],
+ "basic": [
+  {
+   "id": "pharm-p37-b-01",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 37,
+   "front": "Why can chlorhexidine be used long term (e.g., peri-implantitis management) when antibiotics should not be?",
+   "back": "Chlorhexidine does not cause bacterial resistance (unlike antibiotics). Its cosmetic side effects (staining, taste) are what limit extended use.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p37-b-02",
+   "deck": "Pharmacology",
+   "section": "Anti-tuberculosis agents",
+   "page": 37,
+   "front": "Why does TB treatment require multiple drugs taken over many months?",
+   "back": "Because of the bacteria's resistance and slow replication rate.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p37-b-03",
+   "deck": "Pharmacology",
+   "section": "Antiviral agents",
+   "page": 37,
+   "front": "Why are viral infections harder to treat than bacterial infections?",
+   "back": "The virus lives inside the host's cells, so it is hard for drugs to target it without harming the body.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p37-b-04",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "front": "How should a patient use nystatin rinse?",
+   "back": "Hold the rinse in the mouth before spitting, and remove dentures before use.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p37-b-05",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "front": "What do you tell a patient about taking a clotrimazole troche?",
+   "back": "Let the troche dissolve slowly — do not chew or swallow it.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p38-b-01",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "front": "Why is epinephrine (vasoconstrictor) avoided in local anesthetic for patients taking TCAs?",
+   "back": "TCAs can amplify the cardiovascular effects of epinephrine, potentially leading to hypertensive crisis — so the book says epinephrine is generally contraindicated in local anesthetics for these patients.",
+   "reverse": false,
+   "extra": "Dental concerns for TCAs: xerostomia, drowsiness, avoid epinephrine."
+  },
+  {
+   "id": "pharm-p39-b-01",
+   "deck": "Pharmacology",
+   "section": "Antipsychotics",
+   "page": 39,
+   "front": "Tardive dyskinesia",
+   "back": "Involuntary oral/facial movements — a dental concern with typical antipsychotics",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p40-b-01",
+   "deck": "Pharmacology",
+   "section": "Anticonvulsants",
+   "page": 40,
+   "front": "What causes phenytoin-induced gingival hyperplasia, and how does the hygienist manage it?",
+   "back": "Stimulation of fibroblasts and altered collagen metabolism — worst with poor plaque control. Emphasize meticulous brushing and regular dental visits.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p40-b-02",
+   "deck": "Pharmacology",
+   "section": "Muscle relaxants",
+   "page": 40,
+   "front": "What precautions does the hygienist take for a patient on muscle relaxants?",
+   "back": "Ask whether she took the medication before arriving (it may impair driving); recline and raise the chair slowly to avoid dizziness/fainting; reinforce basic hygiene routines and recommend frequent hydration for dry mouth.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p41-b-01",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "front": "Anaphylaxis",
+   "back": "A sudden, life-threatening allergic reaction",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p41-b-02",
+   "deck": "Pharmacology",
+   "section": "Immunosuppressants",
+   "page": 41,
+   "front": "Why coordinate with the physician before surgical or invasive procedures on a patient taking immunosuppressants?",
+   "back": "These patients are more susceptible to infection and may have delayed healing.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "pharm-p37-t-01",
+   "deck": "Pharmacology",
+   "section": "Anti-tuberculosis agents",
+   "page": 37,
+   "question": "TB treatment with multiple drugs usually lasts how many months? (format: x–y)",
+   "answer": "6–9",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p37-t-02",
+   "deck": "Pharmacology",
+   "section": "Anti-tuberculosis agents",
+   "page": 37,
+   "question": "A PPD (Mantoux) skin test is read how many hours after injection? (format: x–y)",
+   "answer": "48–72",
+   "extra": "The swelling at the injection site is read."
+  },
+  {
+   "id": "pharm-p37-t-03",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "question": "Antifungal treatment for oral candidiasis usually lasts how many days? (format: x–y)",
+   "answer": "7–14",
+   "extra": "May be extended for immunocompromised patients or recurrent infections."
+  },
+  {
+   "id": "pharm-p38-t-01",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "question": "Antidepressants usually take how many weeks to take effect? (format: x–y)",
+   "answer": "2–4",
+   "extra": "Onset is slow — not a \"quick fix.\""
+  }
+ ],
+ "match": [
+  {
+   "id": "pharm-p37-m-01",
+   "deck": "Pharmacology",
+   "section": "Antiviral & anti-infective agents",
+   "page": 37,
+   "prompt": "Match each drug to the infection it is used for.",
+   "pairs": [
+    [
+     "Acyclovir (Zovirax®)",
+     "HSV-1, HSV-2, shingles, Epstein-Barr"
+    ],
+    [
+     "Docosanol (Abreva®)",
+     "OTC for herpes labialis only"
+    ],
+    [
+     "Zidovudine (AZT®)",
+     "HIV"
+    ],
+    [
+     "Isoniazid (INH)",
+     "Tuberculosis"
+    ],
+    [
+     "Fluconazole (Diflucan®)",
+     "Esophageal or systemic fungal infection"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p38-m-01",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "prompt": "Match each antidepressant brand name to its generic name.",
+   "pairs": [
+    [
+     "Prozac®",
+     "Fluoxetine"
+    ],
+    [
+     "Zoloft®",
+     "Sertraline"
+    ],
+    [
+     "Celexa®",
+     "Citalopram"
+    ],
+    [
+     "Elavil®",
+     "Amitriptyline"
+    ],
+    [
+     "Nardil®",
+     "Phenelzine"
+    ],
+    [
+     "Wellbutrin® / Zyban®",
+     "Bupropion"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p38-m-02",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "prompt": "Match each antidepressant class to its mechanism.",
+   "pairs": [
+    [
+     "SSRI",
+     "Inhibits reuptake of serotonin"
+    ],
+    [
+     "TCA",
+     "Inhibits reuptake of serotonin + norepinephrine"
+    ],
+    [
+     "MAOI",
+     "Inhibits breakdown of monoamines"
+    ],
+    [
+     "NDRI",
+     "Inhibits reuptake of norepinephrine + dopamine"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p39-m-01",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "prompt": "Match each antianxiety brand name to its generic name.",
+   "pairs": [
+    [
+     "Valium®",
+     "Diazepam"
+    ],
+    [
+     "Ativan®",
+     "Lorazepam"
+    ],
+    [
+     "Xanax®",
+     "Alprazolam"
+    ],
+    [
+     "Ambien®",
+     "Zolpidem"
+    ],
+    [
+     "Lunesta®",
+     "Eszopiclone"
+    ],
+    [
+     "Inderal®",
+     "Propranolol"
+    ],
+    [
+     "Buspar®",
+     "Buspirone"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p40-m-01",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "prompt": "Match each substance to its dental management.",
+   "pairs": [
+    [
+     "Alcohol",
+     "Monitor bleeding, caution with trauma"
+    ],
+    [
+     "Opioids",
+     "Limit sedation, short appointments"
+    ],
+    [
+     "Methamphetamine",
+     "Avoid epinephrine, provide fluoride"
+    ],
+    [
+     "Cocaine",
+     "No epi if used in past 24 hrs"
+    ],
+    [
+     "Nicotine",
+     "Hygiene counseling, cessation support"
+    ],
+    [
+     "Marijuana",
+     "Calm tone, adjust anesthesia"
+    ],
+    [
+     "LSD",
+     "Postpone care during active effects"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p40-m-02",
+   "deck": "Pharmacology",
+   "section": "Neurologic drugs",
+   "page": 40,
+   "prompt": "Match each neurologic drug brand name to its generic name.",
+   "pairs": [
+    [
+     "Dilantin®",
+     "Phenytoin"
+    ],
+    [
+     "Tegretol®",
+     "Carbamazepine"
+    ],
+    [
+     "Luminal®",
+     "Phenobarbital"
+    ],
+    [
+     "Neurontin®",
+     "Gabapentin"
+    ],
+    [
+     "Lyrica®",
+     "Pregabalin"
+    ],
+    [
+     "Flexeril®",
+     "Cyclobenzaprine"
+    ],
+    [
+     "Robaxin®",
+     "Methocarbamol"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p41-m-01",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "prompt": "Match each anti-allergic brand name to its generic name.",
+   "pairs": [
+    [
+     "Benadryl®",
+     "Diphenhydramine"
+    ],
+    [
+     "Claritin®",
+     "Loratadine"
+    ],
+    [
+     "Zyrtec®",
+     "Cetirizine"
+    ],
+    [
+     "Flonase®",
+     "Fluticasone"
+    ],
+    [
+     "Cortizone-10®",
+     "Hydrocortisone"
+    ],
+    [
+     "Deltasone®",
+     "Prednisone"
+    ],
+    [
+     "Singulair®",
+     "Montelukast"
+    ]
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "pharm-p37-s-01",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "prompt": "Sort the antifungals by drug class.",
+   "categories": [
+    [
+     "Polyene",
+     [
+      "Nystatin"
+     ]
+    ],
+    [
+     "Imidazole",
+     [
+      "Clotrimazole",
+      "Ketoconazole"
+     ]
+    ],
+    [
+     "Triazole",
+     [
+      "Fluconazole"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p38-s-01",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "prompt": "Sort the antidepressants by class.",
+   "categories": [
+    [
+     "SSRI",
+     [
+      "Fluoxetine",
+      "Sertraline",
+      "Citalopram"
+     ]
+    ],
+    [
+     "TCA",
+     [
+      "Amitriptyline"
+     ]
+    ],
+    [
+     "MAOI",
+     [
+      "Phenelzine"
+     ]
+    ],
+    [
+     "NDRI",
+     [
+      "Bupropion"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p38-s-02",
+   "deck": "Pharmacology",
+   "section": "Antipsychotics",
+   "page": 38,
+   "prompt": "Sort the antipsychotics: typical (first-generation) or atypical (second-generation)?",
+   "categories": [
+    [
+     "Typical",
+     [
+      "Chlorpromazine",
+      "Haloperidol"
+     ]
+    ],
+    [
+     "Atypical",
+     [
+      "Clozapine",
+      "Risperidone",
+      "Olanzapine",
+      "Quetiapine"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p39-s-01",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "prompt": "Sort the antianxiety drugs by class.",
+   "categories": [
+    [
+     "Benzodiazepine",
+     [
+      "Diazepam",
+      "Lorazepam",
+      "Alprazolam",
+      "Triazolam"
+     ]
+    ],
+    [
+     "Non-benzodiazepine hypnotic",
+     [
+      "Zolpidem",
+      "Eszopiclone"
+     ]
+    ],
+    [
+     "Beta blocker",
+     [
+      "Propranolol"
+     ]
+    ],
+    [
+     "Azapirone",
+     [
+      "Buspirone"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p39-s-02",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 39,
+   "prompt": "Sort the substances by category (as the book classes them).",
+   "categories": [
+    [
+     "Depressant",
+     [
+      "Alcohol",
+      "Opioids"
+     ]
+    ],
+    [
+     "Stimulant",
+     [
+      "Methamphetamine",
+      "Cocaine",
+      "Nicotine"
+     ]
+    ],
+    [
+     "Psychedelic",
+     [
+      "Marijuana",
+      "LSD"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p40-s-01",
+   "deck": "Pharmacology",
+   "section": "Neurologic drugs",
+   "page": 40,
+   "prompt": "Sort the neurologic drugs: anticonvulsant or muscle relaxant?",
+   "categories": [
+    [
+     "Anticonvulsant",
+     [
+      "Phenytoin",
+      "Carbamazepine",
+      "Phenobarbital",
+      "Gabapentin",
+      "Pregabalin"
+     ]
+    ],
+    [
+     "Muscle relaxant",
+     [
+      "Cyclobenzaprine",
+      "Methocarbamol",
+      "Baclofen",
+      "Tizanidine"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p41-s-01",
+   "deck": "Pharmacology",
+   "section": "Anti-allergic agents",
+   "page": 41,
+   "prompt": "Sort the anti-allergic drugs by class.",
+   "categories": [
+    [
+     "Antihistamine",
+     [
+      "Diphenhydramine",
+      "Loratadine",
+      "Cetirizine"
+     ]
+    ],
+    [
+     "Corticosteroid",
+     [
+      "Fluticasone",
+      "Hydrocortisone",
+      "Prednisone"
+     ]
+    ],
+    [
+     "Leukotriene receptor antagonist",
+     [
+      "Montelukast"
+     ]
+    ],
+    [
+     "Anaphylaxis rescue",
+     [
+      "Epinephrine"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "pharm-p37-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Anti-tuberculosis agents",
+   "page": 37,
+   "question": "A new patient reports that her PPD (Mantoux) skin test read positive at 48 hours last week. Which statement is most accurate?",
+   "options": [
+    "A. She has active, infectious tuberculosis",
+    "B. She needs a chest X-ray or further tests to rule out active TB",
+    "C. The test must be repeated because it should be read at 24 hours",
+    "D. She should begin a 7–14 day course of isoniazid"
+   ],
+   "answer": "B. She needs a chest X-ray or further tests to rule out active TB",
+   "explanation": "A positive PPD shows exposure/response to the TB antigen, not active disease; a chest X-ray or further tests rule out active TB. It is read at 48–72 hours (so 48 h is valid), and TB treatment lasts 6–9 months with multiple drugs, not 7–14 days."
+  },
+  {
+   "id": "pharm-p37-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Antifungal agents",
+   "page": 37,
+   "question": "A denture wearer has used nystatin oral suspension for several weeks for denture stomatitis. At recall she has new root caries. Which is the most likely drug-related reason?",
+   "options": [
+    "A. Nystatin causes severe xerostomia",
+    "B. The oral suspension can contain sugar",
+    "C. Nystatin is a systemic triazole that alters saliva",
+    "D. Nystatin stains and demineralizes root surfaces"
+   ],
+   "answer": "B. The oral suspension can contain sugar",
+   "explanation": "Nystatin oral suspension can contain sugar to improve taste, raising caries risk (Board Alert). Nystatin is a topical polyene, not a systemic triazole (that is fluconazole)."
+  },
+  {
+   "id": "pharm-p38-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "question": "A patient taking amitriptyline for chronic facial pain needs quadrant scaling with local anesthesia. Which is the greatest pharmacologic concern?",
+   "options": [
+    "A. Increased bleeding from platelet inhibition",
+    "B. Amplified cardiovascular effects of epinephrine, risking hypertensive crisis",
+    "C. Lowered seizure threshold",
+    "D. Hypoglycemia during the appointment"
+   ],
+   "answer": "B. Amplified cardiovascular effects of epinephrine, risking hypertensive crisis",
+   "explanation": "Amitriptyline is a TCA; TCAs amplify the cardiovascular effects of epinephrine (possible hypertensive crisis), so the vasoconstrictor is avoided. Lowered seizure threshold is the concern for bupropion (NDRI), not TCAs."
+  },
+  {
+   "id": "pharm-p38-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Antidepressants",
+   "page": 38,
+   "question": "Which patient-reported medication should make the clinician ask about aged cheese, red wine and cured meats, and avoid epinephrine?",
+   "options": [
+    "A. Sertraline",
+    "B. Bupropion",
+    "C. Phenelzine",
+    "D. Fluoxetine"
+   ],
+   "answer": "C. Phenelzine",
+   "explanation": "Phenelzine is an MAOI: MAOIs with aged cheese, red wine or cured meats can cause hypertensive crisis, and epinephrine should be avoided. Sertraline and fluoxetine are SSRIs with low interaction risk."
+  },
+  {
+   "id": "pharm-p39-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Antipsychotics",
+   "page": 39,
+   "question": "A patient with schizophrenia who has taken haloperidol for years shows repetitive lip-smacking and tongue movements she cannot control. This is most likely:",
+   "options": [
+    "A. Tardive dyskinesia",
+    "B. Bruxism from stimulant use",
+    "C. Trigeminal neuralgia",
+    "D. Orthostatic hypotension"
+   ],
+   "answer": "A. Tardive dyskinesia",
+   "explanation": "Haloperidol is a typical (first-generation) antipsychotic; tardive dyskinesia = involuntary oral/facial movements. Orthostatic hypotension is also a side effect but causes dizziness on standing, not oral movements."
+  },
+  {
+   "id": "pharm-p39-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Antianxiety drugs",
+   "page": 39,
+   "question": "A patient with chronic generalized anxiety asks for an antianxiety medication that will not make her sleepy. Which agent from the book fits best?",
+   "options": [
+    "A. Alprazolam",
+    "B. Zolpidem",
+    "C. Buspirone",
+    "D. Diazepam"
+   ],
+   "answer": "C. Buspirone",
+   "explanation": "Buspirone (azapirone) is non-sedating. Alprazolam and diazepam are benzodiazepines (GABA → CNS depression) and zolpidem is a sedative-hypnotic for sleep."
+  },
+  {
+   "id": "pharm-p40-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Substance use",
+   "page": 40,
+   "question": "A patient arrives with dilated pupils, is talkative and jittery, and admits to using cocaine this morning. She needs local anesthesia for scaling. Best management?",
+   "options": [
+    "A. Use lidocaine with 1:100,000 epinephrine as usual",
+    "B. Avoid epinephrine — none if cocaine was used in the past 24 hours",
+    "C. Give extra epinephrine to overcome reduced anesthetic response",
+    "D. Prescribe an opioid for post-op pain"
+   ],
+   "answer": "B. Avoid epinephrine — none if cocaine was used in the past 24 hours",
+   "explanation": "Cocaine plus epinephrine carries a risk of cardiac arrest; no epinephrine if used within 24 hours. Dilated pupils (mydriasis) fit stimulant use; opioids are not a fix here and are cautioned in substance users."
+  },
+  {
+   "id": "pharm-p40-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Anticonvulsants",
+   "page": 40,
+   "question": "A patient with a seizure disorder presents with generalized, firm gingival overgrowth that is worse where plaque control is poor. Which medication is most likely responsible?",
+   "options": [
+    "A. Carbamazepine",
+    "B. Phenytoin",
+    "C. Gabapentin",
+    "D. Phenobarbital"
+   ],
+   "answer": "B. Phenytoin",
+   "explanation": "Phenytoin (Dilantin) causes gingival hyperplasia via fibroblast stimulation and altered collagen metabolism, worse with poor plaque control. Carbamazepine also treats seizures but its oral risks are xerostomia and leukopenia (ulcers, delayed healing)."
+  },
+  {
+   "id": "pharm-p41-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Immunosuppressants",
+   "page": 41,
+   "question": "Two years after a kidney transplant, a patient presents with fibrous gingival enlargement and heavy plaque. Which drug on her medication list is the most likely cause?",
+   "options": [
+    "A. Prednisone",
+    "B. Cyclosporine",
+    "C. Montelukast",
+    "D. Cetirizine"
+   ],
+   "answer": "B. Cyclosporine",
+   "explanation": "Cyclosporine (an immunosuppressant used to prevent transplant rejection) causes gingival hyperplasia, especially with poor plaque control. Prednisone (corticosteroid) causes delayed healing, infection risk and osteoporosis, not gingival overgrowth."
+  }
+ ]
+}

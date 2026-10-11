@@ -1,0 +1,1730 @@
+{
+ "diagrams": [
+  {
+   "name": "poc-p347-furcation-molars",
+   "title": "Mandibular vs maxillary molar roots",
+   "deck": "Process of Care",
+   "pdf_page": 15,
+   "page": 347,
+   "crop": [
+    580,
+    335,
+    1240,
+    662
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      585,
+      615,
+      755,
+      652
+     ],
+     "answer": "Mand: Bifurcated",
+     "fit": "none"
+    },
+    {
+     "box": [
+      948,
+      615,
+      1112,
+      652
+     ],
+     "answer": "Max: Trifurcated",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "poc-p348-brushing-methods",
+   "title": "Toothbrushing methods",
+   "deck": "Process of Care",
+   "pdf_page": 16,
+   "page": 348,
+   "crop": [
+    180,
+    1485,
+    1150,
+    2095
+   ],
+   "labels": [
+    {
+     "box": [
+      275,
+      1500,
+      469,
+      1550
+     ],
+     "answer": "Bass method",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      811,
+      1502,
+      1045,
+      1553
+     ],
+     "answer": "Charter method",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      255,
+      1805,
+      495,
+      1856
+     ],
+     "answer": "Stillman method",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      818,
+      1808,
+      1031,
+      1858
+     ],
+     "answer": "Fones method",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "poc-p347-001",
+   "deck": "Process of Care",
+   "section": "Furcation involvement",
+   "page": 347,
+   "text": "Furcation involvement is the loss of {{c1::interradicular}} bone on {{c2::multirooted}} teeth."
+  },
+  {
+   "id": "poc-p347-002",
+   "deck": "Process of Care",
+   "section": "Furcation involvement",
+   "page": 347,
+   "text": "The {{c1::Naber's probe}} (furcation probe) is used to assess the presence and extent of a furcation."
+  },
+  {
+   "id": "poc-p347-003",
+   "deck": "Process of Care",
+   "section": "Furcation involvement",
+   "page": 347,
+   "text": "Radiographs are used to check furcation defects but are not completely reliable, because {{c1::overlapping tooth structures}} can mask the bone loss."
+  },
+  {
+   "id": "poc-p347-004",
+   "deck": "Process of Care",
+   "section": "Furcation involvement",
+   "page": 347,
+   "text": "On a radiograph, a radiolucency between the roots indicates a furcation defect of Class {{c1::II}} and above."
+  },
+  {
+   "id": "poc-p347-005",
+   "deck": "Process of Care",
+   "section": "Furcation involvement",
+   "page": 347,
+   "text": "Tooth-loss risk by furcation class: Class I {{c1::8%}}; Class II {{c2::22%}}; Class III {{c3::47%}}."
+  },
+  {
+   "id": "poc-p347-006",
+   "deck": "Process of Care",
+   "section": "Furcation involvement",
+   "page": 347,
+   "text": "Mandibular molars are usually {{c1::bifurcated}} ({{c2::mesial and distal}} roots), with potential furcation involvement on the {{c3::facial and lingual}} aspects."
+  },
+  {
+   "id": "poc-p347-007",
+   "deck": "Process of Care",
+   "section": "Furcation involvement",
+   "page": 347,
+   "text": "Maxillary molars are usually {{c1::trifurcated}} ({{c2::mesiobuccal, distobuccal and palatal}} roots), with potential furcation involvement on the {{c3::facial, mesial and distal}} aspects."
+  },
+  {
+   "id": "poc-p347-008",
+   "deck": "Process of Care",
+   "section": "Furcation involvement",
+   "page": 347,
+   "text": "Maxillary {{c1::first premolars}} can have bifurcated roots ({{c2::buccal and palatal}}), with potential furcation involvement on the {{c3::mesial and distal}} aspects."
+  },
+  {
+   "id": "poc-p347-009",
+   "deck": "Process of Care",
+   "section": "Glickman's furcation classification",
+   "page": 347,
+   "text": "Glickman {{c1::Class I}} furcation: the curvature of the concavity can be detected with the probe tip, but the probe cannot enter the space; {{c2::no}} radiolucency on radiographs."
+  },
+  {
+   "id": "poc-p347-010",
+   "deck": "Process of Care",
+   "section": "Glickman's furcation classification",
+   "page": 347,
+   "text": "Glickman {{c1::Class II}} furcation: the probe penetrates the furcation more than {{c2::1 mm}} but does not pass completely through to the other side; slight radiolucency may be visible."
+  },
+  {
+   "id": "poc-p347-011",
+   "deck": "Process of Care",
+   "section": "Glickman's furcation classification",
+   "page": 347,
+   "text": "Glickman {{c1::Class III}} furcation: the probe passes {{c2::completely through}} the furcation; a radiolucency is usually visible on radiographs."
+  },
+  {
+   "id": "poc-p347-012",
+   "deck": "Process of Care",
+   "section": "Glickman's furcation classification",
+   "page": 347,
+   "text": "Glickman {{c1::Class IV}} furcation: the entrance to the furca is {{c2::clinically visible}} and the probe passes completely through; a larger radiolucency is visible."
+  },
+  {
+   "id": "poc-p347-013",
+   "deck": "Process of Care",
+   "section": "Types of radiographs",
+   "page": 347,
+   "text": "{{c1::Bitewing}} radiographs are used for interproximal caries detection."
+  },
+  {
+   "id": "poc-p347-014",
+   "deck": "Process of Care",
+   "section": "Types of radiographs",
+   "page": 347,
+   "text": "{{c1::Vertical}} bitewings are preferred over horizontal bitewings to assess bone level when bone destruction occurs."
+  },
+  {
+   "id": "poc-p347-015",
+   "deck": "Process of Care",
+   "section": "Types of radiographs",
+   "page": 347,
+   "text": "{{c1::Periapical}} radiographs are used for periodontal evaluation (bone-loss pattern and level, abscess) and for root abnormalities such as {{c2::dilaceration and resorption}}."
+  },
+  {
+   "id": "poc-p347-016",
+   "deck": "Process of Care",
+   "section": "Types of radiographs",
+   "page": 347,
+   "text": "{{c1::Occlusal}} radiographs are useful to locate {{c2::sialoliths}} and for patients who have difficulty opening the jaw; commonly used for pediatric patients."
+  },
+  {
+   "id": "poc-p347-017",
+   "deck": "Process of Care",
+   "section": "Types of radiographs",
+   "page": 347,
+   "text": "{{c1::Panoramic}} radiographs are useful to assess third molars, eruption patterns and TMJ problems; also indicated for patients who have difficulty opening the jaw or are {{c2::edentulous}}."
+  },
+  {
+   "id": "poc-p347-018",
+   "deck": "Process of Care",
+   "section": "Risk factor assessment",
+   "page": 347,
+   "text": "{{c1::Smoking}} is the most significant systemic risk factor for periodontal disease; the primary cause of periodontal disease is {{c2::plaque biofilm}}.",
+   "extra": "Don't confuse risk factor (smoking) with cause (biofilm). The exam records smoking as cigarettes per day (1 pack = 20)."
+  },
+  {
+   "id": "poc-p347-019",
+   "deck": "Process of Care",
+   "section": "Risk factor assessment",
+   "page": 347,
+   "text": "Systemic conditions such as {{c1::diabetes}} also influence the periodontal disease process and healing time."
+  },
+  {
+   "id": "poc-p347-020",
+   "deck": "Process of Care",
+   "section": "Risk factor assessment",
+   "page": 347,
+   "text": "Other important periodontal risk factors: gender ({{c1::men}}), {{c2::older}} age, insufficient nutritional intake, and {{c3::parafunctional}} habits."
+  },
+  {
+   "id": "poc-p348-001",
+   "deck": "Process of Care",
+   "section": "Risk factor assessment",
+   "page": 348,
+   "text": "Oral cancer: {{c1::alcohol}} consumption in conjunction with {{c2::smoking}} greatly increases the risk of oral cancer."
+  },
+  {
+   "id": "poc-p348-002",
+   "deck": "Process of Care",
+   "section": "Risk factor assessment",
+   "page": 348,
+   "text": "Caries: the {{c1::consumption pattern}} of cariogenic food increases caries risk; other important risk factors include low socioeconomic status, lack of home care and insufficient {{c2::fluoride}} exposure."
+  },
+  {
+   "id": "poc-p348-003",
+   "deck": "Process of Care",
+   "section": "Radiographic recall schedule",
+   "page": 348,
+   "text": "Recall radiographs, child (primary dentition): low caries risk = posterior bitewings every {{c1::12–24}} months; increased caries risk = every {{c2::6–12}} months — both only if proximal contacts cannot be visualized.",
+   "extra": "Schedule adapted from Darby's Dental Hygiene (5th ed.), radiographic guidelines & CAMBRA."
+  },
+  {
+   "id": "poc-p348-004",
+   "deck": "Process of Care",
+   "section": "Radiographic recall schedule",
+   "page": 348,
+   "text": "Recall radiographs, adolescent (mixed or permanent dentition): low caries risk = posterior bitewings every {{c1::18–36}} months if contacts cannot be visualized; increased caries risk = every {{c2::6–12}} months.",
+   "extra": "Schedule adapted from Darby's Dental Hygiene (5th ed.), radiographic guidelines & CAMBRA."
+  },
+  {
+   "id": "poc-p348-005",
+   "deck": "Process of Care",
+   "section": "Radiographic recall schedule",
+   "page": 348,
+   "text": "Recall radiographs, adult (dentate or partially edentulous): low caries risk = posterior bitewings every {{c1::24–36}} months; increased caries risk = every {{c2::6–18}} months.",
+   "extra": "Schedule adapted from Darby's Dental Hygiene (5th ed.), radiographic guidelines & CAMBRA."
+  },
+  {
+   "id": "poc-p348-006",
+   "deck": "Process of Care",
+   "section": "Radiographs for new patients",
+   "page": 348,
+   "text": "New patient, child (primary or mixed dentition): {{c1::periapicals and/or bitewings}}, taken only if proximal surfaces cannot be visualized.",
+   "extra": "Schedule adapted from Darby's Dental Hygiene (5th ed.), radiographic guidelines & CAMBRA."
+  },
+  {
+   "id": "poc-p348-007",
+   "deck": "Process of Care",
+   "section": "Radiographs for new patients",
+   "page": 348,
+   "text": "New patient, adolescent or adult: {{c1::bitewings + panoramic}} OR {{c2::bitewings + selected periapicals}}.",
+   "extra": "Schedule adapted from Darby's Dental Hygiene (5th ed.), radiographic guidelines & CAMBRA."
+  },
+  {
+   "id": "poc-p348-008",
+   "deck": "Process of Care",
+   "section": "Toothbrushing",
+   "page": 348,
+   "text": "Have the patient {{c1::demonstrate}} how they use the brush and floss, to evaluate how they can improve."
+  },
+  {
+   "id": "poc-p348-009",
+   "deck": "Process of Care",
+   "section": "Toothbrushing",
+   "page": 348,
+   "text": "Patients should brush a minimum of {{c1::2}} times per day for {{c2::2}} minutes."
+  },
+  {
+   "id": "poc-p348-010",
+   "deck": "Process of Care",
+   "section": "Toothbrushing",
+   "page": 348,
+   "text": "Recommend {{c1::soft}} bristles with {{c2::rounded}} nylon filaments."
+  },
+  {
+   "id": "poc-p348-011",
+   "deck": "Process of Care",
+   "section": "Toothbrushing",
+   "page": 348,
+   "text": "The {{c1::diameter}} of the filament determines the hardness of a toothbrush."
+  },
+  {
+   "id": "poc-p348-012",
+   "deck": "Process of Care",
+   "section": "Toothbrushing",
+   "page": 348,
+   "text": "{{c1::Nylon}} filaments are more resistant to bacteria and dry more easily than natural bristles."
+  },
+  {
+   "id": "poc-p348-013",
+   "deck": "Process of Care",
+   "section": "Toothbrushing",
+   "page": 348,
+   "text": "Advise patients to develop a brushing {{c1::sequence}}."
+  },
+  {
+   "id": "poc-p349-001",
+   "deck": "Process of Care",
+   "section": "Toothbrushing methods",
+   "page": 349,
+   "text": "<b>Bass</b> method: bristles into the sulcus at 45°; {{c1::small vibratory circular}} motions. It is the {{c2::most accepted}} method because it cleans the sulcus — excellent for plaque below the gumline.",
+   "extra": "WakeUpMemory: \"Are we STILL ON for dinner?\" → STILLman = ON the gums. CHART AWAY → Charter's is AWAY from the gingiva. See the O in fOnes → O = circular motion."
+  },
+  {
+   "id": "poc-p349-002",
+   "deck": "Process of Care",
+   "section": "Toothbrushing methods",
+   "page": 349,
+   "text": "<b>Stillman</b> method: bristles on the gingiva angled apically at 45° (not into the sulcus); {{c1::small vibratory}} motions; used for {{c2::gingival stimulation}}.",
+   "extra": "WakeUpMemory: \"Are we STILL ON for dinner?\" → STILLman = ON the gums. CHART AWAY → Charter's is AWAY from the gingiva. See the O in fOnes → O = circular motion."
+  },
+  {
+   "id": "poc-p349-003",
+   "deck": "Process of Care",
+   "section": "Toothbrushing methods",
+   "page": 349,
+   "text": "<b>Charter's</b> method: bristles directed toward occlusal; {{c1::back-and-forth vibratory}} strokes; bristles do not enter the sulcus; used for {{c2::orthodontics, prostheses and post-surgical areas}}.",
+   "extra": "WakeUpMemory: \"Are we STILL ON for dinner?\" → STILLman = ON the gums. CHART AWAY → Charter's is AWAY from the gingiva. See the O in fOnes → O = circular motion."
+  },
+  {
+   "id": "poc-p349-004",
+   "deck": "Process of Care",
+   "section": "Toothbrushing methods",
+   "page": 349,
+   "text": "<b>Fones</b> method: bristles perpendicular to the teeth; {{c1::large circular}} motions; used for {{c2::children and physically impaired}} patients; {{c3::not recommended for adults}}.",
+   "extra": "WakeUpMemory: \"Are we STILL ON for dinner?\" → STILLman = ON the gums. CHART AWAY → Charter's is AWAY from the gingiva. See the O in fOnes → O = circular motion."
+  },
+  {
+   "id": "poc-p349-005",
+   "deck": "Process of Care",
+   "section": "Toothbrushing methods",
+   "page": 349,
+   "text": "The Modified Bass and Modified Stillman's methods combine the original technique with a {{c1::rolling sweep}}."
+  },
+  {
+   "id": "poc-p349-006",
+   "deck": "Process of Care",
+   "section": "Power toothbrush",
+   "page": 349,
+   "text": "Power toothbrushes were originally developed for patients with {{c1::disabilities}}."
+  },
+  {
+   "id": "poc-p349-007",
+   "deck": "Process of Care",
+   "section": "Power toothbrush",
+   "page": 349,
+   "text": "Power toothbrushes can also be recommended for patients with appliances, restorations, low {{c1::motivation}}, periodontal disease, poor biofilm control and lack of manual {{c2::dexterity}}."
+  },
+  {
+   "id": "poc-p349-008",
+   "deck": "Process of Care",
+   "section": "Power toothbrush",
+   "page": 349,
+   "text": "Both manual and power toothbrushes are dependent on {{c1::technique}} — emphasize correct use."
+  },
+  {
+   "id": "poc-p349-009",
+   "deck": "Process of Care",
+   "section": "Tongue cleaning",
+   "page": 349,
+   "text": "The {{c1::tongue}} is the largest surface of the oral cavity and retains a lot of bacteria."
+  },
+  {
+   "id": "poc-p349-010",
+   "deck": "Process of Care",
+   "section": "Tongue cleaning",
+   "page": 349,
+   "text": "Clean the tongue with a tongue cleaner or a toothbrush; emphasize tongue cleaning to patients with {{c1::black hairy tongue}} or {{c2::halitosis}}."
+  },
+  {
+   "id": "poc-p349-011",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "Studies show the type of floss (waxed or unwaxed) does {{c1::not}} make a difference in plaque removal; the patient can choose by preference."
+  },
+  {
+   "id": "poc-p349-012",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "{{c1::Waxed}} floss can be more comfortable for tight contacts."
+  },
+  {
+   "id": "poc-p349-013",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "Tufted dental floss is useful for an implant, fixed bridge, {{c1::distal surface of the last tooth}} in the arch, proximal surfaces of widely spaced teeth, and type {{c2::II or III}} embrasures."
+  },
+  {
+   "id": "poc-p349-014",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "A {{c1::floss handle}} is best for patients with larger hands or who lack manual dexterity."
+  },
+  {
+   "id": "poc-p349-015",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "A floss threader allows floss to access under an {{c1::abutment, pontic, bridge}}, orthodontic appliance and implant."
+  },
+  {
+   "id": "poc-p349-016",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "Super floss is ideal for {{c1::orthodontics, bridges and implants}}."
+  },
+  {
+   "id": "poc-p349-017",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "A {{c1::wooden wedge}} cleans type II or III embrasures and furcations."
+  },
+  {
+   "id": "poc-p349-018",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "The interdental (interproximal) brush cleans type II or III embrasures, exposed furcations and exposed {{c1::root concavities}}."
+  },
+  {
+   "id": "poc-p349-019",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "The {{c1::end-tuft brush}} cleans type III embrasures, the distal surface of the last tooth, the lingual surface of mandibular teeth (or difficult-to-reach areas), exposed furcations and orthodontic appliances."
+  },
+  {
+   "id": "poc-p349-020",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "text": "A {{c1::toothpick}} (in holder) cleans type II or III embrasures, the gingival margin and furcations."
+  },
+  {
+   "id": "poc-p349-021",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 349,
+   "text": "A water flosser flushes areas of the oral cavity with {{c1::pulsating}} water, but cannot clean the {{c2::contact area}} of adjacent teeth."
+  },
+  {
+   "id": "poc-p349-022",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 349,
+   "text": "Power flossers (air and water types) are useful for orthodontic appliances, restorations and implants, and for patients who lack dexterity or motivation; they cannot clean the contact area, so use them as an {{c1::adjunct}}.",
+   "extra": "Did you know: a 2019 systematic review (Journal of Dental Hygiene) found water flossers effective at reducing gingival inflammation, but insufficient evidence that they are superior to floss for plaque removal."
+  },
+  {
+   "id": "poc-p350-001",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 350,
+   "text": "Oral irrigation helps reduce {{c1::bleeding and gingival inflammation}}; adjunct therapeutic agents such as {{c2::antimicrobials}} can be added to the water."
+  },
+  {
+   "id": "poc-p350-002",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 350,
+   "text": "Per the manufacturer, the subgingival irrigator tip delivers water that penetrates up to {{c1::90%}} in pockets of {{c2::6 mm}} or less."
+  },
+  {
+   "id": "poc-p350-003",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 350,
+   "text": "The subgingival irrigator tip is used to deliver a {{c1::medicament}} into difficult-to-access areas and should be used {{c2::after}} the standard tip."
+  },
+  {
+   "id": "poc-p350-004",
+   "deck": "Process of Care",
+   "section": "Xerostomia",
+   "page": 350,
+   "text": "Xerostomia increases the risk of caries, especially {{c1::root surface}} caries, and contributes to {{c2::halitosis}}."
+  },
+  {
+   "id": "poc-p350-005",
+   "deck": "Process of Care",
+   "section": "Xerostomia",
+   "page": 350,
+   "text": "For xerostomia, recommend saliva {{c1::substitutes}} and saliva {{c2::stimulants}} to maintain moisture and comfort."
+  },
+  {
+   "id": "poc-p350-006",
+   "deck": "Process of Care",
+   "section": "Xerostomia",
+   "page": 350,
+   "text": "For xerostomia, encourage frequent {{c1::sips of water}} and sucking on {{c2::ice chips}} throughout the day."
+  },
+  {
+   "id": "poc-p350-007",
+   "deck": "Process of Care",
+   "section": "Xerostomia",
+   "page": 350,
+   "text": "For xerostomia, recommend sugar-free gum, sugar-free candies and {{c1::xylitol}} products to stimulate salivary flow."
+  },
+  {
+   "id": "poc-p350-008",
+   "deck": "Process of Care",
+   "section": "Xerostomia",
+   "page": 350,
+   "text": "Xerostomia patients should avoid mouthrinses containing {{c1::alcohol}}, which can further dry oral tissues."
+  },
+  {
+   "id": "poc-p350-009",
+   "deck": "Process of Care",
+   "section": "Xerostomia",
+   "page": 350,
+   "text": "For xerostomia, provide {{c1::fluoride}} therapy (e.g., varnish, Rx toothpaste) to prevent and manage caries."
+  },
+  {
+   "id": "poc-p350-010",
+   "deck": "Process of Care",
+   "section": "Xerostomia",
+   "page": 350,
+   "text": "Recommend {{c1::Biotène}} or similar products to relieve the symptoms of dry mouth."
+  },
+  {
+   "id": "poc-p350-011",
+   "deck": "Process of Care",
+   "section": "Halitosis",
+   "page": 350,
+   "text": "Most halitosis is caused by {{c1::volatile sulfur compounds (VSCs)}}, produced when {{c2::anaerobic}} bacteria break down {{c3::proteins}} in the mouth."
+  },
+  {
+   "id": "poc-p350-012",
+   "deck": "Process of Care",
+   "section": "Halitosis",
+   "page": 350,
+   "text": "Halitosis bacteria thrive in low-{{c1::oxygen}} environments, including periodontal pockets, the {{c2::posterior tongue}} and around the tonsils."
+  },
+  {
+   "id": "poc-p350-013",
+   "deck": "Process of Care",
+   "section": "Halitosis",
+   "page": 350,
+   "text": "{{c1::Tongue coating}} is the most common cause of halitosis in healthy individuals."
+  },
+  {
+   "id": "poc-p350-014",
+   "deck": "Process of Care",
+   "section": "Halitosis",
+   "page": 350,
+   "text": "For halitosis, recommend daily tongue cleaning with a {{c1::tongue scraper or toothbrush}} to reduce odor-producing bacteria and debris."
+  },
+  {
+   "id": "poc-p350-015",
+   "deck": "Process of Care",
+   "section": "Halitosis",
+   "page": 350,
+   "text": "For halitosis, use alcohol-free mouthrinses containing {{c1::chlorine dioxide}}, {{c2::zinc compounds}} or {{c3::sodium bicarbonate}} to neutralize odors and reduce VSC levels."
+  },
+  {
+   "id": "poc-p350-016",
+   "deck": "Process of Care",
+   "section": "Halitosis",
+   "page": 350,
+   "text": "Halitosis may be caused by non-oral factors such as {{c1::GERD}}, stomach ulcers ({{c2::H. pylori}}), tonsillitis or sinus infections."
+  },
+  {
+   "id": "poc-p350-017",
+   "deck": "Process of Care",
+   "section": "Halitosis",
+   "page": 350,
+   "text": "Halitosis may also be associated with periodontal disease, carious lesions, poor oral hygiene or ill-fitting {{c1::appliances}}."
+  },
+  {
+   "id": "poc-p350-018",
+   "deck": "Process of Care",
+   "section": "Motivational interviewing",
+   "page": 350,
+   "text": "\"How do you feel about your home care routine?\" is an example of an {{c1::open-ended question}} (MI)."
+  },
+  {
+   "id": "poc-p350-019",
+   "deck": "Process of Care",
+   "section": "Motivational interviewing",
+   "page": 350,
+   "text": "\"So it sounds like flossing feels like too much right now.\" is an example of {{c1::reflective listening}} (MI)."
+  },
+  {
+   "id": "poc-p350-020",
+   "deck": "Process of Care",
+   "section": "Motivational interviewing",
+   "page": 350,
+   "text": "\"You're brushing twice a day — that's a great start!\" is an example of an {{c1::affirmation}} (MI)."
+  },
+  {
+   "id": "poc-p350-021",
+   "deck": "Process of Care",
+   "section": "Motivational interviewing",
+   "page": 350,
+   "text": "In MI, {{c1::summarizing}} means restating the patient's concerns, progress and goals."
+  },
+  {
+   "id": "poc-p350-022",
+   "deck": "Process of Care",
+   "section": "Motivational interviewing",
+   "page": 350,
+   "text": "In MI, {{c1::Elicit–Provide–Elicit}} means asking permission before giving advice, then checking for understanding."
+  },
+  {
+   "id": "poc-p350-023",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 350,
+   "text": "OHI for an <b>orthodontic</b> patient: tools = {{c1::end-tuft brush, proxy brush, floss threaders, fluoride rinse}}; advice = emphasize cleaning around brackets and use MI to discuss effort and appearance goals."
+  },
+  {
+   "id": "poc-p350-024",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 350,
+   "text": "OHI for an <b>implant</b> patient: tools = {{c1::nylon-coated}} interdental brush, super floss, non-abrasive toothpaste; advice = avoid {{c2::metal-core}} brushes and discuss {{c3::peri-implantitis}} prevention."
+  },
+  {
+   "id": "poc-p350-025",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 350,
+   "text": "OHI for a <b>gingivitis</b> patient: tools = soft-bristled brush, floss, antimicrobial rinse (e.g., {{c1::chlorhexidine}}); advice = reinforce technique and set short-term goals for {{c2::bleeding reduction}}."
+  },
+  {
+   "id": "poc-p350-026",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 350,
+   "text": "OHI for a <b>periodontitis</b> patient: tools = power brush, interproximal brush, rubber tip, floss, fluoride toothpaste; advice = teach access to deep pockets and emphasize {{c1::3}}-month re-care and inflammation control."
+  },
+  {
+   "id": "poc-p351-001",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 351,
+   "text": "OHI for a <b>child</b>: tools = small brush head, flavored fluoride paste, {{c1::disclosing tablets}}, supervision; advice = involve the {{c2::parent}} and teach technique in fun, age-appropriate ways."
+  },
+  {
+   "id": "poc-p351-002",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 351,
+   "text": "OHI for an <b>elderly / arthritic</b> patient: tools = electric toothbrush, floss holder, {{c1::enlarged handles}}; advice = support limited dexterity and address {{c2::dry mouth}} if present."
+  },
+  {
+   "id": "poc-p351-003",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 351,
+   "text": "OHI for a <b>xerostomia</b> patient (table): fluoride toothpaste/rinse, Biotène products, sugar-free xylitol gum; avoid {{c1::alcohol-based}} rinses and reinforce {{c2::caries}} prevention."
+  },
+  {
+   "id": "poc-p351-004",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 351,
+   "text": "OHI for a <b>bridge or pontic</b>: tools = {{c1::tufted floss, floss threader, end-tuft brush}}; advice = show technique for cleaning under pontics and practice with a {{c2::mirror}}."
+  },
+  {
+   "id": "poc-p351-005",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 351,
+   "text": "OHI for a <b>tobacco user</b>: tools = power brush, antimicrobial rinse, {{c1::stain-removing}} toothpaste; advice = link OHI with stain control and cancer-risk reduction, using a {{c2::nonjudgmental}} tone."
+  },
+  {
+   "id": "poc-p351-006",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Inactive}} ingredients — coloring, flavoring, preservative, thickener (water and glycerin), whitening agent — do not have a therapeutic effect."
+  },
+  {
+   "id": "poc-p351-007",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "In dentifrices, the thickener ingredients are {{c1::water and glycerin}}."
+  },
+  {
+   "id": "poc-p351-008",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Systemic}} delivery = a drug given as a tablet or capsule that is absorbed into the bloodstream (e.g., {{c2::Periostat}})."
+  },
+  {
+   "id": "poc-p351-009",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Local}} delivery = the agent is delivered to the desired area (e.g., dentifrices, mouthrinses)."
+  },
+  {
+   "id": "poc-p351-010",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Antimicrobial}} agents reduce or inhibit biofilm activity (e.g., cetylpyridinium chloride, chlorhexidine, sanguinarine, phenolic compounds, triclosan)."
+  },
+  {
+   "id": "poc-p351-011",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Oxygenating}} agents (hydrogen peroxide) debride and release oxygen."
+  },
+  {
+   "id": "poc-p351-012",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Astringents}} shrink tissue (e.g., citric acid, zinc chloride)."
+  },
+  {
+   "id": "poc-p351-013",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Desensitizing}} agents reduce dentinal hypersensitivity (e.g., stannous fluoride, potassium nitrate)."
+  },
+  {
+   "id": "poc-p351-014",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Anodynes}} (analgesics) alleviate pain (e.g., benzocaine, lidocaine)."
+  },
+  {
+   "id": "poc-p351-015",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Buffering}} agents reduce acidity, dissolve mucinous films and relieve soft-tissue pain."
+  },
+  {
+   "id": "poc-p351-016",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "{{c1::Deodorizing}} agents (sodium bicarbonate) and {{c2::oxidizing}} agents (chlorine dioxide) neutralize odors and eliminate VSCs."
+  },
+  {
+   "id": "poc-p351-017",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "text": "Fluorides decrease dental {{c1::caries}} risk; whitening agents such as {{c2::hydrogen peroxide}} reduce extrinsic stains."
+  },
+  {
+   "id": "poc-p351-018",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 351,
+   "text": "Mouthrinses are recommended as {{c1::adjuncts to}}, not replacements for, mechanical plaque biofilm control."
+  },
+  {
+   "id": "poc-p351-019",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 351,
+   "text": "Mouthrinses are effective on {{c1::supragingival}} biofilm only, unless delivered subgingivally with {{c2::irrigators}}."
+  },
+  {
+   "id": "poc-p351-020",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 351,
+   "text": "Chlorhexidine (CHX) rinse active ingredient: {{c1::0.12% chlorhexidine gluconate}}."
+  },
+  {
+   "id": "poc-p351-021",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 351,
+   "text": "Of the common mouthrinses (CHX, essential oils, CPC, sanguinarine, oxygenating, fluoride), only {{c1::chlorhexidine}} requires a prescription."
+  },
+  {
+   "id": "poc-p351-022",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 351,
+   "text": "{{c1::Essential oil}} rinses contain thymol, menthol, eucalyptol and methyl salicylate."
+  },
+  {
+   "id": "poc-p351-023",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 351,
+   "text": "The active ingredient of quaternary ammonium rinses is {{c1::cetylpyridinium chloride (CPC)}}."
+  },
+  {
+   "id": "poc-p351-024",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 351,
+   "text": "Sanguinarine is extracted from the {{c1::bloodroot}} plant.",
+   "extra": "Did you know: a natural plant-based alkaloid (Sanguinaria canadensis), once used in rinses and dentifrices for antimicrobial properties; now rarely used due to limited clinical evidence and concerns over safety and effectiveness."
+  },
+  {
+   "id": "poc-p351-025",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 351,
+   "text": "Oxygenating rinse active ingredients: {{c1::hydrogen peroxide}} and {{c2::carbamide peroxide}}."
+  },
+  {
+   "id": "poc-p351-026",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 351,
+   "text": "The active ingredient of fluoride rinses is {{c1::sodium fluoride (NaF)}}."
+  },
+  {
+   "id": "poc-p352-001",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Chlorhexidine has {{c1::high}} substantivity, lasting {{c2::8–10}} hours."
+  },
+  {
+   "id": "poc-p352-002",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "CHX rinse contains about {{c1::11%}} alcohol (alcohol-free versions available)."
+  },
+  {
+   "id": "poc-p352-003",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "CHX main uses: {{c1::gingivitis}}, periodontitis, {{c2::candidiasis}} and post-op care."
+  },
+  {
+   "id": "poc-p352-004",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "CHX is for {{c1::short-term}} use only; rinse {{c2::15 mL}} for {{c3::30 sec}} BID; also used as a rinse before dental procedures."
+  },
+  {
+   "id": "poc-p352-005",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "CHX side effects: {{c1::staining}}, increased {{c2::calculus}}, taste alteration and dry mucosa."
+  },
+  {
+   "id": "poc-p352-006",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Avoid CHX in {{c1::alcohol-sensitive}} individuals (unless using an alcohol-free version). Brands: Peridex®, PerioGard®."
+  },
+  {
+   "id": "poc-p352-007",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Essential oil rinses have {{c1::low}} substantivity and about {{c2::21–26%}} alcohol (some alcohol-free options)."
+  },
+  {
+   "id": "poc-p352-008",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Essential oil rinse main uses: gingivitis and as a {{c1::preprocedural}} rinse; use as an adjunct, not a replacement for brushing."
+  },
+  {
+   "id": "poc-p352-009",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Essential oil rinse side effects: {{c1::burning}}, dryness, altered taste."
+  },
+  {
+   "id": "poc-p352-010",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Essential oil rinses are contraindicated for {{c1::alcohol-dependent}} patients or those with {{c2::xerostomia}}."
+  },
+  {
+   "id": "poc-p352-011",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "CPC (quaternary ammonium) rinses have {{c1::very low}} substantivity and up to {{c2::20%}} alcohol."
+  },
+  {
+   "id": "poc-p352-012",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "CPC rinse main uses: mild gingivitis, {{c1::fresh breath}}; often added to OTC rinses for branding, not well supported by evidence."
+  },
+  {
+   "id": "poc-p352-013",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "CPC side effect: mild {{c1::staining}} possible; limited benefit for {{c2::periodontal disease}}."
+  },
+  {
+   "id": "poc-p352-014",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Sanguinarine rinse has {{c1::minimal}} substantivity and about 15% alcohol; it must be used with {{c2::Viadent}} toothpaste to be effective (gingivitis).",
+   "extra": "Book: no well-documented side effects, outdated use, not widely used, limited evidence."
+  },
+  {
+   "id": "poc-p352-015",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Oxygenating rinses have very low substantivity and variable alcohol; main use = short-term {{c1::wound cleaning}} and minor irritations."
+  },
+  {
+   "id": "poc-p352-016",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Oxygenating rinses are not for long-term daily use; weak against biofilm. Long-term use can cause tissue damage, ulceration and {{c1::black hairy tongue}}.",
+   "extra": "Book's table: avoid with open wounds and long-term use. Brands: Amosan®, hydrogen peroxide."
+  },
+  {
+   "id": "poc-p352-017",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Fluoride rinses have {{c1::moderate}} substantivity and are {{c2::alcohol-free}}; main use = remineralization and caries prevention."
+  },
+  {
+   "id": "poc-p352-018",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "text": "Fluoride rinses are great for {{c1::high caries risk}}, ortho or exposed roots; minimal side effects if used properly; use daily for at-risk patients."
+  },
+  {
+   "id": "poc-p352-019",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "text": "Sodium fluoride toothpaste: OTC = {{c1::0.24%}} NaF / 1100 ppm; Rx = {{c2::1.1%}} NaF / 5000 ppm."
+  },
+  {
+   "id": "poc-p352-020",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "text": "Sodium fluoride toothpaste helps {{c1::remineralize}} enamel and prevent demineralization; essential for {{c2::high caries risk}} patients."
+  },
+  {
+   "id": "poc-p352-021",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "text": "{{c1::Stannous fluoride}} toothpaste is used for caries prevention, anti-gingivitis and anti-plaque."
+  },
+  {
+   "id": "poc-p352-022",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "text": "Stannous fluoride releases {{c1::tin}} ions with an antimicrobial and anti-inflammatory effect."
+  },
+  {
+   "id": "poc-p352-023",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "text": "Stannous fluoride may cause {{c1::extrinsic brown staining}}, especially with poor plaque control."
+  },
+  {
+   "id": "poc-p352-024",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "text": "{{c1::Potassium nitrate}} toothpaste is used for dentin hypersensitivity relief."
+  },
+  {
+   "id": "poc-p352-025",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "text": "Potassium nitrate blocks nerve transmission by {{c1::depolarizing}} sensory nerve endings."
+  }
+ ],
+ "basic": [
+  {
+   "id": "poc-p347-b-01",
+   "deck": "Process of Care",
+   "section": "Types of radiographs",
+   "page": 347,
+   "front": "Full mouth series (CMRS, FMX)",
+   "back": "A combination of bitewings and periapicals that provides images of all teeth present in the oral cavity",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p349-b-01",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "front": "Tufted dental floss",
+   "back": "Thicker, yarn-like floss",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p349-b-02",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "front": "Floss threader",
+   "back": "Thin piece of straight plastic with a loop on one end",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p349-b-03",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "front": "Super floss",
+   "back": "Pre-cut floss with a stiff end, a sponge section and regular floss",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p349-b-04",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "front": "Rubber tip stimulator",
+   "back": "Tapered rubber tip that massages the gingiva and removes plaque at the gingival margin",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p350-b-01",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 350,
+   "front": "Impact zone (oral irrigation)",
+   "back": "The area where the water initially contacts the surface",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p350-b-02",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 350,
+   "front": "Flushing zone (oral irrigation)",
+   "back": "The pocket/sulcus area where the solution penetrates",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p350-b-03",
+   "deck": "Process of Care",
+   "section": "Motivational interviewing",
+   "page": 350,
+   "front": "Motivational interviewing (MI)",
+   "back": "A patient-centered communication style that helps patients explore and resolve ambivalence about behavior change",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p351-b-01",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "front": "Active ingredient",
+   "back": "The component that produces the therapeutic effect (e.g., sodium fluoride for caries protection)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p351-b-02",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "front": "Substantivity",
+   "back": "The ability of an agent to bind to tissues and be retained/released slowly over time, with a continued effect",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p352-b-01",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "front": "Why does potassium nitrate reduce dentinal hypersensitivity — and why only while it is being used?",
+   "back": "It diffuses into the dentinal tubules and depolarizes the nerve endings, keeping the nerve in a constant low-level excited state so it responds less to external stimuli (cold, touch). The numbing-like effect lasts only while the product is in use.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "poc-p350-t-01",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 350,
+   "question": "At what angle to the tooth is the irrigator's STANDARD tip positioned (near the gingival margin)? (degrees)",
+   "answer": "90",
+   "extra": "Standard tip = supragingival cleaning."
+  },
+  {
+   "id": "poc-p350-t-02",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 350,
+   "question": "About how far (in mm) does the standard irrigator tip push water into the pocket?",
+   "answer": "1.8",
+   "extra": ""
+  },
+  {
+   "id": "poc-p350-t-03",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 350,
+   "question": "At what angle is the irrigator's SUBGINGIVAL (rubber) tip inserted into the pocket? (degrees)",
+   "answer": "45",
+   "extra": ""
+  },
+  {
+   "id": "poc-p352-t-01",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "question": "Prescription-strength sodium fluoride toothpaste contains how many ppm fluoride?",
+   "answer": "5000",
+   "extra": "1.1% NaF (e.g., Prevident® 5000, Fluoridex®)."
+  },
+  {
+   "id": "poc-p352-t-02",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "question": "OTC sodium fluoride toothpaste contains how many ppm fluoride?",
+   "answer": "1100",
+   "extra": "0.24% NaF (e.g., Crest®, Colgate®)."
+  }
+ ],
+ "match": [
+  {
+   "id": "poc-p347-m-01",
+   "deck": "Process of Care",
+   "section": "Glickman's furcation classification",
+   "page": 347,
+   "prompt": "Match each Glickman furcation class to its symbol on the periodontal chart.",
+   "pairs": [
+    [
+     "Class I",
+     "Λ (open caret)"
+    ],
+    [
+     "Class II",
+     "Δ (outline triangle)"
+    ],
+    [
+     "Class III",
+     "▲ (solid triangle)"
+    ],
+    [
+     "Class IV",
+     "◆ (solid diamond)"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p347-m-02",
+   "deck": "Process of Care",
+   "section": "Types of radiographs",
+   "page": 347,
+   "prompt": "Match each radiograph type to the use the book lists for it.",
+   "pairs": [
+    [
+     "Bitewing",
+     "Interproximal caries detection"
+    ],
+    [
+     "Periapical",
+     "Root abnormalities (dilaceration, resorption)"
+    ],
+    [
+     "Occlusal",
+     "Locating sialoliths"
+    ],
+    [
+     "Panoramic",
+     "Third molars, eruption patterns, TMJ"
+    ],
+    [
+     "Full mouth series",
+     "Images of all teeth present"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p349-m-01",
+   "deck": "Process of Care",
+   "section": "Toothbrushing methods",
+   "page": 349,
+   "prompt": "Match each toothbrushing method to its common use.",
+   "pairs": [
+    [
+     "Bass",
+     "Most accepted; cleans the sulcus"
+    ],
+    [
+     "Stillman",
+     "Gingival stimulation"
+    ],
+    [
+     "Charter's",
+     "Orthodontics, prostheses, post-surgical areas"
+    ],
+    [
+     "Fones",
+     "Children, physically impaired patients"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p349-m-02",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "prompt": "Match each interdental aid to its distinctive use or user.",
+   "pairs": [
+    [
+     "Floss handle",
+     "Larger hands or poor manual dexterity"
+    ],
+    [
+     "Rubber tip stimulator",
+     "Massages gingiva at the gingival margin"
+    ],
+    [
+     "End-tuft brush",
+     "Lingual surface of mandibular teeth"
+    ],
+    [
+     "Floss threader",
+     "Access under a pontic"
+    ],
+    [
+     "Waxed floss",
+     "Tight contacts"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p350-m-01",
+   "deck": "Process of Care",
+   "section": "Motivational interviewing",
+   "page": 350,
+   "prompt": "Match each MI technique to its example.",
+   "pairs": [
+    [
+     "Open-ended question",
+     "\"How do you feel about your home care routine?\""
+    ],
+    [
+     "Reflective listening",
+     "\"So it sounds like flossing feels like too much right now.\""
+    ],
+    [
+     "Affirmation",
+     "\"You're brushing twice a day — that's a great start!\""
+    ],
+    [
+     "Summarizing",
+     "Restating concerns, progress and goals"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p352-m-01",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "prompt": "Match each mouthrinse type to its brand example.",
+   "pairs": [
+    [
+     "Chlorhexidine",
+     "Peridex®, PerioGard®"
+    ],
+    [
+     "Essential oils",
+     "Listerine®"
+    ],
+    [
+     "Quaternary ammonium (CPC)",
+     "Scope®, Crest Pro-Health®"
+    ],
+    [
+     "Sanguinarine",
+     "Viadent®"
+    ],
+    [
+     "Oxygenating agent",
+     "Amosan®"
+    ],
+    [
+     "Fluoride rinse",
+     "ACT®, Fluorigard®"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p352-m-02",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "prompt": "Match each dentifrice to its brand examples.",
+   "pairs": [
+    [
+     "Sodium fluoride (Rx)",
+     "Prevident® 5000, Fluoridex®"
+    ],
+    [
+     "Stannous fluoride",
+     "Crest® Pro-Health, GelKam®"
+    ],
+    [
+     "Potassium nitrate",
+     "Sensodyne®, Colgate Sensitive®"
+    ]
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "poc-p348-s-01",
+   "deck": "Process of Care",
+   "section": "Risk factor assessment",
+   "page": 348,
+   "prompt": "Sort each risk factor by the disease the book links it to.",
+   "categories": [
+    [
+     "Periodontal disease",
+     [
+      "Smoking (most significant systemic risk)",
+      "Diabetes",
+      "Male gender",
+      "Parafunctional habits"
+     ]
+    ],
+    [
+     "Caries",
+     [
+      "Cariogenic food consumption pattern",
+      "Low socioeconomic status",
+      "Insufficient fluoride exposure"
+     ]
+    ],
+    [
+     "Oral cancer",
+     [
+      "Alcohol combined with smoking"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "poc-p350-s-01",
+   "deck": "Process of Care",
+   "section": "Halitosis",
+   "page": 350,
+   "prompt": "Sort the causes of halitosis: oral or non-oral?",
+   "categories": [
+    [
+     "Oral",
+     [
+      "Tongue coating",
+      "Periodontal disease",
+      "Carious lesions",
+      "Poor oral hygiene",
+      "Ill-fitting appliances"
+     ]
+    ],
+    [
+     "Non-oral",
+     [
+      "GERD",
+      "Stomach ulcers (H. pylori)",
+      "Tonsillitis",
+      "Sinus infections"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "poc-p351-s-01",
+   "deck": "Process of Care",
+   "section": "Chemical agents overview",
+   "page": 351,
+   "prompt": "Sort each ingredient by its category of chemical agent.",
+   "categories": [
+    [
+     "Antimicrobial",
+     [
+      "Cetylpyridinium chloride",
+      "Triclosan",
+      "Phenolic compounds"
+     ]
+    ],
+    [
+     "Astringent",
+     [
+      "Citric acid",
+      "Zinc chloride"
+     ]
+    ],
+    [
+     "Desensitizing",
+     [
+      "Potassium nitrate",
+      "Stannous fluoride"
+     ]
+    ],
+    [
+     "Anodyne",
+     [
+      "Benzocaine",
+      "Lidocaine"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "poc-p352-s-01",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "prompt": "Sort the mouthrinses by substantivity (per the book's table).",
+   "categories": [
+    [
+     "High",
+     [
+      "Chlorhexidine"
+     ]
+    ],
+    [
+     "Moderate",
+     [
+      "Sodium fluoride rinse"
+     ]
+    ],
+    [
+     "Low",
+     [
+      "Essential oils"
+     ]
+    ],
+    [
+     "Very low / minimal",
+     [
+      "CPC",
+      "Oxygenating agents",
+      "Sanguinarine"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "poc-p347-mcq-01",
+   "deck": "Process of Care",
+   "section": "Glickman's furcation classification",
+   "page": 347,
+   "question": "While probing #30, the Naber's probe passes from the buccal furcation completely through to the lingual. The furca entrance is covered by gingiva and not clinically visible. Which Glickman class is this?",
+   "options": [
+    "A. Class I",
+    "B. Class II",
+    "C. Class III",
+    "D. Class IV"
+   ],
+   "answer": "C. Class III",
+   "explanation": "Class III = the probe passes completely through the furcation. Class IV also passes through, but its furca entrance is clinically visible; Class II penetrates >1 mm without passing through."
+  },
+  {
+   "id": "poc-p347-mcq-02",
+   "deck": "Process of Care",
+   "section": "Glickman's furcation classification",
+   "page": 347,
+   "question": "On which aspects should the hygienist check for furcation involvement on a maxillary first molar?",
+   "options": [
+    "A. Facial and lingual",
+    "B. Mesial and distal only",
+    "C. Facial, mesial and distal",
+    "D. Facial, lingual, mesial and distal"
+   ],
+   "answer": "C. Facial, mesial and distal",
+   "explanation": "Maxillary molars are trifurcated (MB, DB, palatal roots), so furcations open on the facial, mesial and distal. Facial and lingual is the pattern for bifurcated mandibular molars."
+  },
+  {
+   "id": "poc-p347-mcq-03",
+   "deck": "Process of Care",
+   "section": "Types of radiographs",
+   "page": 347,
+   "question": "A patient has generalized moderate horizontal bone loss. Which bitewing orientation best shows the bone level?",
+   "options": [
+    "A. Horizontal bitewings",
+    "B. Vertical bitewings",
+    "C. Occlusal projection",
+    "D. Panoramic image only"
+   ],
+   "answer": "B. Vertical bitewings",
+   "explanation": "Vertical bitewings are preferred over horizontal bitewings for assessing bone level when destruction occurs, because the taller image captures more of the crestal bone. Horizontal bitewings are for interproximal caries."
+  },
+  {
+   "id": "poc-p348-mcq-01",
+   "deck": "Process of Care",
+   "section": "Radiographs for new patients",
+   "page": 348,
+   "question": "A 45-year-old dentate recall patient has several new carious lesions (increased caries risk). How often should posterior bitewings be taken?",
+   "options": [
+    "A. Every 6–12 months",
+    "B. Every 6–18 months",
+    "C. Every 12–24 months",
+    "D. Every 24–36 months"
+   ],
+   "answer": "B. Every 6–18 months",
+   "explanation": "Adults at increased caries risk: posterior bitewings every 6–18 months. 6–12 months is the interval for children and adolescents at increased risk; 24–36 months is for low-risk adults."
+  },
+  {
+   "id": "poc-p349-mcq-01",
+   "deck": "Process of Care",
+   "section": "Toothbrushing methods",
+   "page": 349,
+   "question": "A hygienist places the bristles partly on the attached gingiva, angled apically at 45°, and uses small vibratory motions without entering the sulcus. Which method is this?",
+   "options": [
+    "A. Bass",
+    "B. Stillman",
+    "C. Charter's",
+    "D. Fones"
+   ],
+   "answer": "B. Stillman",
+   "explanation": "Stillman = bristles ON the gingiva, angled apically, for gingival stimulation. Bass also uses 45°, but the bristles go INTO the sulcus."
+  },
+  {
+   "id": "poc-p349-mcq-02",
+   "deck": "Process of Care",
+   "section": "Toothbrushing methods",
+   "page": 349,
+   "question": "Which toothbrushing method is most appropriate for a patient with fixed orthodontic appliances?",
+   "options": [
+    "A. Fones",
+    "B. Stillman",
+    "C. Charter's",
+    "D. Bass"
+   ],
+   "answer": "C. Charter's",
+   "explanation": "Charter's method directs bristles toward occlusal with back-and-forth vibratory strokes, which suits orthodontics, prostheses and post-surgical areas. Fones is for children and is not recommended for adults."
+  },
+  {
+   "id": "poc-p349-mcq-03",
+   "deck": "Process of Care",
+   "section": "Interdental care",
+   "page": 349,
+   "question": "A patient has gingival recession with an exposed root concavity and an exposed furcation on #19. Which aid is most appropriate?",
+   "options": [
+    "A. Waxed floss",
+    "B. Interdental brush",
+    "C. Floss threader",
+    "D. Rubber tip stimulator"
+   ],
+   "answer": "B. Interdental brush",
+   "explanation": "The interdental brush cleans type II/III embrasures, exposed furcations and exposed root concavities. Floss cannot adapt into a concavity; a floss threader only carries floss under fixed appliances."
+  },
+  {
+   "id": "poc-p350-mcq-01",
+   "deck": "Process of Care",
+   "section": "Oral irrigation",
+   "page": 350,
+   "question": "Which statement about oral irrigation is correct?",
+   "options": [
+    "A. The standard tip is inserted at 45° into the pocket",
+    "B. Water flossers clean the contact area of adjacent teeth",
+    "C. The subgingival tip is used after the standard tip to deliver medicaments",
+    "D. The impact zone is the pocket area the solution penetrates"
+   ],
+   "answer": "C. The subgingival tip is used after the standard tip to deliver medicaments",
+   "explanation": "The subgingival rubber tip (45° into the pocket) delivers medicaments and follows the standard tip. The standard tip sits at 90°; irrigators cannot clean contacts; the pocket area penetrated is the flushing zone, not the impact zone."
+  },
+  {
+   "id": "poc-p350-mcq-02",
+   "deck": "Process of Care",
+   "section": "Halitosis",
+   "page": 350,
+   "question": "A healthy 30-year-old with good periodontal health complains of bad breath. What is the most likely cause?",
+   "options": [
+    "A. GERD",
+    "B. Tongue coating",
+    "C. Sinus infection",
+    "D. Carious lesions"
+   ],
+   "answer": "B. Tongue coating",
+   "explanation": "Tongue coating is the most common cause of halitosis in healthy individuals — anaerobes on the posterior tongue produce VSCs. GERD and sinus infections are non-oral causes and less common."
+  },
+  {
+   "id": "poc-p350-mcq-03",
+   "deck": "Process of Care",
+   "section": "Motivational interviewing",
+   "page": 350,
+   "question": "The hygienist asks, \"Would it be OK if I shared a tip about flossing?\", explains the tip, then asks, \"How might that fit into your evening?\" Which MI technique is this?",
+   "options": [
+    "A. Reflective listening",
+    "B. Affirmation",
+    "C. Elicit–Provide–Elicit",
+    "D. Summarizing"
+   ],
+   "answer": "C. Elicit–Provide–Elicit",
+   "explanation": "Elicit–Provide–Elicit = ask permission, give the advice, then check understanding/response. Reflective listening restates what the patient said; it does not give advice."
+  },
+  {
+   "id": "poc-p350-mcq-04",
+   "deck": "Process of Care",
+   "section": "OHI by patient type",
+   "page": 350,
+   "question": "A patient with two implants asks which interdental brush to use. What should the hygienist recommend?",
+   "options": [
+    "A. A standard metal-core interproximal brush",
+    "B. A nylon-coated interdental brush",
+    "C. A wooden wedge",
+    "D. A floss threader with waxed floss only"
+   ],
+   "answer": "B. A nylon-coated interdental brush",
+   "explanation": "For implants the book recommends a nylon-coated interdental brush (plus super floss and non-abrasive paste) and says to avoid metal-core brushes."
+  },
+  {
+   "id": "poc-p352-mcq-01",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "question": "A patient using a prescribed rinse after periodontal surgery returns with brown extrinsic stain and increased supragingival calculus. Which rinse is most likely responsible?",
+   "options": [
+    "A. Essential oils (Listerine®)",
+    "B. Chlorhexidine 0.12% (Peridex®)",
+    "C. Sodium fluoride (ACT®)",
+    "D. Hydrogen peroxide"
+   ],
+   "answer": "B. Chlorhexidine 0.12% (Peridex®)",
+   "explanation": "Chlorhexidine's side effects are staining, increased calculus, taste alteration and dry mucosa; it is the only one of these that needs a prescription. Essential oils cause burning and dryness, not calculus."
+  },
+  {
+   "id": "poc-p352-mcq-02",
+   "deck": "Process of Care",
+   "section": "Mouthrinses",
+   "page": 352,
+   "question": "A patient with xerostomia and high caries risk asks for a daily mouthrinse. Which is the best choice?",
+   "options": [
+    "A. Essential oil rinse with 26% alcohol",
+    "B. Sodium fluoride rinse (alcohol-free)",
+    "C. Hydrogen peroxide rinse",
+    "D. Chlorhexidine 0.12% for long-term use"
+   ],
+   "answer": "B. Sodium fluoride rinse (alcohol-free)",
+   "explanation": "Fluoride rinses are alcohol-free, remineralize, and are meant for daily use in at-risk patients. Essential oil rinses are contraindicated in xerostomia (alcohol dries tissue); CHX is short-term only; peroxide is not for long-term daily use."
+  },
+  {
+   "id": "poc-p352-mcq-03",
+   "deck": "Process of Care",
+   "section": "Dentifrices",
+   "page": 352,
+   "question": "A patient with gingivitis reports new brown extrinsic stain since switching toothpastes. Which active ingredient is most likely responsible?",
+   "options": [
+    "A. Sodium fluoride",
+    "B. Potassium nitrate",
+    "C. Stannous fluoride",
+    "D. Sodium bicarbonate"
+   ],
+   "answer": "C. Stannous fluoride",
+   "explanation": "Stannous fluoride (anti-gingivitis, anti-plaque via tin ions) may cause extrinsic brown staining, especially with poor plaque control. Sodium fluoride and potassium nitrate are not linked to staining in the book."
+  }
+ ]
+}

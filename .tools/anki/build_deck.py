@@ -31,7 +31,32 @@ IO_MODEL_ID = 1728390001       # fixed forever
 CLOZE_MODEL_ID = 1728390002    # fixed forever
 MCQ_MODEL_ID = 1728390003      # fixed forever
 ROOT_DECK = 'NBDHE'
-BOOKS = {'anatomy': {'pdf': 'Anatomy', 'deck': 'Anatomy', 'page0': 146}}   # book page = pdf page + page0
+# book page = pdf page + page0. 'decks' = allowed spec "deck" values; a spec deck equal to the
+# book's own 'deck' name goes in the book's top deck (NBDHE::<deck>), any other in a sub-deck.
+BOOKS = {
+    'anatomy':     {'pdf': 'Anatomy', 'deck': 'Anatomy', 'page0': 146, 'prefix': 'anat', 'tag': 'anatomy',
+                    'decks': ['Head and Neck', 'Dental Anatomy', 'Quizzes']},
+    'community':   {'pdf': 'CommunityResearch', 'deck': 'Community Oral Health & Research', 'page0': 252, 'prefix': 'comm'},
+    'materials':   {'pdf': 'DentalMaterials', 'deck': 'Dental Materials', 'page0': 412, 'prefix': 'mat'},
+    'embryology':  {'pdf': 'Embriology&Histology', 'deck': 'Embryology & Histology', 'page0': 178, 'prefix': 'emb'},
+    'infection':   {'pdf': 'InfectionControl', 'deck': 'Infection Control', 'page0': 274, 'prefix': 'ic'},
+    'instruments': {'pdf': 'Instrumentation', 'deck': 'Instrumentation', 'page0': 372, 'prefix': 'inst'},
+    'law':         {'pdf': 'Law&Ethics', 'deck': 'Law & Ethics', 'page0': 362, 'prefix': 'law'},
+    'emergencies': {'pdf': 'MedEmergencies', 'deck': 'Medical Emergencies', 'page0': 394, 'prefix': 'emerg'},
+    'micro':       {'pdf': 'Micro&Immunology', 'deck': 'Microbiology & Immunology', 'page0': 312, 'prefix': 'micro'},
+    'nutrition':   {'pdf': 'Nutrition', 'deck': 'Nutrition', 'page0': 292, 'prefix': 'nutr'},
+    'pathology':   {'pdf': 'Pathology', 'deck': 'Oral Pathology', 'page0': 58, 'prefix': 'path'},
+    'perio':       {'pdf': 'Periodontology', 'deck': 'Periodontology', 'page0': 84, 'prefix': 'perio'},
+    'pharm':       {'pdf': 'Pharmacology', 'deck': 'Pharmacology', 'page0': 24, 'prefix': 'pharm'},
+    'care':        {'pdf': 'ProcessOfCare', 'deck': 'Process of Care', 'page0': 332, 'prefix': 'poc'},
+    'radiology':   {'pdf': 'Radiology', 'deck': 'Radiology', 'page0': 118, 'prefix': 'rad'},
+    'special':     {'pdf': 'SpecialNeedsMedConditions', 'deck': 'Special Needs & Medical Conditions', 'page0': 200, 'prefix': 'spec'},
+}
+NO_DEDUP = {'Anatomy'}   # shipped before duplicate-label greying; Steven to decide (2026-10-11)
+for _b in BOOKS.values():
+    _b.setdefault('decks', [_b['deck'], 'Quizzes'])
+    _b.setdefault('tag', _b['prefix'])
+    ct.NAMES[_b['pdf']] = (_b['deck'], _b['tag'])
 
 def deck_id(name):            # stable id derived from the full deck name
     return int(hashlib.sha1(name.encode()).hexdigest()[:8], 16) | (1 << 30)
@@ -205,15 +230,45 @@ def rotated_bg_box(page, box, slack=10):
     ys, xs = np.nonzero(lab == k)
     return _pca_rect(np.stack([xs, ys], 1).astype(float), x0, y0, pad=1)
 
+def page_image(spec, pdf):
+    """The diagram's page as an upright image. Spec "rotate" (90/180/270) = degrees CLOCKWISE that
+    turn a sideways/upside-down page upright; crop and boxes are then in the rotated page's px."""
+    page = Image.open(render(pdf, spec['pdf_page'])).convert('RGB')
+    if spec.get('rotate'):
+        page = page.rotate(-spec['rotate'], expand=True)
+    if spec.get('mask'):                       # [[x0,y0,x1,y1], ...] page px: white out stray text that gives answers away
+        from PIL import ImageDraw
+        d = ImageDraw.Draw(page)
+        for r in spec['mask']:
+            d.rectangle(r, fill='white')
+    # A label printed twice on one figure: the card for one copy would show the other copy (answer
+    # given away). Only the first copy gets cards; later copies are greyed out on the image.
+    spec['_dups'] = set() if pdf in NO_DEDUP else {
+        i for i, l in enumerate(spec['labels'])
+        if l['answer'].strip().lower() in {m['answer'].strip().lower() for m in spec['labels'][:i]}}
+    if spec['_dups']:
+        from PIL import ImageDraw
+        boxes = [tight_box(page, spec['labels'][i]['box'], spec['labels'][i].get('fit', 'bg')) for i in spec['_dups']]
+        d = ImageDraw.Draw(page)
+        for b in boxes:
+            if len(b) > 4:                     # rotated cover -> paint its bounding box
+                import math
+                a = math.radians(b[4]); cx, cy = (b[0] + b[2]) / 2, (b[1] + b[3]) / 2; hw, hh = (b[2] - b[0]) / 2, (b[3] - b[1]) / 2
+                ex, ey = abs(hw * math.cos(a)) + abs(hh * math.sin(a)), abs(hw * math.sin(a)) + abs(hh * math.cos(a))
+                b = [cx - ex, cy - ey, cx + ex, cy + ey]
+            d.rectangle([b[0] - PAD, b[1] - PAD, b[2] + PAD, b[3] + PAD], fill=(200, 200, 200))
+    return page
+
 def covers(spec, page):
     """[(label dict, [x0,y0,x1,y1] fitted cover in PAGE coords)] for a diagram spec."""
-    return [(l, tight_box(page, l['box'], l.get('fit', 'bg'))) for l in spec['labels']]
+    return [(l, tight_box(page, l['box'], l.get('fit', 'bg'))) for i, l in enumerate(spec['labels'])
+            if i not in spec.get('_dups', ())]
 
 # ---------------------------------------------------------------- notes
 def media_for(spec, pdf):
     MEDIA.mkdir(parents=True, exist_ok=True)
     out = MEDIA / f"{spec['name']}.jpg"
-    page = Image.open(render(pdf, spec['pdf_page'])).convert('RGB')
+    page = page_image(spec, pdf)
     im = page.crop(spec['crop'])
     w = min(WIDTH, im.width * 2)
     im.resize((w, round(im.height * w / im.width)), Image.LANCZOS).save(out, 'JPEG', quality=88, optimize=True)
@@ -222,7 +277,7 @@ def media_for(spec, pdf):
 def io_slots(spec, pdf):
     """The IO covers of a diagram as % boxes — reused by the Label Diagram card."""
     cx0, cy0, cx1, cy1 = spec['crop']; w, h = cx1 - cx0, cy1 - cy0
-    page = Image.open(render(pdf, spec['pdf_page'])).convert('RGB')
+    page = page_image(spec, pdf)
     out = []
     for l, b in covers(spec, page):
         x0, y0 = b[0] - cx0 - PAD, b[1] - cy0 - PAD
@@ -233,9 +288,9 @@ def io_slots(spec, pdf):
 
 def io_notes(spec, pdf, page0):
     cx0, cy0, cx1, cy1 = spec['crop']; w, h = cx1 - cx0, cy1 - cy0
-    page = Image.open(render(pdf, spec['pdf_page'])).convert('RGB')
+    page = page_image(spec, pdf)
     bp = spec.get('page', page0 + spec['pdf_page'])          # book page (Dental Anatomy: pdf+200)
-    src = f"StudentRDH {pdf} p.{bp}"
+    src = f"StudentRDH {ct.src(pdf)} p.{bp}"
     for l, b in covers(spec, page):
         rot = b[4] if len(b) > 4 else 0
         x0, y0 = b[0] - cx0 - PAD, b[1] - cy0 - PAD
@@ -246,20 +301,20 @@ def io_notes(spec, pdf, page0):
                     f'{100*x0/w:.2f}', f'{100*y0/h:.2f}', f'{100*bw/w:.2f}', f'{100*bh/h:.2f}',
                     l.get('extra', ''), src, f'{rot:.1f}'],
             guid=genanki.guid_for('nbdhe-io', spec['name'], l.get('key', l['answer'])),   # 'key' disambiguates repeated labels
-            tags=[pdf.lower(), f"p{bp}", 'image-occlusion'])
+            tags=[ct.tag(pdf), f"p{bp}", 'image-occlusion'])
 
 def cloze_note(c, pdf):
     return genanki.Note(model=CLOZE_MODEL, fields=[c['text'], c.get('section', ''), c.get('extra', ''),
-                        f"StudentRDH {pdf} p.{c['page']}"],
+                        f"StudentRDH {ct.src(pdf)} p.{c['page']}"],
                         guid=genanki.guid_for('nbdhe-cloze', c['id']),
-                        tags=[pdf.lower(), f"p{c['page']}", 'cloze'])
+                        tags=[ct.tag(pdf), f"p{c['page']}", 'cloze'])
 
 def mcq_note(q, pdf):
     opts = ''.join(f'<li>{o}</li>' for o in q['options'])
     return genanki.Note(model=MCQ_MODEL, fields=[q['question'], opts, q['answer'], q.get('explanation', ''),
-                        q.get('section', ''), f"StudentRDH {pdf} p.{q['page']}"],
+                        q.get('section', ''), f"StudentRDH {ct.src(pdf)} p.{q['page']}"],
                         guid=genanki.guid_for('nbdhe-mcq', q['id']),
-                        tags=[pdf.lower(), f"p{q['page']}", 'quiz'])
+                        tags=[ct.tag(pdf), f"p{q['page']}", 'quiz'])
 
 def load(book):
     specs = {k: [] for k in ('diagrams', 'cloze', 'mcq', 'basic', 'typein', 'match', 'order', 'sort')}
@@ -276,7 +331,8 @@ if __name__ == '__main__':
     decks, media = {}, []
     counts = {k: 0 for k in ('io', 'label', 'cloze', 'mcq', 'basic', 'typein', 'match', 'order', 'sort')}
     def deck(sub):
-        name = f"{ROOT_DECK}::{cfg['deck']}::{sub}"
+        assert sub in cfg['decks'], f'bad deck {sub!r}'
+        name = f"{ROOT_DECK}::{cfg['deck']}" + ('' if sub == cfg['deck'] else f"::{sub}")
         if name not in decks:
             decks[name] = genanki.Deck(deck_id(name), name)
         return decks[name]

@@ -1,0 +1,1713 @@
+{
+ "diagrams": [
+  {
+   "name": "ic-p276-chain-of-infection",
+   "title": "Chain of infection",
+   "deck": "Infection Control",
+   "pdf_page": 2,
+   "page": 276,
+   "crop": [
+    185,
+    180,
+    1270,
+    840
+   ],
+   "labels": [
+    {
+     "box": [
+      380,
+      198,
+      610,
+      242
+     ],
+     "answer": "Susceptible host",
+     "fit": "text"
+    },
+    {
+     "box": [
+      905,
+      305,
+      1000,
+      352
+     ],
+     "answer": "Agent",
+     "fit": "text"
+    },
+    {
+     "box": [
+      205,
+      346,
+      412,
+      392
+     ],
+     "answer": "Portal of entry",
+     "fit": "text"
+    },
+    {
+     "box": [
+      922,
+      552,
+      1062,
+      598
+     ],
+     "answer": "Reservoir",
+     "fit": "text"
+    },
+    {
+     "box": [
+      192,
+      690,
+      490,
+      738
+     ],
+     "answer": "Mode of transmission",
+     "fit": "text"
+    },
+    {
+     "box": [
+      728,
+      770,
+      912,
+      818
+     ],
+     "answer": "Portal of exit",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "ic-p277-mode-of-transmission",
+   "title": "Mode of transmission",
+   "deck": "Infection Control",
+   "pdf_page": 3,
+   "page": 277,
+   "crop": [
+    150,
+    1560,
+    1240,
+    2075
+   ],
+   "labels": [
+    {
+     "box": [
+      485,
+      1579,
+      675,
+      1627
+     ],
+     "answer": "Droplets nuclei",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      292,
+      1740,
+      404,
+      1776
+     ],
+     "answer": "Droplets",
+     "fit": "none"
+    },
+    {
+     "box": [
+      490,
+      1892,
+      665,
+      1936
+     ],
+     "answer": "Direct contact",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      800,
+      1890,
+      1005,
+      1936
+     ],
+     "answer": "Susceptible host",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      408,
+      2013,
+      609,
+      2063
+     ],
+     "answer": "Indirect contact",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "ic-p282-cleaning-disinfection-sterilization",
+   "title": "Cleaning, disinfection, sterilization",
+   "deck": "Infection Control",
+   "pdf_page": 8,
+   "page": 282,
+   "crop": [
+    200,
+    960,
+    1180,
+    1400
+   ],
+   "labels": [
+    {
+     "box": [
+      267,
+      1323,
+      434,
+      1377
+     ],
+     "answer": "Cleaning",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      557,
+      1323,
+      782,
+      1377
+     ],
+     "answer": "Disinfection",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      891,
+      1324,
+      1112,
+      1377
+     ],
+     "answer": "Sterilization",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "ic-p276-001",
+   "deck": "Infection Control",
+   "section": "Chain of infection",
+   "page": 276,
+   "text": "Breaking {{c1::any one}} link of the chain of infection stops the transmission."
+  },
+  {
+   "id": "ic-p276-002",
+   "deck": "Infection Control",
+   "section": "Agent",
+   "page": 276,
+   "text": "An infectious agent can be {{c1::bacteria, viruses, fungi, protozoa, or parasites::5 kinds}}."
+  },
+  {
+   "id": "ic-p276-003",
+   "deck": "Infection Control",
+   "section": "Agent",
+   "page": 276,
+   "text": "Some agents are highly infectious and spread easily between hosts (e.g., {{c1::measles}}, COVID-19); others cause disease only in {{c2::immunocompromised}} individuals."
+  },
+  {
+   "id": "ic-p276-004",
+   "deck": "Infection Control",
+   "section": "Agent",
+   "page": 276,
+   "text": "Common infectious agents in dentistry: {{c1::hepatitis B virus}}, herpes simplex virus, {{c2::Mycobacterium tuberculosis}}, and HIV."
+  },
+  {
+   "id": "ic-p276-005",
+   "deck": "Infection Control",
+   "section": "Agent",
+   "page": 276,
+   "text": "{{c1::Vehicles}} are substances that can carry and transmit an infectious agent, such as food, water, blood, or fomites."
+  },
+  {
+   "id": "ic-p276-006",
+   "deck": "Infection Control",
+   "section": "Agent",
+   "page": 276,
+   "text": "A vehicle may simply carry a pathogen (e.g., {{c1::hepatitis A}} in contaminated food) or support its growth and toxin production (e.g., {{c2::Clostridium botulinum}} in improperly canned food)."
+  },
+  {
+   "id": "ic-p276-007",
+   "deck": "Infection Control",
+   "section": "Agent",
+   "page": 276,
+   "text": "{{c1::Vectors}} are living organisms, such as mosquitoes, fleas, or ticks, that can transmit pathogens.",
+   "extra": "Vector = living; vehicle = non-living substance."
+  },
+  {
+   "id": "ic-p276-008",
+   "deck": "Infection Control",
+   "section": "Reservoir",
+   "page": 276,
+   "text": "The reservoir is not always the source of infection: <i>C. botulinum</i> lives in {{c1::soil}}, but infections come from {{c2::improperly canned food}}."
+  },
+  {
+   "id": "ic-p276-009",
+   "deck": "Infection Control",
+   "section": "Reservoir",
+   "page": 276,
+   "text": "Humans are the reservoir for many common diseases seen in dentistry, including {{c1::strep throat}}, influenza, tuberculosis, and COVID-19."
+  },
+  {
+   "id": "ic-p276-010",
+   "deck": "Infection Control",
+   "section": "Reservoir",
+   "page": 276,
+   "text": "{{c1::Carriers}} can transmit disease without showing symptoms."
+  },
+  {
+   "id": "ic-p276-011",
+   "deck": "Infection Control",
+   "section": "Reservoir",
+   "page": 276,
+   "text": "Smallpox could be eradicated because {{c1::humans were its only reservoir}}.",
+   "extra": "Once infections were eliminated from people, the virus had nowhere left to survive."
+  },
+  {
+   "id": "ic-p276-012",
+   "deck": "Infection Control",
+   "section": "Reservoir",
+   "page": 276,
+   "text": "{{c1::Zoonoses}} are diseases that spread from animals to humans (e.g., rabies, HIV, COVID-19 — likely from bats)."
+  },
+  {
+   "id": "ic-p276-013",
+   "deck": "Infection Control",
+   "section": "Reservoir",
+   "page": 276,
+   "text": "Water can be an environmental reservoir: {{c1::<i>Legionella pneumophila</i>}} is found in {{c2::dental unit waterlines}} that are not properly maintained."
+  },
+  {
+   "id": "ic-p276-014",
+   "deck": "Infection Control",
+   "section": "Portal of exit",
+   "page": 276,
+   "text": "The portal of exit is often the same as the portal of {{c1::entry}} — e.g., influenza, COVID-19, and TB exit and enter through the {{c2::respiratory tract}}."
+  },
+  {
+   "id": "ic-p276-015",
+   "deck": "Infection Control",
+   "section": "Portal of exit",
+   "page": 276,
+   "text": "Pathogens can exit through saliva, blood, respiratory droplets, feces, urine, or other body fluids; in dentistry the common exits are {{c1::saliva}}, {{c1::respiratory droplets}}, and {{c1::blood}}."
+  },
+  {
+   "id": "ic-p277-001",
+   "deck": "Infection Control",
+   "section": "Portal of exit",
+   "page": 277,
+   "text": "Some agents exit through cuts, wounds, or {{c1::contaminated sharps}} (e.g., {{c2::hepatitis B}})."
+  },
+  {
+   "id": "ic-p277-002",
+   "deck": "Infection Control",
+   "section": "Portal of exit",
+   "page": 277,
+   "text": "Some agents exit through the {{c1::placenta}} from mother to fetus (e.g., rubella, syphilis, toxoplasmosis)."
+  },
+  {
+   "id": "ic-p277-003",
+   "deck": "Infection Control",
+   "section": "Portal of exit",
+   "page": 277,
+   "text": "SARS-CoV-2 (COVID-19) is primarily spread through {{c1::droplets}} released when a person coughs, sneezes, or talks."
+  },
+  {
+   "id": "ic-p277-004",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "text": "{{c1::Direct contact}} transmission is the physical transfer of a pathogen, e.g., touching blood, saliva, or open lesions."
+  },
+  {
+   "id": "ic-p277-005",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "text": "{{c1::Indirect contact}} transmission occurs via a contaminated object or surface (fomite), e.g., instruments, gloves, handpieces, countertops, door handles, charts, bedding."
+  },
+  {
+   "id": "ic-p277-006",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "text": "In {{c1::droplet}} transmission, large respiratory droplets (e.g., from coughing or sneezing) travel {{c2::short}} distances and land on mucous membranes (eyes, nose, mouth)."
+  },
+  {
+   "id": "ic-p277-007",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "text": "In {{c1::airborne}} transmission, smaller particles remain suspended in the air and are inhaled (e.g., tuberculosis, measles)."
+  },
+  {
+   "id": "ic-p277-008",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "text": "{{c1::Common vehicle}} transmission is spread through contaminated food, water, or medication shared by many people."
+  },
+  {
+   "id": "ic-p277-009",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "text": "{{c1::Vector-borne}} transmission is spread through insects or animals (e.g., mosquitoes transmitting malaria) — not common in dentistry."
+  },
+  {
+   "id": "ic-p277-010",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "text": "In dental settings, the most common modes of transmission are {{c1::direct contact}}, {{c1::indirect contact}}, and {{c1::droplet}} transmission."
+  },
+  {
+   "id": "ic-p277-011",
+   "deck": "Infection Control",
+   "section": "Portal of entry",
+   "page": 277,
+   "text": "Pathogens can enter through the {{c1::mouth, nose, eyes, skin, or mucous membranes::5 sites}}."
+  },
+  {
+   "id": "ic-p277-012",
+   "deck": "Infection Control",
+   "section": "Portal of entry",
+   "page": 277,
+   "text": "The {{c1::respiratory tract}} is a common portal of entry in dentistry due to aerosols and droplets."
+  },
+  {
+   "id": "ic-p277-013",
+   "deck": "Infection Control",
+   "section": "Portal of entry",
+   "page": 277,
+   "text": "The {{c1::fecal-oral route}} involves pathogens exiting in feces and entering through the mouth via contaminated food or water (e.g., {{c2::polio}}).",
+   "extra": "Fecal-oral transmission: microorganisms spread from human or animal stool to the mouth."
+  },
+  {
+   "id": "ic-p277-014",
+   "deck": "Infection Control",
+   "section": "Portal of entry",
+   "page": 277,
+   "text": "Bloodborne agents (e.g., hepatitis B) can enter through cuts, needle sticks, open wounds, {{c1::transfusions}}, sharps injuries, or mucosal contact."
+  },
+  {
+   "id": "ic-p277-015",
+   "deck": "Infection Control",
+   "section": "Susceptible host",
+   "page": 277,
+   "text": "A host's susceptibility depends on their immune system, health status, {{c1::genetics}}, {{c2::age}}, and vaccination history."
+  },
+  {
+   "id": "ic-p277-016",
+   "deck": "Infection Control",
+   "section": "Susceptible host",
+   "page": 277,
+   "text": "More susceptible due to weaker immune defenses: immunocompromised individuals (cancer, HIV, chemotherapy), {{c1::unvaccinated}} individuals, the {{c2::elderly}}, and the very young."
+  },
+  {
+   "id": "ic-p277-017",
+   "deck": "Infection Control",
+   "section": "Susceptible host",
+   "page": 277,
+   "text": "Some genetic traits protect: people with the {{c1::sickle cell trait}} are partially protected from {{c2::malaria}}."
+  },
+  {
+   "id": "ic-p277-018",
+   "deck": "Infection Control",
+   "section": "Susceptible host",
+   "page": 277,
+   "text": "Good health habits, {{c1::hand hygiene}}, {{c2::PPE}}, and {{c3::vaccination}} reduce a host's susceptibility."
+  },
+  {
+   "id": "ic-p278-001",
+   "deck": "Infection Control",
+   "section": "Direct contact",
+   "page": 278,
+   "text": "In direct contact transmission, microorganisms pass from one infected person to another without a {{c1::contaminated object or person}} in between."
+  },
+  {
+   "id": "ic-p278-002",
+   "deck": "Infection Control",
+   "section": "Direct contact",
+   "page": 278,
+   "text": "Direct contact occurs through skin-to-skin contact, kissing, sexual activity, or contact with {{c1::mucous membranes or non-intact skin}} (e.g., cuts or abrasions)."
+  },
+  {
+   "id": "ic-p278-003",
+   "deck": "Infection Control",
+   "section": "Direct contact",
+   "page": 278,
+   "text": "Diseases spread by direct contact include herpes simplex virus, HIV, hepatitis B, and {{c1::infectious mononucleosis}} (\"kissing disease\")."
+  },
+  {
+   "id": "ic-p278-004",
+   "deck": "Infection Control",
+   "section": "Direct contact",
+   "page": 278,
+   "text": "In dentistry, exposure to a patient's blood or saliva through a cut on the clinician's hand is {{c1::direct}} transmission."
+  },
+  {
+   "id": "ic-p278-005",
+   "deck": "Infection Control",
+   "section": "Indirect contact",
+   "page": 278,
+   "text": "In dental settings, {{c1::hepatitis B and C}} can spread when blood or saliva from one patient contaminates a surface or tool that is then touched by another person."
+  },
+  {
+   "id": "ic-p278-006",
+   "deck": "Infection Control",
+   "section": "Indirect contact",
+   "page": 278,
+   "text": "Proper {{c1::sterilization}} of instruments, {{c2::disinfection}} of surfaces, and hand hygiene are critical in preventing indirect contact transmission."
+  },
+  {
+   "id": "ic-p278-007",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Particle size: droplet transmission {{c1::&gt; 10 microns}}; airborne transmission {{c2::&lt; 10 microns}}."
+  },
+  {
+   "id": "ic-p278-008",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Airborne transmission is caused by {{c1::droplet nuclei}} — tiny particles smaller than 10 microns (often &lt; 5 microns) that form when larger respiratory droplets {{c2::evaporate}}, leaving behind infectious material."
+  },
+  {
+   "id": "ic-p278-009",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "In the air, droplets {{c1::fall quickly to the ground}}, whereas airborne particles {{c2::remain suspended for hours}}."
+  },
+  {
+   "id": "ic-p278-010",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Airborne transmission is {{c1::long}} range — it can travel across a room or through ventilation."
+  },
+  {
+   "id": "ic-p278-011",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Droplets spread by coughing, sneezing, and talking and may contact mucosa; airborne particles are {{c1::inhaled deep into the lungs}} from aerosols or droplet nuclei."
+  },
+  {
+   "id": "ic-p278-012",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Droplets can settle on surfaces and transfer by touch; airborne particles are less likely to settle, so the main concern is {{c1::inhalation}}."
+  },
+  {
+   "id": "ic-p278-013",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "COVID-19 spreads by {{c1::droplet}} transmission in typical cases but by {{c2::airborne}} transmission during aerosol-generating procedures."
+  },
+  {
+   "id": "ic-p278-014",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Influenza, {{c1::mumps}}, {{c1::rubella}}, and herpesviruses are spread by droplet transmission."
+  },
+  {
+   "id": "ic-p278-015",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Tuberculosis, {{c1::measles}}, and {{c2::chickenpox}} are spread by airborne transmission."
+  },
+  {
+   "id": "ic-p278-016",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Protection needed: droplet transmission → {{c1::surgical mask}} and standard precautions; airborne transmission → {{c2::N95 respirator}} or higher and airborne precautions."
+  },
+  {
+   "id": "ic-p278-017",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "N95 masks filter ≥ {{c1::95%}} of particles down to {{c2::0.3 microns}}."
+  },
+  {
+   "id": "ic-p278-018",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Particle sizes: viruses = {{c1::0.02–0.3}} µm; bacteria = {{c2::0.5–10}} µm; spores = {{c3::0.5–30}} µm."
+  },
+  {
+   "id": "ic-p278-019",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "text": "Dental relevance: droplets come from speaking, coughing, or {{c1::spatter}} from procedures; airborne aerosols are generated by {{c2::ultrasonic scaling}}, high-speed handpieces, and {{c3::air polishing}}."
+  },
+  {
+   "id": "ic-p278-020",
+   "deck": "Infection Control",
+   "section": "Bloodborne transmission",
+   "page": 278,
+   "text": "{{c1::Bloodborne}} transmission: microorganisms spread through blood and other body fluids."
+  },
+  {
+   "id": "ic-p278-021",
+   "deck": "Infection Control",
+   "section": "Bloodborne transmission",
+   "page": 278,
+   "text": "Three of the most common bloodborne pathogens health care workers are at risk from: HIV, {{c1::hepatitis B virus (HBV)}}, and {{c2::hepatitis C virus (HCV)}}."
+  },
+  {
+   "id": "ic-p278-022",
+   "deck": "Infection Control",
+   "section": "Bloodborne transmission",
+   "page": 278,
+   "text": "Health care workers are exposed to bloodborne diseases in two ways: a {{c1::percutaneous}} injury (injured by a sharp object) or a {{c2::mucocutaneous}} exposure (mucous membrane or non-intact skin contacts blood, tissue, or other potentially infectious body fluids)."
+  },
+  {
+   "id": "ic-p279-001",
+   "deck": "Infection Control",
+   "section": "Other modes of transmission",
+   "page": 279,
+   "text": "In {{c1::food and water}} transmission, microorganisms spread through contaminated food; improper food storage, contaminated water, or fecal material can be responsible."
+  },
+  {
+   "id": "ic-p279-002",
+   "deck": "Infection Control",
+   "section": "Standard precautions",
+   "page": 279,
+   "text": "{{c1::Standard precautions}} are infection control practices used with {{c2::all patients}}, regardless of their known or suspected infection status."
+  },
+  {
+   "id": "ic-p279-003",
+   "deck": "Infection Control",
+   "section": "Standard precautions",
+   "page": 279,
+   "text": "Standard precautions assume blood, saliva, all body fluids (except {{c1::sweat}}), non-intact skin, and mucous membranes may be infectious, even in {{c2::asymptomatic}} patients.",
+   "extra": "WakeUpMemory: \"Be A Smart Nurse, Man!\" = Blood, All body fluids (except sweat), Saliva, Non-intact skin, Mucous membranes."
+  },
+  {
+   "id": "ic-p279-004",
+   "deck": "Infection Control",
+   "section": "Standard precautions",
+   "page": 279,
+   "text": "Under standard precautions, \"blood\" means visible or {{c1::microscopic}}, and body fluids, secretions, and excretions count {{c2::whether or not they contain blood}}.",
+   "extra": "Saliva is especially relevant in dental settings; non-intact skin = rashes, cuts, abrasions; mucous membranes = eyes, nose, mouth."
+  },
+  {
+   "id": "ic-p279-005",
+   "deck": "Infection Control",
+   "section": "Standard precautions in dentistry",
+   "page": 279,
+   "text": "Standard precautions in dentistry include using {{c1::rubber dams}} and {{c2::high-volume evacuation}} to reduce aerosol spread.",
+   "extra": "Also: gloves, mask, protective eyewear and gown for all procedures; sterilizing instruments between patients; hand hygiene before and after patient contact; disinfecting operatory surfaces after each use."
+  },
+  {
+   "id": "ic-p279-006",
+   "deck": "Infection Control",
+   "section": "Standard precautions in dentistry",
+   "page": 279,
+   "text": "Treat all patients' saliva and blood as if they contain {{c1::HIV, HBV, or HCV}}, even without a confirmed diagnosis."
+  },
+  {
+   "id": "ic-p279-007",
+   "deck": "Infection Control",
+   "section": "Universal vs standard precautions",
+   "page": 279,
+   "text": "{{c1::Universal precautions}} were introduced in the {{c2::1980s}} to protect healthcare workers from bloodborne pathogens, especially HIV and hepatitis B."
+  },
+  {
+   "id": "ic-p279-008",
+   "deck": "Infection Control",
+   "section": "Universal vs standard precautions",
+   "page": 279,
+   "text": "Universal precautions focused only on {{c1::blood and specific high-risk body fluids}} (e.g., semen, vaginal secretions); {{c2::saliva}} and other non-bloody fluids were not included.",
+   "extra": "Don't be confused! Universal precautions = blood only. Standard precautions = blood + saliva + all body fluids + non-intact skin + mucous membranes."
+  },
+  {
+   "id": "ic-p279-009",
+   "deck": "Infection Control",
+   "section": "Universal vs standard precautions",
+   "page": 279,
+   "text": "In the {{c1::1990s}}, the CDC replaced universal precautions with standard precautions to provide broader protection."
+  },
+  {
+   "id": "ic-p279-010",
+   "deck": "Infection Control",
+   "section": "Universal vs standard precautions",
+   "page": 279,
+   "text": "Standard precautions are the current {{c1::CDC}} guideline used in all healthcare settings, including hospitals and dental offices."
+  },
+  {
+   "id": "ic-p280-001",
+   "deck": "Infection Control",
+   "section": "HIV and standard precautions",
+   "page": 280,
+   "text": "HIV is transmitted through blood, semen, vaginal and rectal fluids, and {{c1::breast milk}} — only on contact with {{c2::mucous membranes, non-intact skin, or by injection}}."
+  },
+  {
+   "id": "ic-p280-002",
+   "deck": "Infection Control",
+   "section": "HIV and standard precautions",
+   "page": 280,
+   "text": "HIV is not spread through {{c1::saliva}}, aerosols, or casual contact."
+  },
+  {
+   "id": "ic-p280-003",
+   "deck": "Infection Control",
+   "section": "HIV and standard precautions",
+   "page": 280,
+   "text": "In dentistry, HIV exposure risk comes from {{c1::needlestick injuries}} or contact with infected blood through cuts or mucosa."
+  },
+  {
+   "id": "ic-p280-004",
+   "deck": "Infection Control",
+   "section": "HIV and standard precautions",
+   "page": 280,
+   "text": "{{c1::Standard precautions}} are sufficient to prevent HIV transmission in dental settings."
+  },
+  {
+   "id": "ic-p280-005",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "text": "PPE protects the clinician's {{c1::skin}} and the mucous membranes of the {{c2::eyes, nose, and mouth}} from blood, saliva, and other potentially infectious materials."
+  },
+  {
+   "id": "ic-p280-006",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "text": "PPE includes gloves, masks, {{c1::safety glasses or face shields}}, and gowns."
+  },
+  {
+   "id": "ic-p280-007",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "text": "Protective clothing should prevent contamination of street clothes, have fitted {{c1::cuffs and necklines}}, and be removed by {{c2::rolling it inside out}}."
+  },
+  {
+   "id": "ic-p280-008",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "text": "Gloves must be changed between patients or if {{c1::torn}}, must never be worn {{c2::outside the operatory}}, and should cover the gown cuffs."
+  },
+  {
+   "id": "ic-p280-009",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "text": "Surgical masks should filter at least {{c1::95%}} of bacteria, be sealed around the nose, sides, and chin, and be changed between every patient or when {{c2::moist}}."
+  },
+  {
+   "id": "ic-p280-010",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "text": "Remove a mask by handling it by its {{c1::strings or elastic}} (straps)."
+  },
+  {
+   "id": "ic-p280-011",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "text": "Surgical masks do not protect against {{c1::airborne}} transmission (e.g., tuberculosis) — an N95 respirator or higher is needed."
+  },
+  {
+   "id": "ic-p280-012",
+   "deck": "Infection Control",
+   "section": "Hand hygiene",
+   "page": 280,
+   "text": "{{c1::Hand hygiene}} is the general term that applies to handwashing, antiseptic hand rubs, or surgical hand antiseptics."
+  },
+  {
+   "id": "ic-p280-013",
+   "deck": "Infection Control",
+   "section": "Hand hygiene",
+   "page": 280,
+   "text": "Wearing gloves {{c1::is not a substitute}} for routine handwashing."
+  },
+  {
+   "id": "ic-p280-014",
+   "deck": "Infection Control",
+   "section": "Hand hygiene",
+   "page": 280,
+   "text": "Hands must be washed before and after the use of gloves, and {{c1::between patients}}."
+  },
+  {
+   "id": "ic-p280-015",
+   "deck": "Infection Control",
+   "section": "Hand hygiene",
+   "page": 280,
+   "text": "For handwashing, vigorously lather plain soap and dry with {{c1::towels}}; nails must be kept {{c2::short and clean}}."
+  },
+  {
+   "id": "ic-p280-016",
+   "deck": "Infection Control",
+   "section": "Hand hygiene",
+   "page": 280,
+   "text": "Watches, bracelets, and rings must be removed to prevent {{c1::harboring microorganisms}}."
+  },
+  {
+   "id": "ic-p280-017",
+   "deck": "Infection Control",
+   "section": "Hand hygiene",
+   "page": 280,
+   "text": "Alcohol-based hand rubs can be used when {{c1::no visible soil}} is on the hands."
+  },
+  {
+   "id": "ic-p280-018",
+   "deck": "Infection Control",
+   "section": "Hand hygiene",
+   "page": 280,
+   "text": "{{c1::Transient}} flora lives on the skin surface, is picked up from patients and surfaces, and is easily removed with handwashing; {{c2::resident}} flora is attached to deeper skin layers, more resistant to removal, and less likely to cause infections.",
+   "extra": "WakeUpMemory: transient = someone just passing through (short stay, easily washed off); resident = someone with a long-term lease or mortgage."
+  },
+  {
+   "id": "ic-p280-019",
+   "deck": "Infection Control",
+   "section": "Sharps",
+   "page": 280,
+   "text": "Needle-stick injuries are a {{c1::major}} cause of disease transmission to health care personnel."
+  },
+  {
+   "id": "ic-p280-020",
+   "deck": "Infection Control",
+   "section": "Sharps",
+   "page": 280,
+   "text": "Recap needles with the {{c1::scoop}} technique, not the {{c2::two-handed}} technique."
+  },
+  {
+   "id": "ic-p280-021",
+   "deck": "Infection Control",
+   "section": "Sharps",
+   "page": 280,
+   "text": "Recap needles between use and before disposal, and {{c1::never bend or break}} needles before disposal."
+  },
+  {
+   "id": "ic-p280-022",
+   "deck": "Infection Control",
+   "section": "Health history",
+   "page": 280,
+   "text": "Immunizations protect both the patient and the health care professional; required vaccinations include hepatitis B, influenza, varicella, measles, mumps, polio, rubella (German measles), and {{c1::tetanus}}."
+  },
+  {
+   "id": "ic-p280-023",
+   "deck": "Infection Control",
+   "section": "Health history",
+   "page": 280,
+   "text": "Hepatitis B vaccine schedule: second injection {{c1::1 month}} after the first; third injection {{c2::6 months}} after the first."
+  },
+  {
+   "id": "ic-p280-024",
+   "deck": "Infection Control",
+   "section": "Health history",
+   "page": 280,
+   "text": "The Mantoux tuberculin skin test should be administered {{c1::annually}}."
+  },
+  {
+   "id": "ic-p280-025",
+   "deck": "Infection Control",
+   "section": "Health history",
+   "page": 280,
+   "text": "No vaccine exists for {{c1::HIV}} or {{c1::hepatitis C}}."
+  },
+  {
+   "id": "ic-p280-026",
+   "deck": "Infection Control",
+   "section": "Health history",
+   "page": 280,
+   "text": "Obtain, review, and update clients' health histories at {{c1::every}} visit."
+  },
+  {
+   "id": "ic-p281-001",
+   "deck": "Infection Control",
+   "section": "Health history",
+   "page": 281,
+   "text": "The clinician can {{c1::refuse}} to treat a patient with a susceptible communicable illness — e.g., patients with {{c2::active TB}} should be declined and referred to a physician."
+  },
+  {
+   "id": "ic-p281-002",
+   "deck": "Infection Control",
+   "section": "Saliva ejector and pre-procedural rinse",
+   "page": 281,
+   "text": "{{c1::Pre-procedural antimicrobial mouth rinses}} temporarily reduce the number of microorganisms in the oral cavity, especially before aerosol-generating procedures."
+  },
+  {
+   "id": "ic-p281-003",
+   "deck": "Infection Control",
+   "section": "Saliva ejector and pre-procedural rinse",
+   "page": 281,
+   "text": "According to the ADA and CDC, pre-procedural rinses can reduce the microbial load in saliva by up to {{c1::94%}}, though evidence that this reduces infection risk is {{c2::inconclusive}}."
+  },
+  {
+   "id": "ic-p281-004",
+   "deck": "Infection Control",
+   "section": "Saliva ejector and pre-procedural rinse",
+   "page": 281,
+   "text": "Common pre-procedural rinse agents: {{c1::0.12%}} chlorhexidine, {{c2::1%}} hydrogen peroxide, and {{c3::0.2%}} povidone-iodine.",
+   "extra": "Choice depends on clinical preference and patient tolerance."
+  },
+  {
+   "id": "ic-p281-005",
+   "deck": "Infection Control",
+   "section": "Waste disposal",
+   "page": 281,
+   "text": "{{c1::Biohazard waste}} (e.g., blood-soaked gauze, soft tissue) goes in a leak-resistant biohazard bag with a biohazard label; gauze with minimal blood is {{c2::household waste}}."
+  },
+  {
+   "id": "ic-p281-006",
+   "deck": "Infection Control",
+   "section": "Waste disposal",
+   "page": 281,
+   "text": "Sharps must be disposed of in {{c1::puncture-resistant}} containers marked with a biohazard label."
+  },
+  {
+   "id": "ic-p281-007",
+   "deck": "Infection Control",
+   "section": "Waste disposal",
+   "page": 281,
+   "text": "Most routine dental waste — patient bibs, barriers, PPE, items not saturated with blood or saliva — can be discarded as {{c1::regular trash}}."
+  },
+  {
+   "id": "ic-p281-008",
+   "deck": "Infection Control",
+   "section": "Waste disposal",
+   "page": 281,
+   "text": "Disposing of small amounts of blood and fluids into {{c1::sanitary sewers}} is considered safe; there is no evidence of disease transmission through sewage.",
+   "extra": "Follow local regulations on whether blood or fluids must be pre-treated."
+  },
+  {
+   "id": "ic-p281-009",
+   "deck": "Infection Control",
+   "section": "Waste disposal",
+   "page": 281,
+   "text": "Extracted teeth are considered potentially infectious by {{c1::OSHA}} and go in medical waste containers, but may be {{c2::returned to the patient}} upon request."
+  },
+  {
+   "id": "ic-p281-010",
+   "deck": "Infection Control",
+   "section": "Waste disposal",
+   "page": 281,
+   "text": "Amalgam must never go in biohazard bags, trash, or incinerated waste, or be flushed down drains; it must be {{c1::collected and recycled}} separately per local environmental regulations."
+  },
+  {
+   "id": "ic-p281-011",
+   "deck": "Infection Control",
+   "section": "Waterlines",
+   "page": 281,
+   "text": "Dental unit waterlines can become colonized by bacteria, fungi, and {{c1::protozoa}} if not properly maintained."
+  },
+  {
+   "id": "ic-p281-012",
+   "deck": "Infection Control",
+   "section": "Waterlines",
+   "page": 281,
+   "text": "Flush waterlines for {{c1::2 minutes}} at the start of the day and for {{c2::20–30 seconds}} between patients."
+  },
+  {
+   "id": "ic-p281-013",
+   "deck": "Infection Control",
+   "section": "Waterlines",
+   "page": 281,
+   "text": "During a boil-water advisory, avoid using public water in dental equipment and use {{c1::bottled or distilled}} water."
+  },
+  {
+   "id": "ic-p281-014",
+   "deck": "Infection Control",
+   "section": "Disinfection terms",
+   "page": 281,
+   "text": "{{c1::Cleaning}} is the essential first step of any disinfection or sterilization; it removes blood, debris, and organic matter that interfere with the process."
+  },
+  {
+   "id": "ic-p281-015",
+   "deck": "Infection Control",
+   "section": "Disinfection terms",
+   "page": 281,
+   "text": "Sterile means {{c1::free from all living microorganisms}}; a {{c2::sterilant}} produces this effect."
+  },
+  {
+   "id": "ic-p281-016",
+   "deck": "Infection Control",
+   "section": "Disinfection terms",
+   "page": 281,
+   "text": "A {{c1::disinfectant}} is a germicide used on {{c2::inanimate objects}} (floors, walls, sinks) to destroy all recognized pathogenic microorganisms, but not necessarily all bacterial {{c3::endospores}}."
+  },
+  {
+   "id": "ic-p281-017",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "text": "High-level disinfectants are regulated by the {{c1::FDA}}; intermediate- and low-level disinfectants are registered with the {{c2::EPA}}."
+  },
+  {
+   "id": "ic-p281-018",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "text": "Intermediate-level disinfectants are EPA-registered {{c1::with}} a tuberculocidal claim; low-level disinfectants are EPA-registered {{c2::without}} a tuberculocidal claim."
+  },
+  {
+   "id": "ic-p281-019",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "text": "High-level disinfectants kill bacteria, M. tuberculosis, fungi, and viruses but not {{c1::high numbers of bacterial spores}}."
+  },
+  {
+   "id": "ic-p281-020",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "text": "Intermediate-level disinfectants kill bacteria, M. tuberculosis, most fungi, and viruses but not {{c1::bacterial spores}}."
+  },
+  {
+   "id": "ic-p281-021",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "text": "Low-level disinfectants kill most bacteria, some fungi, and viruses but not {{c1::M. tuberculosis}} and spores."
+  },
+  {
+   "id": "ic-p281-022",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "text": "Used on: high-level → {{c1::medical devices}} (not environmental surfaces); intermediate-level → {{c2::environmental (clinical contact) surfaces}}; low-level → {{c3::housekeeping surfaces}}."
+  },
+  {
+   "id": "ic-p281-023",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "text": "High-level disinfectant example: {{c1::glutaraldehyde}} ({{c2::10}}-hour immersion)."
+  },
+  {
+   "id": "ic-p281-024",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "text": "Intermediate-level examples: {{c1::iodophors}}, {{c1::phenolics}}, {{c1::chlorine compounds}}, and some quats; low-level examples: {{c2::alcohol-free quats}} and household disinfectants."
+  },
+  {
+   "id": "ic-p282-001",
+   "deck": "Infection Control",
+   "section": "Critical vs non-critical items",
+   "page": 282,
+   "text": "{{c1::Critical}} items penetrate soft tissue or bone, or contact the bloodstream (e.g., curettes, needles, surgical burs), and require {{c2::heat sterilization}}.",
+   "extra": "WakeUpMemory: Critical → C like Curette, C like Cut (through the mucous membrane). Semi-critical → S like Stroke (to touch). Non-critical → non-contact with the mucous membrane."
+  },
+  {
+   "id": "ic-p282-002",
+   "deck": "Infection Control",
+   "section": "Critical vs non-critical items",
+   "page": 282,
+   "text": "{{c1::Semi-critical}} items contact mucous membranes or non-intact skin but do not penetrate (e.g., radiographic receptor holders, mouth mirrors, reusable impression trays), and require {{c2::heat sterilization or high-level disinfection}}.",
+   "extra": "WakeUpMemory: Critical → C like Curette, C like Cut (through the mucous membrane). Semi-critical → S like Stroke (to touch). Non-critical → non-contact with the mucous membrane. (The book says \"film holders\"; the exam uses \"image receptor\".)"
+  },
+  {
+   "id": "ic-p282-003",
+   "deck": "Infection Control",
+   "section": "Critical vs non-critical items",
+   "page": 282,
+   "text": "{{c1::Non-critical}} items contact intact skin only (e.g., blood pressure cuff, x-ray tube head) and require {{c2::intermediate- or low-level disinfection}}.",
+   "extra": "WakeUpMemory: Critical → C like Curette, C like Cut (through the mucous membrane). Semi-critical → S like Stroke (to touch). Non-critical → non-contact with the mucous membrane."
+  },
+  {
+   "id": "ic-p282-004",
+   "deck": "Infection Control",
+   "section": "Surface disinfection",
+   "page": 282,
+   "text": "{{c1::Clinical}} surfaces (light handles, switches, pens, countertops) do not touch the patient directly but pose a moderate risk and must be disinfected between patients with an {{c2::intermediate- or low-level}} disinfectant."
+  },
+  {
+   "id": "ic-p282-005",
+   "deck": "Infection Control",
+   "section": "Surface disinfection",
+   "page": 282,
+   "text": "{{c1::Housekeeping}} surfaces (floors, sinks) have minimal risk and can be cleaned with {{c2::detergent and water}} only."
+  },
+  {
+   "id": "ic-p282-006",
+   "deck": "Infection Control",
+   "section": "Surface disinfection",
+   "page": 282,
+   "text": "A {{c1::surfactant}} is a cleaning agent that loosens, emulsifies, and suspends organisms so they can be rinsed away."
+  },
+  {
+   "id": "ic-p282-007",
+   "deck": "Infection Control",
+   "section": "Cleaning instruments",
+   "page": 282,
+   "text": "{{c1::Ultrasonic cleaning}} is the preferred method of cleaning instruments; it uses {{c2::cavitation}}, in which vibrating bubbles dislodge contaminants from instrument surfaces."
+  }
+ ],
+ "basic": [
+  {
+   "id": "ic-p276-b-01",
+   "deck": "Infection Control",
+   "section": "Agent",
+   "page": 276,
+   "front": "Agent (chain of infection)",
+   "back": "The microorganism (pathogen) that causes disease",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p276-b-02",
+   "deck": "Infection Control",
+   "section": "Agent",
+   "page": 276,
+   "front": "Fomites",
+   "back": "Inanimate objects that can carry a pathogen (e.g., instruments, gloves, bedding)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p276-b-03",
+   "deck": "Infection Control",
+   "section": "Reservoir",
+   "page": 276,
+   "front": "Reservoir (chain of infection)",
+   "back": "The habitat in which the agent normally lives, grows, and multiplies — can be human, animal, or the environment",
+   "reverse": true,
+   "extra": "e.g., soil is the reservoir of Clostridium botulinum"
+  },
+  {
+   "id": "ic-p276-b-04",
+   "deck": "Infection Control",
+   "section": "Portal of exit",
+   "page": 276,
+   "front": "Portal of exit",
+   "back": "The path by which a pathogen leaves its host (its previous home)",
+   "reverse": true,
+   "extra": "e.g., influenza viruses and Mycobacterium tuberculosis exit through the respiratory tract"
+  },
+  {
+   "id": "ic-p277-b-01",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "front": "Mode of transmission",
+   "back": "The way a pathogen moves from one host (or the environment) to another",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p277-b-02",
+   "deck": "Infection Control",
+   "section": "Portal of entry",
+   "page": 277,
+   "front": "Portal of entry",
+   "back": "The \"entrance\" the pathogen uses to get inside the new host (its new home)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p277-b-03",
+   "deck": "Infection Control",
+   "section": "Susceptible host",
+   "page": 277,
+   "front": "Susceptible host",
+   "back": "The new \"home\" for the pathogen",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p278-b-01",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "front": "R₀ (basic reproduction number)",
+   "back": "The average number of people one infected person can transmit the disease to",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p278-b-02",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "front": "Why is measles the most contagious human virus known?",
+   "back": "It spreads through airborne droplet nuclei that stay in the air for hours.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "ic-p279-b-01",
+   "deck": "Infection Control",
+   "section": "Universal vs standard precautions",
+   "page": 279,
+   "front": "Why was the shift from universal to standard precautions especially important for dental professionals?",
+   "back": "Because of their constant exposure to saliva, aerosols, and blood — saliva was not covered by universal precautions.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "ic-p280-b-01",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "front": "Why shouldn't petroleum-based lotions be used with latex gloves?",
+   "back": "Latex is natural rubber and petroleum acts as a solvent — it weakens the glove so it tears or leaks more easily (often unnoticed).",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "ic-p281-b-01",
+   "deck": "Infection Control",
+   "section": "Saliva ejector and pre-procedural rinse",
+   "page": 281,
+   "front": "Why shouldn't a patient seal their lips completely around the saliva ejector?",
+   "back": "It can create backflow, increasing the risk of cross-contamination.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "ic-p281-b-02",
+   "deck": "Infection Control",
+   "section": "Waste disposal",
+   "page": 281,
+   "front": "Why must an amalgam-filled extracted tooth not go in the trash or a biohazard bag?",
+   "back": "It can release mercury, a neurotoxin that harms the brain, kidneys, and environment; incinerated or landfilled, mercury can enter the air, soil, or water supply.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "ic-p281-b-03",
+   "deck": "Infection Control",
+   "section": "Disinfection terms",
+   "page": 281,
+   "front": "Sterilization",
+   "back": "Destruction of ALL microorganisms, including spores, by physical or chemical means",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p281-b-04",
+   "deck": "Infection Control",
+   "section": "Disinfection terms",
+   "page": 281,
+   "front": "Disinfection",
+   "back": "Destruction of pathogenic and other microorganisms by physical or chemical means — less lethal than sterilization",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p281-b-05",
+   "deck": "Infection Control",
+   "section": "Disinfection terms",
+   "page": 281,
+   "front": "Antiseptic",
+   "back": "A substance applied to living tissue/skin that stops or slows the growth of microorganisms (e.g., alcohols, chlorhexidine, triclosan)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "ic-p281-b-06",
+   "deck": "Infection Control",
+   "section": "Disinfection terms",
+   "page": 281,
+   "front": "Asepsis",
+   "back": "Absence of bacteria, viruses, and other microorganisms",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "ic-p276-t-01",
+   "deck": "Infection Control",
+   "section": "Chain of infection",
+   "page": 276,
+   "question": "How many essential links make up the chain of infection?",
+   "answer": "6",
+   "extra": "Agent → reservoir → portal of exit → mode of transmission → portal of entry → susceptible host"
+  },
+  {
+   "id": "ic-p276-t-02",
+   "deck": "Infection Control",
+   "section": "Reservoir",
+   "page": 276,
+   "question": "In what year did the World Health Organization declare smallpox eradicated?",
+   "answer": "1980",
+   "extra": "After a global vaccination campaign; the last known natural case occurred in Somalia in 1977."
+  },
+  {
+   "id": "ic-p278-t-01",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "question": "Droplet transmission is short range — typically up to how many feet?",
+   "answer": "3",
+   "extra": "≤ 3 feet / 1 meter. Airborne transmission is long range (across a room or via ventilation)."
+  },
+  {
+   "id": "ic-p280-t-01",
+   "deck": "Infection Control",
+   "section": "HIV and standard precautions",
+   "page": 280,
+   "question": "Risk of HIV transmission after a needlestick with HIV-positive blood (percent)?",
+   "answer": "0.3%",
+   "extra": "Very low. Standard precautions are sufficient to prevent HIV transmission in dental settings."
+  },
+  {
+   "id": "ic-p280-t-02",
+   "deck": "Infection Control",
+   "section": "Hand hygiene",
+   "page": 280,
+   "question": "Alcohol hand rubs in what concentration range (%) are more effective at killing germs?",
+   "answer": "60–95%",
+   "extra": "More effective than lower-concentration or non-alcohol hand sanitizers."
+  },
+  {
+   "id": "ic-p280-t-03",
+   "deck": "Infection Control",
+   "section": "Health history",
+   "page": 280,
+   "question": "How many injections does the hepatitis B vaccination series require?",
+   "answer": "3",
+   "extra": ""
+  },
+  {
+   "id": "ic-p280-t-04",
+   "deck": "Infection Control",
+   "section": "Health history",
+   "page": 280,
+   "question": "Hepatitis B virus can survive in dried blood on surfaces — and remain infectious — for at least how many days?",
+   "answer": "7",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "ic-p277-m-01",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "prompt": "Match each mode of transmission to its description.",
+   "pairs": [
+    [
+     "Direct contact",
+     "Touching blood, saliva or open lesions"
+    ],
+    [
+     "Indirect contact",
+     "Contaminated instruments, door handles, charts"
+    ],
+    [
+     "Droplet",
+     "Large droplets travel a short distance to mucosa"
+    ],
+    [
+     "Airborne",
+     "Small particles stay suspended and are inhaled"
+    ],
+    [
+     "Common vehicle",
+     "Contaminated food/water/medication shared by many"
+    ],
+    [
+     "Vector-borne",
+     "Mosquitoes transmitting malaria"
+    ]
+   ]
+  },
+  {
+   "id": "ic-p281-m-01",
+   "deck": "Infection Control",
+   "section": "Disinfection terms",
+   "page": 281,
+   "prompt": "Match each term to its meaning.",
+   "pairs": [
+    [
+     "Cleaning",
+     "Removes debris — first step"
+    ],
+    [
+     "Sterilization",
+     "Kills all microbes incl. spores"
+    ],
+    [
+     "Disinfectant",
+     "Kills pathogens on inanimate objects"
+    ],
+    [
+     "Antiseptic",
+     "Slows microbial growth on living tissue"
+    ],
+    [
+     "Asepsis",
+     "Absence of microorganisms"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "ic-p276-o-01",
+   "deck": "Infection Control",
+   "section": "Chain of infection",
+   "page": 276,
+   "prompt": "Put the links of the chain of infection in order, starting with the agent.",
+   "items": [
+    "Agent",
+    "Reservoir",
+    "Portal of exit",
+    "Mode of transmission",
+    "Portal of entry",
+    "Susceptible host"
+   ]
+  },
+  {
+   "id": "ic-p278-o-01",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "prompt": "Order these diseases by R₀, highest first.",
+   "items": [
+    "Measles (12–18)",
+    "Chickenpox (10–12)",
+    "COVID-19 (5–9)",
+    "Influenza (1–2)",
+    "HIV (&lt;1)"
+   ]
+  },
+  {
+   "id": "ic-p280-o-01",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "prompt": "Put the PPE donning sequence in order.",
+   "items": [
+    "Gown",
+    "Mask",
+    "Eyewear",
+    "Hand hygiene",
+    "Gloves"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "ic-p278-s-01",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "prompt": "Sort the infections by their usual route (per the book's table).",
+   "categories": [
+    [
+     "Droplet",
+     [
+      "Influenza",
+      "Mumps",
+      "Rubella",
+      "Herpesviruses",
+      "COVID-19 (typical cases)"
+     ]
+    ],
+    [
+     "Airborne",
+     [
+      "Tuberculosis",
+      "Measles",
+      "Chickenpox",
+      "COVID-19 (aerosol-generating procedures)"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ic-p279-s-01",
+   "deck": "Infection Control",
+   "section": "HIV and standard precautions",
+   "page": 279,
+   "prompt": "Is HIV transmitted this way?",
+   "categories": [
+    [
+     "Transmitted",
+     [
+      "Unprotected sex",
+      "Shared needles (drug use)",
+      "Blood transfusion",
+      "Pregnancy (mother to fetus)",
+      "Non-sterile instruments"
+     ]
+    ],
+    [
+     "NOT transmitted",
+     [
+      "Touching",
+      "Food",
+      "Kissing",
+      "Insect bites",
+      "Swimming pool"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ic-p281-s-01",
+   "deck": "Infection Control",
+   "section": "Waste disposal",
+   "page": 281,
+   "prompt": "Sort the dental waste by where it goes.",
+   "categories": [
+    [
+     "Biohazard bag",
+     [
+      "Blood-soaked gauze",
+      "Soft tissue"
+     ]
+    ],
+    [
+     "Regular trash",
+     [
+      "Patient bib",
+      "Gauze with minimal blood",
+      "Barriers not saturated with blood/saliva"
+     ]
+    ],
+    [
+     "Medical waste container",
+     [
+      "Extracted tooth (no amalgam)"
+     ]
+    ],
+    [
+     "Collect & recycle separately",
+     [
+      "Amalgam scrap"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ic-p281-s-02",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "prompt": "Sort the disinfectants by level.",
+   "categories": [
+    [
+     "High-level",
+     [
+      "Glutaraldehyde"
+     ]
+    ],
+    [
+     "Intermediate-level",
+     [
+      "Iodophors",
+      "Phenolics",
+      "Chlorine compounds"
+     ]
+    ],
+    [
+     "Low-level",
+     [
+      "Alcohol-free quats",
+      "Household disinfectants"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ic-p282-s-01",
+   "deck": "Infection Control",
+   "section": "Critical vs non-critical items",
+   "page": 282,
+   "prompt": "Sort the items by Spaulding category.",
+   "categories": [
+    [
+     "Critical",
+     [
+      "Curette",
+      "Needle",
+      "Surgical bur"
+     ]
+    ],
+    [
+     "Semi-critical",
+     [
+      "Radiographic receptor holder",
+      "Mouth mirror",
+      "Reusable impression tray"
+     ]
+    ],
+    [
+     "Non-critical",
+     [
+      "Blood pressure cuff",
+      "X-ray tube head"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "ic-p276-mcq-01",
+   "deck": "Infection Control",
+   "section": "Portal of exit",
+   "page": 276,
+   "question": "A dental unit waterline that has not been properly maintained becomes colonized with <i>Legionella pneumophila</i>. In the chain of infection, the waterline is the:",
+   "options": [
+    "A. Agent",
+    "B. Reservoir",
+    "C. Portal of exit",
+    "D. Vector"
+   ],
+   "answer": "B. Reservoir",
+   "explanation": "A reservoir is the habitat where the agent lives, grows and multiplies — here an environmental (water) reservoir. Legionella itself is the agent; a vector is a living organism such as a mosquito."
+  },
+  {
+   "id": "ic-p277-mcq-01",
+   "deck": "Infection Control",
+   "section": "Modes of transmission",
+   "page": 277,
+   "question": "A hygienist handles a patient chart with contaminated gloves; later the receptionist touches the chart and then rubs her eyes. Which mode of transmission does this illustrate?",
+   "options": [
+    "A. Direct contact",
+    "B. Indirect contact",
+    "C. Droplet transmission",
+    "D. Common vehicle transmission"
+   ],
+   "answer": "B. Indirect contact",
+   "explanation": "The pathogen passed via a contaminated object (fomite) — the chart — so it is indirect contact. Direct contact would need person-to-person transfer with no object in between."
+  },
+  {
+   "id": "ic-p277-mcq-02",
+   "deck": "Infection Control",
+   "section": "Susceptible host",
+   "page": 277,
+   "question": "A dental office requires all staff to be vaccinated against hepatitis B. Which link of the chain of infection does this mainly break?",
+   "options": [
+    "A. Reservoir",
+    "B. Portal of exit",
+    "C. Mode of transmission",
+    "D. Susceptible host"
+   ],
+   "answer": "D. Susceptible host",
+   "explanation": "Vaccination lowers the susceptibility of the potential new host. Mode of transmission is broken by measures such as sterilization, disinfection and hand hygiene."
+  },
+  {
+   "id": "ic-p278-mcq-01",
+   "deck": "Infection Control",
+   "section": "Droplet vs airborne transmission",
+   "page": 278,
+   "question": "Which dental procedure is most likely to generate airborne (aerosol) transmission of pathogens?",
+   "options": [
+    "A. Taking a blood pressure",
+    "B. Ultrasonic scaling",
+    "C. Hand scaling with a curette",
+    "D. Reviewing the health history"
+   ],
+   "answer": "B. Ultrasonic scaling",
+   "explanation": "Ultrasonic scaling, high-speed handpieces and air polishing generate aerosols (droplet nuclei &lt; 10 µm) that stay suspended. Hand scaling produces spatter (droplets), not significant aerosol."
+  },
+  {
+   "id": "ic-p278-mcq-02",
+   "deck": "Infection Control",
+   "section": "Bloodborne transmission",
+   "page": 278,
+   "question": "During scaling, a patient's blood splashes into the hygienist's unprotected eye. This exposure is classified as:",
+   "options": [
+    "A. Percutaneous injury",
+    "B. Mucocutaneous exposure",
+    "C. Airborne exposure",
+    "D. Vector-borne exposure"
+   ],
+   "answer": "B. Mucocutaneous exposure",
+   "explanation": "Contact of blood with a mucous membrane (the eye) or non-intact skin is a mucocutaneous exposure. A percutaneous injury requires a sharp object piercing the skin."
+  },
+  {
+   "id": "ic-p279-mcq-01",
+   "deck": "Infection Control",
+   "section": "Universal vs standard precautions",
+   "page": 279,
+   "question": "Under standard precautions, each of the following is treated as potentially infectious EXCEPT:",
+   "options": [
+    "A. Saliva",
+    "B. Sweat",
+    "C. Non-intact skin",
+    "D. Mucous membranes"
+   ],
+   "answer": "B. Sweat",
+   "explanation": "Standard precautions cover blood, all body fluids except sweat, saliva, non-intact skin and mucous membranes (\"Be A Smart Nurse, Man\"). Saliva was the big addition over universal precautions."
+  },
+  {
+   "id": "ic-p280-mcq-01",
+   "deck": "Infection Control",
+   "section": "Personal protective equipment",
+   "page": 280,
+   "question": "A hygienist applies a petroleum-based hand cream between patients and then dons latex gloves. What is the most likely consequence?",
+   "options": [
+    "A. The gloves fit more tightly and improve tactile sense",
+    "B. The petroleum weakens the latex, so the gloves tear or leak more easily",
+    "C. The cream disinfects the hands under the gloves",
+    "D. There is no effect on latex"
+   ],
+   "answer": "B. The petroleum weakens the latex, so the gloves tear or leak more easily",
+   "explanation": "Petroleum acts as a solvent on natural-rubber latex, weakening it. Use water- or silicone-based lotions instead."
+  },
+  {
+   "id": "ic-p281-mcq-01",
+   "deck": "Infection Control",
+   "section": "Saliva ejector and pre-procedural rinse",
+   "page": 281,
+   "question": "Which instruction about the saliva ejector best reduces the risk of cross-contamination?",
+   "options": [
+    "A. Ask the patient to close their lips tightly around the tip",
+    "B. Do not let the patient seal their lips around the tip",
+    "C. Turn off the saliva ejector while the patient closes",
+    "D. Use a pre-procedural rinse instead of the saliva ejector"
+   ],
+   "answer": "B. Do not let the patient seal their lips around the tip",
+   "explanation": "Sealing the lips around the saliva ejector can create backflow of fluid from the suction line into the mouth, increasing cross-contamination."
+  },
+  {
+   "id": "ic-p281-mcq-02",
+   "deck": "Infection Control",
+   "section": "Levels of disinfection",
+   "page": 281,
+   "question": "A disinfectant's label states it is EPA-registered with a tuberculocidal claim. Which level of disinfectant is it?",
+   "options": [
+    "A. Sterilant",
+    "B. High-level",
+    "C. Intermediate-level",
+    "D. Low-level"
+   ],
+   "answer": "C. Intermediate-level",
+   "explanation": "Intermediate-level = EPA-registered WITH a tuberculocidal claim (kills M. tuberculosis but not spores). High-level disinfectants are FDA-regulated; low-level have no tuberculocidal claim."
+  },
+  {
+   "id": "ic-p282-mcq-01",
+   "deck": "Infection Control",
+   "section": "Surface disinfection",
+   "page": 282,
+   "question": "A reusable item contacts only the patient's intact skin. What is the minimum processing it requires?",
+   "options": [
+    "A. Heat sterilization",
+    "B. High-level disinfection",
+    "C. Intermediate- or low-level disinfection",
+    "D. No processing"
+   ],
+   "answer": "C. Intermediate- or low-level disinfection",
+   "explanation": "Items touching intact skin only are non-critical (e.g., BP cuff) → intermediate- or low-level disinfection. Heat sterilization or high-level disinfection is for semi-critical items."
+  }
+ ]
+}

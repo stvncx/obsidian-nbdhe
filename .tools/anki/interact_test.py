@@ -2,7 +2,7 @@
 cards Anki generates after a REAL import: tap answers (all right except one deliberate
 mistake), press Check, assert the score text, screenshot front-after-check + back.
 Usage: .tools/.venv/bin/python .tools/anki/interact_test.py deck.apkg OUTDIR [max_per_type]"""
-import os, sys, tempfile, json, re
+import os, sys, tempfile, json, re, html
 from anki.collection import Collection, ImportAnkiPackageRequest, ImportAnkiPackageOptions
 from playwright.sync_api import sync_playwright
 apkg, outdir = sys.argv[1], sys.argv[2]; nmax = int(sys.argv[3]) if len(sys.argv) > 3 else 1
@@ -38,8 +38,8 @@ with sync_playwright() as p:
                 items = data['items']; n = len(items)
                 for target in range(n):                       # selection-sort by tapping swaps
                     texts = [t.split(None, 0)[0] for t in pg.locator('.olist .chip').all_inner_texts()]
-                    cur = [re.sub(r'^\d+\s*', '', t) for t in texts]
-                    j = cur.index(re.sub(r'<[^>]+>', '', items[target]).replace('&amp;', '&').strip())
+                    cur = [re.sub(rf'^{k + 1}\s*', '', t) for k, t in enumerate(texts)]   # strip only the position number (items may start with digits: '100% oxygen')
+                    j = cur.index(html.unescape(re.sub(r'<[^>]+>', '', items[target])).strip())
                     if j != target:
                         pg.locator('.olist .chip').nth(target).tap(); pg.locator('.olist .chip').nth(j).tap()
                 if n > 1:                                         # one deliberate swap = 2 wrong

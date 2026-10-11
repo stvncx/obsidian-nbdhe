@@ -1,0 +1,1552 @@
+{
+ "diagrams": [
+  {
+   "name": "law-p365-branches-of-law",
+   "title": "Branches of law",
+   "deck": "Law & Ethics",
+   "pdf_page": 3,
+   "page": 365,
+   "crop": [
+    75,
+    1050,
+    1230,
+    1680
+   ],
+   "labels": [
+    {
+     "box": [
+      228,
+      1178,
+      420,
+      1228
+     ],
+     "answer": "Criminal law",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      705,
+      1180,
+      850,
+      1230
+     ],
+     "answer": "Civil law",
+     "fit": "text"
+    },
+    {
+     "box": [
+      203,
+      1236,
+      446,
+      1278
+     ],
+     "answer": "Against the society",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      568,
+      1233,
+      988,
+      1275
+     ],
+     "answer": "One person against another person",
+     "fit": "text"
+    },
+    {
+     "box": [
+      533,
+      1323,
+      728,
+      1372
+     ],
+     "answer": "Contract law",
+     "fit": "text"
+    },
+    {
+     "box": [
+      878,
+      1325,
+      1015,
+      1372
+     ],
+     "answer": "Tort law",
+     "fit": "text"
+    },
+    {
+     "box": [
+      458,
+      1376,
+      795,
+      1418
+     ],
+     "answer": "Legally binding agreements",
+     "fit": "text"
+    },
+    {
+     "box": [
+      848,
+      1380,
+      1046,
+      1448
+     ],
+     "answer": "Harm done to another person",
+     "fit": "text"
+    },
+    {
+     "box": [
+      675,
+      1530,
+      908,
+      1580
+     ],
+     "answer": "Intentional tort",
+     "fit": "text"
+    },
+    {
+     "box": [
+      938,
+      1530,
+      1210,
+      1580
+     ],
+     "answer": "Unintentional tort",
+     "fit": "text"
+    },
+    {
+     "box": [
+      742,
+      1583,
+      838,
+      1625
+     ],
+     "answer": "Intent",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1000,
+      1583,
+      1136,
+      1625
+     ],
+     "answer": "No intent",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "law-p364-001",
+   "deck": "Law & Ethics",
+   "section": "Confidentiality of records",
+   "page": 364,
+   "text": "No {{c1::financial information}} should be stored in the dental record."
+  },
+  {
+   "id": "law-p364-002",
+   "deck": "Law & Ethics",
+   "section": "Confidentiality of records",
+   "page": 364,
+   "text": "Only the patient's {{c1::name and/or account number}} should be on the chart cover, unless otherwise required."
+  },
+  {
+   "id": "law-p364-003",
+   "deck": "Law & Ethics",
+   "section": "Confidentiality of records",
+   "page": 364,
+   "text": "Medical details must remain {{c1::inside}} the chart, visible only to {{c2::authorized personnel}}.",
+   "extra": "p.367: never write medical conditions on the outside of the chart or folder — e.g., no sticker or label saying \"hepatitis\" or \"requires premed\"."
+  },
+  {
+   "id": "law-p364-004",
+   "deck": "Law & Ethics",
+   "section": "Documentation standards",
+   "page": 364,
+   "text": "Keep all chart notes {{c1::objective}} — avoid personal opinions or criticism."
+  },
+  {
+   "id": "law-p364-005",
+   "deck": "Law & Ethics",
+   "section": "Documentation standards",
+   "page": 364,
+   "text": "The {{c1::dentist}} is legally responsible for the accuracy of the dental record."
+  },
+  {
+   "id": "law-p364-006",
+   "deck": "Law & Ethics",
+   "section": "Documentation standards",
+   "page": 364,
+   "text": "Delegating record entries to staff is allowed if it complies with {{c1::state law}}."
+  },
+  {
+   "id": "law-p364-007",
+   "deck": "Law & Ethics",
+   "section": "Corrections and alterations",
+   "page": 364,
+   "text": "To correct an error in the record, cross it out with a {{c1::single thin line}} so the original stays {{c2::legible}}.",
+   "extra": "Follow state regulations."
+  },
+  {
+   "id": "law-p364-008",
+   "deck": "Law & Ethics",
+   "section": "Corrections and alterations",
+   "page": 364,
+   "text": "Every change to the dental record must be {{c1::dated and initialed}}."
+  },
+  {
+   "id": "law-p364-009",
+   "deck": "Law & Ethics",
+   "section": "Corrections and alterations",
+   "page": 364,
+   "text": "When recording something after the fact (late entry), note the {{c1::current date}} and reference the {{c2::original visit date}}."
+  },
+  {
+   "id": "law-p364-010",
+   "deck": "Law & Ethics",
+   "section": "Ownership and access",
+   "page": 364,
+   "text": "The {{c1::dentist (dental office)}} owns the physical dental record.",
+   "extra": "p.368: patients may request a copy, but the original documents are owned by the dental office."
+  },
+  {
+   "id": "law-p364-011",
+   "deck": "Law & Ethics",
+   "section": "Ownership and access",
+   "page": 364,
+   "text": "The patient does not own the record but has the right to {{c1::inspect, review, request, and obtain a copy}} of it.",
+   "extra": "The office can charge a reasonable fee for copies (see HIPAA, p.368)."
+  },
+  {
+   "id": "law-p364-012",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "text": "Upheld: not discussing a patient's health with coworkers unless necessary for care.<br>Violated: discussing a patient's medical history with friends outside the clinic.<br>ADHA core value: {{c1::Confidentiality}}"
+  },
+  {
+   "id": "law-p364-013",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "text": "Upheld: always acting professionally, following protocols and communicating respectfully.<br>Violated: being rude to patients or ignoring infection control, so the public loses trust.<br>ADHA core value: {{c1::Societal trust}}"
+  },
+  {
+   "id": "law-p364-014",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "text": "Upheld: sterilizing all instruments properly to prevent infection.<br>Violated: using unsterilized instruments, risking patient infection.<br>ADHA core value: {{c1::Nonmaleficence}}"
+  },
+  {
+   "id": "law-p364-015",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "text": "Upheld: taking time to educate a patient on oral hygiene tailored to their needs.<br>Violated: rushing through a cleaning without explaining post-care, leaving the patient confused.<br>ADHA core value: {{c1::Beneficence}}"
+  },
+  {
+   "id": "law-p364-016",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "text": "Upheld: offering the same treatment options regardless of insurance or background.<br>Violated: providing better care only to privately insured patients.<br>ADHA core value: {{c1::Justice}}"
+  },
+  {
+   "id": "law-p364-017",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "text": "Upheld: explaining the full risks and benefits of a treatment.<br>Violated: telling a patient a procedure is \"risk-free\" to get consent.<br>ADHA core value: {{c1::Veracity}}"
+  },
+  {
+   "id": "law-p364-018",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "text": "Upheld: providing all treatment options and letting the patient decide.<br>Violated: pressuring a patient into a specific treatment without discussing alternatives.<br>ADHA core value: {{c1::Autonomy}}"
+  },
+  {
+   "id": "law-p365-001",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 365,
+   "text": "{{c1::Standard of care}}: all patients should be granted the same level of attentiveness."
+  },
+  {
+   "id": "law-p365-002",
+   "deck": "Law & Ethics",
+   "section": "Ethical theories",
+   "page": 365,
+   "text": "{{c1::Utilitarian}} ethics ({{c2::Mill}}): the right action is the greatest good for the {{c3::greatest number}} of individuals; right and wrong are judged by an action's {{c4::usefulness}}."
+  },
+  {
+   "id": "law-p365-003",
+   "deck": "Law & Ethics",
+   "section": "Ethical theories",
+   "page": 365,
+   "text": "{{c1::Deontological}} ethics ({{c2::Kant}}): a person should act right {{c3::regardless of consequence}}; morality, principles and actions are {{c4::unconditional}}."
+  },
+  {
+   "id": "law-p365-004",
+   "deck": "Law & Ethics",
+   "section": "Ethical theories",
+   "page": 365,
+   "text": "{{c1::Virtue}} ethics ({{c2::Aristotle}}): right actions are based on the actions of a {{c3::virtuous person}}.",
+   "extra": "The book prints \"Virtual ethics\" — the theory is virtue ethics."
+  },
+  {
+   "id": "law-p365-005",
+   "deck": "Law & Ethics",
+   "section": "Ethical decision-making",
+   "page": 365,
+   "text": "Ethical decision-making, step 1 — {{c1::Identify the ethical dilemma or problem}}: clearly state the ethical question, considering all important aspects of the situation.",
+   "extra": "This is the most critical step in the process."
+  },
+  {
+   "id": "law-p365-006",
+   "deck": "Law & Ethics",
+   "section": "Ethical decision-making",
+   "page": 365,
+   "text": "Ethical decision-making, step 2 — {{c1::Collect information}}: gather all relevant facts from available sources to make an informed decision."
+  },
+  {
+   "id": "law-p365-007",
+   "deck": "Law & Ethics",
+   "section": "Ethical decision-making",
+   "page": 365,
+   "text": "Ethical decision-making, step 3 — {{c1::Formulate options}}: use the information gathered to create as many alternative solutions as possible."
+  },
+  {
+   "id": "law-p365-008",
+   "deck": "Law & Ethics",
+   "section": "Ethical decision-making",
+   "page": 365,
+   "text": "Ethical decision-making, step 4 — {{c1::Apply ethical principles to the options}}: analyze how each option affects the ethical principles; list pros (supports the principle) and cons (violates it)."
+  },
+  {
+   "id": "law-p365-009",
+   "deck": "Law & Ethics",
+   "section": "Ethical decision-making",
+   "page": 365,
+   "text": "Ethical decision-making, step 5 — {{c1::Choose an option}}: select the option with the most pros that best resolves the dilemma."
+  },
+  {
+   "id": "law-p365-010",
+   "deck": "Law & Ethics",
+   "section": "Ethical decision-making",
+   "page": 365,
+   "text": "Ethical decision-making, step 6 — {{c1::Implement the decision}}: take appropriate action based on the selected option."
+  },
+  {
+   "id": "law-p365-011",
+   "deck": "Law & Ethics",
+   "section": "Criminal law",
+   "page": 365,
+   "text": "Criminal cases are filed by the {{c1::government}}, because the crime is against society as a whole — even if an individual is affected directly."
+  },
+  {
+   "id": "law-p365-012",
+   "deck": "Law & Ethics",
+   "section": "Criminal law",
+   "page": 365,
+   "text": "Practicing dental hygiene without a valid license is a {{c1::criminal}} offense, because it puts the public at risk.",
+   "extra": "Other criminal examples: forging dental records, stealing controlled substances from the office."
+  },
+  {
+   "id": "law-p366-001",
+   "deck": "Law & Ethics",
+   "section": "Civil law",
+   "page": 366,
+   "text": "Civil cases are filed by a {{c1::private party}} (the injured person), and the burden of proof lies with the {{c2::person bringing the case}}."
+  },
+  {
+   "id": "law-p366-002",
+   "deck": "Law & Ethics",
+   "section": "Civil law",
+   "page": 366,
+   "text": "Civil cases typically do not result in jail; the court may order {{c1::financial compensation}} or a legal order known as an {{c2::injunction}}."
+  },
+  {
+   "id": "law-p366-003",
+   "deck": "Law & Ethics",
+   "section": "Civil law",
+   "page": 366,
+   "text": "A patient sues for damages, claiming improper scaling caused permanent sensitivity = civil law → {{c1::unintentional tort}} → {{c2::malpractice}}."
+  },
+  {
+   "id": "law-p366-004",
+   "deck": "Law & Ethics",
+   "section": "Contract law",
+   "page": 366,
+   "text": "A contract between dental provider and patient can be {{c1::implied}} or {{c1::expressed}}, depending on how the agreement is formed.",
+   "extra": "Contract law deals with legally binding agreements between two or more parties, such as provider and patient."
+  },
+  {
+   "id": "law-p366-005",
+   "deck": "Law & Ethics",
+   "section": "Contract law",
+   "page": 366,
+   "text": "Either the patient or the provider can terminate a contract, but the dental professional must give {{c1::reasonable notice}} and allow the patient enough time to find another provider.",
+   "extra": "Suddenly stopping care without explanation may be considered abandonment."
+  },
+  {
+   "id": "law-p366-006",
+   "deck": "Law & Ethics",
+   "section": "Tort law",
+   "page": 366,
+   "text": "Tort law focuses on {{c1::personal injury or damage}} (intentional or unintentional), rather than {{c2::broken agreements}}."
+  },
+  {
+   "id": "law-p366-007",
+   "deck": "Law & Ethics",
+   "section": "Tort law",
+   "page": 366,
+   "text": "In dental settings, tort law most commonly addresses a patient's claim of injury due to a provider's actions or {{c1::negligence}}."
+  },
+  {
+   "id": "law-p366-008",
+   "deck": "Law & Ethics",
+   "section": "Unintentional torts",
+   "page": 366,
+   "text": "An unintentional tort occurs when harm is caused by {{c1::carelessness or failure to act}}, rather than by intent."
+  },
+  {
+   "id": "law-p366-009",
+   "deck": "Law & Ethics",
+   "section": "Unintentional torts",
+   "page": 366,
+   "text": "Malpractice = {{c1::professional negligence}}: the {{c2::most common}} unintentional tort in dentistry — failing to meet the expected {{c3::standard of care}}, resulting in harm to the patient."
+  },
+  {
+   "id": "law-p366-010",
+   "deck": "Law & Ethics",
+   "section": "Unintentional torts",
+   "page": 366,
+   "text": "Not reviewing the medical history, using non-sterile instruments that cause infection, or causing nerve damage with poor injection technique are examples of {{c1::malpractice}}."
+  },
+  {
+   "id": "law-p366-011",
+   "deck": "Law & Ethics",
+   "section": "Unintentional torts",
+   "page": 366,
+   "text": "A hygienist sees deep periodontal pockets and significant bone loss but never refers the patient to a periodontist = {{c1::supervised neglect}}."
+  },
+  {
+   "id": "law-p366-012",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 366,
+   "text": "Intentional torts: the professional {{c1::knowingly commits an act}} that violates a patient's rights; it need not cause physical harm but must be {{c2::deliberate}} and lack the {{c3::patient's consent}}."
+  },
+  {
+   "id": "law-p366-013",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 366,
+   "text": "Applying fluoride or placing sealants on a child without parental consent = {{c1::battery}}."
+  },
+  {
+   "id": "law-p366-014",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 366,
+   "text": "Holding a sharp instrument and saying \"If you move again, this will hurt\" = {{c1::assault}}."
+  },
+  {
+   "id": "law-p367-001",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 367,
+   "text": "Defamation is damaging someone's reputation by false statements: spoken = {{c1::slander}}, written = {{c2::libel}}."
+  },
+  {
+   "id": "law-p367-002",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 367,
+   "text": "Telling a patient that another hygienist is \"dangerous\" or \"unqualified\" = {{c1::slander}}."
+  },
+  {
+   "id": "law-p367-003",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 367,
+   "text": "Writing in the chart that a patient is \"manipulative\" or \"difficult\" without clinical justification = {{c1::libel}}.",
+   "extra": "Libel: harmful or judgmental writing that becomes part of a permanent record."
+  },
+  {
+   "id": "law-p367-004",
+   "deck": "Law & Ethics",
+   "section": "Documentation principles",
+   "page": 367,
+   "text": "The most important step in preventing legal problems is to keep {{c1::accurate, complete, and up-to-date}} patient records."
+  },
+  {
+   "id": "law-p367-005",
+   "deck": "Law & Ethics",
+   "section": "Documentation principles",
+   "page": 367,
+   "text": "Each record entry should include the {{c1::date}}, the {{c2::procedure performed}}, and notes about {{c3::cancelled, missed, or rescheduled}} appointments."
+  },
+  {
+   "id": "law-p367-006",
+   "deck": "Law & Ethics",
+   "section": "Documentation principles",
+   "page": 367,
+   "text": "Both the {{c1::dental diagnosis}} and the {{c2::dental hygiene diagnosis}} must be documented clearly in the chart."
+  },
+  {
+   "id": "law-p367-007",
+   "deck": "Law & Ethics",
+   "section": "Documentation principles",
+   "page": 367,
+   "text": "All relevant radiographs, including the {{c1::date taken}} and the {{c2::reason for the image}}, should be part of the official patient record."
+  },
+  {
+   "id": "law-p367-008",
+   "deck": "Law & Ethics",
+   "section": "Documentation principles",
+   "page": 367,
+   "text": "Any informed consent or informed refusal should be {{c1::signed and dated by the patient}} and placed in the record."
+  },
+  {
+   "id": "law-p367-009",
+   "deck": "Law & Ethics",
+   "section": "Documentation principles",
+   "page": 367,
+   "text": "Records of {{c1::inactive}} patients must be stored for the period of time required by law in your region (varies with local regulations)."
+  },
+  {
+   "id": "law-p367-010",
+   "deck": "Law & Ethics",
+   "section": "Health history",
+   "page": 367,
+   "text": "There is no fixed rule on how often a full health history is taken, but the medical history must be {{c1::reviewed and updated at every visit}}."
+  },
+  {
+   "id": "law-p367-011",
+   "deck": "Law & Ethics",
+   "section": "Health history",
+   "page": 367,
+   "text": "The updated health history must be signed by {{c1::both the patient and the dental professional}} at each appointment."
+  },
+  {
+   "id": "law-p367-012",
+   "deck": "Law & Ethics",
+   "section": "Health history",
+   "page": 367,
+   "text": "Health histories must be completed in {{c1::permanent ink}} — not pencil or erasable pens."
+  },
+  {
+   "id": "law-p367-013",
+   "deck": "Law & Ethics",
+   "section": "Health history",
+   "page": 367,
+   "text": "The health history form is a {{c1::legal document}} and may be used in court, so all entries must be accurate, legible, and clinically relevant."
+  },
+  {
+   "id": "law-p367-014",
+   "deck": "Law & Ethics",
+   "section": "Health history",
+   "page": 367,
+   "text": "Record important health facts, but notes should never be {{c1::overly detailed or personal}}; avoid subjective commentary or assumptions."
+  },
+  {
+   "id": "law-p367-015",
+   "deck": "Law & Ethics",
+   "section": "Health history",
+   "page": 367,
+   "text": "If the patient is a minor, a {{c1::parent or legal guardian}} must sign and date the health history form."
+  },
+  {
+   "id": "law-p367-016",
+   "deck": "Law & Ethics",
+   "section": "Health history",
+   "page": 367,
+   "text": "If the patient is mentally incompetent, a {{c1::legally authorized caregiver or guardian}} must complete and sign the health history form."
+  },
+  {
+   "id": "law-p367-017",
+   "deck": "Law & Ethics",
+   "section": "Health history",
+   "page": 367,
+   "text": "{{c1::Electronic signatures}} are legally valid and may be used if accepted by your province or jurisdiction."
+  },
+  {
+   "id": "law-p367-018",
+   "deck": "Law & Ethics",
+   "section": "Consent",
+   "page": 367,
+   "text": "For informed consent, the procedure must be explained including the {{c1::steps involved}}, {{c2::possible complications}}, and {{c3::alternative options}}.",
+   "extra": "Did you know? Ohio, 2017: a hygienist got a 60-day license suspension for full-mouth SRP without discussing the diagnosis or treatment plan — the patient believed she was getting a \"regular cleaning\"."
+  },
+  {
+   "id": "law-p367-019",
+   "deck": "Law & Ethics",
+   "section": "Consent",
+   "page": 367,
+   "text": "The patient must be informed of the {{c1::prognosis with and without treatment}}, including both benefits and risks."
+  },
+  {
+   "id": "law-p367-020",
+   "deck": "Law & Ethics",
+   "section": "Consent",
+   "page": 367,
+   "text": "The consent explanation must be in {{c1::clear, simple language}} the patient can understand, and the patient must have an {{c2::opportunity to ask questions}} before agreeing."
+  },
+  {
+   "id": "law-p367-021",
+   "deck": "Law & Ethics",
+   "section": "Consent",
+   "page": 367,
+   "text": "Consent must be {{c1::voluntary}} — never obtained through pressure, fear, deception, or manipulation."
+  },
+  {
+   "id": "law-p367-022",
+   "deck": "Law & Ethics",
+   "section": "Consent",
+   "page": 367,
+   "text": "To consent, the patient must be {{c1::legally competent}} and of {{c2::legal age}}; otherwise a legal guardian or authorized caregiver consents on their behalf."
+  },
+  {
+   "id": "law-p367-023",
+   "deck": "Law & Ethics",
+   "section": "Consent",
+   "page": 367,
+   "text": "The consent process must be {{c1::documented}} in the patient's record, including the discussion and any signed forms."
+  },
+  {
+   "id": "law-p367-024",
+   "deck": "Law & Ethics",
+   "section": "Consent",
+   "page": 367,
+   "text": "Consent must be {{c1::specific to the planned procedure}}; it cannot be assumed to cover future treatments unless clearly stated."
+  },
+  {
+   "id": "law-p367-025",
+   "deck": "Law & Ethics",
+   "section": "Consent",
+   "page": 367,
+   "text": "Starting treatment without informed consent — even if you think you're helping — is considered {{c1::battery}} under civil law."
+  },
+  {
+   "id": "law-p368-001",
+   "deck": "Law & Ethics",
+   "section": "HIPAA",
+   "page": 368,
+   "text": "HIPAA protects patients' privacy and improves the handling of health information; it applies to {{c1::all healthcare providers}}."
+  },
+  {
+   "id": "law-p368-002",
+   "deck": "Law & Ethics",
+   "section": "HIPAA",
+   "page": 368,
+   "text": "HIPAA keeps any information that can {{c1::identify a patient}} — health history, diagnoses, treatment plans, billing details — confidential and secure."
+  },
+  {
+   "id": "law-p368-003",
+   "deck": "Law & Ethics",
+   "section": "HIPAA",
+   "page": 368,
+   "text": "A dental office may not share patient information with family members, spouses, or employers unless the patient has provided {{c1::written consent}}."
+  },
+  {
+   "id": "law-p368-004",
+   "deck": "Law & Ethics",
+   "section": "HIPAA",
+   "page": 368,
+   "text": "Even if someone else pays for the insurance, only {{c1::the patient}} and {{c2::their insurance carrier}} may access the information without written authorization."
+  },
+  {
+   "id": "law-p368-005",
+   "deck": "Law & Ethics",
+   "section": "HIPAA",
+   "page": 368,
+   "text": "The office may charge a {{c1::reasonable fee}} for copies of records, especially if printing or digital formatting is required."
+  },
+  {
+   "id": "law-p368-006",
+   "deck": "Law & Ethics",
+   "section": "HIPAA",
+   "page": 368,
+   "text": "HIPAA also protects access to health insurance when changing or losing jobs: group health plans cannot deny coverage based solely on a person's {{c1::health condition}}."
+  },
+  {
+   "id": "law-p368-007",
+   "deck": "Law & Ethics",
+   "section": "HIPAA — office responsibilities",
+   "page": 368,
+   "text": "To comply with HIPAA, dental offices must protect patient information both {{c1::physically}} and {{c2::electronically}}."
+  },
+  {
+   "id": "law-p368-008",
+   "deck": "Law & Ethics",
+   "section": "HIPAA — office responsibilities",
+   "page": 368,
+   "text": "HIPAA physical safeguards: {{c1::locking cabinets}} for paper charts and {{c2::password-protected software}} for digital records; charts not left open or visible."
+  },
+  {
+   "id": "law-p368-009",
+   "deck": "Law & Ethics",
+   "section": "HIPAA — office responsibilities",
+   "page": 368,
+   "text": "All team members must be trained in privacy procedures, and {{c1::verbal communication}} about patients should not happen in public spaces like the waiting room.",
+   "extra": "Did you know? Indiana, 2013: a $12,000 fine after a staff member discussed a patient's upcoming surgery in the reception area; the Office for Civil Rights found no privacy training policy. Even a casual conversation in the wrong place can be a HIPAA violation."
+  },
+  {
+   "id": "law-p368-010",
+   "deck": "Law & Ethics",
+   "section": "HIPAA — office responsibilities",
+   "page": 368,
+   "text": "Every dental office must have a designated {{c1::Privacy Officer}}, responsible for enforcing HIPAA compliance, answering patient questions, and handling complaints."
+  },
+  {
+   "id": "law-p368-011",
+   "deck": "Law & Ethics",
+   "section": "HIPAA — office responsibilities",
+   "page": 368,
+   "text": "The office must assign a {{c1::contact person}} who responds to requests for access to or corrections of records."
+  },
+  {
+   "id": "law-p368-012",
+   "deck": "Law & Ethics",
+   "section": "HIPAA — office responsibilities",
+   "page": 368,
+   "text": "Patients must receive a copy of the office's {{c1::written privacy policy}} and {{c2::sign a form}} acknowledging they received it."
+  }
+ ],
+ "basic": [
+  {
+   "id": "law-p364-b-01",
+   "deck": "Law & Ethics",
+   "section": "Dental records",
+   "page": 364,
+   "front": "What does the dental record include?",
+   "back": "All diagnostic info, clinical notes, treatments, patient communication, home care instructions, and consents",
+   "reverse": false,
+   "extra": "The dental record is an official office document."
+  },
+  {
+   "id": "law-p364-b-02",
+   "deck": "Law & Ethics",
+   "section": "Corrections and alterations",
+   "page": 364,
+   "front": "Which three things must NOT be used to correct a dental record?",
+   "back": "White-out, markers, or insertions",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "law-p364-b-03",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "front": "ADHA core value: Confidentiality",
+   "back": "Hold patient information in trust; do not disclose it without consent",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p364-b-04",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "front": "ADHA core value: Societal trust",
+   "back": "Maintain public trust in healthcare professionals",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p364-b-05",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "front": "ADHA core value: Nonmaleficence",
+   "back": "Avoid causing harm to patients",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p364-b-06",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "front": "ADHA core value: Beneficence",
+   "back": "Act in the best interest of patients and provide high-quality care",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p364-b-07",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "front": "ADHA core value: Justice",
+   "back": "Treat all patients fairly and equally",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p364-b-08",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "front": "ADHA core value: Veracity",
+   "back": "Be honest and provide truthful information",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p364-b-09",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "front": "ADHA core value: Autonomy",
+   "back": "Respect a patient's right to make informed decisions",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p364-b-10",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "front": "Paternalism",
+   "back": "Acting as a parent would on behalf of a child — sometimes overriding the individual's own decisions and opinions",
+   "reverse": true,
+   "extra": "Paternalism is NOT one of the ADHA core values."
+  },
+  {
+   "id": "law-p365-b-01",
+   "deck": "Law & Ethics",
+   "section": "Criminal law",
+   "page": 365,
+   "front": "What penalties can result from criminal law cases?",
+   "back": "Imprisonment, fines, community service — and, in rare cases, the death penalty",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "law-p366-b-01",
+   "deck": "Law & Ethics",
+   "section": "Civil law",
+   "page": 366,
+   "front": "A dentist billed insurance for fillings on missing teeth. Why is this a criminal case filed by the government, not a civil lawsuit?",
+   "back": "Insurance fraud is a crime: intentional deception for money that harms the entire system.",
+   "reverse": false,
+   "extra": "Did you know? In California a dentist was sentenced to over 4 years in prison for this."
+  },
+  {
+   "id": "law-p366-b-02",
+   "deck": "Law & Ethics",
+   "section": "Contract law",
+   "page": 366,
+   "front": "Implied contract",
+   "back": "Not spoken or written; understood through the actions of both parties (e.g., a patient sits in the chair for an exam)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p366-b-03",
+   "deck": "Law & Ethics",
+   "section": "Contract law",
+   "page": 366,
+   "front": "Expressed contract",
+   "back": "Clearly communicated orally or in writing (e.g., a signed treatment plan or a verbal agreement about fees and services)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p366-b-04",
+   "deck": "Law & Ethics",
+   "section": "Contract law",
+   "page": 366,
+   "front": "Abandonment",
+   "back": "A provider ends the professional relationship without proper notice, or fails to complete treatment that was started",
+   "reverse": true,
+   "extra": "E.g., canceling future appointments without referring the patient elsewhere; refusing emergency care after initiating treatment."
+  },
+  {
+   "id": "law-p366-b-05",
+   "deck": "Law & Ethics",
+   "section": "Contract law",
+   "page": 366,
+   "front": "Breach of contract",
+   "back": "Either the patient or the provider fails to uphold their part of the agreement",
+   "reverse": true,
+   "extra": "E.g., provider doesn't complete a paid service; patient refuses to pay for services already rendered."
+  },
+  {
+   "id": "law-p366-b-06",
+   "deck": "Law & Ethics",
+   "section": "Contract law",
+   "page": 366,
+   "front": "A patient paid $20,000 for crowns and implants; the dentist then refused to place the implants (insufficient bone) although the patient offered bone grafts. Why did the court rule breach of contract?",
+   "back": "There was no documentation that the dentist had explained implant placement might depend on future clinical findings.",
+   "reverse": false,
+   "extra": "Lesson: if treatment plans might change, clearly explain and document those conditions up front."
+  },
+  {
+   "id": "law-p366-b-07",
+   "deck": "Law & Ethics",
+   "section": "Unintentional torts",
+   "page": 366,
+   "front": "Supervised neglect",
+   "back": "A provider recognizes that the patient needs additional treatment or referral but discharges them without addressing it",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p366-b-08",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 366,
+   "front": "Battery (technical assault)",
+   "back": "Any unauthorized physical contact with a patient — including performing procedures without consent, even if there is no injury",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p366-b-09",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 366,
+   "front": "Assault (tort)",
+   "back": "A verbal or physical threat that causes a patient to fear harm — no physical contact",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p367-b-01",
+   "deck": "Law & Ethics",
+   "section": "Documentation principles",
+   "page": 367,
+   "front": "A dentist had no signed treatment plan or chart note explaining a crown prep; the patient claimed she never consented. Why did the court side with the patient?",
+   "back": "Without written or clearly documented consent, it is the provider's word against the patient's.",
+   "reverse": false,
+   "extra": "Did you know? California, 2011 — over $80,000 in damages."
+  },
+  {
+   "id": "law-p368-b-01",
+   "deck": "Law & Ethics",
+   "section": "Types of consent",
+   "page": 368,
+   "front": "Informed consent",
+   "back": "Patient agrees after receiving complete information about the procedure",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p368-b-02",
+   "deck": "Law & Ethics",
+   "section": "Types of consent",
+   "page": 368,
+   "front": "Implied consent",
+   "back": "Inferred from the patient's actions or behaviour, not spoken or written",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p368-b-03",
+   "deck": "Law & Ethics",
+   "section": "Types of consent",
+   "page": 368,
+   "front": "Expressed consent",
+   "back": "Clearly stated verbally or in writing",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p368-b-04",
+   "deck": "Law & Ethics",
+   "section": "Types of consent",
+   "page": 368,
+   "front": "Informed refusal",
+   "back": "Patient declines treatment after being informed of the risks and consequences",
+   "reverse": true,
+   "extra": "Did you know? Texas, 2015: a patient refused a filling after being warned of worsening decay, the tooth fractured, and he sued — the court ruled for the dentist because the informed refusal form was signed and dated."
+  },
+  {
+   "id": "law-p368-b-05",
+   "deck": "Law & Ethics",
+   "section": "Types of consent",
+   "page": 368,
+   "front": "Emergency exception",
+   "back": "Treatment may legally be given without consent if the patient is unconscious or unable to respond",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "law-p368-b-06",
+   "deck": "Law & Ethics",
+   "section": "HIPAA",
+   "page": 368,
+   "front": "HIPAA stands for…",
+   "back": "Health Insurance Portability and Accountability Act",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "law-p365-t-01",
+   "deck": "Law & Ethics",
+   "section": "Ethical decision-making",
+   "page": 365,
+   "question": "Which step of the 6-step ethical decision-making process is the most critical? (step number)",
+   "answer": "1",
+   "extra": "Step 1: Identify the ethical dilemma or problem."
+  },
+  {
+   "id": "law-p368-t-01",
+   "deck": "Law & Ethics",
+   "section": "HIPAA",
+   "page": 368,
+   "question": "In what year was HIPAA passed? (year)",
+   "answer": "1996",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "law-p364-m-01",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "prompt": "Match each ADHA core value to its meaning.",
+   "pairs": [
+    [
+     "Confidentiality",
+     "Hold patient information in trust; do not disclose it without consent"
+    ],
+    [
+     "Societal trust",
+     "Maintain public trust in healthcare professionals"
+    ],
+    [
+     "Nonmaleficence",
+     "Avoid causing harm to patients"
+    ],
+    [
+     "Beneficence",
+     "Act in the best interest of patients and provide high-quality care"
+    ],
+    [
+     "Justice",
+     "Treat all patients fairly and equally"
+    ],
+    [
+     "Veracity",
+     "Be honest and provide truthful information"
+    ],
+    [
+     "Autonomy",
+     "Respect a patient's right to make informed decisions"
+    ]
+   ]
+  },
+  {
+   "id": "law-p365-m-01",
+   "deck": "Law & Ethics",
+   "section": "Ethical theories",
+   "page": 365,
+   "prompt": "Match each ethical theory to its core idea.",
+   "pairs": [
+    [
+     "Utilitarian (Mill)",
+     "Greatest good for the greatest number"
+    ],
+    [
+     "Deontological (Kant)",
+     "Do what is right regardless of consequences"
+    ],
+    [
+     "Virtue ethics (Aristotle)",
+     "Act as a virtuous person would"
+    ]
+   ]
+  },
+  {
+   "id": "law-p367-m-01",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 367,
+   "prompt": "Match each scenario to the tort it represents.",
+   "pairs": [
+    [
+     "Not reviewing the medical history before treatment",
+     "Malpractice"
+    ],
+    [
+     "Never referring a patient with deep pockets and bone loss",
+     "Supervised neglect"
+    ],
+    [
+     "Placing sealants on a child without parental consent",
+     "Battery"
+    ],
+    [
+     "\"If you move again, this will hurt\" (holding a sharp)",
+     "Assault"
+    ],
+    [
+     "Telling a patient another hygienist is \"unqualified\"",
+     "Slander"
+    ],
+    [
+     "Charting that a patient is \"manipulative\" without justification",
+     "Libel"
+    ]
+   ]
+  },
+  {
+   "id": "law-p368-m-01",
+   "deck": "Law & Ethics",
+   "section": "Types of consent",
+   "page": 368,
+   "prompt": "Match each type of consent to its example.",
+   "pairs": [
+    [
+     "Informed consent",
+     "Signs a form before a root canal, understanding risks and benefits"
+    ],
+    [
+     "Implied consent",
+     "Sits in the chair and opens their mouth to be examined"
+    ],
+    [
+     "Expressed consent",
+     "Says \"yes\" to a cleaning or signs a whitening treatment plan"
+    ],
+    [
+     "Informed refusal",
+     "Refuses a filling after learning the risks of delaying it"
+    ],
+    [
+     "Emergency exception",
+     "Unconscious trauma patient gets emergency surgery to stop bleeding"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "law-p365-o-01",
+   "deck": "Law & Ethics",
+   "section": "Ethical decision-making",
+   "page": 365,
+   "prompt": "Put the steps of ethical decision-making in order.",
+   "items": [
+    "Identify the ethical dilemma or problem",
+    "Collect information",
+    "Formulate options",
+    "Apply ethical principles to the options",
+    "Choose an option",
+    "Implement the decision"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "law-p366-s-01",
+   "deck": "Law & Ethics",
+   "section": "Civil law",
+   "page": 366,
+   "prompt": "Criminal law or civil law (contract)?",
+   "categories": [
+    [
+     "Criminal",
+     [
+      "Practicing hygiene without a valid license",
+      "Forging dental records",
+      "Stealing controlled substances from the office",
+      "Billing insurance for procedures never done"
+     ]
+    ],
+    [
+     "Civil — contract law",
+     [
+      "Provider doesn't complete a service that was paid for",
+      "Patient refuses to pay for services already rendered",
+      "Canceling future appointments without referring the patient",
+      "Treatment plan changed without documented explanation"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "law-p367-s-01",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 367,
+   "prompt": "Intentional or unintentional tort?",
+   "categories": [
+    [
+     "Intentional",
+     [
+      "Battery",
+      "Assault",
+      "Slander",
+      "Libel"
+     ]
+    ],
+    [
+     "Unintentional",
+     [
+      "Malpractice",
+      "Supervised neglect"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "law-p364-mcq-01",
+   "deck": "Law & Ethics",
+   "section": "Ownership and access",
+   "page": 364,
+   "question": "A former patient asks for her complete dental record because she is moving. What is the correct response?",
+   "options": [
+    "A. Give her the original chart, since the record belongs to the patient",
+    "B. Refuse; records may only be sent dentist-to-dentist",
+    "C. Provide a copy and keep the original; a reasonable fee may be charged",
+    "D. Provide a copy only if she has paid all outstanding fees"
+   ],
+   "answer": "C. Provide a copy and keep the original; a reasonable fee may be charged",
+   "explanation": "The dentist/office owns the physical record; the patient has the right to inspect, review and obtain a copy, for which the office may charge a reasonable fee. Handing over the original (A) gives away the office's legal document."
+  },
+  {
+   "id": "law-p364-mcq-02",
+   "deck": "Law & Ethics",
+   "section": "Ownership and access",
+   "page": 364,
+   "question": "A hygienist notices she charted the wrong probing depth on a visit last week. Which correction method is acceptable?",
+   "options": [
+    "A. Cover the entry with white-out and write the correct value",
+    "B. Draw a single thin line through the entry, write the correction, and date and initial it",
+    "C. Black out the entry with a marker so it cannot be confused",
+    "D. Insert the corrected value between the existing lines"
+   ],
+   "answer": "B. Draw a single thin line through the entry, write the correction, and date and initial it",
+   "explanation": "Errors are crossed out with a single thin line that keeps the original legible, and every change is dated and initialed. White-out, markers and insertions are never used — they look like concealment."
+  },
+  {
+   "id": "law-p364-mcq-03",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "question": "Which of the following is NOT one of the ADHA core values?",
+   "options": [
+    "A. Veracity",
+    "B. Paternalism",
+    "C. Societal trust",
+    "D. Justice"
+   ],
+   "answer": "B. Paternalism",
+   "explanation": "Paternalism — acting as a parent would and overriding the patient's decisions — is not an ADHA core value; it conflicts with autonomy. Societal trust is a core value, though less familiar than the classic principles."
+  },
+  {
+   "id": "law-p364-mcq-04",
+   "deck": "Law & Ethics",
+   "section": "ADHA core values",
+   "page": 364,
+   "question": "A hygienist tells a hesitant patient that a procedure has \"no risks at all\" so that she will sign the consent form. Which core value is violated MOST directly?",
+   "options": [
+    "A. Veracity",
+    "B. Beneficence",
+    "C. Confidentiality",
+    "D. Justice"
+   ],
+   "answer": "A. Veracity",
+   "explanation": "Veracity = honesty and truthful information; calling a procedure risk-free to get consent is the book's example of not upholding it. Autonomy is also undermined, but the direct breach is the untruth."
+  },
+  {
+   "id": "law-p365-mcq-01",
+   "deck": "Law & Ethics",
+   "section": "Ethical theories",
+   "page": 365,
+   "question": "A clinic director decides to spend the outreach budget on a school sealant program because it will help the most people, even though a few adult patients lose a free service. Which ethical theory guides this decision?",
+   "options": [
+    "A. Deontological",
+    "B. Utilitarian",
+    "C. Virtue ethics",
+    "D. Paternalism"
+   ],
+   "answer": "B. Utilitarian",
+   "explanation": "Utilitarian (Mill) theory judges an action by its usefulness — the greatest good for the greatest number. A deontologist would hold to the duty regardless of the consequences."
+  },
+  {
+   "id": "law-p366-mcq-01",
+   "deck": "Law & Ethics",
+   "section": "Civil law",
+   "page": 366,
+   "question": "Which statement about civil law is correct?",
+   "options": [
+    "A. Cases are filed by the government",
+    "B. The defendant must prove innocence",
+    "C. Typical outcomes are financial compensation or an injunction",
+    "D. It deals with crimes against society as a whole"
+   ],
+   "answer": "C. Typical outcomes are financial compensation or an injunction",
+   "explanation": "Civil law handles wrongs between individuals; the injured private party files and carries the burden of proof, and the court orders compensation or an injunction rather than jail. Filing by the government (A) and crimes against society (D) describe criminal law."
+  },
+  {
+   "id": "law-p366-mcq-02",
+   "deck": "Law & Ethics",
+   "section": "Contract law",
+   "page": 366,
+   "question": "A dentist starts a multi-visit treatment, then cancels the patient's remaining appointments without notice or referral. This is BEST described as:",
+   "options": [
+    "A. Abandonment",
+    "B. Supervised neglect",
+    "C. Battery",
+    "D. Informed refusal"
+   ],
+   "answer": "A. Abandonment",
+   "explanation": "Abandonment = ending the professional relationship without proper notice or failing to complete treatment that was started. Supervised neglect is recognizing a need for treatment/referral and discharging the patient without addressing it — a tort, not a contract issue."
+  },
+  {
+   "id": "law-p367-mcq-01",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 367,
+   "question": "A hygienist places sealants on a 9-year-old whose parent had not consented. The child was not harmed. Which statement is correct?",
+   "options": [
+    "A. No tort occurred because there was no injury",
+    "B. This is assault, because the child feared the procedure",
+    "C. This is battery, because it was unauthorized physical contact",
+    "D. This is malpractice, because the standard of care was not met"
+   ],
+   "answer": "C. This is battery, because it was unauthorized physical contact",
+   "explanation": "Battery is any unauthorized physical contact, including a procedure performed without consent — even with no injury. Assault involves a threat with NO physical contact."
+  },
+  {
+   "id": "law-p367-mcq-02",
+   "deck": "Law & Ethics",
+   "section": "Intentional torts",
+   "page": 367,
+   "question": "A patient injured during scaling sues his hygienist for damages, claiming she failed to meet the standard of care. The case falls under:",
+   "options": [
+    "A. Criminal law — intentional tort",
+    "B. Civil law — contract law",
+    "C. Civil law — unintentional tort",
+    "D. Criminal law — malpractice"
+   ],
+   "answer": "C. Civil law — unintentional tort",
+   "explanation": "Malpractice (professional negligence) is an unintentional tort under civil law; the injured patient files the case. It is not criminal, and not a contract matter because the claim is about injury, not a broken agreement."
+  },
+  {
+   "id": "law-p367-mcq-03",
+   "deck": "Law & Ethics",
+   "section": "Health history",
+   "page": 367,
+   "question": "Which practice regarding the health history is correct?",
+   "options": [
+    "A. Update it once a year at the recall exam",
+    "B. Complete it in pencil so it can be updated",
+    "C. Review and update it at every visit, signed by the patient and the clinician",
+    "D. Place a \"requires premed\" sticker on the chart cover as a reminder"
+   ],
+   "answer": "C. Review and update it at every visit, signed by the patient and the clinician",
+   "explanation": "The medical history must be reviewed and updated at every visit and signed by both patient and professional, in permanent ink. Medical conditions must never appear on the outside of the chart."
+  },
+  {
+   "id": "law-p368-mcq-01",
+   "deck": "Law & Ethics",
+   "section": "Types of consent",
+   "page": 368,
+   "question": "An unconscious trauma patient is brought in bleeding heavily, and no family member can be reached. Treatment to stop the bleeding is given. Which applies?",
+   "options": [
+    "A. Implied consent",
+    "B. Battery",
+    "C. Emergency exception",
+    "D. Informed refusal"
+   ],
+   "answer": "C. Emergency exception",
+   "explanation": "Under the emergency exception, treatment may legally be performed without consent when the patient is unconscious or unable to respond. Implied consent requires the patient's own actions (e.g., opening their mouth)."
+  },
+  {
+   "id": "law-p368-mcq-02",
+   "deck": "Law & Ethics",
+   "section": "HIPAA — office responsibilities",
+   "page": 368,
+   "question": "A patient's husband, who pays for her dental insurance, calls asking what treatment she received. She has not signed an authorization. What should the office do?",
+   "options": [
+    "A. Share the information, because he pays the premiums",
+    "B. Share only the billing details",
+    "C. Decline to share it without her written authorization",
+    "D. Share it if he can confirm her date of birth"
+   ],
+   "answer": "C. Decline to share it without her written authorization",
+   "explanation": "Under HIPAA only the patient and her insurance carrier may access the information without written authorization — even if another person pays for the insurance. Billing details (B) are also protected identifiable information."
+  },
+  {
+   "id": "law-p368-mcq-03",
+   "deck": "Law & Ethics",
+   "section": "HIPAA — office responsibilities",
+   "page": 368,
+   "question": "Which practice violates HIPAA?",
+   "options": [
+    "A. Charts stored in locked cabinets",
+    "B. Front desk staff confirming a patient's surgery date aloud in the waiting room",
+    "C. A designated contact person handling requests for record corrections",
+    "D. Patients signing to acknowledge receipt of the privacy policy"
+   ],
+   "answer": "B. Front desk staff confirming a patient's surgery date aloud in the waiting room",
+   "explanation": "Verbal communication about patients must not happen in public spaces such as the waiting room. The other options are required safeguards."
+  },
+  {
+   "id": "law-quiz-01",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "A dental hygienist observes a colleague reusing single-use items on multiple patients. What is the most appropriate first step the hygienist should take?",
+   "options": [
+    "A. Immediately report the colleague to the state board",
+    "B. Speak privately with the colleague about the observed behavior",
+    "C. Ignore the situation unless a patient complains",
+    "D. Inform your direct supervisor of the concern"
+   ],
+   "answer": "B. Speak privately with the colleague about the observed behavior",
+   "explanation": "Ethical practice encourages addressing concerns at the lowest level possible first. Speaking privately allows for clarification or correction without immediately escalating. (Keywords: reusing, single-use, first)"
+  },
+  {
+   "id": "law-quiz-02",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "A patient refuses radiographs but the hygienist believes they are necessary for proper care. What is the best ethical response?",
+   "options": [
+    "A. Take the radiographs anyway for the patient's benefit",
+    "B. Document the refusal and continue treatment",
+    "C. Refuse to treat the patient unless they comply",
+    "D. Educate the patient on the risks of refusing, then document the refusal and proceed if appropriate"
+   ],
+   "answer": "D. Educate the patient on the risks of refusing, then document the refusal and proceed if appropriate",
+   "explanation": "The hygienist must respect patient autonomy while ensuring informed consent. Education and documentation uphold legal and ethical standards. (Keywords: refuses, radiographs, ethical)"
+  },
+  {
+   "id": "law-quiz-03",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "A hygienist accidentally breaks an instrument tip in a patient's pocket but removes it completely. What is the most ethical action?",
+   "options": [
+    "A. Inform the patient and document the incident",
+    "B. Say nothing since no harm was done",
+    "C. Inform the dentist",
+    "D. Wait to see if the patient complains"
+   ],
+   "answer": "A. Inform the patient and document the incident",
+   "explanation": "Ethical care requires full transparency. Even if the tip is retrieved and no harm results, the patient has the right to know what happened. The hygienist should also inform the supervising dentist, but most importantly the patient must be notified and the event documented clearly in the chart."
+  },
+  {
+   "id": "law-quiz-04",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "Which ethical principle is being violated if a hygienist exaggerates the benefits of a treatment to convince a patient to agree to it?",
+   "options": [
+    "A. Justice",
+    "B. Veracity",
+    "C. Nonmaleficence",
+    "D. Fidelity"
+   ],
+   "answer": "B. Veracity",
+   "explanation": "Veracity is the obligation to tell the truth. Misleading a patient breaches this principle."
+  },
+  {
+   "id": "law-quiz-05",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "A dental hygienist refuses to treat a patient with HIV. Which principle is primarily being violated?",
+   "options": [
+    "A. Autonomy",
+    "B. Veracity",
+    "C. Justice",
+    "D. Beneficence"
+   ],
+   "answer": "C. Justice",
+   "explanation": "Justice relates to fairness and equality in care. Refusing treatment based on health status is discriminatory and unethical. (Keywords: HIV, refuse, principle)"
+  },
+  {
+   "id": "law-quiz-06",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "A hygienist decides not to inform a patient about a less expensive alternative treatment. Which ethical principle is compromised?",
+   "options": [
+    "A. Fidelity",
+    "B. Justice",
+    "C. Autonomy",
+    "D. Nonmaleficence"
+   ],
+   "answer": "C. Autonomy",
+   "explanation": "Autonomy involves informed decision-making. Withholding information interferes with the patient's right to choose. (Keywords: inform, alternative, ethical)"
+  },
+  {
+   "id": "law-quiz-07",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "A hygienist begins scaling a patient who has deep periodontal pockets and radiographic bone loss but does not inform the dentist or refer the patient to a specialist. What does this best illustrate?",
+   "options": [
+    "A. Informed refusal",
+    "B. Expressed contract violation",
+    "C. Malpractice",
+    "D. Supervised neglect"
+   ],
+   "answer": "D. Supervised neglect",
+   "explanation": "Supervised neglect happens when a provider is aware that a patient needs additional care but discharges or manages them inadequately. Failing to refer a patient with advanced periodontal disease violates the standard of care."
+  },
+  {
+   "id": "law-quiz-08",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "A patient agrees to a crown procedure after the dentist explains the risks and benefits. The agreement is made verbally during the appointment. What type of contract is this?",
+   "options": [
+    "A. Implied contract",
+    "B. Expressed contract",
+    "C. Written waiver",
+    "D. Emergency exception"
+   ],
+   "answer": "B. Expressed contract",
+   "explanation": "An expressed contract can be verbal or written. As long as the patient understands and agrees to the treatment plan, this is legally valid and enforceable — even without paperwork."
+  },
+  {
+   "id": "law-quiz-09",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "A hygienist begins treatment before reviewing the patient's updated medication list. The patient later reports complications due to an anticoagulant interaction. What is this an example of?",
+   "options": [
+    "A. Assault",
+    "B. HIPAA violation",
+    "C. Unintentional tort",
+    "D. Breach of contract"
+   ],
+   "answer": "C. Unintentional tort",
+   "explanation": "This is an unintentional tort: harm caused by carelessness rather than deliberate action. In dentistry the most common unintentional tort is malpractice — failing to meet the standard of care expected of a professional. Not reviewing the medication list is a basic safety step; because the oversight led to harm, it qualifies as malpractice under civil law."
+  },
+  {
+   "id": "law-quiz-10",
+   "deck": "Quizzes",
+   "section": "Law & Ethics bonus quiz",
+   "page": 369,
+   "question": "Who is legally responsible for ensuring that a dental office has policies in place to protect patient privacy and manage HIPAA compliance?",
+   "options": [
+    "A. The dental hygienist",
+    "B. The receptionist",
+    "C. The designated Privacy Officer",
+    "D. The patient"
+   ],
+   "answer": "C. The designated Privacy Officer",
+   "explanation": "Every dental office must appoint a Privacy Officer — a team member tasked with overseeing HIPAA compliance, handling patient concerns, and ensuring staff are properly trained. This person ensures that policies are followed and updates are made as needed."
+  }
+ ]
+}

@@ -1,0 +1,1894 @@
+{
+ "diagrams": [
+  {
+   "name": "spec-p202-bp-chart",
+   "title": "Blood pressure categories (hand-drawn chart)",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 2,
+   "page": 202,
+   "crop": [
+    880,
+    1170,
+    1240,
+    1640
+   ],
+   "labels": [
+    {
+     "box": [
+      990,
+      1212,
+      1170,
+      1250
+     ],
+     "answer": "Hypertensive crisis",
+     "fit": "none"
+    },
+    {
+     "box": [
+      993,
+      1322,
+      1068,
+      1362
+     ],
+     "answer": "Stage 2",
+     "fit": "none"
+    },
+    {
+     "box": [
+      938,
+      1405,
+      1012,
+      1442
+     ],
+     "answer": "Stage 1",
+     "fit": "none"
+    },
+    {
+     "box": [
+      932,
+      1462,
+      1012,
+      1502
+     ],
+     "answer": "Elevated",
+     "fit": "none"
+    },
+    {
+     "box": [
+      932,
+      1528,
+      995,
+      1572
+     ],
+     "answer": "Normal",
+     "fit": "none"
+    }
+   ],
+   "label_all": false
+  },
+  {
+   "name": "spec-p203-heart-disorders",
+   "title": "Heart disorders: angina, MI, atherosclerosis",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 3,
+   "page": 203,
+   "crop": [
+    75,
+    1435,
+    1235,
+    2060
+   ],
+   "labels": [
+    {
+     "box": [
+      480,
+      1524,
+      588,
+      1568
+     ],
+     "answer": "Angina",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      328,
+      1660,
+      414,
+      1706
+     ],
+     "answer": "Spreading of pain",
+     "fit": "none"
+    },
+    {
+     "box": [
+      640,
+      1608,
+      862,
+      1704
+     ],
+     "answer": "Narrowing or blockage of the coronary arteries",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      985,
+      1608,
+      1205,
+      1680
+     ],
+     "answer": "Atherosclerosis (plaque build up)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      120,
+      1880,
+      332,
+      1925
+     ],
+     "answer": "Chest pain caused by insufficient blood flow to heart",
+     "fit": "text"
+    },
+    {
+     "box": [
+      485,
+      1876,
+      760,
+      1921
+     ],
+     "answer": "Myocardial infarction",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      635,
+      1953,
+      862,
+      2050
+     ],
+     "answer": "Death or damage of the coronary arteries",
+     "fit": "bg",
+     "extra": "Label as printed in the book. Strictly, a myocardial infarction is death of heart MUSCLE caused by a blocked coronary artery."
+    }
+   ]
+  },
+  {
+   "name": "spec-p205-chf",
+   "title": "Congestive heart failure (CHF)",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 5,
+   "page": 205,
+   "crop": [
+    80,
+    225,
+    1225,
+    790
+   ],
+   "labels": [
+    {
+     "box": [
+      818,
+      238,
+      960,
+      334
+     ],
+     "answer": "Coughing, shortness of breath",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      790,
+      339,
+      966,
+      384
+     ],
+     "answer": "Fluid in lungs",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      438,
+      481,
+      576,
+      524
+     ],
+     "answer": "Right side",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      741,
+      481,
+      864,
+      524
+     ],
+     "answer": "Left side",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      335,
+      526,
+      576,
+      702
+     ],
+     "answer": "Loses some of its ability to move oxygen poor blood to the lungs to pick up new oxygen",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      741,
+      526,
+      984,
+      676
+     ],
+     "answer": "Loses some of its ability to pump blood out to the body after it is re-oxygenated",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      328,
+      720,
+      500,
+      768
+     ],
+     "answer": "Swollen legs",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p206-surgeries",
+   "title": "Coronary artery bypass graft and angioplasty with stent",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 6,
+   "page": 206,
+   "crop": [
+    95,
+    750,
+    1245,
+    1395
+   ],
+   "labels": [
+    {
+     "box": [
+      174,
+      809,
+      660,
+      857
+     ],
+     "answer": "Coronary artery bypass graft (CABG)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      806,
+      809,
+      1122,
+      857
+     ],
+     "answer": "Angioplasty with stent",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      341,
+      966,
+      449,
+      1034
+     ],
+     "answer": "Bypass vessel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      571,
+      1064,
+      684,
+      1137
+     ],
+     "answer": "Blocked artery",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      341,
+      1131,
+      446,
+      1202
+     ],
+     "answer": "Bypass graft",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      738,
+      1234,
+      869,
+      1279
+     ],
+     "answer": "Catheter",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      921,
+      1234,
+      1022,
+      1279
+     ],
+     "answer": "Balloon",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1079,
+      1234,
+      1172,
+      1279
+     ],
+     "answer": "Stent",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "spec-p208-stroke",
+   "title": "Stroke (CVA) types and F.A.S.T. signs",
+   "deck": "Special Needs & Medical Conditions",
+   "pdf_page": 8,
+   "page": 208,
+   "crop": [
+    95,
+    465,
+    1240,
+    1110
+   ],
+   "labels": [
+    {
+     "box": [
+      468,
+      578,
+      644,
+      624
+     ],
+     "answer": "Hemorrhagic",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      491,
+      706,
+      616,
+      752
+     ],
+     "answer": "Ischemic",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      454,
+      824,
+      662,
+      869
+     ],
+     "answer": "Atherosclerosis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      785,
+      755,
+      952,
+      830
+     ],
+     "answer": "Face drooping",
+     "fit": "none"
+    },
+    {
+     "box": [
+      984,
+      755,
+      1155,
+      830
+     ],
+     "answer": "Arm weakness",
+     "fit": "none"
+    },
+    {
+     "box": [
+      790,
+      960,
+      960,
+      1037
+     ],
+     "answer": "Speech difficulty",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1000,
+      960,
+      1135,
+      1037
+     ],
+     "answer": "Time to call 911",
+     "fit": "none"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "spec-p202-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "The ASA classification is a {{c1::medical risk}} scale used to predict the risk of complications during {{c2::surgery and anesthesia}}.",
+   "extra": "Board Alert: in dentistry we adapt the ASA system to estimate medical risk during dental care, but it doesn't always fit perfectly."
+  },
+  {
+   "id": "spec-p202-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "{{c1::ASA I}} = {{c2::normal healthy patient}} — e.g., non-smoker, minimal alcohol use, no systemic disease.",
+   "extra": "Exam standard: ASA Physical Status Classification (amended 2020)."
+  },
+  {
+   "id": "spec-p202-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "{{c1::ASA II}} = {{c2::mild}} systemic disease {{c3::without}} functional limitations.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "Examples of ASA {{c1::II}}: controlled hypertension or diabetes, healthy pregnancy, allergies, BMI 30–40, social alcohol use, smoking.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "{{c1::ASA III}} = {{c2::severe}} systemic disease {{c3::with}} functional limitations.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "Examples of ASA {{c1::III}}: poorly controlled diabetes or hypertension, COPD, stable angina, history (>3 months) of MI or stroke, dialysis patient, implanted pacemaker, BMI ≥ 40.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "{{c1::ASA IV}} = severe systemic disease that is a {{c2::constant threat to life}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "Examples of ASA {{c1::IV}}: recent (&lt;3 months) MI, stroke, or unstable angina; symptomatic CHF or COPD; hepatorenal failure.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "{{c1::ASA V}} = {{c2::moribund}} patient not expected to survive without surgery — e.g., end-stage disease (ruptured aneurysm, massive trauma, terminal cancer).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "{{c1::ASA VI}} = declared {{c2::brain-dead}} patient whose organs are being removed for donor purposes (organ donor patient only).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "When a patient has several conditions, use the {{c1::highest-risk}} condition to determine the ASA class — e.g., well-controlled asthma (ASA II) + recent MI (ASA IV) = ASA {{c2::IV}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "{{c1::Multiple mild conditions}} may bump a patient from ASA II to ASA {{c2::III}} — e.g., controlled diabetes + controlled hypertension + smoker.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "text": "Mental health conditions such as anxiety or depression do {{c1::not}} directly change the ASA classification.",
+   "extra": "Board Alert: the ASA system doesn't always fit dentistry perfectly."
+  },
+  {
+   "id": "spec-p202-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "AHA 2017 BP category <b>{{c1::Normal}}</b>: systolic less than {{c2::120}} AND diastolic less than {{c3::80}} mmHg.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "AHA 2017 BP category <b>{{c1::Elevated}}</b>: systolic {{c2::120–129}} AND diastolic less than 80 mmHg.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "AHA 2017 <b>{{c1::Stage 1}}</b> hypertension: systolic {{c2::130–139}} OR diastolic {{c3::80–89}} mmHg.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "AHA 2017 <b>{{c1::Stage 2}}</b> hypertension: systolic {{c2::140 or higher}} OR diastolic {{c3::90 or higher}} mmHg.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "AHA 2017 <b>{{c1::Hypertensive crisis}}</b>: systolic higher than {{c2::180}} and/or diastolic higher than {{c3::120}} mmHg — consult a doctor immediately.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "Hypertension is called the \"{{c1::silent killer}}\" because high pressure damages vessel walls and vital organs even {{c2::without symptoms}}.",
+   "extra": "Hypertension = pressure inside the blood vessels is too high over time."
+  },
+  {
+   "id": "spec-p202-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "Cause of hypertension: changes that increase {{c1::resistance}} in the vessels (normally vessels are elastic, have a smooth lining and expand with each heartbeat).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-021",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "Contributors to hypertension: lifestyle and systemic factors like {{c1::smoking}}, stress, {{c2::obesity}}, diabetes, and high {{c3::salt}} intake.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-022",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "BP diagnosis: the {{c1::systolic}} (top) number is the pressure when the heart {{c2::pumps}}; the {{c3::diastolic}} (bottom) number is the pressure when the heart {{c4::relaxes}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-023",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "If systolic and diastolic fall in different BP categories, always use the {{c1::higher}} category to determine severity.",
+   "extra": "e.g., 125/92 → Stage 2 (because of the diastolic)."
+  },
+  {
+   "id": "spec-p202-024",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "text": "Hypertension usually has {{c1::no symptoms}}, but can lead to stroke, heart attack, {{c2::kidney failure}}, or {{c3::eye}} damage.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p203-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "Hypertension treatment starts with {{c1::lifestyle changes}} — less salt, more exercise, healthy weight.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p203-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "Always check BP before dental care because readings ≥ {{c1::180/110}} mmHg increase the risk of stroke or heart attack.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p203-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "Raise the dental chair slowly to prevent dizziness from {{c1::postural (orthostatic) hypotension}} caused by antihypertensive medications.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p203-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "{{c1::Hydrochlorothiazide}} (a diuretic) and {{c2::atenolol}} (a beta-blocker) commonly cause dry mouth and low blood pressure when standing.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p203-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "In hypertensive patients use caution with {{c1::epinephrine}} and avoid {{c2::sodium}}-containing air polishers — both can raise BP.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p203-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "Stress-reduction protocol for hypertensive patients: {{c1::short morning}} appointments, good anesthesia, and a calm environment.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p203-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "Dental BP table: BP &lt;140/&lt;90 → ASA {{c1::I}} → {{c2::proceed with routine care}} (healthy or well-controlled).",
+   "extra": "Book's dental-management table. Note: by AHA 2017 categories, 130–139/80–89 is already Stage 1 hypertension and ≥140/90 is Stage 2."
+  },
+  {
+   "id": "spec-p203-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "Dental BP table: BP 140–159 / 90–99 → ASA {{c1::II}} → proceed with care; {{c2::monitor BP at each visit}} (mild hypertension, minimal risk, may worsen).",
+   "extra": "Book's dental-management table. Note: by AHA 2017 categories, 130–139/80–89 is already Stage 1 hypertension and ≥140/90 is Stage 2."
+  },
+  {
+   "id": "spec-p203-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "Dental BP table: BP 160–179 / 100–109 → ASA {{c1::III}} → proceed with caution, recheck BP after {{c2::5}} minutes, use stress reduction, consider {{c3::medical consultation}}.",
+   "extra": "Book's dental-management table. Note: by AHA 2017 categories, 130–139/80–89 is already Stage 1 hypertension and ≥140/90 is Stage 2."
+  },
+  {
+   "id": "spec-p203-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "Dental BP table: BP ≥{{c1::180}} / ≥{{c2::110}} (even once) → ASA IV → {{c3::stop elective care}}; recheck in 5 minutes and if still elevated refer for medical evaluation before treatment.",
+   "extra": "Danger zone: high risk of stroke or MI — delay elective procedures."
+  },
+  {
+   "id": "spec-p203-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "A patient with <b>any BP plus symptoms</b> (headache, dizziness, chest pain) is ASA {{c1::IV}}: {{c2::stop immediately}} regardless of the reading and refer to emergency care or a physician.",
+   "extra": "Symptoms indicate a possible hypertensive crisis or cardiac issue."
+  },
+  {
+   "id": "spec-p203-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "text": "If a hypertensive patient skipped their meds, ask {{c1::when they last took them}}, consider rechecking BP, and delay care if pressure is high.",
+   "extra": "Skipped doses = uncontrolled pressure; ASA class varies."
+  },
+  {
+   "id": "spec-p204-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "<b>Angina</b> is {{c1::chest pain}} that occurs when the heart muscle doesn't get enough {{c2::oxygen}} due to reduced blood flow in the {{c3::coronary arteries}}.",
+   "extra": "Coronary arteries = the vessels that supply the heart itself."
+  },
+  {
+   "id": "spec-p204-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Cause of angina: {{c1::narrowing or blockage}} of the coronary arteries.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Angina risk factors: smoking, high blood pressure, high {{c1::cholesterol}}, diabetes, obesity, emotional {{c2::stress}}, and lack of physical activity.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Angina feels like {{c1::squeezing, tightness}} in the chest that can spread to the neck, jaw, shoulder, back, or arms, usually during {{c2::exercise}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Angina treatment: {{c1::rest}}, medications that improve blood flow and reduce the heart's workload, and in serious cases {{c2::stent placement or bypass surgery}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Angina patients: ask if the patient carries their {{c1::angina medication}} and keep it {{c2::nearby}} during treatment; schedule short, calm morning appointments.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Angina emergency: stop treatment immediately and keep the patient seated {{c1::upright or semi-reclined}} to reduce stress on the heart and support breathing.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Angina emergency: give 1 dose of nitroglycerin {{c1::under the tongue}} if systolic BP is ≥ {{c2::90}} mmHg.",
+   "extra": "Nitroglycerin dilates blood vessels and reduces the heart's oxygen demand."
+  },
+  {
+   "id": "spec-p204-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Angina emergency: call 911 if the pain is not relieved after the {{c1::first}} nitroglycerin dose — this may indicate a true {{c2::heart attack}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Angina/MI emergency: give chewable {{c1::aspirin}} ({{c2::160–325}} mg) if the patient is not allergic and is alert, to help prevent further clot formation.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Angina emergency: be prepared to begin {{c1::CPR}} and use the {{c2::AED}} if the patient becomes unresponsive (cardiac arrest).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "text": "Sublingual nitroglycerin works {{c1::3–5}} times faster than if swallowed because it enters the bloodstream directly through the {{c2::oral mucosa}}, bypassing the digestive system and liver.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "text": "<b>Myocardial infarction</b>: part of the {{c1::heart muscle}} is damaged or dies due to a sudden {{c2::blockage}} in one of the coronary arteries, stopping oxygen from reaching the tissue.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "text": "MI cause: complete or near-complete blockage of a coronary artery, usually from a {{c1::blood clot}} forming over a {{c2::ruptured plaque}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "text": "MI risk factors: {{c1::atherosclerosis}}, high blood pressure, high cholesterol, smoking, diabetes, obesity, stress, and lack of exercise.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "text": "MI: {{c1::crushing or heavy}} chest pain that may spread to the neck, jaw, shoulder, back, or arms, often with {{c2::sweating}}, nausea, shortness of breath, or feeling faint.",
+   "extra": "Compare angina: squeezing/tightness, usually during exercise, relieved by rest/nitroglycerin."
+  },
+  {
+   "id": "spec-p204-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "text": "MI treatment: emergency care with oxygen, aspirin, nitroglycerin, {{c1::clot-busting drugs}}, and procedures such as {{c2::angioplasty}} or bypass surgery to restore blood flow.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "text": "Post-MI patients: schedule {{c1::short, low-stress morning}} appointments and monitor for {{c2::anxiety}} or chest discomfort during treatment.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "text": "{{c1::Anticoagulant}} or {{c2::antiplatelet}} drugs (aspirin, clopidogrel, warfarin, apixaban, rivaroxaban) increase the risk of {{c3::prolonged bleeding}} during and after dental procedures.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "text": "MI emergency protocol is the same as for angina, but {{c1::911 should be called quickly}}, especially if symptoms are more severe or the patient is not responding.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "<b>Congestive heart failure</b>: the heart becomes too {{c1::weak or stiff}} to pump effectively, so blood backs up, causing {{c2::fluid buildup}} in the lungs, legs, and other tissues.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "CHF cause: heart muscle is {{c1::damaged}} (e.g., after a heart attack) or {{c2::overworked}} for years, making it too weak to push blood forward.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "The {{c1::right}} side of the heart receives blood from the body and sends it to the lungs; if it fails, blood backs up in the veins and fluid pools in the {{c2::ankles, legs, and feet}} (gravity).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "The {{c1::left}} side of the heart receives blood from the lungs and pumps it to the body; if it fails, fluid backs up into the {{c2::lungs}}, causing shortness of breath and coughing.",
+   "extra": "WakeUpMemory: Left = Lung; Right = Rest of the body."
+  },
+  {
+   "id": "spec-p205-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "CHF risk factors: {{c1::hypertension}}, {{c2::coronary artery disease}}, diabetes, smoking, obesity, and kidney disease.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "CHF signs: shortness of breath, fatigue, {{c1::swollen ankles or legs}}, and difficulty breathing when {{c2::lying flat}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "CHF treatment: {{c1::diuretics}}, ACE inhibitors, and beta-blockers; severe cases may need devices or surgery.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "CHF patients: treat only if the condition is {{c1::stable}}; get {{c2::medical clearance}} if unsure.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "Position a CHF patient {{c1::upright or semi-reclined}}; lying flat can worsen {{c2::fluid buildup in the lungs}} and make breathing harder.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "In CHF patients with severe breathing difficulty, avoid {{c1::power scalers}} or {{c2::rubber dam isolation}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "CHF patients: limit {{c1::epinephrine}} (stress on the heart) and monitor for signs of fatigue or breathing trouble.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "Many CHF patients take {{c1::diuretics}}, which can cause {{c2::dry mouth}} and increased urination.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "text": "A CHF patient can develop symptoms like angina or MI (chest pain, shortness of breath, fatigue); follow the {{c1::same emergency steps}}: stop treatment, upright position, nitroglycerin, oxygen, call 911 if symptoms persist.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 205,
+   "text": "<b>Arrhythmia</b>: an abnormal heart rhythm caused by problems in the heart's {{c1::electrical signals}} — the heart may beat too fast, too slow, or irregularly.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 205,
+   "text": "Arrhythmia causes: disruption of electrical signaling due to aging, heart damage, {{c1::electrolyte imbalance}}, medications, or stress.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p205-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 205,
+   "text": "Arrhythmia contributors: heart attack, high blood pressure, valve disorders, {{c1::thyroid}} issues, {{c2::stimulant}} use (e.g., caffeine), and some drugs.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 206,
+   "text": "Arrhythmia signs: {{c1::fluttering in the chest}}, palpitations, fatigue, dizziness, shortness of breath, or fainting.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 206,
+   "text": "Arrhythmia treatment: medications ({{c1::beta-blockers}}, antiarrhythmics), a pacemaker, or an implanted defibrillator.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 206,
+   "text": "An {{c1::implanted defibrillator (ICD)}} is like a pacemaker but also delivers a {{c2::shock}} if the heart goes into a dangerous rhythm like {{c3::ventricular fibrillation}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 206,
+   "text": "Pacemaker/ICD with {{c1::unknown}} shielding: avoid equipment that generates {{c2::electromagnetic interference}} (e.g., older ultrasonic scalers, electrosurgery units).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 206,
+   "text": "If pacemaker shielding is {{c1::confirmed}}, ultrasonic scalers may be used with caution — avoid placing the cord or handpiece {{c2::directly over the device}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 206,
+   "text": "In {{c1::unstable}} arrhythmias, limit epinephrine and avoid {{c2::vasoconstrictors}} unless cleared by a physician.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 206,
+   "text": "Arrhythmia emergency: stop treatment, keep the patient {{c1::upright}} and calm; call 911 if symptoms worsen or the patient becomes unresponsive, and prepare for {{c2::CPR and AED}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cardiac surgeries",
+   "page": 206,
+   "text": "In a {{c1::coronary artery bypass graft (CABG)}}, a healthy blood vessel (usually from the {{c2::leg, arm, or chest}}) is harvested to create a new path around a blocked coronary artery.",
+   "extra": "Prevents angina and heart attacks. WakeUpMemory: a CABG is like building a detour road around traffic."
+  },
+  {
+   "id": "spec-p206-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cardiac surgeries",
+   "page": 206,
+   "text": "Angioplasty: a tiny {{c1::balloon}} is inserted into a clogged artery and inflated to push the plaque aside; a {{c2::stent}} (small wire mesh tube) is often placed to keep the artery open long-term.",
+   "extra": "WakeUpMemory: a stent is like propping open a collapsed tunnel to let traffic (blood) through."
+  },
+  {
+   "id": "spec-p206-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Cardiac surgeries",
+   "page": 206,
+   "text": "After a stent or bypass graft, {{c1::antiplatelet}} drugs like aspirin and clopidogrel (Plavix) prevent blood clots inside it; they are usually taken for {{c2::months or even years}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 206,
+   "text": "<b>ADHD</b> affects {{c1::focus}}, {{c2::impulse control}}, and activity level; common in children but may continue into adulthood.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 206,
+   "text": "ADHD cause: believed to involve {{c1::dopamine}} and {{c2::norepinephrine}} imbalance in parts of the brain that control attention and behavior.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 206,
+   "text": "ADHD contributors: genetics, {{c1::premature birth}}, environmental exposures (e.g., {{c2::lead}}), and possible brain development differences.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 207,
+   "text": "ADHD signs: trouble focusing, sitting still, following instructions, or {{c1::waiting turns}}; may interrupt or act impulsively.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 207,
+   "text": "ADHD is managed with behavioral therapy and {{c1::stimulant}} medications like methylphenidate ({{c2::Ritalin}}) or amphetamine ({{c3::Adderall}}).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 207,
+   "text": "ADHD patients: use a calm, structured approach; appointments should be {{c1::short, predictable}}, and scheduled {{c2::early in the day}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 207,
+   "text": "ADHD patients: praise cooperation, give clear simple instructions, and use the {{c1::tell-show-do}} approach.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 207,
+   "text": "Stimulant ADHD meds (Ritalin, Adderall) activate the {{c1::sympathetic}} nervous system, causing {{c2::dry mouth}}, {{c3::bruxism}}, or appetite loss.",
+   "extra": "WakeUpMemory: \"Adderall = Active but Dry\" — boosts focus and energy but dries the mouth. Reduced saliva + increased jaw tension."
+  },
+  {
+   "id": "spec-p207-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 207,
+   "text": "Patients with ADHD may struggle with {{c1::oral hygiene routines}} or forget steps.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Alzheimer's is caused by {{c1::amyloid plaques}} (sticky protein clumps) and {{c2::tau tangles}} that destroy nerve cells, starting in the {{c3::hippocampus}} (memory center).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Alzheimer's: gradual {{c1::memory loss}}, disorientation, poor reasoning; severe memory loss early because the {{c2::hippocampus}} is affected first.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "{{c1::Alzheimer's}} is the most common dementia, usually over age {{c2::65}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Vascular dementia is caused by {{c1::blocked or reduced blood flow}} in parts of the brain, often from a {{c2::stroke}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Vascular dementia shows a {{c1::step-like decline}} in thinking and motor skills after strokes or mini-strokes; memory may be preserved early if other brain areas are damaged.",
+   "extra": "Other clues: history of stroke, high blood pressure, or heart disease."
+  },
+  {
+   "id": "spec-p207-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Lewy body dementia: {{c1::Lewy bodies}} (abnormal proteins) disrupt brain signals, especially in the {{c2::cortex and brainstem}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Lewy body dementia: fluctuating memory, {{c1::visual hallucinations}}, tremors, confusion; confusion worsens {{c2::at night}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Lewy body dementia may include {{c1::acting out dreams}}, {{c2::Parkinson}}-like stiffness, and hallucinations.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Frontotemporal dementia: nerve loss in the {{c1::frontal and temporal}} lobes, which control behavior and language.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-016",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Frontotemporal dementia: {{c1::personality and behavior}} change first (inappropriate comments, apathy, impulsiveness) while memory stays intact early.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-017",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Frontotemporal dementia is more common {{c1::under}} age 65 and may be confused with {{c2::psychiatric disorders}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-018",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Dementia patients may {{c1::forget to brush}}, misuse products, or avoid care due to fear/confusion.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-019",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Dementia: use simple, calm language and repeat as needed; involve a {{c1::caregiver or legal guardian}} early for medical history, {{c2::consent}}, and home care.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-020",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "In later-stage dementia, {{c1::swallowing difficulties}} may increase {{c2::aspiration}} risk.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-021",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "text": "Dementia patients may show {{c1::agitation, resistance}}, or even aggression during treatment.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-022",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Parkinson's disease",
+   "page": 207,
+   "text": "<b>Parkinson's</b> is a progressive brain disorder in which the brain stops producing enough {{c1::dopamine}}, affecting movement and coordination.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-023",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Parkinson's disease",
+   "page": 207,
+   "text": "Parkinson's cause: loss of dopamine-producing cells, especially in the {{c1::substantia nigra}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p207-024",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Parkinson's disease",
+   "page": 207,
+   "text": "Parkinson's signs: {{c1::tremors}}, muscle stiffness, slow movements, {{c2::shuffling gait}}, and facial stiffness ({{c3::mask-like}} expression); symptoms worsen over time.",
+   "extra": "WakeUpMemory — dopamine's dual role: 1. Movement (too little = shaking, stiffness, slow motion); 2. Motivation &amp; mood (too little = depression-like symptoms)."
+  },
+  {
+   "id": "spec-p208-001",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Parkinson's disease",
+   "page": 208,
+   "text": "Parkinson's has no cure; it is managed with dopamine-replacement drugs like {{c1::levodopa}} (often combined with {{c2::carbidopa}}), or {{c3::deep brain stimulation}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-002",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Parkinson's disease",
+   "page": 208,
+   "text": "Parkinson's patients: use {{c1::short, stress-free}} appointments to reduce fatigue and anxiety.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-003",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Parkinson's disease",
+   "page": 208,
+   "text": "Parkinson's patients: use a {{c1::mouth prop}} if the patient has tremors or trouble holding the mouth open.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-004",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Parkinson's disease",
+   "page": 208,
+   "text": "{{c1::Xerostomia}} is a common side effect of Parkinson's drugs (e.g., levodopa).",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-005",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Parkinson's disease",
+   "page": 208,
+   "text": "Parkinson's patients: protect the {{c1::airway}} to prevent choking, and stabilize the patient's {{c2::hands}} with aids to prevent injuries from the tremor.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-006",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "<b>Stroke (CVA)</b>: sudden loss of brain function due to a {{c1::blocked or burst}} blood vessel in the brain.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-007",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "A {{c1::blood clot}} blocking a cerebral artery causes an {{c2::ischemic}} stroke, often due to atherosclerosis.",
+   "extra": "WakeUpMemory: \"I see a clot\" — I C = Ischemic = Clot."
+  },
+  {
+   "id": "spec-p208-008",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "Bleeding from a ruptured vessel causes a {{c1::hemorrhagic}} stroke.",
+   "extra": "WakeUpMemory: if it's not a clot, it's a POP — H = Hemorrhagic = Pop (the vessel bursts and bleeds into the brain)."
+  },
+  {
+   "id": "spec-p208-009",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "Stroke risk factors: high blood pressure, atherosclerosis, heart disease, smoking, diabetes, high cholesterol, and {{c1::age}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-010",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "Stroke signs: sudden numbness or weakness (often {{c1::one side}}), slurred speech, confusion, vision changes, or severe {{c2::headache}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-011",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "Each half of the brain controls the {{c1::opposite}} side of the body: a stroke in the left brain causes {{c2::right}}-side weakness.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-012",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "Stroke treatment: emergency {{c1::clot-busting drugs}} or surgery to restore blood flow; {{c2::rehab}} for movement or speech may follow.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-013",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "Post-stroke patients: short, stress-free appointments and {{c1::monitor blood pressure}}; avoid {{c2::epinephrine}} if stroke risk or uncontrolled hypertension is present.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-014",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "Stroke emergency: stop treatment, keep the patient upright and calm, call 911 and note the {{c1::exact time symptoms began}}.",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-015",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "text": "Stroke emergency: give nothing {{c1::by mouth}} (no medications, water, or food); {{c2::aspirin}} would be dangerous if it is a hemorrhagic stroke (could worsen bleeding).",
+   "extra": ""
+  }
+ ],
+ "basic": [
+  {
+   "id": "spec-p202-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "front": "What does <b>ASA</b> stand for (ASA physical status classification)?",
+   "back": "American Society of Anesthesiologists",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-b-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "front": "Pregnancy is not a disease — so why is a healthy pregnant patient classified ASA II?",
+   "back": "Because of potential complications.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-b-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "front": "Arteriosclerosis",
+   "back": "Arteries become stiff and lose flexibility, making it harder for blood to flow",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "spec-p202-b-04",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "front": "Atherosclerosis",
+   "back": "Fatty plaque builds up inside the arteries and narrows the space for blood to pass through",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "front": "First-pass metabolism",
+   "back": "When a drug that is swallowed is mostly destroyed by the liver before it can take effect (e.g., oral nitroglycerin)",
+   "reverse": true,
+   "extra": "That's why nitroglycerin is given sublingually."
+  },
+  {
+   "id": "spec-p204-b-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "front": "Heart attack vs cardiac arrest — what's the difference?",
+   "back": "A heart attack is a <b>circulation</b> problem (blocked blood flow); cardiac arrest is an <b>electrical</b> problem where the heart stops beating.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "spec-p206-b-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 206,
+   "front": "Pacemaker",
+   "back": "A small device placed under the skin (usually near the shoulder) that sends electrical signals to keep the heart beating at a regular rate",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "spec-p202-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "question": "History of MI or stroke: more than how many months ago makes it ASA III rather than ASA IV? (number)",
+   "answer": "3",
+   "extra": "History (&gt;3 months) of MI/stroke = ASA III; recent (&lt;3 months) = ASA IV."
+  },
+  {
+   "id": "spec-p204-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "question": "Maximum epinephrine in local anesthetic for a patient with angina or a history of MI? (mg)",
+   "answer": "0.04 mg",
+   "extra": "About two cartridges of 1:100,000 (book pp. 204, applies to angina and MI)."
+  },
+  {
+   "id": "spec-p204-t-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "question": "Angina emergency: nitroglycerin may be repeated every how many minutes? (number)",
+   "answer": "5",
+   "extra": "Up to 3 doses total."
+  },
+  {
+   "id": "spec-p204-t-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "question": "Angina emergency: maximum total number of nitroglycerin doses? (number)",
+   "answer": "3",
+   "extra": "One dose every 5 minutes."
+  },
+  {
+   "id": "spec-p204-t-04",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "question": "Angina/MI emergency: oxygen flow rate? (L/min)",
+   "answer": "4–6 L/min",
+   "extra": ""
+  },
+  {
+   "id": "spec-p204-t-05",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "question": "Per the book, do not treat a patient who had a heart attack within the past how many months without medical clearance? (number)",
+   "answer": "6",
+   "extra": "Book's rule. Note the ASA table (p.202) uses &lt;3 months = recent MI = ASA IV."
+  },
+  {
+   "id": "spec-p208-t-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Parkinson's disease",
+   "page": 208,
+   "question": "Parkinson's: schedule treatment how long after the medication dose, when it is most effective? (minutes)",
+   "answer": "60–90 minutes",
+   "extra": ""
+  },
+  {
+   "id": "spec-p208-t-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "question": "After a stroke, wait how many months before dental treatment unless physician clearance is given? (number)",
+   "answer": "6",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "spec-p203-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "prompt": "Match each antihypertensive drug class to how it lowers BP.",
+   "pairs": [
+    [
+     "Diuretics",
+     "Remove fluid"
+    ],
+    [
+     "Beta-blockers",
+     "Slow the heart rate"
+    ],
+    [
+     "ACE inhibitors / calcium channel blockers",
+     "Relax the vessels"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p204-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "prompt": "Match each anticoagulant/antiplatelet drug to its brand name.",
+   "pairs": [
+    [
+     "Clopidogrel",
+     "Plavix"
+    ],
+    [
+     "Warfarin",
+     "Coumadin"
+    ],
+    [
+     "Apixaban",
+     "Eliquis"
+    ],
+    [
+     "Rivaroxaban",
+     "Xarelto"
+    ]
+   ]
+  },
+  {
+   "id": "spec-p207-m-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "prompt": "Match each dementia to its hallmark.",
+   "pairs": [
+    [
+     "Alzheimer's",
+     "Amyloid plaques and tau tangles"
+    ],
+    [
+     "Vascular dementia",
+     "Step-like decline after strokes"
+    ],
+    [
+     "Lewy body dementia",
+     "Visual hallucinations, acting out dreams"
+    ],
+    [
+     "Frontotemporal dementia",
+     "Personality change first, under 65"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "spec-p202-o-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "prompt": "Put the AHA blood pressure categories in order, lowest to highest.",
+   "items": [
+    "Normal",
+    "Elevated",
+    "Hypertension Stage 1",
+    "Hypertension Stage 2",
+    "Hypertensive crisis"
+   ]
+  },
+  {
+   "id": "spec-p208-o-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "prompt": "Put the F.A.S.T. stroke signs in order.",
+   "items": [
+    "Face drooping",
+    "Arm weakness",
+    "Speech difficulty",
+    "Time to call 911"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "spec-p202-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "prompt": "Sort these patients by ASA class.",
+   "categories": [
+    [
+     "ASA II",
+     [
+      "Controlled hypertension",
+      "Healthy pregnancy",
+      "BMI 30–40",
+      "Smoker"
+     ]
+    ],
+    [
+     "ASA III",
+     [
+      "Poorly controlled diabetes",
+      "Stable angina",
+      "MI more than 3 months ago",
+      "Dialysis patient",
+      "Implanted pacemaker"
+     ]
+    ],
+    [
+     "ASA IV",
+     [
+      "Unstable angina",
+      "Stroke less than 3 months ago",
+      "Symptomatic CHF",
+      "Hepatorenal failure"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "spec-p205-s-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "prompt": "Sort the CHF signs by the side of the heart that failed.",
+   "categories": [
+    [
+     "Left-sided failure (lungs)",
+     [
+      "Shortness of breath",
+      "Coughing",
+      "Fluid in the lungs"
+     ]
+    ],
+    [
+     "Right-sided failure (rest of body)",
+     [
+      "Swollen legs",
+      "Swollen ankles",
+      "Fluid pooling in the feet"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "spec-p202-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "question": "A 58-year-old patient has controlled type 2 diabetes and controlled hypertension, and smokes 20 cigarettes per day. Which ASA class is most appropriate?",
+   "options": [
+    "A. ASA I",
+    "B. ASA II",
+    "C. ASA III",
+    "D. ASA IV"
+   ],
+   "answer": "C. ASA III",
+   "explanation": "Each condition alone is ASA II, but multiple mild conditions can bump the patient to ASA III (the book's own example). ASA IV would need a constant threat to life, such as a recent MI."
+  },
+  {
+   "id": "spec-p202-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ASA classification",
+   "page": 202,
+   "question": "A patient with well-controlled asthma had a myocardial infarction 6 weeks ago. What is the ASA classification?",
+   "options": [
+    "A. ASA II",
+    "B. ASA III",
+    "C. ASA IV",
+    "D. ASA V"
+   ],
+   "answer": "C. ASA IV",
+   "explanation": "Use the highest-risk condition: a recent (&lt;3 months) MI is ASA IV. The asthma alone would be ASA II; an MI more than 3 months ago would be ASA III."
+  },
+  {
+   "id": "spec-p202-mcq-03",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 202,
+   "question": "A patient's blood pressure is 128/84 mmHg. According to the AHA 2017 categories, this is:",
+   "options": [
+    "A. Normal",
+    "B. Elevated",
+    "C. Hypertension Stage 1",
+    "D. Hypertension Stage 2"
+   ],
+   "answer": "C. Hypertension Stage 1",
+   "explanation": "128 alone would be Elevated, but the diastolic 84 falls in Stage 1 (80–89). When the numbers fall in different categories, use the higher one."
+  },
+  {
+   "id": "spec-p203-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Hypertension",
+   "page": 203,
+   "question": "Before scaling, a patient's BP is 184/112 mmHg. Five minutes later it is 182/110 and the patient feels fine. What should the hygienist do?",
+   "options": [
+    "A. Proceed with routine care",
+    "B. Proceed, using a stress-reduction protocol",
+    "C. Stop elective care and refer for medical evaluation",
+    "D. Give nitroglycerin and continue"
+   ],
+   "answer": "C. Stop elective care and refer for medical evaluation",
+   "explanation": "≥180/≥110 (even once) = ASA IV: stop elective care, recheck in 5 minutes, and refer if still elevated. A stress-reduction protocol is for the 160–179/100–109 range."
+  },
+  {
+   "id": "spec-p204-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Angina pectoris",
+   "page": 204,
+   "question": "During scaling, a patient with a history of angina reports squeezing chest pain. Treatment is stopped and the patient is seated upright; BP is 132/84. What is the next step?",
+   "options": [
+    "A. Place the patient supine with legs raised",
+    "B. Give one sublingual nitroglycerin dose",
+    "C. Give a glucose source",
+    "D. Administer epinephrine"
+   ],
+   "answer": "B. Give one sublingual nitroglycerin dose",
+   "explanation": "Systolic is ≥90 mmHg, so give one nitroglycerin dose under the tongue (repeat every 5 min, max 3); call 911 if pain is not relieved after the first dose. Lying flat is not recommended — keep the patient upright or semi-reclined."
+  },
+  {
+   "id": "spec-p204-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Myocardial infarction",
+   "page": 204,
+   "question": "Which finding best distinguishes a myocardial infarction from an angina attack in the dental chair?",
+   "options": [
+    "A. Chest pain spreading to the jaw or arm",
+    "B. Chest pain not relieved by nitroglycerin",
+    "C. Pain beginning during exertion",
+    "D. History of high cholesterol"
+   ],
+   "answer": "B. Chest pain not relieved by nitroglycerin",
+   "explanation": "Angina pain is relieved by rest and nitroglycerin; if pain is not relieved after the first dose, suspect a true heart attack and call 911. Radiating pain occurs in both."
+  },
+  {
+   "id": "spec-p205-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Congestive heart failure",
+   "page": 205,
+   "question": "A patient with congestive heart failure arrives short of breath. Which modification is most appropriate?",
+   "options": [
+    "A. Supine position with ultrasonic scaling",
+    "B. Upright or semi-reclined position; avoid power scalers",
+    "C. Rubber dam for all procedures",
+    "D. Trendelenburg position to improve blood flow"
+   ],
+   "answer": "B. Upright or semi-reclined position; avoid power scalers",
+   "explanation": "Lying flat worsens fluid in the lungs; seat the patient upright/semi-reclined and avoid power scalers and rubber dams when breathing is severely difficult."
+  },
+  {
+   "id": "spec-p206-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Arrhythmias",
+   "page": 206,
+   "question": "A patient has a pacemaker, but its shielding status is unknown. Which instrument is the best choice for calculus removal?",
+   "options": [
+    "A. Older magnetostrictive ultrasonic scaler",
+    "B. Electrosurgery unit",
+    "C. Hand instruments (curets and scalers)",
+    "D. Any ultrasonic, with the cord over the device"
+   ],
+   "answer": "C. Hand instruments (curets and scalers)",
+   "explanation": "With unknown shielding, avoid equipment that generates electromagnetic interference (older ultrasonic scalers, electrosurgery). Even when shielding is confirmed, never place the cord over the device."
+  },
+  {
+   "id": "spec-p207-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "ADHD",
+   "page": 207,
+   "question": "A 10-year-old taking methylphenidate (Ritalin) for ADHD is most likely to present with which oral finding?",
+   "options": [
+    "A. Gingival hyperplasia",
+    "B. Xerostomia and bruxism wear",
+    "C. Black hairy tongue",
+    "D. Excess salivation"
+   ],
+   "answer": "B. Xerostomia and bruxism wear",
+   "explanation": "Stimulants activate the sympathetic nervous system, reducing saliva and increasing jaw tension (\"Adderall = Active but Dry\")."
+  },
+  {
+   "id": "spec-p207-mcq-02",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Alzheimer's disease and dementia",
+   "page": 207,
+   "question": "A 59-year-old patient's spouse reports he has recently started making inappropriate comments and seems apathetic, though his memory seems fine. Which dementia is most likely?",
+   "options": [
+    "A. Alzheimer's disease",
+    "B. Vascular dementia",
+    "C. Lewy body dementia",
+    "D. Frontotemporal dementia"
+   ],
+   "answer": "D. Frontotemporal dementia",
+   "explanation": "Frontotemporal dementia: personality/behavior change first with memory intact early, more common under 65. Alzheimer's starts with memory loss, usually over 65."
+  },
+  {
+   "id": "spec-p208-mcq-01",
+   "deck": "Special Needs & Medical Conditions",
+   "section": "Stroke (CVA)",
+   "page": 208,
+   "question": "During treatment, a patient suddenly develops slurred speech and drooping on the right side of the face. After calling 911, which action is CONTRAINDICATED?",
+   "options": [
+    "A. Noting the time symptoms began",
+    "B. Keeping the patient upright and calm",
+    "C. Giving a chewable aspirin",
+    "D. Monitoring vital signs"
+   ],
+   "answer": "C. Giving a chewable aspirin",
+   "explanation": "Give nothing by mouth to a suspected stroke patient: aspirin could worsen bleeding in a hemorrhagic stroke (unlike the angina/MI protocol, where aspirin helps)."
+  }
+ ]
+}

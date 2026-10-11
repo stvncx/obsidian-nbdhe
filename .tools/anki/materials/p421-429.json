@@ -1,0 +1,2046 @@
+{
+ "diagrams": [
+  {
+   "name": "mat-p421-base-liner",
+   "title": "Base and liner under a restoration",
+   "deck": "Dental Materials",
+   "pdf_page": 9,
+   "page": 421,
+   "crop": [
+    525,
+    140,
+    1230,
+    600
+   ],
+   "labels": [
+    {
+     "box": [
+      570,
+      200,
+      669,
+      235
+     ],
+     "answer": "Enamel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1095,
+      219,
+      1163,
+      254
+     ],
+     "answer": "Base",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1093,
+      376,
+      1166,
+      411
+     ],
+     "answer": "Liner",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      574,
+      451,
+      666,
+      486
+     ],
+     "answer": "Dentin",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "mat-p423-sealants",
+   "title": "Sealants",
+   "deck": "Dental Materials",
+   "pdf_page": 11,
+   "page": 423,
+   "crop": [
+    80,
+    185,
+    1230,
+    830
+   ],
+   "labels": [
+    {
+     "box": [
+      240,
+      257,
+      424,
+      292
+     ],
+     "answer": "Pits and fissures",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      603,
+      264,
+      695,
+      297
+     ],
+     "answer": "Etching",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      929,
+      264,
+      1014,
+      297
+     ],
+     "answer": "Curing",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      623,
+      471,
+      827,
+      508
+     ],
+     "answer": "Microscopic pores",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      369,
+      538,
+      575,
+      572
+     ],
+     "answer": "Sealant placement",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      740,
+      532,
+      868,
+      569
+     ],
+     "answer": "Final check",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "mat-p424-root-canal",
+   "title": "Endodontics (root canal)",
+   "deck": "Dental Materials",
+   "pdf_page": 12,
+   "page": 424,
+   "crop": [
+    180,
+    740,
+    1200,
+    1265
+   ],
+   "labels": [
+    {
+     "box": [
+      221,
+      843,
+      302,
+      875
+     ],
+     "answer": "Decay",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      208,
+      902,
+      313,
+      961
+     ],
+     "answer": "Infected pulp",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      185,
+      970,
+      282,
+      1003
+     ],
+     "answer": "Gingiva",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      203,
+      1030,
+      303,
+      1064
+     ],
+     "answer": "Abscess",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      449,
+      876,
+      534,
+      907
+     ],
+     "answer": "Dentin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      470,
+      916,
+      560,
+      942
+     ],
+     "answer": "Nerves",
+     "fit": "text"
+    },
+    {
+     "box": [
+      438,
+      943,
+      588,
+      970
+     ],
+     "answer": "Blood vessels",
+     "fit": "text"
+    },
+    {
+     "box": [
+      710,
+      844,
+      816,
+      878
+     ],
+     "answer": "Opening",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1034,
+      850,
+      1169,
+      908
+     ],
+     "answer": "Endodontic file",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      231,
+      1120,
+      321,
+      1179
+     ],
+     "answer": "Gutta percha",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      390,
+      1092,
+      487,
+      1126
+     ],
+     "answer": "Plugger",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      552,
+      1133,
+      615,
+      1167
+     ],
+     "answer": "Post",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      707,
+      1078,
+      785,
+      1112
+     ],
+     "answer": "Filling",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1049,
+      1105,
+      1134,
+      1139
+     ],
+     "answer": "Crown",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "mat-p425-implants",
+   "title": "Implant process and implant types",
+   "deck": "Dental Materials",
+   "pdf_page": 13,
+   "page": 425,
+   "crop": [
+    100,
+    520,
+    1230,
+    1125
+   ],
+   "labels": [
+    {
+     "box": [
+      405,
+      592,
+      482,
+      623
+     ],
+     "answer": "Screw",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      475,
+      718,
+      665,
+      792
+     ],
+     "answer": "Healing process of the bone (osseointegration)",
+     "fit": "text"
+    },
+    {
+     "box": [
+      818,
+      572,
+      912,
+      624
+     ],
+     "answer": "Dental abutment",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1038,
+      582,
+      1118,
+      612
+     ],
+     "answer": "Crown",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      255,
+      1062,
+      387,
+      1110
+     ],
+     "answer": "Endosteal (in the bone)",
+     "fit": "text"
+    },
+    {
+     "box": [
+      553,
+      1062,
+      697,
+      1110
+     ],
+     "answer": "Subperiosteal (on the bone)",
+     "fit": "text"
+    },
+    {
+     "box": [
+      884,
+      1062,
+      1078,
+      1110
+     ],
+     "answer": "Transosteal (through the bone)",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "mat-p421-001",
+   "deck": "Dental Materials",
+   "section": "Bases and liners",
+   "page": 421,
+   "text": "Bases {{c1::insulate}} and protect the tooth and act as a {{c2::substitute for the dentin}} removed during caries preparation."
+  },
+  {
+   "id": "mat-p421-002",
+   "deck": "Dental Materials",
+   "section": "Bases and liners",
+   "page": 421,
+   "text": "Bases provide {{c1::thermal and chemical}} protection and can also resist {{c2::condensation}} forces."
+  },
+  {
+   "id": "mat-p421-003",
+   "deck": "Dental Materials",
+   "section": "Bases and liners",
+   "page": 421,
+   "text": "Liners {{c1::seal dentinal tubules}} and protect against leakage of irritants present in the saliva and restorative materials."
+  },
+  {
+   "id": "mat-p421-004",
+   "deck": "Dental Materials",
+   "section": "Bases and liners",
+   "page": 421,
+   "text": "Unlike bases, liners cannot resist {{c1::compressive}} forces."
+  },
+  {
+   "id": "mat-p421-005",
+   "deck": "Dental Materials",
+   "section": "Zinc oxide-eugenol (ZOE)",
+   "page": 421,
+   "text": "Zinc oxide-eugenol (ZOE) combines zinc oxide powder with {{c1::eugenol}} liquid, also called {{c2::oil of cloves}}."
+  },
+  {
+   "id": "mat-p421-006",
+   "deck": "Dental Materials",
+   "section": "Zinc oxide-eugenol (ZOE)",
+   "page": 421,
+   "text": "ZOE is dispensed as {{c1::two separate pastes}}."
+  },
+  {
+   "id": "mat-p421-007",
+   "deck": "Dental Materials",
+   "section": "Zinc oxide-eugenol (ZOE)",
+   "page": 421,
+   "text": "ZOE can irritate tissues, and some patients are {{c1::allergic to oil of cloves}}."
+  },
+  {
+   "id": "mat-p421-008",
+   "deck": "Dental Materials",
+   "section": "Zinc oxide-eugenol (ZOE)",
+   "page": 421,
+   "text": "ZOE is used as a liner for its {{c1::obtundent (sedative)}} effect on the pulp, especially useful when deep cavity preparations may lead to post-treatment sensitivity."
+  },
+  {
+   "id": "mat-p421-009",
+   "deck": "Dental Materials",
+   "section": "Zinc oxide-eugenol (ZOE)",
+   "page": 421,
+   "text": "ZOE is also used as an {{c1::impression material}} during construction of {{c2::complete dentures}}."
+  },
+  {
+   "id": "mat-p421-010",
+   "deck": "Dental Materials",
+   "section": "Zinc oxide-eugenol (ZOE)",
+   "page": 421,
+   "text": "ZOE is used as a {{c1::temporary filling (intermediate restorative material)}} for a few days before placement of the final filling."
+  },
+  {
+   "id": "mat-p421-011",
+   "deck": "Dental Materials",
+   "section": "Zinc oxide-eugenol (ZOE)",
+   "page": 421,
+   "text": "The consistency of ZOE is described as {{c1::putty-like}}."
+  },
+  {
+   "id": "mat-p421-012",
+   "deck": "Dental Materials",
+   "section": "Zinc oxide-eugenol (ZOE)",
+   "page": 421,
+   "text": "ZOE provides {{c1::anesthetic}} and {{c2::antibacterial}} properties."
+  },
+  {
+   "id": "mat-p421-013",
+   "deck": "Dental Materials",
+   "section": "Zinc oxide-eugenol (ZOE)",
+   "page": 421,
+   "text": "ZOE {{c1::interferes with polymerization}} of composites — it prevents resin from setting.",
+   "extra": "So never place ZOE under a composite or resin cement."
+  },
+  {
+   "id": "mat-p421-014",
+   "deck": "Dental Materials",
+   "section": "Zinc phosphate",
+   "page": 421,
+   "text": "{{c1::Zinc phosphate}} is one of the oldest and most widely used cements — around since the 1800s.",
+   "extra": "Did you know: it was the go-to for crowns and bridges for over a century, even though it doesn't bond to teeth and can sting the pulp."
+  },
+  {
+   "id": "mat-p421-015",
+   "deck": "Dental Materials",
+   "section": "Zinc phosphate",
+   "page": 421,
+   "text": "Zinc phosphate cement = zinc oxide powder + {{c1::phosphoric acid}} liquid."
+  },
+  {
+   "id": "mat-p421-016",
+   "deck": "Dental Materials",
+   "section": "Zinc phosphate",
+   "page": 421,
+   "text": "Mixing zinc phosphate causes an {{c1::exothermic}} reaction, so a cool {{c2::glass slab}} is used to dissipate the heat."
+  },
+  {
+   "id": "mat-p421-017",
+   "deck": "Dental Materials",
+   "section": "Zinc phosphate",
+   "page": 421,
+   "text": "Zinc phosphate is bonded to the tooth through {{c1::mechanical interlocking}} (it does not bond chemically)."
+  },
+  {
+   "id": "mat-p421-018",
+   "deck": "Dental Materials",
+   "section": "Polycarboxylate (Durelon)",
+   "page": 421,
+   "text": "Polycarboxylate cement is mainly used for permanent cementation of {{c1::orthodontic bands and brackets}}."
+  },
+  {
+   "id": "mat-p421-019",
+   "deck": "Dental Materials",
+   "section": "Polycarboxylate (Durelon)",
+   "page": 421,
+   "text": "Polycarboxylate powder is primarily {{c1::zinc oxide}}, with smaller amounts of {{c2::magnesium oxide}} and {{c3::stannous fluoride}}."
+  },
+  {
+   "id": "mat-p421-020",
+   "deck": "Dental Materials",
+   "section": "Polycarboxylate (Durelon)",
+   "page": 421,
+   "text": "Polycarboxylate liquid is a thick {{c1::polyacrylic acid copolymer}} in water."
+  },
+  {
+   "id": "mat-p421-021",
+   "deck": "Dental Materials",
+   "section": "Polycarboxylate (Durelon)",
+   "page": 421,
+   "text": "For luting, polycarboxylate should {{c1::adhere to the spatula when raised an inch}}; as a base it should be {{c2::stickier}}."
+  },
+  {
+   "id": "mat-p421-022",
+   "deck": "Dental Materials",
+   "section": "Polycarboxylate (Durelon)",
+   "page": 421,
+   "text": "Polycarboxylate must be applied before it develops a {{c1::dull and/or sinewy}} appearance."
+  },
+  {
+   "id": "mat-p421-023",
+   "deck": "Dental Materials",
+   "section": "Polycarboxylate (Durelon)",
+   "page": 421,
+   "text": "Polycarboxylate is useful under composites because it {{c1::does not interfere with polymerization}}, and its setting reaction does not {{c2::release heat}}."
+  },
+  {
+   "id": "mat-p421-024",
+   "deck": "Dental Materials",
+   "section": "Glass ionomer (Ketac-Cem)",
+   "page": 421,
+   "text": "Glass ionomer cement binds to {{c1::dentin}} and releases {{c2::fluoride}}."
+  },
+  {
+   "id": "mat-p421-025",
+   "deck": "Dental Materials",
+   "section": "Glass ionomer (Ketac-Cem)",
+   "page": 421,
+   "text": "Glass ionomer is commonly used in {{c1::Class V}} restorations because of its fluoride-releasing ability."
+  },
+  {
+   "id": "mat-p421-026",
+   "deck": "Dental Materials",
+   "section": "Glass ionomer (Ketac-Cem)",
+   "page": 421,
+   "text": "Glass ionomer's {{c1::coefficient of thermal expansion}} is similar to that of the natural tooth."
+  },
+  {
+   "id": "mat-p421-027",
+   "deck": "Dental Materials",
+   "section": "Glass ionomer (Ketac-Cem)",
+   "page": 421,
+   "text": "For luting orthodontic work, glass ionomer should be {{c1::creamy and glossy}}; as a base, it should be {{c2::stickier}}."
+  },
+  {
+   "id": "mat-p421-028",
+   "deck": "Dental Materials",
+   "section": "Resin cement",
+   "page": 421,
+   "text": "Resin cements are mostly {{c1::BIS-GMA (bisphenol A-glycidyl methacrylate)}} and other dimethacrylate monomers; the filler is {{c2::silica}}."
+  },
+  {
+   "id": "mat-p421-029",
+   "deck": "Dental Materials",
+   "section": "Resin cement",
+   "page": 421,
+   "text": "Resin is commonly used as a {{c1::cement}} to retain restorations."
+  },
+  {
+   "id": "mat-p421-030",
+   "deck": "Dental Materials",
+   "section": "Resin cement",
+   "page": 421,
+   "text": "Before a resin cement, an {{c1::etchant or silane coupling agent}} must be applied to the tooth to achieve mechanical or chemical bonding."
+  },
+  {
+   "id": "mat-p421-031",
+   "deck": "Dental Materials",
+   "section": "Resin cement",
+   "page": 421,
+   "text": "Besides cements, resins are used in dental {{c1::sealants}} and fluoride {{c2::varnishes}}."
+  },
+  {
+   "id": "mat-p422-001",
+   "deck": "Dental Materials",
+   "section": "Calcium hydroxide (Dycal)",
+   "page": 422,
+   "text": "Calcium hydroxide is used as a liner or base, and also as a {{c1::root canal filling material}}."
+  },
+  {
+   "id": "mat-p422-002",
+   "deck": "Dental Materials",
+   "section": "Calcium hydroxide (Dycal)",
+   "page": 422,
+   "text": "Calcium hydroxide (Dycal) is a {{c1::two-paste}} system dispensed at {{c2::equal lengths}}."
+  },
+  {
+   "id": "mat-p422-003",
+   "deck": "Dental Materials",
+   "section": "Calcium hydroxide (Dycal)",
+   "page": 422,
+   "text": "Calcium hydroxide can stimulate the production of {{c1::reparative dentin}}."
+  },
+  {
+   "id": "mat-p422-004",
+   "deck": "Dental Materials",
+   "section": "Varnish (Copalite)",
+   "page": 422,
+   "text": "Cavity varnish is a liner applied under {{c1::gold/amalgam}} restorations."
+  },
+  {
+   "id": "mat-p422-005",
+   "deck": "Dental Materials",
+   "section": "Varnish (Copalite)",
+   "page": 422,
+   "text": "Cavity varnish numbs pain, blocks penetration of chemicals, and {{c1::seals dentinal tubules}} to prevent transfer of {{c2::heat/cold}}."
+  },
+  {
+   "id": "mat-p422-006",
+   "deck": "Dental Materials",
+   "section": "Conditioning (etching)",
+   "page": 422,
+   "text": "Conditioning (etching) removes the {{c1::smear layer}} and creates {{c2::microscopic pores}} that allow resin materials to flow in and bond mechanically."
+  },
+  {
+   "id": "mat-p422-007",
+   "deck": "Dental Materials",
+   "section": "Conditioning (etching)",
+   "page": 422,
+   "text": "Etching time: enamel {{c1::15–30}} seconds; dentin {{c2::10–15}} seconds."
+  },
+  {
+   "id": "mat-p422-008",
+   "deck": "Dental Materials",
+   "section": "Conditioning (etching)",
+   "page": 422,
+   "text": "Primary teeth often require {{c1::longer}} etching times (up to {{c2::30–60}} seconds) due to their more mineralized outer enamel layer."
+  },
+  {
+   "id": "mat-p422-009",
+   "deck": "Dental Materials",
+   "section": "Finishing",
+   "page": 422,
+   "text": "Finishing removes excess material and produces {{c1::smooth}} surfaces, which decrease {{c2::plaque accumulation}} and tissue irritation."
+  },
+  {
+   "id": "mat-p422-010",
+   "deck": "Dental Materials",
+   "section": "Finishing",
+   "page": 422,
+   "text": "{{c1::Margination (recontouring)}} removes excess restorative material with knives, files, strips, finishing burs, stones, discs, etc."
+  },
+  {
+   "id": "mat-p422-011",
+   "deck": "Dental Materials",
+   "section": "Finishing",
+   "page": 422,
+   "text": "{{c1::Ultrasonic scalers}} are best for removing overhangs."
+  },
+  {
+   "id": "mat-p422-012",
+   "deck": "Dental Materials",
+   "section": "Finishing",
+   "page": 422,
+   "text": "Margination does NOT correct an {{c1::open margin}}."
+  },
+  {
+   "id": "mat-p422-013",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "text": "Polishing follows finishing and creates a smooth, {{c1::glossy}} finish that decreases plaque accumulation."
+  },
+  {
+   "id": "mat-p422-014",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "text": "{{c1::Tarnish}} is discoloration due to {{c2::oxidation}} of the surface material; polishing can remove it and reproduce a smooth surface."
+  },
+  {
+   "id": "mat-p422-015",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "text": "{{c1::Amalgams}} are susceptible to tarnishing; {{c2::gold}} is not."
+  },
+  {
+   "id": "mat-p422-016",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "text": "Use {{c1::selective polishing}} to preserve tooth structure when possible.",
+   "extra": "Board Alert: if you see the words \"selective polishing\", that is always the answer."
+  },
+  {
+   "id": "mat-p422-017",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "text": "{{c1::Larger, harder}} grits are more abrasive; more {{c2::pressure}} and more {{c3::speed}} are also more abrasive and create heat."
+  },
+  {
+   "id": "mat-p422-018",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "text": "Use {{c1::lubrication}} when polishing to prevent overheating."
+  },
+  {
+   "id": "mat-p422-019",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "text": "Total enamel thickness is about {{c1::2,000–2,500}} microns.",
+   "extra": "Medium-grit paste removes up to 4 microns in 30 s — small, but it adds up with repeated polishing."
+  },
+  {
+   "id": "mat-p422-020",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "text": "{{c1::Pumice}} is available in fine/medium/coarse grit and is not suitable for most restorations."
+  },
+  {
+   "id": "mat-p422-021",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "text": "{{c1::Tin oxide}} is a white powder used for polishing teeth and metallic restorations."
+  },
+  {
+   "id": "mat-p422-022",
+   "deck": "Dental Materials",
+   "section": "Air polishing powders",
+   "page": 422,
+   "text": "{{c1::Sodium bicarbonate}} is the most common air-polishing powder; it removes heavy stains from enamel."
+  },
+  {
+   "id": "mat-p422-023",
+   "deck": "Dental Materials",
+   "section": "Air polishing powders",
+   "page": 422,
+   "text": "Sodium bicarbonate air polishing is NOT safe for {{c1::composites}}, {{c2::cements}}, or {{c3::exposed roots}}."
+  },
+  {
+   "id": "mat-p422-024",
+   "deck": "Dental Materials",
+   "section": "Air polishing powders",
+   "page": 422,
+   "text": "{{c1::Aluminum trihydroxide}} is the sodium-free air-polishing powder for enamel, used in {{c2::salt-restricted}} patients; it is not safe for esthetic restorations."
+  },
+  {
+   "id": "mat-p422-025",
+   "deck": "Dental Materials",
+   "section": "Air polishing powders",
+   "page": 422,
+   "text": "{{c1::Glycine}} air-polishing powder is very gentle; safe for subgingival use, root surfaces and implants; used in periodontal maintenance care."
+  },
+  {
+   "id": "mat-p422-026",
+   "deck": "Dental Materials",
+   "section": "Air polishing powders",
+   "page": 422,
+   "text": "{{c1::Erythritol}} has the smallest particle size — even gentler than glycine; ideal for biofilm control in deep pockets and around implants."
+  },
+  {
+   "id": "mat-p422-027",
+   "deck": "Dental Materials",
+   "section": "Air polishing powders",
+   "page": 422,
+   "text": "{{c1::Calcium carbonate}} is moderately abrasive, found in some prophy pastes and air-polishing powders; used for stain removal when mild grit is preferred."
+  },
+  {
+   "id": "mat-p423-001",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "Sealants are {{c1::physical barriers}} (resin) that prevent bacteria from collecting in the {{c2::pits and fissures}} of occlusal, facial and lingual surfaces."
+  },
+  {
+   "id": "mat-p423-002",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "Deep occlusal pits and fissures are most prevalent on the {{c1::first and second permanent molars}}; seal them soon after {{c2::eruption}}."
+  },
+  {
+   "id": "mat-p423-003",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "{{c1::Primary}} teeth are less retentive for sealants than permanent teeth."
+  },
+  {
+   "id": "mat-p423-004",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "Sealants are contraindicated for {{c1::open occlusal lesions}} or {{c2::caries on proximal surfaces}}."
+  },
+  {
+   "id": "mat-p423-005",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "Sealants are {{c1::resin}}-based materials; some sealant materials provide {{c2::fluoride}}."
+  },
+  {
+   "id": "mat-p423-006",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "Sealant retention is {{c1::mechanical}}, through the pores created by the etching process."
+  },
+  {
+   "id": "mat-p423-007",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "{{c1::Saliva contamination}} is the most common reason for sealant failure."
+  },
+  {
+   "id": "mat-p423-008",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "Sealants can be {{c1::self-cured}} or {{c2::light-cured}}."
+  },
+  {
+   "id": "mat-p423-009",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "When etching for a sealant, apply phosphoric acid until the area looks {{c1::chalky and white}}."
+  },
+  {
+   "id": "mat-p423-010",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "After sealant placement check high spots with {{c1::articulating paper}}, the interproximal space by {{c2::flossing the contact}}, and retention with an {{c3::explorer}}."
+  },
+  {
+   "id": "mat-p423-011",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "text": "Most traditional sealants are {{c1::hydrophobic}} and fail with even a tiny bit of saliva; {{c2::moisture-tolerant}} sealants are useful for children and third molars."
+  },
+  {
+   "id": "mat-p423-012",
+   "deck": "Dental Materials",
+   "section": "Topical fluoride",
+   "page": 423,
+   "text": "Topical fluoride strengthens enamel through {{c1::remineralization}}, inhibits {{c2::acid production}} by plaque bacteria, and slows and reverses early decay."
+  },
+  {
+   "id": "mat-p423-013",
+   "deck": "Dental Materials",
+   "section": "Topical fluoride",
+   "page": 423,
+   "text": "{{c1::Acidulated phosphate fluoride (APF)}} should not be used on composites, porcelain or glass ionomer restorations — it can {{c2::etch or dull}} the surface.",
+   "extra": "Applies to APF foam/gel in trays too."
+  },
+  {
+   "id": "mat-p423-014",
+   "deck": "Dental Materials",
+   "section": "Topical fluoride",
+   "page": 423,
+   "text": "{{c1::Neutral sodium fluoride (NaF)}} varnish is safe for all surfaces and restorations."
+  },
+  {
+   "id": "mat-p423-015",
+   "deck": "Dental Materials",
+   "section": "Topical fluoride",
+   "page": 423,
+   "text": "Fluoride toothpaste: apply a {{c1::smear}} for children under 3 and a {{c2::pea-size}} amount for ages 3–6.",
+   "extra": "High-fluoride prescription pastes are available for high-risk patients."
+  },
+  {
+   "id": "mat-p423-016",
+   "deck": "Dental Materials",
+   "section": "Topical fluoride",
+   "page": 423,
+   "text": "Fluoride rinse (daily or weekly) is not recommended for children under {{c1::6}} due to the risk of {{c2::swallowing}}."
+  },
+  {
+   "id": "mat-p423-017",
+   "deck": "Dental Materials",
+   "section": "Topical fluoride",
+   "page": 423,
+   "text": "After professionally applied fluoride varnish, the patient avoids brushing and eating hard foods for {{c1::4–6 hours}}.",
+   "extra": "Varnish is highly concentrated; ideal for children, elderly and high-risk patients."
+  },
+  {
+   "id": "mat-p423-018",
+   "deck": "Dental Materials",
+   "section": "Topical fluoride",
+   "page": 423,
+   "text": "In-office fluoride foam or gel is applied in {{c1::trays}}."
+  },
+  {
+   "id": "mat-p423-019",
+   "deck": "Dental Materials",
+   "section": "Nano-hydroxyapatite (n-HAp)",
+   "page": 423,
+   "text": "Nano-hydroxyapatite (n-HAp) is a synthetic form of {{c1::hydroxyapatite}}, the main mineral in enamel and dentin."
+  },
+  {
+   "id": "mat-p423-020",
+   "deck": "Dental Materials",
+   "section": "Nano-hydroxyapatite (n-HAp)",
+   "page": 423,
+   "text": "n-HAp is used in toothpastes to promote {{c1::enamel remineralization}} and reduce {{c2::dentinal hypersensitivity}}."
+  },
+  {
+   "id": "mat-p423-021",
+   "deck": "Dental Materials",
+   "section": "Nano-hydroxyapatite (n-HAp)",
+   "page": 423,
+   "text": "A 2021 systematic review found toothpastes with {{c1::10%}} n-HAp had remineralization effects comparable to {{c2::1,000 ppm}} fluoride (OTC dose) in early carious lesions.",
+   "extra": "Catch: most commercial n-HAp products contain only 1–5%."
+  },
+  {
+   "id": "mat-p424-001",
+   "deck": "Dental Materials",
+   "section": "Nano-hydroxyapatite (n-HAp)",
+   "page": 424,
+   "text": "n-HAp particles are small enough to enter {{c1::enamel micro-defects}} and help rebuild lost minerals."
+  },
+  {
+   "id": "mat-p424-002",
+   "deck": "Dental Materials",
+   "section": "Nano-hydroxyapatite (n-HAp)",
+   "page": 424,
+   "text": "n-HAp is often used as a {{c1::fluoride alternative}} or complement in caries prevention."
+  },
+  {
+   "id": "mat-p424-003",
+   "deck": "Dental Materials",
+   "section": "Nano-hydroxyapatite (n-HAp)",
+   "page": 424,
+   "text": "n-HAp does not stain, is {{c1::non-toxic}}, and is well tolerated by all ages."
+  },
+  {
+   "id": "mat-p424-004",
+   "deck": "Dental Materials",
+   "section": "Nano-hydroxyapatite (n-HAp)",
+   "page": 424,
+   "text": "n-HAp is popular in {{c1::Japan}} and Europe and is now found in more OTC products worldwide."
+  },
+  {
+   "id": "mat-p424-005",
+   "deck": "Dental Materials",
+   "section": "Silver diamine fluoride (SDF)",
+   "page": 424,
+   "text": "SDF contains {{c1::silver}}, which kills bacteria, and {{c2::fluoride}}, which strengthens tooth structure."
+  },
+  {
+   "id": "mat-p424-006",
+   "deck": "Dental Materials",
+   "section": "Silver diamine fluoride (SDF)",
+   "page": 424,
+   "text": "SDF is used to {{c1::arrest active dental caries}} in children, elderly patients, or those who can't tolerate restorative treatment."
+  },
+  {
+   "id": "mat-p424-007",
+   "deck": "Dental Materials",
+   "section": "Silver diamine fluoride (SDF)",
+   "page": 424,
+   "text": "SDF is applied topically, especially to {{c1::cavitated lesions without pulp exposure}}."
+  },
+  {
+   "id": "mat-p424-008",
+   "deck": "Dental Materials",
+   "section": "Silver diamine fluoride (SDF)",
+   "page": 424,
+   "text": "Advantages of SDF: {{c1::non-invasive and painless}}, fast and inexpensive."
+  },
+  {
+   "id": "mat-p424-009",
+   "deck": "Dental Materials",
+   "section": "Silver diamine fluoride (SDF)",
+   "page": 424,
+   "text": "Main drawback of SDF: it {{c1::permanently stains the carious lesion black}} — an esthetic concern, especially on anterior teeth."
+  },
+  {
+   "id": "mat-p424-010",
+   "deck": "Dental Materials",
+   "section": "Silver diamine fluoride (SDF)",
+   "page": 424,
+   "text": "SDF does NOT permanently stain {{c1::healthy enamel}} or soft tissue."
+  },
+  {
+   "id": "mat-p424-011",
+   "deck": "Dental Materials",
+   "section": "Silver diamine fluoride (SDF)",
+   "page": 424,
+   "text": "Some products include {{c1::potassium iodide (KI)}}, applied after SDF to reduce staining."
+  },
+  {
+   "id": "mat-p424-012",
+   "deck": "Dental Materials",
+   "section": "Endodontic therapy",
+   "page": 424,
+   "text": "In endodontic therapy the pulp is removed, cleaned, then filled with {{c1::gutta-percha}}, which has a {{c2::white/pink}} appearance."
+  },
+  {
+   "id": "mat-p424-013",
+   "deck": "Dental Materials",
+   "section": "Endodontic therapy",
+   "page": 424,
+   "text": "Use a {{c1::rubber dam}} for isolation during endodontic therapy (also useful when placing restorations)."
+  },
+  {
+   "id": "mat-p424-014",
+   "deck": "Dental Materials",
+   "section": "Endodontic therapy",
+   "page": 424,
+   "text": "A rubber dam should NOT be used for patients with severe {{c1::breathing}} problems, {{c2::psychological}} problems, and/or {{c3::partially erupted teeth}} (the clamp will not fit)."
+  },
+  {
+   "id": "mat-p424-015",
+   "deck": "Dental Materials",
+   "section": "Periodontal dressing",
+   "page": 424,
+   "text": "A periodontal dressing (periodontal {{c1::pack}}) is a bandage that provides comfort, maintains {{c2::blood clotting}}, inhibits {{c3::food impaction}}, and protects the wound."
+  },
+  {
+   "id": "mat-p424-016",
+   "deck": "Dental Materials",
+   "section": "Periodontal dressing",
+   "page": 424,
+   "text": "The periodontal dressing itself does NOT have any {{c1::wound-healing}} properties."
+  },
+  {
+   "id": "mat-p424-017",
+   "deck": "Dental Materials",
+   "section": "Periodontal dressing",
+   "page": 424,
+   "text": "Some periodontal dressings contain {{c1::eugenol}} for its obtundent (soothing) effect, but it may irritate the tissue."
+  },
+  {
+   "id": "mat-p424-018",
+   "deck": "Dental Materials",
+   "section": "Periodontal dressing",
+   "page": 424,
+   "text": "A periodontal dressing must not be higher than the {{c1::height of contour}} or near the occlusal surface; smooth it while still soft."
+  },
+  {
+   "id": "mat-p424-019",
+   "deck": "Dental Materials",
+   "section": "Periodontal dressing",
+   "page": 424,
+   "text": "Push the periodontal dressing into the {{c1::interdental areas}} for better retention; it should harden within hours."
+  },
+  {
+   "id": "mat-p424-020",
+   "deck": "Dental Materials",
+   "section": "Periodontal dressing",
+   "page": 424,
+   "text": "After dressing removal, use {{c1::Charter's}} method of toothbrushing (bristles directed toward the occlusal surface, not the gingiva) if needed."
+  },
+  {
+   "id": "mat-p425-001",
+   "deck": "Dental Materials",
+   "section": "Bone replacement",
+   "page": 425,
+   "text": "A bone graft may be indicated to correct bony {{c1::defects}} and for the placement of {{c2::implants}}."
+  },
+  {
+   "id": "mat-p425-002",
+   "deck": "Dental Materials",
+   "section": "Implants",
+   "page": 425,
+   "text": "A dental implant is an artificial {{c1::tooth root}} placed into the jaw to hold a replacement tooth or bridge.",
+   "extra": "An option for people who lost teeth to periodontal disease, injury or another reason."
+  },
+  {
+   "id": "mat-p425-003",
+   "deck": "Dental Materials",
+   "section": "Implants",
+   "page": 425,
+   "text": "{{c1::Endosteal}} implants — screws, cylinders or blades surgically placed into the jawbone — are the {{c2::most commonly used}} type; the screw works as the root."
+  },
+  {
+   "id": "mat-p425-004",
+   "deck": "Dental Materials",
+   "section": "Implants",
+   "page": 425,
+   "text": "{{c1::Subperiosteal}} implants sit on top of the jaw with a metal framework whose posts protrude through the gum; used for patients who cannot wear conventional dentures and have {{c2::minimal bone height}}."
+  },
+  {
+   "id": "mat-p425-005",
+   "deck": "Dental Materials",
+   "section": "Implants",
+   "page": 425,
+   "text": "{{c1::Transosteal}} implants: a metal plate and posts placed through the entire mandible, from under the chin into the mouth; used only in the {{c2::lower jaw}} and rarely today."
+  },
+  {
+   "id": "mat-p425-006",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 425,
+   "text": "External tooth whitening (bleaching) can lighten {{c1::extrinsic}} stains."
+  },
+  {
+   "id": "mat-p425-007",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 425,
+   "text": "{{c1::Internal}} whitening is done by placing the agent inside an endodontically treated tooth."
+  },
+  {
+   "id": "mat-p425-008",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 425,
+   "text": "{{c1::Yellow}} teeth have better whitening results than {{c2::gray}} teeth."
+  },
+  {
+   "id": "mat-p425-009",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 425,
+   "text": "In-office whitening uses {{c1::30–40%}} hydrogen peroxide."
+  },
+  {
+   "id": "mat-p425-010",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 425,
+   "text": "In-office whitening gel is placed on the enamel about {{c1::2 mm}} thick; gingival tissues are protected with {{c2::petroleum jelly}} or other protective substances."
+  },
+  {
+   "id": "mat-p425-011",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 425,
+   "text": "In-office whitening lights enhance hydrogen peroxide by {{c1::speeding up the chemical reaction}}; common sources are LED, halogen, plasma arc, or laser."
+  },
+  {
+   "id": "mat-p426-001",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 426,
+   "text": "In-home whitening uses {{c1::10–22%}} carbamide peroxide, which equals about {{c2::3–7%}} hydrogen peroxide."
+  },
+  {
+   "id": "mat-p426-002",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 426,
+   "text": "Carbamide peroxide breaks down into {{c1::hydrogen peroxide}} and {{c2::urea}}."
+  },
+  {
+   "id": "mat-p426-003",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 426,
+   "text": "For in-home whitening, trays are {{c1::fabricated in office}} and loaded at home."
+  },
+  {
+   "id": "mat-p426-004",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 426,
+   "text": "Whitening strips contain about {{c1::5%}} hydrogen peroxide (OTC) or up to {{c2::14%}} for professional versions."
+  },
+  {
+   "id": "mat-p426-005",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 426,
+   "text": "In-home whitening works over longer periods, e.g. {{c1::overnight}} or 1–2 hours daily."
+  },
+  {
+   "id": "mat-p426-006",
+   "deck": "Dental Materials",
+   "section": "Dentinal hypersensitivity",
+   "page": 426,
+   "text": "Desensitizing toothpaste is recommended {{c1::before and after}} whitening procedures."
+  },
+  {
+   "id": "mat-p426-007",
+   "deck": "Dental Materials",
+   "section": "Dentinal hypersensitivity",
+   "page": 426,
+   "text": "Active ingredients of desensitizing toothpaste: {{c1::potassium nitrate}}, sodium citrate, and {{c2::strontium chloride}}."
+  },
+  {
+   "id": "mat-p426-008",
+   "deck": "Dental Materials",
+   "section": "Dentinal hypersensitivity",
+   "page": 426,
+   "text": "{{c1::Fluoride varnishes}} are also effective desensitizers."
+  },
+  {
+   "id": "mat-p426-009",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "text": "{{c1::Metals}} (amalgam, gold, PFM, endodontic posts, retention pins) appear radiopaque."
+  },
+  {
+   "id": "mat-p426-010",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "text": "Cements, liners, bases, sealants and gutta-percha appear {{c1::partially (slightly) radiopaque}}."
+  },
+  {
+   "id": "mat-p426-011",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "text": "{{c1::Porcelain}} has a radiopacity similar to enamel."
+  },
+  {
+   "id": "mat-p426-012",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "text": "A PFM crown shows a solid radiopaque {{c1::metal}} center and a slightly less radiopaque {{c2::porcelain}} lining."
+  },
+  {
+   "id": "mat-p426-013",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "text": "Composites vary radiographically: earlier composites lacked metals, but newer composites add {{c1::barium}} and {{c2::strontium}}, so they appear more radiopaque."
+  },
+  {
+   "id": "mat-p426-014",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "text": "Amalgam is completely radiopaque because X-rays {{c1::cannot penetrate metal}}."
+  },
+  {
+   "id": "mat-p426-015",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "text": "Gold is completely radiopaque, whether in a {{c1::crown, inlay, or onlay}}."
+  },
+  {
+   "id": "mat-p426-016",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "text": "Retention pins, posts and pivots appear radiopaque; they {{c1::stabilize and retain}} the restoration and crown in place."
+  },
+  {
+   "id": "mat-p426-017",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "text": "On a radiograph, base material is {{c1::slightly radiopaque}}; it is used to protect the pulp."
+  },
+  {
+   "id": "mat-p427-001",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 427,
+   "text": "On a radiograph, gutta-percha is {{c1::slightly radiopaque}}; it fills the tooth canals."
+  },
+  {
+   "id": "mat-p427-002",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 427,
+   "text": "{{c1::Silver points}} are obsolete metal endodontic filling materials that appear radiopaque; they were replaced due to {{c2::corrosion}} and poor sealing."
+  },
+  {
+   "id": "mat-p427-003",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 427,
+   "text": "Composite is radiopaque, but its opacity density varies with the material's {{c1::composition}}."
+  },
+  {
+   "id": "mat-p427-004",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 427,
+   "text": "Orthodontic appliances appear {{c1::radiopaque}} on radiographs."
+  },
+  {
+   "id": "mat-p427-005",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 427,
+   "text": "Implants appear radiopaque and resemble a {{c1::screw}}; {{c2::metal}} implants are more radiopaque than {{c3::ceramic}} ones."
+  }
+ ],
+ "basic": [
+  {
+   "id": "mat-p422-b-01",
+   "deck": "Dental Materials",
+   "section": "Conditioning (etching)",
+   "page": 422,
+   "front": "Micromechanical retention",
+   "back": "Resin flows into the microscopic pores created by etching and bonds mechanically to the tooth surface",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "mat-p422-b-02",
+   "deck": "Dental Materials",
+   "section": "Conditioning (etching)",
+   "page": 422,
+   "front": "After etching, why rinse thoroughly but keep dentin slightly moist?",
+   "back": "To prevent collapse of the collagen network in the dentin.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "mat-p422-b-03",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "front": "Abrasion",
+   "back": "Loss of tooth structure by mechanical forces (e.g., caused by polishing)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "mat-p423-b-01",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "front": "Saliva contaminates the etched enamel during sealant placement. What do you do?",
+   "back": "Re-etch the tooth for a shorter amount of time.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "mat-p424-b-01",
+   "deck": "Dental Materials",
+   "section": "Endodontic therapy",
+   "page": 424,
+   "front": "Why do teeth tend to be brittle after endodontic therapy?",
+   "back": "Loss of blood supply to the tooth.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "mat-p425-b-01",
+   "deck": "Dental Materials",
+   "section": "Bone replacement",
+   "page": 425,
+   "front": "Autograft",
+   "back": "Bone graft from the patient's own body",
+   "reverse": true,
+   "extra": "WakeUpMemory: Greek autos = self."
+  },
+  {
+   "id": "mat-p425-b-02",
+   "deck": "Dental Materials",
+   "section": "Bone replacement",
+   "page": 425,
+   "front": "Allograft",
+   "back": "Bone graft from the same species, usually cadavers",
+   "reverse": true,
+   "extra": "WakeUpMemory: Greek allos = other — from another human."
+  },
+  {
+   "id": "mat-p425-b-03",
+   "deck": "Dental Materials",
+   "section": "Bone replacement",
+   "page": 425,
+   "front": "Xenograft",
+   "back": "Bone graft from a different species, usually cows (bovine)",
+   "reverse": true,
+   "extra": "WakeUpMemory: Greek xenos = foreign."
+  },
+  {
+   "id": "mat-p425-b-04",
+   "deck": "Dental Materials",
+   "section": "Bone replacement",
+   "page": 425,
+   "front": "Synthetic bone graft",
+   "back": "Bone graft made in laboratories",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "mat-p426-b-01",
+   "deck": "Dental Materials",
+   "section": "Dentinal hypersensitivity",
+   "page": 426,
+   "front": "Why can whitening cause temporary dentinal hypersensitivity?",
+   "back": "Peroxide passes through the enamel into the dentin; through the dentinal tubules it reaches and irritates the nerve inside the tooth (a quick, sharp zing).",
+   "reverse": false,
+   "extra": "Gingival irritation may also occur."
+  }
+ ],
+ "typein": [
+  {
+   "id": "mat-p421-t-01",
+   "deck": "Dental Materials",
+   "section": "Bases and liners",
+   "page": 421,
+   "question": "A liner is applied as a thin coating on the surface of the cavity preparation. Usual thickness? (mm)",
+   "answer": "0.5",
+   "extra": "Liners are thin; bases are thicker and substitute for dentin."
+  },
+  {
+   "id": "mat-p421-t-02",
+   "deck": "Dental Materials",
+   "section": "Zinc phosphate",
+   "page": 421,
+   "question": "Zinc phosphate hardens within how many minutes? (number)",
+   "answer": "5",
+   "extra": ""
+  },
+  {
+   "id": "mat-p421-t-03",
+   "deck": "Dental Materials",
+   "section": "Polycarboxylate (Durelon)",
+   "page": 421,
+   "question": "Polycarboxylate cement should be applied within how many minutes of mixing? (number)",
+   "answer": "3",
+   "extra": ""
+  },
+  {
+   "id": "mat-p422-t-01",
+   "deck": "Dental Materials",
+   "section": "Conditioning (etching)",
+   "page": 422,
+   "question": "Etchant is commonly what percentage phosphoric acid? (%)",
+   "answer": "37%",
+   "extra": ""
+  },
+  {
+   "id": "mat-p422-t-02",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "question": "Polishing a restoration is usually performed how many hours after placement? (number)",
+   "answer": "24",
+   "extra": ""
+  },
+  {
+   "id": "mat-p422-t-03",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "question": "Polishing with medium-grit paste can remove up to how many microns of enamel in 30 seconds? (number)",
+   "answer": "4",
+   "extra": "Small compared with total enamel thickness, but repeated polishing causes unnecessary wear — hence selective polishing."
+  },
+  {
+   "id": "mat-p424-t-01",
+   "deck": "Dental Materials",
+   "section": "Periodontal dressing",
+   "page": 424,
+   "question": "A periodontal dressing is removed after how many days? (range)",
+   "answer": "5–7",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "mat-p421-m-01",
+   "deck": "Dental Materials",
+   "section": "Cements, liners and bases",
+   "page": 421,
+   "prompt": "Match each material to its brand name.",
+   "pairs": [
+    [
+     "Polycarboxylate",
+     "Durelon"
+    ],
+    [
+     "Glass ionomer",
+     "Ketac-Cem"
+    ],
+    [
+     "Calcium hydroxide",
+     "Dycal"
+    ],
+    [
+     "Cavity varnish",
+     "Copalite"
+    ]
+   ]
+  },
+  {
+   "id": "mat-p422-m-01",
+   "deck": "Dental Materials",
+   "section": "Air polishing powders",
+   "page": 422,
+   "prompt": "Match each air-polishing powder to its key feature.",
+   "pairs": [
+    [
+     "Sodium bicarbonate",
+     "Most common; heavy enamel stains"
+    ],
+    [
+     "Aluminum trihydroxide",
+     "Sodium-free; salt-restricted patients"
+    ],
+    [
+     "Glycine",
+     "Very gentle; subgingival, roots, implants"
+    ],
+    [
+     "Erythritol",
+     "Smallest particle; gentler than glycine"
+    ],
+    [
+     "Calcium carbonate",
+     "Moderately abrasive; also in prophy pastes"
+    ]
+   ]
+  },
+  {
+   "id": "mat-p425-m-01",
+   "deck": "Dental Materials",
+   "section": "Bone replacement",
+   "page": 425,
+   "prompt": "Match each graft type to its source.",
+   "pairs": [
+    [
+     "Autograft",
+     "Patient's own body"
+    ],
+    [
+     "Allograft",
+     "Same species (cadaver)"
+    ],
+    [
+     "Xenograft",
+     "Different species (bovine)"
+    ],
+    [
+     "Synthetic",
+     "Laboratory"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "mat-p423-o-01",
+   "deck": "Dental Materials",
+   "section": "Enamel sealants",
+   "page": 423,
+   "prompt": "Put the sealant application steps in order.",
+   "items": [
+    "Remove plaque and debris (toothbrush, rubber cup or air polisher)",
+    "Rinse and dry",
+    "Isolate (dental dam or cotton rolls)",
+    "Etch with phosphoric acid until chalky white",
+    "Rinse, dry and re-isolate",
+    "Apply sealant material",
+    "Cure",
+    "Check occlusion, contacts and retention"
+   ]
+  },
+  {
+   "id": "mat-p424-o-01",
+   "deck": "Dental Materials",
+   "section": "Endodontic therapy",
+   "page": 424,
+   "prompt": "Put the root canal steps (as in the figure) in order.",
+   "items": [
+    "Decay reaches the pulp (infected pulp)",
+    "Opening made into the pulp chamber",
+    "Canals cleaned with an endodontic file",
+    "Canals filled with gutta-percha (plugger)",
+    "Post and filling placed",
+    "Crown placed"
+   ]
+  },
+  {
+   "id": "mat-p425-o-01",
+   "deck": "Dental Materials",
+   "section": "Implants",
+   "page": 425,
+   "prompt": "Put the implant process in order.",
+   "items": [
+    "Implant (screw) inserted into the bone",
+    "Osseointegration (bone heals around the implant)",
+    "Dental abutment placed on the implant",
+    "Crown placed to replace the tooth"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "mat-p421-s-01",
+   "deck": "Dental Materials",
+   "section": "Bases and liners",
+   "page": 421,
+   "prompt": "Sort each property: base or liner?",
+   "categories": [
+    [
+     "Base",
+     [
+      "Substitutes for removed dentin",
+      "Resists condensation forces",
+      "Thermal and chemical protection"
+     ]
+    ],
+    [
+     "Liner",
+     [
+      "Seals dentinal tubules",
+      "Thin coating (~0.5 mm)",
+      "Cannot resist compressive forces"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "mat-p426-s-01",
+   "deck": "Dental Materials",
+   "section": "Teeth whitening",
+   "page": 426,
+   "prompt": "Sort: in-office or in-home whitening?",
+   "categories": [
+    [
+     "In-office",
+     [
+      "30–40% hydrogen peroxide",
+      "Light to speed the reaction",
+      "Gingiva protected with petroleum jelly"
+     ]
+    ],
+    [
+     "In-home",
+     [
+      "10–22% carbamide peroxide",
+      "Custom trays loaded by the patient",
+      "Overnight or 1–2 hours daily"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "mat-p426-s-02",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 426,
+   "prompt": "Sort each by radiographic appearance.",
+   "categories": [
+    [
+     "Radiopaque",
+     [
+      "Amalgam",
+      "Gold",
+      "Retention pins and posts",
+      "Silver points",
+      "Orthodontic brackets/wires"
+     ]
+    ],
+    [
+     "Slightly radiopaque",
+     [
+      "Base material",
+      "Gutta-percha",
+      "Porcelain",
+      "Sealants"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "mat-p421-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Cements, liners and bases",
+   "page": 421,
+   "question": "A deep preparation will be restored with composite. Which liner/base material should be AVOIDED under it?",
+   "options": [
+    "A. Zinc oxide-eugenol",
+    "B. Polycarboxylate",
+    "C. Calcium hydroxide",
+    "D. Glass ionomer"
+   ],
+   "answer": "A. Zinc oxide-eugenol",
+   "explanation": "Eugenol in ZOE interferes with polymerization and prevents resin from setting. Polycarboxylate is specifically noted as useful under composites because it does not interfere with polymerization."
+  },
+  {
+   "id": "mat-p421-mcq-02",
+   "deck": "Dental Materials",
+   "section": "Cements, liners and bases",
+   "page": 421,
+   "question": "Which cement produces an exothermic setting reaction, so it is mixed on a cool glass slab?",
+   "options": [
+    "A. Polycarboxylate",
+    "B. Zinc phosphate",
+    "C. Glass ionomer",
+    "D. Zinc oxide-eugenol"
+   ],
+   "answer": "B. Zinc phosphate",
+   "explanation": "Zinc phosphate (zinc oxide + phosphoric acid) releases heat on mixing; the cool slab dissipates it. Polycarboxylate's reaction does NOT release heat."
+  },
+  {
+   "id": "mat-p422-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Air polishing powders",
+   "page": 422,
+   "question": "A patient on a physician-ordered sodium-restricted diet has heavy extrinsic stain on natural enamel. Which air-polishing powder is most appropriate?",
+   "options": [
+    "A. Sodium bicarbonate",
+    "B. Glycine",
+    "C. Aluminum trihydroxide",
+    "D. Erythritol"
+   ],
+   "answer": "C. Aluminum trihydroxide",
+   "explanation": "Aluminum trihydroxide is the sodium-free alternative for enamel stain in salt-restricted patients. Sodium bicarbonate removes heavy stain but contains sodium; glycine and erythritol are low-abrasion biofilm powders, not heavy-stain powders."
+  },
+  {
+   "id": "mat-p422-mcq-02",
+   "deck": "Dental Materials",
+   "section": "Polishing",
+   "page": 422,
+   "question": "Which practice minimizes loss of tooth structure during polishing?",
+   "options": [
+    "A. Using a coarse, hard grit at high speed",
+    "B. Polishing every tooth at every visit",
+    "C. Selective polishing with lubrication and light pressure",
+    "D. Increasing pressure to shorten polishing time"
+   ],
+   "answer": "C. Selective polishing with lubrication and light pressure",
+   "explanation": "Selective polishing preserves tooth structure; lubrication prevents overheating. Larger/harder grit, more pressure and more speed all increase abrasion."
+  },
+  {
+   "id": "mat-p423-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Topical fluoride",
+   "page": 423,
+   "question": "A high-caries-risk patient has porcelain crowns and composite restorations. Which professional fluoride is the best choice?",
+   "options": [
+    "A. APF gel in trays",
+    "B. APF foam in trays",
+    "C. Neutral sodium fluoride varnish",
+    "D. Fluoride rinse in office"
+   ],
+   "answer": "C. Neutral sodium fluoride varnish",
+   "explanation": "Neutral NaF varnish is safe for all surfaces and restorations. APF (gel or foam) is acidic and can etch or dull porcelain, composites and glass ionomer."
+  },
+  {
+   "id": "mat-p424-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Silver diamine fluoride (SDF)",
+   "page": 424,
+   "question": "A frail nursing-home resident has several cavitated root-caries lesions without pulp exposure and cannot tolerate restorative treatment. Which material is most appropriate to arrest the lesions?",
+   "options": [
+    "A. Pit and fissure sealant",
+    "B. Silver diamine fluoride",
+    "C. APF gel",
+    "D. Nano-hydroxyapatite toothpaste"
+   ],
+   "answer": "B. Silver diamine fluoride",
+   "explanation": "SDF arrests active caries in cavitated lesions without pulp exposure and suits patients who can't tolerate restorations. n-HAp remineralizes micro-defects but does not arrest cavitated lesions; sealants are contraindicated over open lesions."
+  },
+  {
+   "id": "mat-p424-mcq-02",
+   "deck": "Dental Materials",
+   "section": "Periodontal dressing",
+   "page": 424,
+   "question": "Which statement about periodontal dressings is correct?",
+   "options": [
+    "A. The dressing promotes wound healing",
+    "B. It should extend onto the occlusal surface for retention",
+    "C. It is pushed into the interdental areas for retention",
+    "D. It is removed after 24 hours"
+   ],
+   "answer": "C. It is pushed into the interdental areas for retention",
+   "explanation": "Pushing the soft dressing interdentally gives retention. The dressing has no wound-healing properties, must stay below the height of contour, and is removed after 5–7 days."
+  },
+  {
+   "id": "mat-p425-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Implants",
+   "page": 425,
+   "question": "An edentulous patient cannot wear conventional dentures and has minimal mandibular bone height. Which implant type sits on top of the bone under the periosteum to support a prosthesis?",
+   "options": [
+    "A. Endosteal",
+    "B. Subperiosteal",
+    "C. Transosteal",
+    "D. Osseointegrated screw"
+   ],
+   "answer": "B. Subperiosteal",
+   "explanation": "Subperiosteal implants rest on the jaw with posts through the gum — for minimal bone height. Endosteal implants need enough bone to place a screw into it."
+  },
+  {
+   "id": "mat-p427-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Radiographic appearance of materials",
+   "page": 427,
+   "question": "A radiograph of an older root-canal-treated molar shows thin, very radiopaque lines in the canals, and the tooth has periapical failure. What filling material was most likely used?",
+   "options": [
+    "A. Gutta-percha",
+    "B. Silver points",
+    "C. Calcium hydroxide",
+    "D. Zinc oxide-eugenol"
+   ],
+   "answer": "B. Silver points",
+   "explanation": "Silver points are obsolete metal canal fillers — fully radiopaque — replaced because of corrosion and poor sealing. Gutta-percha is only slightly radiopaque."
+  },
+  {
+   "id": "mat-quiz-01",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Which cement releases fluoride and chemically bonds to tooth structure?",
+   "options": [
+    "A. Zinc phosphate",
+    "B. Polycarboxylate cement",
+    "C. Glass ionomer cement",
+    "D. Resin-modified zinc oxide eugenol"
+   ],
+   "answer": "C. Glass ionomer cement",
+   "explanation": "Glass ionomer cements release fluoride and form a chemical bond with enamel and dentin, making them ideal for high-caries-risk patients."
+  },
+  {
+   "id": "mat-quiz-02",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Which type of gypsum product has the highest compressive strength and is used for die fabrication?",
+   "options": [
+    "A. Type I — Impression plaster",
+    "B. Type II — Model plaster",
+    "C. Type III — Dental stone",
+    "D. Type IV — High-strength dental stone"
+   ],
+   "answer": "D. Type IV — High-strength dental stone",
+   "explanation": "Type IV gypsum has the lowest expansion and highest strength, ideal for precise dies and castings in prosthodontics."
+  },
+  {
+   "id": "mat-quiz-03",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Which dental material has the highest thermal conductivity?",
+   "options": [
+    "A. Amalgam",
+    "B. Composite resin",
+    "C. Porcelain",
+    "D. Glass ionomer"
+   ],
+   "answer": "A. Amalgam",
+   "explanation": "Amalgam is a metal and conducts heat very well. This is why a base or liner is often used underneath to protect the pulp."
+  },
+  {
+   "id": "mat-quiz-04",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Etching enamel with phosphoric acid primarily affects the enamel by:",
+   "options": [
+    "A. Depositing calcium",
+    "B. Sealing dentinal tubules",
+    "C. Removing the smear layer",
+    "D. Creating microporosities"
+   ],
+   "answer": "D. Creating microporosities",
+   "explanation": "Etching enamel with phosphoric acid dissolves hydroxyapatite crystals to create microporosities for micromechanical retention."
+  },
+  {
+   "id": "mat-quiz-05",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "A base material used to insulate the pulp should ideally have which properties?",
+   "options": [
+    "A. High solubility and low strength",
+    "B. High thermal conductivity and low elasticity",
+    "C. Low thermal conductivity and adequate compressive strength",
+    "D. Low film thickness and acidic pH"
+   ],
+   "answer": "C. Low thermal conductivity and adequate compressive strength",
+   "explanation": "Bases protect the pulp from temperature changes and mechanical forces, so they must insulate well and have decent strength."
+  },
+  {
+   "id": "mat-quiz-06",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Which component in amalgam increases strength and corrosion resistance?",
+   "options": [
+    "A. Mercury",
+    "B. Tin",
+    "C. Copper",
+    "D. Zinc"
+   ],
+   "answer": "C. Copper",
+   "explanation": "High-copper amalgams improve strength and corrosion resistance."
+  },
+  {
+   "id": "mat-quiz-07",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "What property allows a dental material to return to its original shape after deformation?",
+   "options": [
+    "A. Ductility",
+    "B. Proportional limit",
+    "C. Elasticity",
+    "D. Viscosity"
+   ],
+   "answer": "C. Elasticity",
+   "explanation": "Elasticity is the ability of a material to return to its original shape after a deforming force is removed — important in impression materials and orthodontic wires."
+  },
+  {
+   "id": "mat-quiz-08",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Which liner is known for its sedative effect on the pulp?",
+   "options": [
+    "A. Calcium hydroxide",
+    "B. Zinc oxide eugenol",
+    "C. Polycarboxylate cement",
+    "D. Glass ionomer"
+   ],
+   "answer": "B. Zinc oxide eugenol",
+   "explanation": "Eugenol has a soothing, sedative effect on the pulp, which is why ZOE is used as a liner or temporary cement in deep cavities."
+  },
+  {
+   "id": "mat-quiz-09",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Which is true of hybrid composites?",
+   "options": [
+    "A. They contain only large filler particles",
+    "B. They polish better than microfills",
+    "C. They offer a balance of strength and esthetics",
+    "D. They are used only for posterior restorations"
+   ],
+   "answer": "C. They offer a balance of strength and esthetics",
+   "explanation": "Hybrid composites contain both large and small filler particles, providing good strength and decent polishability for both anterior and posterior use."
+  },
+  {
+   "id": "mat-quiz-10",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Why is nano-hydroxyapatite especially useful in managing sensitivity?",
+   "options": [
+    "A. It reduces nerve activity",
+    "B. It increases collagen crosslinking",
+    "C. It fills enamel micro-defects and seals dentinal tubules",
+    "D. It enhances plaque removal"
+   ],
+   "answer": "C. It fills enamel micro-defects and seals dentinal tubules",
+   "explanation": "It fills micro-defects in enamel and seals open dentinal tubules, helping reduce sensitivity by blocking fluid movement."
+  },
+  {
+   "id": "mat-quiz-11",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Which is the most critical factor affecting the long-term success of a pit and fissure sealant?",
+   "options": [
+    "A. Using a fluoride-containing sealant material",
+    "B. Allowing the etchant to remain on enamel for at least 10 seconds",
+    "C. Achieving a strong chemical bond to the enamel surface",
+    "D. Preventing contamination of the etched enamel prior to sealant application"
+   ],
+   "answer": "D. Preventing contamination of the etched enamel prior to sealant application",
+   "explanation": "After etching, the enamel surface becomes porous to allow micromechanical retention. If saliva or moisture contaminates the surface, it disrupts this bonding and greatly increases the chance of sealant failure. Chemical bonding is not the main mechanism here; it's mechanical retention."
+  },
+  {
+   "id": "mat-quiz-12",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Which of the following is true about applying SDF on anterior teeth?",
+   "options": [
+    "A. It should be avoided unless aesthetics are not a concern",
+    "B. It removes intrinsic stains during application",
+    "C. It bonds better to enamel than to dentin",
+    "D. It reverses existing white spot lesions"
+   ],
+   "answer": "A. It should be avoided unless aesthetics are not a concern",
+   "explanation": "SDF stains decayed areas black. On front teeth this is very visible, so it's avoided unless esthetics don't matter."
+  },
+  {
+   "id": "mat-quiz-13",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "Which air polishing powder is safest to use around implants and exposed root surfaces?",
+   "options": [
+    "A. Sodium bicarbonate",
+    "B. Aluminum trihydroxide",
+    "C. Glycine",
+    "D. Calcium carbonate"
+   ],
+   "answer": "C. Glycine",
+   "explanation": "Glycine is a very low-abrasion powder that's safe for subgingival use and on delicate surfaces like roots and implants."
+  },
+  {
+   "id": "mat-quiz-14",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 428,
+   "question": "On a radiograph, which material appears most radiopaque?",
+   "options": [
+    "A. Composite",
+    "B. Porcelain",
+    "C. Gutta-percha",
+    "D. Amalgam"
+   ],
+   "answer": "D. Amalgam",
+   "explanation": "Amalgam is a metal-based material and appears bright white (radiopaque) on X-rays."
+  },
+  {
+   "id": "mat-quiz-15",
+   "deck": "Quizzes",
+   "section": "Dental Biomaterials bonus quiz",
+   "page": 429,
+   "question": "What causes composite to fail more often over time compared to amalgam?",
+   "options": [
+    "A. Lower fluoride content",
+    "B. Higher thermal expansion and shrinkage",
+    "C. Greater radiopacity",
+    "D. Excessive hardness"
+   ],
+   "answer": "B. Higher thermal expansion and shrinkage",
+   "explanation": "Composite expands and contracts more than tooth structure, increasing the risk of microleakage and restoration failure over time."
+  }
+ ]
+}

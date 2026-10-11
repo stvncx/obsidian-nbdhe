@@ -1,0 +1,1287 @@
+{
+ "diagrams": [
+  {
+   "name": "inst-p374-parts-instrument",
+   "title": "Parts of an instrument",
+   "deck": "Instrumentation",
+   "pdf_page": 2,
+   "page": 374,
+   "crop": [
+    590,
+    250,
+    1240,
+    640
+   ],
+   "labels": [
+    {
+     "box": [
+      805,
+      562,
+      890,
+      590
+     ],
+     "answer": "Handle",
+     "fit": "text"
+    },
+    {
+     "box": [
+      805,
+      588,
+      870,
+      612
+     ],
+     "answer": "Shank",
+     "fit": "text"
+    },
+    {
+     "box": [
+      805,
+      611,
+      945,
+      637
+     ],
+     "answer": "Working-End",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "inst-p374-shank",
+   "title": "Parts of an instrument shank",
+   "deck": "Instrumentation",
+   "pdf_page": 2,
+   "page": 374,
+   "crop": [
+    640,
+    800,
+    1140,
+    1180
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      668,
+      924,
+      793,
+      981
+     ],
+     "answer": "Functional shank",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      953,
+      902,
+      1057,
+      959
+     ],
+     "answer": "Terminal shank",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "inst-p374-working-end",
+   "title": "Parts of the working end",
+   "deck": "Instrumentation",
+   "pdf_page": 2,
+   "page": 374,
+   "crop": [
+    575,
+    1665,
+    1200,
+    2050
+   ],
+   "labels": [
+    {
+     "box": [
+      775,
+      1752,
+      838,
+      1788
+     ],
+     "answer": "Face",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1000,
+      1756,
+      1143,
+      1790
+     ],
+     "answer": "Cutting edges",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      775,
+      1862,
+      838,
+      1897
+     ],
+     "answer": "Back",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1110,
+      1876,
+      1183,
+      1912
+     ],
+     "answer": "Curet",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      958,
+      1914,
+      1043,
+      1949
+     ],
+     "answer": "Toe",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1108,
+      1945,
+      1184,
+      1984
+     ],
+     "answer": "Sickle",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      992,
+      1993,
+      1038,
+      2024
+     ],
+     "answer": "Tip",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      706,
+      2013,
+      858,
+      2045
+     ],
+     "answer": "Lateral surface",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "inst-p375-clock",
+   "title": "Clock positions for instrumentation",
+   "deck": "Instrumentation",
+   "pdf_page": 3,
+   "page": 375,
+   "crop": [
+    150,
+    1320,
+    1240,
+    1860
+   ],
+   "labels": [
+    {
+     "box": [
+      553,
+      1348,
+      732,
+      1382
+     ],
+     "answer": "Anterior Away",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      353,
+      1460,
+      542,
+      1497
+     ],
+     "answer": "Posterior Away",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      751,
+      1460,
+      942,
+      1497
+     ],
+     "answer": "Posterior Away",
+     "fit": "bg",
+     "key": "Posterior Away (2)"
+    },
+    {
+     "box": [
+      243,
+      1643,
+      482,
+      1702
+     ],
+     "answer": "Anterior & Posterior Towards",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      788,
+      1643,
+      1032,
+      1702
+     ],
+     "answer": "Anterior & Posterior Towards",
+     "fit": "bg",
+     "key": "Anterior & Posterior Towards (2)"
+    }
+   ]
+  },
+  {
+   "name": "inst-p377-angulation",
+   "title": "Instrumentation angulation",
+   "deck": "Instrumentation",
+   "pdf_page": 5,
+   "page": 377,
+   "crop": [
+    560,
+    860,
+    1240,
+    1300
+   ],
+   "labels": [
+    {
+     "box": [
+      665,
+      888,
+      730,
+      937
+     ],
+     "answer": "0°",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      830,
+      943,
+      898,
+      988
+     ],
+     "answer": "40°",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      867,
+      996,
+      942,
+      1050
+     ],
+     "answer": "45°",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1000,
+      968,
+      1075,
+      1017
+     ],
+     "answer": "60°",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      956,
+      1065,
+      1050,
+      1109
+     ],
+     "answer": "Ideal",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1046,
+      1107,
+      1120,
+      1155
+     ],
+     "answer": "80°",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      943,
+      1183,
+      1017,
+      1232
+     ],
+     "answer": "90°",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      695,
+      968,
+      828,
+      1058
+     ],
+     "answer": "Angulation for Insertion",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      788,
+      1098,
+      928,
+      1188
+     ],
+     "answer": "Angulation for calculus removal",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      576,
+      1099,
+      685,
+      1147
+     ],
+     "answer": "Tooth",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      695,
+      1198,
+      842,
+      1272
+     ],
+     "answer": "Cross-section of working end",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "inst-p374-001",
+   "deck": "Instrumentation",
+   "section": "Instrument handle",
+   "page": 374,
+   "text": "Large-diameter instrument handles ({{c1::10 mm}}) provide better {{c2::control}} and decrease {{c3::muscle fatigue}}."
+  },
+  {
+   "id": "inst-p374-002",
+   "deck": "Instrumentation",
+   "section": "Instrument handle",
+   "page": 374,
+   "text": "The ideal handle cross-section shape is {{c1::round}}."
+  },
+  {
+   "id": "inst-p374-003",
+   "deck": "Instrumentation",
+   "section": "Instrument handle",
+   "page": 374,
+   "text": "A {{c1::hollow}} handle transmits vibrations from the working end to the clinician's fingers."
+  },
+  {
+   "id": "inst-p374-004",
+   "deck": "Instrumentation",
+   "section": "Instrument handle",
+   "page": 374,
+   "text": "{{c1::Tapered}} handle ends where the handle is grasped help prevent {{c2::finger slippage}} and require less {{c3::pinch force}} during instrumentation."
+  },
+  {
+   "id": "inst-p374-005",
+   "deck": "Instrumentation",
+   "section": "Instrument handle",
+   "page": 374,
+   "text": "Rougher handle surfaces, called {{c1::knurling}}, provide better {{c2::grip}}."
+  },
+  {
+   "id": "inst-p374-006",
+   "deck": "Instrumentation",
+   "section": "Instrument handle",
+   "page": 374,
+   "text": "{{c1::Lightweight}} handles put less stress on the hand and fingers while enhancing {{c2::tactile sensitivity}}."
+  },
+  {
+   "id": "inst-p374-007",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "text": "The {{c1::functional}} shank allows the working end to be adapted to the tooth surface."
+  },
+  {
+   "id": "inst-p374-008",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "text": "When the correct working end is used, the {{c1::terminal (lower)}} shank is normally {{c2::parallel}} to the tooth surface being instrumented.",
+   "extra": "A helpful visual clue for choosing the correct working end."
+  },
+  {
+   "id": "inst-p374-009",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "text": "{{c1::Longer (extended)}} lower shanks are used in {{c2::deeper pockets}} and posterior teeth."
+  },
+  {
+   "id": "inst-p374-010",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "text": "A {{c1::simple}} shank has only one bend; with the working end facing the clinician, the shank is {{c2::straight}}."
+  },
+  {
+   "id": "inst-p374-011",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "text": "Simple (straight) shanks are used on {{c1::anterior teeth}} and easily accessible areas."
+  },
+  {
+   "id": "inst-p374-012",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "text": "A {{c1::complex (angled/curved)}} shank has multiple bends; with the working-end tip facing the clinician, it has a {{c2::zigzag}} shape."
+  },
+  {
+   "id": "inst-p374-013",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "text": "Complex shanks are commonly used on {{c1::posterior}} teeth; their bends allow access to {{c2::hard-to-reach areas}} and adaptation to bulkier crowns.",
+   "extra": "They may also be adapted for anteriors."
+  },
+  {
+   "id": "inst-p374-014",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "text": "Shank flexibility varies with the instrument's task, the {{c1::metal}} used, and the shank {{c2::diameter}}."
+  },
+  {
+   "id": "inst-p374-015",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "text": "{{c1::Thinner, flexible}} shanks allow greater tactile sensitivity; {{c2::thicker, rigid}} shanks allow greater strength."
+  },
+  {
+   "id": "inst-p374-016",
+   "deck": "Instrumentation",
+   "section": "Working end",
+   "page": 374,
+   "text": "The {{c1::working end}} is the part of the instrument that does the function, e.g., an explorer tip, a mirror, or blades."
+  },
+  {
+   "id": "inst-p374-017",
+   "deck": "Instrumentation",
+   "section": "Working end",
+   "page": 374,
+   "text": "A cutting edge is formed by the junction of the {{c1::face}} and the {{c2::lateral sides}}."
+  },
+  {
+   "id": "inst-p374-018",
+   "deck": "Instrumentation",
+   "section": "Working end",
+   "page": 374,
+   "text": "Instruments with two working ends are called {{c1::paired}}; others have only one working end."
+  },
+  {
+   "id": "inst-p375-001",
+   "deck": "Instrumentation",
+   "section": "Working end",
+   "page": 375,
+   "text": "The {{c1::cross section}} of a working end determines whether the instrument can be used subgingivally or supragingivally."
+  },
+  {
+   "id": "inst-p375-002",
+   "deck": "Instrumentation",
+   "section": "Working end",
+   "page": 375,
+   "text": "Sickle scalers have a {{c1::triangular}} cross-section, a pointed back and {{c2::tip}}, and are used {{c3::supragingivally}} only."
+  },
+  {
+   "id": "inst-p375-003",
+   "deck": "Instrumentation",
+   "section": "Working end",
+   "page": 375,
+   "text": "Curettes have a {{c1::semi-circular}} cross-section, a rounded back and {{c2::toe}}, and are used {{c3::subgingivally and supragingivally}}."
+  },
+  {
+   "id": "inst-p375-004",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "Ideal ergonomics — neck: {{c1::centered, minimal bending or rotation}}."
+  },
+  {
+   "id": "inst-p375-005",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "Ideal ergonomics — chin slightly tilted {{c1::down}}, eyes {{c2::15–22 inches}} from the working area."
+  },
+  {
+   "id": "inst-p375-006",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "Ideal ergonomics — shoulders: {{c1::relaxed, neutral}}."
+  },
+  {
+   "id": "inst-p375-007",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "Ideal ergonomics — wrists aligned with hand and forearm, minimal flexion/extension ({{c1::≤15°}})."
+  },
+  {
+   "id": "inst-p375-008",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "Ideal ergonomics — back: {{c1::natural curve}}, minimal torso rotation."
+  },
+  {
+   "id": "inst-p375-009",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "Ideal ergonomics — hips: {{c1::level}} on the clinician's chair."
+  },
+  {
+   "id": "inst-p375-010",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "Ideal ergonomics — knees at a {{c1::105°–125°}} angle from the hips, {{c2::shoulder-width}} apart."
+  },
+  {
+   "id": "inst-p375-011",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "Ideal ergonomics — elbows relaxed, close to the body, bent at {{c1::90°}} at waist level; forearms parallel to the floor; elbows at or above the patient's {{c2::mouth/nose}} level."
+  },
+  {
+   "id": "inst-p375-012",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "Ideal ergonomics — feet {{c1::flat on the floor}}, thighs {{c2::parallel}} to the floor, shoulder-width apart."
+  },
+  {
+   "id": "inst-p375-013",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "text": "The clinician should avoid placing the legs under the {{c1::back of the patient's chair}} (it places the patient too high); legs under the {{c2::headrest}} are acceptable."
+  },
+  {
+   "id": "inst-p375-014",
+   "deck": "Instrumentation",
+   "section": "Clock positions",
+   "page": 375,
+   "text": "Clock positions (figure): for a right-handed clinician, the 'Anterior & Posterior Towards' zone is at {{c1::8–9}} o'clock and 'Posterior Away' at {{c2::10–11}} o'clock.",
+   "extra": "Read from the book's clock figure; 'Anterior Away' is at 12 o'clock for both hands."
+  },
+  {
+   "id": "inst-p375-015",
+   "deck": "Instrumentation",
+   "section": "Clock positions",
+   "page": 375,
+   "text": "Clock positions (figure): for a left-handed clinician, the 'Anterior & Posterior Towards' zone is at {{c1::3–4}} o'clock and 'Posterior Away' at {{c2::1–2}} o'clock.",
+   "extra": "Mirror image of the right-handed positions; read from the book's clock figure."
+  },
+  {
+   "id": "inst-p375-016",
+   "deck": "Instrumentation",
+   "section": "Patient positioning",
+   "page": 375,
+   "text": "In the {{c1::supine}} position, the head, heart, and feet are approximately on the same plane, which reduces the chance of {{c2::syncope (fainting)}}."
+  },
+  {
+   "id": "inst-p375-017",
+   "deck": "Instrumentation",
+   "section": "Patient positioning",
+   "page": 375,
+   "text": "The patient's {{c1::tip of the nose}} should always be lower than the clinician's {{c2::elbow}}."
+  },
+  {
+   "id": "inst-p376-001",
+   "deck": "Instrumentation",
+   "section": "Patient positioning",
+   "page": 376,
+   "text": "For both maxillary and mandibular treatment, the patient's feet are {{c1::even with or slightly higher than the nose}}."
+  },
+  {
+   "id": "inst-p376-002",
+   "deck": "Instrumentation",
+   "section": "Patient positioning",
+   "page": 376,
+   "text": "For maxillary treatment: head aligned with the {{c1::upper end of the headrest}}, chin tilted {{c2::up}}, chair back {{c3::nearly parallel to the floor}}."
+  },
+  {
+   "id": "inst-p376-003",
+   "deck": "Instrumentation",
+   "section": "Patient positioning",
+   "page": 376,
+   "text": "For mandibular treatment: head aligned with a {{c1::slightly lowered}} headrest, chin tilted {{c2::down}}, chair back {{c3::slightly raised (15–20°)}}."
+  },
+  {
+   "id": "inst-p376-004",
+   "deck": "Instrumentation",
+   "section": "Fulcrum",
+   "page": 376,
+   "text": "The fulcrum finger should be {{c1::strong and stable}} so the instrument can be {{c2::rolled}} easily."
+  },
+  {
+   "id": "inst-p376-005",
+   "deck": "Instrumentation",
+   "section": "Fulcrum",
+   "page": 376,
+   "text": "Activate the {{c1::wrist and hand}}, not the fingers, to gain leverage for greater force and lateral pressure and to minimize clinician fatigue.",
+   "extra": "WakeUpMemory: Think Rock (wrist) & Roll (fingers)."
+  },
+  {
+   "id": "inst-p376-006",
+   "deck": "Instrumentation",
+   "section": "Fulcrum",
+   "page": 376,
+   "text": "An {{c1::intraoral}} fulcrum is a finger rest inside the mouth, near the tooth being treated."
+  },
+  {
+   "id": "inst-p376-007",
+   "deck": "Instrumentation",
+   "section": "Fulcrum",
+   "page": 376,
+   "text": "An {{c1::extraoral}} fulcrum is a finger rest outside the mouth (e.g., cheek or chin), used in difficult-to-access areas such as {{c2::maxillary posteriors}}."
+  },
+  {
+   "id": "inst-p376-008",
+   "deck": "Instrumentation",
+   "section": "Fulcrum",
+   "page": 376,
+   "text": "An {{c1::alternative}} fulcrum is used when an intraoral or extraoral fulcrum is not accessible."
+  },
+  {
+   "id": "inst-p376-009",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 376,
+   "text": "The {{c1::modified pen grasp}} is the recommended grasp for periodontal instruments; it enables precision and control of the working end and reduces {{c2::musculoskeletal injury}}."
+  },
+  {
+   "id": "inst-p376-010",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 376,
+   "text": "In the modified pen grasp the fingers form a soft {{c1::C-shape}} on the handle, allowing the instrument to be rolled to maintain {{c2::adaptation}}."
+  },
+  {
+   "id": "inst-p376-011",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 376,
+   "text": "The {{c1::pad of the middle finger}} is used to feel vibrations (tactile sensitivity)."
+  },
+  {
+   "id": "inst-p377-001",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 377,
+   "text": "Modified pen grasp — middle finger: the instrument shank lightly rests on the {{c1::finger pad}}, while the other side touches the {{c2::ring finger}}."
+  },
+  {
+   "id": "inst-p377-002",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 377,
+   "text": "Modified pen grasp — {{c1::index finger and thumb}}: placed opposite each other on the handle; avoid overlapping."
+  },
+  {
+   "id": "inst-p377-003",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 377,
+   "text": "Modified pen grasp — {{c1::ring finger}}: advanced ahead of the other fingers; acts as the {{c2::fulcrum}}."
+  },
+  {
+   "id": "inst-p377-004",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 377,
+   "text": "Modified pen grasp — little finger: kept {{c1::relaxed next to the ring finger}}."
+  },
+  {
+   "id": "inst-p377-005",
+   "deck": "Instrumentation",
+   "section": "Adaptation and angulation",
+   "page": 377,
+   "text": "Adaptation: the {{c1::tip (or toe) third}} ({{c2::1–2 mm}}) of the working end is always kept against the tooth to avoid injuring the tissues."
+  },
+  {
+   "id": "inst-p377-006",
+   "deck": "Instrumentation",
+   "section": "Adaptation and angulation",
+   "page": 377,
+   "text": "To maintain adaptation as the instrument moves along the tooth, pivot on the {{c1::fulcrum finger}} and {{c2::roll the handle}}."
+  },
+  {
+   "id": "inst-p377-007",
+   "deck": "Instrumentation",
+   "section": "Adaptation and angulation",
+   "page": 377,
+   "text": "Angulation is formed between the {{c1::face}} of the instrument and the {{c2::tooth surface}}."
+  },
+  {
+   "id": "inst-p377-008",
+   "deck": "Instrumentation",
+   "section": "Adaptation and angulation",
+   "page": 377,
+   "text": "A periodontal probe is positioned {{c1::parallel}} to the tooth surface; in the col it is angled {{c2::20°–30°}} for better access."
+  },
+  {
+   "id": "inst-p377-009",
+   "deck": "Instrumentation",
+   "section": "Adaptation and angulation",
+   "page": 377,
+   "text": "Insertion into the sulcus/pocket uses 0°–40° (as flat as possible), allowing {{c1::smooth, atraumatic insertion beneath the gingival margin}}."
+  },
+  {
+   "id": "inst-p377-010",
+   "deck": "Instrumentation",
+   "section": "Adaptation and angulation",
+   "page": 377,
+   "text": "Scaling at 45°–90° (ideal 60°–80°) engages calculus effectively; angles less than 45° will {{c1::burnish}} hard deposits, making them difficult to detect and remove and prone to {{c2::plaque biofilm retention}}."
+  },
+  {
+   "id": "inst-p377-011",
+   "deck": "Instrumentation",
+   "section": "Adaptation and angulation",
+   "page": 377,
+   "text": "Soft tissue curettage uses an angulation {{c1::greater than 90°}}, directing the cutting edge toward the {{c2::lining of the pocket}} to remove diseased tissue."
+  },
+  {
+   "id": "inst-p377-012",
+   "deck": "Instrumentation",
+   "section": "Instrumentation strokes",
+   "page": 377,
+   "text": "Dental hygiene instrumentation uses various {{c1::stroke directions}} to remove deposits and assess tooth surfaces."
+  },
+  {
+   "id": "inst-p378-001",
+   "deck": "Instrumentation",
+   "section": "Instrumentation strokes",
+   "page": 378,
+   "text": "A {{c1::vertical}} stroke is parallel to the long axis of the tooth."
+  },
+  {
+   "id": "inst-p378-002",
+   "deck": "Instrumentation",
+   "section": "Instrumentation strokes",
+   "page": 378,
+   "text": "Vertical strokes are used on facial, lingual, and proximal surfaces of {{c1::anterior}} teeth and on {{c2::mesial and distal}} surfaces of posterior teeth."
+  },
+  {
+   "id": "inst-p378-003",
+   "deck": "Instrumentation",
+   "section": "Instrumentation strokes",
+   "page": 378,
+   "text": "An {{c1::oblique}} stroke is diagonal to the long axis of the tooth; it is used on {{c2::facial and lingual}} surfaces of posterior teeth."
+  },
+  {
+   "id": "inst-p378-004",
+   "deck": "Instrumentation",
+   "section": "Instrumentation strokes",
+   "page": 378,
+   "text": "A {{c1::horizontal}} stroke is parallel to the occlusal surface."
+  },
+  {
+   "id": "inst-p378-005",
+   "deck": "Instrumentation",
+   "section": "Instrumentation strokes",
+   "page": 378,
+   "text": "Horizontal strokes are used around {{c1::line angles}}, {{c2::furcation areas}}, {{c3::deep pockets}}, and the {{c4::midline of anterior teeth}} — areas where calculus is often missed."
+  },
+  {
+   "id": "inst-p378-006",
+   "deck": "Instrumentation",
+   "section": "Instrumentation strokes",
+   "page": 378,
+   "text": "A {{c1::multidirectional}} stroke combines vertical, oblique, and horizontal strokes to ensure complete coverage of all tooth surfaces."
+  },
+  {
+   "id": "inst-p378-007",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 378,
+   "text": "Instrumentation strokes are each designed for a specific purpose, from {{c1::detecting irregularities}} to {{c2::removing deposits}}."
+  },
+  {
+   "id": "inst-p379-001",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "The purpose of the {{c1::assessment/exploratory}} stroke is to detect irregularities and deposits, especially subgingival."
+  },
+  {
+   "id": "inst-p379-002",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "Assessment strokes are {{c1::feather-light}}, long, overlapping, multidirectional, and fluid, with a light grasp and {{c2::no lateral pressure}}.",
+   "extra": "Use a light touch on carious lesions."
+  },
+  {
+   "id": "inst-p379-003",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "Assessment strokes are made with the {{c1::probe, explorer, and curet}}."
+  },
+  {
+   "id": "inst-p379-004",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "The {{c1::walking (bobbing)}} stroke advances the probe within the pocket using small {{c2::1–2 mm}} bobbing strokes to avoid tissue trauma."
+  },
+  {
+   "id": "inst-p379-005",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "The {{c1::working (calculus removal/scaling)}} stroke is short, {{c2::biting}}, controlled, and overlapping, with a moderate to firm grasp and {{c3::lateral pressure}} to engage deposits."
+  },
+  {
+   "id": "inst-p379-006",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "Working strokes use vertical, oblique, or horizontal directions; large deposits are removed in sections (called {{c1::channeling}}) to prevent {{c2::burnishing}}."
+  },
+  {
+   "id": "inst-p379-007",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "Working strokes should not be used on {{c1::calculus-free}} surfaces and are followed by an {{c2::exploratory}} stroke to assess removal."
+  },
+  {
+   "id": "inst-p379-008",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "Working (scaling) strokes are made with the {{c1::sickle scaler, universal curet, and area-specific curet}}."
+  },
+  {
+   "id": "inst-p379-009",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "The {{c1::root debridement}} stroke removes plaque and calculus from deep pockets/exposed root surfaces while preserving {{c2::cementum}}."
+  },
+  {
+   "id": "inst-p379-010",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "text": "Root debridement strokes are {{c1::shaving}} strokes with moderate pressure, {{c2::longer}} than calculus-removal strokes, and multidirectional; they are made with an {{c3::area-specific curet}}.",
+   "extra": "Avoid excessive cementum removal because cementum is important for healing."
+  },
+  {
+   "id": "inst-p379-011",
+   "deck": "Instrumentation",
+   "section": "Mirror",
+   "page": 379,
+   "text": "The mirror provides visual access to tooth surfaces and oral structures; a {{c1::fulcrum}} is needed for stability."
+  },
+  {
+   "id": "inst-p379-012",
+   "deck": "Instrumentation",
+   "section": "Mirror",
+   "page": 379,
+   "text": "The mirror can be used for {{c1::retraction}} of tissues such as the cheek and tongue."
+  },
+  {
+   "id": "inst-p379-013",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 379,
+   "text": "When assessing calculus with an explorer, use the {{c1::side}} of the explorer tip, not the direct tip."
+  },
+  {
+   "id": "inst-p379-014",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 379,
+   "text": "Explorer functions: assessment of calculus, identification of {{c1::tooth anatomy}} (concavities, margins of restorations), and detection of {{c2::carious lesions}}."
+  },
+  {
+   "id": "inst-p379-015",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 379,
+   "text": "Explorer design: a thin working end tapered to a point, {{c1::circular}} in cross section; the last {{c2::1–2 mm}} of the tip is used."
+  },
+  {
+   "id": "inst-p379-016",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 379,
+   "text": "The {{c1::Shepherd's hook (#23)}} explorer is hook-shaped, single-ended, used supragingivally, and best for {{c2::caries detection}} and evaluating restorations."
+  },
+  {
+   "id": "inst-p379-017",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 379,
+   "text": "The Shepherd's hook is too {{c1::thick}} for good tactile sensitivity, and its design prohibits good adaptation in {{c2::pockets or interproximal areas}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "inst-p374-b-01",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "front": "Functional shank",
+   "back": "The portion of the shank between the working end and the last bend in the shank closest to the handle",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "inst-p374-b-02",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "front": "Terminal (lower) shank",
+   "back": "The portion of the functional shank closest to the working end — between the working end and the first bend",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "inst-p375-b-01",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "front": "Ergonomics",
+   "back": "The science of adjusting the design to maximize the efficiency and quality of work",
+   "reverse": true,
+   "extra": "The clinician should consider his/her own ergonomics first."
+  },
+  {
+   "id": "inst-p376-b-01",
+   "deck": "Instrumentation",
+   "section": "Fulcrum",
+   "page": 376,
+   "front": "Fulcrum",
+   "back": "Mechanical leverage created using a support / point of rest",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "inst-p376-b-02",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 376,
+   "front": "Tactile sensitivity",
+   "back": "The ability to feel vibrations from the instrument's working end",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "inst-p376-b-03",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 376,
+   "front": "How should the grasp be performed to preserve tactile sensitivity?",
+   "back": "Light grasp; avoid gripping with the fingernails; don't split the fingers apart.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "inst-p379-b-01",
+   "deck": "Instrumentation",
+   "section": "Mirror",
+   "page": 379,
+   "front": "Mirror use: indirect vision",
+   "back": "Observing the reflected image when direct vision is not possible (e.g., lingual of mandibular anteriors, distal of maxillary posteriors)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "inst-p379-b-02",
+   "deck": "Instrumentation",
+   "section": "Mirror",
+   "page": 379,
+   "front": "Mirror use: indirect illumination",
+   "back": "Light bounces from the mirror face onto dark areas of the mouth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "inst-p379-b-03",
+   "deck": "Instrumentation",
+   "section": "Mirror",
+   "page": 379,
+   "front": "Mirror use: transillumination",
+   "back": "Light passes through the desired area to observe shadowing — useful to detect caries and calculus",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "inst-p374-t-01",
+   "deck": "Instrumentation",
+   "section": "Instrument handle",
+   "page": 374,
+   "question": "Ideal weight for periodontal instrumentation (grams or less)?",
+   "answer": "15",
+   "extra": "Fun fact: the ideal weight is 15 g or less."
+  },
+  {
+   "id": "inst-p374-t-02",
+   "deck": "Instrumentation",
+   "section": "Instrument shank",
+   "page": 374,
+   "question": "An extended lower shank is how many mm longer than a standard lower shank?",
+   "answer": "3 mm",
+   "extra": ""
+  },
+  {
+   "id": "inst-p379-t-01",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "question": "Pressure applied with the walking (probing) stroke, in grams?",
+   "answer": "10–20 g",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "inst-p377-m-01",
+   "deck": "Instrumentation",
+   "section": "Modified pen grasp",
+   "page": 377,
+   "prompt": "Match each finger to its role in the modified pen grasp.",
+   "pairs": [
+    [
+     "Index finger & thumb",
+     "Opposite each other on the handle"
+    ],
+    [
+     "Middle finger",
+     "Pad rests lightly on the shank; feels vibrations"
+    ],
+    [
+     "Ring finger",
+     "Advanced ahead; acts as the fulcrum"
+    ],
+    [
+     "Little finger",
+     "Relaxed next to the ring finger"
+    ]
+   ]
+  },
+  {
+   "id": "inst-p378-m-01",
+   "deck": "Instrumentation",
+   "section": "Instrumentation strokes",
+   "page": 378,
+   "prompt": "Match each stroke direction to its description.",
+   "pairs": [
+    [
+     "Vertical",
+     "Parallel to the long axis of the tooth"
+    ],
+    [
+     "Oblique",
+     "Diagonal to the long axis of the tooth"
+    ],
+    [
+     "Horizontal",
+     "Parallel to the occlusal surface"
+    ],
+    [
+     "Multidirectional",
+     "Combination of all three"
+    ]
+   ]
+  },
+  {
+   "id": "inst-p379-m-01",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "prompt": "Match each stroke type to its characteristics.",
+   "pairs": [
+    [
+     "Assessment/exploratory",
+     "Feather-light, long, no lateral pressure"
+    ],
+    [
+     "Walking (bobbing)",
+     "Small 1–2 mm strokes, 10–20 g"
+    ],
+    [
+     "Working (scaling)",
+     "Short, biting, lateral pressure"
+    ],
+    [
+     "Root debridement",
+     "Shaving, longer, moderate pressure"
+    ]
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "inst-p376-s-01",
+   "deck": "Instrumentation",
+   "section": "Patient positioning",
+   "page": 376,
+   "prompt": "Sort the patient-positioning features: maxillary or mandibular treatment?",
+   "categories": [
+    [
+     "Maxillary treatment",
+     [
+      "Chin tilted up",
+      "Chair back nearly parallel to the floor",
+      "Head aligned with upper end of headrest"
+     ]
+    ],
+    [
+     "Mandibular treatment",
+     [
+      "Chin tilted down",
+      "Chair back raised 15–20°",
+      "Headrest slightly lowered"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "inst-p375-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Working end",
+   "page": 375,
+   "question": "A hygienist needs to remove calculus 5 mm below the gingival margin. Which working-end design is appropriate?",
+   "options": [
+    "A. Triangular cross-section with a pointed tip",
+    "B. Semi-circular cross-section with a rounded toe",
+    "C. Circular cross-section tapered to a point",
+    "D. Triangular cross-section with a pointed back"
+   ],
+   "answer": "B. Semi-circular cross-section with a rounded toe",
+   "explanation": "Curettes (semi-circular cross-section, rounded back and toe) can be used subgingivally. Sickle scalers (triangular, pointed back and tip) are supragingival only — their points would traumatize the pocket. A circular, pointed end is an explorer (assessment, not removal)."
+  },
+  {
+   "id": "inst-p375-mcq-02",
+   "deck": "Instrumentation",
+   "section": "Clinician positioning",
+   "page": 375,
+   "question": "Which clinician posture is consistent with ideal ergonomics?",
+   "options": [
+    "A. Wrists flexed about 30° to improve access",
+    "B. Elbows held away from the body at shoulder level",
+    "C. Knees at a 105°–125° angle from the hips with feet flat on the floor",
+    "D. Eyes about 8 inches from the working area"
+   ],
+   "answer": "C. Knees at a 105°–125° angle from the hips with feet flat on the floor",
+   "explanation": "Knees 105°–125° from the hips, feet flat, thighs parallel. Wrists should be within ≤15° of flexion/extension, elbows relaxed close to the body at 90° at waist level, and eyes 15–22 inches from the working area."
+  },
+  {
+   "id": "inst-p376-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Patient positioning",
+   "page": 376,
+   "question": "A patient is being positioned for scaling of the mandibular anterior teeth. Which position is correct?",
+   "options": [
+    "A. Chair back nearly parallel to the floor, chin tilted up",
+    "B. Chair back raised 15–20°, chin tilted down",
+    "C. Chair back upright at 90°, chin neutral",
+    "D. Feet lower than the head, chin tilted up"
+   ],
+   "answer": "B. Chair back raised 15–20°, chin tilted down",
+   "explanation": "Mandibular treatment: chair back slightly raised (15–20°), chin tilted down, headrest slightly lowered. Option A is the maxillary position. Feet should always be even with or slightly higher than the nose."
+  },
+  {
+   "id": "inst-p377-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Adaptation and angulation",
+   "page": 377,
+   "question": "While scaling, a hygienist holds the curet face at about 30° to the tooth surface. The most likely result is:",
+   "options": [
+    "A. Laceration of the pocket lining",
+    "B. Burnished calculus",
+    "C. Efficient calculus removal",
+    "D. Atraumatic insertion beneath the margin"
+   ],
+   "answer": "B. Burnished calculus",
+   "explanation": "Angles below 45° glide over deposits and burnish them, leaving smooth calculus that is hard to detect and retains biofilm. Angles greater than 90° direct the edge into the pocket lining (curettage). 0°–40° is correct for insertion, not for scaling."
+  },
+  {
+   "id": "inst-p378-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Instrumentation strokes",
+   "page": 378,
+   "question": "Which stroke direction is most appropriate for removing calculus in a furcation area?",
+   "options": [
+    "A. Vertical",
+    "B. Oblique",
+    "C. Horizontal",
+    "D. Walking"
+   ],
+   "answer": "C. Horizontal",
+   "explanation": "Horizontal strokes (parallel to the occlusal surface) are used at line angles, furcations, deep pockets and the midline of anterior teeth. Oblique strokes are for facial/lingual surfaces of posteriors; walking is a probing stroke, not a direction."
+  },
+  {
+   "id": "inst-p379-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Stroke types",
+   "page": 379,
+   "question": "After removing a ledge of calculus with short, biting strokes, what should the hygienist do next?",
+   "options": [
+    "A. Continue working strokes over the now calculus-free surface",
+    "B. Use an exploratory stroke to assess removal",
+    "C. Switch to a walking stroke with 50 g of pressure",
+    "D. Use a horizontal sickle stroke subgingivally"
+   ],
+   "answer": "B. Use an exploratory stroke to assess removal",
+   "explanation": "Working strokes are followed by an exploratory stroke to assess removal; they should not be used on calculus-free surfaces (risk of over-instrumentation and cementum removal). Walking strokes use 10–20 g, and sickles are supragingival."
+  },
+  {
+   "id": "inst-p379-mcq-02",
+   "deck": "Instrumentation",
+   "section": "Explorer",
+   "page": 379,
+   "question": "Which explorer is best suited for detecting caries on occlusal surfaces but poorly suited for subgingival calculus detection?",
+   "options": [
+    "A. Shepherd's hook (#23)",
+    "B. Periodontal probe",
+    "C. Curet",
+    "D. Sickle scaler"
+   ],
+   "answer": "A. Shepherd's hook (#23)",
+   "explanation": "The Shepherd's hook (#23) is single-ended and supragingival, best for caries detection and evaluating restorations; it is too thick for good tactile sensitivity and cannot adapt in pockets or interproximal areas. The other options are not explorers."
+  }
+ ]
+}

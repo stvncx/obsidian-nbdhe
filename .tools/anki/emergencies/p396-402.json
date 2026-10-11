@@ -1,0 +1,1709 @@
+{
+ "diagrams": [
+  {
+   "name": "emerg-p397-pulse-sites",
+   "title": "Pulse check sites",
+   "deck": "Medical Emergencies",
+   "pdf_page": 3,
+   "page": 397,
+   "crop": [
+    100,
+    600,
+    715,
+    1260
+   ],
+   "labels": [
+    {
+     "box": [
+      166,
+      698,
+      294,
+      740
+     ],
+     "answer": "Temporal",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      534,
+      699,
+      640,
+      742
+     ],
+     "answer": "Carotid",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      149,
+      849,
+      262,
+      892
+     ],
+     "answer": "Brachial",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      561,
+      834,
+      664,
+      880
+     ],
+     "answer": "Apical",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      580,
+      973,
+      675,
+      1014
+     ],
+     "answer": "Radial",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      132,
+      992,
+      245,
+      1046
+     ],
+     "answer": "Femoral",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      504,
+      1082,
+      625,
+      1126
+     ],
+     "answer": "Popliteal",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      130,
+      1157,
+      310,
+      1200
+     ],
+     "answer": "Posterior tibial",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      488,
+      1205,
+      632,
+      1250
+     ],
+     "answer": "Dorsalis pedis",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emerg-p399-stroke-types",
+   "title": "Stroke (CVA): causes",
+   "deck": "Medical Emergencies",
+   "pdf_page": 5,
+   "page": 399,
+   "crop": [
+    180,
+    1500,
+    720,
+    1820
+   ],
+   "labels": [
+    {
+     "box": [
+      458,
+      1520,
+      602,
+      1556
+     ],
+     "answer": "Hemorrhagic",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      482,
+      1620,
+      584,
+      1661
+     ],
+     "answer": "Ischemic",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      448,
+      1719,
+      619,
+      1760
+     ],
+     "answer": "Atherosclerosis",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "emerg-p399-fast",
+   "title": "Stroke symptoms: the F.A.S.T. method",
+   "deck": "Medical Emergencies",
+   "pdf_page": 5,
+   "page": 399,
+   "crop": [
+    730,
+    1530,
+    1120,
+    2020
+   ],
+   "labels": [
+    {
+     "box": [
+      742,
+      1738,
+      903,
+      1802
+     ],
+     "answer": "Face drooping",
+     "fit": "none"
+    },
+    {
+     "box": [
+      942,
+      1738,
+      1108,
+      1802
+     ],
+     "answer": "Arm weakness",
+     "fit": "none"
+    },
+    {
+     "box": [
+      742,
+      1943,
+      912,
+      2012
+     ],
+     "answer": "Speech difficulty",
+     "fit": "none"
+    },
+    {
+     "box": [
+      952,
+      1943,
+      1088,
+      2012
+     ],
+     "answer": "Time to call 911",
+     "fit": "none"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "emerg-p396-001",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "text": "The BLS sequence is {{c1::C-A-B}}: Circulation (cardiac compression), Airway (clear airway), Breathing (rescue breaths)."
+  },
+  {
+   "id": "emerg-p396-002",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "text": "BLS step 1 — check responsiveness: tap and shout \"Are you okay?\" If no response, {{c1::call 911}} and send a second rescuer to retrieve the {{c2::AED}}."
+  },
+  {
+   "id": "emerg-p396-003",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "text": "When checking for a pulse in BLS, use the {{c1::carotid}} artery in adults and children and the {{c2::brachial}} artery in infants."
+  },
+  {
+   "id": "emerg-p396-004",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "text": "BLS: breathing normal AND pulse present → {{c1::monitor the patient until emergency help arrives}}."
+  },
+  {
+   "id": "emerg-p396-005",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "text": "BLS: pulse present but no normal breathing → give {{c1::rescue breathing only}}: adults 1 breath every {{c2::5–6 seconds}}; children/infants 1 breath every {{c3::3–5 seconds}}.",
+   "extra": "The AHA flowchart on the page puts it as 1 breath every 6 seconds = 10 breaths/min for adults."
+  },
+  {
+   "id": "emerg-p396-006",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "text": "During rescue breathing, reassess the pulse every {{c1::2 minutes}}; if there is no pulse, start CPR. Use a {{c2::pocket mask or bag-valve mask}} if available."
+  },
+  {
+   "id": "emerg-p396-007",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "text": "If a patient receiving rescue breathing may have an opioid overdose, give {{c1::naloxone}}."
+  },
+  {
+   "id": "emerg-p396-008",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "text": "BLS: no pulse and no breathing (or only gasping) → {{c1::begin CPR immediately (30 compressions : 2 breaths)}} and use the AED as soon as possible."
+  },
+  {
+   "id": "emerg-p396-009",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "text": "AED rhythm check: if the rhythm is shockable, give {{c1::1 shock}}, then resume CPR for {{c2::2 minutes}} until the AED prompts another rhythm check. If not shockable, resume CPR for 2 minutes."
+  },
+  {
+   "id": "emerg-p396-010",
+   "deck": "Medical Emergencies",
+   "section": "CPR technique",
+   "page": 396,
+   "text": "For chest compressions, place the hands on the {{c1::lower half of the sternum}}."
+  },
+  {
+   "id": "emerg-p396-011",
+   "deck": "Medical Emergencies",
+   "section": "CPR technique",
+   "page": 396,
+   "text": "CPR compression depth: adults {{c1::at least 2 inches}}; children {{c2::about 2 inches (1/3 to 1/2 of chest depth)}}; infants {{c3::about 1.5 inches}}."
+  },
+  {
+   "id": "emerg-p396-012",
+   "deck": "Medical Emergencies",
+   "section": "CPR technique",
+   "page": 396,
+   "text": "Infant compressions use {{c1::2 fingers}} for a single rescuer or {{c2::2 thumbs}} with 2 rescuers."
+  },
+  {
+   "id": "emerg-p396-013",
+   "deck": "Medical Emergencies",
+   "section": "CPR technique",
+   "page": 396,
+   "text": "Compression-to-ventilation ratio: adults {{c1::30:2}} (1 or 2 rescuers); children/infants 30:2 with 1 rescuer and {{c2::15:2}} with 2 rescuers."
+  },
+  {
+   "id": "emerg-p396-014",
+   "deck": "Medical Emergencies",
+   "section": "CPR technique",
+   "page": 396,
+   "text": "During CPR, let the chest {{c1::fully recoil}} between compressions, and keep interruptions to less than {{c2::10 seconds}} when switching or checking."
+  },
+  {
+   "id": "emerg-p396-015",
+   "deck": "Medical Emergencies",
+   "section": "AED",
+   "page": 396,
+   "text": "Before using the AED, make sure the patient is on a {{c1::firm, dry}} surface (use a board if needed), then expose the chest and {{c2::remove moisture}} before attaching the pads."
+  },
+  {
+   "id": "emerg-p396-016",
+   "deck": "Medical Emergencies",
+   "section": "AED",
+   "page": 396,
+   "text": "After the AED delivers a shock, {{c1::immediately resume CPR}}; if no shock is advised, resume CPR without delay."
+  },
+  {
+   "id": "emerg-p396-017",
+   "deck": "Medical Emergencies",
+   "section": "AED",
+   "page": 396,
+   "text": "Do not touch the patient while the AED is {{c1::analyzing or shocking}}."
+  },
+  {
+   "id": "emerg-p396-018",
+   "deck": "Medical Emergencies",
+   "section": "Recovery position",
+   "page": 396,
+   "text": "Use the recovery position only if the patient is {{c1::unconscious but has a pulse and is breathing}}; turn the patient onto their {{c2::side}} to protect the airway and monitor until EMS arrives."
+  },
+  {
+   "id": "emerg-p397-001",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — temperature",
+   "page": 397,
+   "text": "Normal adult body temperature is {{c1::97–99°F (36–37°C)}}; the most common temperature is {{c2::98.6°F}}."
+  },
+  {
+   "id": "emerg-p397-002",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — temperature",
+   "page": 397,
+   "text": "A temperature above {{c1::99.6°F (37.6°C)}} indicates {{c2::pyrexia (fever)}}."
+  },
+  {
+   "id": "emerg-p397-003",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — respiration",
+   "page": 397,
+   "text": "Normal respiratory rate: adult {{c1::12–20}} breaths per minute; child {{c2::18–22}} breaths per minute.",
+   "extra": "Count respirations by watching the chest rise and fall."
+  },
+  {
+   "id": "emerg-p397-004",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — respiration",
+   "page": 397,
+   "text": "Besides the rate, monitor the quality of the breath: its {{c1::sound, depth, and rhythm}}."
+  },
+  {
+   "id": "emerg-p397-005",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — pulse",
+   "page": 397,
+   "text": "Normal resting heart rate: adult {{c1::60–100}} bpm; child {{c2::80–120}} bpm; infant {{c3::100–160}} bpm."
+  },
+  {
+   "id": "emerg-p397-006",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — pulse",
+   "page": 397,
+   "text": "{{c1::β-blockers}}, resting and fasting can slow the heart rate; {{c2::exercise, stress and drugs}} can elevate it."
+  },
+  {
+   "id": "emerg-p397-007",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — pulse",
+   "page": 397,
+   "text": "When taking a pulse, record beats per minute, {{c1::quality (weak or strong)}}, and {{c2::rhythm (regular or irregular)}}."
+  },
+  {
+   "id": "emerg-p397-008",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — pulse",
+   "page": 397,
+   "text": "Pulse locations: radial artery — {{c1::lateral and ventral wrist}}; brachial — {{c2::medial aspect of the antecubital fossa}}; carotid — {{c3::lateral to the sternocleidomastoid}}; femoral — {{c4::medial aspect of the upper thigh}}."
+  },
+  {
+   "id": "emerg-p397-009",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — pulse",
+   "page": 397,
+   "text": "In an emergency, the {{c1::carotid}} is the best artery for assessing the pulse."
+  },
+  {
+   "id": "emerg-p397-010",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — pulse",
+   "page": 397,
+   "text": "If no pulse can be palpated after 10 seconds, assume {{c1::cardiac arrest}} and begin chest compressions at 100–120 per minute."
+  },
+  {
+   "id": "emerg-p397-011",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — blood pressure",
+   "page": 397,
+   "text": "{{c1::Systolic}} BP is the force exerted during ventricular contraction; {{c2::diastolic}} BP is the resting pressure during ventricular relaxation."
+  },
+  {
+   "id": "emerg-p397-012",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — blood pressure",
+   "page": 397,
+   "text": "{{c1::Korotkoff sounds}} are the sounds made by the vibrations of an artery under pressure."
+  },
+  {
+   "id": "emerg-p397-013",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — blood pressure",
+   "page": 397,
+   "text": "The {{c1::sphygmomanometer}} measures blood pressure and the {{c2::stethoscope}} lets you hear blood passing through the arteries. Automated devices are {{c3::less accurate}} than the standard cuff."
+  },
+  {
+   "id": "emerg-p397-014",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — blood pressure",
+   "page": 397,
+   "text": "Manual BP: inflate the cuff until the pulse disappears, then inflate another {{c1::20–30 mmHg}}; deflate slowly at {{c2::2–3 mmHg per second}}."
+  },
+  {
+   "id": "emerg-p397-015",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — blood pressure",
+   "page": 397,
+   "text": "Manual BP: the pressure at which the pulse reappears is the {{c1::systolic}} pressure; the last sound before silence is the {{c2::diastolic}} pressure."
+  },
+  {
+   "id": "emerg-p398-001",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "Hypertension is blood pressure elevated against the artery walls, often {{c1::with no symptoms}}; it can silently damage the heart, vessels, brain, and kidneys — so {{c2::early detection}} is critical.",
+   "extra": "Did you know: almost 1 in 2 U.S. adults (about 1 in 4 in Canada) have high blood pressure, many without knowing it — the \"silent killer\"."
+  },
+  {
+   "id": "emerg-p398-002",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "Orthostatic hypotension = a drop of ≥{{c1::20}} mmHg systolic or ≥{{c2::10}} mmHg diastolic from supine to standing."
+  },
+  {
+   "id": "emerg-p398-003",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "Causes of hypertension: chronic disease, stress, obesity, {{c1::salt intake}}, {{c2::kidney dysfunction}}, smoking."
+  },
+  {
+   "id": "emerg-p398-004",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "Causes of orthostatic hypotension: prolonged chair time, standing too quickly, {{c1::dehydration}}, {{c2::antihypertensive medications}}."
+  },
+  {
+   "id": "emerg-p398-005",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "If BP is extremely high and the patient shows signs (headache, vision issues, chest pain): {{c1::stop treatment}}, and {{c2::call 911}} if unstable."
+  },
+  {
+   "id": "emerg-p398-006",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "Dizzy or fainting from hypotension: return the patient to the {{c1::supine position with feet slightly elevated}}, monitor vitals, raise slowly, and give oxygen if needed."
+  },
+  {
+   "id": "emerg-p398-007",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "Hypertensive dental patients have an increased risk of {{c1::stroke or heart attack}} during procedures, especially under stress or with {{c2::vasoconstrictors}}."
+  },
+  {
+   "id": "emerg-p398-008",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "Hypotensive dental patients risk {{c1::falls and fainting}} after sitting up or standing suddenly, especially after treatment."
+  },
+  {
+   "id": "emerg-p398-009",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "Antihypertensives increase the risk of {{c1::hypotension}}, so schedule appointments {{c2::30–60 minutes}} after medications and meals."
+  },
+  {
+   "id": "emerg-p398-010",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "text": "To avoid orthostatic hypotension, let patients remain seated for {{c1::1–2 minutes}} before standing."
+  },
+  {
+   "id": "emerg-p398-011",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and dental process of care",
+   "page": 398,
+   "text": "BP <140/<90: {{c1::proceed with routine care}} (healthy or well-controlled).",
+   "extra": "Exam standard (AHA 2017): normal <120/<80; elevated 120–129/<80; stage 1 130–139 or 80–89; stage 2 ≥140 or ≥90; hypertensive crisis >180 and/or >120. The book's 'mild/moderate' wording is older terminology — the dental-management thresholds themselves are the book's."
+  },
+  {
+   "id": "emerg-p398-012",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and dental process of care",
+   "page": 398,
+   "text": "BP 140–159/90–99: proceed with care and {{c1::monitor BP at each visit}} — minimal risk, but may worsen over time."
+  },
+  {
+   "id": "emerg-p398-013",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and dental process of care",
+   "page": 398,
+   "text": "BP 160–179/100–109: proceed with caution — {{c1::recheck BP after 5 minutes}}, use stress reduction, consider a {{c2::medical consult}}.",
+   "extra": "Risk increases during stress."
+  },
+  {
+   "id": "emerg-p398-014",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and dental process of care",
+   "page": 398,
+   "text": "BP ≥180/≥110 (even once): {{c1::stop elective care}}; recheck in 5 minutes, and if still elevated {{c2::refer for medical evaluation}} before treatment.",
+   "extra": "Danger zone: high risk for stroke or MI."
+  },
+  {
+   "id": "emerg-p398-015",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and dental process of care",
+   "page": 398,
+   "text": "Any BP + symptoms (headache, dizziness, chest pain): {{c1::stop immediately}}, regardless of the reading, and refer to emergency care or a physician — possible {{c2::hypertensive crisis or cardiac issue}}."
+  },
+  {
+   "id": "emerg-p398-016",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and dental process of care",
+   "page": 398,
+   "text": "If a patient reports not taking (or missing) a dose of BP medication: ask {{c1::when they last took it}}, consider rechecking BP, and delay care if pressure is high.",
+   "extra": "Skipped doses = uncontrolled pressure, which may cause treatment complications."
+  },
+  {
+   "id": "emerg-p399-001",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "Syncope is caused by a drop in blood pressure, e.g. from {{c1::anxiety}}, dehydration, standing too quickly, or postural changes."
+  },
+  {
+   "id": "emerg-p399-002",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "Seizure causes: {{c1::epilepsy}}, head trauma, brain infection, fever, drug reactions, low oxygen, or unknown triggers."
+  },
+  {
+   "id": "emerg-p399-003",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "Early signs of syncope: warmth, nausea, lightheadedness, vision changes, {{c1::pale skin}}, and {{c2::sweating}}."
+  },
+  {
+   "id": "emerg-p399-004",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "Early signs of a seizure: an {{c1::aura}} (odd sensation), staring, confusion, jerking of limbs."
+  },
+  {
+   "id": "emerg-p399-005",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "During syncope: brief loss of consciousness (usually less than {{c1::5 minutes}}), limp body, fast recovery."
+  },
+  {
+   "id": "emerg-p399-006",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "During a seizure: rhythmic muscle contractions, stiffness, may fall or lose consciousness, possible {{c1::incontinence}}."
+  },
+  {
+   "id": "emerg-p399-007",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "Syncope: place the patient supine with legs slightly elevated — the {{c1::Trendelenburg position}}."
+  },
+  {
+   "id": "emerg-p399-008",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "If recovery from syncope is delayed, use an {{c1::ammonia capsule}} under the nose."
+  },
+  {
+   "id": "emerg-p399-009",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "Seizure: protect the patient from injury (clear surroundings, cushion head); do NOT {{c1::restrain the patient or place anything in the mouth}}."
+  },
+  {
+   "id": "emerg-p399-010",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "Let a seizure run its course; call EMS if it lasts more than {{c1::5 minutes}} or if {{c2::another begins immediately after}}."
+  },
+  {
+   "id": "emerg-p399-011",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "After a seizure ends, place the patient in the {{c1::recovery position (on their side)}}; monitor vitals and reassure."
+  },
+  {
+   "id": "emerg-p399-012",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "text": "Dental settings typically use a {{c1::modified Trendelenburg}} position — only the legs elevated, not full inversion."
+  },
+  {
+   "id": "emerg-p400-001",
+   "deck": "Medical Emergencies",
+   "section": "Stroke",
+   "page": 400,
+   "text": "A {{c1::TIA (transient ischemic attack)}}, or \"mini-stroke\", is a temporary blockage in the brain whose symptoms resolve within {{c2::24 hours}}; it is a warning sign of a future full stroke."
+  },
+  {
+   "id": "emerg-p400-002",
+   "deck": "Medical Emergencies",
+   "section": "Stroke",
+   "page": 400,
+   "text": "Most strokes are {{c1::ischemic}} (a clot blocks a cerebral artery); fewer are {{c2::hemorrhagic}} (a vessel bursts and bleeds into the brain)."
+  },
+  {
+   "id": "emerg-p400-003",
+   "deck": "Medical Emergencies",
+   "section": "Stroke",
+   "page": 400,
+   "text": "Stroke contributors: {{c1::high blood pressure}}, {{c2::atherosclerosis}}, heart disease, smoking, diabetes, obesity, high cholesterol, and age.",
+   "extra": "Board Alert: why medical history matters — a patient with high BP, heart disease or high cholesterol is at greater risk of a stroke or cardiac event during treatment. Boards test these links in case studies."
+  },
+  {
+   "id": "emerg-p400-004",
+   "deck": "Medical Emergencies",
+   "section": "Stroke",
+   "page": 400,
+   "text": "Besides F.A.S.T. (arm = numb or can't raise one arm; speech = slurred, confused), stroke signs include sudden confusion, vision changes, dizziness, {{c1::severe headache}}, or {{c2::one-sided numbness}}."
+  },
+  {
+   "id": "emerg-p400-005",
+   "deck": "Medical Emergencies",
+   "section": "Stroke",
+   "page": 400,
+   "text": "Stroke protocol: call 911 right away and note the {{c1::exact time symptoms began}} — hospital treatment is time-sensitive. Monitor vitals until EMS arrives."
+  },
+  {
+   "id": "emerg-p400-006",
+   "deck": "Medical Emergencies",
+   "section": "Stroke",
+   "page": 400,
+   "text": "Suspected stroke: give nothing by mouth (no food, water or medications); do NOT give {{c1::aspirin}} — it may be dangerous if the stroke is {{c2::hemorrhagic}}."
+  },
+  {
+   "id": "emerg-p400-007",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "A mild allergic reaction is a localized immune reaction with {{c1::gradual}} onset — over several minutes to hours after exposure."
+  },
+  {
+   "id": "emerg-p400-008",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Anaphylaxis onset is {{c1::rapid — usually within seconds or minutes}} of exposure to the allergen."
+  },
+  {
+   "id": "emerg-p400-009",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Signs of a mild allergic reaction: erythema (redness), {{c1::urticaria}} (hives), {{c2::pruritus}} (itching), mild swelling."
+  },
+  {
+   "id": "emerg-p400-010",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Signs of anaphylaxis: {{c1::angioedema}} (severe swelling), difficulty breathing, wheezing, low BP, weak pulse, dizziness, GI upset, possible loss of consciousness; untreated it can lead to {{c2::cardiac arrest}}."
+  },
+  {
+   "id": "emerg-p400-011",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Mild allergic reaction: keep the patient {{c1::supine}}, give {{c2::diphenhydramine (Benadryl)}} orally, give oxygen if short of breath, and monitor vitals."
+  },
+  {
+   "id": "emerg-p400-012",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Oral diphenhydramine dose: adults {{c1::25–50 mg}}; children {{c2::1–2 mg/kg}}."
+  },
+  {
+   "id": "emerg-p400-013",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Anaphylaxis: administer epinephrine {{c1::1:1,000}} by the {{c2::IM or SC}} route."
+  },
+  {
+   "id": "emerg-p400-014",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Anaphylaxis epinephrine dose: adults {{c1::0.2–0.5 mL (0.2–0.5 mg)}}; children {{c2::0.01 mg/kg}}."
+  },
+  {
+   "id": "emerg-p400-015",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Repeat epinephrine every {{c1::10–15 minutes}} if symptoms persist, up to {{c2::3}} total doses."
+  },
+  {
+   "id": "emerg-p400-016",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Anaphylaxis: call 911 immediately after the {{c1::first epinephrine dose}}; give oxygen, monitor vitals continuously, and be ready for CPR."
+  },
+  {
+   "id": "emerg-p400-017",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Anaphylaxis mechanism: widespread {{c1::vasodilation}} drops BP (poor oxygen to the brain); {{c2::bronchoconstriction}} narrows the airway (wheezing); {{c3::histamine release from mast cells}} causes hives, itching, swelling and GI symptoms."
+  },
+  {
+   "id": "emerg-p400-018",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Epinephrine constricts blood vessels via {{c1::alpha}} receptors (raises BP), relaxes airway muscles via {{c2::beta-2}} receptors, and increases heart rate and cardiac output via {{c3::beta-1}} receptors."
+  },
+  {
+   "id": "emerg-p400-019",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "text": "Epinephrine also slows further histamine release from {{c1::mast cells and basophils}}."
+  },
+  {
+   "id": "emerg-p401-001",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 401,
+   "text": "Inject epinephrine (EpiPen) into the {{c1::outer thigh (vastus lateralis)}} — a large muscle with excellent blood supply for fast absorption."
+  },
+  {
+   "id": "emerg-p401-002",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 401,
+   "text": "An EpiPen may be injected {{c1::through clothing}}; hold it in place for {{c2::3–10 seconds}}, depending on the device instructions."
+  },
+  {
+   "id": "emerg-p401-003",
+   "deck": "Medical Emergencies",
+   "section": "Asthma attack",
+   "page": 401,
+   "text": "Asthma attacks are triggered by allergens, {{c1::cold air}}, {{c2::exercise}}, stress, or anxiety."
+  },
+  {
+   "id": "emerg-p401-004",
+   "deck": "Medical Emergencies",
+   "section": "Asthma attack",
+   "page": 401,
+   "text": "Asthma signs: coughing, wheezing, difficulty breathing, {{c1::cyanosis}} (bluish skin), chest tightness."
+  },
+  {
+   "id": "emerg-p401-005",
+   "deck": "Medical Emergencies",
+   "section": "Asthma attack",
+   "page": 401,
+   "text": "Asthma attack: seat the patient {{c1::upright}} and assist with their bronchodilator — usually {{c2::albuterol}}, {{c3::1–2 puffs}} as prescribed."
+  },
+  {
+   "id": "emerg-p401-006",
+   "deck": "Medical Emergencies",
+   "section": "Asthma attack",
+   "page": 401,
+   "text": "Asthma attack: give oxygen if short of breath or turning blue; call 911 if symptoms {{c1::do not improve within a few minutes or worsen}}; be ready for CPR."
+  },
+  {
+   "id": "emerg-p401-007",
+   "deck": "Medical Emergencies",
+   "section": "Asthma attack",
+   "page": 401,
+   "text": "Patients with recurring asthma should keep their bronchodilator inhaler {{c1::within reach}} during dental procedures."
+  },
+  {
+   "id": "emerg-p401-008",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "text": "Hyperventilation onset is sudden, often triggered by {{c1::anxiety}}, pain, or stress."
+  },
+  {
+   "id": "emerg-p401-009",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "text": "Hypoventilation is typically due to {{c1::respiratory depression}}, {{c2::narcotic overdose}}, or neuromuscular issues."
+  },
+  {
+   "id": "emerg-p401-010",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "text": "Hyperventilation signs: lightheadedness, rapid breathing, chest tightness, {{c1::tingling in hands/feet}}, confusion, {{c2::muscle spasms}}, dizziness."
+  },
+  {
+   "id": "emerg-p401-011",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "text": "Hypoventilation signs: slow or shallow breathing, {{c1::cyanosis}}, confusion, drowsiness, potential {{c2::respiratory arrest}}."
+  },
+  {
+   "id": "emerg-p401-012",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "text": "Hyperventilation leads to respiratory {{c1::alkalosis}} (high pH from low CO₂); hypoventilation leads to respiratory {{c2::acidosis}} and hypoxia."
+  },
+  {
+   "id": "emerg-p401-013",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "text": "Hyperventilation: seat the patient {{c1::upright}} to improve diaphragm function, and do NOT give {{c2::oxygen}}."
+  },
+  {
+   "id": "emerg-p401-014",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "text": "Slow-breathing techniques for hyperventilation: breathe through {{c1::pursed lips}} (like blowing out a candle), {{c2::cup hands}} over nose and mouth, belly (diaphragmatic) breathing, alternate nostril breathing, inhale–hold briefly–exhale slowly."
+  },
+  {
+   "id": "emerg-p401-015",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "text": "Hypoventilation is a medical emergency: call 911 immediately, place the patient {{c1::semi-reclined or supine}}, give {{c2::oxygen immediately}}, monitor vitals, and be ready for rescue breathing or CPR."
+  },
+  {
+   "id": "emerg-p402-001",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "Angina: chest pressure or tightness, possibly radiating to the jaw, arm, shoulder, or back; lasts less than {{c1::10 minutes}} and is {{c2::predictable}}."
+  },
+  {
+   "id": "emerg-p402-002",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "MI pain is like angina but more intense, lasts {{c1::longer than 10 minutes}}, and may include nausea, vomiting, pale or gray skin, sweating."
+  },
+  {
+   "id": "emerg-p402-003",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "Suspected MI: call 911 {{c1::immediately}} — do not wait for a second nitroglycerin dose."
+  },
+  {
+   "id": "emerg-p402-004",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "Chest pain: give nitroglycerin {{c1::0.4 mg}} {{c2::under the tongue}} if systolic BP is ≥{{c3::90}} mmHg."
+  },
+  {
+   "id": "emerg-p402-005",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "Nitroglycerin for angina may be repeated every {{c1::5 minutes}}, to a maximum of {{c2::3 doses in 15 minutes}}."
+  },
+  {
+   "id": "emerg-p402-006",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "Angina: stop treatment and keep the patient {{c1::seated upright or semi-reclined}}. MI: upright if conscious; {{c2::supine with legs elevated}} if unconscious or hypotensive."
+  },
+  {
+   "id": "emerg-p402-007",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "Give oxygen at {{c1::4–6 L/min}} during angina or MI (if available / short of breath, cyanosis, or shock signs)."
+  },
+  {
+   "id": "emerg-p402-008",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "Suspected MI: give {{c1::325 mg chewable aspirin}} if the patient is alert and not allergic; aspirin prevents additional clot formation by inhibiting {{c2::platelet aggregation}}."
+  },
+  {
+   "id": "emerg-p402-009",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "Nitroglycerin {{c1::dilates the coronary arteries}}, increasing oxygen delivery and reducing the heart's workload."
+  },
+  {
+   "id": "emerg-p402-010",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "text": "Sublingual nitroglycerin acts within {{c1::1–3 minutes}} because the tissue is highly vascular; if swallowed it is destroyed by the liver ({{c2::first-pass metabolism}})."
+  },
+  {
+   "id": "emerg-p402-011",
+   "deck": "Medical Emergencies",
+   "section": "Cardiac arrest",
+   "page": 402,
+   "text": "Cardiac arrest is often caused by a severe {{c1::heart attack}}, {{c2::electrical problems in the heart}}, trauma, overdose, or lack of oxygen."
+  },
+  {
+   "id": "emerg-p402-012",
+   "deck": "Medical Emergencies",
+   "section": "Cardiac arrest",
+   "page": 402,
+   "text": "Cardiac arrest signs: unresponsive, not breathing or only {{c1::gasping}}, and no pulse."
+  },
+  {
+   "id": "emerg-p402-013",
+   "deck": "Medical Emergencies",
+   "section": "Cardiac arrest",
+   "page": 402,
+   "text": "Cardiac arrest protocol: call 911 immediately, then begin {{c1::chest compressions}} (100–120/min, at least 2 inches deep in adults), allowing full recoil and minimizing interruptions."
+  }
+ ],
+ "basic": [
+  {
+   "id": "emerg-p397-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — respiration",
+   "page": 397,
+   "front": "Bradypnea",
+   "back": "Slow respiratory rate, below the normal rate",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p397-b-02",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — respiration",
+   "page": 397,
+   "front": "Tachypnea",
+   "back": "Rapid respiratory rate, above the normal rate",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p397-b-03",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — pulse",
+   "page": 397,
+   "front": "Bradycardia",
+   "back": "Slow heart rate, below the normal rate",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p397-b-04",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — pulse",
+   "page": 397,
+   "front": "Tachycardia",
+   "back": "Fast heart rate, above the normal rate",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p397-b-05",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — blood pressure",
+   "page": 397,
+   "front": "Blood pressure",
+   "back": "The force against the walls of the blood vessels during contraction and relaxation of the heart",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p398-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "front": "Orthostatic (postural) hypotension",
+   "back": "A drop in blood pressure when standing from a seated or lying position; blood pools in the legs, reducing brain perfusion",
+   "reverse": true,
+   "extra": "Did you know: it affects 1 in 5 older adults and is a common cause of fainting in the dental chair."
+  },
+  {
+   "id": "emerg-p398-b-02",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "front": "White coat hypertension",
+   "back": "A temporary rise in BP (by 10–20 mmHg) caused by stress in dental/medical settings",
+   "reverse": true,
+   "extra": "Occurs in 12–50% of patients."
+  },
+  {
+   "id": "emerg-p399-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "front": "Syncope",
+   "back": "Temporary loss of consciousness due to reduced blood flow and oxygen to the brain (fainting)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p399-b-02",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "front": "Seizure",
+   "back": "Sudden, uncontrolled electrical activity in the brain that may cause convulsions or altered awareness",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p399-b-03",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "front": "How do ammonia capsules (smelling salts) help reverse fainting?",
+   "back": "They irritate the nasal membranes and stimulate the trigeminal nerve; the strong smell triggers an involuntary inhalation reflex, raising heart rate, blood pressure and breathing.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p399-b-04",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "front": "Why does elevating the legs help a fainting (syncope) patient?",
+   "back": "Gravity pulls blood back toward the heart and brain, boosting brain circulation — this can reverse symptoms in minutes, sometimes faster than oxygen alone.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p400-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Stroke",
+   "page": 400,
+   "front": "Stroke (CVA)",
+   "back": "Sudden loss of brain function due to a blocked or burst blood vessel in the brain",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p400-b-02",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "front": "Anaphylaxis",
+   "back": "A severe, life-threatening allergic reaction affecting multiple body systems, often leading to airway constriction and shock",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p401-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Asthma attack",
+   "page": 401,
+   "front": "Asthma attack",
+   "back": "A sudden episode of airway narrowing and mucus production causing breathing difficulty, wheezing and chest tightness",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p401-b-02",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "front": "Hyperventilation",
+   "back": "Breathing too rapidly or deeply, causing excessive elimination of CO₂",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p401-b-03",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "front": "Hypoventilation",
+   "back": "Breathing too slowly or shallowly, causing inadequate oxygen intake and CO₂ buildup",
+   "reverse": true,
+   "extra": "Rare in dental settings."
+  },
+  {
+   "id": "emerg-p401-b-04",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "front": "Why can hyperventilation lead to fainting?",
+   "back": "Low CO₂ (respiratory alkalosis) reduces blood flow to the brain.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p401-b-05",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "front": "What is the goal of treatment during a hyperventilation episode?",
+   "back": "Increase CO₂ levels in the body and slow down the breathing rate.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p402-b-01",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "front": "Angina",
+   "back": "Temporary chest pain due to partial blockage of a coronary artery; blood flow is reduced but not completely stopped",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p402-b-02",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "front": "Myocardial infarction (MI)",
+   "back": "Complete blockage of a coronary artery causing permanent death of heart muscle",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p402-b-03",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "front": "In the dental chair, how do you tell angina from a heart attack?",
+   "back": "You can't by the pain pattern (identical). The difference is how long the pain lasts and whether it responds to nitroglycerin: if chest pain doesn't go away after 1 dose of nitro, call 911 and treat it as a heart attack.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p402-b-04",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "front": "Why is aspirin NOT given for angina?",
+   "back": "Angina is caused by temporary narrowing of the arteries, not a clot, so aspirin won't help — and if the real cause is a bleeding emergency (e.g. hemorrhagic stroke) it could make things much worse. Give aspirin only when a heart attack is suspected (benefit outweighs risk).",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "emerg-p402-b-05",
+   "deck": "Medical Emergencies",
+   "section": "Cardiac arrest",
+   "page": 402,
+   "front": "Cardiac arrest",
+   "back": "The heart suddenly stops beating; the patient becomes unresponsive, stops breathing and has no pulse",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "emerg-p396-t-01",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "question": "BLS: what is the maximum time to spend checking breathing and pulse? (seconds)",
+   "answer": "10",
+   "extra": "Look for chest rise and listen for breathing while checking the pulse."
+  },
+  {
+   "id": "emerg-p396-t-02",
+   "deck": "Medical Emergencies",
+   "section": "CPR technique",
+   "page": 396,
+   "question": "Recommended CPR compression rate? (compressions per minute, range)",
+   "answer": "100–120",
+   "extra": "Fun fact: \"Stayin' Alive\" (Bee Gees) is 104 beats per minute — hum the chorus to keep pace."
+  },
+  {
+   "id": "emerg-p396-t-03",
+   "deck": "Medical Emergencies",
+   "section": "AED",
+   "page": 396,
+   "question": "AED: check for a pulse after how many shocks? (number)",
+   "answer": "3",
+   "extra": "No pulse → continue CPR; pulse present → assess airway and breathing."
+  },
+  {
+   "id": "emerg-p397-t-01",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — respiration",
+   "page": 397,
+   "question": "How long should the patient rest before you record vital signs? (minimum, in minutes)",
+   "answer": "5",
+   "extra": ""
+  },
+  {
+   "id": "emerg-p398-t-01",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "question": "Maximum epinephrine dose for a hypertensive patient? (mg)",
+   "answer": "0.04",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "emerg-p397-m-01",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — pulse",
+   "page": 397,
+   "prompt": "Match each age group to its resting heart-rate range (book's chart).",
+   "pairs": [
+    [
+     "Under 1 year",
+     "100–160 bpm"
+    ],
+    [
+     "1–3 years",
+     "90–140 bpm"
+    ],
+    [
+     "3–5 years",
+     "80–120 bpm"
+    ],
+    [
+     "5–12 years",
+     "70–110 bpm"
+    ],
+    [
+     "Over 12 years",
+     "60–100 bpm"
+    ]
+   ]
+  },
+  {
+   "id": "emerg-p398-m-01",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and dental process of care",
+   "page": 398,
+   "prompt": "Match each BP reading (mmHg) to the dental action.",
+   "pairs": [
+    [
+     "<140 / <90",
+     "Routine care"
+    ],
+    [
+     "140–159 / 90–99",
+     "Proceed; monitor BP each visit"
+    ],
+    [
+     "160–179 / 100–109",
+     "Caution: recheck in 5 min, consider consult"
+    ],
+    [
+     "≥180 / ≥110",
+     "Stop elective care; refer if still high"
+    ]
+   ]
+  },
+  {
+   "id": "emerg-p400-m-01",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "prompt": "Match each epinephrine receptor to its effect in anaphylaxis.",
+   "pairs": [
+    [
+     "Alpha",
+     "Vasoconstriction → raises BP"
+    ],
+    [
+     "Beta-2",
+     "Relaxes airway muscles"
+    ],
+    [
+     "Beta-1",
+     "Increases heart rate and cardiac output"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "emerg-p396-o-01",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "prompt": "Put the BLS sequence in order.",
+   "items": [
+    "C: Circulation (compressions)",
+    "A: Airway (clear airway)",
+    "B: Breathing (rescue breaths)"
+   ]
+  },
+  {
+   "id": "emerg-p396-o-02",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "prompt": "Put the BLS (adult, healthcare provider) steps in order.",
+   "items": [
+    "Check responsiveness; send for AED; get help",
+    "Check breathing and pulse (≤10 s)",
+    "No pulse / no breathing: start CPR 30:2",
+    "AED arrives: check rhythm",
+    "Shockable: give 1 shock",
+    "Resume CPR for 2 minutes until AED prompts a rhythm check"
+   ]
+  },
+  {
+   "id": "emerg-p396-o-03",
+   "deck": "Medical Emergencies",
+   "section": "AED",
+   "page": 396,
+   "prompt": "Put the AED steps in order.",
+   "items": [
+    "Place patient on a firm, dry surface",
+    "Turn on the AED and follow the voice prompts",
+    "Expose the chest, remove moisture, attach pads",
+    "Stand clear while the AED analyzes",
+    "Deliver the shock if advised",
+    "Immediately resume CPR"
+   ]
+  },
+  {
+   "id": "emerg-p397-o-01",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — blood pressure",
+   "page": 397,
+   "prompt": "Put the manual blood-pressure steps in order.",
+   "items": [
+    "Place the cuff snugly (not too tight) on the upper arm",
+    "Inflate until the pulse disappears",
+    "Inflate another 20–30 mmHg",
+    "Deflate slowly at 2–3 mmHg/s",
+    "Pulse reappears = systolic",
+    "Last sound before silence = diastolic"
+   ]
+  },
+  {
+   "id": "emerg-p398-o-01",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "prompt": "A patient feels dizzy after sitting up (orthostatic hypotension). Put the response in order.",
+   "items": [
+    "Return to supine with feet slightly elevated",
+    "Monitor vitals",
+    "Raise slowly — seated 2 min, then stand",
+    "Give oxygen if needed"
+   ]
+  },
+  {
+   "id": "emerg-p399-o-01",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "prompt": "Put the syncope recovery steps in order.",
+   "items": [
+    "Supine, legs slightly elevated",
+    "Loosen tight clothing",
+    "Ammonia capsule under nose if recovery is delayed",
+    "Monitor vital signs",
+    "Reassure the patient",
+    "Full rest before standing"
+   ]
+  },
+  {
+   "id": "emerg-p401-o-01",
+   "deck": "Medical Emergencies",
+   "section": "Asthma attack",
+   "page": 401,
+   "prompt": "Put the asthma-attack protocol in order.",
+   "items": [
+    "Seat upright",
+    "Assist with bronchodilator (albuterol 1–2 puffs)",
+    "Oxygen if short of breath / cyanotic",
+    "Call 911 if no improvement in a few minutes"
+   ]
+  },
+  {
+   "id": "emerg-p402-o-01",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "prompt": "Put the suspected-MI response in order.",
+   "items": [
+    "Stop treatment; position the patient",
+    "Call 911",
+    "Nitroglycerin 0.4 mg SL (if SBP ≥90)",
+    "Chewable aspirin 325 mg",
+    "Oxygen 4–6 L/min",
+    "Monitor vitals; CPR/AED if unresponsive"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "emerg-p398-s-01",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "prompt": "Sort the causes: hypertension or orthostatic hypotension?",
+   "categories": [
+    [
+     "Hypertension",
+     [
+      "Chronic disease",
+      "Obesity",
+      "Salt intake",
+      "Kidney dysfunction",
+      "Smoking"
+     ]
+    ],
+    [
+     "Orthostatic hypotension",
+     [
+      "Prolonged chair time",
+      "Standing too quickly",
+      "Dehydration",
+      "Antihypertensive meds"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "emerg-p399-s-01",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "prompt": "Sort these: syncope or seizure?",
+   "categories": [
+    [
+     "Syncope",
+     [
+      "Warmth and nausea",
+      "Pale skin, sweating",
+      "Limp body",
+      "Fast recovery"
+     ]
+    ],
+    [
+     "Seizure",
+     [
+      "Aura",
+      "Staring, jerking limbs",
+      "Rhythmic contractions, stiffness",
+      "Possible incontinence"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "emerg-p400-s-01",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 400,
+   "prompt": "Sort the signs: mild allergic reaction or anaphylaxis?",
+   "categories": [
+    [
+     "Mild allergic reaction",
+     [
+      "Erythema",
+      "Urticaria (hives)",
+      "Pruritus (itching)",
+      "Mild swelling"
+     ]
+    ],
+    [
+     "Anaphylaxis",
+     [
+      "Angioedema",
+      "Wheezing",
+      "Low blood pressure",
+      "Weak pulse"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "emerg-p401-s-01",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "prompt": "Sort: hyperventilation or hypoventilation?",
+   "categories": [
+    [
+     "Hyperventilation",
+     [
+      "Triggered by anxiety",
+      "Respiratory alkalosis",
+      "Tingling hands/feet",
+      "Do NOT give oxygen"
+     ]
+    ],
+    [
+     "Hypoventilation",
+     [
+      "Narcotic overdose",
+      "Respiratory acidosis",
+      "Drowsiness, cyanosis",
+      "Give oxygen immediately"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "emerg-p396-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "CPR technique",
+   "page": 396,
+   "question": "Two dental hygienists perform CPR on an unresponsive 6-year-old with no pulse. What compression-to-ventilation ratio should they use?",
+   "options": [
+    "A. 30:2",
+    "B. 15:2",
+    "C. 5:1",
+    "D. 30:1"
+   ],
+   "answer": "B. 15:2",
+   "explanation": "Children and infants get 15:2 when there are 2 rescuers (30:2 with one rescuer). 30:2 is the adult ratio for 1 or 2 rescuers."
+  },
+  {
+   "id": "emerg-p396-mcq-02",
+   "deck": "Medical Emergencies",
+   "section": "Basic life support",
+   "page": 396,
+   "question": "Your patient collapses in the chair. She is unresponsive and not breathing, but you feel a strong carotid pulse. After calling for help, what should you do?",
+   "options": [
+    "A. Begin chest compressions at 30:2",
+    "B. Give 1 rescue breath every 5–6 seconds and recheck the pulse every 2 minutes",
+    "C. Place her in the recovery position and wait for EMS",
+    "D. Attach the AED and deliver a shock"
+   ],
+   "answer": "B. Give 1 rescue breath every 5–6 seconds and recheck the pulse every 2 minutes",
+   "explanation": "A pulse with no normal breathing calls for rescue breathing only (adult: 1 breath every 5–6 s), reassessing the pulse every 2 minutes. Compressions start only when there is no pulse; the recovery position is for a patient who is breathing."
+  },
+  {
+   "id": "emerg-p397-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Vital signs — respiration",
+   "page": 397,
+   "question": "Which resting respiratory rate in an adult patient is abnormal?",
+   "options": [
+    "A. 12 breaths/min",
+    "B. 16 breaths/min",
+    "C. 20 breaths/min",
+    "D. 26 breaths/min"
+   ],
+   "answer": "D. 26 breaths/min",
+   "explanation": "Normal adult respiration is 12–20 breaths/min; 26 is tachypnea. 12 and 20 are the edges of the normal range, not outside it."
+  },
+  {
+   "id": "emerg-p398-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Hypertension and hypotension",
+   "page": 398,
+   "question": "A patient takes an antihypertensive every morning with breakfast. To lower her risk of orthostatic hypotension, when is the best appointment time?",
+   "options": [
+    "A. Before she takes her medication",
+    "B. 30–60 minutes after her medication and meal",
+    "C. Immediately after taking the medication on an empty stomach",
+    "D. Timing makes no difference if she stands slowly"
+   ],
+   "answer": "B. 30–60 minutes after her medication and meal",
+   "explanation": "The book advises scheduling 30–60 minutes after meds and meals. Skipping the medication instead would leave her BP uncontrolled."
+  },
+  {
+   "id": "emerg-p399-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Syncope and seizure",
+   "page": 399,
+   "question": "A patient begins a generalized seizure in the dental chair. Which action is appropriate?",
+   "options": [
+    "A. Place a bite block between the teeth to protect the tongue",
+    "B. Hold the arms down to prevent injury",
+    "C. Move the instruments and tray away and cushion the head",
+    "D. Break an ammonia capsule under the nose"
+   ],
+   "answer": "C. Move the instruments and tray away and cushion the head",
+   "explanation": "Protect from injury by clearing surroundings and cushioning the head. Never restrain or place anything in the mouth. Ammonia capsules are for delayed recovery from syncope."
+  },
+  {
+   "id": "emerg-p400-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Stroke",
+   "page": 400,
+   "question": "During a recall visit, a 68-year-old patient with hypertension suddenly has a drooping right side of the face and slurred speech. After calling 911, what should the hygienist do?",
+   "options": [
+    "A. Give 325 mg chewable aspirin",
+    "B. Give 0.4 mg nitroglycerin sublingually",
+    "C. Note the time symptoms began and give nothing by mouth",
+    "D. Have the patient drink water and rest 15 minutes"
+   ],
+   "answer": "C. Note the time symptoms began and give nothing by mouth",
+   "explanation": "Stroke treatment is time-sensitive, so record onset time; nothing by mouth. Aspirin (the tempting distractor) can be dangerous if the stroke is hemorrhagic — aspirin is for a suspected MI."
+  },
+  {
+   "id": "emerg-p401-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Allergic reactions",
+   "page": 401,
+   "question": "Minutes after a latex glove touches her lips, an adult patient develops wheezing, facial swelling and a weak, rapid pulse. What is the first drug to give?",
+   "options": [
+    "A. Diphenhydramine 25–50 mg orally",
+    "B. Epinephrine 1:1,000, 0.3 mg IM in the outer thigh",
+    "C. Albuterol, 2 puffs",
+    "D. Nitroglycerin 0.4 mg sublingually"
+   ],
+   "answer": "B. Epinephrine 1:1,000, 0.3 mg IM in the outer thigh",
+   "explanation": "Rapid onset with airway and circulatory signs = anaphylaxis: epinephrine 1:1,000 IM (0.2–0.5 mg adult), then call 911. Oral diphenhydramine is for a mild, localized reaction."
+  },
+  {
+   "id": "emerg-p401-mcq-02",
+   "deck": "Medical Emergencies",
+   "section": "Hyperventilation and hypoventilation",
+   "page": 401,
+   "question": "An anxious patient breathes rapidly before an extraction and reports tingling fingers and lightheadedness. What is the best management?",
+   "options": [
+    "A. Give 100% oxygen by mask",
+    "B. Seat upright and coach slow breathing, e.g. through pursed lips",
+    "C. Place supine and call 911",
+    "D. Give albuterol 2 puffs"
+   ],
+   "answer": "B. Seat upright and coach slow breathing, e.g. through pursed lips",
+   "explanation": "This is hyperventilation (anxiety, tingling, respiratory alkalosis). The goal is to raise CO₂ — slow, controlled breathing; oxygen is NOT given. Oxygen and 911 are for hypoventilation."
+  },
+  {
+   "id": "emerg-p402-mcq-01",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "question": "A patient with stable angina reports chest pressure. Her BP is 84/56 mmHg. Which action is correct?",
+   "options": [
+    "A. Give nitroglycerin 0.4 mg SL now",
+    "B. Withhold nitroglycerin because systolic BP is below 90 mmHg",
+    "C. Give chewable aspirin 325 mg",
+    "D. Give a second nitroglycerin dose immediately"
+   ],
+   "answer": "B. Withhold nitroglycerin because systolic BP is below 90 mmHg",
+   "explanation": "Nitroglycerin is given only if systolic BP ≥90 mmHg (it dilates vessels and would drop BP further). Aspirin is not given for angina."
+  },
+  {
+   "id": "emerg-p402-mcq-02",
+   "deck": "Medical Emergencies",
+   "section": "Angina and myocardial infarction",
+   "page": 402,
+   "question": "A patient's chest pain is unrelieved 5 minutes after one 0.4 mg nitroglycerin tablet. What should the hygienist do next?",
+   "options": [
+    "A. Wait another 10 minutes before acting",
+    "B. Call 911 and treat it as a heart attack",
+    "C. Dismiss the patient to see a physician today",
+    "D. Give diphenhydramine"
+   ],
+   "answer": "B. Call 911 and treat it as a heart attack",
+   "explanation": "Angina and MI feel identical; pain that persists after 1 dose of nitro is treated as an MI — call 911 immediately."
+  }
+ ]
+}

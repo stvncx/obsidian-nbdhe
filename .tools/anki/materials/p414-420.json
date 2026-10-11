@@ -1,0 +1,1963 @@
+{
+ "diagrams": [
+  {
+   "name": "mat-p414-mechanics",
+   "title": "Basic concepts in mechanics: forces and properties",
+   "deck": "Dental Materials",
+   "pdf_page": 2,
+   "page": 414,
+   "crop": [
+    195,
+    175,
+    1240,
+    830
+   ],
+   "labels": [
+    {
+     "box": [
+      256,
+      355,
+      416,
+      394
+     ],
+     "answer": "Tensile force",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      865,
+      454,
+      977,
+      491
+     ],
+     "answer": "Ductility",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      263,
+      520,
+      406,
+      560
+     ],
+     "answer": "Shear force",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      832,
+      752,
+      982,
+      789
+     ],
+     "answer": "Malleability",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      224,
+      764,
+      443,
+      803
+     ],
+     "answer": "Compressive force",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "mat-p415-microleakage",
+   "title": "Consequences of microleakage at the restoration margin",
+   "deck": "Dental Materials",
+   "pdf_page": 3,
+   "page": 415,
+   "crop": [
+    530,
+    185,
+    1225,
+    700
+   ],
+   "labels": [
+    {
+     "box": [
+      886,
+      261,
+      1053,
+      299
+     ],
+     "answer": "Microleakage",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      546,
+      291,
+      665,
+      352
+     ],
+     "answer": "Marginal staining",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1052,
+      330,
+      1184,
+      392
+     ],
+     "answer": "Secondary caries",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1076,
+      419,
+      1177,
+      480
+     ],
+     "answer": "Enamel crack",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      561,
+      519,
+      666,
+      582
+     ],
+     "answer": "Internal gap",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1021,
+      536,
+      1203,
+      597
+     ],
+     "answer": "Post-operative sensitivity",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "mat-p415-wetting-viscosity",
+   "title": "Wetting and viscosity",
+   "deck": "Dental Materials",
+   "pdf_page": 3,
+   "page": 415,
+   "crop": [
+    690,
+    1415,
+    1225,
+    2040
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      739,
+      1643,
+      911,
+      1681
+     ],
+     "answer": "Poor wetting",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      975,
+      1644,
+      1156,
+      1681
+     ],
+     "answer": "Good wetting",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      740,
+      1978,
+      908,
+      2017
+     ],
+     "answer": "Low viscosity",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      959,
+      1978,
+      1137,
+      2017
+     ],
+     "answer": "High viscosity",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "mat-p416-optical",
+   "title": "Optical properties: transparent, translucent, opaque",
+   "deck": "Dental Materials",
+   "pdf_page": 4,
+   "page": 416,
+   "crop": [
+    200,
+    460,
+    1100,
+    960
+   ],
+   "labels": [
+    {
+     "box": [
+      273,
+      655,
+      426,
+      691
+     ],
+     "answer": "Transparent",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      578,
+      653,
+      728,
+      693
+     ],
+     "answer": "Translucent",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      907,
+      658,
+      1014,
+      692
+     ],
+     "answer": "Opaque",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      881,
+      890,
+      1026,
+      927
+     ],
+     "answer": "Gold crown",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      279,
+      904,
+      434,
+      942
+     ],
+     "answer": "Clear aligner",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      606,
+      906,
+      704,
+      942
+     ],
+     "answer": "Veneer",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "mat-p419-restorations",
+   "title": "Restoration types",
+   "deck": "Dental Materials",
+   "pdf_page": 7,
+   "page": 419,
+   "crop": [
+    120,
+    740,
+    1170,
+    1160
+   ],
+   "labels": [
+    {
+     "box": [
+      178,
+      874,
+      268,
+      912
+     ],
+     "answer": "Filling",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      584,
+      892,
+      663,
+      926
+     ],
+     "answer": "Onlay",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      992,
+      944,
+      1090,
+      981
+     ],
+     "answer": "Veneer",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      346,
+      1056,
+      415,
+      1092
+     ],
+     "answer": "Inlay",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      743,
+      1055,
+      830,
+      1091
+     ],
+     "answer": "Crown",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "mat-p414-001",
+   "deck": "Dental Materials",
+   "section": "Forces",
+   "page": 414,
+   "text": "Normal masticatory force on molars is about {{c1::90–200}} pounds — and much more on the cusp tips."
+  },
+  {
+   "id": "mat-p414-002",
+   "deck": "Dental Materials",
+   "section": "Forces",
+   "page": 414,
+   "text": "{{c1::Tensile}} force pulls objects apart and elongates them (e.g., pulling a rope from opposing sides)."
+  },
+  {
+   "id": "mat-p414-003",
+   "deck": "Dental Materials",
+   "section": "Forces",
+   "page": 414,
+   "text": "{{c1::Compressive}} force puts pressure on an object (e.g., heavy lifting, CPR chest compressions)."
+  },
+  {
+   "id": "mat-p414-004",
+   "deck": "Dental Materials",
+   "section": "Forces",
+   "page": 414,
+   "text": "{{c1::Shear}} force pushes one part of an object in one direction and another part in the opposite direction, with a twisting or rotating motion (e.g., the two handles of scissors acting on the pin)."
+  },
+  {
+   "id": "mat-p414-005",
+   "deck": "Dental Materials",
+   "section": "Stress",
+   "page": 414,
+   "text": "{{c1::Stress}} is the internal force that resists an applied force; it can resist the external force up to the point of {{c2::fracture}}."
+  },
+  {
+   "id": "mat-p414-006",
+   "deck": "Dental Materials",
+   "section": "Stress",
+   "page": 414,
+   "text": "The {{c1::larger}} the area over which stress acts, the more distributed the stress (e.g., flat running shoes put less stress on the foot than heels)."
+  },
+  {
+   "id": "mat-p414-007",
+   "deck": "Dental Materials",
+   "section": "Stress",
+   "page": 414,
+   "text": "{{c1::Amalgam}} and {{c1::composite}} have stress-bearing ability similar to natural tooth {{c2::enamel}}."
+  },
+  {
+   "id": "mat-p414-008",
+   "deck": "Dental Materials",
+   "section": "Stress",
+   "page": 414,
+   "text": "{{c1::Ductility}} is the ability to withstand deformation under stress before fracturing or breaking."
+  },
+  {
+   "id": "mat-p414-009",
+   "deck": "Dental Materials",
+   "section": "Stress",
+   "page": 414,
+   "text": "{{c1::Brittleness}} is the tendency to fracture or break before deformation occurs."
+  },
+  {
+   "id": "mat-p414-010",
+   "deck": "Dental Materials",
+   "section": "Stress",
+   "page": 414,
+   "text": "{{c1::Malleability}} is the ability to be compressed without fracturing."
+  },
+  {
+   "id": "mat-p414-011",
+   "deck": "Dental Materials",
+   "section": "Strain",
+   "page": 414,
+   "text": "{{c1::Strain}} is the deformation of a material in response to stress — a change in size and shape."
+  },
+  {
+   "id": "mat-p414-012",
+   "deck": "Dental Materials",
+   "section": "Strain",
+   "page": 414,
+   "text": "{{c1::Elasticity}} is the ability of an object to return to its original shape when the load is removed."
+  },
+  {
+   "id": "mat-p414-013",
+   "deck": "Dental Materials",
+   "section": "Strain",
+   "page": 414,
+   "text": "The {{c1::modulus of elasticity}} measures the {{c2::stiffness}} of an elastic material (e.g., wires or rods being stretched or compressed).",
+   "extra": "Stiffness matters when selecting restorative materials — they must withstand the forces of mastication."
+  },
+  {
+   "id": "mat-p414-014",
+   "deck": "Dental Materials",
+   "section": "Electrical properties",
+   "page": 414,
+   "text": "The oral environment is wet, {{c1::acidic}}, and the {{c2::salts}} of saliva facilitate the movement of electrical current among metals."
+  },
+  {
+   "id": "mat-p414-015",
+   "deck": "Dental Materials",
+   "section": "Electrical properties",
+   "page": 414,
+   "text": "{{c1::Galvanism}} is a direct current of electricity, especially when produced by chemical action; it causes {{c2::galvanic shock}}."
+  },
+  {
+   "id": "mat-p415-001",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "text": "Everyday activities such as {{c1::drinking, eating, and smoking}} change the temperature in the oral cavity, which may cause changes in dental restorations over time."
+  },
+  {
+   "id": "mat-p415-002",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "text": "{{c1::Thermal conductivity}} is the ability of heat to spread."
+  },
+  {
+   "id": "mat-p415-003",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "text": "Metals are {{c1::excellent}} thermal conductors; cements and varnish are {{c2::poor}} thermal conductors.",
+   "extra": "That is why cements/varnish are placed on the pulpal side of deep cavity preparations before metal restorations."
+  },
+  {
+   "id": "mat-p415-004",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "text": "The {{c1::coefficient of thermal expansion}} is the change in volume and length of an object in response to a change in temperature."
+  },
+  {
+   "id": "mat-p415-005",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "text": "The {{c1::higher}} the coefficient of thermal expansion, the greater the degree of contraction and expansion."
+  },
+  {
+   "id": "mat-p415-006",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "text": "Ideally, a restorative material's coefficient of thermal expansion should be {{c1::closest to that of the natural tooth}}."
+  },
+  {
+   "id": "mat-p415-007",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "text": "A difference in thermal expansion coefficient between tooth and material can cause {{c1::microleakage}} and {{c2::percolation}}."
+  },
+  {
+   "id": "mat-p415-008",
+   "deck": "Dental Materials",
+   "section": "Microleakage",
+   "page": 415,
+   "text": "{{c1::Microleakage}} is leakage of fluid and bacteria at the interface of the tooth and the restoration margins, caused by microscopic gaps."
+  },
+  {
+   "id": "mat-p415-009",
+   "deck": "Dental Materials",
+   "section": "Microleakage",
+   "page": 415,
+   "text": "Microleakage allows penetration of saliva, biofilm and by-products, which can lead to {{c1::secondary caries}}, pulpitis, pain, and necrosis."
+  },
+  {
+   "id": "mat-p415-010",
+   "deck": "Dental Materials",
+   "section": "Microleakage",
+   "page": 415,
+   "text": "{{c1::Percolation}} is the movement of fluid in the microscopic gap at the restoration margin caused by differing expansion/contraction rates of tooth and restoration with {{c2::temperature changes}}."
+  },
+  {
+   "id": "mat-p415-011",
+   "deck": "Dental Materials",
+   "section": "Retention",
+   "page": 415,
+   "text": "{{c1::Retention}} is the ability of a material to maintain position without being displaced under stress."
+  },
+  {
+   "id": "mat-p415-012",
+   "deck": "Dental Materials",
+   "section": "Retention",
+   "page": 415,
+   "text": "In {{c1::mechanical bonding}}, the material penetrates irregularities (pores in tooth structure) and interlocks mechanically.",
+   "extra": "Example: acid etch creates pores for sealant material to flow into and attach."
+  },
+  {
+   "id": "mat-p415-013",
+   "deck": "Dental Materials",
+   "section": "Retention",
+   "page": 415,
+   "text": "{{c1::Wetting}} is the degree to which a liquid adhesive spreads over a surface; the better the spread, the {{c2::more}} retention."
+  },
+  {
+   "id": "mat-p415-014",
+   "deck": "Dental Materials",
+   "section": "Retention",
+   "page": 415,
+   "text": "In poor wetting the liquid beads up and the contact angle is {{c1::above::above/below}} 90° (e.g., liquid on a Teflon pan); in good wetting the liquid spreads (angle below 90°)."
+  },
+  {
+   "id": "mat-p416-001",
+   "deck": "Dental Materials",
+   "section": "Retention",
+   "page": 416,
+   "text": "{{c1::Viscosity}} is a liquid material's ability to flow: {{c2::high}}-viscosity materials are thicker and do not flow well."
+  },
+  {
+   "id": "mat-p416-002",
+   "deck": "Dental Materials",
+   "section": "Retention",
+   "page": 416,
+   "text": "{{c1::Cohesion}} is attraction between {{c2::like}} atoms and molecules within a material, resulting in a tenacious bond (e.g., water molecule to water molecule)."
+  },
+  {
+   "id": "mat-p416-003",
+   "deck": "Dental Materials",
+   "section": "Retention",
+   "page": 416,
+   "text": "{{c1::Adhesion}} is attraction between {{c2::unlike}} atoms and molecules on two different surfaces in contact (e.g., water molecule to a tree leaf)."
+  },
+  {
+   "id": "mat-p416-004",
+   "deck": "Dental Materials",
+   "section": "Retention",
+   "page": 416,
+   "text": "The {{c1::larger}} the contact area, the better the chance of adhesion; bonding in dentistry is a type of {{c2::adhesion}}."
+  },
+  {
+   "id": "mat-p416-005",
+   "deck": "Dental Materials",
+   "section": "Optical properties",
+   "page": 416,
+   "text": "For a dental material to be aesthetically acceptable, it is important to understand how our {{c1::eyes sense colors}}."
+  },
+  {
+   "id": "mat-p416-006",
+   "deck": "Dental Materials",
+   "section": "Optical properties",
+   "page": 416,
+   "text": "{{c1::Hue}} is the color itself (e.g., blue, green, yellow); all hues can theoretically be mixed from the light primaries {{c2::red, green, and blue}}."
+  },
+  {
+   "id": "mat-p416-007",
+   "deck": "Dental Materials",
+   "section": "Optical properties",
+   "page": 416,
+   "text": "{{c1::Chroma}} is the intensity or strength of a color."
+  },
+  {
+   "id": "mat-p416-008",
+   "deck": "Dental Materials",
+   "section": "Optical properties",
+   "page": 416,
+   "text": "{{c1::Value}} is the lightness or darkness of a color."
+  },
+  {
+   "id": "mat-p416-009",
+   "deck": "Dental Materials",
+   "section": "Optical properties",
+   "page": 416,
+   "text": "{{c1::Opaque}} materials absorb or block light (e.g., gold, amalgam)."
+  },
+  {
+   "id": "mat-p416-010",
+   "deck": "Dental Materials",
+   "section": "Optical properties",
+   "page": 416,
+   "text": "{{c1::Transparent}} materials are see-through (e.g., clear aligners)."
+  },
+  {
+   "id": "mat-p416-011",
+   "deck": "Dental Materials",
+   "section": "Optical properties",
+   "page": 416,
+   "text": "{{c1::Translucent}} materials are partially see-through (e.g., porcelain, resin composites, enamel, ceramic veneers)."
+  },
+  {
+   "id": "mat-p417-001",
+   "deck": "Dental Materials",
+   "section": "Hardness",
+   "page": 417,
+   "text": "{{c1::Hardness}} is a measure of resistance to {{c2::indentation}} when a compressive force is applied.",
+   "extra": "Dental materials should be hard enough to withstand biting forces."
+  },
+  {
+   "id": "mat-p417-002",
+   "deck": "Dental Materials",
+   "section": "Hardness",
+   "page": 417,
+   "text": "{{c1::Mohs}} scale of hardness compares minerals by their relative ability to {{c2::scratch}} another mineral.",
+   "extra": "Book spells it \"Moh's\"."
+  },
+  {
+   "id": "mat-p417-003",
+   "deck": "Dental Materials",
+   "section": "Hardness",
+   "page": 417,
+   "text": "On the Mohs scale, the hardest mineral is {{c1::diamond}} (10) and the softest is {{c2::talc}} (1).",
+   "extra": "Topaz = 8, fluorite = 4."
+  },
+  {
+   "id": "mat-p417-004",
+   "deck": "Dental Materials",
+   "section": "Hardness",
+   "page": 417,
+   "text": "{{c1::Knoop}} hardness examines the indentation made by a {{c2::diamond point}}, viewed under a microscope."
+  },
+  {
+   "id": "mat-p417-005",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Impressions produce a {{c1::negative}} reproduction of the mouth."
+  },
+  {
+   "id": "mat-p417-006",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Agar is a {{c1::reversible}} hydrocolloid; alginate is an {{c2::irreversible}} hydrocolloid."
+  },
+  {
+   "id": "mat-p417-007",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Elastomeric impression materials include {{c1::polysulfide}}, {{c2::silicone}}, {{c3::polyether}}, and {{c4::vinyl polysiloxane (PVS)}}."
+  },
+  {
+   "id": "mat-p417-008",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Agar and alginate are {{c1::hydrophilic}}; elastomeric materials are {{c2::hydrophobic}}.",
+   "extra": "As printed in the book's table (it groups all elastomers together)."
+  },
+  {
+   "id": "mat-p417-009",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Agar's working mechanism: {{c1::heat}} turns it to a sol (liquid), and {{c2::cooling}} returns it to a gel — the sol ⇄ gel change is reversible."
+  },
+  {
+   "id": "mat-p417-010",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Alginate sets by {{c1::chemical setting only}}, which cannot be reversed."
+  },
+  {
+   "id": "mat-p417-011",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Elastomeric materials set by {{c1::chemical or light-cured}} setting, depending on the material type."
+  },
+  {
+   "id": "mat-p417-012",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Detail accuracy: alginate is {{c1::less}} accurate than agar or elastomers; elastomers give {{c2::very high}} detail for precision restorations."
+  },
+  {
+   "id": "mat-p417-013",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Agar's common use (per the book): {{c1::study models}}, with reusable trays; it needs a {{c2::water bath}} setup and special conditioning equipment, and is good for moisture.",
+   "extra": "More technique-sensitive and less commonly used today."
+  },
+  {
+   "id": "mat-p417-014",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "{{c1::Alginate}} is used for preliminary impressions and study models; it is economical, quick, uses standard trays, and is the impression material most commonly used in {{c2::hygiene}}."
+  },
+  {
+   "id": "mat-p417-015",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "{{c1::Elastomeric}} impression materials are used for final impressions for crowns, bridges, inlays, onlays and implants."
+  },
+  {
+   "id": "mat-p417-016",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Elastomers are rigid and dimensionally stable: {{c1::polyether}} is stiff, {{c2::vinyl (PVS)}} is stable and accurate."
+  },
+  {
+   "id": "mat-p417-017",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "text": "Elastomers often require a {{c1::custom tray}}, especially polysulfide and polyether; they are more expensive but essential for high-precision restorations."
+  },
+  {
+   "id": "mat-p417-018",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "Before mixing alginate, {{c1::fluff}} the powder, then measure the appropriate amounts of water and powder."
+  },
+  {
+   "id": "mat-p417-019",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "Alginate: add the {{c1::powder to the water}}, stir for {{c2::60}} seconds and remove bubbles."
+  },
+  {
+   "id": "mat-p417-020",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "Load alginate on the tray with a spatula, starting from the {{c1::back}}, then smooth the surface with a {{c2::moistened finger}}."
+  },
+  {
+   "id": "mat-p417-021",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "Pull the patient's {{c1::lips and cheeks}} out, seat the tray, and hold it in place until the alginate sets."
+  },
+  {
+   "id": "mat-p417-022",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "Alginate water/powder ratio affects setting time: {{c1::thinner}} mixes need {{c2::more}} time."
+  },
+  {
+   "id": "mat-p417-023",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "The {{c1::higher}} the water temperature, the {{c2::faster}} alginate sets."
+  },
+  {
+   "id": "mat-p417-024",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "Break the seal of the tray and snap it out {{c1::quickly}} for less distortion."
+  },
+  {
+   "id": "mat-p417-025",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "To disinfect an alginate impression: rinse under water to remove saliva and blood, {{c1::spray with disinfectant}}, and place in a {{c2::sealed plastic bag}} for the time recommended by the manufacturer."
+  },
+  {
+   "id": "mat-p417-026",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "Pour the impression as soon as possible to prevent {{c1::syneresis}}."
+  },
+  {
+   "id": "mat-p417-027",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "text": "{{c1::Syneresis}} is loss of water, mostly by {{c2::evaporation}}."
+  },
+  {
+   "id": "mat-p418-001",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 418,
+   "text": "The opposite of syneresis is {{c1::imbibition}}, the ability to {{c2::absorb}} water."
+  },
+  {
+   "id": "mat-p418-002",
+   "deck": "Dental Materials",
+   "section": "Setting times",
+   "page": 418,
+   "text": "{{c1::Mixing time}} is the time from the beginning to the completion of the mixing action."
+  },
+  {
+   "id": "mat-p418-003",
+   "deck": "Dental Materials",
+   "section": "Setting times",
+   "page": 418,
+   "text": "{{c1::Working time}} is the time from the beginning of mixing to {{c2::initial setting}}."
+  },
+  {
+   "id": "mat-p418-004",
+   "deck": "Dental Materials",
+   "section": "Setting times",
+   "page": 418,
+   "text": "{{c1::Initial setting time}} is the point when the material starts to harden and can no longer be changed."
+  },
+  {
+   "id": "mat-p418-005",
+   "deck": "Dental Materials",
+   "section": "Setting times",
+   "page": 418,
+   "text": "{{c1::Final setting time}} is the point when the material is completely set and indentations can no longer be made."
+  },
+  {
+   "id": "mat-p418-006",
+   "deck": "Dental Materials",
+   "section": "Types of replica",
+   "page": 418,
+   "text": "A replica produces a {{c1::positive}} reproduction and is often called a cast or a model."
+  },
+  {
+   "id": "mat-p418-007",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "Naturally occurring gypsum is a white powdery mineral: calcium sulfate {{c1::dihydrate}} (CaSO₄·2H₂O)."
+  },
+  {
+   "id": "mat-p418-008",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "Dental gypsum products are calcium sulfate {{c1::hemihydrate}}, obtained by a water-evaporation process called {{c2::calcination}}."
+  },
+  {
+   "id": "mat-p418-009",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "{{c1::Gypsum}} is the most commonly used material for replication in dentistry."
+  },
+  {
+   "id": "mat-p418-010",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "Mixing hemihydrate with water is an {{c1::exothermic}} reaction (it produces heat)."
+  },
+  {
+   "id": "mat-p418-011",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "{{c1::Potassium sulfate}} is the accelerator for gypsum, reducing setting time by 5–10 minutes; {{c2::borax}} is a retarder that increases setting time.",
+   "extra": "WakeUpMemory: \"sulfate\" → \"fast fate\" (speeds up); \"borax\" sounds like \"brake\" (slows down)."
+  },
+  {
+   "id": "mat-p418-012",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "A gypsum cast usually requires about {{c1::one hour}} to set, but {{c2::warm}} water can accelerate setting."
+  },
+  {
+   "id": "mat-p418-013",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "All gypsum materials {{c1::expand}} upon setting (setting expansion)."
+  },
+  {
+   "id": "mat-p418-014",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "{{c1::Wet strength}} is gypsum's strength when excess water is present; {{c2::dry strength}} is its strength when excess water is removed."
+  },
+  {
+   "id": "mat-p418-015",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "Model plaster is Type {{c1::II}}, dental stone is Type {{c2::III}}, and die stone is Type {{c3::IV and V}}."
+  },
+  {
+   "id": "mat-p418-016",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "Particle type: plaster is {{c1::irregular and porous}}; stone is less irregular; die stone is {{c2::non-porous, dense, smooth}}."
+  },
+  {
+   "id": "mat-p418-017",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "From plaster → stone → die stone, setting expansion {{c1::decreases}} and compressive strength {{c2::increases}}.",
+   "extra": "Plaster: high expansion, low strength. Stone: low, moderate. Die stone: very low, highest."
+  },
+  {
+   "id": "mat-p418-018",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "{{c1::Plaster}} needs the most water, stone less, and {{c2::die stone}} the least water."
+  },
+  {
+   "id": "mat-p418-019",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "Gypsum colors: plaster is {{c1::white}}, stone is {{c2::yellow or white}}, die stone is {{c3::pink, blue, or green}}."
+  },
+  {
+   "id": "mat-p418-020",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "Plaster is used for diagnostic casts, study models, and {{c1::articulating}} models; stone for study and {{c2::denture}} models; die stone for {{c3::crowns and bridges}}."
+  },
+  {
+   "id": "mat-p418-021",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "{{c1::Plaster}} is the least expensive gypsum product and {{c2::die stone}} the most expensive."
+  },
+  {
+   "id": "mat-p418-022",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "text": "Type {{c1::I}} gypsum is {{c2::impression plaster}}; it is no longer used because it is too rigid and breaks easily."
+  },
+  {
+   "id": "mat-p418-023",
+   "deck": "Dental Materials",
+   "section": "Creating a replica",
+   "page": 418,
+   "text": "When mixing gypsum, add the {{c1::powder to the water}}."
+  },
+  {
+   "id": "mat-p418-024",
+   "deck": "Dental Materials",
+   "section": "Creating a replica",
+   "page": 418,
+   "text": "Stir gypsum vigorously for {{c1::30–60}} seconds with a {{c2::metal}} spatula until the mix is glossy and smooth."
+  },
+  {
+   "id": "mat-p418-025",
+   "deck": "Dental Materials",
+   "section": "Creating a replica",
+   "page": 418,
+   "text": "Before pouring, {{c1::dry}} the surface of the impression; pour gypsum into {{c2::one corner}} and gently vibrate to fill it in increments."
+  },
+  {
+   "id": "mat-p418-026",
+   "deck": "Dental Materials",
+   "section": "Creating a replica",
+   "page": 418,
+   "text": "After the replica dries, trim the base of the model {{c1::perpendicular to the midline}}."
+  },
+  {
+   "id": "mat-p419-001",
+   "deck": "Dental Materials",
+   "section": "Direct and indirect restorations",
+   "page": 419,
+   "text": "A {{c1::direct}} restoration is placed directly into the prepared tooth in one visit (e.g., a composite filling hardened with a curing light)."
+  },
+  {
+   "id": "mat-p419-002",
+   "deck": "Dental Materials",
+   "section": "Direct and indirect restorations",
+   "page": 419,
+   "text": "An {{c1::indirect}} restoration is made outside the mouth (usually in a lab) and placed later; it takes at least {{c2::two}} appointments.",
+   "extra": "Example: crown — visit 1 prep + impression; lab makes crown; visit 2 cement."
+  },
+  {
+   "id": "mat-p419-003",
+   "deck": "Dental Materials",
+   "section": "Direct and indirect restorations",
+   "page": 419,
+   "text": "A {{c1::crown}} covers the entire chewing surface of a tooth."
+  },
+  {
+   "id": "mat-p419-004",
+   "deck": "Dental Materials",
+   "section": "Direct and indirect restorations",
+   "page": 419,
+   "text": "An {{c1::inlay}} fits within the cusps (used on molars/premolars)."
+  },
+  {
+   "id": "mat-p419-005",
+   "deck": "Dental Materials",
+   "section": "Direct and indirect restorations",
+   "page": 419,
+   "text": "An {{c1::onlay}} extends over one or more cusps and is larger than an inlay."
+  },
+  {
+   "id": "mat-p419-006",
+   "deck": "Dental Materials",
+   "section": "Direct and indirect restorations",
+   "page": 419,
+   "text": "A {{c1::veneer}} is a thin shell bonded to the {{c2::facial}} surface of {{c3::anterior}} teeth for cosmetic improvement."
+  },
+  {
+   "id": "mat-p419-007",
+   "deck": "Dental Materials",
+   "section": "Gold",
+   "page": 419,
+   "text": "Gold resists {{c1::tarnishing}} (discoloration due to oxidation) and {{c2::corrosion}} (rust).",
+   "extra": "It is also highly resistant to fracture and durable."
+  },
+  {
+   "id": "mat-p419-008",
+   "deck": "Dental Materials",
+   "section": "Gold",
+   "page": 419,
+   "text": "Gold may cause {{c1::galvanic shock}} (interaction between metals causing an electric current)."
+  },
+  {
+   "id": "mat-p419-009",
+   "deck": "Dental Materials",
+   "section": "Gold",
+   "page": 419,
+   "text": "Gold's thermal expansion is the {{c1::closest}} to natural tooth structure."
+  },
+  {
+   "id": "mat-p419-010",
+   "deck": "Dental Materials",
+   "section": "Porcelain-fused-to-metal",
+   "page": 419,
+   "text": "PFM combines a {{c1::metal substructure}} with an outer layer of {{c2::porcelain}} for strength and cosmetics."
+  },
+  {
+   "id": "mat-p419-011",
+   "deck": "Dental Materials",
+   "section": "Porcelain-fused-to-metal",
+   "page": 419,
+   "text": "PFM restorations are {{c1::stronger}} than all-porcelain restorations because of the metal base."
+  },
+  {
+   "id": "mat-p419-012",
+   "deck": "Dental Materials",
+   "section": "Porcelain-fused-to-metal",
+   "page": 419,
+   "text": "In PFM restorations, the porcelain layer can {{c1::chip or fracture}} under heavy force or bruxism."
+  },
+  {
+   "id": "mat-p419-013",
+   "deck": "Dental Materials",
+   "section": "Porcelain-fused-to-metal",
+   "page": 419,
+   "text": "Over time a PFM crown can show a {{c1::dark metal line}} near the gingiva, especially if {{c2::gingival recession}} occurs."
+  },
+  {
+   "id": "mat-p419-014",
+   "deck": "Dental Materials",
+   "section": "Porcelain-fused-to-metal",
+   "page": 419,
+   "text": "PFM is commonly used for crowns and bridges, especially in {{c1::posterior}} teeth where strength is important."
+  },
+  {
+   "id": "mat-p419-015",
+   "deck": "Dental Materials",
+   "section": "Porcelain",
+   "page": 419,
+   "text": "Porcelain is a type of {{c1::ceramic}} with improved properties; it is strong and durable."
+  },
+  {
+   "id": "mat-p419-016",
+   "deck": "Dental Materials",
+   "section": "Porcelain",
+   "page": 419,
+   "text": "Porcelain is used to produce {{c1::dentures}}, PFM crowns, bridges, veneers, onlays and inlays."
+  },
+  {
+   "id": "mat-p419-017",
+   "deck": "Dental Materials",
+   "section": "Porcelain",
+   "page": 419,
+   "text": "Porcelain gives an excellent match to natural tooth color, intensity and translucency, and can {{c1::transmit light}}, giving a natural, vital appearance."
+  },
+  {
+   "id": "mat-p419-018",
+   "deck": "Dental Materials",
+   "section": "Porcelain",
+   "page": 419,
+   "text": "For patients with porcelain restorations, use {{c1::neutral sodium}} fluoride, not {{c2::acidulated}} fluoride, which may damage the restoration."
+  },
+  {
+   "id": "mat-p419-019",
+   "deck": "Dental Materials",
+   "section": "Zirconia",
+   "page": 419,
+   "text": "{{c1::Zirconia}} is a strong, tooth-colored ceramic used for crowns, bridges, and {{c2::implant abutments}}."
+  },
+  {
+   "id": "mat-p420-001",
+   "deck": "Dental Materials",
+   "section": "Zirconia",
+   "page": 420,
+   "text": "Zirconia is more {{c1::durable}} than porcelain and highly resistant to fracture."
+  },
+  {
+   "id": "mat-p420-002",
+   "deck": "Dental Materials",
+   "section": "Zirconia",
+   "page": 420,
+   "text": "Zirconia appears {{c1::radiopaque}} on radiographs."
+  },
+  {
+   "id": "mat-p420-003",
+   "deck": "Dental Materials",
+   "section": "Zirconia",
+   "page": 420,
+   "text": "Zirconia is {{c1::less}} translucent than traditional porcelain but {{c2::more}} aesthetic than metal-based restorations."
+  },
+  {
+   "id": "mat-p420-004",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "Composite is used in many types of restorations (e.g., dentures, mouth guards, {{c1::crowns}})."
+  },
+  {
+   "id": "mat-p420-005",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "The major component of composite is the organic resin matrix, {{c1::dimethacrylate (bis-GMA)}}; {{c2::silica}} is the filler.",
+   "extra": "Book also says \"dimethylglyoxime\" is added for flowability (as printed)."
+  },
+  {
+   "id": "mat-p420-006",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "Composite needs {{c1::polymerization}}, a chemical reaction converting individual monomer molecules into long polymer molecules."
+  },
+  {
+   "id": "mat-p420-007",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "{{c1::Polymerization shrinkage}} is contraction during the polymerization reaction and can cause {{c2::marginal leakage}}."
+  },
+  {
+   "id": "mat-p420-008",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "{{c1::Cross-linking}} is the chemical reaction that ties polymer molecules together."
+  },
+  {
+   "id": "mat-p420-009",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "Composite can be {{c1::light-cured}} or {{c1::self-cured}}."
+  },
+  {
+   "id": "mat-p420-010",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "Composite attaches to the tooth surface by {{c1::mechanical interlocking}} into enamel rods."
+  },
+  {
+   "id": "mat-p420-011",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "Composite is a {{c1::poor}} conductor of heat and electricity, so it insulates the dental pulp."
+  },
+  {
+   "id": "mat-p420-012",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "Composite has good {{c1::flow}}, making it easy to use, and is resistant to wear and fracture."
+  },
+  {
+   "id": "mat-p420-013",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "text": "For patients with composite restorations, use neutral sodium fluoride, not {{c1::acidulated}} fluoride, which may damage the restoration."
+  },
+  {
+   "id": "mat-p420-014",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "Amalgam is an alloy of {{c1::mercury}} with various metals (silver, copper, tin, and zinc); an {{c2::alloy}} is a combination of two or more metals."
+  },
+  {
+   "id": "mat-p420-015",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "High-copper amalgam contains {{c1::40–60}}% silver, {{c2::27–30}}% tin, {{c3::13–30}}% copper, and 1% zinc, set with mercury."
+  },
+  {
+   "id": "mat-p420-016",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "In amalgam, {{c1::silver}} enables setting expansion and increases strength and corrosion resistance."
+  },
+  {
+   "id": "mat-p420-017",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "In amalgam, {{c1::copper}} increases strength and minimizes corrosion, tarnish, creep, and sensitivity; high-copper amalgams show fewer {{c2::marginal failures}} than low-copper ones."
+  },
+  {
+   "id": "mat-p420-018",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "In amalgam, {{c1::tin}} may cause setting contraction."
+  },
+  {
+   "id": "mat-p420-019",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "In amalgam, {{c1::zinc}} reduces oxidation of the other metals; zinc-containing amalgams last longer than non-zinc amalgams."
+  },
+  {
+   "id": "mat-p420-020",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "Amalgam is strong, especially in {{c1::compression}}, with compressive strength similar to {{c2::enamel}}, and is relatively inexpensive."
+  },
+  {
+   "id": "mat-p420-021",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "Amalgam has {{c1::lower}} tensile and shear strength, so it requires {{c2::bulk}} to resist breakage."
+  },
+  {
+   "id": "mat-p420-022",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "{{c1::Corrosion}} of amalgam is a chemical reaction with saliva or food.",
+   "extra": "Book adds: \"resulting in high thermal conductivity\" (as printed)."
+  },
+  {
+   "id": "mat-p420-023",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "{{c1::Creep}} is dimensional change of amalgam over time from {{c2::compression}}."
+  },
+  {
+   "id": "mat-p420-024",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "In amalgam, {{c1::galvanism}} is the conduction of electricity by metals in an acidic environment."
+  },
+  {
+   "id": "mat-p420-025",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "An {{c1::overhang}} can result if material is applied inaccurately, the matrix band is placed incorrectly, or the margin is polished inaccurately — relevant to all restorative materials."
+  },
+  {
+   "id": "mat-p420-026",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "{{c1::Trituration}} is the mechanical mixing of alloy and mercury; it takes {{c2::6–20}} seconds (follow the manufacturer's instructions)."
+  },
+  {
+   "id": "mat-p420-027",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "Correctly triturated amalgam looks {{c1::shiny}} and is {{c2::cohesive}}."
+  },
+  {
+   "id": "mat-p420-028",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "text": "{{c1::Undertrituration}} makes amalgam dull and crumbly; it hardens too quickly and fractures."
+  },
+  {
+   "id": "mat-p420-029",
+   "deck": "Dental Materials",
+   "section": "Ceramic",
+   "page": 420,
+   "text": "Lab ceramic restorations are usually made with porcelain or castable glass called {{c1::Dicor}}."
+  },
+  {
+   "id": "mat-p420-030",
+   "deck": "Dental Materials",
+   "section": "Ceramic",
+   "page": 420,
+   "text": "Ceramic restorations can be made chairside using {{c1::CEREC}} computerized design."
+  },
+  {
+   "id": "mat-p420-031",
+   "deck": "Dental Materials",
+   "section": "Ceramic",
+   "page": 420,
+   "text": "For inlays, ceramic is more {{c1::durable}} than composite."
+  },
+  {
+   "id": "mat-p420-032",
+   "deck": "Dental Materials",
+   "section": "Cements, bases, liners and varnishes",
+   "page": 420,
+   "text": "Materials such as amalgam should {{c1::not}} be placed directly on tooth structure; cements/liners/bases/varnishes {{c2::protect}} the tooth, give thermal insulation near the pulp, and improve retention."
+  },
+  {
+   "id": "mat-p420-033",
+   "deck": "Dental Materials",
+   "section": "Cements, bases, liners and varnishes",
+   "page": 420,
+   "text": "Depending on how it is mixed, the same material can serve as a {{c1::luting agent}}, a {{c2::base}}, or a {{c3::temporary restoration}}."
+  },
+  {
+   "id": "mat-p420-034",
+   "deck": "Dental Materials",
+   "section": "Cements, bases, liners and varnishes",
+   "page": 420,
+   "text": "{{c1::Cements}} retain restorations in the mouth."
+  }
+ ],
+ "basic": [
+  {
+   "id": "mat-p414-b-01",
+   "deck": "Dental Materials",
+   "section": "Forces",
+   "page": 414,
+   "front": "Force (dental materials)",
+   "back": "Anything that can alter the state of an object",
+   "reverse": true,
+   "extra": "Board Alert (book): don't over-memorize these definitions — focus on the clinical applications (e.g., fluoride, air-polishing powders)."
+  },
+  {
+   "id": "mat-p415-b-01",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "front": "Why are insulating bases placed under a deep amalgam restoration?",
+   "back": "Amalgam has high thermal conductivity — placed near the pulp it transmits heat/cold and causes pain",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "mat-p415-b-02",
+   "deck": "Dental Materials",
+   "section": "Microleakage",
+   "page": 415,
+   "front": "How can grinding and clenching cause microleakage?",
+   "back": "The constant pressure creates tiny stress fractures between the tooth and the filling, letting in fluids and bacteria over time",
+   "reverse": false,
+   "extra": "Did you know (book): bruxism doesn't just wear down restorations."
+  },
+  {
+   "id": "mat-p417-b-01",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "front": "An alginate impression can't be poured right away. How should it be stored?",
+   "back": "Wrap it in a moist paper towel or keep it in high humidity (to prevent syneresis)",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "mat-p418-b-01",
+   "deck": "Dental Materials",
+   "section": "Types of replica",
+   "page": 418,
+   "front": "Model (replica)",
+   "back": "A replica of multiple teeth and surrounding soft tissues, used for study or diagnosis",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "mat-p418-b-02",
+   "deck": "Dental Materials",
+   "section": "Types of replica",
+   "page": 418,
+   "front": "Die",
+   "back": "A replica of a single tooth, used in the lab to fabricate crowns or other precise restorations",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "mat-p418-b-03",
+   "deck": "Dental Materials",
+   "section": "Creating a replica",
+   "page": 418,
+   "front": "What happens if a gypsum mix is vibrated for too long?",
+   "back": "More air bubbles form and the cast becomes weak",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "mat-p420-b-01",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "front": "Why isn't replacing a stable old amalgam with composite (for looks alone) always a good idea?",
+   "back": "It removes healthy tooth structure and may release more mercury during removal than leaving it in place",
+   "reverse": false,
+   "extra": "Did you know (book): unless there's a fracture, recurrent decay, or allergy, most experts recommend leaving it alone."
+  }
+ ],
+ "typein": [
+  {
+   "id": "mat-p415-t-01",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "question": "Coefficient of thermal expansion of natural tooth structure? (number)",
+   "answer": "11.4",
+   "extra": ""
+  },
+  {
+   "id": "mat-p415-t-02",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "question": "Coefficient of thermal expansion of gold? (number)",
+   "answer": "15",
+   "extra": "Tooth 11.4, gold 15, resin 35."
+  },
+  {
+   "id": "mat-p415-t-03",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "question": "Coefficient of thermal expansion of resin? (number)",
+   "answer": "35",
+   "extra": ""
+  },
+  {
+   "id": "mat-p417-t-01",
+   "deck": "Dental Materials",
+   "section": "Hardness",
+   "page": 417,
+   "question": "Mohs hardness of tooth enamel? (number)",
+   "answer": "5",
+   "extra": ""
+  },
+  {
+   "id": "mat-p419-t-01",
+   "deck": "Dental Materials",
+   "section": "Gold",
+   "page": 419,
+   "question": "About how many grams of gold are in a single gold crown? (range, e.g. 1-2)",
+   "answer": "2-3",
+   "extra": "Did you know (book): worth $150 or more in raw material."
+  }
+ ],
+ "match": [
+  {
+   "id": "mat-p414-m-01",
+   "deck": "Dental Materials",
+   "section": "Stress and strain",
+   "page": 414,
+   "prompt": "Match each property to its definition.",
+   "pairs": [
+    [
+     "Ductility",
+     "Withstands deformation before fracturing"
+    ],
+    [
+     "Brittleness",
+     "Fractures before deforming"
+    ],
+    [
+     "Malleability",
+     "Can be compressed without fracturing"
+    ],
+    [
+     "Elasticity",
+     "Returns to original shape when load removed"
+    ],
+    [
+     "Strain",
+     "Change in size and shape under stress"
+    ],
+    [
+     "Modulus of elasticity",
+     "Measure of stiffness"
+    ]
+   ]
+  },
+  {
+   "id": "mat-p416-m-01",
+   "deck": "Dental Materials",
+   "section": "Optical properties",
+   "page": 416,
+   "prompt": "Match each color dimension to its meaning.",
+   "pairs": [
+    [
+     "Hue",
+     "The color itself (blue, yellow…)"
+    ],
+    [
+     "Chroma",
+     "Intensity / strength of the color"
+    ],
+    [
+     "Value",
+     "Lightness / darkness"
+    ]
+   ]
+  },
+  {
+   "id": "mat-p418-m-01",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "prompt": "Match each gypsum term to its meaning.",
+   "pairs": [
+    [
+     "Dihydrate",
+     "Natural gypsum (CaSO₄·2H₂O)"
+    ],
+    [
+     "Hemihydrate",
+     "Dental gypsum product"
+    ],
+    [
+     "Calcination",
+     "Water-evaporation process making hemihydrate"
+    ],
+    [
+     "Potassium sulfate",
+     "Accelerator"
+    ],
+    [
+     "Borax",
+     "Retarder"
+    ]
+   ]
+  },
+  {
+   "id": "mat-p420-m-01",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "prompt": "Match each amalgam metal to its effect.",
+   "pairs": [
+    [
+     "Silver",
+     "Setting expansion; more strength & corrosion resistance"
+    ],
+    [
+     "Copper",
+     "Strength; less corrosion, tarnish, creep, sensitivity"
+    ],
+    [
+     "Tin",
+     "Setting contraction"
+    ],
+    [
+     "Zinc",
+     "Reduces oxidation of other metals; longer life"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "mat-p415-o-01",
+   "deck": "Dental Materials",
+   "section": "Thermal properties",
+   "page": 415,
+   "prompt": "Order by coefficient of thermal expansion (lowest → highest).",
+   "items": [
+    "Tooth structure (11.4)",
+    "Gold (15)",
+    "Resin (35)"
+   ]
+  },
+  {
+   "id": "mat-p416-o-01",
+   "deck": "Dental Materials",
+   "section": "Hardness",
+   "page": 416,
+   "prompt": "Mohs scale of hardness: order the minerals from hardest (10) to softest (1).",
+   "items": [
+    "Diamond",
+    "Corundum",
+    "Topaz",
+    "Quartz",
+    "Feldspar",
+    "Apatite",
+    "Fluorite",
+    "Calcite",
+    "Gypsum",
+    "Talc"
+   ]
+  },
+  {
+   "id": "mat-p417-o-01",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "prompt": "Put the alginate impression steps in order.",
+   "items": [
+    "Fluff powder; measure water and powder",
+    "Add powder to water; stir 60 s",
+    "Load tray from the back",
+    "Smooth surface with moistened finger",
+    "Retract lips/cheeks, seat tray, hold until set",
+    "Break seal; snap tray out quickly",
+    "Rinse, spray disinfectant, seal in bag",
+    "Pour as soon as possible"
+   ]
+  },
+  {
+   "id": "mat-p418-o-01",
+   "deck": "Dental Materials",
+   "section": "Setting times",
+   "page": 418,
+   "prompt": "Order the time points of a setting material (first → last).",
+   "items": [
+    "Mixing complete (mixing time)",
+    "Working time ends",
+    "Initial set",
+    "Final set"
+   ]
+  },
+  {
+   "id": "mat-p418-o-02",
+   "deck": "Dental Materials",
+   "section": "Creating a replica",
+   "page": 418,
+   "prompt": "Order the steps for pouring a gypsum replica.",
+   "items": [
+    "Measure; add powder to water",
+    "Stir 30–60 s with metal spatula until glossy",
+    "Vibrate to remove air bubbles",
+    "Dry impression surface",
+    "Pour into one corner in increments while vibrating",
+    "Dry replica; trim base perpendicular to midline"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "mat-p416-s-01",
+   "deck": "Dental Materials",
+   "section": "Optical properties",
+   "page": 416,
+   "prompt": "Sort the materials by optical property.",
+   "categories": [
+    [
+     "Opaque",
+     [
+      "Gold",
+      "Amalgam"
+     ]
+    ],
+    [
+     "Transparent",
+     [
+      "Clear aligners"
+     ]
+    ],
+    [
+     "Translucent",
+     [
+      "Porcelain",
+      "Resin composite",
+      "Enamel",
+      "Ceramic veneer"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "mat-p417-s-01",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "prompt": "Sort each feature by impression material.",
+   "categories": [
+    [
+     "Agar (reversible hydrocolloid)",
+     [
+      "Sol ⇄ gel with heat",
+      "Requires water bath",
+      "Technique-sensitive, less used today"
+     ]
+    ],
+    [
+     "Alginate (irreversible hydrocolloid)",
+     [
+      "Most common in hygiene",
+      "Preliminary impressions",
+      "Standard trays, inexpensive"
+     ]
+    ],
+    [
+     "Elastomeric",
+     [
+      "Hydrophobic",
+      "Final impressions for crowns/implants",
+      "Often needs custom tray"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "mat-p418-s-01",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "prompt": "Sort the properties by gypsum product.",
+   "categories": [
+    [
+     "Model plaster (Type II)",
+     [
+      "Irregular, porous particles",
+      "High setting expansion",
+      "White",
+      "Most water"
+     ]
+    ],
+    [
+     "Dental stone (Type III)",
+     [
+      "Moderate strength",
+      "Yellow or white",
+      "Denture models"
+     ]
+    ],
+    [
+     "Die stone (Type IV & V)",
+     [
+      "Non-porous, dense, smooth",
+      "Highest compressive strength",
+      "Pink, blue or green",
+      "Crowns and bridges"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "mat-p414-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Stress and strain",
+   "page": 414,
+   "question": "A material that breaks with little or no deformation when stressed is best described as:",
+   "options": [
+    "A. Ductile",
+    "B. Malleable",
+    "C. Brittle",
+    "D. Elastic"
+   ],
+   "answer": "C. Brittle",
+   "explanation": "Brittleness = fracture before deformation occurs. Ductility is the opposite — the material withstands deformation before it breaks."
+  },
+  {
+   "id": "mat-p414-mcq-02",
+   "deck": "Dental Materials",
+   "section": "Electrical properties",
+   "page": 414,
+   "question": "A patient with a new metal restoration reports a sharp, brief jolt of pain whenever her fork touches the tooth. The most likely cause is:",
+   "options": [
+    "A. Microleakage",
+    "B. Galvanic shock",
+    "C. Polymerization shrinkage",
+    "D. Percolation"
+   ],
+   "answer": "B. Galvanic shock",
+   "explanation": "Two metals (fork + restoration) in wet, acidic, salty saliva create a direct electrical current — galvanism. Percolation/microleakage cause sensitivity via fluid in marginal gaps, not an instant jolt on metal contact."
+  },
+  {
+   "id": "mat-p415-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Microleakage",
+   "page": 415,
+   "question": "Which restorative material property best limits microleakage caused by temperature changes in the mouth?",
+   "options": [
+    "A. A high coefficient of thermal expansion",
+    "B. High thermal conductivity",
+    "C. A coefficient of thermal expansion close to that of tooth structure",
+    "D. High viscosity"
+   ],
+   "answer": "C. A coefficient of thermal expansion close to that of tooth structure",
+   "explanation": "When tooth and restoration expand and contract at different rates, marginal gaps open (percolation/microleakage). Matching the tooth's coefficient (11.4) minimizes this; a high coefficient (e.g., resin 35) worsens it."
+  },
+  {
+   "id": "mat-p415-mcq-02",
+   "deck": "Dental Materials",
+   "section": "Retention",
+   "page": 415,
+   "question": "A sealant is placed on an occlusal surface that was not etched. The sealant beads up instead of flowing into the fissures. Which property is poor?",
+   "options": [
+    "A. Wetting",
+    "B. Malleability",
+    "C. Thermal conductivity",
+    "D. Elasticity"
+   ],
+   "answer": "A. Wetting",
+   "explanation": "Beading (contact angle > 90°) = poor wetting, so less retention. Acid etching creates pores that let the sealant flow in and lock on mechanically."
+  },
+  {
+   "id": "mat-p417-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Hardness",
+   "page": 417,
+   "question": "Which statement about hardness testing is correct?",
+   "options": [
+    "A. Mohs hardness is measured by indentation from a diamond point",
+    "B. Knoop hardness measures indentation from a diamond point under a microscope",
+    "C. On the Mohs scale, tooth enamel is 8",
+    "D. Talc is the hardest mineral on the Mohs scale"
+   ],
+   "answer": "B. Knoop hardness measures indentation from a diamond point under a microscope",
+   "explanation": "Knoop = diamond-point indentation, read microscopically. Mohs ranks scratch resistance (diamond 10 … talc 1); enamel is 5 (topaz is 8)."
+  },
+  {
+   "id": "mat-p417-mcq-02",
+   "deck": "Dental Materials",
+   "section": "Impression materials",
+   "page": 417,
+   "question": "A dentist needs a final impression for a three-unit bridge with the highest detail and dimensional stability. Which material is most appropriate?",
+   "options": [
+    "A. Alginate",
+    "B. Agar",
+    "C. Vinyl polysiloxane (PVS)",
+    "D. Dental plaster"
+   ],
+   "answer": "C. Vinyl polysiloxane (PVS)",
+   "explanation": "Elastomers (PVS = stable and accurate) give very high detail for precision restorations. Alginate is less accurate and is used for preliminary impressions and study models."
+  },
+  {
+   "id": "mat-p417-mcq-03",
+   "deck": "Dental Materials",
+   "section": "Alginate impression",
+   "page": 417,
+   "question": "An alginate impression is left on the counter for two hours before pouring. The resulting cast is inaccurate mainly because of:",
+   "options": [
+    "A. Imbibition",
+    "B. Syneresis",
+    "C. Percolation",
+    "D. Polymerization shrinkage"
+   ],
+   "answer": "B. Syneresis",
+   "explanation": "Syneresis = water loss (mostly evaporation) that shrinks/distorts the alginate. Imbibition is the opposite — absorbing water (e.g., storing it soaking wet)."
+  },
+  {
+   "id": "mat-p418-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Gypsum",
+   "page": 418,
+   "question": "Which gypsum product should be used to fabricate a die for a crown?",
+   "options": [
+    "A. Type I impression plaster",
+    "B. Type II model plaster",
+    "C. Type III dental stone",
+    "D. Type IV/V die stone"
+   ],
+   "answer": "D. Type IV/V die stone",
+   "explanation": "Die stone is non-porous, dense and smooth, with very low setting expansion and the highest compressive strength — needed for precise crowns and bridges. Type III stone is for study and denture models."
+  },
+  {
+   "id": "mat-p419-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Direct and indirect restorations",
+   "page": 419,
+   "question": "A restoration fabricated in the lab that replaces one cusp of a molar but does not cover the entire occlusal surface is a(n):",
+   "options": [
+    "A. Inlay",
+    "B. Onlay",
+    "C. Crown",
+    "D. Veneer"
+   ],
+   "answer": "B. Onlay",
+   "explanation": "An onlay extends over one or more cusps. An inlay stays within the cusps; a crown covers the entire chewing surface."
+  },
+  {
+   "id": "mat-p420-mcq-01",
+   "deck": "Dental Materials",
+   "section": "Composite",
+   "page": 420,
+   "question": "A patient has several anterior composite and porcelain restorations. Which in-office fluoride is most appropriate?",
+   "options": [
+    "A. 1.23% acidulated phosphate fluoride gel",
+    "B. Neutral sodium fluoride",
+    "C. Any fluoride; restorations are unaffected",
+    "D. Fluoride is contraindicated"
+   ],
+   "answer": "B. Neutral sodium fluoride",
+   "explanation": "Acidulated fluoride may damage (etch) porcelain and composite restorations; neutral sodium fluoride is safe. Fluoride is still indicated."
+  },
+  {
+   "id": "mat-p420-mcq-02",
+   "deck": "Dental Materials",
+   "section": "Amalgam",
+   "page": 420,
+   "question": "An amalgam mix comes out of the triturator dull and crumbly. What is the most likely cause, and the consequence?",
+   "options": [
+    "A. Overtrituration; it sets too slowly",
+    "B. Undertrituration; it hardens too quickly and fractures",
+    "C. Too much zinc; excessive expansion",
+    "D. Too much tin; galvanic shock"
+   ],
+   "answer": "B. Undertrituration; it hardens too quickly and fractures",
+   "explanation": "A correct mix is shiny and cohesive; undertriturated amalgam is dull and crumbly, hardens too fast and fractures."
+  }
+ ]
+}

@@ -1,0 +1,1946 @@
+{
+ "diagrams": [
+  {
+   "name": "micro-p314-microorganisms",
+   "title": "Types of microorganisms",
+   "deck": "Microbiology & Immunology",
+   "pdf_page": 2,
+   "page": 314,
+   "crop": [
+    850,
+    220,
+    1262,
+    568
+   ],
+   "labels": [
+    {
+     "box": [
+      903,
+      336,
+      967,
+      360
+     ],
+     "answer": "Fungus",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1100,
+      363,
+      1145,
+      387
+     ],
+     "answer": "Virus",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1027,
+      443,
+      1097,
+      466
+     ],
+     "answer": "Bacteria",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "micro-p314-bacterial-cell",
+   "title": "Structure of a bacterial cell",
+   "deck": "Microbiology & Immunology",
+   "pdf_page": 2,
+   "page": 314,
+   "crop": [
+    775,
+    600,
+    1255,
+    862
+   ],
+   "labels": [
+    {
+     "box": [
+      783,
+      614,
+      845,
+      636
+     ],
+     "answer": "Flagellum",
+     "fit": "text"
+    },
+    {
+     "box": [
+      832,
+      702,
+      855,
+      722
+     ],
+     "answer": "Pili",
+     "fit": "text"
+    },
+    {
+     "box": [
+      912,
+      743,
+      1000,
+      762
+     ],
+     "answer": "Nucleoid (DNA)",
+     "fit": "text"
+    },
+    {
+     "box": [
+      934,
+      764,
+      1000,
+      782
+     ],
+     "answer": "Ribosomes",
+     "fit": "text"
+    },
+    {
+     "box": [
+      999,
+      779,
+      1061,
+      794
+     ],
+     "answer": "Cytoplasm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      953,
+      795,
+      1061,
+      809
+     ],
+     "answer": "Plasma membrane",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1012,
+      812,
+      1061,
+      829
+     ],
+     "answer": "Capsule",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1010,
+      836,
+      1061,
+      853
+     ],
+     "answer": "Fimbriae",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "micro-p315-gram-cell-walls",
+   "title": "Gram-negative vs gram-positive cell envelope",
+   "deck": "Microbiology & Immunology",
+   "pdf_page": 3,
+   "page": 315,
+   "crop": [
+    80,
+    575,
+    1220,
+    1140
+   ],
+   "labels": [
+    {
+     "box": [
+      210,
+      590,
+      518,
+      680
+     ],
+     "answer": "Gram-negative: double membrane",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      837,
+      592,
+      1127,
+      683
+     ],
+     "answer": "Gram-positive: single membrane",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      565,
+      751,
+      762,
+      786
+     ],
+     "answer": "Outer membrane",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      585,
+      814,
+      731,
+      849
+     ],
+     "answer": "Lipoproteins",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      586,
+      867,
+      747,
+      901
+     ],
+     "answer": "Peptidoglycan",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      592,
+      918,
+      732,
+      973
+     ],
+     "answer": "Periplasmic space",
+     "fit": "none"
+    },
+    {
+     "box": [
+      592,
+      978,
+      732,
+      1044
+     ],
+     "answer": "Cytoplasmic membrane",
+     "fit": "none"
+    },
+    {
+     "box": [
+      418,
+      1086,
+      642,
+      1128
+     ],
+     "answer": "Lipopolysaccharides",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      698,
+      1091,
+      773,
+      1126
+     ],
+     "answer": "Porin",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      827,
+      1089,
+      918,
+      1126
+     ],
+     "answer": "Protein",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "micro-p318-biofilm-structure",
+   "title": "Bacteria, slime layer and biofilm on the tooth",
+   "deck": "Microbiology & Immunology",
+   "pdf_page": 6,
+   "page": 318,
+   "crop": [
+    100,
+    175,
+    1248,
+    822
+   ],
+   "labels": [
+    {
+     "box": [
+      982,
+      189,
+      1195,
+      235
+     ],
+     "answer": "Fluid channel",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1081,
+      283,
+      1244,
+      365
+     ],
+     "answer": "Bacterial colony",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      110,
+      376,
+      254,
+      423
+     ],
+     "answer": "Bacteria",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      264,
+      377,
+      445,
+      428
+     ],
+     "answer": "Slime layer",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      539,
+      376,
+      668,
+      424
+     ],
+     "answer": "Biofilm",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      754,
+      566,
+      882,
+      647
+     ],
+     "answer": "Tooth surface",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      747,
+      730,
+      973,
+      776
+     ],
+     "answer": "Dental pellicle",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1033,
+      711,
+      1238,
+      795
+     ],
+     "answer": "Extracellular slime layer",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "micro-p318-biofilm-lifecycle",
+   "title": "Biofilm lifecycle",
+   "deck": "Microbiology & Immunology",
+   "pdf_page": 6,
+   "page": 318,
+   "crop": [
+    100,
+    885,
+    1248,
+    1460
+   ],
+   "labels": [
+    {
+     "box": [
+      267,
+      946,
+      431,
+      1024
+     ],
+     "answer": "Planktonic phase",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      933,
+      947,
+      1057,
+      1023
+     ],
+     "answer": "Biofilm phase",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      349,
+      1059,
+      501,
+      1129
+     ],
+     "answer": "New lifecycle starts",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      890,
+      1142,
+      1050,
+      1225
+     ],
+     "answer": "Detachment of planktonic growths",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      155,
+      1334,
+      314,
+      1429
+     ],
+     "answer": "Attachment to tooth surface",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      371,
+      1321,
+      544,
+      1444
+     ],
+     "answer": "Colonization: start to form protective matrix",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      608,
+      1321,
+      903,
+      1387
+     ],
+     "answer": "Microcolony grows and matures",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1009,
+      1321,
+      1204,
+      1416
+     ],
+     "answer": "Mature \"mushroom\"-shaped colony",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "micro-p314-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "text": "Microbiology is the study of algae, {{c1::bacteria}}, {{c2::fungi}}, {{c3::prions}}, protists, protozoa, and {{c4::viruses}}."
+  },
+  {
+   "id": "micro-p314-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "text": "Bacteria are the {{c1::simplest}} creatures that are considered to be alive."
+  },
+  {
+   "id": "micro-p314-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "text": "Bacteria lack a {{c1::membrane-bound nucleus}} and other internal structures, so they are ranked among the unicellular life forms called {{c2::prokaryotes}}."
+  },
+  {
+   "id": "micro-p314-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "text": "A {{c1::virus}} is a small microorganism that requires a {{c2::host::what?}} (animals, plants, or bacteria) into which it injects its {{c3::RNA or DNA}} to reproduce."
+  },
+  {
+   "id": "micro-p314-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "text": "Viruses are not plants, animals, or prokaryotic bacteria; they are placed in {{c1::their own kingdom}}."
+  },
+  {
+   "id": "micro-p314-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "text": "Fungi (mold, mushrooms, yeasts) are {{c1::eukaryotic}} organisms: they contain {{c2::membrane-bound organelles}} and clearly defined nuclei."
+  },
+  {
+   "id": "micro-p314-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "text": "Fungi are everywhere (soil, air, human body) and reproduce by forming vast quantities of {{c1::spores}}."
+  },
+  {
+   "id": "micro-p314-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "text": "Bacteria are present in {{c1::all}} parts of the body, including every part of the mouth (cheek, palate, lips, tongue, teeth, gingiva, bone)."
+  },
+  {
+   "id": "micro-p314-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "text": "The {{c1::morphology (shape)}} of bacteria is a fundamental characteristic used for their classification and identification."
+  },
+  {
+   "id": "micro-p314-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "text": "<b>Diplo</b>cocci are {{c1::pairs}} of cocci; <b>strepto</b>cocci are {{c2::chains}} of cocci; <b>staphylo</b>cocci are {{c3::clusters}} of cocci.",
+   "extra": "Same prefixes for bacilli: diplobacilli = pairs, streptobacilli = chains."
+  },
+  {
+   "id": "micro-p314-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "text": "{{c1::Tetrads}} are clusters of four cocci in a square arrangement."
+  },
+  {
+   "id": "micro-p314-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "text": "A {{c1::coccobacillus}} is an oval or short, plump rod: a mix between a coccus and a bacillus."
+  },
+  {
+   "id": "micro-p314-013",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "text": "Spirochetes are highly motile thanks to specialized internal flagella called {{c1::endoflagella}}, which let them corkscrew through viscous environments."
+  },
+  {
+   "id": "micro-p314-014",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "text": "Spirochetes are often associated with {{c1::periodontal disease}}."
+  },
+  {
+   "id": "micro-p315-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Oxygen preference of bacteria",
+   "page": 315,
+   "text": "Compared with supragingival bacteria, subgingival bacteria are more {{c1::anaerobic}} and more {{c2::motile}}."
+  },
+  {
+   "id": "micro-p315-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Oxygen preference of bacteria",
+   "page": 315,
+   "text": "Of the oxygen groups, {{c1::aerobic}} bacteria are described as less harmful."
+  },
+  {
+   "id": "micro-p315-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 315,
+   "text": "In the gram-negative cell envelope, the thin {{c1::peptidoglycan}} layer lies in the {{c2::periplasmic space}} between the outer membrane and the cytoplasmic membrane."
+  },
+  {
+   "id": "micro-p315-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 315,
+   "text": "The outer membrane of gram-negative bacteria carries {{c1::lipopolysaccharides}} on its surface and is crossed by channel proteins called {{c2::porins}}."
+  },
+  {
+   "id": "micro-p315-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 315,
+   "text": "The gram stain classifies bacteria by their {{c1::cell wall}} characteristics."
+  },
+  {
+   "id": "micro-p316-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 316,
+   "text": "In the gram stain, gram-positive bacteria stain {{c1::purple}} with crystal violet; gram-negative bacteria stain {{c2::red (or pink)}} with the counterstain.",
+   "extra": "WakeUpMemory: the \"P\" in Positive = Purple; think Red = Negative."
+  },
+  {
+   "id": "micro-p316-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 316,
+   "text": "Gram-positive bacteria have a {{c1::thick}}, single peptidoglycan layer that {{c2::retains}} the crystal violet stain."
+  },
+  {
+   "id": "micro-p316-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 316,
+   "text": "Gram-negative bacteria have a {{c1::thin}} peptidoglycan layer that does not retain crystal violet, so the {{c2::red counterstain}} is visible."
+  },
+  {
+   "id": "micro-p316-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 316,
+   "text": "Gram-positive bacteria have a {{c1::single}} cell wall, where the thick peptidoglycan surrounds the inner cell membrane."
+  },
+  {
+   "id": "micro-p316-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 316,
+   "text": "Gram-negative bacteria have a {{c1::double}} cell wall: the thin peptidoglycan is sandwiched between an {{c2::inner and an outer}} cell membrane.",
+   "extra": "Think of it as two \"layers of walls\"."
+  },
+  {
+   "id": "micro-p316-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 316,
+   "text": "Gram-positive bacteria primarily release {{c1::exotoxins}}; gram-negative bacteria can release {{c2::both exotoxins and endotoxins}}."
+  },
+  {
+   "id": "micro-p316-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 316,
+   "text": "In the oral cavity, {{c1::gram-negative}} bacteria are considered more harmful or virulent, largely because they release potent {{c2::endotoxins}} upon cell death.",
+   "extra": "Gram-positive bacteria are generally considered less harmful in oral infections."
+  },
+  {
+   "id": "micro-p316-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "text": "The suffix {{c1::-toxin}} means poison: a poisonous or harmful substance, often produced by bacteria."
+  },
+  {
+   "id": "micro-p316-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "text": "The prefix {{c1::exo-}} means outside / out of; the prefix {{c2::endo-}} means within / internal."
+  },
+  {
+   "id": "micro-p316-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "text": "Compared with exotoxins, endotoxins are much {{c1::more}} heat-stable."
+  },
+  {
+   "id": "micro-p316-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "text": "The root {{c1::-aero-}} means air/oxygen; the prefix {{c2::an-}} means not/without."
+  },
+  {
+   "id": "micro-p316-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "text": "<i>Facultative</i> means {{c1::capable of / having the ability to do something optional}}, so facultative anaerobes can live with or without oxygen."
+  },
+  {
+   "id": "micro-p316-013",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "text": "Oral bacteria that live in {{c1::supragingival}} plaque tend to be aerobic; those in deep periodontal pockets and the {{c2::subgingival}} biofilm tend to be anaerobic."
+  },
+  {
+   "id": "micro-p317-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "HIV (causes AIDS) is transmitted mainly through {{c1::blood and blood products}}, including blood present in the oral cavity."
+  },
+  {
+   "id": "micro-p317-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Hepatitis B virus is transmitted through {{c1::blood, saliva, and all other body fluids}}; the {{c2::hepatitis B vaccine}} is recommended for dental professionals."
+  },
+  {
+   "id": "micro-p317-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Hepatitis C virus is transmitted mainly by {{c1::percutaneous}} (through-the-skin) exposure to blood, which makes {{c2::needlestick prevention}} crucial in dentistry."
+  },
+  {
+   "id": "micro-p317-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Herpes simplex virus (HSV-1, HSV-2) causes herpetic {{c1::gingivostomatitis}}, herpes labialis (cold sores), ocular herpes, herpetic {{c2::whitlow}}, and genital herpes."
+  },
+  {
+   "id": "micro-p317-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "HSV spreads by saliva, {{c1::direct}} contact (lip, hand, lesion), and {{c2::indirect}} contact (contaminated instruments, dental unit surfaces)."
+  },
+  {
+   "id": "micro-p317-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Human papillomavirus (HPV) causes certain {{c1::oropharyngeal cancers}} and warts; it is transmitted by {{c2::sexual contact}}, including oral-genital contact."
+  },
+  {
+   "id": "micro-p317-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Varicella-zoster virus causes {{c1::chickenpox}} (varicella) and {{c2::shingles}} (zoster); it spreads by direct contact, indirect contact with vesicular fluid, and airborne droplets."
+  },
+  {
+   "id": "micro-p317-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Epstein-Barr virus causes infectious {{c1::mononucleosis}} and oral {{c2::hairy leukoplakia}}; it spreads by direct contact with oral secretions, mainly saliva (\"kissing disease\")."
+  },
+  {
+   "id": "micro-p317-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Mumps virus is spread by {{c1::saliva}} and airborne droplets."
+  },
+  {
+   "id": "micro-p317-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Poliovirus (poliomyelitis) spreads by saliva and respiratory droplets, and also by the {{c1::fecal-oral}} route."
+  },
+  {
+   "id": "micro-p317-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Influenza viruses spread through {{c1::nasal discharge}} and respiratory droplets."
+  },
+  {
+   "id": "micro-p317-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Rubeola is the common name for {{c1::measles}}; rubella is {{c2::German measles}}.",
+   "extra": "Measles: saliva, airborne droplets, direct contact with respiratory secretions. Rubella: nasopharyngeal secretions, direct contact, airborne droplets."
+  },
+  {
+   "id": "micro-p317-013",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "<i>Mycobacterium tuberculosis</i> (TB) is transmitted by airborne {{c1::droplet nuclei}} from coughing/sneezing, sputum, and saliva."
+  },
+  {
+   "id": "micro-p317-014",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "<i>{{c1::Treponema pallidum}}</i> causes syphilis, spread by direct contact with infectious lesions (e.g., {{c2::chancre}}, mucous patch), often sexually but can involve oral lesions."
+  },
+  {
+   "id": "micro-p317-015",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "<i>{{c1::Bordetella pertussis}}</i> causes whooping cough, spread by direct contact with respiratory discharges."
+  },
+  {
+   "id": "micro-p317-016",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "Group A <i>Streptococcus</i> (GAS) causes {{c1::scarlet fever}}, impetigo, and {{c2::strep throat}}.",
+   "extra": "Spread by respiratory droplets and direct contact with nose/throat secretions or skin lesions."
+  },
+  {
+   "id": "micro-p317-017",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "<i>Streptococcus {{c1::pneumoniae}}</i> causes pneumonia, otitis media, and meningitis; it spreads by respiratory droplets and contact with respiratory secretions."
+  },
+  {
+   "id": "micro-p317-018",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "text": "<i>Candida albicans</i> causes candidiasis (oral thrush), usually as an {{c1::opportunistic}} infection (overgrowth of normal flora) rather than person-to-person spread."
+  },
+  {
+   "id": "micro-p318-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Biofilm",
+   "page": 318,
+   "text": "In the biofilm lifecycle, free-floating bacteria are in the {{c1::planktonic}} phase; attached, organized communities are in the {{c2::biofilm}} phase."
+  },
+  {
+   "id": "micro-p318-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 318,
+   "text": "Dental plaque (dental biofilm) is a dense, {{c1::non-mineralized}}, organized community of bacterial colonies."
+  },
+  {
+   "id": "micro-p318-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 318,
+   "text": "In dental plaque, microorganisms are encased in a protective gel-like \"{{c1::slime layer}}\" (extracellular matrix) that contains fluid channels for {{c2::nutrient/waste}} exchange."
+  },
+  {
+   "id": "micro-p318-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 318,
+   "text": "Calculus forms by precipitation of {{c1::calcium and phosphate}} salts from {{c2::saliva}} into the plaque matrix."
+  },
+  {
+   "id": "micro-p319-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "Dental plaque consists of {{c1::live}}, organized bacterial colonies, often appears yellowish or whitish, and is detected with {{c2::disclosing solutions}}."
+  },
+  {
+   "id": "micro-p319-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "Plaque {{c1::cannot}} be removed by rinsing or normal water flow."
+  },
+  {
+   "id": "micro-p319-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "The mushroom-shaped plaque colonies have a {{c1::narrow}} base attached to the surface."
+  },
+  {
+   "id": "micro-p319-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "Calculus is a hard, calcified deposit that can be yellowish, brown, or black and is always covered by a layer of {{c1::dental plaque}}."
+  },
+  {
+   "id": "micro-p319-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "The {{c1::porous}} nature of calculus provides a reservoir for bacteria and endotoxins."
+  },
+  {
+   "id": "micro-p319-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "Plaque adheres to moist oral surfaces, including teeth, existing {{c1::calculus}}, and dental restorations."
+  },
+  {
+   "id": "micro-p319-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "Plaque requires {{c1::physical/mechanical disruption}} for removal (toothbrushing, flossing, instrumentation if subgingival)."
+  },
+  {
+   "id": "micro-p319-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "Calculus attaches to teeth, dental restorations, implants, and dental appliances; it {{c1::cannot}} be removed by brushing or flossing and requires professional {{c2::scaling (debridement)}} with specialized instruments."
+  },
+  {
+   "id": "micro-p319-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "Calculus worsens plaque accumulation because of its {{c1::rough}} surface."
+  },
+  {
+   "id": "micro-p319-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "Materia alba loosely adheres to tooth surfaces and soft tissues and can typically be removed by {{c1::rinsing or a water spray}} or routine toothbrushing."
+  },
+  {
+   "id": "micro-p319-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "text": "Materia alba is generally {{c1::less}} adherent than plaque; its presence indicates {{c2::poor oral hygiene}} and can contribute to gingival inflammation."
+  },
+  {
+   "id": "micro-p319-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "Plaque formation step 1: a thin coating of {{c1::salivary proteins}} called the pellicle attaches to the tooth surface (including restorations and calculus) within {{c2::minutes}} after a professional cleaning."
+  },
+  {
+   "id": "micro-p319-013",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "The pellicle {{c1::protects}} the enamel from acidic activity."
+  },
+  {
+   "id": "micro-p319-014",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "The pellicle's {{c1::double-sided adhesive}} property facilitates attachment of bacteria to the tooth surface."
+  },
+  {
+   "id": "micro-p319-015",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "The pellicle is {{c1::not visible}} with disclosing agent, but it can become stained with time."
+  },
+  {
+   "id": "micro-p319-016",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "Step 2: {{c1::planktonic}} (free-floating) bacteria attach to the outer surface of the pellicle with hair-like structures called {{c2::fimbriae}} and form microcolonies."
+  },
+  {
+   "id": "micro-p319-017",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "A bacterial colony is composed of {{c1::many}} different kinds of bacteria."
+  },
+  {
+   "id": "micro-p319-018",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "Step 3: bacterial microcolonies form a sessile mushroom shape, {{c1::narrow}} at the base and {{c2::wide}} at the top."
+  },
+  {
+   "id": "micro-p319-019",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "Microcolonies grow primarily through {{c1::cell division}} rather than through the attachment of new bacteria."
+  },
+  {
+   "id": "micro-p319-020",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "A {{c1::slime layer}} protects the bacterial community and helps the biofilm grow."
+  },
+  {
+   "id": "micro-p319-021",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "Step 4 (maturation): the bacterial composition changes to a more {{c1::toxic}} mix, and the biofilm extends into the {{c2::subgingival}} region to form mature biofilm."
+  },
+  {
+   "id": "micro-p319-022",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "text": "After a few {{c1::days}} of undisturbed plaque formation, the gingival margin becomes inflamed.",
+   "extra": "Compare the clinical tip on p.320: inflammation starts after about a week (7-14 days)."
+  },
+  {
+   "id": "micro-p320-001",
+   "deck": "Microbiology & Immunology",
+   "section": "Chronological changes in bacterial composition",
+   "page": 320,
+   "text": "Within the first 2 days of plaque formation, {{c1::gram-positive cocci}} are prevalent."
+  },
+  {
+   "id": "micro-p320-002",
+   "deck": "Microbiology & Immunology",
+   "section": "Chronological changes in bacterial composition",
+   "page": 320,
+   "text": "After 2-4 days, gram-positive cocci increase in number and {{c1::gram-positive rods}} appear."
+  },
+  {
+   "id": "micro-p320-003",
+   "deck": "Microbiology & Immunology",
+   "section": "Chronological changes in bacterial composition",
+   "page": 320,
+   "text": "After 4-7 days, gram-negative {{c1::spirochetes}} (spiral) and {{c2::vibrios}} (comma-shaped) appear."
+  },
+  {
+   "id": "micro-p320-004",
+   "deck": "Microbiology & Immunology",
+   "section": "Chronological changes in bacterial composition",
+   "page": 320,
+   "text": "After 14-21 days, {{c1::gram-negative/anaerobic}} bacteria are prevalent and {{c2::gingivitis}} is visible."
+  },
+  {
+   "id": "micro-p320-005",
+   "deck": "Microbiology & Immunology",
+   "section": "Plaque removal",
+   "page": 320,
+   "text": "Dental biofilm and bacteria are the {{c1::primary factors}} in the initiation and progression of caries and periodontal diseases."
+  },
+  {
+   "id": "micro-p320-006",
+   "deck": "Microbiology & Immunology",
+   "section": "Plaque removal",
+   "page": 320,
+   "text": "Bacteria are {{c1::transmissible}}; therefore caries and periodontal diseases are transmissible."
+  },
+  {
+   "id": "micro-p320-007",
+   "deck": "Microbiology & Immunology",
+   "section": "Plaque removal",
+   "page": 320,
+   "text": "Biofilm accumulates most on the {{c1::gingival margin}}."
+  },
+  {
+   "id": "micro-p320-008",
+   "deck": "Microbiology & Immunology",
+   "section": "Plaque removal",
+   "page": 320,
+   "text": "The {{c1::palatal}} surfaces of the maxillary teeth accumulate the least biofilm because the {{c2::tongue}} naturally cleans them."
+  },
+  {
+   "id": "micro-p320-009",
+   "deck": "Microbiology & Immunology",
+   "section": "Plaque removal",
+   "page": 320,
+   "text": "Teeth {{c1::crowding}}, uneven surfaces, or pits contribute to plaque accumulation and make removal more difficult."
+  },
+  {
+   "id": "micro-p320-010",
+   "deck": "Microbiology & Immunology",
+   "section": "Plaque removal",
+   "page": 320,
+   "text": "{{c1::Mechanical}} removal is the only effective way to remove plaque."
+  },
+  {
+   "id": "micro-p320-011",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "Carious lesions can be {{c1::cavitated}} (with a hole) or {{c2::non-cavitated}} (without a hole)."
+  },
+  {
+   "id": "micro-p320-012",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "A non-cavitated carious lesion can be different in color and is usually {{c1::whiter}}."
+  },
+  {
+   "id": "micro-p320-013",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "In demineralization, the minerals {{c1::calcium and phosphorus}} are removed from tooth structure by {{c2::acid}}."
+  },
+  {
+   "id": "micro-p320-014",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "White lesions are {{c1::subsurface}} demineralization under the outer layer of the tooth and are {{c2::smooth}} in texture."
+  },
+  {
+   "id": "micro-p320-015",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "Do {{c1::not}} use ultrasonic or sharp instruments on demineralized areas; use {{c2::blunt}} instruments and avoid scratching them."
+  },
+  {
+   "id": "micro-p320-016",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "Arrested caries are areas where demineralization has {{c1::stopped}}; they are usually {{c2::darker}} in color than the original structure."
+  },
+  {
+   "id": "micro-p320-017",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "Radiographically, caries appear {{c1::radiolucent}}."
+  },
+  {
+   "id": "micro-p320-018",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "For visual caries detection, {{c1::dry}} the tooth and use {{c2::light}} to detect darker areas."
+  },
+  {
+   "id": "micro-p320-019",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "Carious lesions at the beginning are {{c1::white}}."
+  },
+  {
+   "id": "micro-p320-020",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "text": "The 3 components needed for caries formation are {{c1::fermentable carbohydrates}}, {{c2::bacteria}}, and {{c3::tooth structure}}."
+  },
+  {
+   "id": "micro-p320-021",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries formation - bacteria",
+   "page": 320,
+   "text": "Mutans streptococci are gram-positive, {{c1::non-motile}} cocci."
+  },
+  {
+   "id": "micro-p320-022",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries formation - bacteria",
+   "page": 320,
+   "text": "<i>Streptococcus {{c1::mutans}}</i> is mainly responsible for caries formation; <i>Streptococcus {{c2::sobrinus}}</i> is often associated with {{c3::smooth surface}} caries."
+  },
+  {
+   "id": "micro-p320-023",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries formation - bacteria",
+   "page": 320,
+   "text": "<i>Lactobacillus</i> (gram-positive {{c1::rods}}) plays a role in caries {{c2::progression}}.",
+   "extra": "WakeUpMemory: L in Lactobacillus = L in Late: lactobacilli act in the late stage of caries."
+  },
+  {
+   "id": "micro-p320-024",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries formation - bacteria",
+   "page": 320,
+   "text": "{{c1::Actinomyces}} species (e.g., <i>A. naeslundii</i>) are associated with {{c2::root}} caries."
+  },
+  {
+   "id": "micro-p320-025",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries formation - bacteria",
+   "page": 320,
+   "text": "{{c1::Bifidobacteria}} are associated with {{c2::childhood}} caries."
+  },
+  {
+   "id": "micro-p320-026",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries formation - bacteria",
+   "page": 320,
+   "text": "Mutans streptococci and bifidobacteria are most active in the {{c1::initial}} stage of caries formation.",
+   "extra": "WakeUpMemory: S in Streptococcus = S in Start: streptococcus \"starts\" the caries process."
+  }
+ ],
+ "basic": [
+  {
+   "id": "micro-p314-b-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "front": "Binary fission",
+   "back": "Reproduction in which the cell grows in volume until it divides in half, yielding two identical daughter cells (how most prokaryotes reproduce)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p314-b-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "front": "Protozoa",
+   "back": "A group of mostly motile, unicellular eukaryotic organisms",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p314-b-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "front": "Oral microbiology",
+   "back": "The study of the microorganisms in the oral cavity and their interaction with the host",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p314-b-04",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "front": "Cocci",
+   "back": "Spherical, ovoid, or generally round bacteria",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p314-b-05",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "front": "Bacillus (bacilli)",
+   "back": "Rod-shaped bacteria",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p314-b-06",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "front": "Spirillum",
+   "back": "Bacteria with a rigid spiral or helical shape",
+   "reverse": true,
+   "extra": "Usually just referred to by the general shape; specific variations are less common."
+  },
+  {
+   "id": "micro-p314-b-07",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "front": "Spirochete",
+   "back": "Very thin, elongated, flexible spiral-shaped bacteria",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p315-b-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Oxygen preference of bacteria",
+   "page": 315,
+   "front": "Aerobic bacteria",
+   "back": "Bacteria that require oxygen to grow and survive",
+   "reverse": true,
+   "extra": "Book: aerobes are less harmful. In the mouth they are found where oxygen is higher, e.g. supragingival plaque."
+  },
+  {
+   "id": "micro-p315-b-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Oxygen preference of bacteria",
+   "page": 315,
+   "front": "Anaerobic bacteria",
+   "back": "Bacteria that cannot survive in the presence of oxygen (oxygen is toxic to them)",
+   "reverse": true,
+   "extra": "They flourish in oxygen-deprived places such as deep periodontal pockets and the subgingival biofilm."
+  },
+  {
+   "id": "micro-p315-b-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Oxygen preference of bacteria",
+   "page": 315,
+   "front": "Facultative anaerobic bacteria",
+   "back": "Bacteria that can survive and grow with or without oxygen",
+   "reverse": true,
+   "extra": "Adaptable and versatile; found in various oral environments."
+  },
+  {
+   "id": "micro-p315-b-04",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 315,
+   "front": "Why is the gram-stain result clinically useful?",
+   "back": "It often correlates with the bacterium's pathogenicity and its susceptibility to antimicrobial agents.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "micro-p316-b-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "front": "Exotoxin",
+   "back": "A harmful substance produced inside bacteria and released (excreted, \"exported\") into the surroundings while the bacteria live and grow",
+   "reverse": true,
+   "extra": "Generally less heat-stable than endotoxins."
+  },
+  {
+   "id": "micro-p316-b-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "front": "Endotoxin",
+   "back": "A toxin that is a component of the bacterial cell wall itself (gram-negative bacteria), released only when the cell dies and breaks apart (lysis)",
+   "reverse": true,
+   "extra": "Much more heat-stable than exotoxins. WakeUpMemory: ENDOtoxins are ENDured until the bacteria ENDs its life."
+  },
+  {
+   "id": "micro-p318-b-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 318,
+   "front": "Biofilm vs. dental plaque: what is the difference?",
+   "back": "A biofilm is any group of microbes sticking to a wet surface (pipes, medical tools, etc.); dental plaque is a type of biofilm that forms on teeth and other surfaces in the mouth. All plaque is biofilm, but not all biofilm is plaque.",
+   "reverse": false,
+   "extra": "Don't Be Confused box."
+  },
+  {
+   "id": "micro-p318-b-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 318,
+   "front": "Dental calculus (tartar)",
+   "back": "Mineralized dental plaque",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p318-b-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 318,
+   "front": "Materia alba",
+   "back": "Soft, sticky, white deposit of bacteria, food debris, desquamated epithelial cells, and other organic/inorganic material",
+   "reverse": true,
+   "extra": "Resembles \"cottage cheese\"; lacks the organized structure of dental plaque."
+  },
+  {
+   "id": "micro-p319-b-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "front": "Why is mechanical removal of plaque paramount?",
+   "back": "The slime layer protects the bacteria from antibiotics, antimicrobials, and the host immune system.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "micro-p320-b-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "front": "Cavity",
+   "back": "A hole caused by demineralization of the tooth structure",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p320-b-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "front": "Cavitation",
+   "back": "The process of cavity formation",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p320-b-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "front": "Primary caries",
+   "back": "The initial occurrence of decay on a tooth surface that has never been restored",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "micro-p320-b-04",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "front": "Secondary (recurrent) caries",
+   "back": "Dental caries underneath an existing restoration",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "micro-p319-t-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "question": "Calculus is primarily inorganic material. What percentage is calcium phosphate? (range, %)",
+   "answer": "70-90%",
+   "extra": ""
+  },
+  {
+   "id": "micro-p319-t-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "question": "Calculus is hard to tell from tooth structure partly because dentin is also highly inorganic. About what % of dentin is inorganic? (number, %)",
+   "answer": "65%",
+   "extra": ""
+  },
+  {
+   "id": "micro-p319-t-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "question": "About what % of cementum is inorganic? (number, %)",
+   "answer": "50%",
+   "extra": "Calculus is 70-90% inorganic, dentin ~65%, cementum ~50%."
+  },
+  {
+   "id": "micro-p320-t-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Chronological changes in bacterial composition",
+   "page": 320,
+   "question": "During undisturbed plaque formation, inflammation begins after how many days? (range)",
+   "answer": "7-14",
+   "extra": "At 7-14 days gram-negative/anaerobic bacteria duplicate. Clinical tip: inflammation starts after about a week of bacterial invasion, so if you see inflammation, the problem has been there for a while."
+  }
+ ],
+ "match": [
+  {
+   "id": "micro-p314-m-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "prompt": "Match each arrangement to its description.",
+   "pairs": [
+    [
+     "Diplococci",
+     "Pairs of cocci"
+    ],
+    [
+     "Streptococci",
+     "Chains of cocci"
+    ],
+    [
+     "Staphylococci",
+     "Clusters of cocci"
+    ],
+    [
+     "Tetrads",
+     "Clusters of four cocci in a square"
+    ],
+    [
+     "Diplobacilli",
+     "Pairs of bacilli"
+    ],
+    [
+     "Streptobacilli",
+     "Chains of bacilli"
+    ],
+    [
+     "Coccobacillus",
+     "Oval or short, plump rod"
+    ]
+   ]
+  },
+  {
+   "id": "micro-p316-m-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "prompt": "Match each word part to its meaning.",
+   "pairs": [
+    [
+     "-toxin",
+     "Poison"
+    ],
+    [
+     "Exo-",
+     "Outside, out of"
+    ],
+    [
+     "Endo-",
+     "Within, internal"
+    ],
+    [
+     "-aero-",
+     "Air, oxygen"
+    ],
+    [
+     "An-",
+     "Not, without"
+    ],
+    [
+     "Facultative",
+     "Capable of; able to do something optional"
+    ]
+   ]
+  },
+  {
+   "id": "micro-p317-m-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "prompt": "Match each pathogen to its disease.",
+   "pairs": [
+    [
+     "Epstein-Barr virus",
+     "Infectious mononucleosis"
+    ],
+    [
+     "Varicella-zoster virus",
+     "Shingles"
+    ],
+    [
+     "Treponema pallidum",
+     "Syphilis"
+    ],
+    [
+     "Bordetella pertussis",
+     "Whooping cough"
+    ],
+    [
+     "Mycobacterium tuberculosis",
+     "Tuberculosis"
+    ],
+    [
+     "Candida albicans",
+     "Oral thrush"
+    ],
+    [
+     "Human papillomavirus",
+     "Oropharyngeal cancer, warts"
+    ]
+   ]
+  },
+  {
+   "id": "micro-p320-m-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries formation - bacteria",
+   "page": 320,
+   "prompt": "Match each bacterium to its role in caries.",
+   "pairs": [
+    [
+     "Streptococcus mutans",
+     "Mainly responsible for caries formation"
+    ],
+    [
+     "Streptococcus sobrinus",
+     "Smooth surface caries"
+    ],
+    [
+     "Lactobacillus",
+     "Caries progression"
+    ],
+    [
+     "Actinomyces naeslundii",
+     "Root caries"
+    ],
+    [
+     "Bifidobacteria",
+     "Childhood caries"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "micro-p318-o-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Biofilm",
+   "page": 318,
+   "prompt": "Put the stages of the biofilm lifecycle in order.",
+   "items": [
+    "Attachment to tooth surface",
+    "Colonization: start to form protective matrix",
+    "Microcolony grows and matures",
+    "Mature \"mushroom\"-shaped colony",
+    "Detachment of planktonic growths (new lifecycle starts)"
+   ]
+  },
+  {
+   "id": "micro-p319-o-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "prompt": "Put the stages of dental plaque formation in order.",
+   "items": [
+    "Pellicle formation",
+    "Initial attachment of bacteria to the pellicle",
+    "Formation of bacterial microcolonies",
+    "Maturation of microcolonies"
+   ]
+  },
+  {
+   "id": "micro-p320-o-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Chronological changes in bacterial composition",
+   "page": 320,
+   "prompt": "Order the changes in plaque composition over time.",
+   "items": [
+    "Gram-positive cocci prevalent (first 2 days)",
+    "Gram-positive rods appear (2-4 days)",
+    "Gram-negative spirochetes and vibrios appear (4-7 days)",
+    "Gram-negative anaerobes multiply; inflammation begins (7-14 days)",
+    "Gram-negative anaerobes prevalent; gingivitis visible (14-21 days)"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "micro-p314-s-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "prompt": "Sort the organisms: prokaryote, eukaryote, or neither?",
+   "categories": [
+    [
+     "Prokaryote (no membrane-bound nucleus)",
+     [
+      "Bacteria"
+     ]
+    ],
+    [
+     "Eukaryote (membrane-bound organelles, defined nuclei)",
+     [
+      "Molds",
+      "Mushrooms",
+      "Yeasts",
+      "Protozoa"
+     ]
+    ],
+    [
+     "Neither (own kingdom; needs a host)",
+     [
+      "Viruses"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "micro-p315-s-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 315,
+   "prompt": "Sort the bacteria: gram-negative or gram-positive? (set 1)",
+   "categories": [
+    [
+     "Gram-negative",
+     [
+      "Gonococcus",
+      "Veillonella",
+      "Meningococcus",
+      "Chlamydia",
+      "Rickettsia"
+     ]
+    ],
+    [
+     "Gram-positive",
+     [
+      "Pneumococci",
+      "Streptococci",
+      "Staphylococci",
+      "Micrococci",
+      "Actinomycetes"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "micro-p315-s-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 315,
+   "prompt": "Sort the bacteria: gram-negative or gram-positive? (set 2)",
+   "categories": [
+    [
+     "Gram-negative",
+     [
+      "Vibrios",
+      "Escherichia",
+      "Helicobacter",
+      "Spirillum",
+      "Spirochetes"
+     ]
+    ],
+    [
+     "Gram-positive",
+     [
+      "Bacilli",
+      "Clostridia",
+      "Corynebacteria",
+      "Listeria",
+      "Bifidobacterium"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "micro-p317-s-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "prompt": "Sort the pathogens: virus, bacterium, or fungus?",
+   "categories": [
+    [
+     "Virus",
+     [
+      "HIV",
+      "Hepatitis B",
+      "Hepatitis C",
+      "Herpes simplex",
+      "HPV",
+      "Varicella-zoster",
+      "Epstein-Barr",
+      "Measles (rubeola)"
+     ]
+    ],
+    [
+     "Bacterium",
+     [
+      "Mycobacterium tuberculosis",
+      "Treponema pallidum",
+      "Bordetella pertussis",
+      "Streptococcus pneumoniae"
+     ]
+    ],
+    [
+     "Fungus",
+     [
+      "Candida albicans"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "micro-p319-s-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "prompt": "Sort the features: dental plaque, calculus, or materia alba?",
+   "categories": [
+    [
+     "Dental plaque",
+     [
+      "Non-mineralized organized bacterial colonies",
+      "Cannot be rinsed off; needs mechanical disruption",
+      "Detected with disclosing solution"
+     ]
+    ],
+    [
+     "Calculus",
+     [
+      "Mineralized; 70-90% calcium phosphate",
+      "Always covered by plaque",
+      "Removed only by professional scaling"
+     ]
+    ],
+    [
+     "Materia alba",
+     [
+      "\"Cottage cheese\" appearance, no organized structure",
+      "Can be rinsed away with a water spray"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "micro-p314-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Microbiology overview",
+   "page": 314,
+   "question": "Which statement about fungi is correct?",
+   "options": [
+    "A. They are prokaryotes that reproduce by binary fission",
+    "B. They are eukaryotes that reproduce by forming spores",
+    "C. They must inject RNA or DNA into a host cell to reproduce",
+    "D. They lack membrane-bound organelles"
+   ],
+   "answer": "B. They are eukaryotes that reproduce by forming spores",
+   "explanation": "Fungi are eukaryotic (membrane-bound organelles, defined nuclei) and reproduce by forming vast quantities of spores. Binary fission and the lack of membrane-bound organelles describe bacteria (prokaryotes); injecting nucleic acid into a host describes viruses."
+  },
+  {
+   "id": "micro-p314-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Bacteria shapes",
+   "page": 314,
+   "question": "A smear of subgingival plaque from a deep periodontal pocket shows very thin, flexible, highly motile spiral organisms. These are most likely",
+   "options": [
+    "A. Staphylococci",
+    "B. Spirochetes",
+    "C. Coccobacilli",
+    "D. Streptobacilli"
+   ],
+   "answer": "B. Spirochetes",
+   "explanation": "Spirochetes are very thin, elongated, flexible spirals that move by endoflagella and are often associated with periodontal disease. Coccobacilli are short plump rods; staphylococci and streptobacilli are clusters of cocci and chains of rods."
+  },
+  {
+   "id": "micro-p316-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 316,
+   "question": "Which feature explains why a bacterium appears red/pink after gram staining?",
+   "options": [
+    "A. A thick peptidoglycan layer that retains crystal violet",
+    "B. A thin peptidoglycan layer that does not retain crystal violet",
+    "C. Absence of a cell wall",
+    "D. A single cell membrane surrounded by thick peptidoglycan"
+   ],
+   "answer": "B. A thin peptidoglycan layer that does not retain crystal violet",
+   "explanation": "Gram-negative bacteria have a thin peptidoglycan layer between two membranes; it loses the crystal violet, so the red counterstain shows. A thick, single peptidoglycan layer is the gram-positive (purple) structure."
+  },
+  {
+   "id": "micro-p316-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Gram-positive vs. gram-negative",
+   "page": 316,
+   "question": "Gram-negative bacteria are generally considered more virulent in the oral cavity than gram-positive bacteria mainly because they",
+   "options": [
+    "A. Stain purple with crystal violet",
+    "B. Have a thick peptidoglycan wall",
+    "C. Release potent endotoxins when the cell dies",
+    "D. Reproduce only by spores"
+   ],
+   "answer": "C. Release potent endotoxins when the cell dies",
+   "explanation": "Endotoxins are part of the gram-negative cell wall and are released on lysis; they are highly heat-stable. Purple staining and a thick peptidoglycan wall describe gram-positive bacteria."
+  },
+  {
+   "id": "micro-p316-mcq-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Terminology",
+   "page": 316,
+   "question": "Which is TRUE of endotoxins?",
+   "options": [
+    "A. They are actively secreted while bacteria grow",
+    "B. They are produced mainly by gram-positive bacteria",
+    "C. They are released when the cell wall breaks apart (lysis)",
+    "D. They are less heat-stable than exotoxins"
+   ],
+   "answer": "C. They are released when the cell wall breaks apart (lysis)",
+   "explanation": "Endotoxins are components of the gram-negative cell wall, released only on lysis, and are highly heat-stable. Active secretion during growth describes exotoxins, which are the main toxins of gram-positive bacteria and are less heat-stable."
+  },
+  {
+   "id": "micro-p317-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "question": "A dental hygienist develops a painful vesicular infection of the finger after treating a patient with active cold sores without gloves. The causative organism is most likely",
+   "options": [
+    "A. Varicella-zoster virus",
+    "B. Herpes simplex virus",
+    "C. Candida albicans",
+    "D. Epstein-Barr virus"
+   ],
+   "answer": "B. Herpes simplex virus",
+   "explanation": "Herpetic whitlow is an HSV infection of the finger, spread by direct contact with lesions or saliva. Varicella-zoster causes chickenpox and shingles; EBV causes mononucleosis and oral hairy leukoplakia."
+  },
+  {
+   "id": "micro-p317-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Pathogens transmissible from the oral cavity",
+   "page": 317,
+   "question": "For which pathogen is the vaccine specifically recommended for dental professionals because it spreads through blood, saliva and all other body fluids?",
+   "options": [
+    "A. Hepatitis C virus",
+    "B. HIV",
+    "C. Hepatitis B virus",
+    "D. Human papillomavirus"
+   ],
+   "answer": "C. Hepatitis B virus",
+   "explanation": "HBV is transmitted by blood, saliva and all body fluids, and the hepatitis B vaccine is recommended for dental professionals. HCV spreads mainly by percutaneous blood exposure and has no vaccine listed; prevention relies on avoiding needlesticks."
+  },
+  {
+   "id": "micro-p319-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Common deposits in the oral cavity",
+   "page": 319,
+   "question": "A patient presents with a soft, white, cottage-cheese-like deposit along the gingival margin that comes off with a forceful air-water spray. This deposit is most likely",
+   "options": [
+    "A. Dental plaque",
+    "B. Supragingival calculus",
+    "C. Materia alba",
+    "D. Acquired pellicle"
+   ],
+   "answer": "C. Materia alba",
+   "explanation": "Materia alba is a loosely adherent, unorganized deposit (bacteria, food debris, desquamated cells) that can be rinsed away. Plaque is organized and cannot be removed by rinsing or water flow; calculus requires scaling."
+  },
+  {
+   "id": "micro-p319-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Formation of dental plaque",
+   "page": 319,
+   "question": "Which structure allows planktonic bacteria to attach to the acquired pellicle?",
+   "options": [
+    "A. Flagella",
+    "B. Fimbriae",
+    "C. Capsule",
+    "D. Endoflagella"
+   ],
+   "answer": "B. Fimbriae",
+   "explanation": "Planktonic bacteria attach to the outer surface of the pellicle with hair-like fimbriae, then form microcolonies. Flagella and endoflagella are for motility."
+  },
+  {
+   "id": "micro-p320-mcq-01",
+   "deck": "Microbiology & Immunology",
+   "section": "Chronological changes in bacterial composition",
+   "page": 320,
+   "question": "A patient has not cleaned his teeth for 3 weeks and has visible gingivitis. Which bacteria predominate in his plaque?",
+   "options": [
+    "A. Gram-positive cocci",
+    "B. Gram-positive rods",
+    "C. Gram-negative anaerobes",
+    "D. Aerobic gram-positive cocci and rods equally"
+   ],
+   "answer": "C. Gram-negative anaerobes",
+   "explanation": "By 14-21 days gram-negative/anaerobic bacteria are prevalent and gingivitis is visible. Gram-positive cocci dominate the first 2 days; gram-positive rods appear at 2-4 days."
+  },
+  {
+   "id": "micro-p320-mcq-02",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries",
+   "page": 320,
+   "question": "During an exam, the hygienist sees a chalky white, smooth, non-cavitated area on a dried facial surface. What is the best action?",
+   "options": [
+    "A. Probe it firmly with a sharp explorer to test for softness",
+    "B. Remove the stain with the ultrasonic scaler",
+    "C. Examine it visually and with a blunt instrument, avoiding scratching",
+    "D. Record it as arrested caries"
+   ],
+   "answer": "C. Examine it visually and with a blunt instrument, avoiding scratching",
+   "explanation": "A white, smooth lesion is subsurface demineralization (an early, non-cavitated lesion). Sharp or ultrasonic instruments must not be used on demineralized areas. Arrested caries are usually darker, not white."
+  },
+  {
+   "id": "micro-p320-mcq-03",
+   "deck": "Microbiology & Immunology",
+   "section": "Caries formation - bacteria",
+   "page": 320,
+   "question": "An older patient with gingival recession has new carious lesions on exposed root surfaces. Which bacteria are most associated with this type of caries?",
+   "options": [
+    "A. Lactobacillus",
+    "B. Actinomyces species",
+    "C. Streptococcus sobrinus",
+    "D. Bifidobacteria"
+   ],
+   "answer": "B. Actinomyces species",
+   "explanation": "Actinomyces species (e.g., A. naeslundii) are associated with root caries. S. sobrinus is linked to smooth surface caries, bifidobacteria to childhood caries, and lactobacilli to caries progression."
+  }
+ ]
+}

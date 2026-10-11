@@ -1,0 +1,1499 @@
+{
+ "diagrams": [
+  {
+   "name": "comm-p263-who-probe",
+   "title": "WHO probe (CPI / PSR): colored band and markings",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 11,
+   "page": 263,
+   "rotate": 90,
+   "crop": [
+    430,
+    340,
+    860,
+    820
+   ],
+   "labels": [
+    {
+     "box": [
+      650,
+      500,
+      732,
+      532
+     ],
+     "answer": "BAND",
+     "fit": "none"
+    },
+    {
+     "box": [
+      505,
+      578,
+      570,
+      607
+     ],
+     "answer": "3mm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      714,
+      582,
+      808,
+      612
+     ],
+     "answer": "11.5mm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      505,
+      643,
+      570,
+      672
+     ],
+     "answer": "3mm",
+     "fit": "text",
+     "key": "3mm (2)"
+    },
+    {
+     "box": [
+      720,
+      648,
+      800,
+      674
+     ],
+     "answer": "8.5mm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      505,
+      701,
+      570,
+      729
+     ],
+     "answer": "2mm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      720,
+      705,
+      800,
+      730
+     ],
+     "answer": "5.5mm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      505,
+      749,
+      570,
+      776
+     ],
+     "answer": "3mm",
+     "fit": "text",
+     "key": "3mm (3)"
+    },
+    {
+     "box": [
+      720,
+      763,
+      800,
+      790
+     ],
+     "answer": "3.5mm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      497,
+      779,
+      576,
+      808
+     ],
+     "answer": "0.5mm",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "comm-p263-dean-fluorosis-photos",
+   "title": "Dean's Fluorosis Index: name the category",
+   "deck": "Community Oral Health & Research",
+   "pdf_page": 11,
+   "page": 263,
+   "rotate": 90,
+   "crop": [
+    100,
+    1190,
+    2170,
+    1515
+   ],
+   "labels": [
+    {
+     "box": [
+      100,
+      1398,
+      190,
+      1435
+     ],
+     "answer": "Normal",
+     "fit": "text"
+    },
+    {
+     "box": [
+      490,
+      1400,
+      625,
+      1440
+     ],
+     "answer": "Questionable",
+     "fit": "text"
+    },
+    {
+     "box": [
+      802,
+      1465,
+      900,
+      1502
+     ],
+     "answer": "Very mild",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1178,
+      1470,
+      1235,
+      1505
+     ],
+     "answer": "Mild",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1487,
+      1450,
+      1585,
+      1488
+     ],
+     "answer": "Moderate",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1860,
+      1455,
+      1935,
+      1490
+     ],
+     "answer": "Severe",
+     "fit": "text"
+    }
+   ],
+   "mask": [
+    [
+     890,
+     1190,
+     1530,
+     1235
+    ]
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "comm-p260-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Maslow's hierarchy of needs",
+   "page": 260,
+   "text": "In Maslow's hierarchy, <b>{{c1::physiological}} needs</b> are basic survival needs such as food, water, and sleep.",
+   "extra": "e.g., a patient struggling to afford groceries may not prioritize brushing twice a day. Unmet lower needs explain why some patients may not prioritize oral health."
+  },
+  {
+   "id": "comm-p260-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Maslow's hierarchy of needs",
+   "page": 260,
+   "text": "In Maslow's hierarchy, <b>{{c1::safety}} needs</b> are personal security, housing, and financial stability.",
+   "extra": "e.g., a patient who has just lost their job may cancel dental appointments due to cost concerns."
+  },
+  {
+   "id": "comm-p260-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Maslow's hierarchy of needs",
+   "page": 260,
+   "text": "In Maslow's hierarchy, <b>{{c1::love and belonging}} needs</b> are social relationships, support, and acceptance.",
+   "extra": "e.g., a teen may start brushing better to avoid embarrassment around friends."
+  },
+  {
+   "id": "comm-p260-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Maslow's hierarchy of needs",
+   "page": 260,
+   "text": "In Maslow's hierarchy, <b>{{c1::esteem}} needs</b> are confidence, self-worth, and respect.",
+   "extra": "e.g., a patient wants whiter teeth to feel better about their appearance and gain confidence."
+  },
+  {
+   "id": "comm-p260-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Maslow's hierarchy of needs",
+   "page": 260,
+   "text": "In Maslow's hierarchy, <b>{{c1::self-actualization}}</b> is reaching full potential and personal growth.",
+   "extra": "e.g., a patient values their health and is committed to lifelong prevention and learning."
+  },
+  {
+   "id": "comm-p261-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Index (PlI)",
+   "page": 261,
+   "text": "The {{c1::Plaque Index (PlI)}} of Silness and Löe measures the {{c2::thickness}} of plaque at the {{c3::gingival margin}}.",
+   "extra": "For all plaque indices on this page: higher scores = poorer hygiene."
+  },
+  {
+   "id": "comm-p261-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Index (PlI)",
+   "page": 261,
+   "text": "Plaque Index (PlI): {{c1::all}} teeth are examined; plaque is detected with a {{c2::probe}} at the gingival margin."
+  },
+  {
+   "id": "comm-p261-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Index (PlI)",
+   "page": 261,
+   "text": "PlI scoring: 0 = no plaque; 1 = plaque detected {{c1::only by probe}}; 2 = moderate accumulation {{c2::visible to the naked eye}}; 3 = {{c3::heavy plaque covering the entire area}}."
+  },
+  {
+   "id": "comm-p261-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Index (PlI)",
+   "page": 261,
+   "text": "PlI calculation: scores are averaged {{c1::per tooth surface}}, then averaged {{c2::across all assessed teeth}}."
+  },
+  {
+   "id": "comm-p261-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Index (PlI)",
+   "page": 261,
+   "text": "PlI interpretation: 0 = {{c1::excellent}}; 0.1–0.9 = {{c2::good}}; 1.0–1.9 = {{c3::fair}}; 2.0–3.0 = {{c4::poor}}."
+  },
+  {
+   "id": "comm-p261-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Control Record (PCR)",
+   "page": 261,
+   "text": "The {{c1::Plaque Control Record (PCR)}} measures the {{c2::percentage of tooth surfaces}} with plaque."
+  },
+  {
+   "id": "comm-p261-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Control Record (PCR)",
+   "page": 261,
+   "text": "PCR technique: {{c1::all}} teeth; {{c2::disclosing solution}} is applied to all surfaces and surfaces with plaque are counted."
+  },
+  {
+   "id": "comm-p261-008",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Control Record (PCR)",
+   "page": 261,
+   "text": "PCR: each tooth is divided into {{c1::four}} sections ({{c2::M, D, F, L}}) — or into six."
+  },
+  {
+   "id": "comm-p261-009",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Control Record (PCR)",
+   "page": 261,
+   "text": "PCR formula: ({{c1::plaque surfaces ÷ total surfaces}}) × 100%.",
+   "extra": "Higher score = poorer hygiene."
+  },
+  {
+   "id": "comm-p261-010",
+   "deck": "Community Oral Health & Research",
+   "section": "Patient Hygiene Performance (PHP)",
+   "page": 261,
+   "text": "The {{c1::Patient Hygiene Performance (PHP)}} index measures {{c2::plaque removal success}}."
+  },
+  {
+   "id": "comm-p261-011",
+   "deck": "Community Oral Health & Research",
+   "section": "Patient Hygiene Performance (PHP)",
+   "page": 261,
+   "text": "The PHP and the OHI-S both examine the same six teeth: {{c1::#3, 8, 14, 19, 24, 30}}."
+  },
+  {
+   "id": "comm-p261-012",
+   "deck": "Community Oral Health & Research",
+   "section": "Patient Hygiene Performance (PHP)",
+   "page": 261,
+   "text": "PHP technique: plaque is disclosed with {{c1::disclosing solution}}; each tooth is divided into {{c2::five}} sections and sections with plaque are counted."
+  },
+  {
+   "id": "comm-p261-013",
+   "deck": "Community Oral Health & Research",
+   "section": "Patient Hygiene Performance (PHP)",
+   "page": 261,
+   "text": "PHP scoring: 0 = no debris; 1–5 = debris in {{c1::that number of sections (1 to all 5)}}. Scores are added and divided by the {{c2::number of scored teeth}}.",
+   "extra": "e.g., plaque on 3 of 5 sections = tooth score 3."
+  },
+  {
+   "id": "comm-p261-014",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral Hygiene Index Simplified (OHI-S)",
+   "page": 261,
+   "text": "The {{c1::Oral Hygiene Index Simplified (OHI-S)}} measures {{c2::debris and calculus}} accumulation."
+  },
+  {
+   "id": "comm-p261-015",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral Hygiene Index Simplified (OHI-S)",
+   "page": 261,
+   "text": "OHI-S technique: tool = {{c1::explorer}} (probe); debris and calculus are {{c2::scored separately}}, then {{c3::summed}} for the total OHI-S."
+  },
+  {
+   "id": "comm-p261-016",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral Hygiene Index Simplified (OHI-S)",
+   "page": 261,
+   "text": "OHI-S Debris Index: 0 = no debris; 1 = debris covering {{c1::<1/3}} of tooth; 2 = {{c2::1/3 to 2/3}}; 3 = {{c3::>2/3}}."
+  },
+  {
+   "id": "comm-p261-017",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral Hygiene Index Simplified (OHI-S)",
+   "page": 261,
+   "text": "OHI-S Calculus Index: 1 = {{c1::supragingival}} calculus covering <1/3 of exposed tooth; 2 = calculus covering 1/3–2/3; 3 = calculus covering >2/3 of exposed tooth."
+  },
+  {
+   "id": "comm-p261-018",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral Hygiene Index Simplified (OHI-S)",
+   "page": 261,
+   "text": "Interpretation of DI-S or CI-S (each 0–3): 0.0–0.6 = {{c1::good}}; 0.7–1.8 = {{c2::fair}}; 1.9–3.0 = {{c3::poor}} oral hygiene."
+  },
+  {
+   "id": "comm-p261-019",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral Hygiene Index Simplified (OHI-S)",
+   "page": 261,
+   "text": "Interpretation of total OHI-S (0–6): {{c1::0.0–1.2}} = good; {{c2::1.3–3.0}} = fair; {{c3::3.1–6.0}} = poor oral hygiene."
+  },
+  {
+   "id": "comm-p262-001",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Index (GI)",
+   "page": 262,
+   "text": "The {{c1::Gingival Index (GI)}} measures gingival {{c2::inflammation, color, consistency, and bleeding}}."
+  },
+  {
+   "id": "comm-p262-002",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Index (GI)",
+   "page": 262,
+   "text": "GI technique: selected teeth; a {{c1::probe}} is used gently on {{c2::four}} surfaces per tooth (M, D, B, L)."
+  },
+  {
+   "id": "comm-p262-003",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Index (GI)",
+   "page": 262,
+   "text": "GI scoring: 0 = normal gingiva; 1 = {{c1::mild}} inflammation, slight color change, {{c2::no bleeding}}; 2 = {{c3::moderate}} inflammation, redness, edema, {{c4::bleeding on probing}}."
+  },
+  {
+   "id": "comm-p262-004",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Index (GI)",
+   "page": 262,
+   "text": "GI score 3 = {{c1::severe}} inflammation, marked redness, {{c2::ulceration}}, {{c3::spontaneous}} bleeding."
+  },
+  {
+   "id": "comm-p262-005",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Index (GI)",
+   "page": 262,
+   "text": "GI interpretation (higher = more severe gingivitis): 0.1–1.0 = {{c1::mild}}; 1.1–2.0 = {{c2::moderate}}; 2.1–3.0 = {{c3::severe}} gingivitis.",
+   "extra": "Scores are averaged per tooth surface, then across all assessed teeth."
+  },
+  {
+   "id": "comm-p262-006",
+   "deck": "Community Oral Health & Research",
+   "section": "Sulcus Bleeding Index (SBI)",
+   "page": 262,
+   "text": "The {{c1::Sulcus Bleeding Index (SBI)}} measures bleeding and tissue response to {{c2::gentle sulcus probing}}.",
+   "extra": "Technique: selected teeth; probe; four surfaces (M, D, B, L) per tooth probed gently."
+  },
+  {
+   "id": "comm-p262-007",
+   "deck": "Community Oral Health & Research",
+   "section": "Sulcus Bleeding Index (SBI)",
+   "page": 262,
+   "text": "SBI scoring runs from 0 to {{c1::5}}; score 1 = {{c2::apparently healthy gingiva}} with bleeding on probing.",
+   "extra": "0 = healthy; no bleeding on probing."
+  },
+  {
+   "id": "comm-p262-008",
+   "deck": "Community Oral Health & Research",
+   "section": "Sulcus Bleeding Index (SBI)",
+   "page": 262,
+   "text": "SBI scores are averaged for {{c1::all bleeding sites}}; higher scores = {{c2::greater inflammation}}."
+  },
+  {
+   "id": "comm-p262-009",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Bleeding Index (GBI)",
+   "page": 262,
+   "text": "The {{c1::Gingival Bleeding Index (GBI)}} measures the presence of bleeding in the gingiva using {{c2::unwaxed floss}} on all teeth.",
+   "extra": "WakeUpMemory: \"B for Bleeding, B for Between the teeth\" — floss goes between the teeth (a probe goes around the teeth)."
+  },
+  {
+   "id": "comm-p262-010",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Bleeding Index (GBI)",
+   "page": 262,
+   "text": "GBI and EIBI scoring: 0 = {{c1::absence}}, 1 = {{c2::presence}} of bleeding; result = (bleeding sites ÷ total sites) × 100%.",
+   "extra": "Higher percentage = greater inflammation."
+  },
+  {
+   "id": "comm-p262-011",
+   "deck": "Community Oral Health & Research",
+   "section": "Eastman Interdental Bleeding Index (EIBI)",
+   "page": 262,
+   "text": "The {{c1::Eastman Interdental Bleeding Index (EIBI)}} measures interdental bleeding in all interdental areas using a {{c2::wooden interdental cleaner}}.",
+   "extra": "WakeUpMemory: \"E for Eastman, E for Edge of the stick.\""
+  },
+  {
+   "id": "comm-p263-001",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "text": "The {{c1::Community Periodontal Index (CPI)}} was developed by the {{c2::WHO}}; the {{c3::Periodontal Screening and Recording (PSR)}} was developed by the {{c4::ADA}}."
+  },
+  {
+   "id": "comm-p263-002",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "text": "CPI and PSR are adaptations of the {{c1::CPITN}} used to measure the {{c2::periodontal status}} of a community."
+  },
+  {
+   "id": "comm-p263-003",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "text": "CPI/PSR technique: {{c1::all}} teeth are examined, divided into {{c2::six sextants}}."
+  },
+  {
+   "id": "comm-p263-004",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "text": "CPI/PSR code 3 = colored band {{c1::partially visible}}, pocket {{c2::3.5–5.5 mm}}."
+  },
+  {
+   "id": "comm-p263-005",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "text": "CPI/PSR code 4 = colored band {{c1::not visible}}, pocket {{c2::>5.5 mm}}."
+  },
+  {
+   "id": "comm-p263-006",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "text": "CPI/PSR codes 0–2 all have the band fully visible: 0 = no bleeding; 1 = {{c1::bleeding on probing}}; 2 = {{c2::calculus and/or defective margins}}."
+  },
+  {
+   "id": "comm-p263-007",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "text": "In CPI/PSR, the {{c1::highest}} code per sextant is recorded — not averaged or added.",
+   "extra": "Quick because it uses just one score per sextant (the highest, worst score), helping clinicians triage who needs care."
+  },
+  {
+   "id": "comm-p263-008",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "text": "The asterisk (*) modifier, used only in {{c1::PSR}}, indicates {{c2::furcation involvement, mobility, recession, or mucogingival involvement}}."
+  },
+  {
+   "id": "comm-p263-009",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "text": "CPI/PSR: higher codes = greater periodontal disease and {{c1::treatment need}}.",
+   "extra": "Example: sextant scores 2, 0, 3, 1, 2, 4 — the most concerning sextant is the Code 4 one, which requires comprehensive periodontal treatment."
+  },
+  {
+   "id": "comm-p263-010",
+   "deck": "Community Oral Health & Research",
+   "section": "Dean's Fluorosis Index",
+   "page": 263,
+   "text": "{{c1::Dean's Fluorosis Index}} assesses the severity of dental fluorosis caused by {{c2::excessive fluoride during tooth development}}."
+  },
+  {
+   "id": "comm-p263-011",
+   "deck": "Community Oral Health & Research",
+   "section": "Dean's Fluorosis Index",
+   "page": 263,
+   "text": "Dean's Fluorosis Index technique: all erupted teeth are examined {{c1::visually with good lighting}}; the score is the most severe form of fluorosis that appears on {{c2::two or more}} teeth.",
+   "extra": "Higher scores = greater severity of fluorosis."
+  },
+  {
+   "id": "comm-p263-012",
+   "deck": "Community Oral Health & Research",
+   "section": "Dean's Fluorosis Index",
+   "page": 263,
+   "text": "Dean's index: Questionable (0.5) = {{c1::a few white flecks or spots}}.",
+   "extra": "Normal (0) = no sign of fluorosis."
+  },
+  {
+   "id": "comm-p263-013",
+   "deck": "Community Oral Health & Research",
+   "section": "Dean's Fluorosis Index",
+   "page": 263,
+   "text": "Dean's index: Very mild (1) = white areas affecting {{c1::<25%}} of the tooth surface; Mild (2) = white opacities affecting {{c2::<50%}}."
+  },
+  {
+   "id": "comm-p263-014",
+   "deck": "Community Oral Health & Research",
+   "section": "Dean's Fluorosis Index",
+   "page": 263,
+   "text": "Dean's index: {{c1::Moderate (3)}} = all tooth surfaces show white areas with some brown stains."
+  },
+  {
+   "id": "comm-p263-015",
+   "deck": "Community Oral Health & Research",
+   "section": "Dean's Fluorosis Index",
+   "page": 263,
+   "text": "Dean's index: {{c1::Severe (4)}} = brown stains, pits, and surface damage on most or all teeth."
+  },
+  {
+   "id": "comm-p264-001",
+   "deck": "Community Oral Health & Research",
+   "section": "DMFT / DMFS",
+   "page": 264,
+   "text": "{{c1::DMFT/DMFS}} (Decayed, Missing, Filled Teeth/Surfaces) measures {{c2::cumulative caries experience}} in permanent teeth."
+  },
+  {
+   "id": "comm-p264-002",
+   "deck": "Community Oral Health & Research",
+   "section": "DMFT / DMFS",
+   "page": 264,
+   "text": "DMFT/DMFS examines all permanent teeth ({{c1::third molars}} excluded) with an {{c2::explorer}}."
+  },
+  {
+   "id": "comm-p264-003",
+   "deck": "Community Oral Health & Research",
+   "section": "DMFT / DMFS",
+   "page": 264,
+   "text": "In DMF, M = missing {{c1::due to caries}} — extractions for other reasons are excluded.",
+   "extra": "D = decayed (active caries present); F = filled due to previous caries. Final score = D + M + F."
+  },
+  {
+   "id": "comm-p264-004",
+   "deck": "Community Oral Health & Research",
+   "section": "DMFT / DMFS",
+   "page": 264,
+   "text": "Program evaluation with DMF/dmf: a reduction of D (or d) and increase in F (or f) = {{c1::successful caries treatment program}}; an increase in D (or d) = {{c2::failure of caries prevention program}}."
+  },
+  {
+   "id": "comm-p264-005",
+   "deck": "Community Oral Health & Research",
+   "section": "dmft / deft (primary teeth)",
+   "page": 264,
+   "text": "{{c1::dmft/dmfs}} and {{c2::deft/defs}} measure caries experience in {{c3::primary}} teeth.",
+   "extra": "Tool: explorer. t = teeth; s = surfaces."
+  },
+  {
+   "id": "comm-p264-006",
+   "deck": "Community Oral Health & Research",
+   "section": "dmft / deft (primary teeth)",
+   "page": 264,
+   "text": "In deft/defs, \"e\" = {{c1::extraction needed (due to decay)}}; {{c2::missing}} teeth are not considered.",
+   "extra": "Final score = d + e + f."
+  },
+  {
+   "id": "comm-p264-007",
+   "deck": "Community Oral Health & Research",
+   "section": "dmft / deft (primary teeth)",
+   "page": 264,
+   "text": "Mixed dentition: record {{c1::DMFS/DMFT}} for permanent teeth and {{c2::dmfs/dmft}} for primary teeth, separately."
+  },
+  {
+   "id": "comm-p264-008",
+   "deck": "Community Oral Health & Research",
+   "section": "dmft / deft (primary teeth)",
+   "page": 264,
+   "text": "In the dmf/def indices, a tooth with both decay and a filling is scored as {{c1::\"d\" (decayed)}}.",
+   "extra": "Higher d = caries count/need for treatment; higher e or m = need for education and earlier intervention; higher f = better dental utilization."
+  },
+  {
+   "id": "comm-p264-009",
+   "deck": "Community Oral Health & Research",
+   "section": "dft / dfs",
+   "page": 264,
+   "text": "{{c1::dft/dfs}} are modifications for primary teeth that count only decayed and filled teeth/surfaces (final = d + f) — {{c2::no scoring for missing or extraction}}.",
+   "extra": "Higher d = caries count, need for treatment; higher f = better dental utilization."
+  },
+  {
+   "id": "comm-p264-010",
+   "deck": "Community Oral Health & Research",
+   "section": "Root Caries Index (RCI)",
+   "page": 264,
+   "text": "The {{c1::Root Caries Index (RCI)}} measures total root caries experience; decay is counted on {{c2::exposed roots}} of all permanent teeth (third molars excluded) with an explorer."
+  },
+  {
+   "id": "comm-p264-011",
+   "deck": "Community Oral Health & Research",
+   "section": "Root Caries Index (RCI)",
+   "page": 264,
+   "text": "RCI formula: ({{c1::decayed + filled root surfaces}}) ÷ ({{c2::total exposed root surfaces}}) × 100.",
+   "extra": "D: higher count = higher disease, need for treatment; F: higher count = better dental utilization."
+  },
+  {
+   "id": "comm-p264-012",
+   "deck": "Community Oral Health & Research",
+   "section": "Early Childhood Caries (ECC / S-ECC)",
+   "page": 264,
+   "text": "{{c1::Early Childhood Caries (ECC)}} = one or more dmfs ({{c2::cavitated or noncavitated}}) in a child younger than {{c3::6}} years.",
+   "extra": "ECC/S-ECC: all primary teeth, visual detection; evaluates a child's primary dentition from birth to 6."
+  },
+  {
+   "id": "comm-p264-013",
+   "deck": "Community Oral Health & Research",
+   "section": "Early Childhood Caries (ECC / S-ECC)",
+   "page": 264,
+   "text": "Severe ECC (S-ECC) in a child younger than 3 years = {{c1::any smooth-surface caries}}."
+  },
+  {
+   "id": "comm-p264-014",
+   "deck": "Community Oral Health & Research",
+   "section": "Early Childhood Caries (ECC / S-ECC)",
+   "page": 264,
+   "text": "S-ECC from age 3 to 6 = ≥1 cavitated lesion in the {{c1::maxillary anteriors}}, OR a dmfs of ≥{{c2::4}} (age 3–4), ≥{{c3::5}} (age 4–5), ≥{{c4::6}} (age 5–6)."
+  }
+ ],
+ "basic": [
+  {
+   "id": "comm-p260-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Categories of indices",
+   "page": 260,
+   "front": "Simple index",
+   "back": "An index that measures the <b>presence or absence</b> of a condition",
+   "reverse": true,
+   "extra": "e.g., plaque control record"
+  },
+  {
+   "id": "comm-p260-b-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Categories of indices",
+   "page": 260,
+   "front": "Cumulative index",
+   "back": "An index that measures <b>all evidence of past occurrences</b> of a condition",
+   "reverse": true,
+   "extra": "e.g., dental caries (DMF)"
+  },
+  {
+   "id": "comm-p260-b-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Categories of indices",
+   "page": 260,
+   "front": "Irreversible index",
+   "back": "An index that measures a dental condition that <b>cannot be reversed</b>",
+   "reverse": true,
+   "extra": "e.g., dental caries index"
+  },
+  {
+   "id": "comm-p260-b-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Categories of indices",
+   "page": 260,
+   "front": "Reversible index",
+   "back": "An index that measures a dental condition that <b>can be reversed</b>",
+   "reverse": true,
+   "extra": "e.g., the gingival index"
+  },
+  {
+   "id": "comm-p260-b-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "front": "Clarity (ideal index criterion)",
+   "back": "The index rules are easy to understand",
+   "reverse": true,
+   "extra": "e.g., the Plaque Index clearly defines scores from 0 (no plaque) to 3 (abundant plaque)."
+  },
+  {
+   "id": "comm-p260-b-06",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "front": "Simplicity (ideal index criterion)",
+   "back": "The index is easy to apply in clinical or field settings",
+   "reverse": true,
+   "extra": "e.g., the OHI-S uses only six teeth for quick evaluation."
+  },
+  {
+   "id": "comm-p260-b-07",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "front": "Objectivity (ideal index criterion)",
+   "back": "The criteria are not open to interpretation",
+   "reverse": true,
+   "extra": "e.g., the DMFT index (Decayed, Missing, Filled Teeth) uses straightforward clinical findings."
+  },
+  {
+   "id": "comm-p260-b-08",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "front": "Validity (ideal index criterion)",
+   "back": "The index measures what it is intended to measure",
+   "reverse": true,
+   "extra": "e.g., the Gingival Index is designed specifically to assess the severity of gingivitis."
+  },
+  {
+   "id": "comm-p260-b-09",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "front": "Reliability (ideal index criterion)",
+   "back": "The index produces consistent results across different examiners or conditions",
+   "reverse": true,
+   "extra": "e.g., trained and calibrated clinicians using the Community Periodontal Index (CPI) report similar scores."
+  },
+  {
+   "id": "comm-p260-b-10",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "front": "Quantifiability (ideal index criterion)",
+   "back": "The data can be recorded numerically",
+   "reverse": true,
+   "extra": "e.g., a Plaque Index score of 2.0 can be tracked and compared over time."
+  },
+  {
+   "id": "comm-p260-b-11",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "front": "Sensitivity (ideal index criterion)",
+   "back": "The index can detect small changes in health status",
+   "reverse": true,
+   "extra": "e.g., a plaque control record shows even slight improvements in oral hygiene between visits."
+  },
+  {
+   "id": "comm-p260-b-12",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "front": "Acceptability (ideal index criterion)",
+   "back": "The index does not cause harm or discomfort to the patient",
+   "reverse": true,
+   "extra": "e.g., disclosing tablets used to highlight plaque are safe and easy to use."
+  },
+  {
+   "id": "comm-p260-b-13",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of data",
+   "page": 260,
+   "front": "Qualitative data",
+   "back": "Describes traits that can't be measured numerically",
+   "reverse": true,
+   "extra": "e.g., patient satisfaction"
+  },
+  {
+   "id": "comm-p260-b-14",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of data",
+   "page": 260,
+   "front": "Quantitative data",
+   "back": "Data based on numbers that can be counted or measured",
+   "reverse": true,
+   "extra": "e.g., number of cavities"
+  },
+  {
+   "id": "comm-p260-b-15",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of data",
+   "page": 260,
+   "front": "Categorical data",
+   "back": "Groups items into named categories with no numeric meaning",
+   "reverse": true,
+   "extra": "e.g., floss type"
+  },
+  {
+   "id": "comm-p260-b-16",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of data",
+   "page": 260,
+   "front": "Continuous data",
+   "back": "Measured on a numeric scale; can take any value, including decimals/fractions",
+   "reverse": true,
+   "extra": "e.g., probing depth, plaque score percentage"
+  },
+  {
+   "id": "comm-p260-b-17",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of data",
+   "page": 260,
+   "front": "Dichotomous data",
+   "back": "Data with only two possible options",
+   "reverse": true,
+   "extra": "e.g., bleeding: yes or no"
+  },
+  {
+   "id": "comm-p260-b-18",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of data",
+   "page": 260,
+   "front": "Ordinal data",
+   "back": "Categories that can be ranked in order, but the differences between ranks aren't necessarily equal",
+   "reverse": true,
+   "extra": "e.g., gingival index — mild, moderate, severe inflammation"
+  },
+  {
+   "id": "comm-p260-b-19",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of data",
+   "page": 260,
+   "front": "Discrete data",
+   "back": "Data that comes in whole numbers only",
+   "reverse": true,
+   "extra": "e.g., number of sealants"
+  },
+  {
+   "id": "comm-p262-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Sulcus Bleeding Index (SBI)",
+   "page": 262,
+   "front": "Why is the SBI considered more comprehensive than the GI?",
+   "back": "It shows not just whether bleeding occurs but also how inflamed the tissue is.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "comm-p264-b-01",
+   "deck": "Community Oral Health & Research",
+   "section": "dft / dfs",
+   "page": 264,
+   "front": "When is the dft/dfs best used instead of the dmft/deft?",
+   "back": "When it's unclear whether missing primary teeth were lost naturally or due to decay.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "comm-p261-t-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Index (PlI)",
+   "page": 261,
+   "question": "Plaque Index (PlI): into how many sections is each tooth divided? (number)",
+   "answer": "4",
+   "extra": ""
+  },
+  {
+   "id": "comm-p261-t-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Index (PlI)",
+   "page": 261,
+   "question": "PlI: a tooth scores 1, 2, 1 and 0 on its four surfaces. What is the tooth score? (number)",
+   "answer": "1",
+   "extra": "(1+2+1+0)/4 = 1. Final PlI = average of all teeth."
+  },
+  {
+   "id": "comm-p261-t-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque Control Record (PCR)",
+   "page": 261,
+   "question": "PCR: a patient has 24 teeth (4 surfaces each) and 48 surfaces with plaque. PCR score? (%)",
+   "answer": "50%",
+   "extra": "24 × 4 = 96 surfaces; 48/96 × 100 = 50%. (The book also writes \"28 × 4 = 96\" — a typo; 24 × 4 = 96.)"
+  },
+  {
+   "id": "comm-p261-t-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Patient Hygiene Performance (PHP)",
+   "page": 261,
+   "question": "PHP: six teeth score 3, 2, 4, 1, 2, 5. Final PHP score? (2 decimals)",
+   "answer": "2.83",
+   "extra": "(3+2+4+1+2+5)/6 = 17/6 = 2.83. Higher = poorer hygiene. (The book calls this the PHP-M score.)"
+  },
+  {
+   "id": "comm-p261-t-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral Hygiene Index Simplified (OHI-S)",
+   "page": 261,
+   "question": "What is the maximum possible total OHI-S score? (number)",
+   "answer": "6",
+   "extra": "Debris Index max 3 + Calculus Index max 3."
+  },
+  {
+   "id": "comm-p261-t-06",
+   "deck": "Community Oral Health & Research",
+   "section": "Oral Hygiene Index Simplified (OHI-S)",
+   "page": 261,
+   "question": "OHI-S: debris scores 1, 2, 0, 1, 3, 2; calculus scores 0, 1, 1, 2, 1, 3. Total OHI-S? (2 decimals)",
+   "answer": "2.83",
+   "extra": "DI-S = 9/6 = 1.5; CI-S = 8/6 = 1.33; total = 2.83 (fair). 6 = number of teeth."
+  },
+  {
+   "id": "comm-p262-t-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Index (GI)",
+   "page": 262,
+   "question": "GI: a tooth scores 1, 2, 0 and 1 on its four surfaces. Tooth score? (1 decimal)",
+   "answer": "1.0",
+   "extra": "(1+2+0+1)/4 = 1.0. The final GI is the average of all teeth assessed."
+  },
+  {
+   "id": "comm-p262-t-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Sulcus Bleeding Index (SBI)",
+   "page": 262,
+   "question": "SBI: five teeth score 2, 1, 3, 1, 0. Final SBI? (1 decimal)",
+   "answer": "1.4",
+   "extra": "(2+1+3+1+0)/5 = 1.4"
+  },
+  {
+   "id": "comm-p262-t-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Bleeding Index (GBI)",
+   "page": 262,
+   "question": "GBI: after inserting unwaxed floss, how many seconds do you wait to observe bleeding? (number)",
+   "answer": "30",
+   "extra": ""
+  },
+  {
+   "id": "comm-p262-t-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Bleeding Index (GBI)",
+   "page": 262,
+   "question": "GBI: 7 of 28 interdental sites bleed. GBI score? (%)",
+   "answer": "25%",
+   "extra": "(7/28) × 100 = 25%"
+  },
+  {
+   "id": "comm-p262-t-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Eastman Interdental Bleeding Index (EIBI)",
+   "page": 262,
+   "question": "EIBI: after inserting the wooden interdental cleaner, how many seconds until you check for bleeding? (number)",
+   "answer": "15",
+   "extra": ""
+  },
+  {
+   "id": "comm-p262-t-06",
+   "deck": "Community Oral Health & Research",
+   "section": "Eastman Interdental Bleeding Index (EIBI)",
+   "page": 262,
+   "question": "EIBI: 3 of 10 interdental areas bleed. EIBI score? (%)",
+   "answer": "30%",
+   "extra": "(3/10) × 100 = 30%. Higher percentage = more inflammation."
+  },
+  {
+   "id": "comm-p264-t-01",
+   "deck": "Community Oral Health & Research",
+   "section": "DMFT / DMFS",
+   "page": 264,
+   "question": "A patient has 3 decayed teeth, 2 missing (due to caries) and 4 filled. DMFT? (number)",
+   "answer": "9",
+   "extra": "3 + 2 + 4 = 9"
+  },
+  {
+   "id": "comm-p264-t-02",
+   "deck": "Community Oral Health & Research",
+   "section": "dmft / deft (primary teeth)",
+   "page": 264,
+   "question": "A child has 2 decayed teeth, 3 needing extraction (due to caries) and 5 filled. deft? (number)",
+   "answer": "10",
+   "extra": "2 + 3 + 5 = 10"
+  },
+  {
+   "id": "comm-p264-t-03",
+   "deck": "Community Oral Health & Research",
+   "section": "dft / dfs",
+   "page": 264,
+   "question": "A child has 3 decayed and 4 filled primary teeth. dft? (number)",
+   "answer": "7",
+   "extra": "3 + 4 = 7"
+  },
+  {
+   "id": "comm-p264-t-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Root Caries Index (RCI)",
+   "page": 264,
+   "question": "Root Caries Index: how many root surfaces are scored per tooth? (number)",
+   "answer": "4",
+   "extra": "M, D, L, F"
+  }
+ ],
+ "match": [
+  {
+   "id": "comm-p260-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Maslow's hierarchy of needs",
+   "page": 260,
+   "prompt": "Match each patient example to the Maslow need driving it.",
+   "pairs": [
+    [
+     "Can't afford groceries, so skips brushing twice a day",
+     "Physiological"
+    ],
+    [
+     "Just lost job, cancels dental visits over cost",
+     "Safety"
+    ],
+    [
+     "Teen brushes better to avoid embarrassment with friends",
+     "Love and belonging"
+    ],
+    [
+     "Wants whiter teeth to feel more confident",
+     "Esteem"
+    ],
+    [
+     "Committed to lifelong prevention and learning",
+     "Self-actualization"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p260-m-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "prompt": "Match each ideal-index criterion to its example.",
+   "pairs": [
+    [
+     "Validity",
+     "GI is designed specifically to assess gingivitis severity"
+    ],
+    [
+     "Clarity",
+     "PlI clearly defines scores from 0 to 3"
+    ],
+    [
+     "Objectivity",
+     "DMFT uses straightforward clinical findings"
+    ],
+    [
+     "Simplicity",
+     "OHI-S uses only six teeth"
+    ],
+    [
+     "Quantifiability",
+     "A PlI score of 2.0 can be tracked over time"
+    ],
+    [
+     "Acceptability",
+     "Disclosing tablets are safe and easy to use"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p260-m-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of data",
+   "page": 260,
+   "prompt": "Match each example to its type of data.",
+   "pairs": [
+    [
+     "Patient satisfaction",
+     "Qualitative"
+    ],
+    [
+     "Floss type",
+     "Categorical"
+    ],
+    [
+     "Bleeding: yes or no",
+     "Dichotomous"
+    ],
+    [
+     "Number of cavities",
+     "Quantitative"
+    ],
+    [
+     "Number of sealants",
+     "Discrete"
+    ],
+    [
+     "Probing depth",
+     "Continuous"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p261-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque indices",
+   "page": 261,
+   "prompt": "Match each plaque index to what it measures.",
+   "pairs": [
+    [
+     "Plaque Index (PlI)",
+     "Thickness of plaque at the gingival margin"
+    ],
+    [
+     "PHP",
+     "Plaque removal success"
+    ],
+    [
+     "OHI-S",
+     "Debris and calculus accumulation"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p262-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival indices",
+   "page": 262,
+   "prompt": "Match each gingival index to what it measures.",
+   "pairs": [
+    [
+     "GI",
+     "Inflammation, color, consistency, bleeding"
+    ],
+    [
+     "SBI",
+     "Bleeding + tissue response to gentle sulcus probing"
+    ],
+    [
+     "GBI",
+     "Presence of gingival bleeding"
+    ],
+    [
+     "EIBI",
+     "Interdental bleeding"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p264-m-01",
+   "deck": "Community Oral Health & Research",
+   "section": "DMFT / DMFS",
+   "page": 264,
+   "prompt": "Match each high DMF component to what it indicates.",
+   "pairs": [
+    [
+     "Higher D count",
+     "Higher caries count and need for treatment"
+    ],
+    [
+     "Higher M count",
+     "Higher need for education and earlier intervention"
+    ],
+    [
+     "Higher F count",
+     "Better dental utilization"
+    ]
+   ]
+  },
+  {
+   "id": "comm-p264-m-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Index tools",
+   "page": 264,
+   "prompt": "Match each index to its tool.",
+   "pairs": [
+    [
+     "Plaque Index (PlI)",
+     "Probe"
+    ],
+    [
+     "OHI-S",
+     "Explorer"
+    ],
+    [
+     "Gingival Bleeding Index",
+     "Unwaxed floss"
+    ],
+    [
+     "CPI / PSR",
+     "WHO probe (0.5-mm ball tip)"
+    ],
+    [
+     "Dean's Fluorosis Index",
+     "Visual, good lighting"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "comm-p262-o-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Sulcus Bleeding Index (SBI)",
+   "page": 262,
+   "prompt": "Order the Sulcus Bleeding Index scores from 0 to 5.",
+   "items": [
+    "Healthy; no bleeding on probing",
+    "Apparently healthy gingiva; BOP",
+    "BOP; change in color",
+    "BOP; change in color; slight swelling",
+    "BOP; change in color; obvious swelling",
+    "BOP; spontaneous bleeding; color change; obvious swelling; no ulceration"
+   ]
+  },
+  {
+   "id": "comm-p263-o-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Dean's Fluorosis Index",
+   "page": 263,
+   "prompt": "Order Dean's Fluorosis Index categories from least to most severe.",
+   "items": [
+    "Normal (0)",
+    "Questionable (0.5)",
+    "Very mild (1)",
+    "Mild (2)",
+    "Moderate (3)",
+    "Severe (4)"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "comm-p260-s-01",
+   "deck": "Community Oral Health & Research",
+   "section": "US community health indices",
+   "page": 260,
+   "prompt": "Sort the indices: what does each one assess?",
+   "categories": [
+    [
+     "Plaque / oral hygiene",
+     [
+      "PlI (Silness & Löe)",
+      "PCR",
+      "PHP",
+      "OHI-S"
+     ]
+    ],
+    [
+     "Gingival inflammation / bleeding",
+     [
+      "GI",
+      "SBI",
+      "GBI",
+      "EIBI"
+     ]
+    ],
+    [
+     "Caries",
+     [
+      "DMFT/DMFS",
+      "deft/defs",
+      "dft/dfs",
+      "Root Caries Index"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "comm-p260-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Maslow's hierarchy of needs",
+   "page": 260,
+   "question": "A long-time recall patient was recently evicted from her apartment and has missed her last two appointments, saying she is \"just trying to find a place to stay.\" Which level of Maslow's hierarchy is most likely unmet?",
+   "options": [
+    "A. Esteem",
+    "B. Love and belonging",
+    "C. Safety",
+    "D. Self-actualization"
+   ],
+   "answer": "C. Safety",
+   "explanation": "Safety needs = personal security, housing and financial stability. Until housing is secure she is unlikely to prioritize oral health. Esteem (confidence, self-worth) is a higher level and is not what is threatened here."
+  },
+  {
+   "id": "comm-p260-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Categories of indices",
+   "page": 260,
+   "question": "Which of the following is an IRREVERSIBLE index?",
+   "options": [
+    "A. Gingival Index (GI)",
+    "B. DMFT",
+    "C. Plaque Index (PlI)",
+    "D. Sulcus Bleeding Index (SBI)"
+   ],
+   "answer": "B. DMFT",
+   "explanation": "An irreversible index measures a condition that cannot be reversed — dental caries (DMFT). Gingival inflammation (GI, SBI) and plaque (PlI) can be reversed, so those are reversible indices."
+  },
+  {
+   "id": "comm-p260-mcq-03",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "question": "Three calibrated hygienists independently score the same patient with an index and obtain nearly identical results. Which criterion of an ideal index does this demonstrate?",
+   "options": [
+    "A. Validity",
+    "B. Sensitivity",
+    "C. Reliability",
+    "D. Objectivity"
+   ],
+   "answer": "C. Reliability",
+   "explanation": "Reliability = consistent results across different examiners or conditions. Validity is whether the index measures what it is intended to measure — examiners can agree perfectly on an index that measures the wrong thing."
+  },
+  {
+   "id": "comm-p260-mcq-04",
+   "deck": "Community Oral Health & Research",
+   "section": "Criteria of an ideal index",
+   "page": 260,
+   "question": "An index is chosen because it detects even slight improvements in a patient's oral hygiene between two visits. Which criterion is being valued?",
+   "options": [
+    "A. Sensitivity",
+    "B. Quantifiability",
+    "C. Clarity",
+    "D. Acceptability"
+   ],
+   "answer": "A. Sensitivity",
+   "explanation": "Sensitivity = ability to detect small changes in health status (book example: the plaque control record). Quantifiability only means the data can be recorded numerically."
+  },
+  {
+   "id": "comm-p260-mcq-05",
+   "deck": "Community Oral Health & Research",
+   "section": "Types of data",
+   "page": 260,
+   "question": "A researcher records gingival inflammation as mild, moderate, or severe. The distance between \"mild\" and \"moderate\" is not necessarily the same as between \"moderate\" and \"severe.\" These data are:",
+   "options": [
+    "A. Dichotomous",
+    "B. Ordinal",
+    "C. Continuous",
+    "D. Discrete"
+   ],
+   "answer": "B. Ordinal",
+   "explanation": "Ordinal data have categories that can be ranked in order, but the differences between ranks aren't necessarily equal. Continuous data can take any value on a numeric scale (e.g., probing depth)."
+  },
+  {
+   "id": "comm-p261-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque indices",
+   "page": 261,
+   "question": "A hygienist wants to track a patient's plaque control by disclosing ALL teeth and recording the percentage of surfaces (M, D, F, L) with plaque. Which index fits?",
+   "options": [
+    "A. Plaque Index (Silness & Löe)",
+    "B. Plaque Control Record",
+    "C. Patient Hygiene Performance",
+    "D. OHI-S"
+   ],
+   "answer": "B. Plaque Control Record",
+   "explanation": "The PCR uses disclosing solution on all teeth, 4 (or 6) surfaces per tooth, scored as (plaque surfaces/total surfaces) × 100. PHP also uses disclosing solution but only on six index teeth divided into five sections."
+  },
+  {
+   "id": "comm-p261-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Plaque indices",
+   "page": 261,
+   "question": "A patient's total OHI-S score is 3.5. How is this interpreted?",
+   "options": [
+    "A. Good oral hygiene",
+    "B. Fair oral hygiene",
+    "C. Poor oral hygiene",
+    "D. Cannot be interpreted; OHI-S maximum is 3.0"
+   ],
+   "answer": "C. Poor oral hygiene",
+   "explanation": "Total OHI-S (DI-S + CI-S, max 6): 0.0–1.2 good, 1.3–3.0 fair, 3.1–6.0 poor. The 0–3 range applies to each component (DI-S or CI-S) on its own."
+  },
+  {
+   "id": "comm-p262-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival Index (GI)",
+   "page": 262,
+   "question": "On probing, the gingiva around #8 is red and edematous and bleeds, but there is no ulceration or spontaneous bleeding. What Gingival Index (Löe & Silness) score does this site receive?",
+   "options": [
+    "A. 0",
+    "B. 1",
+    "C. 2",
+    "D. 3"
+   ],
+   "answer": "C. 2",
+   "explanation": "GI 2 = moderate inflammation, redness, edema, bleeding on probing. GI 1 has no bleeding; GI 3 requires marked redness, ulceration and spontaneous bleeding."
+  },
+  {
+   "id": "comm-p262-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Gingival indices",
+   "page": 262,
+   "question": "A clinician inserts a wooden interdental cleaner into each interdental area and checks for bleeding after 15 seconds. Which index is being recorded?",
+   "options": [
+    "A. Gingival Bleeding Index",
+    "B. Sulcus Bleeding Index",
+    "C. Eastman Interdental Bleeding Index",
+    "D. Gingival Index"
+   ],
+   "answer": "C. Eastman Interdental Bleeding Index",
+   "explanation": "EIBI = wooden interdental cleaner, check at 15 sec (\"E for Eastman, E for Edge of the stick\"). The GBI uses unwaxed floss and a 30-second wait."
+  },
+  {
+   "id": "comm-p263-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "CPI / PSR",
+   "page": 263,
+   "question": "During PSR screening of the mandibular anterior sextant, the colored band of the probe remains partially visible at the deepest site, and there is calculus. Which code is recorded for that sextant?",
+   "options": [
+    "A. Code 1",
+    "B. Code 2",
+    "C. Code 3",
+    "D. Code 4"
+   ],
+   "answer": "C. Code 3",
+   "explanation": "Code 3 = band partially visible (pocket 3.5–5.5 mm). Only the highest code per sextant is recorded, so the calculus (code 2) is outranked by the pocket depth (code 3)."
+  },
+  {
+   "id": "comm-p263-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Dean's Fluorosis Index",
+   "page": 263,
+   "question": "A child has white opacities covering about 40% of the surface of four maxillary anterior teeth, and brown staining on ONE molar. What is the Dean's Fluorosis Index score?",
+   "options": [
+    "A. 1 (Very mild)",
+    "B. 2 (Mild)",
+    "C. 3 (Moderate)",
+    "D. 4 (Severe)"
+   ],
+   "answer": "B. 2 (Mild)",
+   "explanation": "The score is the most severe form that appears on two or more teeth: four teeth with opacities <50% = Mild (2). The brown stain on a single molar doesn't count because it appears on only one tooth."
+  },
+  {
+   "id": "comm-p264-mcq-01",
+   "deck": "Community Oral Health & Research",
+   "section": "Early Childhood Caries (ECC / S-ECC)",
+   "page": 264,
+   "question": "Which child meets the definition of SEVERE early childhood caries (S-ECC)?",
+   "options": [
+    "A. A 5-year-old with one filling on a mandibular incisor",
+    "B. A 4-year-old with two occlusal fillings on primary molars",
+    "C. A 5-year-old with one cavitated lesion on a maxillary central incisor",
+    "D. A 5-year-old with three decayed posterior surfaces"
+   ],
+   "answer": "C. A 5-year-old with one cavitated lesion on a maxillary central incisor",
+   "explanation": "From age 3, any cavitated lesion in the maxillary anteriors = S-ECC. The other children have ECC only: their dmfs is below the age threshold (≥5 at 4–5 y, ≥6 at 5–6 y) and none involves the maxillary anteriors (a mandibular anterior filling is ECC per the book)."
+  },
+  {
+   "id": "comm-p264-mcq-02",
+   "deck": "Community Oral Health & Research",
+   "section": "Caries indices",
+   "page": 264,
+   "question": "Over five years a school sealant/treatment program sees the mean D component of the DMFT fall and the F component rise. How should this be interpreted?",
+   "options": [
+    "A. Failure of the caries prevention program",
+    "B. Successful caries treatment program",
+    "C. Increased need for education and earlier intervention",
+    "D. Poorer access to dental care"
+   ],
+   "answer": "B. Successful caries treatment program",
+   "explanation": "Reduction of D and increase in F = successful caries treatment program (higher F = better dental utilization). An increase in D would signal failure of the prevention program; a higher M signals need for education/earlier intervention."
+  }
+ ]
+}

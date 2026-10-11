@@ -1,0 +1,984 @@
+{
+ "diagrams": [
+  {
+   "name": "rad-p134-pano-errors",
+   "title": "Panoramic technique errors: identify the cause (1)",
+   "deck": "Radiology",
+   "pdf_page": 16,
+   "page": 134,
+   "crop": [
+    95,
+    372,
+    975,
+    1658
+   ],
+   "labels": [
+    {
+     "box": [
+      722,
+      384,
+      965,
+      524
+     ],
+     "answer": "Lead apron is above the collar line",
+     "fit": "text"
+    },
+    {
+     "box": [
+      722,
+      548,
+      965,
+      678
+     ],
+     "answer": "Metal foreign object (tongue ring, piercing, braces, etc.) is present",
+     "fit": "text"
+    },
+    {
+     "box": [
+      722,
+      702,
+      965,
+      838
+     ],
+     "answer": "Object is in the passageway of the x-ray beam",
+     "fit": "text"
+    },
+    {
+     "box": [
+      722,
+      862,
+      965,
+      1000
+     ],
+     "answer": "Patient's spine is slumped",
+     "fit": "text"
+    },
+    {
+     "box": [
+      722,
+      1024,
+      965,
+      1164
+     ],
+     "answer": "Patient's tongue is not touching the roof of mouth",
+     "fit": "text"
+    },
+    {
+     "box": [
+      722,
+      1188,
+      965,
+      1324
+     ],
+     "answer": "Patient is biting too far forward on the rod",
+     "fit": "text"
+    },
+    {
+     "box": [
+      722,
+      1348,
+      965,
+      1482
+     ],
+     "answer": "Patient is biting too far back on rod",
+     "fit": "text"
+    },
+    {
+     "box": [
+      722,
+      1506,
+      965,
+      1644
+     ],
+     "answer": "Patient's chin is tipped too far down",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "rad-p135-pano-errors",
+   "title": "Panoramic technique errors: identify the cause (2)",
+   "deck": "Radiology",
+   "pdf_page": 17,
+   "page": 135,
+   "crop": [
+    90,
+    76,
+    965,
+    898
+   ],
+   "labels": [
+    {
+     "box": [
+      700,
+      140,
+      955,
+      180
+     ],
+     "answer": "Patient's chin is tipped too far up",
+     "fit": "text"
+    },
+    {
+     "box": [
+      700,
+      299,
+      955,
+      338
+     ],
+     "answer": "Patient's head is twisted",
+     "fit": "text"
+    },
+    {
+     "box": [
+      700,
+      469,
+      935,
+      508
+     ],
+     "answer": "Patient's head is tipped",
+     "fit": "text"
+    },
+    {
+     "box": [
+      700,
+      639,
+      955,
+      678
+     ],
+     "answer": "Patient moved during exposure",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "rad-p137-landmarks",
+   "title": "Periapical landmarks (maxillary anterior)",
+   "deck": "Radiology",
+   "pdf_page": 19,
+   "page": 137,
+   "crop": [
+    65,
+    265,
+    660,
+    1847
+   ],
+   "labels": [
+    {
+     "box": [
+      100,
+      365,
+      345,
+      415
+     ],
+     "answer": "Incisive foramen",
+     "fit": "text"
+    },
+    {
+     "box": [
+      85,
+      529,
+      345,
+      803
+     ],
+     "answer": "Median palatal suture",
+     "fit": "text"
+    },
+    {
+     "box": [
+      85,
+      827,
+      345,
+      1087
+     ],
+     "answer": "Nasal septum",
+     "fit": "text"
+    },
+    {
+     "box": [
+      85,
+      1111,
+      345,
+      1368
+     ],
+     "answer": "Nasal spine",
+     "fit": "text"
+    },
+    {
+     "box": [
+      85,
+      1392,
+      345,
+      1658
+     ],
+     "answer": "Nasal cavity (nasal fossae)",
+     "fit": "text"
+    },
+    {
+     "box": [
+      85,
+      1682,
+      345,
+      1831
+     ],
+     "answer": "Maxillary sinus",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "rad-p138-landmarks",
+   "title": "Periapical landmarks (maxillary posterior & mandible)",
+   "deck": "Radiology",
+   "pdf_page": 20,
+   "page": 138,
+   "crop": [
+    95,
+    73,
+    668,
+    2098
+   ],
+   "labels": [
+    {
+     "box": [
+      110,
+      89,
+      360,
+      338
+     ],
+     "answer": "Inverted Y",
+     "fit": "text"
+    },
+    {
+     "box": [
+      110,
+      362,
+      360,
+      508
+     ],
+     "answer": "Maxillary tuberosity",
+     "fit": "text"
+    },
+    {
+     "box": [
+      110,
+      532,
+      360,
+      673
+     ],
+     "answer": "Hamulus",
+     "fit": "text"
+    },
+    {
+     "box": [
+      110,
+      697,
+      360,
+      858
+     ],
+     "answer": "Zygomatic process",
+     "fit": "text"
+    },
+    {
+     "box": [
+      110,
+      882,
+      360,
+      1027
+     ],
+     "answer": "Coronoid process",
+     "fit": "text"
+    },
+    {
+     "box": [
+      110,
+      1051,
+      360,
+      1328
+     ],
+     "answer": "Genial tubercles",
+     "fit": "text"
+    },
+    {
+     "box": [
+      110,
+      1352,
+      360,
+      1629
+     ],
+     "answer": "Lingual foramen",
+     "fit": "text"
+    },
+    {
+     "box": [
+      110,
+      1653,
+      360,
+      1772
+     ],
+     "answer": "Mental foramen",
+     "fit": "text"
+    },
+    {
+     "box": [
+      110,
+      1796,
+      360,
+      2083
+     ],
+     "answer": "Mental ridge",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "rad-p134-001",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "A white opacity shaped like an inverted \"V\" at the bottom of a panoramic image is called the {{c1::\"shark fin\"}} error; correct it by {{c2::lowering the lead apron}}."
+  },
+  {
+   "id": "rad-p134-002",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "A panoramic lead apron does {{c1::NOT}} have a thyroid collar.",
+   "extra": "Book note under the shark-fin error. A collar would block the beam at the bottom of the image."
+  },
+  {
+   "id": "rad-p134-003",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "A ghost image is {{c1::magnified and blurry}} and appears on the {{c2::opposite}} side of the radiographic image from the real object.",
+   "extra": "Correction: remove the object before exposure if possible."
+  },
+  {
+   "id": "rad-p134-004",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "A ghost image can also be produced by a body part, such as the {{c1::ramus}}."
+  },
+  {
+   "id": "rad-p134-005",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "For a metal foreign object (tongue ring, piercing, braces) on a panoramic image, the correction is to {{c1::remove the object prior to exposure}} if possible."
+  },
+  {
+   "id": "rad-p134-006",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "A white tapered opacity in the middle of a panoramic image is called the {{c1::Washington Monument}} error; correct it by having the patient {{c2::take a step forward, straighten the back/neck, and lean slightly back}}.",
+   "extra": "Figure 2 in the book: straightened back position."
+  },
+  {
+   "id": "rad-p134-007",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "A large dark shadow over the maxillary teeth, between the palate and the dorsum of the tongue, is corrected by instructing the patient to {{c1::place the tongue on the roof of the mouth}} before exposure."
+  },
+  {
+   "id": "rad-p134-008",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "Thin, blurry anterior teeth with the spine visible on the sides of a panoramic image (biting too far forward) are corrected by making sure the anterior teeth are {{c1::in the grooves of the bite block}}.",
+   "extra": "Same correction for biting too far back (fat, blurry anteriors)."
+  },
+  {
+   "id": "rad-p134-009",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "When the patient's chin is tipped too far down or too far up, the correction is to position the {{c1::Frankfort}} plane {{c2::parallel to the floor}}.",
+   "extra": "Book spells it 'Frankfurt'. The book's figure also shows the ala-tragus plane (blue) for comparison."
+  },
+  {
+   "id": "rad-p134-010",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "text": "The Frankfort plane runs from the {{c1::bottom of the orbit}} to the {{c2::middle of the ear}} (book's definition)."
+  },
+  {
+   "id": "rad-p135-001",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 135,
+   "text": "Teeth and ramus wider on one side of a panoramic image (head twisted) are corrected by {{c1::centering the head's midline using the beam guides}}."
+  },
+  {
+   "id": "rad-p135-002",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 135,
+   "text": "Condyles unequal in height (head tipped) are corrected by {{c1::repositioning the head using the machine's guidelines}} (midline beam guide)."
+  },
+  {
+   "id": "rad-p135-003",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 135,
+   "text": "Blurred portions and large defects on a panoramic image (patient movement) are prevented by instructing the patient to {{c1::hold still prior to and during exposure}}."
+  },
+  {
+   "id": "rad-p135-005",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 135,
+   "text": "Radiographic prescribing guidelines are based on the patient's {{c1::dentition}}, {{c2::caries risk}}, and specific clinical needs, to optimize diagnostic information while {{c3::minimizing radiation exposure}}."
+  },
+  {
+   "id": "rad-p135-006",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 135,
+   "text": "New patient, <b>primary dentition</b>: {{c1::selected periapical/occlusal views and/or posterior bitewings}}, recommended if proximal surfaces {{c2::cannot be visualized or probed}}."
+  },
+  {
+   "id": "rad-p135-007",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 135,
+   "text": "A child new patient with no evidence of disease and {{c1::open proximal contacts}} may not require a radiographic exam, because child dentition is often spread out, allowing probe access."
+  },
+  {
+   "id": "rad-p135-008",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 135,
+   "text": "New patient, <b>mixed dentition, adolescent, or partially edentulous adult</b>: {{c1::posterior bitewings with a panoramic exam}} OR {{c2::posterior bitewings and selected periapicals}}."
+  },
+  {
+   "id": "rad-p135-009",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 135,
+   "text": "The mixed-dentition new-patient recommendation applies after the eruption of the {{c1::first permanent tooth}}."
+  },
+  {
+   "id": "rad-p135-010",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 135,
+   "text": "New patient, <b>edentulous adult</b>: radiographic exams are based on {{c1::clinical signs and symptoms}}."
+  },
+  {
+   "id": "rad-p136-001",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 136,
+   "text": "A new patient of any age with generalized dental disease or a history of extensive treatment: a {{c1::full-mouth intraoral radiographic exam}} is preferred.",
+   "extra": "Extensive pathology or prior treatment means a greater need for diagnostic information."
+  },
+  {
+   "id": "rad-p136-002",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 136,
+   "text": "For recall children/adolescents at increased caries risk, bitewings are indicated if proximal surfaces {{c1::cannot be examined visually or with a probe}}."
+  },
+  {
+   "id": "rad-p136-003",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 136,
+   "text": "Radiographs should {{c1::not}} be taken every 6 months regardless of patient condition; determine the interval based on {{c2::caries risk}}."
+  },
+  {
+   "id": "rad-p136-004",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 136,
+   "text": "For <b>periodontal disease</b> and for <b>monitoring growth and development</b>, {{c1::clinical judgment}} determines the need for and type of radiographic images.",
+   "extra": "Perio: an individualized approach based on disease severity and progression."
+  },
+  {
+   "id": "rad-p136-005",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 136,
+   "text": "Adolescents often require a {{c1::panoramic}} exam to monitor developing {{c2::third molars}}."
+  },
+  {
+   "id": "rad-p137-001",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 137,
+   "text": "The incisive foramen is a small {{c1::radiolucent}} oval between the roots of the maxillary central incisors; it is the passageway for the {{c2::nasopalatine}} nerves.",
+   "extra": "Should not be confused with periapical disease."
+  },
+  {
+   "id": "rad-p137-002",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 137,
+   "text": "The median palatal suture is a vertical {{c1::radiolucent}} thin line in the middle of the palate.",
+   "extra": "Should not be mistaken for a fracture."
+  },
+  {
+   "id": "rad-p137-003",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 137,
+   "text": "On a periapical, the nasal septum appears as a {{c1::radiopaque}} vertical strip."
+  },
+  {
+   "id": "rad-p137-004",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 137,
+   "text": "The {{c1::nasal spine}} is a {{c2::radiopaque}} triangular projection of bone anteriorly, at the median palatal suture where the nasal septum and fossae meet."
+  },
+  {
+   "id": "rad-p137-005",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 137,
+   "text": "The nasal cavity (nasal fossae) appears as {{c1::radiolucent}} oval shapes superior to the {{c2::central incisors}}.",
+   "extra": "Large air-filled space above and behind the nose in the middle of the face."
+  },
+  {
+   "id": "rad-p137-006",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 137,
+   "text": "The maxillary sinuses are hollow spaces in bone superior to the maxillary {{c1::molars and premolars}}."
+  },
+  {
+   "id": "rad-p138-001",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "text": "The {{c1::inverted Y}} is the junction where the {{c2::nasal fossa}} and the {{c2::maxillary sinus}} meet, most commonly superior to the maxillary {{c3::canine}} apex."
+  },
+  {
+   "id": "rad-p138-002",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "text": "The maxillary tuberosity appears as a rounded {{c1::radiopaque}} elevation distal to the {{c2::third molar}} region."
+  },
+  {
+   "id": "rad-p138-003",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "text": "The hamulus is an extension of the {{c1::medial pterygoid plate}} of the {{c2::sphenoid}} bone, seen as a radiopaque hook-like protrusion {{c3::posterior to the maxillary tuberosity}}."
+  },
+  {
+   "id": "rad-p138-004",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "text": "The zygomatic process appears as a {{c1::U-shaped}} {{c2::radiopaque}} band superior to the maxillary {{c3::molar}} apices."
+  },
+  {
+   "id": "rad-p138-005",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "text": "The {{c1::coronoid process}} (anterior portion of the ramus) is a radiopaque triangular projection usually superimposed over the {{c2::maxillary tuberosity}} on a maxillary molar periapical."
+  },
+  {
+   "id": "rad-p138-006",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "text": "The genial tubercles appear as circular {{c1::radiopacities}} inferior to the mandibular {{c2::central incisor}} apices."
+  },
+  {
+   "id": "rad-p138-007",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "text": "The lingual foramen is a {{c1::radiolucent}} circle inside the {{c2::genial tubercles}}; it is the exit for {{c3::incisive vessel}} branches."
+  },
+  {
+   "id": "rad-p138-008",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "text": "The mental foramen is a round {{c1::radiolucent}} area inferior to the mandibular {{c2::premolar}} apices; it is the opening for the mental {{c3::nerve and vessels}}.",
+   "extra": "Sometimes mistaken for periapical disease."
+  },
+  {
+   "id": "rad-p138-009",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "text": "The mental ridge appears as bilateral {{c1::radiopaque}} lines that start inferior to the {{c2::premolar}} apices and extend anteriorly to the midline.",
+   "extra": "Ridge of bone on the anterior surface of the mandible."
+  }
+ ],
+ "basic": [
+  {
+   "id": "rad-p135-b-01",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 135,
+   "front": "On a panoramic image taken with the patient's head twisted, which side shows the wider teeth, ramus and condyle?",
+   "back": "The side closer to the tubehead.",
+   "extra": "Book note under Figure 7 (twisted head)."
+  },
+  {
+   "id": "rad-p137-b-01",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 137,
+   "front": "Nasal septum",
+   "back": "Thin wall that divides the nasal cavity into two",
+   "reverse": true
+  },
+  {
+   "id": "rad-p138-b-01",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "front": "Genial tubercles",
+   "back": "Four bony spines for attachment of the genioglossus and geniohyoid muscles",
+   "reverse": true
+  },
+  {
+   "id": "rad-p138-b-02",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "front": "Maxillary tuberosity",
+   "back": "Distal portion of the maxillary alveolar process",
+   "reverse": true
+  }
+ ],
+ "typein": [
+  {
+   "id": "rad-p136-t-01",
+   "deck": "Radiology",
+   "section": "Recall radiographic recommendations",
+   "page": 136,
+   "question": "Recall patient, child/adolescent (primary, mixed or adolescent dentition) at INCREASED caries risk: posterior bitewing interval? (months, e.g. 6–12)",
+   "answer": "6–12",
+   "extra": "Type the range with an en dash or hyphen."
+  },
+  {
+   "id": "rad-p136-t-02",
+   "deck": "Radiology",
+   "section": "Recall radiographic recommendations",
+   "page": 136,
+   "question": "Recall adult, partially edentulous, at INCREASED caries risk: posterior bitewing interval? (months, e.g. 6–12)",
+   "answer": "6–18",
+   "extra": "Type the range with an en dash or hyphen."
+  },
+  {
+   "id": "rad-p136-t-03",
+   "deck": "Radiology",
+   "section": "Recall radiographic recommendations",
+   "page": 136,
+   "question": "Recall child, primary or mixed dentition, NO clinical caries and no increased risk: posterior bitewing interval? (months, e.g. 6–12)",
+   "answer": "12–24",
+   "extra": "Type the range with an en dash or hyphen."
+  },
+  {
+   "id": "rad-p136-t-04",
+   "deck": "Radiology",
+   "section": "Recall radiographic recommendations",
+   "page": 136,
+   "question": "Recall adolescent (before third-molar eruption), NO clinical caries and no increased risk: posterior bitewing interval? (months, e.g. 6–12)",
+   "answer": "18–36",
+   "extra": "Type the range with an en dash or hyphen."
+  },
+  {
+   "id": "rad-p136-t-05",
+   "deck": "Radiology",
+   "section": "Recall radiographic recommendations",
+   "page": 136,
+   "question": "Recall adult, partially edentulous, NO clinical caries and no increased risk: posterior bitewing interval? (months, e.g. 6–12)",
+   "answer": "24–36",
+   "extra": "Type the range with an en dash or hyphen."
+  }
+ ],
+ "match": [
+  {
+   "id": "rad-p136-m-01",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 136,
+   "prompt": "Match each recall group to its posterior bitewing interval.",
+   "pairs": [
+    [
+     "Child, high caries risk",
+     "6–12 months"
+    ],
+    [
+     "Adult, high caries risk",
+     "6–18 months"
+    ],
+    [
+     "Child, low caries risk",
+     "12–24 months"
+    ],
+    [
+     "Adolescent, low caries risk",
+     "18–36 months"
+    ],
+    [
+     "Adult, low caries risk",
+     "24–36 months"
+    ]
+   ]
+  },
+  {
+   "id": "rad-p138-m-01",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "prompt": "Match each landmark to its shape/position on a periapical.",
+   "pairs": [
+    [
+     "Median palatal suture",
+     "Thin vertical line in the middle of the palate"
+    ],
+    [
+     "Nasal septum",
+     "Vertical strip dividing the nasal cavity"
+    ],
+    [
+     "Hamulus",
+     "Hook-like protrusion posterior to the tuberosity"
+    ],
+    [
+     "Zygomatic process",
+     "U-shaped band above the molar apices"
+    ],
+    [
+     "Inverted Y",
+     "Junction of nasal fossa and maxillary sinus"
+    ],
+    [
+     "Lingual foramen",
+     "Small circle inside the genial tubercles"
+    ]
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "rad-p134-s-01",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "prompt": "Sort the panoramic image signs by their cause.",
+   "categories": [
+    [
+     "Chin tipped too far down",
+     [
+      "Exaggerated smile line",
+      "Condyles at top of image",
+      "Spine forms an arch"
+     ]
+    ],
+    [
+     "Chin tipped too far up",
+     [
+      "Flat smile line",
+      "Hard palate superimposed on roots",
+      "Broad, flat mandible"
+     ]
+    ],
+    [
+     "Biting too far forward",
+     [
+      "Thin, blurry anterior teeth",
+      "Spine visible on sides of image"
+     ]
+    ],
+    [
+     "Biting too far back",
+     [
+      "Fat, blurry anterior teeth"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "rad-p135-s-01",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 135,
+   "prompt": "Sort each NEW patient group by the recommended radiographic exam.",
+   "categories": [
+    [
+     "Selected PA/occlusal views and/or posterior BWs",
+     [
+      "Primary dentition"
+     ]
+    ],
+    [
+     "Posterior BWs + pano, OR posterior BWs + selected PAs",
+     [
+      "Mixed dentition",
+      "Adolescent",
+      "Adult, partially edentulous"
+     ]
+    ],
+    [
+     "Based on clinical signs and symptoms",
+     [
+      "Adult, edentulous"
+     ]
+    ],
+    [
+     "Full-mouth intraoral exam",
+     [
+      "Generalized dental disease or extensive treatment history"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "rad-p137-s-01",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 137,
+   "prompt": "Sort the landmarks: radiolucent or radiopaque?",
+   "categories": [
+    [
+     "Radiolucent",
+     [
+      "Incisive foramen",
+      "Median palatal suture",
+      "Nasal cavity",
+      "Lingual foramen",
+      "Mental foramen"
+     ]
+    ],
+    [
+     "Radiopaque",
+     [
+      "Nasal septum",
+      "Nasal spine",
+      "Maxillary tuberosity",
+      "Hamulus",
+      "Zygomatic process",
+      "Coronoid process",
+      "Genial tubercles",
+      "Mental ridge"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "rad-p134-mcq-01",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "question": "A panoramic image shows a white, inverted-V-shaped opacity obscuring the lower portion of the image. What is the most likely cause?",
+   "options": [
+    "A. Patient's tongue was not on the palate",
+    "B. Lead apron was placed above the collar line",
+    "C. Patient's spine was slumped",
+    "D. Patient's chin was tipped down"
+   ],
+   "answer": "B. Lead apron was placed above the collar line",
+   "explanation": "The 'shark fin' error is the lead apron blocking the beam; lower the apron (panoramic aprons have no thyroid collar). A slumped spine gives a white tapered opacity in the MIDDLE of the image (Washington Monument), not at the bottom."
+  },
+  {
+   "id": "rad-p134-mcq-02",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 134,
+   "question": "A panoramic image shows a large dark (radiolucent) band over the apices of the maxillary teeth. Which instruction would have prevented this error?",
+   "options": [
+    "A. Hold still during the exposure",
+    "B. Bite farther back on the bite block",
+    "C. Place your tongue against the roof of your mouth",
+    "D. Tip your chin down"
+   ],
+   "answer": "C. Place your tongue against the roof of your mouth",
+   "explanation": "The air space between the dorsum of the tongue and the palate shows as a dark shadow over the maxillary teeth. Tipping the chin down would cause an exaggerated smile line instead."
+  },
+  {
+   "id": "rad-p135-mcq-03",
+   "deck": "Radiology",
+   "section": "Panoramic technique errors",
+   "page": 135,
+   "question": "On a panoramic image the teeth and ramus on the patient's right side appear much wider than on the left. Which statement is correct?",
+   "options": [
+    "A. The patient's chin was tipped up",
+    "B. The head was twisted, and the right side was closer to the tubehead",
+    "C. The head was twisted, and the right side was closer to the receptor",
+    "D. The patient bit too far forward on the rod"
+   ],
+   "answer": "B. The head was twisted, and the right side was closer to the tubehead",
+   "explanation": "A twisted head makes one side wider; the wider side is the side closer to the tubehead. Correct by centering the midline with the beam guides."
+  },
+  {
+   "id": "rad-p136-mcq-04",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 136,
+   "question": "A 30-year-old recall patient with several teeth missing has had no clinical caries and is not at increased caries risk. When should posterior bitewings be taken?",
+   "options": [
+    "A. Every 6 months",
+    "B. At 6–18-month intervals",
+    "C. At 12–24-month intervals",
+    "D. At 24–36-month intervals"
+   ],
+   "answer": "D. At 24–36-month intervals",
+   "explanation": "Partially edentulous adult, no caries and no increased risk: 24–36 months. 6–18 months is for the same adult at increased caries risk; routine 6-month radiographs are never indicated."
+  },
+  {
+   "id": "rad-p135-mcq-05",
+   "deck": "Radiology",
+   "section": "Frequency of radiographic assessment",
+   "page": 135,
+   "question": "A new adult patient presents with generalized dental disease and a history of extensive restorative treatment. Which radiographic exam is preferred?",
+   "options": [
+    "A. Posterior bitewings only",
+    "B. Panoramic image only",
+    "C. Full-mouth intraoral radiographic exam",
+    "D. Exam based on clinical signs and symptoms only"
+   ],
+   "answer": "C. Full-mouth intraoral radiographic exam",
+   "explanation": "Generalized disease or extensive treatment (any age) indicates a full-mouth intraoral exam. Posterior BWs + pano or BWs + selected PAs is the routine choice for adults without that history."
+  },
+  {
+   "id": "rad-p138-mcq-06",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "question": "On a mandibular premolar periapical, a round radiolucency is seen below the premolar apices in an asymptomatic patient with vital teeth. This is most likely the:",
+   "options": [
+    "A. Lingual foramen",
+    "B. Mental foramen",
+    "C. Incisive foramen",
+    "D. Genial tubercles"
+   ],
+   "answer": "B. Mental foramen",
+   "explanation": "The mental foramen is a round radiolucency inferior to the mandibular premolar apices and is sometimes mistaken for periapical disease. The lingual foramen lies in the midline, inside the genial tubercles."
+  },
+  {
+   "id": "rad-p138-mcq-07",
+   "deck": "Radiology",
+   "section": "Anatomical landmarks on periapicals",
+   "page": 138,
+   "question": "A radiopaque hook-like structure is seen posterior to the maxillary tuberosity on a molar periapical. It is an extension of which structure?",
+   "options": [
+    "A. Zygomatic process of the maxilla",
+    "B. Coronoid process of the mandible",
+    "C. Medial pterygoid plate of the sphenoid bone",
+    "D. Nasal spine"
+   ],
+   "answer": "C. Medial pterygoid plate of the sphenoid bone",
+   "explanation": "This is the hamulus, an extension of the medial pterygoid plate of the sphenoid. The coronoid process is a triangular opacity often superimposed OVER the tuberosity."
+  }
+ ]
+}

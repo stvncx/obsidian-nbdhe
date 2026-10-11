@@ -1,0 +1,1649 @@
+{
+ "diagrams": [
+  {
+   "name": "poc-p336-joint-replacements",
+   "title": "Prosthetic joint replacements",
+   "deck": "Process of Care",
+   "pdf_page": 4,
+   "page": 336,
+   "crop": [
+    610,
+    1740,
+    1185,
+    2070
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      652,
+      2044,
+      784,
+      2068
+     ],
+     "answer": "Shoulder replacement",
+     "fit": "none"
+    },
+    {
+     "box": [
+      834,
+      2044,
+      964,
+      2068
+     ],
+     "answer": "Total hip replacement",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1026,
+      2044,
+      1166,
+      2068
+     ],
+     "answer": "Total knee replacement",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "poc-p337-diabetes-a1c",
+   "title": "Diabetes: A1C and fasting blood sugar cut-offs",
+   "deck": "Process of Care",
+   "pdf_page": 5,
+   "page": 337,
+   "crop": [
+    185,
+    1460,
+    1130,
+    1985
+   ],
+   "labels": [
+    {
+     "box": [
+      816,
+      1478,
+      949,
+      1543
+     ],
+     "answer": "Target for diabetics",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      299,
+      1600,
+      372,
+      1641
+     ],
+     "answer": "A1C",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      534,
+      1601,
+      616,
+      1642
+     ],
+     "answer": "5.7%",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      694,
+      1601,
+      776,
+      1645
+     ],
+     "answer": "6.5%",
+     "fit": "none"
+    },
+    {
+     "box": [
+      778,
+      1601,
+      843,
+      1645
+     ],
+     "answer": "7%",
+     "fit": "none"
+    },
+    {
+     "box": [
+      200,
+      1653,
+      469,
+      1694
+     ],
+     "answer": "Fasting blood sugar test",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      509,
+      1653,
+      640,
+      1695
+     ],
+     "answer": "100 mg/dl",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      670,
+      1653,
+      796,
+      1697
+     ],
+     "answer": "126 mg/dl",
+     "fit": "none"
+    },
+    {
+     "box": [
+      410,
+      1864,
+      500,
+      1900
+     ],
+     "answer": "Normal",
+     "fit": "text"
+    },
+    {
+     "box": [
+      590,
+      1864,
+      712,
+      1900
+     ],
+     "answer": "Prediabetes",
+     "fit": "text"
+    },
+    {
+     "box": [
+      802,
+      1864,
+      895,
+      1900
+     ],
+     "answer": "Diabetes",
+     "fit": "none"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "poc-p334-001",
+   "deck": "Process of Care",
+   "section": "ADPIED",
+   "page": 334,
+   "text": "In the ADPIED process of care: A = Assessment, D = {{c1::Dental hygiene diagnosis}}, P = {{c2::Planning}}, I = {{c3::Implementation}}, E = {{c4::Evaluation}}, D = Documentation."
+  },
+  {
+   "id": "poc-p334-002",
+   "deck": "Process of Care",
+   "section": "ADPIED",
+   "page": 334,
+   "text": "The ADPIED process of care helps identify {{c1::risk factors}} to aid in the prevention and management of oral diseases."
+  },
+  {
+   "id": "poc-p334-003",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "text": "{{c1::Assessment}} is the first component of the dental hygiene process."
+  },
+  {
+   "id": "poc-p334-004",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "text": "Assessment starts when the clinician {{c1::escorts the patient to the treatment area}} — notice the patient's breathing, physical impairment, appearance, etc."
+  },
+  {
+   "id": "poc-p334-005",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "text": "When taking the medical history and medications, include {{c1::prescription drugs}}, {{c2::over-the-counter drugs}}, and {{c3::supplements}}.",
+   "extra": "Obtain past and present medical history, dental history, and medications."
+  },
+  {
+   "id": "poc-p334-006",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "text": "During assessment, consult with the {{c1::physician}} for patients with medical concerns."
+  },
+  {
+   "id": "poc-p334-007",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "text": "During assessment, check {{c1::vital signs}} and assess the patient's physical and mental state."
+  },
+  {
+   "id": "poc-p334-008",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "text": "Assessment includes the extraoral/intraoral examination, assessing the dentition and periodontium, noting abnormalities, and obtaining {{c1::radiographs}} (if necessary)."
+  },
+  {
+   "id": "poc-p334-009",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "text": "Risk assessments are performed for {{c1::caries}}, {{c2::periodontal diseases}}, and {{c3::oral cancer}}."
+  },
+  {
+   "id": "poc-p334-010",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "text": "Factors considered in risk assessment include {{c1::fluoride exposure}}, tobacco use, nutrition analysis, {{c2::parafunctional habits}}, lifestyle, age, gender, genetic history, physical disability, etc."
+  },
+  {
+   "id": "poc-p334-011",
+   "deck": "Process of Care",
+   "section": "Dental hygiene diagnosis",
+   "page": 334,
+   "text": "The dental hygiene diagnosis identifies {{c1::current and potential}} oral health problems from the data collected."
+  },
+  {
+   "id": "poc-p334-012",
+   "deck": "Process of Care",
+   "section": "Dental hygiene diagnosis",
+   "page": 334,
+   "text": "A dental hygiene diagnosis is NOT a {{c1::dental diagnosis}} — the actual dental diagnosis is done only by the {{c2::dentist}}."
+  },
+  {
+   "id": "poc-p334-013",
+   "deck": "Process of Care",
+   "section": "Dental hygiene diagnosis",
+   "page": 334,
+   "text": "When writing notes, avoid words that are {{c1::judgmental}} and express emotions."
+  },
+  {
+   "id": "poc-p334-014",
+   "deck": "Process of Care",
+   "section": "Planning",
+   "page": 334,
+   "text": "Planning formulates goals and a sequence of activities based on the patient's {{c1::needs}}, {{c2::values}}, and {{c3::scientific evidence}}."
+  },
+  {
+   "id": "poc-p334-015",
+   "deck": "Process of Care",
+   "section": "Planning",
+   "page": 334,
+   "text": "The treatment plan is formulated by the {{c1::dentist}} (with the hygienist's help); it is presented to the patient to obtain {{c2::informed consent}}."
+  },
+  {
+   "id": "poc-p334-016",
+   "deck": "Process of Care",
+   "section": "Planning",
+   "page": 334,
+   "text": "Failure to provide the highest standard of care (e.g., not referring to a specialist when necessary) is considered {{c1::malpractice (negligence)}}."
+  },
+  {
+   "id": "poc-p334-017",
+   "deck": "Process of Care",
+   "section": "Implementation",
+   "page": 334,
+   "text": "In implementation, the hygienist implements the treatment plan that the {{c1::dentist has approved}}."
+  },
+  {
+   "id": "poc-p334-018",
+   "deck": "Process of Care",
+   "section": "Implementation",
+   "page": 334,
+   "text": "Implementation includes {{c1::non-surgical periodontal therapy}}, patient education, {{c2::dietary analysis}}, and oral hygiene instructions."
+  },
+  {
+   "id": "poc-p334-019",
+   "deck": "Process of Care",
+   "section": "Evaluation",
+   "page": 334,
+   "text": "In evaluation, the hygienist reviews and documents the {{c1::outcomes}} of the therapy performed; depending on progress, the {{c2::treatment plan}} may need adjusting."
+  },
+  {
+   "id": "poc-p334-020",
+   "deck": "Process of Care",
+   "section": "Documentation (SOAP)",
+   "page": 334,
+   "text": "In a SOAP note, the {{c1::Subjective}} section records what the patient reports: chief complaint, symptoms, medical history, pain level, lifestyle habits (e.g., smoking, home care)."
+  },
+  {
+   "id": "poc-p334-021",
+   "deck": "Process of Care",
+   "section": "Documentation (SOAP)",
+   "page": 334,
+   "text": "The Subjective (S) section of a SOAP note should always use the {{c1::patient's own words}} if possible."
+  },
+  {
+   "id": "poc-p334-022",
+   "deck": "Process of Care",
+   "section": "Documentation (SOAP)",
+   "page": 334,
+   "text": "In a SOAP note, the {{c1::Objective}} section records what the clinician observes or measures: vital signs, clinical findings (e.g., bleeding on probing), radiographic evidence, plaque index, intra/extraoral exam results."
+  },
+  {
+   "id": "poc-p334-023",
+   "deck": "Process of Care",
+   "section": "Documentation (SOAP)",
+   "page": 334,
+   "text": "In a SOAP note, the {{c1::Assessment}} section is your clinical interpretation or hygiene status (e.g., gingivitis, moderate periodontitis); it summarizes risk levels and progress from previous visits."
+  },
+  {
+   "id": "poc-p335-001",
+   "deck": "Process of Care",
+   "section": "Documentation (SOAP)",
+   "page": 335,
+   "text": "In a SOAP note, the {{c1::Plan}} section records the proposed treatment plan and next steps: education, radiographs needed, debridement, fluoride application, referrals, and recall interval."
+  },
+  {
+   "id": "poc-p335-002",
+   "deck": "Process of Care",
+   "section": "Dental hygiene diagnosis",
+   "page": 335,
+   "text": "The dental hygiene diagnosis provides a basis for the {{c1::dental hygiene care plan}}."
+  },
+  {
+   "id": "poc-p335-003",
+   "deck": "Process of Care",
+   "section": "Dental hygiene diagnosis",
+   "page": 335,
+   "text": "Data for the dental hygiene diagnosis come from the {{c1::patient interview}} (chief complaint, medical history, dental history) and the {{c2::physical assessment}} (vital signs, intra/extraoral exam, periodontal and dental charting)."
+  },
+  {
+   "id": "poc-p335-004",
+   "deck": "Process of Care",
+   "section": "Dental hygiene diagnosis",
+   "page": 335,
+   "text": "A dental hygiene diagnostic statement gives the {{c1::problem}}, followed by the {{c2::cause}}.",
+   "extra": "Example: heavy biofilm, related to a lack of daily home care at the senior facility."
+  },
+  {
+   "id": "poc-p335-005",
+   "deck": "Process of Care",
+   "section": "Dental hygiene diagnosis",
+   "page": 335,
+   "text": "The dental hygiene diagnosis must be within the scope of practice — e.g., a hygienist cannot diagnose {{c1::caries}} (that is the dentist's scope)."
+  },
+  {
+   "id": "poc-p335-006",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "text": "The prognosis is determined {{c1::after the diagnosis}} and {{c2::before the treatment plan is finalized}}."
+  },
+  {
+   "id": "poc-p335-007",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "text": "Prognosis considers individual tooth factors (e.g., {{c1::mobility}}) and overall factors (e.g., {{c2::age}}).",
+   "extra": "Details can vary according to the reference."
+  },
+  {
+   "id": "poc-p335-008",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "text": "<b>Good</b> prognosis: control of etiologic factors, adequate biofilm management, {{c1::no clinical attachment loss}}, bleeding on probing {{c2::&lt;10%}}, regular professional care, non-smoker, good diabetes control."
+  },
+  {
+   "id": "poc-p335-009",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "text": "<b>Fair</b> prognosis: control of etiologic factors, adequate biofilm management, bleeding on probing {{c1::&gt;10%}}, attachment loss {{c2::1–4 mm}}, radiographic bone loss {{c3::15–33%}}, probing depths &lt;5 mm, {{c4::Class I}} furcation, no mobility."
+  },
+  {
+   "id": "poc-p335-010",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "text": "<b>Poor</b> prognosis: inadequate plaque control (root anatomy or dexterity), bone loss {{c1::&gt;33%}}, attachment loss {{c2::&gt;5 mm}}, probing depths {{c3::&gt;6 mm}}, vertical bone loss, Class II furcation, {{c4::Class II}} molar mobility, poor diabetes control, tobacco use."
+  },
+  {
+   "id": "poc-p335-011",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "text": "<b>Questionable</b> prognosis: inadequate plaque control with root/dexterity challenges, uncontrolled diabetes, bone loss {{c1::&gt;50%}} + poor crown-to-root ratio, Class II or III furcation, {{c2::Class III}} mobility, root proximity, tobacco use, tooth loss due to periodontitis."
+  },
+  {
+   "id": "poc-p335-012",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "text": "<b>Hopeless</b> prognosis: {{c1::inadequate attachment to support the tooth}}; {{c2::extraction}} recommended."
+  },
+  {
+   "id": "poc-p335-013",
+   "deck": "Process of Care",
+   "section": "Dental hygiene care plan",
+   "page": 335,
+   "text": "A dental hygiene care plan includes {{c1::interventions}}, {{c2::expected outcomes}}, {{c3::evaluation methods}}, and a plan for {{c4::re-evaluation}}."
+  },
+  {
+   "id": "poc-p335-014",
+   "deck": "Process of Care",
+   "section": "Dental hygiene care plan",
+   "page": 335,
+   "text": "The care plan focuses on the elimination of {{c1::etiologic factors}} (e.g., plaque and calculus removal)."
+  },
+  {
+   "id": "poc-p335-015",
+   "deck": "Process of Care",
+   "section": "Dental hygiene care plan",
+   "page": 335,
+   "text": "The care plan also includes {{c1::education and behavior modification}}, such as nutritional counseling and smoking cessation."
+  },
+  {
+   "id": "poc-p335-016",
+   "deck": "Process of Care",
+   "section": "Dental hygiene care plan",
+   "page": 335,
+   "text": "Oral hygiene instructions (OHI) are customized to the patient's {{c1::abilities and goals}}."
+  },
+  {
+   "id": "poc-p335-017",
+   "deck": "Process of Care",
+   "section": "Dental hygiene care plan",
+   "page": 335,
+   "text": "The patient is the {{c1::center of care}} — informed consent must be obtained, and the patient may {{c2::accept or decline}} parts of the proposed plan."
+  },
+  {
+   "id": "poc-p335-018",
+   "deck": "Process of Care",
+   "section": "Dental hygiene care plan",
+   "page": 335,
+   "text": "The care plan should reflect the patient's systemic health, risk factors, values, and {{c1::readiness to change}}."
+  },
+  {
+   "id": "poc-p335-019",
+   "deck": "Process of Care",
+   "section": "Appointment types",
+   "page": 335,
+   "text": "Did you know? In the 1920s–1930s the biannual dental visit gained popularity in the US through {{c1::Ipana toothpaste}} advertisements; in the mid-20th century the {{c2::American Dental Association (ADA)}} began endorsing the six-month recall.",
+   "extra": "Canada was influenced by similar marketing and professional endorsements."
+  },
+  {
+   "id": "poc-p335-020",
+   "deck": "Process of Care",
+   "section": "Appointment types",
+   "page": 335,
+   "text": "The {{c1::initial}} appointment is the first comprehensive visit: full assessment, radiographs, periodontal charting, cancer screening, plaque evaluation, and creation of a personalized care plan."
+  },
+  {
+   "id": "poc-p335-021",
+   "deck": "Process of Care",
+   "section": "Appointment types",
+   "page": 335,
+   "text": "The {{c1::recall}} appointment is the traditional term for periodic follow-up (reassess, update history, cleaning, radiographs if needed, reinforce home care) — typically every {{c2::6 months}}, varying with individual risk factors."
+  },
+  {
+   "id": "poc-p336-001",
+   "deck": "Process of Care",
+   "section": "Appointment types",
+   "page": 336,
+   "text": "The {{c1::re-care}} appointment is the patient-centered term for ongoing maintenance visits (all recall components, emphasizing prevention, risk assessment, collaborative care); its interval, based on individual risk, ranges from {{c2::3 to 12 months}}."
+  },
+  {
+   "id": "poc-p336-002",
+   "deck": "Process of Care",
+   "section": "Appointment types",
+   "page": 336,
+   "text": "The {{c1::re-evaluation}} appointment is a follow-up after initial therapy, typically at {{c2::4–6 weeks}}, to assess healing, re-probe periodontal status, and determine the next phase of care."
+  },
+  {
+   "id": "poc-p336-003",
+   "deck": "Process of Care",
+   "section": "Recall intervals",
+   "page": 336,
+   "text": "<b>Low</b> caries risk (good oral hygiene, no history of periodontal disease): recommended interval {{c1::6–12 months}}."
+  },
+  {
+   "id": "poc-p336-004",
+   "deck": "Process of Care",
+   "section": "Recall intervals",
+   "page": 336,
+   "text": "<b>Moderate</b> caries risk (some risk factors, such as smoking or diabetes): recommended interval {{c1::4–6 months}}."
+  },
+  {
+   "id": "poc-p336-005",
+   "deck": "Process of Care",
+   "section": "Recall intervals",
+   "page": 336,
+   "text": "<b>High</b> caries risk (history of periodontal disease, poor oral hygiene, multiple risk factors): recommended interval {{c1::3–4 months}}."
+  },
+  {
+   "id": "poc-p336-006",
+   "deck": "Process of Care",
+   "section": "Recall intervals",
+   "page": 336,
+   "text": "Recall by periodontal status: healthy/gingivitis every {{c1::6 to 12 months}}; history of periodontitis every {{c2::3 to 4 months}} (maintenance); active periodontitis: re-evaluate 4–6 weeks post-SRP, then every {{c3::3 months}} until stable."
+  },
+  {
+   "id": "poc-p336-007",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "For a patient with angina, have {{c1::nitroglycerin}} (Nitrostat) ready for emergencies."
+  },
+  {
+   "id": "poc-p336-008",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "For a patient with angina, create a stress-free environment; {{c1::morning}} appointments are preferred."
+  },
+  {
+   "id": "poc-p336-009",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "For patients with angina, a history of MI, or hypertension, limit epinephrine to {{c1::0.04 mg}} per appointment = about {{c2::2}} cartridges of 1:100,000."
+  },
+  {
+   "id": "poc-p336-010",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "{{c1::Hypertension}}: increased pressure on the arteries related to the buildup of plaque in the arteries."
+  },
+  {
+   "id": "poc-p336-011",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "For a hypertensive patient, check blood pressure {{c1::before and after}} the procedure.",
+   "extra": "The exam uses the AHA 2017 blood-pressure categories."
+  },
+  {
+   "id": "poc-p336-012",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "{{c1::Angioplasty-stent}}: a tiny balloon inserted into the artery to prevent clogging. If {{c2::blood thinners}} are prescribed, heavier and prolonged bleeding can occur."
+  },
+  {
+   "id": "poc-p336-013",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "In {{c1::congestive heart failure (CHF)}}, the heart cannot pump blood effectively, causing inadequate delivery of oxygen and nutrients and fluid buildup (congestion) in the lungs, legs, or other areas."
+  },
+  {
+   "id": "poc-p336-014",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "A patient with CHF may not tolerate a {{c1::supine}} position; avoid {{c2::ultrasonic scalers and air polishers}} if the patient has difficulty breathing."
+  },
+  {
+   "id": "poc-p336-015",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "{{c1::Arrhythmia}}: abnormal electrical conduction to the heart muscles; {{c2::epinephrine}} can worsen the condition."
+  },
+  {
+   "id": "poc-p336-016",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "text": "Ultrasonic or piezoelectric scalers are safe with newer cardiac pacemakers that are {{c1::shielded}}; older models may not be, and {{c2::power scalers}} should be avoided."
+  },
+  {
+   "id": "poc-p336-017",
+   "deck": "Process of Care",
+   "section": "Prosthetic joints",
+   "page": 336,
+   "text": "In a prosthetic joint replacement, a damaged or diseased joint is replaced with an artificial device, usually made of {{c1::metal, plastic, or ceramic}}.",
+   "extra": "The book's heading reads \"Artificial (prosthetic) valve\", but the text describes a joint."
+  },
+  {
+   "id": "poc-p336-018",
+   "deck": "Process of Care",
+   "section": "Prosthetic joints",
+   "page": 336,
+   "text": "Prosthetic joint replacements (e.g., hips, knees) {{c1::do not}} routinely require antibiotic premedication for dental procedures, unless the patient's physician specifically recommends it due to a high-risk condition or a history of {{c2::joint infection}}. Patients generally carry documentation for premedication.",
+   "extra": "Don't confuse with a prosthetic HEART valve, which IS a high-risk condition requiring antibiotic prophylaxis (AHA 2021)."
+  },
+  {
+   "id": "poc-p337-001",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "ADHD (inattentiveness, hyperactivity, impulsiveness, possible learning disability): use the {{c1::\"tell, show, do\"}} approach and schedule {{c2::short}} appointments."
+  },
+  {
+   "id": "poc-p337-002",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "Alzheimer's disease destroys memory, so patients may not remember to care for their oral health — {{c1::caregiver education}} is important."
+  },
+  {
+   "id": "poc-p337-003",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "Parkinson's disease is related to a lack or impairment of {{c1::dopamine}}."
+  },
+  {
+   "id": "poc-p337-004",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "Parkinson's disease is characterized by rigid movements, {{c1::tremor}}, drooling, and lack of facial expression."
+  },
+  {
+   "id": "poc-p337-005",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "For a Parkinson's patient: suggest a larger toothbrush handle or a {{c1::power toothbrush}} and educate the caregiver; protect the airway and use short appointments; {{c2::stabilize}} instruments to avoid accidents from the tremor."
+  },
+  {
+   "id": "poc-p337-006",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "{{c1::Stroke}}: interrupted or reduced blood flow to the brain causing brain-cell damage, often with sudden weakness or paralysis on one side of the body, difficulty speaking, or facial drooping.",
+   "extra": "Manual dexterity may be limited — educate the caregiver and suggest home-care modifications."
+  },
+  {
+   "id": "poc-p337-007",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "{{c1::Dilantin (phenytoin)}}, taken for seizures, can cause gingival hyperplasia."
+  },
+  {
+   "id": "poc-p337-008",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "For a seizure patient, avoid {{c1::bright light in the eyes}} (can trigger a seizure) and make sure the {{c2::medication}} was taken appropriately before the appointment."
+  },
+  {
+   "id": "poc-p337-009",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "Depression: avoid the vasoconstrictor {{c1::levonordefrin}} (used with mepivacaine) in patients taking {{c2::tricyclic antidepressants}} (e.g., Elavil)."
+  },
+  {
+   "id": "poc-p337-010",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "Nitrous oxide is contraindicated in patients with {{c1::depression}}, {{c2::alcohol and drug dependency}}, and {{c3::COPD/emphysema}}.",
+   "extra": "COPD: p. 339."
+  },
+  {
+   "id": "poc-p337-011",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "text": "Alcohol and drug dependency: the risk of {{c1::oral cancer}} is higher; avoid {{c2::mouthrinses with alcohol}}."
+  },
+  {
+   "id": "poc-p337-012",
+   "deck": "Process of Care",
+   "section": "Blood disorders",
+   "page": 337,
+   "text": "Anemia (drop in oxygen-carrying hemoglobin): the tongue may lose its {{c1::filiform papillae}}; oral tissues may appear pale or erythematous; patients are often weak and fatigued."
+  },
+  {
+   "id": "poc-p337-013",
+   "deck": "Process of Care",
+   "section": "Blood disorders",
+   "page": 337,
+   "text": "Hemophilia and platelet disorders (abnormal coagulation): patients are at risk for {{c1::spontaneous bleeding}}, prolonged bleeding, and hemorrhages."
+  },
+  {
+   "id": "poc-p337-014",
+   "deck": "Process of Care",
+   "section": "Diabetes",
+   "page": 337,
+   "text": "For diabetic patients, schedule appointments {{c1::after meals}} and pharmacologic therapy; {{c2::morning}} appointments are preferred.",
+   "extra": "Diabetes mellitus: insulin deficiency or abnormality disorder."
+  },
+  {
+   "id": "poc-p338-001",
+   "deck": "Process of Care",
+   "section": "Diabetes",
+   "page": 338,
+   "text": "Ask a diabetic patient for her last {{c1::HbA1c}} results.",
+   "extra": "For patients with diabetes, an HbA1c of less than 7% indicates the condition is well controlled."
+  },
+  {
+   "id": "poc-p338-002",
+   "deck": "Process of Care",
+   "section": "Diabetes",
+   "page": 338,
+   "text": "Diabetic patients require more frequent {{c1::periodontal maintenance}} and excellent home oral hygiene."
+  },
+  {
+   "id": "poc-p338-003",
+   "deck": "Process of Care",
+   "section": "Diabetes",
+   "page": 338,
+   "text": "Patients with {{c1::uncontrolled}} diabetes should not be treated until the condition is under control."
+  },
+  {
+   "id": "poc-p338-004",
+   "deck": "Process of Care",
+   "section": "Diabetes",
+   "page": 338,
+   "text": "Diabetic patients are more susceptible to {{c1::infections}}, including periodontal diseases, and their wound healing is {{c2::poor}}."
+  },
+  {
+   "id": "poc-p338-005",
+   "deck": "Process of Care",
+   "section": "Renal & liver disease",
+   "page": 338,
+   "text": "Renal disease: patients can have frequent infections, poor healing, and bleeding abnormalities; drugs are excreted more {{c1::slowly}}."
+  },
+  {
+   "id": "poc-p338-006",
+   "deck": "Process of Care",
+   "section": "Renal & liver disease",
+   "page": 338,
+   "text": "For a dialysis patient, treat the {{c1::day after}} dialysis and take blood pressure on the arm {{c2::opposite}} the dialysis fistula."
+  },
+  {
+   "id": "poc-p338-007",
+   "deck": "Process of Care",
+   "section": "Renal & liver disease",
+   "page": 338,
+   "text": "Hepatitis (liver inflammation from viruses, toxic substances, etc.): fatigue, nausea, tender joints, and {{c1::jaundice}}; drugs are metabolized more {{c2::slowly}}, so use caution; use standard precautions."
+  },
+  {
+   "id": "poc-p338-008",
+   "deck": "Process of Care",
+   "section": "Endocrine conditions",
+   "page": 338,
+   "text": "Hypothyroidism (insufficient thyroid hormones): patients can be fatigued and may not tolerate {{c1::cold}}; they can have enlarged thyroid glands, {{c2::delayed}} tooth eruption, small jaw, and malocclusion."
+  },
+  {
+   "id": "poc-p338-009",
+   "deck": "Process of Care",
+   "section": "Endocrine conditions",
+   "page": 338,
+   "text": "Hyperthyroidism (excessive thyroid hormones): patients can be fatigued and may not tolerate {{c1::heat}}; they can show {{c2::early}} loss of deciduous teeth and early eruption of permanent teeth."
+  },
+  {
+   "id": "poc-p338-010",
+   "deck": "Process of Care",
+   "section": "Endocrine conditions",
+   "page": 338,
+   "text": "In uncontrolled hyperthyroidism, {{c1::vasoconstrictors}} may be contraindicated due to risk of tachycardia, hypertension, and cardiac arrhythmias."
+  },
+  {
+   "id": "poc-p338-011",
+   "deck": "Process of Care",
+   "section": "Endocrine conditions",
+   "page": 338,
+   "text": "Acromegaly/gigantism (excessive {{c1::pituitary}} hormones): enlarged maxilla/mandible and {{c2::macroglossia}}."
+  },
+  {
+   "id": "poc-p338-012",
+   "deck": "Process of Care",
+   "section": "Other systemic conditions",
+   "page": 338,
+   "text": "Cyclic neutropenia: an inherited repeated decrease in neutrophils every {{c1::21 to 27 days}}; start treatment when the neutrophil count is {{c2::normal}}.",
+   "extra": "Severe periodontal issues can occur, so frequent appointments are recommended."
+  },
+  {
+   "id": "poc-p338-013",
+   "deck": "Process of Care",
+   "section": "Other systemic conditions",
+   "page": 338,
+   "text": "Cerebral palsy: a skeletal and muscular disorder caused by a disruption in {{c1::brain development}}; patients may have intellectual, learning and/or physical disability and may need to be treated in a wheelchair."
+  },
+  {
+   "id": "poc-p338-014",
+   "deck": "Process of Care",
+   "section": "Other systemic conditions",
+   "page": 338,
+   "text": "Spina bifida: a neural tube defect (spine fails to develop and close in the {{c1::first month}} of pregnancy); {{c2::latex allergy}} occurs frequently; often associated with {{c3::folate (vitamin B9)}} deficiency.",
+   "extra": "Patient may need to be treated in a wheelchair."
+  },
+  {
+   "id": "poc-p338-015",
+   "deck": "Process of Care",
+   "section": "Other systemic conditions",
+   "page": 338,
+   "text": "Bell's palsy: {{c1::unilateral}} facial paralysis affecting cranial nerve {{c2::VII (facial)}}. Treat when symptoms resolve (usually spontaneous recovery in {{c3::3 weeks to 6 months}})."
+  },
+  {
+   "id": "poc-p338-016",
+   "deck": "Process of Care",
+   "section": "Other systemic conditions",
+   "page": 338,
+   "text": "Arthritis: patients can have {{c1::TMJ}} problems; anti-inflammatory medications may prevent {{c2::blood coagulation}}; suggest home-care modifications (bigger toothbrush handle, power toothbrush)."
+  },
+  {
+   "id": "poc-p338-017",
+   "deck": "Process of Care",
+   "section": "Other systemic conditions",
+   "page": 338,
+   "text": "Marfan syndrome (genetic connective-tissue disorder): high palate, crowding, malocclusion; {{c1::heart conditions}} are often present — check medications and the need for premedication."
+  },
+  {
+   "id": "poc-p338-018",
+   "deck": "Process of Care",
+   "section": "Eating disorders",
+   "page": 338,
+   "text": "The hallmark of anorexia nervosa (extremely low body weight) is {{c1::self-starvation}}."
+  },
+  {
+   "id": "poc-p338-019",
+   "deck": "Process of Care",
+   "section": "Eating disorders",
+   "page": 338,
+   "text": "Anorexia and bulimia patients usually present with glossitis, angular cheilitis, bleeding gingiva, and papillae hypertrophy from {{c1::nutritional deficiency}}."
+  },
+  {
+   "id": "poc-p338-020",
+   "deck": "Process of Care",
+   "section": "Eating disorders",
+   "page": 338,
+   "text": "Anorexia nervosa can present with {{c1::lanugo}} (excess fine hair)."
+  },
+  {
+   "id": "poc-p339-001",
+   "deck": "Process of Care",
+   "section": "Eating disorders",
+   "page": 339,
+   "text": "Bulimia nervosa (binge eating and purging) is characterized by {{c1::normal or slightly elevated}} body weight."
+  },
+  {
+   "id": "poc-p339-002",
+   "deck": "Process of Care",
+   "section": "Eating disorders",
+   "page": 339,
+   "text": "Purging causes {{c1::perimolysis}} (tooth erosion), especially on the {{c2::lingual surfaces of the maxillary teeth}}."
+  },
+  {
+   "id": "poc-p339-003",
+   "deck": "Process of Care",
+   "section": "Eating disorders",
+   "page": 339,
+   "text": "Bulimia patients can have xerostomia and an enlarged {{c1::parotid}} gland."
+  },
+  {
+   "id": "poc-p339-004",
+   "deck": "Process of Care",
+   "section": "Other systemic conditions",
+   "page": 339,
+   "text": "Celiac sprue (gluten sensitivity): painful burning tongue (glossitis) and {{c1::atrophy of the papillae}}."
+  },
+  {
+   "id": "poc-p339-005",
+   "deck": "Process of Care",
+   "section": "Respiratory conditions",
+   "page": 339,
+   "text": "Inhaler use (asthma, COPD) can cause {{c1::oral candidiasis}} and {{c2::xerostomia}} — advise rinsing with water after use.",
+   "extra": "Asthma: airway inflammation causing narrowing and excessive mucus. COPD/emphysema: lung diseases that block airflow."
+  },
+  {
+   "id": "poc-p339-006",
+   "deck": "Process of Care",
+   "section": "Respiratory conditions",
+   "page": 339,
+   "text": "For asthma patients, {{c1::late morning or late afternoon}} appointments are preferred."
+  },
+  {
+   "id": "poc-p339-007",
+   "deck": "Process of Care",
+   "section": "Respiratory conditions",
+   "page": 339,
+   "text": "Avoid {{c1::ultrasonic scalers and air polishers}} in patients with asthma or COPD/emphysema."
+  },
+  {
+   "id": "poc-p339-008",
+   "deck": "Process of Care",
+   "section": "Respiratory conditions",
+   "page": 339,
+   "text": "Patients with COPD/emphysema may not tolerate a {{c1::supine}} position."
+  },
+  {
+   "id": "poc-p339-009",
+   "deck": "Process of Care",
+   "section": "Other systemic conditions",
+   "page": 339,
+   "text": "Addison's disease: hyposecretion of {{c1::cortisol and aldosterone}} by the adrenal glands; patients may have {{c2::skin pigmentation}} (also on oral tissues).",
+   "extra": "Provide a stress-free atmosphere — patients may be weak and fatigued."
+  },
+  {
+   "id": "poc-p339-010",
+   "deck": "Process of Care",
+   "section": "Other systemic conditions",
+   "page": 339,
+   "text": "Tuberculosis (lung infection by <i>Mycobacterium tuberculosis</i>): do not treat patients who have {{c1::active or suspected}} TB."
+  },
+  {
+   "id": "poc-p339-011",
+   "deck": "Process of Care",
+   "section": "Cancer therapy",
+   "page": 339,
+   "text": "Radiation and chemotherapy patients are more prone to caries, periodontal diseases, and {{c1::oral candidiasis}}; side effects include xerostomia, {{c2::mucositis}}, glossitis, ulcerated mucosa, and NUG."
+  },
+  {
+   "id": "poc-p339-012",
+   "deck": "Process of Care",
+   "section": "Cancer therapy",
+   "page": 339,
+   "text": "Cancer-therapy patients should rinse with water or {{c1::baking soda}} after vomiting."
+  },
+  {
+   "id": "poc-p339-013",
+   "deck": "Process of Care",
+   "section": "Cancer therapy",
+   "page": 339,
+   "text": "Treat all dental issues {{c1::before}} cancer therapy starts (extracting questionable teeth reduces infection risk); schedule dental treatment {{c2::between}} therapies."
+  },
+  {
+   "id": "poc-p339-014",
+   "deck": "Process of Care",
+   "section": "HIV/AIDS",
+   "page": 339,
+   "text": "HIV is a viral infection that affects the {{c1::T-lymphocytes}}. It is transmissible only through blood, semen, rectal fluids, vaginal fluids, and breast milk — NOT through {{c2::aerosols, saliva, and sweat}}.",
+   "extra": "Use standard precautions."
+  },
+  {
+   "id": "poc-p339-015",
+   "deck": "Process of Care",
+   "section": "HIV/AIDS",
+   "page": 339,
+   "text": "HIV oral signs: candidiasis, {{c1::linear gingival erythema}}, {{c2::Kaposi's sarcoma}} (flat/raised red/purple lesion), {{c3::hairy leukoplakia}}, repetitive herpes simplex lesions, NUG/NUP."
+  },
+  {
+   "id": "poc-p339-016",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 339,
+   "text": "Autism patients are at higher risk for {{c1::caries}}; provide {{c2::repetitive}} encounters in a quiet atmosphere and avoid direct eye contact."
+  },
+  {
+   "id": "poc-p339-017",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 339,
+   "text": "Down syndrome = trisomy {{c1::21}} (an extra chromosome).",
+   "extra": "Use the \"tell-show-do\" approach with positive reinforcement."
+  },
+  {
+   "id": "poc-p339-018",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 339,
+   "text": "Down syndrome oral findings: delayed exfoliation and development, {{c1::fissured tongue}}, {{c2::congenitally missing teeth}}, dry skin/lips, small nasomaxillary complex, altered salivary glands, xerostomia, enamel dysplasia, malocclusion, attrition, {{c3::high palatal vault}}."
+  },
+  {
+   "id": "poc-p340-001",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "text": "For special-needs patients (e.g., Down syndrome), minimize distractions; skeletal cervical anomalies may require {{c1::shorter}} appointments; {{c2::consistency}} (same staff, operatory, appointment time) builds trust and cooperation."
+  },
+  {
+   "id": "poc-p340-002",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "text": "A {{c1::pre-appointment}} (in person or by phone) is helpful to discuss special needs before the first visit."
+  },
+  {
+   "id": "poc-p340-003",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "text": "Special-needs appointments are best scheduled {{c1::early in the day}}, when everyone is alert and waiting time is reduced."
+  },
+  {
+   "id": "poc-p340-004",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "text": "Hypotonia (low muscle tone) causes increased {{c1::range of joint movement}} and motor-function problems — consider it when positioning the patient in the chair.",
+   "extra": "Patients may also exhibit spastic movements and/or limited neck movement and pain."
+  },
+  {
+   "id": "poc-p340-005",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "text": "Down syndrome patients may have hearing loss: {{c1::adjust or turn off hearing aids}}, because the sound of some instruments can cause auditory discomfort."
+  },
+  {
+   "id": "poc-p340-006",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "text": "Persons with Down syndrome are generally content and well-natured but can become {{c1::aggressive}} if disoriented or confused; occasionally {{c2::sedation or general anesthesia}} is needed if unmanageable."
+  },
+  {
+   "id": "poc-p340-007",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "text": "In Down syndrome the {{c1::gag reflex}} may be increased, even in the anterior oral cavity (tongue placement and anxiety)."
+  },
+  {
+   "id": "poc-p340-008",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "text": "For Down syndrome, consider a {{c1::panoramic radiograph}} to check for congenitally missing teeth — it may be less threatening than individual intraoral images.",
+   "extra": "The book says \"individual films\"; the exam says image receptors/radiographs."
+  },
+  {
+   "id": "poc-p340-009",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "text": "Educating Down syndrome patients with {{c1::visuals}} may work better than auditory teaching; {{c2::rinsing}} may not be appropriate for those with difficulty swallowing or expectorating."
+  },
+  {
+   "id": "poc-p340-010",
+   "deck": "Process of Care",
+   "section": "Extraoral & intraoral exam",
+   "page": 340,
+   "text": "General examination methods: visual observation, palpation, {{c1::auscultation}} (sounds, e.g., TMJ popping), {{c2::olfaction}} (odors, e.g., fruity breath), and {{c3::percussion}} (tapping, e.g., detecting ankylosed teeth)."
+  },
+  {
+   "id": "poc-p340-011",
+   "deck": "Process of Care",
+   "section": "Face & eye exam",
+   "page": 340,
+   "text": "Face exam: asymmetrical facial paralysis can indicate {{c1::CVA (stroke)}} or Bell's palsy."
+  },
+  {
+   "id": "poc-p340-012",
+   "deck": "Process of Care",
+   "section": "Face & eye exam",
+   "page": 340,
+   "text": "Face exam: drooling and lack of expression can indicate {{c1::Parkinson's disease}}."
+  },
+  {
+   "id": "poc-p340-013",
+   "deck": "Process of Care",
+   "section": "Face & eye exam",
+   "page": 340,
+   "text": "Face exam: pigmentation can indicate {{c1::Addison's disease}}, skin cancer, etc."
+  },
+  {
+   "id": "poc-p340-014",
+   "deck": "Process of Care",
+   "section": "Face & eye exam",
+   "page": 340,
+   "text": "Document extraoral lesions by {{c1::color}}, {{c2::size}}, {{c3::shape}}, and {{c4::texture}}; take a photo and keep it in the records."
+  },
+  {
+   "id": "poc-p340-015",
+   "deck": "Process of Care",
+   "section": "Face & eye exam",
+   "page": 340,
+   "text": "Face exam: note any distortion of the facial dimension (e.g., swollen {{c1::parotid glands}})."
+  },
+  {
+   "id": "poc-p340-016",
+   "deck": "Process of Care",
+   "section": "Face & eye exam",
+   "page": 340,
+   "text": "Pinpoint pupils ({{c1::miosis}}) can indicate opioid use: heroin/morphine, codeine, fentanyl, methadone, oxycodone."
+  },
+  {
+   "id": "poc-p340-017",
+   "deck": "Process of Care",
+   "section": "Face & eye exam",
+   "page": 340,
+   "text": "Dilated pupils ({{c1::mydriasis}}) can indicate {{c2::cocaine}} use."
+  },
+  {
+   "id": "poc-p340-018",
+   "deck": "Process of Care",
+   "section": "Face & eye exam",
+   "page": 340,
+   "text": "Yellow sclera can indicate {{c1::jaundice}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "poc-p334-b-01",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "front": "Chief complaint",
+   "back": "The reason the patient is in the dental office (e.g., whitening, \"cleaning\")",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p334-b-02",
+   "deck": "Process of Care",
+   "section": "Assessment",
+   "page": 334,
+   "front": "A patient comes in mainly wanting whitening but also has periodontal disease. What do you address first?",
+   "back": "Her chief complaint (whitening) — acknowledge and discuss it before shifting focus to the periodontal disease.",
+   "reverse": false,
+   "extra": "Board Alert: always address the chief complaint first, even if more serious conditions are present — unless there is an urgent issue like suspected cancer or trauma."
+  },
+  {
+   "id": "poc-p334-b-03",
+   "deck": "Process of Care",
+   "section": "Documentation (SOAP)",
+   "page": 334,
+   "front": "SOAP note",
+   "back": "A standardized method of clinical documentation used to record patient encounters",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p335-b-01",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "front": "Dental hygiene prognosis",
+   "back": "The prediction of the treatment outcome, based on the patient's current oral and systemic health, risk factors, and commitment to care",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p335-b-02",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "front": "Is a prognosis permanent?",
+   "back": "No — it can improve or worsen with changes in patient behavior, systemic health, and treatment response.",
+   "reverse": false,
+   "extra": "Board Alert: definitions of \"good,\" \"fair,\" \"poor\" vary slightly between textbooks — focus on the clinical indicators, not rigid labels."
+  },
+  {
+   "id": "poc-p335-b-03",
+   "deck": "Process of Care",
+   "section": "Dental hygiene care plan",
+   "page": 335,
+   "front": "Dental hygiene care plan",
+   "back": "A structured sequence of services designed to meet the patient's individual needs",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p336-b-01",
+   "deck": "Process of Care",
+   "section": "Recall intervals",
+   "page": 336,
+   "front": "A patient has diabetes. Per the book's Board Alert, what recall interval would you probably recommend, and why?",
+   "back": "3 to 4 months — interval tables are only a general guideline; look at the entire picture and err on the side of caution.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "poc-p336-b-02",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "front": "Angina",
+   "back": "Chest pain or discomfort caused by reduced blood flow (ischemia) to the heart muscle",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p336-b-03",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "front": "Myocardial infarction (MI)",
+   "back": "Death of part of the heart muscle due to a blocked blood supply (heart attack)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p336-b-04",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "front": "Orthostatic (postural) hypotension",
+   "back": "A drop in blood pressure when standing up",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p336-b-05",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "front": "How do you prevent orthostatic hypotension at the end of an appointment?",
+   "back": "Sit the patient up slowly and let them rest for several minutes before standing or leaving the chair.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "poc-p337-b-01",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "front": "Aura",
+   "back": "A sensory, emotional, or physical sensation that may occur prior to a seizure",
+   "reverse": true,
+   "extra": "Ask seizure patients whether they have an aura."
+  },
+  {
+   "id": "poc-p338-b-01",
+   "deck": "Process of Care",
+   "section": "Eating disorders",
+   "page": 338,
+   "front": "What oral-care advice do you give a patient who purges?",
+   "back": "Rinse the mouth and avoid brushing immediately after purging; provide fluoride therapy (and, for bulimia, a mouth guard to protect teeth when purging).",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "poc-p340-b-01",
+   "deck": "Process of Care",
+   "section": "Autism & Down syndrome",
+   "page": 340,
+   "front": "On the boards, an answer choice suggests contacting the physician to verify information or obtain consent. How should you treat it?",
+   "back": "It is often the correct choice — confirm with the appropriate source rather than assume or act without proper authorization.",
+   "reverse": false,
+   "extra": "Board Alert"
+  },
+  {
+   "id": "poc-p340-b-02",
+   "deck": "Process of Care",
+   "section": "Extraoral & intraoral exam",
+   "page": 340,
+   "front": "Digital palpation",
+   "back": "One finger (e.g., touching the hard palate)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p340-b-03",
+   "deck": "Process of Care",
+   "section": "Extraoral & intraoral exam",
+   "page": 340,
+   "front": "Bidigital palpation",
+   "back": "A finger and the thumb grab the tissue (e.g., examining the tongue)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p340-b-04",
+   "deck": "Process of Care",
+   "section": "Extraoral & intraoral exam",
+   "page": 340,
+   "front": "Manual palpation",
+   "back": "All fingers of one hand grasp the tissue (e.g., examining cervical nodes)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p340-b-05",
+   "deck": "Process of Care",
+   "section": "Extraoral & intraoral exam",
+   "page": 340,
+   "front": "Bimanual palpation",
+   "back": "Fingers and thumb of both hands applied simultaneously — one inside the mouth, one outside (e.g., floor of the mouth)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p340-b-06",
+   "deck": "Process of Care",
+   "section": "Extraoral & intraoral exam",
+   "page": 340,
+   "front": "Bilateral palpation",
+   "back": "Symmetrical structures examined simultaneously (e.g., the TMJ)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "poc-p340-b-07",
+   "deck": "Process of Care",
+   "section": "Extraoral & intraoral exam",
+   "page": 340,
+   "front": "Circular compression",
+   "back": "Fingers move in a circular motion with slight pressure",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "poc-p336-t-01",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "question": "After a myocardial infarction, how long should non-emergency dental treatment be delayed? (board answer, e.g. \"3 months\")",
+   "answer": "6 months",
+   "extra": "Board Alert: emerging evidence supports a shorter interval (4–6 weeks) for medically stable patients cleared by a physician — but unless the question states otherwise, 6 months is the safest answer on US and Canadian boards. Create a stress-free environment."
+  },
+  {
+   "id": "poc-p337-t-01",
+   "deck": "Process of Care",
+   "section": "Neurological & psychiatric conditions",
+   "page": 337,
+   "question": "After a stroke, how long should dental treatment be deferred? (e.g. \"3 months\")",
+   "answer": "6 months",
+   "extra": ""
+  },
+  {
+   "id": "poc-p337-t-02",
+   "deck": "Process of Care",
+   "section": "Blood disorders",
+   "page": 337,
+   "question": "Postpone treatment if the platelet count is below how many per mm³? (write with a comma, e.g. 10,000)",
+   "answer": "50,000",
+   "extra": ""
+  },
+  {
+   "id": "poc-p339-t-01",
+   "deck": "Process of Care",
+   "section": "HIV/AIDS",
+   "page": 339,
+   "question": "HIV: do not treat when the CD4 cell count is below how many per mm³?",
+   "answer": "200",
+   "extra": ""
+  },
+  {
+   "id": "poc-p339-t-02",
+   "deck": "Process of Care",
+   "section": "HIV/AIDS",
+   "page": 339,
+   "question": "HIV: do not treat when the neutrophil count is below how many per mm³?",
+   "answer": "500",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "poc-p336-m-01",
+   "deck": "Process of Care",
+   "section": "Appointment types",
+   "page": 336,
+   "prompt": "Match each appointment type to its description.",
+   "pairs": [
+    [
+     "Initial",
+     "First comprehensive visit; creates the care plan"
+    ],
+    [
+     "Recall",
+     "Traditional term; periodic follow-up, typically every 6 months"
+    ],
+    [
+     "Re-care",
+     "Patient-centered maintenance term; 3–12 months by risk"
+    ],
+    [
+     "Re-evaluation",
+     "4–6 weeks after initial therapy; re-probe, assess healing"
+    ]
+   ]
+  },
+  {
+   "id": "poc-p340-m-01",
+   "deck": "Process of Care",
+   "section": "Extraoral & intraoral exam",
+   "page": 340,
+   "prompt": "Match each palpation technique to a structure it is used for.",
+   "pairs": [
+    [
+     "Digital",
+     "Hard palate"
+    ],
+    [
+     "Bidigital",
+     "Tongue"
+    ],
+    [
+     "Manual",
+     "Cervical lymph nodes"
+    ],
+    [
+     "Bimanual",
+     "Floor of the mouth"
+    ],
+    [
+     "Bilateral",
+     "Temporomandibular joints"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "poc-p334-o-01",
+   "deck": "Process of Care",
+   "section": "ADPIED",
+   "page": 334,
+   "prompt": "Put the steps of the dental hygiene process of care (ADPIED) in order.",
+   "items": [
+    "Assessment",
+    "Dental hygiene diagnosis",
+    "Planning",
+    "Implementation",
+    "Evaluation",
+    "Documentation"
+   ]
+  },
+  {
+   "id": "poc-p335-o-01",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "prompt": "Order the prognosis categories from best to worst.",
+   "items": [
+    "Good",
+    "Fair",
+    "Poor",
+    "Questionable",
+    "Hopeless"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "poc-p334-s-01",
+   "deck": "Process of Care",
+   "section": "Documentation (SOAP)",
+   "page": 334,
+   "prompt": "Sort each entry into the SOAP section where it belongs.",
+   "categories": [
+    [
+     "S — Subjective",
+     [
+      "Patient says her gums bleed when brushing",
+      "Reports pain level 6/10",
+      "Smokes; brushes once a day"
+     ]
+    ],
+    [
+     "O — Objective",
+     [
+      "Bleeding on probing",
+      "Blood pressure reading",
+      "Plaque index score",
+      "Radiographic bone loss"
+     ]
+    ],
+    [
+     "A — Assessment",
+     [
+      "Moderate periodontitis",
+      "Caries risk level",
+      "Progress since last visit"
+     ]
+    ],
+    [
+     "P — Plan",
+     [
+      "Fluoride application",
+      "Referral to a specialist",
+      "Recall interval"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "poc-p338-s-01",
+   "deck": "Process of Care",
+   "section": "Endocrine conditions",
+   "page": 338,
+   "prompt": "Hypothyroidism or hyperthyroidism?",
+   "categories": [
+    [
+     "Hypothyroidism",
+     [
+      "Cold intolerance",
+      "Delayed tooth eruption",
+      "Small jaw",
+      "Enlarged thyroid gland"
+     ]
+    ],
+    [
+     "Hyperthyroidism",
+     [
+      "Heat intolerance",
+      "Early loss of deciduous teeth",
+      "Early eruption of permanent teeth",
+      "Vasoconstrictors may be contraindicated (uncontrolled)"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "poc-p334-mcq-01",
+   "deck": "Process of Care",
+   "section": "Dental hygiene diagnosis",
+   "page": 334,
+   "question": "Which chart entry is written correctly?",
+   "options": [
+    "A. Heavy plaque present because the patient is lazy.",
+    "B. Heavy plaque, loss of attachment since the last visit. Risk factors include smoking. Refer to the dentist for a dental diagnosis.",
+    "C. Patient is careless about home care, which is frustrating.",
+    "D. Patient obviously does not care about her teeth; heavy plaque."
+   ],
+   "answer": "B. Heavy plaque, loss of attachment since the last visit. Risk factors include smoking. Refer to the dentist for a dental diagnosis.",
+   "explanation": "Notes must be objective — state findings and risk factors and refer for the dental diagnosis. The other entries use judgmental, emotional words (\"lazy\", \"careless\", \"frustrating\")."
+  },
+  {
+   "id": "poc-p335-mcq-01",
+   "deck": "Process of Care",
+   "section": "Dental hygiene prognosis",
+   "page": 335,
+   "question": "A molar shows 40% radiographic bone loss, 6 mm attachment loss, 7 mm probing depths, a Class II furcation, and Class II mobility. The patient's diabetes is poorly controlled. Which prognosis best fits?",
+   "options": [
+    "A. Fair",
+    "B. Poor",
+    "C. Questionable",
+    "D. Hopeless"
+   ],
+   "answer": "B. Poor",
+   "explanation": "Bone loss >33%, attachment loss >5 mm, probing depths >6 mm, Class II furcation and Class II molar mobility are the book's \"poor\" criteria. Questionable would need bone loss >50% with a poor crown-to-root ratio or Class III mobility; fair is only 15–33% bone loss with no mobility."
+  },
+  {
+   "id": "poc-p336-mcq-01",
+   "deck": "Process of Care",
+   "section": "Recall intervals",
+   "page": 336,
+   "question": "A patient treated for periodontitis two years ago is now stable with good home care. What periodontal maintenance interval is recommended?",
+   "options": [
+    "A. Every 6–12 months",
+    "B. Every 3–4 months",
+    "C. Re-evaluate in 4–6 weeks",
+    "D. Every 12 months"
+   ],
+   "answer": "B. Every 3–4 months",
+   "explanation": "A history of periodontitis calls for 3–4-month maintenance even when stable. 6–12 months is for healthy/gingivitis patients; the 4–6-week re-evaluation follows SRP for ACTIVE periodontitis."
+  },
+  {
+   "id": "poc-p336-mcq-02",
+   "deck": "Process of Care",
+   "section": "Cardiovascular conditions",
+   "page": 336,
+   "question": "A patient had a myocardial infarction 2 months ago and requests a routine prophylaxis. No other information is given. What is the best course of action?",
+   "options": [
+    "A. Proceed, limiting epinephrine to 0.04 mg",
+    "B. Postpone elective treatment until 6 months after the MI",
+    "C. Proceed in a morning appointment with nitroglycerin ready",
+    "D. Premedicate with antibiotics, then proceed"
+   ],
+   "answer": "B. Postpone elective treatment until 6 months after the MI",
+   "explanation": "Unless the question says the patient is medically stable and cleared by the physician, the board answer is to wait 6 months after an MI. The epinephrine limit applies once treatment is appropriate; it does not make treatment at 2 months correct."
+  },
+  {
+   "id": "poc-p336-mcq-03",
+   "deck": "Process of Care",
+   "section": "Prosthetic joints",
+   "page": 336,
+   "question": "A patient had a total knee replacement 3 years ago with no complications and no other medical conditions. Regarding antibiotic premedication before scaling, the hygienist should know that:",
+   "options": [
+    "A. Premedication is required for all prosthetic joints",
+    "B. Premedication is required only for the first 2 years",
+    "C. Premedication is not routinely required unless her physician recommends it",
+    "D. Premedication is required because of bleeding during scaling"
+   ],
+   "answer": "C. Premedication is not routinely required unless her physician recommends it",
+   "explanation": "Prosthetic joints do not routinely require antibiotic premedication; it is given only when the physician recommends it for a high-risk condition or a history of joint infection. If in doubt, contacting the physician to verify is often the correct board choice."
+  },
+  {
+   "id": "poc-p338-mcq-01",
+   "deck": "Process of Care",
+   "section": "Diabetes",
+   "page": 338,
+   "question": "A patient with type 2 diabetes reports that her last HbA1c was 9.5%. She has generalized moderate periodontitis. What is the most appropriate action?",
+   "options": [
+    "A. Proceed with SRP; diabetes does not affect periodontal treatment",
+    "B. Postpone elective treatment until her diabetes is under control",
+    "C. Schedule a late-afternoon appointment before her evening meal",
+    "D. Use nitrous oxide to reduce stress"
+   ],
+   "answer": "B. Postpone elective treatment until her diabetes is under control",
+   "explanation": "An HbA1c below 7% means well controlled; 9.5% is uncontrolled, and uncontrolled diabetics should not be treated until the condition is controlled. Appointments should be after meals and preferably in the morning — not before a meal."
+  },
+  {
+   "id": "poc-p339-mcq-01",
+   "deck": "Process of Care",
+   "section": "Eating disorders",
+   "page": 339,
+   "question": "A normal-weight 19-year-old has smooth erosion on the lingual surfaces of her maxillary teeth, xerostomia, and enlarged parotid glands. Which condition is most likely?",
+   "options": [
+    "A. Anorexia nervosa",
+    "B. Bulimia nervosa",
+    "C. Celiac sprue",
+    "D. Addison's disease"
+   ],
+   "answer": "B. Bulimia nervosa",
+   "explanation": "Bulimia: normal or slightly elevated body weight, perimolysis on maxillary linguals from purging, xerostomia and enlarged parotids. Anorexia features extremely low body weight (self-starvation, lanugo)."
+  },
+  {
+   "id": "poc-p340-mcq-01",
+   "deck": "Process of Care",
+   "section": "Extraoral & intraoral exam",
+   "page": 340,
+   "question": "During the assessment, the hygienist notices a fruity odor on the patient's breath. Which examination method is she using?",
+   "options": [
+    "A. Auscultation",
+    "B. Olfaction",
+    "C. Percussion",
+    "D. Palpation"
+   ],
+   "answer": "B. Olfaction",
+   "explanation": "Olfaction uses odors (e.g., fruity breath). Auscultation uses sounds (e.g., TMJ popping); percussion is tapping (e.g., ankylosed teeth)."
+  }
+ ]
+}

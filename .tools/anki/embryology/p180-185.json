@@ -1,0 +1,2482 @@
+{
+ "diagrams": [
+  {
+   "name": "emb-p181-early-development",
+   "title": "Preimplantation and embryonic period",
+   "pdf_page": 3,
+   "page": 181,
+   "crop": [
+    100,
+    180,
+    1230,
+    790
+   ],
+   "labels": [
+    {
+     "box": [
+      207,
+      198,
+      279,
+      230
+     ],
+     "answer": "Day 0",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      535,
+      197,
+      609,
+      233
+     ],
+     "answer": "Day 5",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      656,
+      199,
+      751,
+      232
+     ],
+     "answer": "Week 3",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      837,
+      199,
+      929,
+      234
+     ],
+     "answer": "Week 4",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1054,
+      200,
+      1148,
+      235
+     ],
+     "answer": "Week 9",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      171,
+      459,
+      307,
+      491
+     ],
+     "answer": "Fertilization",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      390,
+      458,
+      475,
+      493
+     ],
+     "answer": "Zygote",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      518,
+      458,
+      632,
+      494
+     ],
+     "answer": "Blastocyst",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      642,
+      460,
+      772,
+      518
+     ],
+     "answer": "Trilaminar disk",
+     "fit": "bg",
+     "extra": "The book misprints this label as 'Trigeminal disk'."
+    },
+    {
+     "box": [
+      839,
+      460,
+      935,
+      495
+     ],
+     "answer": "Embryo",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1061,
+      462,
+      1131,
+      496
+     ],
+     "answer": "Fetus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      235,
+      505,
+      415,
+      565
+     ],
+     "answer": "Day 12 Bilaminar disk",
+     "fit": "text"
+    },
+    {
+     "box": [
+      865,
+      510,
+      1000,
+      565
+     ],
+     "answer": "Trilaminar disk",
+     "fit": "text",
+     "key": "Trilaminar disk (2)"
+    },
+    {
+     "box": [
+      149,
+      601,
+      247,
+      642
+     ],
+     "answer": "Epiblast",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      978,
+      562,
+      1194,
+      675
+     ],
+     "answer": "Primitive streak (turns into ectoderm, mesoderm, endoderm)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      420,
+      700,
+      550,
+      740
+     ],
+     "answer": "Hypoblast",
+     "fit": "text"
+    },
+    {
+     "box": [
+      808,
+      705,
+      902,
+      738
+     ],
+     "answer": "Ectoderm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      810,
+      742,
+      925,
+      772
+     ],
+     "answer": "Mesoderm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      938,
+      750,
+      1050,
+      782
+     ],
+     "answer": "Endoderm",
+     "fit": "text"
+    }
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "name": "emb-p182-germ-layer-derivatives",
+   "title": "Trilaminar disk: what each germ layer forms",
+   "pdf_page": 4,
+   "page": 182,
+   "crop": [
+    95,
+    1160,
+    1245,
+    1780
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      762,
+      1283,
+      836,
+      1326
+     ],
+     "answer": "Nervous system",
+     "fit": "none"
+    },
+    {
+     "box": [
+      780,
+      1330,
+      822,
+      1355
+     ],
+     "answer": "Skin",
+     "fit": "none"
+    },
+    {
+     "box": [
+      898,
+      1301,
+      939,
+      1342
+     ],
+     "answer": "Skin cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      965,
+      1301,
+      1030,
+      1342
+     ],
+     "answer": "Neurons (nerves)",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1035,
+      1301,
+      1097,
+      1342
+     ],
+     "answer": "Pigment cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      630,
+      1433,
+      697,
+      1457
+     ],
+     "answer": "Muscle",
+     "fit": "none"
+    },
+    {
+     "box": [
+      623,
+      1458,
+      702,
+      1483
+     ],
+     "answer": "Skeleton",
+     "fit": "none"
+    },
+    {
+     "box": [
+      628,
+      1484,
+      694,
+      1509
+     ],
+     "answer": "Kidneys",
+     "fit": "none"
+    },
+    {
+     "box": [
+      600,
+      1510,
+      718,
+      1556
+     ],
+     "answer": "Reproductive system",
+     "fit": "none"
+    },
+    {
+     "box": [
+      741,
+      1484,
+      802,
+      1527
+     ],
+     "answer": "Cardiac muscle",
+     "fit": "text"
+    },
+    {
+     "box": [
+      821,
+      1484,
+      882,
+      1527
+     ],
+     "answer": "Skeletal muscle",
+     "fit": "text"
+    },
+    {
+     "box": [
+      903,
+      1484,
+      957,
+      1527
+     ],
+     "answer": "Tubule cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      971,
+      1484,
+      1042,
+      1527
+     ],
+     "answer": "Red blood cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1055,
+      1484,
+      1122,
+      1527
+     ],
+     "answer": "Smooth muscle",
+     "fit": "text"
+    },
+    {
+     "box": [
+      478,
+      1617,
+      567,
+      1658
+     ],
+     "answer": "Endocrine glands",
+     "fit": "text"
+    },
+    {
+     "box": [
+      493,
+      1665,
+      549,
+      1689
+     ],
+     "answer": "Lungs",
+     "fit": "text"
+    },
+    {
+     "box": [
+      478,
+      1693,
+      565,
+      1737
+     ],
+     "answer": "Digestive tract",
+     "fit": "none"
+    },
+    {
+     "box": [
+      496,
+      1740,
+      544,
+      1763
+     ],
+     "answer": "Liver",
+     "fit": "text"
+    },
+    {
+     "box": [
+      605,
+      1698,
+      677,
+      1740
+     ],
+     "answer": "Lung cells (alveolar)",
+     "fit": "text"
+    },
+    {
+     "box": [
+      688,
+      1698,
+      747,
+      1740
+     ],
+     "answer": "Thyroid cells",
+     "fit": "text"
+    },
+    {
+     "box": [
+      753,
+      1698,
+      827,
+      1740
+     ],
+     "answer": "Digestive cells",
+     "fit": "text"
+    }
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "name": "emb-p183-folding-sections",
+   "title": "Embryonic folding (week 4): cross-sections",
+   "pdf_page": 5,
+   "page": 183,
+   "crop": [
+    100,
+    230,
+    1150,
+    515
+   ],
+   "labels": [
+    {
+     "box": [
+      176,
+      303,
+      250,
+      325
+     ],
+     "answer": "Ectoderm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      176,
+      338,
+      250,
+      360
+     ],
+     "answer": "Endoderm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      176,
+      373,
+      250,
+      395
+     ],
+     "answer": "Mesoderm",
+     "fit": "text"
+    },
+    {
+     "box": [
+      432,
+      284,
+      495,
+      302
+     ],
+     "answer": "Notochord",
+     "fit": "text"
+    },
+    {
+     "box": [
+      710,
+      284,
+      760,
+      303
+     ],
+     "answer": "Groove",
+     "fit": "text"
+    },
+    {
+     "box": [
+      958,
+      285,
+      1030,
+      305
+     ],
+     "answer": "Neural tube",
+     "fit": "text"
+    },
+    {
+     "box": [
+      976,
+      324,
+      1030,
+      344
+     ],
+     "answer": "Somites",
+     "fit": "text"
+    },
+    {
+     "box": [
+      976,
+      369,
+      1026,
+      389
+     ],
+     "answer": "Coelom",
+     "fit": "text"
+    },
+    {
+     "box": [
+      975,
+      414,
+      1024,
+      433
+     ],
+     "answer": "Amnion",
+     "fit": "text"
+    },
+    {
+     "box": [
+      104,
+      418,
+      280,
+      452
+     ],
+     "answer": "Start of week 4",
+     "fit": "text"
+    },
+    {
+     "box": [
+      465,
+      433,
+      741,
+      464
+     ],
+     "answer": "The ectoderm folds inward",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      792,
+      436,
+      1036,
+      465
+     ],
+     "answer": "Neural tube is completed",
+     "fit": "text"
+    },
+    {
+     "box": [
+      968,
+      475,
+      1132,
+      508
+     ],
+     "answer": "End of week 4",
+     "fit": "text"
+    }
+   ],
+   "deck": "Embryology & Histology",
+   "mask": [
+    [
+     180,
+     476,
+     620,
+     515
+    ]
+   ]
+  },
+  {
+   "name": "emb-p183-folding-sagittal",
+   "title": "Embryonic folding: end of week 4",
+   "pdf_page": 5,
+   "page": 183,
+   "crop": [
+    100,
+    470,
+    1150,
+    770
+   ],
+   "labels": [
+    {
+     "box": [
+      185,
+      483,
+      365,
+      520
+     ],
+     "answer": "Pericardioperitoneal canal",
+     "fit": "text"
+    },
+    {
+     "box": [
+      380,
+      477,
+      500,
+      500
+     ],
+     "answer": "Neural tube",
+     "fit": "text"
+    },
+    {
+     "box": [
+      480,
+      503,
+      610,
+      530
+     ],
+     "answer": "Dorsal aortae",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      200,
+      530,
+      265,
+      555
+     ],
+     "answer": "Foregut",
+     "fit": "text"
+    },
+    {
+     "box": [
+      179,
+      576,
+      246,
+      606
+     ],
+     "answer": "Heart",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      166,
+      623,
+      244,
+      654
+     ],
+     "answer": "Mouth",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      192,
+      679,
+      304,
+      729
+     ],
+     "answer": "Pericardial cavity",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      309,
+      679,
+      435,
+      731
+     ],
+     "answer": "Septum transversum",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      563,
+      577,
+      672,
+      629
+     ],
+     "answer": "Peritoneal cavity",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      805,
+      512,
+      921,
+      542
+     ],
+     "answer": "Mesoderm",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      806,
+      554,
+      904,
+      584
+     ],
+     "answer": "Forehead",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      827,
+      688,
+      876,
+      715
+     ],
+     "answer": "Tail",
+     "fit": "bg"
+    }
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "name": "emb-p183-frontonasal",
+   "title": "Frontonasal process: face at week 6 and week 10",
+   "pdf_page": 5,
+   "page": 183,
+   "crop": [
+    85,
+    1430,
+    1225,
+    1990
+   ],
+   "labels": [
+    {
+     "box": [
+      367,
+      1451,
+      501,
+      1500
+     ],
+     "answer": "Week 6",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      842,
+      1451,
+      996,
+      1499
+     ],
+     "answer": "Week 10",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      576,
+      1526,
+      780,
+      1610
+     ],
+     "answer": "Frontonasal prominence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      991,
+      1583,
+      1206,
+      1667
+     ],
+     "answer": "Nasolacrimal groove",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      114,
+      1611,
+      267,
+      1686
+     ],
+     "answer": "Forms upper lip",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      588,
+      1636,
+      744,
+      1686
+     ],
+     "answer": "Nasal pit",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      569,
+      1696,
+      796,
+      1781
+     ],
+     "answer": "Lateral nasal prominence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      94,
+      1712,
+      289,
+      1797
+     ],
+     "answer": "Maxillary prominence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1028,
+      1710,
+      1212,
+      1786
+     ],
+     "answer": "Maxillary prominence",
+     "fit": "bg",
+     "key": "Maxillary prominence (2)"
+    },
+    {
+     "box": [
+      1000,
+      1800,
+      1140,
+      1885
+     ],
+     "answer": "Site of cleft lip",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      92,
+      1814,
+      289,
+      1899
+     ],
+     "answer": "Medial nasal prominence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      586,
+      1817,
+      789,
+      1903
+     ],
+     "answer": "Mandibular prominence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      878,
+      1890,
+      1058,
+      1982
+     ],
+     "answer": "Philtrum of upper lip",
+     "fit": "bg"
+    }
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "name": "emb-p184-stomodeum",
+   "title": "Stomodeum and development of the face",
+   "pdf_page": 6,
+   "page": 184,
+   "crop": [
+    90,
+    1170,
+    1175,
+    1730
+   ],
+   "labels": [
+    {
+     "box": [
+      235,
+      1190,
+      341,
+      1243
+     ],
+     "answer": "Forebrain swelling",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      114,
+      1266,
+      244,
+      1298
+     ],
+     "answer": "Stomodeum",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      231,
+      1380,
+      344,
+      1429
+     ],
+     "answer": "Pericardial swelling",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      623,
+      1192,
+      755,
+      1215
+     ],
+     "answer": "Nasal placode",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      700,
+      1222,
+      817,
+      1267
+     ],
+     "answer": "Frontonasal processes",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      698,
+      1272,
+      790,
+      1317
+     ],
+     "answer": "Maxillary processes",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      705,
+      1325,
+      827,
+      1350
+     ],
+     "answer": "Stomodeum",
+     "fit": "bg",
+     "key": "Stomodeum (2)"
+    },
+    {
+     "box": [
+      573,
+      1330,
+      675,
+      1378
+     ],
+     "answer": "Mandibular processes",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      950,
+      1212,
+      1050,
+      1257
+     ],
+     "answer": "Medial nasal processes",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1025,
+      1262,
+      1150,
+      1307
+     ],
+     "answer": "Lateral nasal processes",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      860,
+      1292,
+      935,
+      1316
+     ],
+     "answer": "Nasal pit",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1030,
+      1317,
+      1145,
+      1362
+     ],
+     "answer": "Maxillary prominence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      955,
+      1370,
+      1075,
+      1394
+     ],
+     "answer": "Stomodeum",
+     "fit": "bg",
+     "key": "Stomodeum (3)"
+    },
+    {
+     "box": [
+      300,
+      1535,
+      370,
+      1560
+     ],
+     "answer": "Arches",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      133,
+      1607,
+      252,
+      1657
+     ],
+     "answer": "Mandibular arch",
+     "fit": "none"
+    },
+    {
+     "box": [
+      125,
+      1672,
+      220,
+      1718
+     ],
+     "answer": "Pericardial swelling",
+     "fit": "bg",
+     "key": "Pericardial swelling (2)"
+    },
+    {
+     "box": [
+      503,
+      1537,
+      543,
+      1562
+     ],
+     "answer": "Eye",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      630,
+      1563,
+      765,
+      1608
+     ],
+     "answer": "Intermaxillary segment",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1000,
+      1563,
+      1125,
+      1610
+     ],
+     "answer": "Nasolacrimal groove",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      990,
+      1623,
+      1070,
+      1647
+     ],
+     "answer": "Philtrum",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1010,
+      1653,
+      1110,
+      1678
+     ],
+     "answer": "Upper lip",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1000,
+      1683,
+      1115,
+      1708
+     ],
+     "answer": "Lower lip",
+     "fit": "bg"
+    }
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "name": "emb-p185-lip-palate-formation",
+   "title": "Formation of lip and palate",
+   "pdf_page": 7,
+   "page": 185,
+   "crop": [
+    270,
+    330,
+    590,
+    880
+   ],
+   "labels": [
+    {
+     "box": [
+      425,
+      350,
+      570,
+      398
+     ],
+     "answer": "Intermaxillary segment",
+     "fit": "text"
+    },
+    {
+     "box": [
+      455,
+      405,
+      555,
+      452
+     ],
+     "answer": "Palatine process",
+     "fit": "text"
+    },
+    {
+     "box": [
+      455,
+      560,
+      555,
+      610
+     ],
+     "answer": "Palatine process",
+     "fit": "text",
+     "key": "Palatine process (2)"
+    },
+    {
+     "box": [
+      410,
+      742,
+      560,
+      770
+     ],
+     "answer": "Primary palate",
+     "fit": "text"
+    },
+    {
+     "box": [
+      468,
+      778,
+      572,
+      824
+     ],
+     "answer": "Secondary palate",
+     "fit": "none"
+    },
+    {
+     "box": [
+      410,
+      830,
+      552,
+      858
+     ],
+     "answer": "Palatine raphe",
+     "fit": "none"
+    }
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "name": "emb-p185-cleft-types",
+   "title": "Types of cleft lip and palate",
+   "pdf_page": 7,
+   "page": 185,
+   "crop": [
+    650,
+    330,
+    1090,
+    880
+   ],
+   "labels": [
+    {
+     "box": [
+      688,
+      405,
+      790,
+      434
+     ],
+     "answer": "Normal lip",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      882,
+      405,
+      1080,
+      452
+     ],
+     "answer": "Unilateral cleft lip and palate incomplete",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      660,
+      548,
+      848,
+      603
+     ],
+     "answer": "Bilateral cleft lip and palate incomplete",
+     "fit": "text"
+    },
+    {
+     "box": [
+      882,
+      554,
+      1073,
+      581
+     ],
+     "answer": "Unilateral incomplete",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      683,
+      689,
+      806,
+      717
+     ],
+     "answer": "Normal palate",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      824,
+      690,
+      897,
+      717
+     ],
+     "answer": "Cleft lip",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      918,
+      691,
+      1059,
+      718
+     ],
+     "answer": "Bilateral cleft lip",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      688,
+      818,
+      795,
+      848
+     ],
+     "answer": "Cleft palate",
+     "fit": "text"
+    },
+    {
+     "box": [
+      800,
+      818,
+      922,
+      868
+     ],
+     "answer": "Unilateral cleft lip and palate",
+     "fit": "text"
+    },
+    {
+     "box": [
+      925,
+      818,
+      1068,
+      868
+     ],
+     "answer": "Bilateral cleft lip with full palate",
+     "fit": "text"
+    }
+   ],
+   "deck": "Embryology & Histology"
+  }
+ ],
+ "cloze": [
+  {
+   "id": "emb-p180-001",
+   "deck": "Embryology & Histology",
+   "section": "Embryology overview",
+   "page": 180,
+   "text": "The {{c1::preimplantation}} period is the {{c2::first week}} after conception.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-002",
+   "deck": "Embryology & Histology",
+   "section": "Embryology overview",
+   "page": 180,
+   "text": "The {{c1::embryonic}} period spans weeks {{c2::2 through 8}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-003",
+   "deck": "Embryology & Histology",
+   "section": "Embryology overview",
+   "page": 180,
+   "text": "The {{c1::fetal}} period runs from week {{c2::9}} through birth.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-004",
+   "deck": "Embryology & Histology",
+   "section": "Embryology overview",
+   "page": 180,
+   "text": "The first trimester includes the {{c1::preimplantation}} and {{c1::embryonic}} periods.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-005",
+   "deck": "Embryology & Histology",
+   "section": "Prenatal stages",
+   "page": 180,
+   "text": "At {{c1::fertilization}} (day 0) sperm and egg unite to form a zygote with {{c2::46}} chromosomes in total — the {{c3::genetic blueprint}} is established.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-006",
+   "deck": "Embryology & Histology",
+   "section": "Prenatal stages",
+   "page": 180,
+   "text": "The {{c1::zygote}} (days 1–3) undergoes mitosis (cleavage divisions); cleavage produces {{c2::identical}} cells.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-007",
+   "deck": "Embryology & Histology",
+   "section": "Prenatal stages",
+   "page": 180,
+   "text": "The {{c1::morula}} (days 3–4) is a solid ball of {{c2::16–32}} cells; {{c3::cell differentiation}} begins at this stage.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-008",
+   "deck": "Embryology & Histology",
+   "section": "Prenatal stages",
+   "page": 180,
+   "text": "The {{c1::blastocyst}} (days 5–6) is a hollow ball with an inner cell mass (the {{c2::embryoblast}}) and an outer {{c3::trophoblast}} layer.",
+   "extra": "Dental relevance: the inner cell mass will become the embryo and form the dental tissues."
+  },
+  {
+   "id": "emb-p180-009",
+   "deck": "Embryology & Histology",
+   "section": "Prenatal stages",
+   "page": 180,
+   "text": "During {{c1::implantation}} (days 6–7) the blastocyst embeds into the uterine lining (the {{c2::endometrium}}), establishing the maternal–embryo connection for nourishment.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-010",
+   "deck": "Embryology & Histology",
+   "section": "Prenatal stages",
+   "page": 180,
+   "text": "The {{c1::bilaminar}} disk (week 2) has two layers: the {{c2::epiblast}} (top) and the {{c3::hypoblast}} (bottom).",
+   "extra": "Dental relevance: prepares for axis formation and germ layer differentiation."
+  },
+  {
+   "id": "emb-p180-011",
+   "deck": "Embryology & Histology",
+   "section": "Prenatal stages",
+   "page": 180,
+   "text": "The trilaminar disk (week 3) forms three germ layers. Dental relevance: {{c1::ectoderm}} forms enamel, while mesoderm and {{c2::neural crest}} form pulp, dentin, PDL and cementum.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-012",
+   "deck": "Embryology & Histology",
+   "section": "Prenatal stages",
+   "page": 180,
+   "text": "In week 4, {{c1::embryonic folding}} turns the flat disk into a 3D cylindrical shape and {{c2::organogenesis}} begins; the face, palate and tongue begin forming.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-013",
+   "deck": "Embryology & Histology",
+   "section": "Prenatal stages",
+   "page": 180,
+   "text": "From week 9 (fetus) organs grow and mature; the {{c1::permanent tooth buds}} form and {{c2::mineralization}} of enamel, dentin and cementum begins.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-014",
+   "deck": "Embryology & Histology",
+   "section": "Oral structures timeline",
+   "page": 180,
+   "text": "The {{c1::neural tube}} (future brain and spinal cord) begins forming in week {{c2::3}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-015",
+   "deck": "Embryology & Histology",
+   "section": "Oral structures timeline",
+   "page": 180,
+   "text": "The face begins to form in weeks {{c1::4–5}} (frontal process, {{c2::branchial arches}}).",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-016",
+   "deck": "Embryology & Histology",
+   "section": "Oral structures timeline",
+   "page": 180,
+   "text": "Tooth development starts in weeks {{c1::6–7}} with initiation of the {{c2::dental lamina}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-017",
+   "deck": "Embryology & Histology",
+   "section": "Oral structures timeline",
+   "page": 180,
+   "text": "Palate development begins in weeks {{c1::6–9}} as the {{c2::lateral palatine processes}} form.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-018",
+   "deck": "Embryology & Histology",
+   "section": "Oral structures timeline",
+   "page": 180,
+   "text": "In week {{c1::8}} the {{c2::primary palate}} fuses with the lateral palatine processes.",
+   "extra": "The book's timings for palatal fusion vary between pages (p.185: palatal shelves fuse in week 6; cleft palate weeks 8–12)."
+  },
+  {
+   "id": "emb-p180-019",
+   "deck": "Embryology & Histology",
+   "section": "Oral structures timeline",
+   "page": 180,
+   "text": "Tooth buds for the {{c1::permanent}} teeth begin forming in the {{c2::second}} trimester.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p180-020",
+   "deck": "Embryology & Histology",
+   "section": "Oral structures timeline",
+   "page": 180,
+   "text": "In the {{c1::third}} trimester further hard tissue formation (enamel, dentin) occurs.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p181-001",
+   "deck": "Embryology & Histology",
+   "section": "Fertilization",
+   "page": 181,
+   "text": "After fertilization the zygote undergoes {{c1::mitosis}} (individual cell division) to produce more cells.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p181-002",
+   "deck": "Embryology & Histology",
+   "section": "Fertilization",
+   "page": 181,
+   "text": "As the {{c1::blastocyst}} (hollow in the middle) keeps dividing, it travels down to the {{c2::uterus}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p181-003",
+   "deck": "Embryology & Histology",
+   "section": "Implantation",
+   "page": 181,
+   "text": "By the end of the {{c1::first week}} the blastocyst is embedded in the endometrium, the {{c2::innermost}} lining of the uterus.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p181-004",
+   "deck": "Embryology & Histology",
+   "section": "Bilaminar disk",
+   "page": 181,
+   "text": "The bilaminar disk is suspended between the {{c1::amniotic cavity}} (on top) and the {{c2::yolk sac}} (at the bottom).",
+   "extra": "Bi- = two: epiblast (superior) and hypoblast (inferior)."
+  },
+  {
+   "id": "emb-p181-005",
+   "deck": "Embryology & Histology",
+   "section": "Bilaminar disk",
+   "page": 181,
+   "text": "Within the bilaminar disk the {{c1::primitive streak}} forms, which initiates creation of the trilaminar disk.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p181-006",
+   "deck": "Embryology & Histology",
+   "section": "Trilaminar disk",
+   "page": 181,
+   "text": "After the primitive streak forms, epiblast cells migrate between the layers to create a third, intermediate layer: the {{c1::mesoderm}}.",
+   "extra": "Tri- = three."
+  },
+  {
+   "id": "emb-p181-007",
+   "deck": "Embryology & Histology",
+   "section": "Trilaminar disk",
+   "page": 181,
+   "text": "In the trilaminar disk the ectoderm comes from the {{c1::epiblast}} and the endoderm from the {{c2::hypoblast}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p181-008",
+   "deck": "Embryology & Histology",
+   "section": "Germ layers",
+   "page": 181,
+   "text": "Germ-layer prefixes: ecto- = {{c1::outer / outside}}; meso- = {{c2::middle}}; endo- = {{c3::inner / within}}.",
+   "extra": "Each germ layer is programmed to develop into specific tissues, organs and systems — knowing the derivatives is fundamental to organogenesis."
+  },
+  {
+   "id": "emb-p181-009",
+   "deck": "Embryology & Histology",
+   "section": "Germ layers",
+   "page": 181,
+   "text": "The {{c1::ectoderm}} is the outermost germ layer; it forms structures that interact with the external environment, such as the {{c2::epidermis}} and the {{c3::nervous system}}.",
+   "extra": "In dentistry: the enamel and other inner parts of the teeth."
+  },
+  {
+   "id": "emb-p181-010",
+   "deck": "Embryology & Histology",
+   "section": "Germ layers",
+   "page": 181,
+   "text": "The {{c1::endoderm}} is the innermost germ layer; it forms the internal linings of the {{c2::respiratory}} passages and the {{c2::digestive}} tract (and associated organs).",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-001",
+   "deck": "Embryology & Histology",
+   "section": "Germ layers",
+   "page": 182,
+   "text": "The {{c1::mesoderm}} (middle layer, between ectoderm and endoderm) gives rise to connective tissues, muscles, bone and the {{c2::circulatory system}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-002",
+   "deck": "Embryology & Histology",
+   "section": "Germ layers",
+   "page": 182,
+   "text": "Once the trilaminar disk forms, the disc has a {{c1::cephalic}} end (head) and a {{c2::caudal}} end (tail).",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-003",
+   "deck": "Embryology & Histology",
+   "section": "Germ layer derivatives",
+   "page": 182,
+   "text": "The ectoderm creates the {{c1::enamel organ}}, which gives rise to {{c2::ameloblasts}} (→ enamel).",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-004",
+   "deck": "Embryology & Histology",
+   "section": "Germ layer derivatives",
+   "page": 182,
+   "text": "The ectoderm produces {{c1::neural crest cells}} — specialized migratory cells.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-005",
+   "deck": "Embryology & Histology",
+   "section": "Germ layer derivatives",
+   "page": 182,
+   "text": "Neural crest cells form the cartilage and bone of the {{c1::face and jaw}} (e.g., maxilla, mandible) and the {{c2::cranial nerves}} and ganglia.",
+   "extra": "Neural crest cells also form odontoblasts (dentin), dental pulp, cementum, PDL and alveolar bone."
+  },
+  {
+   "id": "emb-p182-006",
+   "deck": "Embryology & Histology",
+   "section": "Germ layer derivatives",
+   "page": 182,
+   "text": "The ectoderm contributes to the pharyngeal arches and pouches, which give rise to the middle ear bones, the {{c1::thymus}}, portions of the tongue and the {{c2::parathyroid}} glands.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-007",
+   "deck": "Embryology & Histology",
+   "section": "Germ layer derivatives",
+   "page": 182,
+   "text": "In the dental sac (dental follicle), {{c1::cementoblasts}} form cementum, {{c2::fibroblasts}} form the PDL, and {{c3::osteoblasts}} form alveolar bone.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-008",
+   "deck": "Embryology & Histology",
+   "section": "Germ layer derivatives",
+   "page": 182,
+   "text": "Craniofacial mesenchyme forms the {{c1::facial bones}} (maxilla, mandible) plus cartilage, connective tissue and nerves of the head and neck.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-009",
+   "deck": "Embryology & Histology",
+   "section": "Germ layer derivatives",
+   "page": 182,
+   "text": "The mesoderm contributes to general muscles, {{c1::blood vessels}} and connective tissue, and supports structures in the tongue, jaw and oral cavity.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-010",
+   "deck": "Embryology & Histology",
+   "section": "Germ layer derivatives",
+   "page": 182,
+   "text": "The mesoderm assists (alongside neural crest cells) in forming the {{c1::pulp}} and {{c1::dentin}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-011",
+   "deck": "Embryology & Histology",
+   "section": "Germ layer derivatives",
+   "page": 182,
+   "text": "The endoderm helps form structures like the {{c1::tongue}} and {{c2::glands}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-012",
+   "deck": "Embryology & Histology",
+   "section": "Embryonic folding",
+   "page": 182,
+   "text": "During embryonic folding the disk expands and balloons into a {{c1::3D cylindrical}} shape.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-013",
+   "deck": "Embryology & Histology",
+   "section": "Embryonic folding",
+   "page": 182,
+   "text": "Folding of the head, tail, transverse and lateral sides occurs through the {{c1::differential growth}} of tissues that merge.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-014",
+   "deck": "Embryology & Histology",
+   "section": "Embryonic folding",
+   "page": 182,
+   "text": "By the end of the {{c1::embryonic}} period a recognizable individual has developed, and most organs and body systems have formed.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p182-015",
+   "deck": "Embryology & Histology",
+   "section": "Embryonic folding",
+   "page": 182,
+   "text": "Most {{c1::congenital malformations}} happen during the embryonic period, as differentiation, morphodifferentiation and proliferation occur.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-001",
+   "deck": "Embryology & Histology",
+   "section": "Fetal period",
+   "page": 183,
+   "text": "The fetal period (week 9 to birth) involves {{c1::maturation}} of existing structures and enlargement of the embryo into a fetus.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-002",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "The {{c1::frontonasal}} process forms the forehead, bridge of the nose, nasal septum, medial & lateral nasal processes, primary palate and philtrum of the upper lip.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-003",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "The 1st pharyngeal (mandibular) arch forms the maxilla and mandible, the {{c1::malleus}} and {{c1::incus}}, and {{c2::Meckel's}} cartilage.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-004",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "Muscles from the 1st arch: muscles of {{c1::mastication}}, {{c2::mylohyoid}}, {{c3::anterior}} belly of the digastric, and the {{c4::tensor tympani}} and {{c4::tensor veli palatini}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-005",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "The 1st pharyngeal arch forms the {{c1::anterior 2/3}} of the tongue.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-006",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "The 2nd pharyngeal (hyoid) arch forms the muscles of {{c1::facial expression}}, the {{c2::stapes}} and {{c2::stapedius}}, the {{c3::styloid process}} and the {{c4::lesser}} horn of the hyoid.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-007",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "The 2nd pharyngeal arch forms the {{c1::posterior}} belly of the digastric and the {{c2::stylohyoid}} muscle.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-008",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "The 3rd pharyngeal arch forms the {{c1::stylopharyngeus}} muscle, the {{c2::greater}} horn of the hyoid and part of the posterior tongue.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-009",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "The 4th pharyngeal arch forms the {{c1::laryngeal cartilages}}, the pharyngeal {{c2::constrictors}}, the {{c3::levator veli palatini}} and the {{c4::cricothyroid}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-010",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "Besides the 3rd arch, the {{c1::4th}} arch also forms part of the posterior tongue; it also forms the {{c2::epiglottis}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p183-011",
+   "deck": "Embryology & Histology",
+   "section": "Development of the face",
+   "page": 183,
+   "text": "Mandibular arch = 1st pharyngeal arch = 1st {{c1::branchial}} arch — the terms pharyngeal and branchial arch are used interchangeably.",
+   "extra": "Don't be confused: all three names refer to the same structure."
+  },
+  {
+   "id": "emb-p183-012",
+   "deck": "Embryology & Histology",
+   "section": "Frontonasal process",
+   "page": 183,
+   "text": "The frontonasal process is a {{c1::midline}} swelling that forms above the {{c2::stomodeum}}; it arises from {{c3::ectoderm overlying the forebrain}}, not from the branchial arches.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-001",
+   "deck": "Embryology & Histology",
+   "section": "Frontonasal process",
+   "page": 184,
+   "text": "The frontonasal process forms the {{c1::upper}} face; its nasal pits are surrounded by the {{c2::medial}} and {{c2::lateral}} nasal processes.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-002",
+   "deck": "Embryology & Histology",
+   "section": "Frontonasal process",
+   "page": 184,
+   "text": "{{c1::Nasal placodes}} (ectodermal thickenings) appear bilaterally and invaginate to form {{c2::nasal pits}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-003",
+   "deck": "Embryology & Histology",
+   "section": "Frontonasal process",
+   "page": 184,
+   "text": "The {{c1::medial}} nasal processes fuse in the midline to form the {{c2::philtrum}} (groove in the upper lip), the {{c3::primary palate}} (premaxilla) and the nasal septum.",
+   "extra": "Improper fusion with the maxillary processes can result in cleft lip or cleft palate."
+  },
+  {
+   "id": "emb-p184-004",
+   "deck": "Embryology & Histology",
+   "section": "Frontonasal process",
+   "page": 184,
+   "text": "The {{c1::lateral}} nasal processes form the {{c2::alae}} (sides) of the nose.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-005",
+   "deck": "Embryology & Histology",
+   "section": "Branchial (pharyngeal) arches",
+   "page": 184,
+   "text": "The face and structures of the oral cavity develop during weeks {{c1::3 through 12}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-006",
+   "deck": "Embryology & Histology",
+   "section": "Branchial (pharyngeal) arches",
+   "page": 184,
+   "text": "Branchial arches are {{c1::bilateral}} swellings that appear {{c2::inferior}} to the stomodeum (the primitive mouth).",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-007",
+   "deck": "Embryology & Histology",
+   "section": "Branchial (pharyngeal) arches",
+   "page": 184,
+   "text": "The 1st branchial arch divides into the {{c1::maxillary}} process (→ maxilla) and the {{c2::mandibular}} process (→ mandible).",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-008",
+   "deck": "Embryology & Histology",
+   "section": "Branchial (pharyngeal) arches",
+   "page": 184,
+   "text": "The 2nd to 6th arches form the {{c1::neck}} area; no structure results from the {{c2::5th}} arch.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-009",
+   "deck": "Embryology & Histology",
+   "section": "Branchial (pharyngeal) arches",
+   "page": 184,
+   "text": "The middle face derives from the paired maxillary processes: nose (root to apex), center of the upper lip, {{c1::zygomatic}} bones, portions of the temporal bones, cheeks, the {{c2::secondary}} palate, and the maxillary {{c3::canines and posterior teeth}}.",
+   "extra": "The book also lists the philtrum here, but elsewhere (pp.183–184) it says the philtrum comes from the frontonasal/medial nasal processes."
+  },
+  {
+   "id": "emb-p184-010",
+   "deck": "Embryology & Histology",
+   "section": "Branchial (pharyngeal) arches",
+   "page": 184,
+   "text": "The lower face (paired mandibular processes) forms the mandible, the mandibular teeth, associated tissues and part of the {{c1::tongue}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-011",
+   "deck": "Embryology & Histology",
+   "section": "Branchial (pharyngeal) arches",
+   "page": 184,
+   "text": "The upper face (frontonasal process) includes the forehead, bridge of the nose, primary palate, nasal septum, nasal ({{c1::olfactory}}) pits and the lateral nasal processes (alae).",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-012",
+   "deck": "Embryology & Histology",
+   "section": "Stomodeum and oral cavity",
+   "page": 184,
+   "text": "The {{c1::buccopharyngeal (oropharyngeal)}} membrane first separates the stomodeum from the {{c2::foregut}}; its disintegration forms the oral cavity opening.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-013",
+   "deck": "Embryology & Histology",
+   "section": "Stomodeum and oral cavity",
+   "page": 184,
+   "text": "The stomodeum is lined by {{c1::ectoderm}}, which becomes the {{c2::oral epithelium}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-014",
+   "deck": "Embryology & Histology",
+   "section": "Stomodeum and oral cavity",
+   "page": 184,
+   "text": "Beneath the oral epithelium general {{c1::mesoderm}} is present at first; during tooth development segments of it are replaced by {{c2::ectomesenchyme}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-015",
+   "deck": "Embryology & Histology",
+   "section": "Stomodeum and oral cavity",
+   "page": 184,
+   "text": "Ectomesenchyme is formed by {{c1::neural crest cells}} (ectoderm-derived) and migrates into the developing tooth region.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p184-016",
+   "deck": "Embryology & Histology",
+   "section": "Stomodeum and oral cavity",
+   "page": 184,
+   "text": "The {{c1::dental papilla}} derives from ectomesenchyme and forms the {{c2::odontoblasts}} (→ dentin) and the dental {{c3::pulp}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-001",
+   "deck": "Embryology & Histology",
+   "section": "Stomodeum and oral cavity",
+   "page": 185,
+   "text": "The {{c1::dental follicle}} (dental sac) forms cementum, the periodontal ligament and alveolar bone.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-002",
+   "deck": "Embryology & Histology",
+   "section": "Stomodeum and oral cavity",
+   "page": 185,
+   "text": "Enamel comes from {{c1::ectoderm}} (not ectomesenchyme); ameloblasts from the {{c2::inner enamel epithelium}} create enamel.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-003",
+   "deck": "Embryology & Histology",
+   "section": "Hard palate",
+   "page": 185,
+   "text": "The hard palate develops from weeks {{c1::5 through 12}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-004",
+   "deck": "Embryology & Histology",
+   "section": "Hard palate",
+   "page": 185,
+   "text": "The primary palate (premaxilla) makes up the {{c1::anterior 1/3}} of the hard palate and holds the {{c2::four maxillary incisors}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-005",
+   "deck": "Embryology & Histology",
+   "section": "Hard palate",
+   "page": 185,
+   "text": "The secondary palate forms from two {{c1::palatal shelves}} (from the {{c2::maxillary}} process) that fuse in the {{c3::sixth}} week; it makes up the posterior {{c4::2/3}} of the hard palate.",
+   "extra": "It contains the maxillary canines and posteriors."
+  },
+  {
+   "id": "emb-p185-006",
+   "deck": "Embryology & Histology",
+   "section": "Cleft lip",
+   "page": 185,
+   "text": "Cleft lip is failure of the {{c1::maxillary}} processes to fuse with the {{c2::medial nasal}} process, during weeks {{c3::4–7}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-007",
+   "deck": "Embryology & Histology",
+   "section": "Cleft lip",
+   "page": 185,
+   "text": "Cleft lip occurs in about 1 in {{c1::1000}} births (with or without cleft palate) and is more common in {{c2::males}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-008",
+   "deck": "Embryology & Histology",
+   "section": "Cleft lip",
+   "page": 185,
+   "text": "Cleft lip is more often {{c1::unilateral}}, especially on the {{c2::left}} side.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-009",
+   "deck": "Embryology & Histology",
+   "section": "Cleft lip",
+   "page": 185,
+   "text": "Cleft lip and palate are the most common {{c1::congenital malformations}} in the United States; their etiology is {{c2::unknown}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-010",
+   "deck": "Embryology & Histology",
+   "section": "Cleft palate",
+   "page": 185,
+   "text": "Cleft palate is failure of the {{c1::palatal shelves}} to fuse together or with the {{c2::primary palate}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-011",
+   "deck": "Embryology & Histology",
+   "section": "Cleft palate",
+   "page": 185,
+   "text": "Cleft palate develops between weeks {{c1::8–12}}.",
+   "extra": "The book says \"8–12 weeks of the embryonic period\", but the embryonic period ends at week 8 (p.180)."
+  },
+  {
+   "id": "emb-p185-012",
+   "deck": "Embryology & Histology",
+   "section": "Cleft palate",
+   "page": 185,
+   "text": "Cleft palate occurs in 1 in {{c1::2500}} live births and is more common in {{c2::females}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-013",
+   "deck": "Embryology & Histology",
+   "section": "Cleft palate",
+   "page": 185,
+   "text": "A {{c1::cleft (bifid) uvula}} — a minor cleft of the posterior soft palate — is the least severe form of cleft palate.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-014",
+   "deck": "Embryology & Histology",
+   "section": "Cleft palate",
+   "page": 185,
+   "text": "With cleft palate, malposition of the teeth and {{c1::mouth breathing}} are common; both are risk factors for {{c2::periodontal disease}}.",
+   "extra": ""
+  },
+  {
+   "id": "emb-p185-015",
+   "deck": "Embryology & Histology",
+   "section": "Cleft palate",
+   "page": 185,
+   "text": "Nursing and feeding are complicated with cleft palate; an {{c1::obturator}} (dental appliance covering the cleft area) can be used to block the hole.",
+   "extra": "Inadequate nourishment is common."
+  }
+ ],
+ "basic": [
+  {
+   "id": "emb-p180-b-01",
+   "page": 180,
+   "section": "Embryology overview",
+   "front": "Embryology",
+   "back": "The study of prenatal development, from fertilization to birth",
+   "reverse": true,
+   "extra": "",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p181-b-01",
+   "page": 181,
+   "section": "Implantation",
+   "front": "After 1 week of cleavage the blastocyst has two layers. What does each do?",
+   "back": "Trophoblast = nutritive layer for the embryo; embryoblast = becomes the embryo",
+   "extra": "",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p181-b-02",
+   "page": 181,
+   "section": "Germ layers",
+   "front": "Which germ layer is generally NOT directly involved in tooth formation?",
+   "back": "Endoderm",
+   "extra": "The table on p.182 says the same: endoderm does not directly form tooth structures.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p182-b-01",
+   "page": 182,
+   "section": "Germ layer derivatives",
+   "front": "Is ectomesenchyme a germ layer?",
+   "back": "No — it is a specialized tissue formed from neural crest cells (ectoderm-derived). It gives rise to dentin, pulp, PDL, cementum and the jaw bones.",
+   "extra": "Don't be confused! (book box)",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p182-b-02",
+   "page": 182,
+   "section": "Germ layer derivatives",
+   "front": "On the board, which is correct: dentin is formed by ectoderm, by neural crest cells, by ectomesenchyme, or by odontoblasts?",
+   "back": "All four are correct — they are links in the same developmental chain.",
+   "extra": "Board Alert: be flexible in your thinking.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p184-b-01",
+   "page": 184,
+   "section": "Stomodeum and oral cavity",
+   "front": "Stomodeum",
+   "back": "The primitive mouth",
+   "reverse": true,
+   "extra": "",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p185-b-01",
+   "page": 185,
+   "section": "Cleft lip",
+   "front": "Cleft lip and cleft palate each increase the risk of which four problems?",
+   "back": "Oral infection, periodontal disease, dental caries and malnutrition",
+   "extra": "",
+   "deck": "Embryology & Histology"
+  }
+ ],
+ "typein": [
+  {
+   "id": "emb-p181-t-01",
+   "page": 181,
+   "section": "Fertilization",
+   "question": "How many chromosomes does the zygote receive from each parent?",
+   "answer": "23",
+   "extra": "23 from the ovum + 23 from the sperm = 46",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p185-t-01",
+   "page": 185,
+   "section": "Cleft lip",
+   "question": "A cleft lip/palate can be detected at the anatomy scan in which week of pregnancy? (number)",
+   "answer": "20",
+   "extra": "Did you know? Gives parents time to prepare for the repair surgeries and special feeding needs.",
+   "deck": "Embryology & Histology"
+  }
+ ],
+ "match": [
+  {
+   "id": "emb-p180-m-01",
+   "page": 180,
+   "section": "Prenatal stages",
+   "prompt": "Match each stage to its timing.",
+   "pairs": [
+    [
+     "Zygote",
+     "Days 1–3"
+    ],
+    [
+     "Morula",
+     "Days 3–4"
+    ],
+    [
+     "Blastocyst",
+     "Days 5–6"
+    ],
+    [
+     "Implantation",
+     "Days 6–7"
+    ],
+    [
+     "Bilaminar disk",
+     "Week 2"
+    ],
+    [
+     "Trilaminar disk",
+     "Week 3"
+    ],
+    [
+     "Embryonic folding",
+     "Week 4"
+    ]
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p182-m-01",
+   "page": 182,
+   "section": "Germ layer derivatives",
+   "prompt": "Match each cell to the tissue it forms.",
+   "pairs": [
+    [
+     "Ameloblasts",
+     "Enamel"
+    ],
+    [
+     "Odontoblasts",
+     "Dentin"
+    ],
+    [
+     "Cementoblasts",
+     "Cementum"
+    ],
+    [
+     "Fibroblasts",
+     "Periodontal ligament"
+    ],
+    [
+     "Osteoblasts",
+     "Alveolar bone"
+    ]
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p184-m-01",
+   "page": 184,
+   "section": "Branchial (pharyngeal) arches",
+   "prompt": "Match each part of the face to the process it derives from.",
+   "pairs": [
+    [
+     "Upper face",
+     "Frontonasal process"
+    ],
+    [
+     "Middle face",
+     "Paired maxillary processes"
+    ],
+    [
+     "Lower face",
+     "Paired mandibular processes"
+    ]
+   ],
+   "deck": "Embryology & Histology"
+  }
+ ],
+ "order": [
+  {
+   "id": "emb-p180-o-01",
+   "page": 180,
+   "section": "Prenatal stages",
+   "prompt": "Put the prenatal stages in order (earliest first).",
+   "items": [
+    "Fertilization",
+    "Zygote",
+    "Morula",
+    "Blastocyst",
+    "Implantation",
+    "Bilaminar disk",
+    "Trilaminar disk",
+    "Embryonic folding",
+    "Fetus"
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p180-o-02",
+   "page": 180,
+   "section": "Oral structures timeline",
+   "prompt": "Put these oral developments in order (earliest first).",
+   "items": [
+    "Neural tube begins (wk 3)",
+    "Face begins to form",
+    "Dental lamina initiated",
+    "Primary palate fuses with lateral palatine processes",
+    "Permanent tooth buds begin",
+    "Further enamel & dentin formation"
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p182-o-01",
+   "page": 182,
+   "section": "Germ layer derivatives",
+   "prompt": "Put the chain that produces dentin in order.",
+   "items": [
+    "Ectoderm",
+    "Neural crest cells",
+    "Ectomesenchyme",
+    "Dental papilla",
+    "Odontoblasts",
+    "Dentin"
+   ],
+   "deck": "Embryology & Histology"
+  }
+ ],
+ "sort": [
+  {
+   "id": "emb-p182-s-01",
+   "page": 182,
+   "section": "Germ layer derivatives",
+   "prompt": "Sort by germ layer of origin.",
+   "categories": [
+    [
+     "Ectoderm",
+     [
+      "Nervous system",
+      "Skin (epidermis)",
+      "Enamel",
+      "Oral epithelium"
+     ]
+    ],
+    [
+     "Mesoderm",
+     [
+      "Muscle",
+      "Skeleton",
+      "Kidneys",
+      "Reproductive system",
+      "Blood vessels"
+     ]
+    ],
+    [
+     "Endoderm",
+     [
+      "Endocrine glands",
+      "Lungs",
+      "Digestive tract lining",
+      "Liver"
+     ]
+    ]
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p183-s-01",
+   "page": 183,
+   "section": "Development of the face",
+   "prompt": "Sort by pharyngeal arch of origin.",
+   "categories": [
+    [
+     "1st arch",
+     [
+      "Malleus & incus",
+      "Meckel's cartilage",
+      "Muscles of mastication",
+      "Anterior belly of digastric",
+      "Tensor veli palatini"
+     ]
+    ],
+    [
+     "2nd arch",
+     [
+      "Muscles of facial expression",
+      "Stapes",
+      "Styloid process",
+      "Lesser horn of hyoid",
+      "Posterior belly of digastric"
+     ]
+    ],
+    [
+     "3rd arch",
+     [
+      "Stylopharyngeus",
+      "Greater horn of hyoid"
+     ]
+    ],
+    [
+     "4th arch",
+     [
+      "Laryngeal cartilages",
+      "Pharyngeal constrictors",
+      "Levator veli palatini",
+      "Cricothyroid"
+     ]
+    ]
+   ],
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p185-s-01",
+   "page": 185,
+   "section": "Cleft lip",
+   "prompt": "Cleft lip or cleft palate?",
+   "categories": [
+    [
+     "Cleft lip",
+     [
+      "Maxillary + medial nasal processes fail to fuse",
+      "Weeks 4–7",
+      "About 1 in 1000 births",
+      "More common in males",
+      "Usually unilateral, often left"
+     ]
+    ],
+    [
+     "Cleft palate",
+     [
+      "Palatal shelves fail to fuse",
+      "Weeks 8–12",
+      "1 in 2500 live births",
+      "More common in females",
+      "Bifid uvula is the mildest form"
+     ]
+    ]
+   ],
+   "deck": "Embryology & Histology"
+  }
+ ],
+ "mcq": [
+  {
+   "id": "emb-p182-mcq-01",
+   "page": 182,
+   "section": "Embryonic folding",
+   "question": "A pregnant patient asks when her baby is most vulnerable to major congenital malformations. Which period is correct?",
+   "options": [
+    "A. Week 1 (preimplantation)",
+    "B. Weeks 2–8 (embryonic period)",
+    "C. Weeks 9–20 (early fetal period)",
+    "D. Third trimester"
+   ],
+   "answer": "B. Weeks 2–8 (embryonic period)",
+   "explanation": "Most congenital malformations happen in the embryonic period, while differentiation, morphodifferentiation and proliferation occur and most organs form. In the fetal period (C) existing structures mainly grow and mature.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p182-mcq-02",
+   "page": 182,
+   "section": "Germ layer derivatives",
+   "question": "Which dental tissue comes from ectoderm WITHOUT passing through ectomesenchyme?",
+   "options": [
+    "A. Dentin",
+    "B. Pulp",
+    "C. Enamel",
+    "D. Cementum"
+   ],
+   "answer": "C. Enamel",
+   "explanation": "Enamel is made by ameloblasts of the enamel organ, which comes straight from ectoderm (not ectomesenchyme). Dentin, pulp and cementum come from ectomesenchyme (neural crest) via the dental papilla and dental sac.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p182-mcq-03",
+   "page": 182,
+   "section": "Germ layer derivatives",
+   "question": "An infant is born without a thymus or parathyroid glands. Abnormal development of which structures is the most likely cause?",
+   "options": [
+    "A. Dental lamina",
+    "B. Pharyngeal arches and pouches",
+    "C. Nasal placodes",
+    "D. Primitive streak"
+   ],
+   "answer": "B. Pharyngeal arches and pouches",
+   "explanation": "The pharyngeal arches and pouches give rise to the middle ear bones, thymus, parts of the tongue and the parathyroid glands. The primitive streak (D) starts the trilaminar disk, not specific glands.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p183-mcq-01",
+   "page": 183,
+   "section": "Development of the face",
+   "question": "A patient with Bell's palsy cannot move the muscles of facial expression on one side. These muscles develop from which pharyngeal arch?",
+   "options": [
+    "A. 1st arch",
+    "B. 2nd arch",
+    "C. 3rd arch",
+    "D. 4th arch"
+   ],
+   "answer": "B. 2nd arch",
+   "explanation": "The 2nd (hyoid) arch forms the muscles of facial expression. The 1st (mandibular) arch forms the muscles of mastication — the classic distractor.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p183-mcq-02",
+   "page": 183,
+   "section": "Development of the face",
+   "question": "All of the following derive from the 1st pharyngeal arch EXCEPT:",
+   "options": [
+    "A. Malleus",
+    "B. Meckel's cartilage",
+    "C. Stapes",
+    "D. Tensor veli palatini"
+   ],
+   "answer": "C. Stapes",
+   "explanation": "The stapes (and stapedius) come from the 2nd arch. The malleus and incus, Meckel's cartilage and tensor veli palatini all come from the 1st arch.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p184-mcq-01",
+   "page": 184,
+   "section": "Branchial (pharyngeal) arches",
+   "question": "No adult structure results from which pharyngeal arch?",
+   "options": [
+    "A. 1st",
+    "B. 2nd",
+    "C. 4th",
+    "D. 5th"
+   ],
+   "answer": "D. 5th",
+   "explanation": "Arches 2–6 form the neck, but no structure comes from the 5th arch. The 4th arch forms the laryngeal cartilages, pharyngeal constrictors, levator veli palatini and cricothyroid.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p184-mcq-02",
+   "page": 184,
+   "section": "Frontonasal process",
+   "question": "Fusion of the medial nasal processes in the midline forms all of the following EXCEPT:",
+   "options": [
+    "A. Philtrum",
+    "B. Primary palate",
+    "C. Nasal septum",
+    "D. Alae of the nose"
+   ],
+   "answer": "D. Alae of the nose",
+   "explanation": "The alae (sides of the nose) come from the lateral nasal processes. The medial nasal processes form the philtrum, the primary palate (with the four maxillary incisors) and the nasal septum.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p185-mcq-01",
+   "page": 185,
+   "section": "Hard palate",
+   "question": "A child has a cleft palate that runs behind the incisive area, between the two palatal shelves. Which part of the palate failed to form normally, and where did it come from?",
+   "options": [
+    "A. Primary palate — medial nasal process",
+    "B. Secondary palate — maxillary process",
+    "C. Primary palate — maxillary process",
+    "D. Secondary palate — mandibular process"
+   ],
+   "answer": "B. Secondary palate — maxillary process",
+   "explanation": "The secondary palate (posterior 2/3 of the hard palate) forms when the two palatal shelves, which come from the maxillary process, fuse. The primary palate (A) is the anterior 1/3 and comes from the medial nasal process.",
+   "deck": "Embryology & Histology"
+  },
+  {
+   "id": "emb-p185-mcq-02",
+   "page": 185,
+   "section": "Cleft palate",
+   "question": "A newborn girl has a bifid uvula. Which statement is correct?",
+   "options": [
+    "A. It is the most severe form of cleft lip",
+    "B. It is the least severe form of cleft palate",
+    "C. It is caused by failure of the maxillary and medial nasal processes to fuse",
+    "D. It is more common in males"
+   ],
+   "answer": "B. It is the least severe form of cleft palate",
+   "explanation": "A cleft (bifid) uvula is a minor cleft of the posterior soft palate — the mildest form of cleft palate, which is more common in females. Failure of the maxillary and medial nasal processes to fuse (C) causes cleft lip.",
+   "deck": "Embryology & Histology"
+  }
+ ]
+}

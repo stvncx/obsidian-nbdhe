@@ -1,0 +1,2159 @@
+{
+ "diagrams": [
+  {
+   "name": "nutr-p301-rickets",
+   "title": "Normal bone vs rickets / osteomalacia",
+   "deck": "Nutrition",
+   "pdf_page": 9,
+   "page": 301,
+   "crop": [
+    130,
+    110,
+    1210,
+    380
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      465,
+      128,
+      562,
+      164
+     ],
+     "answer": "Normal",
+     "fit": "text"
+    },
+    {
+     "box": [
+      920,
+      142,
+      1188,
+      178
+     ],
+     "answer": "Rickets / Osteomalacia",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "nutr-p303-electrolytes",
+   "title": "The main electrolytes in body fluid",
+   "deck": "Nutrition",
+   "pdf_page": 11,
+   "page": 303,
+   "crop": [
+    77,
+    924,
+    1221,
+    1573
+   ],
+   "labels": [
+    {
+     "box": [
+      165,
+      1036,
+      264,
+      1133
+     ],
+     "answer": "Sodium (Na)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      163,
+      1136,
+      264,
+      1235
+     ],
+     "answer": "Chlorine (Cl)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      161,
+      1238,
+      264,
+      1337
+     ],
+     "answer": "Magnesium (Mg)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      160,
+      1340,
+      262,
+      1438
+     ],
+     "answer": "Calcium (Ca)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      163,
+      1442,
+      260,
+      1534
+     ],
+     "answer": "Potassium (K)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      875,
+      1085,
+      1187,
+      1170
+     ],
+     "answer": "Balance fluids in your body",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      886,
+      1213,
+      1182,
+      1299
+     ],
+     "answer": "Maintain your blood's proper pH",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      880,
+      1344,
+      1181,
+      1464
+     ],
+     "answer": "Carry electrical signals from nerves to muscles",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "nutr-p305-digestion",
+   "title": "Digestion & absorption of nutrients — where?",
+   "deck": "Nutrition",
+   "pdf_page": 13,
+   "page": 305,
+   "crop": [
+    82,
+    885,
+    1221,
+    1529
+   ],
+   "labels": [
+    {
+     "box": [
+      245,
+      908,
+      345,
+      946
+     ],
+     "answer": "Mouth",
+     "fit": "text"
+    },
+    {
+     "box": [
+      186,
+      1109,
+      393,
+      1147
+     ],
+     "answer": "Small Intestines",
+     "fit": "text"
+    },
+    {
+     "box": [
+      920,
+      1125,
+      1042,
+      1160
+     ],
+     "answer": "Stomach",
+     "fit": "text"
+    },
+    {
+     "box": [
+      929,
+      1265,
+      1046,
+      1300
+     ],
+     "answer": "Pancreas",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "nutr-p306-pem",
+   "title": "Protein-energy malnutrition",
+   "deck": "Nutrition",
+   "pdf_page": 14,
+   "page": 306,
+   "crop": [
+    720,
+    77,
+    1249,
+    539
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      773,
+      445,
+      882,
+      472
+     ],
+     "answer": "Marasmus",
+     "fit": "none"
+    },
+    {
+     "box": [
+      1028,
+      443,
+      1162,
+      472
+     ],
+     "answer": "Kwashiorkor",
+     "fit": "none"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "nutr-p301-001",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Water-soluble vitamins (B and C) are not {{c1::stored}} in large amounts, so {{c2::regular intake}} is essential.",
+   "extra": "They play diverse roles in metabolism, nerve function and tissue health; several directly affect oral health."
+  },
+  {
+   "id": "nutr-p301-002",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Water-soluble vitamins are less likely to reach toxic levels because they are {{c1::excreted in the urine}}."
+  },
+  {
+   "id": "nutr-p301-003",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Thiamin = vitamin {{c1::B-1}}. It helps {{c2::nervous and cardiovascular}} system function.",
+   "extra": "WakeUpMemory: 1 tiny tin can — \"tin can\" = Thiamin."
+  },
+  {
+   "id": "nutr-p301-004",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Thiamin (B-1) deficiency causes {{c1::beriberi}}, damage to the {{c2::nervous and cardiovascular}} system."
+  },
+  {
+   "id": "nutr-p301-005",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Food sources of thiamin (B-1): {{c1::pork}}, whole grains, fortified cereals, legumes, nuts."
+  },
+  {
+   "id": "nutr-p301-006",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Riboflavin = vitamin {{c1::B-2}}; it is the {{c2::most significant B vitamin for angular cheilitis}}.",
+   "extra": "WakeUpMemory: 2 bright red ribbons — \"ribbons\" = Riboflavin. Important for many metabolic processes."
+  },
+  {
+   "id": "nutr-p301-007",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Riboflavin (B-2) deficiency: {{c1::glossitis}}, {{c2::angular cheilitis}}, dermatitis, anemia."
+  },
+  {
+   "id": "nutr-p301-008",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Food sources of riboflavin (B-2): {{c1::dairy products}}, leafy green vegetables, fortified cereals, meat."
+  },
+  {
+   "id": "nutr-p301-009",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Niacin = vitamin {{c1::B-3}}; it supports {{c2::energy metabolism}}.",
+   "extra": "WakeUpMemory: 3 nieces — \"nieces\" = Niacin. Sources: meat, poultry, fish, nuts, legumes, fortified cereals."
+  },
+  {
+   "id": "nutr-p301-010",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Niacin (B-3) deficiency causes {{c1::pellagra}}.",
+   "extra": "Pellagra = the 4 Ds (see the basic card)."
+  },
+  {
+   "id": "nutr-p301-011",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Pantothenic acid = vitamin {{c1::B-5}}; it functions as {{c2::coenzyme A}}, assisting fatty acid metabolism and synthesis.",
+   "extra": "WakeUpMemory: 5 cooking pans — \"pans\" = Pantothenic. Found widely in foods (meat, whole grains, legumes, eggs, vegetables)."
+  },
+  {
+   "id": "nutr-p301-012",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Pantothenic acid (B-5) deficiency is {{c1::rare}} (e.g., fatigue, sleep disturbances, numbness)."
+  },
+  {
+   "id": "nutr-p301-013",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Pyridoxine = vitamin {{c1::B-6}}; important for overall metabolism and {{c2::nervous system}} function.",
+   "extra": "WakeUpMemory: 6 pointy pyramids — \"pyramid\" = Pyridoxine. Sources: meat, fish, poultry, potatoes, bananas, fortified cereals."
+  },
+  {
+   "id": "nutr-p301-014",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Pyridoxine (B-6) deficiency: weakness, irritability, {{c1::insomnia}}, dermatitis, anemia, {{c2::angular cheilitis, glossitis}}."
+  },
+  {
+   "id": "nutr-p301-015",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Folate = vitamin {{c1::B-9}}; crucial for {{c2::DNA and protein}} formation.",
+   "extra": "WakeUpMemory: 9 falling leaves — \"leaf\" = Folate. Sources: leafy green vegetables, legumes, fortified grains, liver."
+  },
+  {
+   "id": "nutr-p301-016",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Folate (B-9) deficiency: {{c1::neural tube defects (spina bifida)}} and {{c2::megaloblastic}} anemia.",
+   "extra": "Note: cooking can destroy folate."
+  },
+  {
+   "id": "nutr-p301-017",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Cobalamin = vitamin {{c1::B-12}}; it assists {{c2::folate}} metabolism and is vital for DNA and nerve cell function.",
+   "extra": "WakeUpMemory: 12 cobras — \"cobras\" = Cobalamin. Significant oral manifestations in deficiency."
+  },
+  {
+   "id": "nutr-p301-018",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Vitamin B-12 (cobalamin) requires {{c1::intrinsic factor}} for absorption; deficiency leads to {{c2::pernicious}} anemia."
+  },
+  {
+   "id": "nutr-p301-019",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Oral signs of B-12 deficiency: {{c1::glossitis}}, {{c2::hemorrhagic gingiva}}, stomatitis, xerostomia, {{c3::bone loss}}.",
+   "extra": "Systemic: depression, memory problems."
+  },
+  {
+   "id": "nutr-p301-020",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Vitamin C (ascorbic acid) is associated with {{c1::collagen synthesis}} and wound healing, and supports the {{c2::immune}} system."
+  },
+  {
+   "id": "nutr-p301-021",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Food sources of vitamin C: {{c1::citrus fruits}}, tomatoes, cantaloupe, strawberries, mangoes, broccoli."
+  },
+  {
+   "id": "nutr-p301-022",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "text": "Vitamin C deficiency = {{c1::scurvy}}: early weakness, fatigue, sore limbs; untreated → decreased red blood cells, {{c2::gum disease}}, hair changes, bleeding from the skin.",
+   "extra": "Table row continues on p.302."
+  },
+  {
+   "id": "nutr-p302-001",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 302,
+   "text": "Vitamin C toxicity is generally low; high doses can cause diarrhea, upset stomach and {{c1::kidney stones}} (in susceptible individuals)."
+  },
+  {
+   "id": "nutr-p302-002",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "Minerals are {{c1::inorganic}} nutrients vital for bodily functions, from building bones to regulating fluid balance."
+  },
+  {
+   "id": "nutr-p302-003",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "{{c1::Calcium}} is the most abundant mineral in the body."
+  },
+  {
+   "id": "nutr-p302-004",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "Besides bones and teeth, calcium is essential for muscle contraction/relaxation, nerve transmission, {{c1::blood clotting}} and immune function."
+  },
+  {
+   "id": "nutr-p302-005",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "Calcium cannot be {{c1::synthesized}} by the body and requires {{c2::vitamin D}} for absorption."
+  },
+  {
+   "id": "nutr-p302-006",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "Calcium deficiency is linked to {{c1::osteoporosis}} (decreased bone density, including {{c2::alveolar}} bone)."
+  },
+  {
+   "id": "nutr-p302-007",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "Food sources of calcium: dairy products, {{c1::fish with bones}}, legumes, broccoli."
+  },
+  {
+   "id": "nutr-p302-008",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "{{c1::Phosphorus}} is the second most abundant mineral; it aids bone and teeth formation and maintains {{c2::acid-base}} balance.",
+   "extra": "Like calcium, it requires vitamin D for absorption. Sources: meat, fish, poultry, eggs, milk, processed foods."
+  },
+  {
+   "id": "nutr-p302-009",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "Sodium {{c1::retains water}} in the body and is needed for nerve impulse transmission and muscle contraction.",
+   "extra": "Sources: table salt, soy sauce."
+  },
+  {
+   "id": "nutr-p302-010",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "{{c1::Potassium}} aids muscle contraction and the {{c2::electrical conductivity of the heart}}.",
+   "extra": "Sources: meats, milk, fresh fruits and vegetables, whole grains, legumes."
+  },
+  {
+   "id": "nutr-p302-011",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "{{c1::Magnesium}} facilitates enzyme operation and assists with muscle {{c2::relaxation}} after contraction.",
+   "extra": "Sources: nuts, seeds, legumes, leafy greens, seafood, chocolate, hard drinking water."
+  },
+  {
+   "id": "nutr-p302-012",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "{{c1::Chloride}} ensures proper fluid balance and forms {{c2::stomach acid}}.",
+   "extra": "Sources: table salt, soy sauce."
+  },
+  {
+   "id": "nutr-p302-013",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "text": "{{c1::Sulfur}} is found in protein molecules.",
+   "extra": "Sources: meats, poultry, fish, eggs, milk, legumes, nuts."
+  },
+  {
+   "id": "nutr-p302-014",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 302,
+   "text": "Microminerals (trace elements) are essential nutrients required in very {{c1::small}} amounts."
+  },
+  {
+   "id": "nutr-p302-015",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 302,
+   "text": "Iron is a major component of {{c1::hemoglobin}} in red blood cells, which carries oxygen throughout the body.",
+   "extra": "Fun Fact: iron is the tiny vehicle that carries oxygen to every cell, including oral tissues."
+  },
+  {
+   "id": "nutr-p302-016",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 302,
+   "text": "Iron is abundant in {{c1::liver}} and not found in {{c2::milk}}."
+  },
+  {
+   "id": "nutr-p302-017",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 302,
+   "text": "Iron deficiency → {{c1::iron-deficiency anemia}} (fatigue, weakness); iron toxicity → {{c2::hemochromatosis}} (iron overload damaging organs)."
+  },
+  {
+   "id": "nutr-p302-018",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 302,
+   "text": "Fluorine helps make teeth resistant to caries by {{c1::hardening the enamel}}.",
+   "extra": "Sources: fluoridated water, toothpaste, some seafood, tea."
+  },
+  {
+   "id": "nutr-p302-019",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 302,
+   "text": "Fluorine deficiency → increased risk of {{c1::dental caries}}; toxicity → {{c2::fluorosis}} (discoloration or pitting of enamel, occurring during {{c3::tooth development}})."
+  },
+  {
+   "id": "nutr-p303-001",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 303,
+   "text": "Iodine is essential for the {{c1::thyroid gland}} to produce hormones.",
+   "extra": "Sources: commonly added to table salt; seafood, dairy."
+  },
+  {
+   "id": "nutr-p303-002",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 303,
+   "text": "Iodine deficiency → {{c1::goiter}} (enlarged thyroid gland) and hypothyroidism; toxicity → thyroid dysfunction."
+  },
+  {
+   "id": "nutr-p303-003",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 303,
+   "text": "Zinc aids {{c1::wound healing}} and immune function.",
+   "extra": "Sources: tofu, seafood, red meat, nuts, legumes."
+  },
+  {
+   "id": "nutr-p303-004",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 303,
+   "text": "Zinc deficiency → impaired wound healing, {{c1::altered taste}}, immune dysfunction; zinc toxicity → nausea, vomiting, {{c2::copper}} deficiency."
+  },
+  {
+   "id": "nutr-p303-005",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 303,
+   "text": "Other trace elements include {{c1::selenium}}, copper, manganese, chromium, molybdenum, nickel, silicon, vanadium and cobalt; they play roles in enzyme function and metabolism.",
+   "extra": "Sources vary (whole grains, nuts, seafood, vegetables, organ meats). Deficiencies/toxicities are less common but can be severe."
+  },
+  {
+   "id": "nutr-p303-006",
+   "deck": "Nutrition",
+   "section": "Water",
+   "page": 303,
+   "text": "Water is the main component of the body, making up {{c1::60–80%}} of total body weight."
+  },
+  {
+   "id": "nutr-p303-007",
+   "deck": "Nutrition",
+   "section": "Water",
+   "page": 303,
+   "text": "Functions of water: removes waste and reduces risk of {{c1::kidney stones}}; maintains {{c2::body temperature}}; acts as a {{c3::solvent}} for minerals and vitamins; {{c4::lubricates}} organs and joints."
+  },
+  {
+   "id": "nutr-p303-008",
+   "deck": "Nutrition",
+   "section": "Water",
+   "page": 303,
+   "text": "Recommended water intake is about {{c1::2–3 L}} a day ({{c2::8, 8-ounce}} glasses)."
+  },
+  {
+   "id": "nutr-p303-009",
+   "deck": "Nutrition",
+   "section": "Electrolytes",
+   "page": 303,
+   "text": "Electrolytes regulate {{c1::nerve and muscle}} function, hydrate the body, balance blood {{c2::acidity}} and pressure, and help rebuild damaged tissue.",
+   "extra": "Infographic: electrolytes balance fluids, maintain blood pH, carry electrical signals from nerves to muscles. Fun Fact: Na, K and Mg are vital for nerve impulse transmission and muscle contraction."
+  },
+  {
+   "id": "nutr-p304-001",
+   "deck": "Nutrition",
+   "section": "Electrolytes",
+   "page": 304,
+   "text": "Good sources of electrolytes are {{c1::fruits and vegetables}}; they are also common in {{c2::sports drinks}}."
+  },
+  {
+   "id": "nutr-p304-002",
+   "deck": "Nutrition",
+   "section": "Electrolytes",
+   "page": 304,
+   "text": "Common electrolytes include sodium, potassium, calcium and {{c1::bicarbonate}}.",
+   "extra": "The infographic shows Na, Cl, Mg, Ca, K as the main electrolytes in body fluid."
+  },
+  {
+   "id": "nutr-p304-003",
+   "deck": "Nutrition",
+   "section": "Electrolytes",
+   "page": 304,
+   "text": "Symptoms of electrolyte imbalance: twitching, weakness and, if unchecked, {{c1::seizures}} and {{c2::heart rhythm disturbances}}."
+  },
+  {
+   "id": "nutr-p304-004",
+   "deck": "Nutrition",
+   "section": "Electrolytes",
+   "page": 304,
+   "text": "{{c1::Older adults}} are particularly at risk of electrolyte imbalance."
+  },
+  {
+   "id": "nutr-p304-005",
+   "deck": "Nutrition",
+   "section": "Caries process (nutritional link)",
+   "page": 304,
+   "text": "Plaque formation: {{c1::Streptococcus mutans}} uses dietary {{c2::sucrose}} to produce {{c3::dextran}}, which helps plaque adhere to tooth surfaces.",
+   "extra": "Dental hygienists play a crucial role in educating patients about the link between nutrition and caries."
+  },
+  {
+   "id": "nutr-p304-006",
+   "deck": "Nutrition",
+   "section": "Caries process (nutritional link)",
+   "page": 304,
+   "text": "Acid production: S. mutans ferments carbohydrates, producing {{c1::lactic acid}}, which lowers the pH on the tooth surface."
+  },
+  {
+   "id": "nutr-p304-007",
+   "deck": "Nutrition",
+   "section": "Caries process (nutritional link)",
+   "page": 304,
+   "text": "Critical pH for demineralization: average {{c1::5.5}} for enamel and {{c2::6.2–6.7}} for cementum.",
+   "extra": "Below it, calcium and phosphate ions dissolve from the tooth → demineralization → eventually a cavity."
+  },
+  {
+   "id": "nutr-p304-008",
+   "deck": "Nutrition",
+   "section": "Caries process (nutritional link)",
+   "page": 304,
+   "text": "Below the critical pH, {{c1::calcium and phosphate}} ions dissolve from the tooth structure."
+  },
+  {
+   "id": "nutr-p304-009",
+   "deck": "Nutrition",
+   "section": "Caries process (nutritional link)",
+   "page": 304,
+   "text": "Many popular energy drinks have a pH often below {{c1::3.0}}, far more acidic than enamel's critical pH.",
+   "extra": "Did You Know: high acidity + frequent consumption → caries and erosion."
+  },
+  {
+   "id": "nutr-p304-010",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Advise patients to eat cariogenic foods {{c1::with meals}} rather than as snacks, to limit the {{c2::frequency}} of acid attacks."
+  },
+  {
+   "id": "nutr-p304-011",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Encourage {{c1::rinsing with water}} immediately after cariogenic foods or drinks to help neutralize oral pH."
+  },
+  {
+   "id": "nutr-p304-012",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Eating {{c1::cheese}} at the end of a meal helps raise and neutralize the pH in the mouth."
+  },
+  {
+   "id": "nutr-p304-013",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Recommend {{c1::complex}} carbohydrates (whole grains, most fruits, vegetables, potatoes, corn) over simple ones (table sugar, syrups, sugary drinks, processed juices) because they are less readily {{c2::fermented}} by oral bacteria."
+  },
+  {
+   "id": "nutr-p304-014",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Crunchy, firm-textured foods like raw vegetables mechanically remove {{c1::food debris}} and stimulate {{c2::salivary flow}}."
+  },
+  {
+   "id": "nutr-p304-015",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Sugar alcohols (e.g., {{c1::xylitol}}, sorbitol, mannitol) provide calories but do not promote caries because oral bacteria cannot {{c2::ferment}} them.",
+   "extra": "Xylitol in particular actively inhibits cariogenic bacteria."
+  },
+  {
+   "id": "nutr-p304-016",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Non-nutritive sweeteners (e.g., sucralose, aspartame, saccharin) are much sweeter than sucrose, contain {{c1::no calories}}, and do not cause caries.",
+   "extra": "Found in sugar-free soft drinks and various foods."
+  },
+  {
+   "id": "nutr-p304-017",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "High intake of sugar alcohols in a short time can cause {{c1::diarrhea}}.",
+   "extra": "Did You Know: don't eat a whole bag of sugar-free candy in one sitting."
+  },
+  {
+   "id": "nutr-p304-018",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Cariogenicity depends on the {{c1::frequency}}, {{c2::form}} and {{c3::time (sequence)}} of consumption."
+  },
+  {
+   "id": "nutr-p304-019",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Form: {{c1::sticky}} foods are generally more cariogenic than liquids because they stay on tooth surfaces longer."
+  },
+  {
+   "id": "nutr-p304-020",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "text": "Time (sequence): cariogenic foods eaten with a meal are better than between meals because {{c1::saliva flow}} is higher during meals."
+  },
+  {
+   "id": "nutr-p304-021",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 304,
+   "text": "Xylitol is a naturally occurring substance (xylose) derived from plant sources like {{c1::birch bark}}, beech trees and {{c2::corncobs}}."
+  },
+  {
+   "id": "nutr-p304-022",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 304,
+   "text": "Xylitol can be manufactured through {{c1::hydrogenation}} (adding hydrogen)."
+  },
+  {
+   "id": "nutr-p304-023",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 304,
+   "text": "Xylitol is a \"sugar alcohol\" by chemical composition, but it is actually a {{c1::carbohydrate}}, not an alcohol."
+  },
+  {
+   "id": "nutr-p305-001",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "text": "Sugar alcohols are {{c1::incompletely absorbed}} from the small intestine, so blood glucose levels stay relatively low."
+  },
+  {
+   "id": "nutr-p305-002",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "text": "Xylitol is used with {{c1::diabetic}} patients on a low-carbohydrate, low-sugar diet."
+  },
+  {
+   "id": "nutr-p305-003",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "text": "Xylitol inhibits {{c1::Streptococcus mutans}} by disrupting its metabolism, reducing its growth, acid production and ability to stick to teeth."
+  },
+  {
+   "id": "nutr-p305-004",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "text": "Xylitol reduces acid production, helping maintain a {{c1::neutral}} pH and prevent enamel demineralization."
+  },
+  {
+   "id": "nutr-p305-005",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "text": "Xylitol stimulates {{c1::saliva flow}}, useful for patients with {{c2::xerostomia}}."
+  },
+  {
+   "id": "nutr-p305-006",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "text": "Xylitol offers anti-cavity benefit for people whose oral bacteria may be resistant to {{c1::fluoride}} or who have limited fluoride exposure."
+  },
+  {
+   "id": "nutr-p305-007",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "text": "Xylitol improves {{c1::halitosis}}: it reduces odor-producing bacteria, and saliva washes away {{c2::volatile sulfur compounds}} (VSCs)."
+  },
+  {
+   "id": "nutr-p305-008",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "text": "Xylitol is commonly found in {{c1::chewing gums}}, mints and toothpastes."
+  },
+  {
+   "id": "nutr-p305-009",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "Mouth: {{c1::salivary amylase}} starts breaking down {{c2::polysaccharides}}; protein undergoes {{c3::mechanical}} breakdown only."
+  },
+  {
+   "id": "nutr-p305-010",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "Stomach: amylase {{c1::stops}}; {{c2::pepsin}} breaks proteins into polypeptides."
+  },
+  {
+   "id": "nutr-p305-011",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "Pancreas: pancreatic amylase breaks polysaccharides into {{c1::disaccharides}}; pancreatic {{c2::lipase}} breaks fats into free fatty acids and {{c3::monoglycerides}}, which are absorbed."
+  },
+  {
+   "id": "nutr-p305-012",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "Small intestine: {{c1::lactase, sucrase, maltase}} break disaccharides into monosaccharides ({{c2::glucose, fructose, galactose}}), which are absorbed."
+  },
+  {
+   "id": "nutr-p305-013",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "Small intestine: pancreatic enzymes break polypeptides into peptides, and then {{c1::amino acids}} are absorbed."
+  },
+  {
+   "id": "nutr-p305-014",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "{{c1::Bile salts}} (from the liver/gallbladder) emulsify fat in the small intestine."
+  },
+  {
+   "id": "nutr-p305-015",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "Digestion breaks complex food molecules into smaller components; it begins in the {{c1::mouth}} with mechanical digestion ({{c2::mastication}})."
+  },
+  {
+   "id": "nutr-p305-016",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "Most nutrient absorption occurs in the {{c1::small intestine}}; the large intestine primarily absorbs {{c2::water}}."
+  },
+  {
+   "id": "nutr-p305-017",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "Stomach pH is {{c1::1–3}} when empty, rising to {{c2::4–5}} with food."
+  },
+  {
+   "id": "nutr-p305-018",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "text": "{{c1::Bicarbonate}} neutralizes the mixture as it leaves the stomach; small intestine pH is about {{c2::8}}."
+  },
+  {
+   "id": "nutr-p305-019",
+   "deck": "Nutrition",
+   "section": "Protein deficiency",
+   "page": 305,
+   "text": "In phenylketonuria (PKU), {{c1::phenylalanine}} builds up because the {{c2::liver}} cannot metabolize this amino acid.",
+   "extra": "It damages the nervous system and causes intellectual disability."
+  },
+  {
+   "id": "nutr-p305-020",
+   "deck": "Nutrition",
+   "section": "Protein deficiency",
+   "page": 305,
+   "text": "Patients with PKU should avoid {{c1::aspartame}}, which contains high levels of phenylalanine."
+  },
+  {
+   "id": "nutr-p306-001",
+   "deck": "Nutrition",
+   "section": "Protein deficiency",
+   "page": 306,
+   "text": "Marasmus is caused by {{c1::caloric}} deficiency (including insufficient protein); severe {{c2::muscle wasting}} and {{c3::no edema}}."
+  },
+  {
+   "id": "nutr-p306-002",
+   "deck": "Nutrition",
+   "section": "Protein deficiency",
+   "page": 306,
+   "text": "Marasmus is most common in children under {{c1::2 years}} (typically 6–18 months) in impoverished regions."
+  },
+  {
+   "id": "nutr-p306-003",
+   "deck": "Nutrition",
+   "section": "Protein deficiency",
+   "page": 306,
+   "text": "Kwashiorkor is caused by severe {{c1::protein}} deficiency with adequate or near-normal caloric intake."
+  },
+  {
+   "id": "nutr-p306-004",
+   "deck": "Nutrition",
+   "section": "Protein deficiency",
+   "page": 306,
+   "text": "Kwashiorkor symptoms: growth failure, apathy/listlessness, and {{c1::edema}} in the abdomen and legs."
+  },
+  {
+   "id": "nutr-p306-005",
+   "deck": "Nutrition",
+   "section": "Protein deficiency",
+   "page": 306,
+   "text": "Kwashiorkor is most common in children around {{c1::1–3 years}}, often after {{c2::weaning}}."
+  },
+  {
+   "id": "nutr-p306-006",
+   "deck": "Nutrition",
+   "section": "Calcium and phosphorus deficiency",
+   "page": 306,
+   "text": "{{c1::Rickets}} is softening of the bones caused by the body's inability to absorb calcium; in adults it is called {{c2::osteomalacia}}.",
+   "extra": "The body cannot produce calcium; it must be absorbed from food."
+  },
+  {
+   "id": "nutr-p306-007",
+   "deck": "Nutrition",
+   "section": "Calcium and phosphorus deficiency",
+   "page": 306,
+   "text": "Calcium absorption (and so prevention of rickets) depends on {{c1::vitamin D}}."
+  },
+  {
+   "id": "nutr-p306-008",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "Bulimia nervosa is a compulsive disorder with cycles of starvation, {{c1::binging}} and {{c2::purging}}."
+  },
+  {
+   "id": "nutr-p306-009",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "Individuals with bulimia are typically {{c1::normal weight or slightly overweight}}; often seen in those with stress/low self-esteem.",
+   "extra": "Fun Fact: so dental professionals are often the first to spot it — through oral signs."
+  },
+  {
+   "id": "nutr-p306-010",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "Calluses on the knuckles from purging in bulimia are called {{c1::Russell's sign}}."
+  },
+  {
+   "id": "nutr-p306-011",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "General signs of bulimia: calluses on knuckles, malnutrition, dehydration, {{c1::cardiac dysrhythmias}}."
+  },
+  {
+   "id": "nutr-p306-012",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "Perimolysis in bulimia = erosion on the {{c1::maxillary lingual}} surfaces, with {{c2::raised restoration margins}}."
+  },
+  {
+   "id": "nutr-p306-013",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "Key oral signs of bulimia: reduced salivary flow, angular cheilitis, xerostomia, perimolysis, caries, oral lesions, palatal trauma, enlarged {{c1::parotid}} gland."
+  },
+  {
+   "id": "nutr-p306-014",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "Oral care for bulimia: {{c1::fluoride therapy}} (trays, rinses, varnish), saliva substitutes/sugar-free aids for xerostomia, daily vitamin/mineral supplements."
+  },
+  {
+   "id": "nutr-p306-015",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "Anorexia nervosa: {{c1::extreme weight loss}} from self-starvation, excessive exercise, vomiting, laxatives; caused by {{c2::distorted body image}}.",
+   "extra": "Common in young women, low self-esteem, perfectionists. Can be fatal."
+  },
+  {
+   "id": "nutr-p306-016",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "In anorexia, oral effects come primarily from severe {{c1::malnutrition}}; perimolysis/salivary gland enlargement are less common unless {{c2::purging}} occurs."
+  },
+  {
+   "id": "nutr-p306-017",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "text": "Oral care for anorexia: address malnutrition effects (e.g., weakened enamel) and {{c1::collaborate with the medical team}}."
+  },
+  {
+   "id": "nutr-p306-018",
+   "deck": "Nutrition",
+   "section": "Pica",
+   "page": 306,
+   "text": "{{c1::Pica}} is the consumption of non-nutritive substances such as soil or glass."
+  },
+  {
+   "id": "nutr-p306-019",
+   "deck": "Nutrition",
+   "section": "Pica",
+   "page": 306,
+   "text": "Pica can be related to {{c1::iron}} deficiency (e.g., eating ice cubes).",
+   "extra": "Patients may need therapy; dental professionals should look for trauma in the mouth."
+  },
+  {
+   "id": "nutr-p307-001",
+   "deck": "Nutrition",
+   "section": "Diabetes mellitus",
+   "page": 307,
+   "text": "Diabetes mellitus is characterized by high blood {{c1::glucose}} levels."
+  },
+  {
+   "id": "nutr-p307-002",
+   "deck": "Nutrition",
+   "section": "Diabetes mellitus",
+   "page": 307,
+   "text": "The {{c1::A1C}} level measures how much glucose is on the red blood cells."
+  },
+  {
+   "id": "nutr-p307-003",
+   "deck": "Nutrition",
+   "section": "Diabetes mellitus",
+   "page": 307,
+   "text": "A1C target for diabetics: {{c1::7%}} or less (equivalent to eAG {{c2::154}} mg/dl)."
+  },
+  {
+   "id": "nutr-p307-004",
+   "deck": "Nutrition",
+   "section": "Diabetes mellitus",
+   "page": 307,
+   "text": "Normal A1C: {{c1::4.5–6%}}; prediabetes: {{c2::5.7–6.4%}}.",
+   "extra": "Book's ranges (they overlap; ADA: normal below 5.7%)."
+  },
+  {
+   "id": "nutr-p307-005",
+   "deck": "Nutrition",
+   "section": "Diabetes mellitus",
+   "page": 307,
+   "text": "Book: normal plasma glucose is {{c1::70–130}} mg/dl before a meal and less than {{c2::180}} mg/dl after a meal."
+  },
+  {
+   "id": "nutr-p307-006",
+   "deck": "Nutrition",
+   "section": "Diabetes mellitus",
+   "page": 307,
+   "text": "Diet for diabetes: rich in {{c1::complex carbohydrates and fiber}} to prevent immediate absorption of glucose into the blood.",
+   "extra": "Also: weight loss, regular exercise, meals spaced evenly with one or two snacks, avoid high-glucose foods."
+  },
+  {
+   "id": "nutr-p307-007",
+   "deck": "Nutrition",
+   "section": "Diabetes mellitus",
+   "page": 307,
+   "text": "Diabetic patients are at increased risk for {{c1::periodontal diseases}} and infections."
+  },
+  {
+   "id": "nutr-p307-008",
+   "deck": "Nutrition",
+   "section": "Lactose intolerance",
+   "page": 307,
+   "text": "Lactose intolerance is a deficiency of the digestive enzyme {{c1::lactase}}."
+  },
+  {
+   "id": "nutr-p307-009",
+   "deck": "Nutrition",
+   "section": "Lactose intolerance",
+   "page": 307,
+   "text": "Lactose intolerance can be {{c1::congenital}} or secondary to intestinal injury such as {{c2::Crohn's disease}}.",
+   "extra": "Symptoms: cramps, gas, diarrhea."
+  },
+  {
+   "id": "nutr-p307-010",
+   "deck": "Nutrition",
+   "section": "Crohn's disease",
+   "page": 307,
+   "text": "Crohn's disease is a chronic {{c1::inflammatory}} disease of the digestive tract (inflammatory bowel disease), not related to allergies.",
+   "extra": "Symptoms: abdominal pain, diarrhea, weight loss; patients can suffer malnutrition and dehydration. Oral ulcers may occur (photo)."
+  },
+  {
+   "id": "nutr-p307-011",
+   "deck": "Nutrition",
+   "section": "Alcoholism",
+   "page": 307,
+   "text": "Alcoholics tend to consume {{c1::empty calories}} from sweets and fats for energy and satiety; nutritional deficiencies are common."
+  },
+  {
+   "id": "nutr-p307-012",
+   "deck": "Nutrition",
+   "section": "Alcoholism",
+   "page": 307,
+   "text": "Alcoholism is one of the most common causes of {{c1::thiamine (B-1)}} deficiency because the liver uses thiamine and {{c2::niacin}} to metabolize alcohol."
+  },
+  {
+   "id": "nutr-p307-013",
+   "deck": "Nutrition",
+   "section": "Alcoholism",
+   "page": 307,
+   "text": "{{c1::Folate (B-9)}} deficiency is also commonly seen in alcoholics."
+  },
+  {
+   "id": "nutr-p307-014",
+   "deck": "Nutrition",
+   "section": "Cardiovascular disease",
+   "page": 307,
+   "text": "Narrowing and blockage of blood vessel walls from fatty buildup is called {{c1::atherosclerosis}}."
+  },
+  {
+   "id": "nutr-p307-015",
+   "deck": "Nutrition",
+   "section": "Cardiovascular disease",
+   "page": 307,
+   "text": "For cardiovascular disease, limit saturated fats and {{c1::LDL}} and increase {{c2::HDL}}."
+  },
+  {
+   "id": "nutr-p307-016",
+   "deck": "Nutrition",
+   "section": "Cardiovascular disease",
+   "page": 307,
+   "text": "A common side effect of cardiovascular medications is {{c1::xerostomia}}."
+  },
+  {
+   "id": "nutr-p307-017",
+   "deck": "Nutrition",
+   "section": "Cancer therapy",
+   "page": 307,
+   "text": "Patients in chemotherapy and radiation therapy need {{c1::more}} nutrients because the body must replace destroyed cells.",
+   "extra": "Side effects: nausea, loss of appetite, xerostomia, stomatitis."
+  },
+  {
+   "id": "nutr-p307-018",
+   "deck": "Nutrition",
+   "section": "Cancer therapy",
+   "page": 307,
+   "text": "After vomiting, cancer patients should rinse with water or {{c1::sodium bicarbonate}} to raise the oral pH before brushing or flossing."
+  },
+  {
+   "id": "nutr-p307-019",
+   "deck": "Nutrition",
+   "section": "Cancer therapy",
+   "page": 307,
+   "text": "Cancer-therapy home care: keep hydrated (spray water, suck on {{c1::ice chips}}) and avoid {{c2::spicy, salty, hot and sharp}} foods that irritate tissues."
+  },
+  {
+   "id": "nutr-p307-020",
+   "deck": "Nutrition",
+   "section": "Nutritional counseling",
+   "page": 307,
+   "text": "Nutritional counseling by hygienists mostly involves maintaining a healthy oral cavity, e.g., explaining that carbohydrates are fermented by bacteria into {{c1::lactic acid}}, which demineralizes teeth."
+  },
+  {
+   "id": "nutr-p307-021",
+   "deck": "Nutrition",
+   "section": "Nutritional counseling",
+   "page": 307,
+   "text": "Hygienists can detect serious systemic nutritional problems such as bulimia and {{c1::refer}} the patient (dietitian, psychologist, etc.)."
+  },
+  {
+   "id": "nutr-p307-022",
+   "deck": "Nutrition",
+   "section": "Nutritional counseling",
+   "page": 307,
+   "text": "A {{c1::food diary}} records all meals, snacks, drinks and supplements for a designated period."
+  },
+  {
+   "id": "nutr-p308-001",
+   "deck": "Nutrition",
+   "section": "Nutritional counseling",
+   "page": 308,
+   "text": "A 24-hour food diary is not representative of the normal diet; {{c1::3-, 5- or 7-day}} diaries are most used."
+  },
+  {
+   "id": "nutr-p308-002",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "text": "BMI evaluates weight in relation to height; formula = {{c1::kg/m²}}."
+  },
+  {
+   "id": "nutr-p308-003",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "text": "BMI ranges: normal {{c1::18.5–24.9}}; overweight {{c2::25–29.9}}."
+  },
+  {
+   "id": "nutr-p308-004",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "text": "BMI ranges: obesity I {{c1::30–34.9}}; obesity II {{c2::35–39.9}}; extreme obesity {{c3::>40}}."
+  },
+  {
+   "id": "nutr-p308-005",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "text": "{{c1::Waist circumference}} is a more accurate method for determining obesity than BMI."
+  },
+  {
+   "id": "nutr-p308-006",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "text": "BMR (basal metabolism requirement) represents {{c1::60–70%}} of the total energy used by the body at rest."
+  },
+  {
+   "id": "nutr-p308-007",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "text": "General daily calorie guidelines: men {{c1::2000–3000}} calories/day; women {{c2::1600–2400}} calories/day."
+  }
+ ],
+ "basic": [
+  {
+   "id": "nutr-p301-b-01",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "front": "Pellagra (niacin / B-3 deficiency) is characterized by the \"4 Ds\". Name them.",
+   "back": "Diarrhea, dermatitis, dementia, death",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p301-b-02",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "front": "Why is B-12 deficiency common in strict vegetarians?",
+   "back": "Cobalamin is found only in animal products (meat, fish, poultry, eggs, dairy).",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p301-b-03",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "front": "Why do dentists often recommend vitamin C after periodontal surgery?",
+   "back": "Vitamin C is essential for synthesizing collagen, a protein vital for wound healing and healthy gum tissue.",
+   "reverse": false,
+   "extra": "Fun Fact (p.302)."
+  },
+  {
+   "id": "nutr-p303-b-01",
+   "deck": "Nutrition",
+   "section": "Electrolytes",
+   "page": 303,
+   "front": "Electrolyte",
+   "back": "A substance that conducts electricity when dissolved in water",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p304-b-01",
+   "deck": "Nutrition",
+   "section": "Caries process (nutritional link)",
+   "page": 304,
+   "front": "Why does frequent snacking on sugary/carbohydrate-rich foods raise caries risk?",
+   "back": "It causes almost continuous acid attacks; saliva cannot fully neutralize the acid or penetrate the plaque between exposures.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p305-b-01",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "front": "Board Alert: does xylitol remineralize teeth?",
+   "back": "No — it PROMOTES remineralization indirectly: stimulated saliva delivers calcium and phosphate. It does not bind to tooth surfaces and strengthen teeth like fluoride.",
+   "reverse": false,
+   "extra": "One word (\"promotes\") changes everything on the board exam."
+  },
+  {
+   "id": "nutr-p306-b-01",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "front": "Diabulimia",
+   "back": "Purging by insulin-dependent diabetics for sugar (weight) control",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p306-b-02",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "front": "What must a patient with bulimia NOT do immediately after vomiting?",
+   "back": "Brush or floss — rinse instead (water or sodium bicarbonate) to raise the pH first.",
+   "reverse": false,
+   "extra": "The rinse advice is from the cancer-therapy home care (p.307)."
+  },
+  {
+   "id": "nutr-p307-b-01",
+   "deck": "Nutrition",
+   "section": "Diabetes mellitus",
+   "page": 307,
+   "front": "Why check a diabetic patient's blood sugar before long or invasive appointments?",
+   "back": "To prevent hypoglycemia or hyperglycemia during treatment.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p308-b-01",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "front": "What is the main limitation of BMI?",
+   "back": "It does not differentiate between lean mass and fat.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p308-b-02",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "front": "RDA (Recommended Dietary Allowance)",
+   "back": "The nutrient level sufficient to meet the requirements of nearly all healthy individuals",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p308-b-03",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "front": "DRI (Dietary Reference Intake)",
+   "back": "An updated version of the RDA that aims to prevent nutrient insufficiency",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p308-b-04",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "front": "AI (Adequate Intake)",
+   "back": "The appropriate nutrient intake for healthy people when an RDA is not available",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "nutr-p308-b-05",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "front": "UL (Upper Limit)",
+   "back": "The highest level of nutrient intake that does not pose any risk of adverse health effects",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "nutr-p302-t-01",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "question": "What percentage of the body's calcium is stored in bones and teeth? (number + %)",
+   "answer": "99%",
+   "extra": ""
+  },
+  {
+   "id": "nutr-p302-t-02",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "question": "According to the book, restrict sodium intake to how many grams per day?",
+   "answer": "3",
+   "extra": "Sodium can aggravate existing high blood pressure."
+  },
+  {
+   "id": "nutr-p303-t-01",
+   "deck": "Nutrition",
+   "section": "Water",
+   "page": 303,
+   "question": "The body can survive up to how many days without water?",
+   "answer": "3",
+   "extra": ""
+  },
+  {
+   "id": "nutr-p305-t-01",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "question": "Xylitol has about what percentage fewer calories than table sugar? (number + %)",
+   "answer": "40%",
+   "extra": "Yet it is equally sweet or sweeter than sucrose."
+  },
+  {
+   "id": "nutr-p307-t-01",
+   "deck": "Nutrition",
+   "section": "Alcoholism",
+   "page": 307,
+   "question": "How many kcal per gram does alcohol provide?",
+   "answer": "7",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "nutr-p301-m-01",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "prompt": "Match each vitamin to its B number.",
+   "pairs": [
+    [
+     "Thiamin",
+     "B-1"
+    ],
+    [
+     "Riboflavin",
+     "B-2"
+    ],
+    [
+     "Niacin",
+     "B-3"
+    ],
+    [
+     "Pantothenic acid",
+     "B-5"
+    ],
+    [
+     "Pyridoxine",
+     "B-6"
+    ],
+    [
+     "Folate",
+     "B-9"
+    ],
+    [
+     "Cobalamin",
+     "B-12"
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p301-m-02",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "prompt": "Match each vitamin to its classic deficiency disease.",
+   "pairs": [
+    [
+     "Thiamin (B-1)",
+     "Beriberi"
+    ],
+    [
+     "Niacin (B-3)",
+     "Pellagra"
+    ],
+    [
+     "Folate (B-9)",
+     "Neural tube defects"
+    ],
+    [
+     "Cobalamin (B-12)",
+     "Pernicious anemia"
+    ],
+    [
+     "Vitamin C",
+     "Scurvy"
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p302-m-01",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "prompt": "Match each mineral to its key function.",
+   "pairs": [
+    [
+     "Sodium",
+     "Retains water"
+    ],
+    [
+     "Potassium",
+     "Electrical conductivity of the heart"
+    ],
+    [
+     "Magnesium",
+     "Muscle relaxation after contraction"
+    ],
+    [
+     "Chloride",
+     "Forms stomach acid"
+    ],
+    [
+     "Sulfur",
+     "Found in protein molecules"
+    ],
+    [
+     "Phosphorus",
+     "Maintains acid-base balance"
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p303-m-01",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 303,
+   "prompt": "Match each condition to the mineral responsible.",
+   "pairs": [
+    [
+     "Hemochromatosis",
+     "Iron (excess)"
+    ],
+    [
+     "Goiter",
+     "Iodine (deficiency)"
+    ],
+    [
+     "Fluorosis",
+     "Fluorine (excess)"
+    ],
+    [
+     "Altered taste, impaired wound healing",
+     "Zinc (deficiency)"
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p305-m-01",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "prompt": "Match each digestive agent to its action.",
+   "pairs": [
+    [
+     "Salivary amylase",
+     "Starts polysaccharide breakdown in the mouth"
+    ],
+    [
+     "Pepsin",
+     "Proteins → polypeptides (stomach)"
+    ],
+    [
+     "Pancreatic lipase",
+     "Fats → free fatty acids + monoglycerides"
+    ],
+    [
+     "Lactase, sucrase, maltase",
+     "Disaccharides → monosaccharides"
+    ],
+    [
+     "Bile salts",
+     "Emulsify fat"
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p308-m-01",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "prompt": "Match each dietary standard to its meaning.",
+   "pairs": [
+    [
+     "RDA",
+     "Meets needs of nearly all healthy people"
+    ],
+    [
+     "DRI",
+     "Updated version of RDA"
+    ],
+    [
+     "AI",
+     "Used when no RDA is available"
+    ],
+    [
+     "UL",
+     "Highest intake with no risk"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "nutr-p304-o-01",
+   "deck": "Nutrition",
+   "section": "Caries process (nutritional link)",
+   "page": 304,
+   "prompt": "Put the steps of the caries process in order.",
+   "items": [
+    "S. mutans uses sucrose to make dextran (plaque adheres)",
+    "S. mutans ferments carbohydrates into lactic acid",
+    "Plaque pH drops below the critical pH (5.5 enamel)",
+    "Calcium and phosphate ions dissolve (demineralization)",
+    "Cavity"
+   ]
+  },
+  {
+   "id": "nutr-p308-o-01",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "prompt": "Order the BMI categories from lowest to highest BMI.",
+   "items": [
+    "Normal (18.5–24.9)",
+    "Overweight (25–29.9)",
+    "Obesity I (30–34.9)",
+    "Obesity II (35–39.9)",
+    "Extreme obesity (>40)"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "nutr-p302-s-01",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 302,
+   "prompt": "Sort the minerals: major mineral or trace element (micromineral)?",
+   "categories": [
+    [
+     "Major mineral",
+     [
+      "Calcium",
+      "Phosphorus",
+      "Sodium",
+      "Potassium",
+      "Magnesium",
+      "Chloride",
+      "Sulfur"
+     ]
+    ],
+    [
+     "Trace element",
+     [
+      "Iron",
+      "Fluorine",
+      "Iodine",
+      "Zinc",
+      "Selenium",
+      "Copper"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p304-s-01",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "prompt": "Sort the sweeteners.",
+   "categories": [
+    [
+     "Sugar alcohol (has calories)",
+     [
+      "Xylitol",
+      "Sorbitol",
+      "Mannitol"
+     ]
+    ],
+    [
+     "Non-nutritive (no calories)",
+     [
+      "Sucralose",
+      "Aspartame",
+      "Saccharin"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p306-s-01",
+   "deck": "Nutrition",
+   "section": "Protein deficiency",
+   "page": 306,
+   "prompt": "Marasmus or kwashiorkor?",
+   "categories": [
+    [
+     "Marasmus",
+     [
+      "Caloric deficiency",
+      "Severe muscle wasting",
+      "No edema",
+      "Typically 6–18 months old"
+     ]
+    ],
+    [
+     "Kwashiorkor",
+     [
+      "Protein deficiency, near-normal calories",
+      "Edema of abdomen and legs",
+      "Often after weaning (1–3 yrs)",
+      "Apathy/listlessness"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "nutr-p306-s-02",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "prompt": "Bulimia or anorexia?",
+   "categories": [
+    [
+     "Bulimia nervosa",
+     [
+      "Normal or slightly overweight",
+      "Russell's sign",
+      "Enlarged parotid gland",
+      "Cycles of binging and purging"
+     ]
+    ],
+    [
+     "Anorexia nervosa",
+     [
+      "Extreme weight loss",
+      "Distorted body image, self-starvation",
+      "Oral effects mainly from malnutrition"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "nutr-p301-mcq-01",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "question": "A patient who lacks intrinsic factor presents with glossitis, hemorrhagic gingiva and memory problems. Which vitamin is most likely deficient?",
+   "options": [
+    "A. Folate (B-9)",
+    "B. Cobalamin (B-12)",
+    "C. Niacin (B-3)",
+    "D. Thiamin (B-1)"
+   ],
+   "answer": "B. Cobalamin (B-12)",
+   "explanation": "B-12 requires intrinsic factor for absorption; deficiency gives pernicious anemia with glossitis, hemorrhagic gingiva and memory problems. Folate deficiency also causes anemia (megaloblastic) but does not depend on intrinsic factor."
+  },
+  {
+   "id": "nutr-p301-mcq-02",
+   "deck": "Nutrition",
+   "section": "Water-soluble vitamins",
+   "page": 301,
+   "question": "A patient taking very high doses of vitamin C for months is at increased risk for which problem?",
+   "options": [
+    "A. Hemochromatosis",
+    "B. Kidney stones",
+    "C. Fluorosis",
+    "D. Goiter"
+   ],
+   "answer": "B. Kidney stones",
+   "explanation": "High-dose vitamin C can cause diarrhea, upset stomach and kidney stones. Hemochromatosis is iron overload, not vitamin C toxicity."
+  },
+  {
+   "id": "nutr-p302-mcq-01",
+   "deck": "Nutrition",
+   "section": "Minerals",
+   "page": 302,
+   "question": "A patient with hypertension asks which mineral to limit. Which should the hygienist identify?",
+   "options": [
+    "A. Potassium",
+    "B. Magnesium",
+    "C. Sodium",
+    "D. Calcium"
+   ],
+   "answer": "C. Sodium",
+   "explanation": "Sodium retains water and can aggravate existing high blood pressure (book: restrict to 3 g/day). Potassium is not restricted; it aids muscle contraction and heart conductivity."
+  },
+  {
+   "id": "nutr-p302-mcq-02",
+   "deck": "Nutrition",
+   "section": "Microminerals (trace elements)",
+   "page": 302,
+   "question": "A patient with iron-deficiency anemia asks for food advice. Which food is NOT a source of iron according to the book?",
+   "options": [
+    "A. Liver",
+    "B. Milk",
+    "C. Red meat",
+    "D. Legumes"
+   ],
+   "answer": "B. Milk",
+   "explanation": "The book says iron is abundant in liver and not found in milk. Liver is the richest source listed, so it is the best distractor."
+  },
+  {
+   "id": "nutr-p304-mcq-01",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "question": "A patient sips one can of regular soda slowly over the whole afternoon. Which cariogenicity factor makes this habit especially harmful?",
+   "options": [
+    "A. Form",
+    "B. Frequency",
+    "C. Sequence",
+    "D. Sweetener type"
+   ],
+   "answer": "B. Frequency",
+   "explanation": "Sipping prolongs and repeats acid exposure — frequency. Drinking it all at once is less harmful. Form would apply to sticky vs liquid foods; a liquid is the less cariogenic form."
+  },
+  {
+   "id": "nutr-p304-mcq-02",
+   "deck": "Nutrition",
+   "section": "Caries prevention (nutritional counseling)",
+   "page": 304,
+   "question": "Which recommendation is most appropriate for a patient who refuses to give up candy?",
+   "options": [
+    "A. Eat it between meals so it does not mix with food",
+    "B. Eat it with meals and rinse with water afterwards",
+    "C. Switch to processed fruit juice",
+    "D. Eat it slowly over several hours"
+   ],
+   "answer": "B. Eat it with meals and rinse with water afterwards",
+   "explanation": "Cariogenic foods with meals (higher saliva flow) limit acid attacks; rinsing with water helps neutralize pH. Processed fruit juice is a simple carbohydrate and still cariogenic."
+  },
+  {
+   "id": "nutr-p305-mcq-01",
+   "deck": "Nutrition",
+   "section": "Xylitol",
+   "page": 305,
+   "question": "Which statement about xylitol is most accurate?",
+   "options": [
+    "A. It remineralizes teeth by binding to enamel like fluoride",
+    "B. It promotes remineralization by stimulating saliva flow",
+    "C. It is slowly fermented by S. mutans to a weak acid",
+    "D. It is a true alcohol and should be avoided in recovering alcoholics"
+   ],
+   "answer": "B. It promotes remineralization by stimulating saliva flow",
+   "explanation": "Xylitol promotes remineralization indirectly (saliva delivers calcium and phosphate); it does not bind to teeth like fluoride. Oral bacteria cannot ferment it, and it is a carbohydrate, not an alcohol."
+  },
+  {
+   "id": "nutr-p305-mcq-02",
+   "deck": "Nutrition",
+   "section": "Digestion and absorption",
+   "page": 305,
+   "question": "Where does chemical digestion of protein begin?",
+   "options": [
+    "A. Mouth",
+    "B. Stomach",
+    "C. Small intestine",
+    "D. Large intestine"
+   ],
+   "answer": "B. Stomach",
+   "explanation": "In the mouth protein is only mechanically broken down; pepsin in the stomach starts chemical digestion (proteins → polypeptides). The small intestine finishes it (peptides → amino acids)."
+  },
+  {
+   "id": "nutr-p306-mcq-01",
+   "deck": "Nutrition",
+   "section": "Eating disorders",
+   "page": 306,
+   "question": "A normal-weight 22-year-old woman has smooth erosion of the maxillary lingual surfaces, raised amalgam margins, enlarged parotid glands and calluses on her knuckles. What is the most likely condition?",
+   "options": [
+    "A. Anorexia nervosa without purging",
+    "B. Bulimia nervosa",
+    "C. Pica",
+    "D. Kwashiorkor"
+   ],
+   "answer": "B. Bulimia nervosa",
+   "explanation": "Normal weight + perimolysis + parotid enlargement + Russell's sign = bulimia. In anorexia the patient has extreme weight loss and perimolysis is uncommon unless purging occurs."
+  },
+  {
+   "id": "nutr-p307-mcq-01",
+   "deck": "Nutrition",
+   "section": "Diabetes mellitus",
+   "page": 307,
+   "question": "A diabetic patient's A1C is 6.1%. Based on the book's ranges, this falls in which category?",
+   "options": [
+    "A. Within the diabetic target and in the prediabetes range",
+    "B. Above the diabetic target",
+    "C. Below normal",
+    "D. Severe uncontrolled diabetes"
+   ],
+   "answer": "A. Within the diabetic target and in the prediabetes range",
+   "explanation": "Target for diabetics is 7% or less; 5.7–6.4% is the prediabetes range, so 6.1% is within target and in the prediabetes band. Above-target would be >7%."
+  },
+  {
+   "id": "nutr-p308-mcq-01",
+   "deck": "Nutrition",
+   "section": "Weight management and dietary levels",
+   "page": 308,
+   "question": "A patient's BMI is 32. How is this classified?",
+   "options": [
+    "A. Overweight",
+    "B. Obesity I",
+    "C. Obesity II",
+    "D. Extreme obesity"
+   ],
+   "answer": "B. Obesity I",
+   "explanation": "Obesity I = 30–34.9. Overweight is 25–29.9; Obesity II is 35–39.9."
+  },
+  {
+   "id": "nutr-quiz-01",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "A deficiency of which vitamin is most likely to cause delayed wound healing and weakened immune response in the oral cavity?",
+   "options": [
+    "A. Vitamin A",
+    "B. Vitamin C",
+    "C. Vitamin D",
+    "D. Vitamin K"
+   ],
+   "answer": "B. Vitamin C",
+   "explanation": "Vitamin C deficiency impairs collagen synthesis, leading to delayed healing and increased susceptibility to infection."
+  },
+  {
+   "id": "nutr-quiz-02",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Which macronutrient is essential for tissue repair and immune function, directly impacting periodontal health?",
+   "options": [
+    "A. Carbohydrates",
+    "B. Proteins",
+    "C. Lipids",
+    "D. Fiber"
+   ],
+   "answer": "B. Proteins",
+   "explanation": "Proteins provide amino acids necessary for repair, enzyme production, and immune defense in periodontal tissues."
+  },
+  {
+   "id": "nutr-quiz-03",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Which vitamin deficiency can cause glossitis, cheilitis, and angular stomatitis?",
+   "options": [
+    "A. Vitamin B2",
+    "B. Vitamin C",
+    "C. Vitamin A",
+    "D. Vitamin E"
+   ],
+   "answer": "A. Vitamin B2",
+   "explanation": "Riboflavin deficiency leads to mucosal inflammation, causing painful tongue and lip lesions."
+  },
+  {
+   "id": "nutr-quiz-04",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Deficiency of which vitamin affects calcium absorption and can lead to defective enamel and bone formation?",
+   "options": [
+    "A. Vitamin C",
+    "B. Vitamin B6",
+    "C. Vitamin D",
+    "D. Vitamin K"
+   ],
+   "answer": "C. Vitamin D",
+   "explanation": "Vitamin D regulates calcium and phosphate metabolism, critical for mineralization of teeth and bones."
+  },
+  {
+   "id": "nutr-quiz-05",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Deficiency in which vitamin can lead to increased susceptibility to oral infections due to its role in immune function?",
+   "options": [
+    "A. Vitamin A",
+    "B. Vitamin K",
+    "C. Vitamin E",
+    "D. Vitamin B1"
+   ],
+   "answer": "C. Vitamin E",
+   "explanation": "Vitamin E acts as an antioxidant, protecting immune cells and oral tissues from oxidative damage."
+  },
+  {
+   "id": "nutr-quiz-06",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Which carbohydrate is a disaccharide composed of glucose and galactose, found in milk?",
+   "options": [
+    "A. Sucrose",
+    "B. Maltose",
+    "C. Lactose",
+    "D. Fructose"
+   ],
+   "answer": "C. Lactose",
+   "explanation": "Lactose is the sugar in milk composed of glucose and galactose; it is less cariogenic than sucrose."
+  },
+  {
+   "id": "nutr-quiz-07",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Glycogen is best described as:",
+   "options": [
+    "A. A disaccharide stored in plants",
+    "B. A polysaccharide stored in the liver and muscles for energy",
+    "C. A fatty acid used for long-term energy storage",
+    "D. A protein involved in muscle repair"
+   ],
+   "answer": "B. A polysaccharide stored in the liver and muscles for energy",
+   "explanation": "Glycogen is a branched polysaccharide stored mainly in the liver and muscles and serves as a rapid source of glucose for energy."
+  },
+  {
+   "id": "nutr-quiz-08",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Which is a characteristic of unsaturated fatty acids?",
+   "options": [
+    "A. They have no double bonds and are solid at room temperature",
+    "B. They are saturated with hydrogen atoms",
+    "C. They contain one or more double bonds and are typically liquid at room temperature",
+    "D. They are always harmful to cardiovascular health"
+   ],
+   "answer": "C. They contain one or more double bonds and are typically liquid at room temperature",
+   "explanation": "Unsaturated fatty acids contain one (monounsaturated) or more (polyunsaturated) double bonds, making them typically liquid at room temperature and healthier fats."
+  },
+  {
+   "id": "nutr-quiz-09",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Which nutritional deficiency is most commonly associated with the oral condition called \"angular cheilitis\"?",
+   "options": [
+    "A. Vitamin D deficiency",
+    "B. Iron deficiency",
+    "C. Vitamin A deficiency",
+    "D. Calcium deficiency"
+   ],
+   "answer": "B. Iron deficiency",
+   "explanation": "Angular cheilitis often results from deficiencies in iron or B-complex vitamins, leading to inflammation and cracking at the corners of the mouth."
+  },
+  {
+   "id": "nutr-quiz-10",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "A vegan patient presents with aphthous ulcers, burning tongue, and glossitis. These oral symptoms are often associated with which nutritional deficiency?",
+   "options": [
+    "A. Vitamin C",
+    "B. Calcium",
+    "C. Vitamin B12 deficiency",
+    "D. Vitamin K"
+   ],
+   "answer": "C. Vitamin B12 deficiency",
+   "explanation": "Vitamin B12 deficiency can cause neurological symptoms and mucosal changes like glossitis and burning sensations. B12 is only obtained through animal sources, so vegans and vegetarians may be deficient if they are not supplementing B12."
+  },
+  {
+   "id": "nutr-quiz-11",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Which method is considered a more accurate way to determine obesity compared to Body Mass Index (BMI)?",
+   "options": [
+    "A. Basal Metabolism Requirement (BMR)",
+    "B. Calorie Recommendation",
+    "C. Waist Circumference",
+    "D. Recommended Dietary Allowance (RDA)"
+   ],
+   "answer": "C. Waist Circumference",
+   "explanation": "Waist circumference is considered a more accurate method of determining obesity than BMI, as BMI does not differentiate between lean mass and fat."
+  },
+  {
+   "id": "nutr-quiz-12",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "Which fat-soluble vitamin, when consumed in excessive amounts, is known to interfere with blood coagulation?",
+   "options": [
+    "A. Vitamin E",
+    "B. Vitamin D",
+    "C. Vitamin A",
+    "D. Vitamin K"
+   ],
+   "answer": "A. Vitamin E",
+   "explanation": "Vitamin E can act as an anticoagulant and interfere with blood coagulation, especially at high doses."
+  },
+  {
+   "id": "nutr-quiz-13",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 309,
+   "question": "In which part of the digestive system does the significant breakdown of large fat droplets into smaller ones, aided by bile salts, primarily occur?",
+   "options": [
+    "A. Mouth",
+    "B. Stomach",
+    "C. Large Intestine",
+    "D. Small Intestine"
+   ],
+   "answer": "D. Small Intestine",
+   "explanation": "In the small intestine, bile salts break down large fat droplets into smaller droplets, which are then further digested by pancreatic lipase."
+  },
+  {
+   "id": "nutr-quiz-14",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 310,
+   "question": "Which two minerals are most abundant in the body and work together with Vitamin D to promote the mineralization of teeth and bones?",
+   "options": [
+    "A. Sodium and Potassium",
+    "B. Calcium and Phosphorus",
+    "C. Iron and Zinc",
+    "D. Magnesium and Chloride"
+   ],
+   "answer": "B. Calcium and Phosphorus",
+   "explanation": "Calcium and phosphorus are the most abundant minerals in the body, and both are essential for the formation and mineralization of bones and teeth, with vitamin D crucial for their absorption."
+  },
+  {
+   "id": "nutr-quiz-15",
+   "deck": "Quizzes",
+   "section": "Nutrition bonus quiz",
+   "page": 310,
+   "question": "A vegetarian patient carefully combines rice with beans in their meal. This is an example of consuming what type of proteins to ensure adequate nutrient intake?",
+   "options": [
+    "A. Complete Proteins",
+    "B. Incomplete Proteins",
+    "C. Complementary Proteins",
+    "D. Limiting Proteins"
+   ],
+   "answer": "C. Complementary Proteins",
+   "explanation": "Complementary proteins are incomplete proteins that, when combined (like rice and beans), provide all essential amino acids that the body needs."
+  }
+ ]
+}

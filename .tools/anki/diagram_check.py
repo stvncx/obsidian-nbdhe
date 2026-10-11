@@ -6,14 +6,14 @@ import json, sys
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 sys.path.insert(0, str(Path(__file__).resolve().parent)); sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from build_deck import covers, BOOKS, PAD
+from build_deck import covers, BOOKS, PAD, page_image
 from occlude import render
 spec_file, outdir = sys.argv[1], Path(sys.argv[2]); names = sys.argv[3:]
 outdir.mkdir(parents=True, exist_ok=True)
 F = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 22)
 for s in json.load(open(spec_file)).get('diagrams', []):
     if names and s['name'] not in names: continue
-    page = Image.open(render(BOOKS['anatomy']['pdf'], s['pdf_page'])).convert('RGB')
+    page = page_image(s, BOOKS[Path(spec_file).resolve().parent.name]['pdf'])
     cx0, cy0 = s['crop'][:2]
     im = page.crop(s['crop']).convert('RGBA'); ov = Image.new('RGBA', im.size, (0, 0, 0, 0)); d = ImageDraw.Draw(ov)
     print(f"== {s['name']}  ({s['title']})  page {s['pdf_page']}  crop {s['crop']}")

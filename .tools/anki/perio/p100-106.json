@@ -1,0 +1,1536 @@
+{
+ "diagrams": [
+  {
+   "name": "perio-p101-abscesses",
+   "title": "Types of oral abscess",
+   "deck": "Periodontology",
+   "pdf_page": 17,
+   "page": 101,
+   "crop": [
+    870,
+    1565,
+    1250,
+    2080
+   ],
+   "labels": [
+    {
+     "box": [
+      880,
+      1570,
+      1015,
+      1602
+     ],
+     "answer": "Gingival abscess",
+     "fit": "text"
+    },
+    {
+     "box": [
+      880,
+      1740,
+      1040,
+      1772
+     ],
+     "answer": "Periodontal abscess",
+     "fit": "text"
+    },
+    {
+     "box": [
+      880,
+      1913,
+      1025,
+      1945
+     ],
+     "answer": "Periapical abscess",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "perio-p104-bacteria-timeline",
+   "title": "Bacteria timeline (health → advanced periodontitis)",
+   "deck": "Periodontology",
+   "pdf_page": 20,
+   "page": 104,
+   "crop": [
+    130,
+    180,
+    1180,
+    840
+   ],
+   "label_all": false,
+   "labels": [
+    {
+     "box": [
+      187,
+      216,
+      285,
+      252
+     ],
+     "answer": "Actinomyces israelii",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      179,
+      309,
+      292,
+      344
+     ],
+     "answer": "Streptococcus sanguinis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      176,
+      416,
+      304,
+      459
+     ],
+     "answer": "Streptococcus oralis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      379,
+      242,
+      480,
+      280
+     ],
+     "answer": "Treponema denticola",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      377,
+      323,
+      477,
+      363
+     ],
+     "answer": "Prevotella intermedia",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      363,
+      416,
+      493,
+      459
+     ],
+     "answer": "Fusobacterium nucleatum",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      662,
+      272,
+      759,
+      312
+     ],
+     "answer": "Eikenella corrodens",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      645,
+      406,
+      787,
+      445
+     ],
+     "answer": "Porphyromonas gingivalis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      841,
+      195,
+      940,
+      235
+     ],
+     "answer": "Tannerella forsythia",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      982,
+      196,
+      1088,
+      234
+     ],
+     "answer": "Eubacterium nodatum",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      837,
+      302,
+      936,
+      342
+     ],
+     "answer": "Prevotella intermedia",
+     "fit": "bg",
+     "key": "Prevotella intermedia (2)"
+    },
+    {
+     "box": [
+      839,
+      381,
+      986,
+      470
+     ],
+     "answer": "Capnocytophaga species (C. ochracea, C. gingivalis, C. sputigena)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1021,
+      456,
+      1137,
+      496
+     ],
+     "answer": "Advanced periodontitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      137,
+      605,
+      205,
+      625
+     ],
+     "answer": "Healthy",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      272,
+      565,
+      335,
+      586
+     ],
+     "answer": "Plaque",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      366,
+      502,
+      448,
+      525
+     ],
+     "answer": "Gingivitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      512,
+      547,
+      629,
+      587
+     ],
+     "answer": "Early periodontitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      624,
+      494,
+      744,
+      536
+     ],
+     "answer": "Transitional periodontitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      644,
+      586,
+      762,
+      626
+     ],
+     "answer": "Moderate periodontitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      846,
+      494,
+      965,
+      534
+     ],
+     "answer": "Chronic periodontitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      875,
+      565,
+      996,
+      606
+     ],
+     "answer": "Aggressive periodontitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      248,
+      645,
+      377,
+      683
+     ],
+     "answer": "Streptococcus mitis",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      257,
+      762,
+      368,
+      808
+     ],
+     "answer": "Actinomyces naeslundii",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      464,
+      640,
+      562,
+      682
+     ],
+     "answer": "Veillonella parvula",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      730,
+      649,
+      855,
+      694
+     ],
+     "answer": "Actinomyces odontolyticus",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      733,
+      773,
+      872,
+      808
+     ],
+     "answer": "Peptostreptococcus micros",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      935,
+      648,
+      1092,
+      690
+     ],
+     "answer": "Aggregatibacter actinomycetemcomitans (Aa)",
+     "fit": "none"
+    },
+    {
+     "box": [
+      941,
+      775,
+      1075,
+      819
+     ],
+     "answer": "Campylobacter rectus",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "perio-p100-001",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Necrotizing periodontal diseases (NPDs) are severe inflammatory conditions of the periodontium characterized by tissue {{c1::necrosis}} (\"death\"), commonly presenting with {{c2::\"punched-out\"}} interdental papillae."
+  },
+  {
+   "id": "perio-p100-002",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Necrotizing periodontal diseases are strongly linked to an {{c1::impaired host immune system}}."
+  },
+  {
+   "id": "perio-p100-003",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Clinical signs of necrotizing periodontal diseases include a {{c1::yellowish-white pseudomembrane}}, pain, spontaneous bleeding, a strong {{c2::fetid odor}}, and systemic involvement like fever or swollen lymph nodes.",
+   "extra": "Board Alert: main symptoms of necrotizing conditions — PAIN, fetid odor, pseudomembrane, cratered papillae, punched-out papillae, fever, fatigue and lymphadenopathy (swollen lymph nodes). Find them in your case studies."
+  },
+  {
+   "id": "perio-p100-004",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Necrotizing gingivitis (NG) affects the {{c1::gingival tissues (primarily the interdental papillae)}} only.",
+   "extra": "Key characteristics: acute inflammatory process; necrosis/ulcer of interdental papillae; gingival bleeding; pain. Other signs: halitosis, pseudomembrane, regional lymphadenopathy, fever."
+  },
+  {
+   "id": "perio-p100-005",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "In children, necrotizing gingivitis may also present with {{c1::sialorrhea}}.",
+   "extra": "Sialorrhea = excessive salivation."
+  },
+  {
+   "id": "perio-p100-006",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Necrotizing gingivitis is often seen in {{c1::young adults}} (e.g., stressed college students, soldiers)."
+  },
+  {
+   "id": "perio-p100-007",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Contributing factors for necrotizing gingivitis include poor plaque control, {{c1::stress}}, fatigue, alcohol/drug use, {{c2::smoking}}, and poor nutrition."
+  },
+  {
+   "id": "perio-p100-008",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Necrotizing periodontitis (NP) represents progression from NG with {{c1::bone involvement}}; its key sign is {{c2::rapid bone loss}}.",
+   "extra": "Affects the periodontium (gingiva and underlying alveolar bone). Also: necrosis/ulceration of papillae, spontaneous bleeding, halitosis (fetid odor), pain, pseudomembrane, lymphadenopathy, fever, malaise. Shares NG's contributing factors."
+  },
+  {
+   "id": "perio-p100-009",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "In necrotizing stomatitis (NS), soft-tissue necrosis extends {{c1::beyond the gingiva}}; destruction may occur through the alveolar mucosa, tongue, cheek, and palate."
+  },
+  {
+   "id": "perio-p100-010",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Necrotizing stomatitis typically occurs in {{c1::severely systemically compromised}} patients and is the {{c2::most severe}} form of necrotizing conditions.",
+   "extra": "Atypical cases may develop without prior NG/NP lesions."
+  },
+  {
+   "id": "perio-p100-011",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Treatment of necrotizing periodontal disease: removal of the {{c1::pseudomembrane}}, {{c2::limited debridement with an ultrasonic scaler}}, and oral hygiene instruction."
+  },
+  {
+   "id": "perio-p100-012",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "Patients with necrotizing periodontal disease should avoid irritating foods and use {{c1::chlorhexidine}} rinses; nutritional counseling and {{c2::tobacco cessation}} are also recommended."
+  },
+  {
+   "id": "perio-p100-013",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "text": "In necrotizing periodontal disease, {{c1::systemic}} antibiotics may be used for systemic involvement (fever, lymphadenopathy) or unresponsive cases, but {{c2::local}} antibiotics are contraindicated."
+  },
+  {
+   "id": "perio-p100-014",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 100,
+   "text": "In periodontitis as a manifestation of systemic disease, destruction can occur {{c1::with or without}} significant biofilm.",
+   "extra": "Not solely initiated by plaque biofilm."
+  },
+  {
+   "id": "perio-p100-015",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 100,
+   "text": "Systemic disorders that manifest as periodontitis affect the periodontium through altered {{c1::immune responses}}, tissue defects, or {{c2::metabolic}} changes."
+  },
+  {
+   "id": "perio-p101-001",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "text": "In Down syndrome, periodontal attachment loss begins in {{c1::adolescence}}; intrinsic abnormalities of the {{c2::immune system}} predispose to infection.",
+   "extra": "Higher prevalence and severity of periodontal disease."
+  },
+  {
+   "id": "perio-p101-002",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "text": "{{c1::Papillon-Lefèvre syndrome}}, a rare genetic disorder, causes severe early-onset gingival inflammation, rapidly progressive alveolar bone loss, and early loss of {{c2::primary and permanent}} teeth."
+  },
+  {
+   "id": "perio-p101-003",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "text": "Congenital neutropenia is a hematologic disorder with a severe lack of {{c1::neutrophils}}; severe periodontitis, higher risk of tooth loss, and {{c2::oral ulcers}} are common."
+  },
+  {
+   "id": "perio-p101-004",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "text": "{{c1::Systemic lupus erythematosus (SLE)}}, an autoimmune disease, causes oral ulcers and increased prevalence of gingival inflammation and periodontitis."
+  },
+  {
+   "id": "perio-p101-005",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "text": "HIV infection increases risk for {{c1::necrotizing periodontal diseases}}, oral candidiasis, oral hairy leukoplakia, severe aphthous ulcers, Kaposi sarcoma, and {{c2::linear gingival erythema (LGE)}}.",
+   "extra": "HIV = acquired immunodeficiency that increases susceptibility to infections and oral lesions."
+  },
+  {
+   "id": "perio-p101-006",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "text": "Cytotoxic chemotherapeutics can cause transient or prolonged {{c1::neutropenia}}, associated with increased risk for periodontitis.",
+   "extra": "Cancer drugs affect immune-cell production."
+  },
+  {
+   "id": "perio-p101-007",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "text": "Oral squamous cell carcinoma can mimic localized periodontal disease: localized gingival swelling or ulceration, typically in the {{c1::mandibular molar}} region, with alveolar bone loss {{c2::independent of plaque}}."
+  },
+  {
+   "id": "perio-p101-008",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "text": "Odontogenic tumors (from tooth-forming tissues): early lesions show localized swelling and {{c1::tooth displacement}}; late features resemble {{c2::localized periodontitis}} with bone loss independent of plaque."
+  },
+  {
+   "id": "perio-p101-009",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "text": "{{c1::Peripheral}} giant cell granuloma is an expanding epulis-like swelling on the gingiva/alveolar mucosa; {{c2::central}} GCG occurs within the bone and causes loss of deep periodontal supporting tissue.",
+   "extra": "Both can cause alveolar bone loss independently of plaque."
+  },
+  {
+   "id": "perio-p101-010",
+   "deck": "Periodontology",
+   "section": "Acute periodontal lesions",
+   "page": 101,
+   "text": "Acute periodontal diseases are {{c1::rapid-onset}} conditions characterized by pain or discomfort, tissue destruction, and {{c2::infection}}."
+  },
+  {
+   "id": "perio-p101-011",
+   "deck": "Periodontology",
+   "section": "Acute periodontal lesions",
+   "page": 101,
+   "text": "Acute periodontal diseases include {{c1::abscesses}}, endodontic-periodontal lesions, necrotizing periodontal disease, and {{c2::herpetic gingivostomatitis}}."
+  },
+  {
+   "id": "perio-p102-001",
+   "deck": "Periodontology",
+   "section": "Acute periodontal lesions",
+   "page": 102,
+   "text": "Acute periodontal lesions may be {{c1::unrelated}} to concurrent gingivitis or periodontitis, and may be localized or involve multiple sites."
+  },
+  {
+   "id": "perio-p102-002",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Peri-implant health = absence of visual signs of inflammation and {{c1::bleeding on probing}}; it can exist around implants with normal or {{c2::reduced}} bone support."
+  },
+  {
+   "id": "perio-p102-003",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Probing depths alone cannot define peri-implant health: healthy implants may probe deeper than {{c1::3 mm}}, but crucially without {{c2::bleeding and pus}}."
+  },
+  {
+   "id": "perio-p102-004",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Peri-implant mucositis is characterized by {{c1::bleeding on probing}} and visual signs of inflammation; pus may also be present."
+  },
+  {
+   "id": "perio-p102-005",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Peri-implant mucositis is primarily caused by {{c1::plaque}} and is {{c2::reversible}} with measures aimed at eliminating plaque.",
+   "extra": "Limited evidence exists for non-plaque-induced peri-implant mucositis."
+  },
+  {
+   "id": "perio-p102-006",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Peri-implantitis: a plaque-associated condition with inflammation in the peri-implant mucosa AND subsequent {{c1::progressive loss of supporting bone}}."
+  },
+  {
+   "id": "perio-p102-007",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "{{c1::Mobility}} of an implant is a key indicator of peri-implantitis and implant failure."
+  },
+  {
+   "id": "perio-p102-008",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Peri-implantitis is associated with poor plaque control and a history of {{c1::severe periodontitis}}; onset may be early after placement and it progresses in a {{c2::non-linear, accelerating}} pattern."
+  },
+  {
+   "id": "perio-p102-009",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Without baseline data, peri-implantitis is diagnosed by bone loss ≥ {{c1::3}} mm AND/OR probing depths ≥ {{c2::6}} mm with bleeding and/or suppuration.",
+   "extra": "Capture baseline radiographs and probe depths after placement for monitoring."
+  },
+  {
+   "id": "perio-p102-010",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Hard and soft tissue implant-site deficiencies: diminished dimensions of the alveolar process/ridge resulting from {{c1::normal healing after tooth loss}}.",
+   "extra": "Leads to both hard (bone) and soft (gingival) tissue deficiencies."
+  },
+  {
+   "id": "perio-p102-011",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Larger ridge deficiencies can result from severe loss of periodontal support, {{c1::extraction trauma}}, endodontic infections, root fractures, {{c2::thin buccal bone plates}}, poor tooth position, injury, and {{c3::pneumatization of the maxillary sinuses}}."
+  },
+  {
+   "id": "perio-p102-012",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "text": "Other contributing factors to implant-site deficiencies: medications and systemic diseases that reduce bone, tooth {{c1::agenesis}}, and pressure from {{c2::prostheses}}."
+  },
+  {
+   "id": "perio-p102-013",
+   "deck": "Periodontology",
+   "section": "Etiology of periodontal disease",
+   "page": 102,
+   "text": "Periodontal disease is {{c1::multifactorial}}: affected by plaque, host response, and risk factors."
+  },
+  {
+   "id": "perio-p102-014",
+   "deck": "Periodontology",
+   "section": "Etiology of periodontal disease",
+   "page": 102,
+   "text": "{{c1::Plaque biofilm}} and its bacteria are the main causes of periodontal disease."
+  },
+  {
+   "id": "perio-p102-015",
+   "deck": "Periodontology",
+   "section": "Etiology of periodontal disease",
+   "page": 102,
+   "text": "Bacteria associated with periodontitis are gram-{{c1::negative}}, {{c2::motile}}, {{c3::anaerobic}}, and {{c4::rod}}-shaped."
+  },
+  {
+   "id": "perio-p102-016",
+   "deck": "Periodontology",
+   "section": "Etiology of periodontal disease",
+   "page": 102,
+   "text": "Pathogenic biofilm is a {{c1::prerequisite}} for periodontitis, but its presence alone is {{c2::insufficient}} to cause the disease.",
+   "extra": "The presence of bacteria alone is not sufficient to cause periodontal disease."
+  },
+  {
+   "id": "perio-p102-017",
+   "deck": "Periodontology",
+   "section": "Etiology of periodontal disease",
+   "page": 102,
+   "text": "The {{c1::host factor}} theory: an individual's body response to bacteria dictates disease initiation and progression."
+  },
+  {
+   "id": "perio-p103-001",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Porphyromonas gingivalis</i>: {{c1::gram-negative rod}}; role: {{c2::key pathogen in periodontitis}}; {{c3::red}} complex."
+  },
+  {
+   "id": "perio-p103-002",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Fusobacterium nucleatum</i>: {{c1::gram-negative rod}}; role: {{c2::bridge organism in plaque biofilm}}; {{c3::orange}} complex."
+  },
+  {
+   "id": "perio-p103-003",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Tannerella forsythia</i>: {{c1::gram-negative rod}}; role: {{c2::implicated in advanced periodontitis}}; {{c3::red}} complex."
+  },
+  {
+   "id": "perio-p103-004",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Treponema denticola</i>: {{c1::gram-negative spirochete}}; role: {{c2::motile anaerobe associated with necrotizing gingivitis}}; {{c3::red}} complex.",
+   "extra": "The book says 'NUG' — necrotizing gingivitis (NG) is the AAP 2017 term."
+  },
+  {
+   "id": "perio-p103-005",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Prevotella intermedia</i>: {{c1::gram-negative rod}}; role: {{c2::associated with hormonal gingivitis and periodontitis}}; {{c3::orange}} complex.",
+   "extra": "The book says 'chronic periodontitis'; AAP 2017 classification (used on the NBDHE): the old terms 'chronic' and 'aggressive' periodontitis are replaced by one category, 'periodontitis', described by stage and grade."
+  },
+  {
+   "id": "perio-p103-006",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Campylobacter rectus</i>: {{c1::gram-negative rod}}; role: {{c2::associated with 'aggressive' periodontitis (pre-2017 term)}}; {{c3::orange}} complex.",
+   "extra": "'Aggressive periodontitis' is the book's (pre-2017) term; AAP 2017 classification (used on the NBDHE): the old terms 'chronic' and 'aggressive' periodontitis are replaced by one category, 'periodontitis', described by stage and grade."
+  },
+  {
+   "id": "perio-p103-007",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Aggregatibacter actinomycetemcomitans (Aa)</i>: {{c1::gram-negative rod/coccobacillus (depending on conditions)}}; role: {{c2::linked to 'aggressive' periodontitis (pre-2017 term)}}; {{c3::green}} complex.",
+   "extra": "'Aggressive periodontitis' is the book's (pre-2017) term; AAP 2017 classification (used on the NBDHE): the old terms 'chronic' and 'aggressive' periodontitis are replaced by one category, 'periodontitis', described by stage and grade."
+  },
+  {
+   "id": "perio-p103-008",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Eikenella corrodens</i>: {{c1::gram-negative rod}}; role: {{c2::anaerobe found in subgingival plaque}}; {{c3::green}} complex."
+  },
+  {
+   "id": "perio-p103-009",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Fusobacterium periodonticum</i>: {{c1::gram-negative rod}}; role: {{c2::in biofilm, associated with gingivitis and periodontitis}}; {{c3::orange}} complex."
+  },
+  {
+   "id": "perio-p103-010",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Capnocytophaga species (C. ochracea, C. gingivalis, C. sputigena)</i>: {{c1::gram-negative rods}}; role: {{c2::involved in periodontitis (book: 'chronic')}}; {{c3::green}} complex.",
+   "extra": "AAP 2017 classification (used on the NBDHE): the old terms 'chronic' and 'aggressive' periodontitis are replaced by one category, 'periodontitis', described by stage and grade."
+  },
+  {
+   "id": "perio-p103-011",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Veillonella parvula</i>: {{c1::gram-negative cocci}}; role: {{c2::'bridging organism' in oral biofilms, aids development of periodontitis}}; {{c3::purple}} complex."
+  },
+  {
+   "id": "perio-p103-012",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Streptococcus sanguinis</i>: {{c1::gram-positive cocci}}; role: {{c2::early colonizer with a protective role in plaque biofilm}}; {{c3::yellow}} complex."
+  },
+  {
+   "id": "perio-p103-013",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Streptococcus mitis</i>: {{c1::gram-positive cocci}}; role: {{c2::initial tooth colonizer, early plaque developer}}; {{c3::yellow}} complex."
+  },
+  {
+   "id": "perio-p103-014",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Actinomyces naeslundii</i>: {{c1::gram-positive rod}}; role: {{c2::root surface colonizer, early plaque developer}}; {{c3::blue}} complex."
+  },
+  {
+   "id": "perio-p103-015",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Actinomyces viscosus</i>: {{c1::gram-positive rod}}; role: {{c2::associated with root caries; normal oral flora}}; {{c3::blue}} complex."
+  },
+  {
+   "id": "perio-p103-016",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Peptostreptococcus micros</i>: {{c1::gram-positive cocci}}; role: {{c2::associated with periodontal disease}}; {{c3::orange}} complex."
+  },
+  {
+   "id": "perio-p103-017",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Actinomyces odontolyticus</i>: {{c1::gram-positive rod}}; role: {{c2::found in dental biofilm, contributes to caries and periodontitis}}; {{c3::purple}} complex."
+  },
+  {
+   "id": "perio-p103-018",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Streptococcus constellatus</i>: {{c1::gram-positive cocci}}; role: {{c2::normal oral flora associated with periodontal disease and periodontal abscesses}}; {{c3::orange}} complex."
+  },
+  {
+   "id": "perio-p103-019",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Streptococcus oralis</i>: {{c1::gram-positive cocci}}; role: {{c2::normal oral flora of healthy plaque}}; {{c3::yellow}} complex."
+  },
+  {
+   "id": "perio-p103-020",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Actinomyces israelii</i>: {{c1::gram-positive rod}}; role: {{c2::root surface colonizer; normal oral flora}}; {{c3::blue}} complex."
+  },
+  {
+   "id": "perio-p103-021",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "text": "<i>Eubacterium nodatum</i>: {{c1::gram-positive rod}}; role: {{c2::associated with periodontitis and deep periodontal pockets}}; {{c3::orange}} complex."
+  },
+  {
+   "id": "perio-p104-001",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Local risk factor — {{c1::dental calculus}}: hardened plaque that promotes bacterial retention."
+  },
+  {
+   "id": "perio-p104-002",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Local risk factor — poorly contoured restorations: include {{c1::overhangs}} that create plaque traps and make cleaning difficult."
+  },
+  {
+   "id": "perio-p104-003",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Local risk factors: caries (irregular surfaces promote bacterial accumulation) and irregular tooth morphology such as {{c1::grooves and concavities}} that are difficult to clean."
+  },
+  {
+   "id": "perio-p104-004",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Local risk factor — {{c1::furcations}}: anatomical complexities in multi-rooted teeth that are difficult to access for hygiene."
+  },
+  {
+   "id": "perio-p104-005",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Local risk factor — impingement on the {{c1::biological width}}: restorations placed too close to the crestal bone can lead to periodontal destruction."
+  },
+  {
+   "id": "perio-p104-006",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Tobacco use is a significant risk factor: it inhibits {{c1::collagen production}}, slows healing, and can {{c2::mask inflammation}} due to impaired vascularization."
+  },
+  {
+   "id": "perio-p104-007",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Genetics (non-modifiable): some individuals are more susceptible, e.g., severe periodontitis in {{c1::Down syndrome}} patients."
+  },
+  {
+   "id": "perio-p104-008",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Elderly patients have higher periodontal disease rates due to associated factors (reduced dexterity, medications, osteoporosis), {{c1::not age itself}}."
+  },
+  {
+   "id": "perio-p104-009",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Stress is a modifiable risk factor because it impairs the {{c1::immune system}}, making it harder to fight infections."
+  },
+  {
+   "id": "perio-p104-010",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 104,
+   "text": "Obesity/poor nutrition compromise the immune system and tissue health; deficiencies in essential nutrients include {{c1::vitamin C}} and protein."
+  },
+  {
+   "id": "perio-p105-001",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "text": "Diabetes mellitus increases {{c1::glucose in gingival crevicular fluid}} (bacterial nutrition), leading to delayed healing and increased infection risk.",
+   "extra": "Modifiable via management."
+  },
+  {
+   "id": "perio-p105-002",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "text": "Cancer treatment side effects: xerostomia, {{c1::mucositis}}, infections, loss of taste, and {{c2::bone necrosis}}.",
+   "extra": "Non-modifiable (treatment)."
+  },
+  {
+   "id": "perio-p105-003",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "text": "Hormonal changes (pregnancy, oral contraceptives, menopause) increase gingival {{c1::sensitivity to local irritants}}.",
+   "extra": "Partially modifiable."
+  },
+  {
+   "id": "perio-p105-004",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "text": "Medication-induced conditions: {{c1::xerostomia}} worsens caries risk; gingival {{c2::enlargement}} is caused by anti-seizure meds, immunosuppressants, and calcium channel blockers.",
+   "extra": "Modifiable via management."
+  },
+  {
+   "id": "perio-p105-005",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "text": "Parafunctional habits — clenching, grinding ({{c1::bruxism}}), and {{c2::tongue thrusting}} — exert excessive stress on the periodontium, weakening it."
+  },
+  {
+   "id": "perio-p105-006",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "text": "Mouth breathing {{c1::dries out}} the gingival tissues, increasing susceptibility to inflammation."
+  },
+  {
+   "id": "perio-p105-007",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "text": "Occlusal trauma does NOT {{c1::initiate}} periodontitis, but it may lead to alveolar bone resorption and can {{c2::worsen pre-existing}} periodontitis.",
+   "extra": "Weak evidence that it increases connective tissue loss when plaque-induced periodontitis is present."
+  },
+  {
+   "id": "perio-p106-001",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "text": "Disease extent: {{c1::localized}} = less than 30% of sites (teeth) affected; {{c2::generalized}} = 30% or more.",
+   "extra": "The book prints 'Localized: 30% or less' and 'Generalized: 30% or more' (overlapping at 30%). AAP 2017 standard: localized <30% of teeth, generalized ≥30%."
+  },
+  {
+   "id": "perio-p106-002",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "text": "An {{c1::inactive}} disease site is stable; an {{c2::active}} disease site is currently undergoing destruction."
+  },
+  {
+   "id": "perio-p106-003",
+   "deck": "Periodontology",
+   "section": "Embrasure",
+   "page": 106,
+   "text": "Embrasure space classifications are {{c1::normal, class I, class II, class III, or class IV}}."
+  },
+  {
+   "id": "perio-p106-004",
+   "deck": "Periodontology",
+   "section": "Embrasure",
+   "page": 106,
+   "text": "Normal embrasure: the interdental papilla {{c1::fills the space}}; cleaning aid: {{c2::traditional dental floss}}."
+  },
+  {
+   "id": "perio-p106-005",
+   "deck": "Periodontology",
+   "section": "Embrasure",
+   "page": 106,
+   "text": "Class I embrasure: tip of the papilla is apical to the {{c1::contact point}}, but the interproximal CEJ is {{c2::not visible}}; cleaning aid: traditional floss."
+  },
+  {
+   "id": "perio-p106-006",
+   "deck": "Periodontology",
+   "section": "Embrasure",
+   "page": 106,
+   "text": "Class II embrasure: tip of the papilla is at or apical to the {{c1::interproximal CEJ}}, but coronal to the {{c2::facial CEJ}}.",
+   "extra": "Aids: tufted dental floss, interdental brush, wooden interdental cleaner, or toothpick."
+  },
+  {
+   "id": "perio-p106-007",
+   "deck": "Periodontology",
+   "section": "Embrasure",
+   "page": 106,
+   "text": "Class III embrasure: {{c1::complete loss of the papilla}} — the papilla is at or apical to the level of the {{c2::facial CEJ}}.",
+   "extra": "Aids: tufted dental floss, interdental brush, wooden interdental cleaner, end-tuft brush, or toothpick."
+  }
+ ],
+ "basic": [
+  {
+   "id": "perio-p101-b-01",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "front": "Key distinction: periodontitis MODIFIED by a factor (smoking, hormones, diabetes) vs periodontitis as a MANIFESTATION of systemic disease?",
+   "back": "Modifying factors: biofilm must be present. Manifestation of systemic disease: periodontitis occurs with or without biofilm.",
+   "reverse": false,
+   "extra": "Board Alert: for 'periodontitis as a manifestation of systemic disease' look for genetic immune disorders, severe early onset, unusual destruction with minimal plaque, extreme cases in pediatric patients."
+  },
+  {
+   "id": "perio-p101-b-02",
+   "deck": "Periodontology",
+   "section": "Acute periodontal lesions",
+   "page": 101,
+   "front": "Key difference between acute periodontal conditions and classic periodontal disease?",
+   "back": "Acute conditions can be intensely painful and often make the patient seek emergency care; immediate intervention is needed to prevent worsening and further damage.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "perio-p102-b-01",
+   "deck": "Periodontology",
+   "section": "Etiology of periodontal disease",
+   "page": 102,
+   "front": "Etiology",
+   "back": "The study of all factors that may be involved in the development of a disease",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p105-b-01",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "front": "Primary occlusal trauma",
+   "back": "Injury from excessive forces on a tooth with NORMAL periodontal support (e.g., a high restoration)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p105-b-02",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "front": "Secondary occlusal trauma",
+   "back": "Injury from normal or excessive forces on a tooth with REDUCED periodontal support",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p105-b-03",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 105,
+   "front": "Bulbous papilla",
+   "back": "Papilla is enlarged and bulges out of the interproximal space",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p105-b-04",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 105,
+   "front": "Blunted papilla",
+   "back": "Papilla is flat and does not fill the interproximal space",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p105-b-05",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 105,
+   "front": "Cratered papilla",
+   "back": "Papilla has a concave depression, described as \"scooped out\"",
+   "reverse": true,
+   "extra": "Also called 'punched out' (cf. necrotizing gingivitis)."
+  },
+  {
+   "id": "perio-p106-b-01",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "front": "Papillary (gingival inflammation)",
+   "back": "Only the interdental papilla is inflamed",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p106-b-02",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "front": "Marginal (gingival inflammation)",
+   "back": "Only the gingival margin is inflamed",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p106-b-03",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "front": "Diffuse (gingival inflammation)",
+   "back": "Gingival margin, papilla, and attached gingiva are inflamed",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p106-b-04",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "front": "Recurrent disease",
+   "back": "New signs of destruction reappear after periodontal therapy, caused by inadequate professional care or self-care",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p106-b-05",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "front": "Refractory disease",
+   "back": "Destruction continues despite appropriate professional care and self-care",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p106-b-06",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "front": "Disease site",
+   "back": "An area of tissue destruction",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p106-b-07",
+   "deck": "Periodontology",
+   "section": "Embrasure",
+   "page": 106,
+   "front": "Embrasure space",
+   "back": "Open space apical to the contact area; covered by the interdental papilla in health",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p106-b-08",
+   "deck": "Periodontology",
+   "section": "Embrasure",
+   "page": 106,
+   "front": "Which embrasure classes can be cleaned with traditional dental floss?",
+   "back": "Normal and Class I",
+   "reverse": false,
+   "extra": "Class II and III: tufted floss, interdental brush, wooden interdental cleaner, toothpick (Class III also end-tuft brush)."
+  }
+ ],
+ "typein": [],
+ "match": [
+  {
+   "id": "perio-p101-m-01",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "prompt": "Match each disorder to its underlying nature.",
+   "pairs": [
+    [
+     "Down syndrome",
+     "Intrinsic immune-system abnormalities"
+    ],
+    [
+     "Papillon-Lefèvre syndrome",
+     "Rare genetic disorder"
+    ],
+    [
+     "Congenital neutropenia",
+     "Severe lack of neutrophils"
+    ],
+    [
+     "Systemic lupus erythematosus",
+     "Autoimmune disease"
+    ],
+    [
+     "HIV infection",
+     "Acquired immunodeficiency"
+    ],
+    [
+     "Odontogenic tumor",
+     "Arises from tooth-forming tissues"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p105-m-01",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "prompt": "Match each drug to its class (both cause gingival enlargement).",
+   "pairs": [
+    [
+     "Phenytoin",
+     "Anti-seizure medication"
+    ],
+    [
+     "Cyclosporine",
+     "Immunosuppressant"
+    ],
+    [
+     "Nifedipine",
+     "Calcium channel blocker"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p106-m-01",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "prompt": "Match each papilla/inflammation term to its description.",
+   "pairs": [
+    [
+     "Bulbous",
+     "Enlarged, bulges out of the interproximal space"
+    ],
+    [
+     "Blunted",
+     "Flat, does not fill the interproximal space"
+    ],
+    [
+     "Cratered",
+     "Concave, 'scooped out'"
+    ],
+    [
+     "Papillary",
+     "Only the interdental papilla inflamed"
+    ],
+    [
+     "Marginal",
+     "Only the gingival margin inflamed"
+    ],
+    [
+     "Diffuse",
+     "Margin, papilla and attached gingiva inflamed"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "perio-p100-o-01",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "prompt": "Order the necrotizing periodontal diseases from least to most severe.",
+   "items": [
+    "Necrotizing gingivitis",
+    "Necrotizing periodontitis",
+    "Necrotizing stomatitis"
+   ]
+  },
+  {
+   "id": "perio-p106-o-01",
+   "deck": "Periodontology",
+   "section": "Embrasure",
+   "page": 106,
+   "prompt": "Order the embrasure classes from least to most papilla loss.",
+   "items": [
+    "Normal — papilla fills the space",
+    "Class I — papilla apical to contact, CEJ not visible",
+    "Class II — papilla at/apical to interproximal CEJ, coronal to facial CEJ",
+    "Class III — papilla at/apical to facial CEJ"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "perio-p102-s-01",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "prompt": "Sort each finding by peri-implant condition.",
+   "categories": [
+    [
+     "Peri-implant health",
+     [
+      "No bleeding on probing",
+      "Probing depth >3 mm with no bleeding or pus"
+     ]
+    ],
+    [
+     "Peri-implant mucositis",
+     [
+      "Bleeding on probing + visual inflammation",
+      "Reversible by plaque removal"
+     ]
+    ],
+    [
+     "Peri-implantitis",
+     [
+      "Progressive loss of supporting bone",
+      "Implant mobility",
+      "Bone loss ≥3 mm without baseline"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "perio-p103-s-01",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "prompt": "Sort these bacteria into their Socransky color complex.",
+   "categories": [
+    [
+     "Red",
+     [
+      "Porphyromonas gingivalis",
+      "Tannerella forsythia",
+      "Treponema denticola"
+     ]
+    ],
+    [
+     "Orange",
+     [
+      "Fusobacterium nucleatum",
+      "Prevotella intermedia",
+      "Campylobacter rectus",
+      "Fusobacterium periodonticum",
+      "Peptostreptococcus micros",
+      "Streptococcus constellatus",
+      "Eubacterium nodatum"
+     ]
+    ],
+    [
+     "Green",
+     [
+      "Aggregatibacter actinomycetemcomitans",
+      "Eikenella corrodens",
+      "Capnocytophaga spp."
+     ]
+    ],
+    [
+     "Yellow",
+     [
+      "Streptococcus sanguinis",
+      "Streptococcus mitis",
+      "Streptococcus oralis"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "perio-p105-s-01",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "prompt": "Sort these risk factors by whether they can be modified (per the book).",
+   "categories": [
+    [
+     "Modifiable",
+     [
+      "Dental calculus",
+      "Furcations",
+      "Tobacco use",
+      "Stress",
+      "Obesity/poor nutrition",
+      "Diabetes mellitus (via management)",
+      "Mouth breathing",
+      "Primary occlusal trauma"
+     ]
+    ],
+    [
+     "Non-modifiable",
+     [
+      "Genetics",
+      "Age",
+      "Cancer treatment"
+     ]
+    ],
+    [
+     "Partially modifiable",
+     [
+      "Hormonal changes"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "perio-p100-mcq-01",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "question": "A 21-year-old college student in exam week presents with painful, bleeding gums, punched-out interdental papillae covered by a grey-white pseudomembrane, and a fetid odor. Radiographs show no bone loss. What is the most likely diagnosis?",
+   "options": [
+    "A. Necrotizing periodontitis",
+    "B. Necrotizing gingivitis",
+    "C. Necrotizing stomatitis",
+    "D. Herpetic gingivostomatitis"
+   ],
+   "answer": "B. Necrotizing gingivitis",
+   "explanation": "Papillary necrosis, pain, pseudomembrane and fetid odor in a stressed young adult = necrotizing gingivitis. Necrotizing periodontitis would show (rapid) bone loss; necrotizing stomatitis spreads beyond the gingiva."
+  },
+  {
+   "id": "perio-p100-mcq-02",
+   "deck": "Periodontology",
+   "section": "Necrotizing periodontal disease",
+   "page": 100,
+   "question": "All of the following are appropriate in managing necrotizing gingivitis EXCEPT one. Which is the EXCEPTION?",
+   "options": [
+    "A. Removal of the pseudomembrane",
+    "B. Chlorhexidine rinses",
+    "C. Placement of local antibiotics",
+    "D. Limited ultrasonic debridement"
+   ],
+   "answer": "C. Placement of local antibiotics",
+   "explanation": "Local antibiotics are contraindicated in necrotizing periodontal disease; systemic antibiotics are reserved for systemic involvement or unresponsive cases. The other choices are standard treatment."
+  },
+  {
+   "id": "perio-p101-mcq-01",
+   "deck": "Periodontology",
+   "section": "Periodontitis as a manifestation of systemic disease",
+   "page": 101,
+   "question": "A 4-year-old has severe gingival inflammation, rapidly progressive alveolar bone loss and is already losing primary teeth despite little plaque. Which condition is most likely?",
+   "options": [
+    "A. Down syndrome",
+    "B. Papillon-Lefèvre syndrome",
+    "C. Necrotizing gingivitis",
+    "D. Systemic lupus erythematosus"
+   ],
+   "answer": "B. Papillon-Lefèvre syndrome",
+   "explanation": "Papillon-Lefèvre is a rare genetic disorder with severe early-onset inflammation, rapid bone loss and early loss of primary AND permanent teeth. In Down syndrome attachment loss typically begins in adolescence."
+  },
+  {
+   "id": "perio-p101-mcq-02",
+   "deck": "Periodontology",
+   "section": "Acute periodontal lesions",
+   "page": 101,
+   "question": "Which patient complaint is most typical of an ACUTE periodontal condition rather than classic chronic periodontal disease?",
+   "options": [
+    "A. Painless bleeding when brushing",
+    "B. Slowly increasing tooth mobility",
+    "C. Intense pain prompting an emergency visit",
+    "D. Gradual gingival recession"
+   ],
+   "answer": "C. Intense pain prompting an emergency visit",
+   "explanation": "Acute periodontal lesions are rapid-onset and can be intensely painful — the key difference from classic periodontal disease, which is usually painless."
+  },
+  {
+   "id": "perio-p102-mcq-01",
+   "deck": "Periodontology",
+   "section": "Peri-implant diseases",
+   "page": 102,
+   "question": "An implant placed 3 years ago bleeds and suppurates on probing; probing depth is 7 mm and the radiograph shows 4 mm of bone loss. No baseline records exist. What is the diagnosis?",
+   "options": [
+    "A. Peri-implant health",
+    "B. Peri-implant mucositis",
+    "C. Peri-implantitis",
+    "D. Hard tissue implant-site deficiency"
+   ],
+   "answer": "C. Peri-implantitis",
+   "explanation": "Without baseline data, bone loss ≥3 mm and/or PD ≥6 mm with bleeding/suppuration = peri-implantitis. Mucositis shows bleeding and inflammation without the progressive bone loss that defines peri-implantitis, and is reversible."
+  },
+  {
+   "id": "perio-p103-mcq-01",
+   "deck": "Periodontology",
+   "section": "Key bacteria in periodontal disease",
+   "page": 103,
+   "question": "Which bacterium is considered the key pathogen in periodontitis and belongs to the red complex?",
+   "options": [
+    "A. Fusobacterium nucleatum",
+    "B. Streptococcus sanguinis",
+    "C. Porphyromonas gingivalis",
+    "D. Actinomyces viscosus"
+   ],
+   "answer": "C. Porphyromonas gingivalis",
+   "explanation": "P. gingivalis (gram-negative rod, red complex) is the key pathogen. F. nucleatum is the orange-complex bridge organism; S. sanguinis and A. viscosus are early colonizers/normal flora."
+  },
+  {
+   "id": "perio-p105-mcq-01",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "question": "Which of the following periodontal risk factors is NON-modifiable?",
+   "options": [
+    "A. Tobacco use",
+    "B. Diabetes mellitus",
+    "C. Genetics",
+    "D. Poorly contoured restorations"
+   ],
+   "answer": "C. Genetics",
+   "explanation": "Genetics (e.g., Down syndrome) cannot be changed. Diabetes is modifiable via management; tobacco and overhangs can be eliminated."
+  },
+  {
+   "id": "perio-p105-mcq-02",
+   "deck": "Periodontology",
+   "section": "Risk factors for periodontal disease",
+   "page": 105,
+   "question": "A tooth with 50% bone loss from past periodontitis becomes mobile under normal chewing forces. This is best described as:",
+   "options": [
+    "A. Primary occlusal trauma",
+    "B. Secondary occlusal trauma",
+    "C. Peri-implantitis",
+    "D. Parafunctional habit"
+   ],
+   "answer": "B. Secondary occlusal trauma",
+   "explanation": "Secondary occlusal trauma = normal or excessive forces on a tooth with REDUCED support. Primary occlusal trauma involves excessive forces on a tooth with normal support (e.g., a high restoration)."
+  },
+  {
+   "id": "perio-p106-mcq-01",
+   "deck": "Periodontology",
+   "section": "Vocabulary describing the gingiva",
+   "page": 106,
+   "question": "Despite thorough scaling and root planing and excellent home care, a patient's pockets continue to deepen. This is best described as:",
+   "options": [
+    "A. Recurrent disease",
+    "B. Refractory disease",
+    "C. Inactive disease site",
+    "D. Localized disease"
+   ],
+   "answer": "B. Refractory disease",
+   "explanation": "Refractory = destruction continues despite appropriate professional care AND self-care. Recurrent = disease returns after therapy because of inadequate care."
+  },
+  {
+   "id": "perio-p106-mcq-02",
+   "deck": "Periodontology",
+   "section": "Embrasure",
+   "page": 106,
+   "question": "The tip of the interdental papilla is apical to the interproximal CEJ but coronal to the facial CEJ. Which class of embrasure, and which aid is appropriate?",
+   "options": [
+    "A. Class I — traditional floss",
+    "B. Class II — interdental brush",
+    "C. Class III — traditional floss",
+    "D. Normal — end-tuft brush"
+   ],
+   "answer": "B. Class II — interdental brush",
+   "explanation": "Class II: papilla at/apical to the interproximal CEJ but coronal to the facial CEJ; aids are tufted floss, interdental brush, wooden cleaner or toothpick. Class I still allows traditional floss but the CEJ isn't visible."
+  }
+ ]
+}

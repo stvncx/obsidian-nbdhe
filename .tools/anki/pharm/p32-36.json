@@ -1,0 +1,1505 @@
+{
+ "cloze": [
+  {
+   "id": "pharm-p32-001",
+   "deck": "Pharmacology",
+   "section": "Antihypertensives",
+   "page": 32,
+   "text": "Diuretics lower blood pressure by preventing {{c1::sodium}} reabsorption in the kidneys, especially in the {{c2::Loop of Henle}} and {{c2::distal tubule}}.",
+   "extra": "Water follows sodium — more sodium out means more water out."
+  },
+  {
+   "id": "pharm-p32-002",
+   "deck": "Pharmacology",
+   "section": "Antihypertensives",
+   "page": 32,
+   "text": "Bradykinin is a natural chemical that causes blood vessels to {{c1::dilate}}; when it builds up (as with ACE inhibitors) it can trigger coughing and, rarely, swelling called {{c2::angioedema}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-003",
+   "deck": "Pharmacology",
+   "section": "Antihypertensives",
+   "page": 32,
+   "text": "{{c1::Calcium channel blockers}} can cause gingival hyperplasia, especially {{c2::nifedipine}}; the overgrowth is not caused by plaque but {{c3::worsens with poor oral hygiene}}.",
+   "extra": "They alter how cells in the gingiva grow."
+  },
+  {
+   "id": "pharm-p32-004",
+   "deck": "Pharmacology",
+   "section": "Antihypertensives",
+   "page": 32,
+   "text": "Beta blockers are no longer considered {{c1::first-line}} for basic hypertension, but remain essential when the patient also has previous MI, angina, {{c2::arrhythmias}} or anxiety.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-005",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Anti-anginal agents treat {{c1::angina pectoris}} — chest pain due to {{c2::reduced oxygen to the heart muscle}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-006",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Anti-anginal agents work by {{c1::dilating blood vessels}} (especially the coronary arteries) to improve oxygen supply and reduce heart workload.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-007",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Anti-anginal generic drugs: {{c1::nitroglycerin}}, isosorbide dinitrate and isosorbide mononitrate; brand names include {{c2::Nitrostat}} and Nitro-Dur.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-008",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Heart failure agents treat {{c1::congestive heart failure}} (weakened pumping, fluid overload).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-009",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Heart failure agents: {{c1::digoxin}} increases the force of heart contractions; {{c2::spironolactone}} blocks aldosterone, reducing fluid retention.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-010",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Brand names of heart failure agents: {{c1::Lanoxin}} = digoxin; {{c2::Aldactone}} = spironolactone.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-011",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Anti-arrhythmia agents treat irregular heart rhythms such as {{c1::atrial fibrillation}}, tachycardia ({{c2::fast}}) and bradycardia ({{c3::slow}}).",
+   "extra": "WakeUpMemory: Tachycardia (fast) → think \"taxi is fast\". Bradycardia (slow) → braiding hair is a slow process!"
+  },
+  {
+   "id": "pharm-p32-012",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Anti-arrhythmia agents' mechanism varies by class: they block {{c1::sodium, potassium or calcium}} channels, or block {{c2::sympathetic input}} (beta blockers).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-013",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Anti-arrhythmia generic drugs include disopyramide, quinidine, mexiletine, atenolol, {{c1::metoprolol}}, {{c2::amiodarone}}, diltiazem, verapamil and {{c3::lidocaine}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-014",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Anti-arrhythmia brand names: {{c1::Lopressor}} (metoprolol), {{c2::Cardizem}} (diltiazem), {{c3::Isoptin}} (verapamil), {{c4::Xylocaine}} (lidocaine).",
+   "extra": "The book also lists Rhythmodan (disopyramide), Inderal and Multaq. Note: Inderal is propranolol and Multaq is dronedarone — neither is in the book's generic list."
+  },
+  {
+   "id": "pharm-p32-015",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Anticoagulants/antiplatelets are used for {{c1::prevention of clots}} (stroke, MI, valve replacement, stents).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-016",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "{{c1::Warfarin}} inhibits {{c2::vitamin K}}-dependent clotting factors; aspirin and clopidogrel inhibit {{c3::platelets}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-017",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Anticoagulant/antiplatelet brand names: {{c1::Coumadin}} (warfarin), Bayer Aspirin, {{c2::Plavix}} (clopidogrel).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-018",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Antihyperlipidemic agents (statins) treat {{c1::high cholesterol}} (especially {{c2::LDL}}) and prevent {{c3::atherosclerosis}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-019",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "text": "Statins inhibit the {{c1::HMG-CoA reductase}} enzyme to reduce {{c2::liver}} cholesterol production.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-001",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Side effects of anti-anginal agents: headache, flushing, dizziness and {{c1::hypotension}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-002",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Side effects of heart failure agents: increased salivation and gag reflex ({{c1::digoxin}}); {{c2::hyperkalemia}} (spironolactone).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-003",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Side effects of anti-arrhythmia agents: {{c1::bradycardia}}, AV block, dizziness, and possible {{c2::gingival hyperplasia}} (with calcium channel blockers).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-004",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Side effects of anticoagulants/antiplatelets: excessive {{c1::bleeding}}, bruising, hemorrhage.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-005",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Side effects of statins: muscle pain ({{c1::myalgia}}), {{c2::liver enzyme}} elevation, possible GI upset.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-006",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Dental relevance of anti-anginal agents: raise the chair {{c1::slowly}} (risk of hypotension); nitroglycerin is provided {{c2::sublingually}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-007",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Dental relevance of heart failure agents: avoid {{c1::high-dose epinephrine}} because {{c2::digoxin}} increases risk of arrhythmia; watch for excessive gag reflex.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-008",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Dental relevance of anti-arrhythmia agents: monitor vitals; avoid high epinephrine with {{c1::beta blockers}}; confirm {{c2::pacemaker}} presence if applicable.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-009",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Dental relevance of warfarin: ensure INR ≤ {{c1::3}} before invasive treatment; avoid {{c2::NSAIDs}} and use {{c3::acetaminophen}} for pain.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-010",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Statins have {{c1::no direct oral effects}}, but the patient should report {{c2::muscle pain}} if present.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-011",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Nitrates: {{c1::tolerance}} develops with regular use; do not mix with {{c2::erectile dysfunction}} meds.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-012",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Besides heart failure, spironolactone is also used to treat {{c1::liver}}-related fluid retention.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-013",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "The anti-arrhythmic drug class is selected based on arrhythmia type (e.g., {{c1::atrial vs. ventricular}}); it may be used short- or long-term.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-014",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "{{c1::Baby aspirin (81 mg)}} is often used for clot prevention and is usually safe for dental patients.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-015",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Statins reduce cardiovascular events by lowering LDL and {{c1::stabilizing arterial plaques}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-016",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Cardiovascular drugs support the heart and blood vessels by improving circulation, heart function, oxygen delivery, {{c1::rhythm control}} and blood flow.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-017",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Cardiovascular drugs differ from antihypertensives: they treat chest pain, heart failure, arrhythmias, clot risk and high cholesterol, while antihypertensives are used specifically to {{c1::lower blood pressure}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-018",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "text": "Some drugs — like {{c1::beta blockers}} and {{c1::calcium channel blockers}} — are used in both cardiovascular therapy and antihypertensive treatment.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-019",
+   "deck": "Pharmacology",
+   "section": "Measuring blood clotting time",
+   "page": 33,
+   "text": "{{c1::Prothrombin time (PT)}} measures how long it takes blood to clot and is used to monitor {{c2::warfarin}} (Coumadin).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-020",
+   "deck": "Pharmacology",
+   "section": "Measuring blood clotting time",
+   "page": 33,
+   "text": "{{c1::Partial thromboplastin time (PTT)}} is another test of clotting ability; normal range {{c2::25–35}} seconds.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-021",
+   "deck": "Pharmacology",
+   "section": "Measuring blood clotting time",
+   "page": 33,
+   "text": "The {{c1::INR (International Normalized Ratio)}} compares the patient's clotting time to normal; an INR of about {{c2::1.0}} is normal for healthy people.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-022",
+   "deck": "Pharmacology",
+   "section": "Measuring blood clotting time",
+   "page": 33,
+   "text": "INR > {{c1::3.0}} = consult the physician before invasive procedures; INR ≥ {{c2::3.5}} = high risk of prolonged bleeding.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-023",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 33,
+   "text": "NSAIDs treat pain, {{c1::inflammation}} and fever (e.g., post-op dental swelling, arthritis, injury).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-024",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 33,
+   "text": "Acetaminophen (Tylenol) treats pain and fever — but {{c1::not inflammation}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-025",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 33,
+   "text": "Opioids treat {{c1::moderate to severe}} pain and provide sedation (e.g., surgery, extraction, trauma).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-026",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 33,
+   "text": "NSAIDs work by blocking the enzymes {{c1::COX-1}} and {{c1::COX-2}}, which trigger swelling and pain.",
+   "extra": "WakeUpMemory: \"NSAIDs = No Sticky AID for clots\" → they stop platelets from sticking, so NSAIDs inhibit clotting and increase bleeding risk."
+  },
+  {
+   "id": "pharm-p33-027",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 33,
+   "text": "Acetaminophen works in the {{c1::brain}} to reduce pain and lower body temperature.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-028",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 33,
+   "text": "Opioids bind to pain receptors in the brain and spinal cord ({{c1::mu}}, kappa, delta) to block pain; they are {{c2::depressants}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-001",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Opioid-group drugs listed include codeine, morphine, oxycodone, hydrocodone, fentanyl, methadone and the opioid reversal agent {{c1::naloxone}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-002",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "NSAID brand names: {{c1::Advil}} and {{c1::Motrin}} = ibuprofen; {{c2::Aleve}} = naproxen; Bayer = aspirin.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-003",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Side effects of NSAIDs: stomach upset, {{c1::ulcers}}, kidney issues, {{c2::bleeding risk}} (especially aspirin long-term).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-004",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Acetaminophen can cause {{c1::liver damage}} if too much is taken or it is mixed with {{c2::alcohol}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-005",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Opioid side effects: drowsiness, {{c1::constipation}}, pinpoint pupils ({{c2::miosis}}), addiction, slowed breathing.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-006",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Do NOT use NSAIDs if the patient has {{c1::ulcers}}, kidney problems, or is taking {{c2::blood thinners}} (e.g., warfarin).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-007",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Do NOT use acetaminophen if the patient has {{c1::liver disease}} or drinks alcohol regularly.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-008",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Do NOT use opioids if the patient has {{c1::breathing problems}}, an addiction history, or is already overly sedated.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-009",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Dental relevance of NSAIDs: avoid in {{c1::bleeding-risk}} patients; they help reduce swelling and pain after procedures.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-010",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "{{c1::Acetaminophen}} is the preferred pain reliever for patients with ulcers, kidney issues, or on warfarin.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-011",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "{{c1::Codeine}} is the opioid common in dentistry; watch for sedation or abuse risk.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-012",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "NSAIDs work best when taken {{c1::before pain worsens}}; do not mix multiple NSAIDs.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-013",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Acetaminophen is included in many combo meds — {{c1::double dosing}} risk; stick to a maximum of {{c2::3000–4000 mg/day}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-014",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "{{c1::Naloxone (Narcan)}} reverses opioid overdose; overdose signs = coma, {{c2::slowed breathing}}, {{c3::pinpoint pupils}}.",
+   "extra": "Did you know? In 2022 there were over 109,000 drug overdose deaths in the US, ~75% involving opioids (CDC)."
+  },
+  {
+   "id": "pharm-p34-015",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "NSAIDs block {{c1::COX-1}} (found all over the body — especially stomach, kidneys and platelets) and {{c2::COX-2}} (found mainly in injured or inflamed tissues).",
+   "extra": "This is why NSAIDs help inflammation but can upset the stomach or hurt the kidneys if overused."
+  },
+  {
+   "id": "pharm-p34-016",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "NSAIDs are first-line treatment for {{c1::osteoarthritis}} and {{c1::rheumatoid arthritis}} because they reduce joint inflammation.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-017",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Of the NSAIDs, {{c1::aspirin}} especially interferes with clotting because it blocks the action of {{c2::platelets}}.",
+   "extra": "NSAIDs are therefore contraindicated with warfarin (Coumadin); acetaminophen is the safer alternative."
+  },
+  {
+   "id": "pharm-p34-018",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Tylenol #3 (acetaminophen + codeine) gives more relief than acetaminophen alone and is common after {{c1::extractions}} or surgery; the codeine adds {{c2::sedation}} and constipation risk.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-019",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Narcan kicks opioids off the brain's receptors and works within {{c1::minutes}}; in emergencies EMS or trained staff use it to reverse coma and slow breathing.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-020",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Oxycodone is a {{c1::semi-synthetic}} opioid — chemically modified from natural opiates to enhance pain relief.",
+   "extra": "Oxycodone combos (Percocet, Percodan) give stronger relief after dental surgery or severe pain but carry risks of sedation, constipation and addiction."
+  },
+  {
+   "id": "pharm-p34-021",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "text": "Opiate drugs come from the {{c1::opium poppy}} (Papaver somniferum).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-022",
+   "deck": "Pharmacology",
+   "section": "Nitrous oxide",
+   "page": 34,
+   "text": "Nitrous oxide is used to alleviate {{c1::anxiety}}; it can also relax {{c2::skeletal muscles}}, as in a patient with cerebral palsy.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-023",
+   "deck": "Pharmacology",
+   "section": "Nitrous oxide",
+   "page": 34,
+   "text": "Nitrous oxide provides stage {{c1::1}} anesthesia; the patient can {{c2::hear and respond}} to requests from the dentist.",
+   "extra": "Stage 1 is the lowest, stage 4 the highest level of anesthesia."
+  },
+  {
+   "id": "pharm-p34-024",
+   "deck": "Pharmacology",
+   "section": "Nitrous oxide",
+   "page": 34,
+   "text": "Nitrous oxide undergoes {{c1::no biotransformation}} in the body; it is excreted through {{c2::exhalation}} and wears off soon after the mask is removed.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-001",
+   "deck": "Pharmacology",
+   "section": "Nitrous oxide",
+   "page": 35,
+   "text": "Once nitrous oxide flow is terminated, 100% oxygen should be delivered for {{c1::5}} minutes.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-002",
+   "deck": "Pharmacology",
+   "section": "Nitrous oxide",
+   "page": 35,
+   "text": "Nitrous oxide is contraindicated with respiratory issues such as {{c1::COPD}} or airway congestion, {{c2::pregnancy}}, cystic fibrosis, infections, depression, and history of {{c3::substance abuse}}.",
+   "extra": "Obstructions reduce the amount of gas reaching the lungs and brain."
+  },
+  {
+   "id": "pharm-p35-003",
+   "deck": "Pharmacology",
+   "section": "Nitrous oxide",
+   "page": 35,
+   "text": "Gas tank colors: nitrous oxide = {{c1::blue}}; oxygen = {{c2::green}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-004",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Amoxicillin belongs to the {{c1::penicillin}} class and is {{c2::bactericidal}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-005",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Amoxicillin brand names: {{c1::Amoxil}}, Trimox.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-006",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Amoxicillin is the {{c1::first-line}} antibiotic for premedication.",
+   "extra": "Dental hygiene tip: confirm penicillin allergy first. AHA 2021 (exam standard) prophylaxis: amoxicillin 2 g adult / 50 mg/kg child, single oral dose 30–60 min before the procedure."
+  },
+  {
+   "id": "pharm-p35-007",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Common dental uses of amoxicillin: premedication, {{c1::abscess}}, cellulitis; it covers {{c2::gram-positive}} and some gram-negative bacteria.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-008",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Prophylactic amoxicillin dose: {{c1::2 g}} for adults, {{c2::50 mg/kg}} for children, before the appointment.",
+   "extra": "Book: \"1 hr before appt\"; AHA 2021 (exam standard): single dose 30–60 minutes before the procedure."
+  },
+  {
+   "id": "pharm-p35-009",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Amoxicillin treatment dosing for adults: 500 mg every {{c1::8}} hours (q8h).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-010",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Amoxicillin strengths: {{c1::broad-spectrum}}, well absorbed. Side effects: GI upset, rash, {{c2::cross-allergy}}. Pregnancy: {{c3::safe}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-011",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Azithromycin is a {{c1::macrolide}} and is {{c2::bacteriostatic}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-012",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Azithromycin brand names: {{c1::Zithromax}}, {{c1::Z-Pak}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-013",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Azithromycin is used for premedication in patients with {{c1::penicillin allergy}}; it targets {{c2::intracellular}} bacteria.",
+   "extra": "AHA 2021 (exam standard) prophylaxis dose: 500 mg adult / 15 mg/kg child, single dose 30–60 min before. The book's tip \"use if clindamycin not tolerated\" is outdated — clindamycin is no longer recommended for prophylaxis (AHA 2021)."
+  },
+  {
+   "id": "pharm-p35-014",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Azithromycin treatment dosing: adults {{c1::500 mg day 1, then 250 mg × 4}} days; children 10 mg/kg day 1, then 5 mg/kg.",
+   "extra": "This is the treatment (Z-Pak) course, not the prophylaxis dose."
+  },
+  {
+   "id": "pharm-p35-015",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Azithromycin strength: {{c1::long half-life}}, convenient. Side effects: GI upset, {{c2::metallic taste}} (rare). Pregnancy: use with caution.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-016",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Penicillin VK is a {{c1::natural penicillin}} (β-lactam), bactericidal, brand Pen-VK; it is {{c2::not}} used for premedication.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-017",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Penicillin VK is used for {{c1::mild/moderate oral infections}} and covers mostly {{c2::gram-positive}} bacteria.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-018",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Penicillin VK dosing: adults 500 mg {{c1::q6h}} for 7–10 days; children 25–50 mg/kg/day divided.",
+   "extra": "Effective but frequent dosing. Side effects: GI upset, rash, allergy. Pregnancy: safe."
+  },
+  {
+   "id": "pharm-p35-019",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Metronidazole is a {{c1::nitroimidazole}}, bactericidal; brand name {{c2::Flagyl}}; not used for premedication.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-020",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Metronidazole targets {{c1::anaerobic}} periodontal pathogens only (e.g., {{c2::P. gingivalis}}).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-021",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Metronidazole is very effective combined with {{c1::amoxicillin}}.",
+   "extra": "Dosing: adults 250–500 mg q8–12h × 7–10 days; children: use with caution."
+  },
+  {
+   "id": "pharm-p35-022",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Metronidazole side effects: {{c1::metallic taste}}, black hairy tongue, and a reaction with {{c2::alcohol}}.",
+   "extra": "Do not combine with alcohol. Pregnancy: avoid in the 1st trimester."
+  },
+  {
+   "id": "pharm-p35-023",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Cephalexin is a {{c1::cephalosporin}} (β-lactam), bactericidal; brand name {{c2::Keflex}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p35-024",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Cephalexin may be used for premedication only if the patient has {{c1::no history of anaphylaxis}} to penicillin, because it is structurally like penicillin ({{c2::cross-reactivity}}).",
+   "extra": "Book: \"yes — joint replacements if not anaphylactic\". AHA 2021 (exam standard): cephalexin 2 g adult / 50 mg/kg child is an option for penicillin-allergic patients with NO history of anaphylaxis, angioedema or urticaria."
+  },
+  {
+   "id": "pharm-p35-025",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "text": "Cephalexin covers {{c1::gram-positive cocci}}; dental uses: premed for prosthetic joints, mild infections.",
+   "extra": "Dosing per the book: 2 g 1 hr before appt (child 50 mg/kg); treatment 500 mg q6h. Side effects: GI upset, rash, cross-reactivity with penicillins. Pregnancy: safe."
+  },
+  {
+   "id": "pharm-p36-001",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 36,
+   "text": "Side effects of anti-bacterial drugs include {{c1::superinfection}} and GI upset; e.g., {{c2::candidiasis}} (fungal) may follow antibiotic use.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-002",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 36,
+   "text": "{{c1::NSPT}} is the \"gold\" standard for reducing inflammation and gaining clinical attachment; antimicrobials are {{c2::adjunct}} therapy.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-003",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 36,
+   "text": "{{c1::Azithromycin}} is the main macrolide studied in dentistry as second-line premedication for penicillin-allergic patients; erythromycin and clarithromycin are less emphasized.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-004",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Systemic doxycycline brand names: {{c1::Vibramycin}}, Doryx.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-005",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Systemic doxycycline: oral capsule/tablet, {{c1::100 mg BID}}, daily dosing.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-006",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "{{c1::Arestin}} = minocycline {{c2::1 mg microspheres}}, placed by syringe into pockets ≥ 5 mm (1 mg per pocket).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-007",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Arestin (minocycline) gives sustained release for up to {{c1::14}} days; the patient should not brush/floss the site for {{c2::7–10}} days.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-008",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "{{c1::Atridox}} = {{c2::10% doxycycline hyclate gel}}, injected via cannula into pockets ≥ 5 mm (one dose per pocket, blunt-end syringe).",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-009",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Atridox gives sustained release for {{c1::7}} days; avoid disturbing the area for 7 days.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-010",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "{{c1::Periostat}} is a low-dose doxycycline oral capsule — systemic, {{c2::subantimicrobial}} dosing.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-011",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Periostat dosing: {{c1::20 mg}} twice daily, long-term use up to {{c2::9}} months.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-012",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Tetracyclines are {{c1::bacteriostatic}} and are used in dentistry to treat {{c2::periodontitis}}.",
+   "extra": "They also cause photosensitivity — patients sunburn more easily."
+  },
+  {
+   "id": "pharm-p36-013",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Tetracycline tooth discoloration occurs when taken during permanent-teeth development — from the {{c1::second trimester}} of pregnancy up to about age {{c2::8 or 9}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-014",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Tetracycline deposits in the dentin and enamel cause permanent yellow, brown or grey discoloration that may {{c1::fluoresce}} under {{c2::UV light}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-015",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Tetracyclines cross the {{c1::placenta}} and interfere with fetal tooth and bone development, so they are contraindicated in pregnancy and {{c2::breastfeeding}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-016",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "text": "Patients taking tetracyclines may experience {{c1::photosensitivity}} — more likely to sunburn.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-017",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 36,
+   "text": "Chlorhexidine rinse is {{c1::0.12%}}, swished for {{c2::30 seconds}} twice daily.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-018",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 36,
+   "text": "Chlorhexidine rinse: duration of effect is {{c1::immediate and short-lived}} (rinse & spit); indications include post-SRP rinse, mucositis and {{c2::peri-implantitis}}.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-019",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 36,
+   "text": "Chlorhexidine rinse side effects: {{c1::staining}} of teeth and tongue, and {{c2::bitter or metallic}} taste alteration.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-020",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 36,
+   "text": "PerioChip is a {{c1::2.5 mg}} chlorhexidine gelatin chip inserted into pockets, with sustained release up to {{c2::10}} days.",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-021",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 36,
+   "text": "PerioChip indications: {{c1::localized periodontitis}}, post-SRP adjunct; it causes {{c2::no}} staining or taste alteration.",
+   "extra": "Dental tip: avoid disturbing the area for 7 days."
+  },
+  {
+   "id": "pharm-p36-022",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 36,
+   "text": "Chlorhexidine is a broad-spectrum {{c1::antiseptic}}, not an antibiotic; it works by disrupting bacterial {{c2::cell membranes}}, causing leakage and cell death.",
+   "extra": ""
+  }
+ ],
+ "basic": [
+  {
+   "id": "pharm-p32-b-01",
+   "deck": "Pharmacology",
+   "section": "Antihypertensives",
+   "page": 32,
+   "front": "Why can ACE inhibitors cause a dry, persistent cough?",
+   "back": "They block the enzyme that breaks down bradykinin, so bradykinin builds up and irritates the lungs.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p32-b-02",
+   "deck": "Pharmacology",
+   "section": "Antihypertensives",
+   "page": 32,
+   "front": "Why are ARBs often used when a patient can't tolerate an ACE inhibitor?",
+   "back": "ARBs do not increase bradykinin, so they lower blood pressure like ACE inhibitors but without causing a cough.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-b-01",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "front": "Why is acetaminophen NOT anti-inflammatory?",
+   "back": "It doesn't block COX-2 in the body like NSAIDs do; it mainly works in the brain, so it lowers pain and fever but doesn't help swelling/inflammation.",
+   "reverse": false,
+   "extra": "WakeUpMemory: acetamiNOphen → NO use for inflammation, NO effect on coagulation."
+  },
+  {
+   "id": "pharm-p35-b-01",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "front": "Why is clindamycin no longer recommended for antibiotic premedication (ADA/AHA)?",
+   "back": "High risk of C. difficile colitis, increased mortality compared with amoxicillin, and limited benefit in preventing infective endocarditis.",
+   "reverse": false,
+   "extra": "Matches AHA 2021 (exam standard)."
+  },
+  {
+   "id": "pharm-p36-b-01",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 36,
+   "front": "Bactericidal",
+   "back": "Kills bacteria",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"-cillin\" and \"-ceph-\" = Kill (cidal)."
+  },
+  {
+   "id": "pharm-p36-b-02",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 36,
+   "front": "Bacteriostatic",
+   "back": "Inhibits bacterial growth",
+   "reverse": true,
+   "extra": "WakeUpMemory: \"cycline\", \"mycin\", \"sulfa\" = Slow (static)."
+  },
+  {
+   "id": "pharm-p36-b-03",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 36,
+   "front": "Superinfection",
+   "back": "A secondary infection superimposed on an earlier one, especially by a different microbe resistant to the treatment used against the first infection",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-b-04",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "front": "Which mineral can reduce absorption of systemic doxycycline?",
+   "back": "Calcium",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "pharm-p33-t-01",
+   "deck": "Pharmacology",
+   "section": "Measuring blood clotting time",
+   "page": 33,
+   "question": "Normal prothrombin time (PT) range, in seconds?",
+   "answer": "11–13.5",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p33-t-02",
+   "deck": "Pharmacology",
+   "section": "Measuring blood clotting time",
+   "page": 33,
+   "question": "Typical target INR range for patients on warfarin?",
+   "answer": "2.0–3.0",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p34-t-01",
+   "deck": "Pharmacology",
+   "section": "Nitrous oxide",
+   "page": 34,
+   "question": "Nitrous oxide sedation: the concentration of N₂O should not routinely exceed what percent?",
+   "answer": "50%",
+   "extra": ""
+  },
+  {
+   "id": "pharm-p36-t-01",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "question": "Local antimicrobials (Arestin, Atridox, PerioChip) are placed into pockets of at least how many mm?",
+   "answer": "5 mm",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "pharm-p32-m-01",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "prompt": "Match each statin brand to its generic.",
+   "pairs": [
+    [
+     "Lipitor",
+     "Atorvastatin"
+    ],
+    [
+     "Zocor",
+     "Simvastatin"
+    ],
+    [
+     "Crestor",
+     "Rosuvastatin"
+    ],
+    [
+     "Mevacor",
+     "Lovastatin"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p32-m-02",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "prompt": "Match each cardiovascular drug class to how it works.",
+   "pairs": [
+    [
+     "Anti-anginal agents",
+     "Dilate blood vessels (esp. coronary arteries)"
+    ],
+    [
+     "Digoxin",
+     "Increases force of heart contractions"
+    ],
+    [
+     "Spironolactone",
+     "Blocks aldosterone"
+    ],
+    [
+     "Warfarin",
+     "Inhibits vitamin K–dependent clotting factors"
+    ],
+    [
+     "Statins",
+     "Inhibit HMG-CoA reductase"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p33-m-01",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "prompt": "Match each cardiovascular drug group to its key dental precaution.",
+   "pairs": [
+    [
+     "Anti-anginal (nitrates)",
+     "Raise chair slowly — hypotension"
+    ],
+    [
+     "Digoxin",
+     "Avoid high-dose epinephrine; watch gag reflex"
+    ],
+    [
+     "Beta blockers (anti-arrhythmia)",
+     "Avoid high epinephrine; confirm pacemaker"
+    ],
+    [
+     "Warfarin",
+     "Check INR ≤ 3; avoid NSAIDs"
+    ],
+    [
+     "Statins",
+     "Report muscle pain"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p34-m-01",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "prompt": "Match each combination/brand product to its contents.",
+   "pairs": [
+    [
+     "Tylenol #3",
+     "Acetaminophen + codeine"
+    ],
+    [
+     "Percocet",
+     "Acetaminophen + oxycodone"
+    ],
+    [
+     "Percodan",
+     "Aspirin + oxycodone"
+    ],
+    [
+     "Norco",
+     "Hydrocodone + acetaminophen"
+    ],
+    [
+     "Narcan",
+     "Naloxone"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p35-m-01",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "prompt": "Match each antibiotic to its main dental role.",
+   "pairs": [
+    [
+     "Amoxicillin",
+     "First-line premedication"
+    ],
+    [
+     "Penicillin VK",
+     "Mild/moderate oral infections"
+    ],
+    [
+     "Metronidazole",
+     "Anaerobic perio pathogens"
+    ],
+    [
+     "Cephalexin",
+     "Premed if allergy not anaphylactic"
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p36-m-01",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "prompt": "Match each periodontal product to its form.",
+   "pairs": [
+    [
+     "Arestin",
+     "Minocycline 1 mg microspheres"
+    ],
+    [
+     "Atridox",
+     "10% doxycycline gel"
+    ],
+    [
+     "PerioChip",
+     "2.5 mg chlorhexidine gelatin chip"
+    ],
+    [
+     "Vibramycin",
+     "100 mg doxycycline, oral"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "pharm-p34-o-01",
+   "deck": "Pharmacology",
+   "section": "Nitrous oxide",
+   "page": 34,
+   "prompt": "Put the nitrous oxide administration steps in order.",
+   "items": [
+    "100% oxygen for 1–2 minutes",
+    "Titrate nitrous oxide in intervals",
+    "Maintain N₂O at ≤ 50%",
+    "Terminate nitrous oxide flow",
+    "100% oxygen for 5 minutes"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "pharm-p32-s-01",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 32,
+   "prompt": "Sort these drugs by cardiovascular class.",
+   "categories": [
+    [
+     "Anti-anginal",
+     [
+      "Nitroglycerin",
+      "Isosorbide dinitrate",
+      "Isosorbide mononitrate"
+     ]
+    ],
+    [
+     "Heart failure",
+     [
+      "Digoxin",
+      "Spironolactone"
+     ]
+    ],
+    [
+     "Anticoagulant / antiplatelet",
+     [
+      "Warfarin",
+      "Aspirin",
+      "Clopidogrel"
+     ]
+    ],
+    [
+     "Statin",
+     [
+      "Atorvastatin",
+      "Simvastatin",
+      "Rosuvastatin",
+      "Lovastatin"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p34-s-01",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "prompt": "Sort these analgesics by class.",
+   "categories": [
+    [
+     "NSAID (anti-inflammatory)",
+     [
+      "Ibuprofen",
+      "Naproxen",
+      "Aspirin",
+      "Ketorolac",
+      "Diclofenac"
+     ]
+    ],
+    [
+     "Acetaminophen (not anti-inflammatory)",
+     [
+      "Acetaminophen"
+     ]
+    ],
+    [
+     "Opioid (not anti-inflammatory)",
+     [
+      "Codeine",
+      "Morphine",
+      "Oxycodone",
+      "Hydrocodone",
+      "Fentanyl",
+      "Methadone"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "pharm-p35-s-01",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "prompt": "Sort by action: bactericidal or bacteriostatic?",
+   "categories": [
+    [
+     "Bactericidal (kill)",
+     [
+      "Amoxicillin",
+      "Penicillin VK",
+      "Metronidazole",
+      "Cephalexin"
+     ]
+    ],
+    [
+     "Bacteriostatic (slow)",
+     [
+      "Azithromycin",
+      "Doxycycline",
+      "Minocycline"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "pharm-p33-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "question": "A patient taking digoxin for congestive heart failure presents for scaling. Which precaution is most important?",
+   "options": [
+    "A. Raise the chair slowly to prevent hypotension",
+    "B. Avoid high-dose epinephrine in local anesthetic",
+    "C. Check INR before treatment",
+    "D. Avoid acetaminophen for post-op pain"
+   ],
+   "answer": "B. Avoid high-dose epinephrine in local anesthetic",
+   "explanation": "Digoxin increases the risk of arrhythmia, so high-dose epinephrine is avoided (also watch for an excessive gag reflex). Raising the chair slowly is the precaution for anti-anginal agents (hypotension); INR applies to warfarin."
+  },
+  {
+   "id": "pharm-p33-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Cardiovascular pharmacology",
+   "page": 33,
+   "question": "Which side effect is associated with spironolactone?",
+   "options": [
+    "A. Hyperkalemia",
+    "B. Gingival hyperplasia",
+    "C. Myalgia",
+    "D. Increased gag reflex"
+   ],
+   "answer": "A. Hyperkalemia",
+   "explanation": "Spironolactone (Aldactone) can cause hyperkalemia. Increased salivation/gag reflex is digoxin; gingival hyperplasia is calcium channel blockers; myalgia is statins."
+  },
+  {
+   "id": "pharm-p33-mcq-03",
+   "deck": "Pharmacology",
+   "section": "Measuring blood clotting time",
+   "page": 33,
+   "question": "A patient on warfarin reports an INR of 3.4 this morning. Periodontal debridement is planned. What is the best action?",
+   "options": [
+    "A. Proceed; this is the normal therapeutic target",
+    "B. Proceed, but prescribe an NSAID for post-op pain",
+    "C. Consult the physician before the invasive procedure",
+    "D. Order a PTT, since INR does not apply to warfarin"
+   ],
+   "answer": "C. Consult the physician before the invasive procedure",
+   "explanation": "INR 2.0–3.0 is the usual warfarin target; INR > 3.0 = consult the physician before invasive treatment (≥ 3.5 = high risk of prolonged bleeding). NSAIDs are avoided with warfarin; PT/INR (not PTT) monitors warfarin."
+  },
+  {
+   "id": "pharm-p34-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "question": "A patient taking warfarin needs an analgesic after an extraction. Which is the best choice?",
+   "options": [
+    "A. Ibuprofen",
+    "B. Naproxen",
+    "C. Acetaminophen",
+    "D. Aspirin"
+   ],
+   "answer": "C. Acetaminophen",
+   "explanation": "Acetaminophen has no anti-platelet effect and is preferred for patients on warfarin, with ulcers or kidney issues. Ibuprofen, naproxen and aspirin are NSAIDs that increase bleeding risk."
+  },
+  {
+   "id": "pharm-p34-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Pain management pharmacology",
+   "page": 34,
+   "question": "A patient who took an opioid is unresponsive with slowed breathing. Which pupil finding and drug are expected?",
+   "options": [
+    "A. Dilated pupils; naloxone",
+    "B. Pinpoint pupils; naloxone",
+    "C. Pinpoint pupils; flumazenil",
+    "D. Dilated pupils; epinephrine"
+   ],
+   "answer": "B. Pinpoint pupils; naloxone",
+   "explanation": "Opioid overdose = coma, slowed breathing, pinpoint pupils (miosis); naloxone (Narcan) reverses it."
+  },
+  {
+   "id": "pharm-p35-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Nitrous oxide",
+   "page": 35,
+   "question": "For which patient is nitrous oxide–oxygen sedation contraindicated?",
+   "options": [
+    "A. An anxious adult with controlled hypertension",
+    "B. A patient with cerebral palsy",
+    "C. A patient with COPD",
+    "D. A child with dental fear"
+   ],
+   "answer": "C. A patient with COPD",
+   "explanation": "COPD/airway obstruction reduces the gas reaching the lungs and brain. N₂O can actually help relax skeletal muscles in cerebral palsy and is used for anxiety."
+  },
+  {
+   "id": "pharm-p35-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "question": "A patient with a prosthetic heart valve reports anaphylaxis to penicillin. According to AHA 2021, which premedication is appropriate?",
+   "options": [
+    "A. Clindamycin 600 mg",
+    "B. Cephalexin 2 g",
+    "C. Azithromycin 500 mg",
+    "D. Amoxicillin 2 g"
+   ],
+   "answer": "C. Azithromycin 500 mg",
+   "explanation": "With penicillin anaphylaxis, cephalexin is avoided (cross-reactivity) and amoxicillin is contraindicated. Clindamycin was removed from the AHA 2021 guideline (C. difficile risk). Azithromycin 500 mg 30–60 min before is appropriate (doxycycline 100 mg is the other option)."
+  },
+  {
+   "id": "pharm-p35-mcq-03",
+   "deck": "Pharmacology",
+   "section": "Antibacterial agents",
+   "page": 35,
+   "question": "Which antibiotic causes a reaction with alcohol and can produce a black hairy tongue?",
+   "options": [
+    "A. Metronidazole",
+    "B. Azithromycin",
+    "C. Cephalexin",
+    "D. Amoxicillin"
+   ],
+   "answer": "A. Metronidazole",
+   "explanation": "Metronidazole (Flagyl): metallic taste, black hairy tongue, alcohol reaction. Azithromycin can cause a rare metallic taste but not an alcohol reaction."
+  },
+  {
+   "id": "pharm-p36-mcq-01",
+   "deck": "Pharmacology",
+   "section": "Tetracyclines",
+   "page": 36,
+   "question": "Which statement about Periostat is correct?",
+   "options": [
+    "A. It is a local minocycline microsphere placed in pockets ≥ 5 mm",
+    "B. It is a subantimicrobial-dose doxycycline taken 20 mg twice daily",
+    "C. It is a chlorhexidine chip with sustained release up to 10 days",
+    "D. It is bactericidal and kills periodontal pathogens directly"
+   ],
+   "answer": "B. It is a subantimicrobial-dose doxycycline taken 20 mg twice daily",
+   "explanation": "Periostat = low-dose (subantimicrobial) doxycycline capsule, 20 mg BID, up to 9 months. Arestin is minocycline microspheres; PerioChip is chlorhexidine; tetracyclines are bacteriostatic."
+  },
+  {
+   "id": "pharm-p36-mcq-02",
+   "deck": "Pharmacology",
+   "section": "Chlorhexidine",
+   "page": 36,
+   "question": "A patient wants an adjunct after SRP for a single 6 mm site but is worried about staining. Which is the best choice?",
+   "options": [
+    "A. 0.12% chlorhexidine rinse",
+    "B. PerioChip",
+    "C. Systemic doxycycline 100 mg BID",
+    "D. Periostat"
+   ],
+   "answer": "B. PerioChip",
+   "explanation": "PerioChip (2.5 mg chlorhexidine chip) is placed into a ≥ 5 mm pocket for localized periodontitis and causes no staining or taste alteration. CHX rinse stains teeth and tongue; systemic drugs are not site-specific."
+  }
+ ]
+}

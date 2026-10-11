@@ -1,0 +1,1766 @@
+{
+ "diagrams": [
+  {
+   "name": "perio-p108-furcation-areas",
+   "title": "Areas of furcation",
+   "deck": "Periodontology",
+   "pdf_page": 24,
+   "page": 108,
+   "crop": [
+    95,
+    530,
+    1245,
+    1150
+   ],
+   "labels": [
+    {
+     "box": [
+      262,
+      628,
+      455,
+      736
+     ],
+     "answer": "Distolingual, Buccal & Mesiolingual",
+     "fit": "text"
+    },
+    {
+     "box": [
+      692,
+      662,
+      830,
+      736
+     ],
+     "answer": "Mesial & Distal",
+     "fit": "text"
+    },
+    {
+     "box": [
+      988,
+      662,
+      1122,
+      738
+     ],
+     "answer": "Buccal & Lingual",
+     "fit": "text"
+    },
+    {
+     "box": [
+      232,
+      1058,
+      492,
+      1104
+     ],
+     "answer": "Maxillary Molars",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      663,
+      1056,
+      858,
+      1138
+     ],
+     "answer": "Maxillary 1st Premolar",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      952,
+      1052,
+      1141,
+      1131
+     ],
+     "answer": "Mandibular Molars",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p109-fenestration-dehiscence",
+   "title": "Fenestration and dehiscence",
+   "deck": "Periodontology",
+   "pdf_page": 25,
+   "page": 109,
+   "crop": [
+    560,
+    1000,
+    1200,
+    1335
+   ],
+   "labels": [
+    {
+     "box": [
+      775,
+      1027,
+      908,
+      1060
+     ],
+     "answer": "Fenestration",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      918,
+      1069,
+      1035,
+      1100
+     ],
+     "answer": "Dehiscence",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1074,
+      1175,
+      1158,
+      1206
+     ],
+     "answer": "Maxilla",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "perio-p110-abscess-types",
+   "title": "Types of dental abscess",
+   "deck": "Periodontology",
+   "pdf_page": 26,
+   "page": 110,
+   "crop": [
+    835,
+    725,
+    1255,
+    990
+   ],
+   "labels": [
+    {
+     "box": [
+      862,
+      942,
+      935,
+      985
+     ],
+     "answer": "Gingival Abscess",
+     "fit": "text"
+    },
+    {
+     "box": [
+      998,
+      942,
+      1092,
+      985
+     ],
+     "answer": "Periodontal Abscess",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1152,
+      942,
+      1237,
+      985
+     ],
+     "answer": "Periapical Abscess",
+     "fit": "text"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "perio-p107-001",
+   "deck": "Periodontology",
+   "section": "Probing depth",
+   "page": 107,
+   "text": "In health, the intact gingival margin is positioned {{c1::1 to 2 mm}} {{c2::coronal}} to the CEJ."
+  },
+  {
+   "id": "perio-p107-002",
+   "deck": "Periodontology",
+   "section": "Probing depth",
+   "page": 107,
+   "text": "Attached gingiva is the part of the gingiva that is firm, dense and tightly connected to the {{c1::cementum or alveolar bone}}; it is not measured on the {{c2::palate}}."
+  },
+  {
+   "id": "perio-p107-003",
+   "deck": "Periodontology",
+   "section": "Probing depth",
+   "page": 107,
+   "text": "Probe with walking (bobbing) strokes about {{c1::1 mm}} apart, kept parallel to the {{c2::long axis of the tooth}}; record the {{c3::deepest}} reading in each segment."
+  },
+  {
+   "id": "perio-p107-004",
+   "deck": "Periodontology",
+   "section": "Probing depth",
+   "page": 107,
+   "text": "In the col area the probe is {{c1::slanted}} for better access, then straightened."
+  },
+  {
+   "id": "perio-p107-005",
+   "deck": "Periodontology",
+   "section": "Probing depth",
+   "page": 107,
+   "text": "A periodontal pocket involves {{c1::apical}} movement of the junctional epithelium with {{c2::vertical}} bone loss."
+  },
+  {
+   "id": "perio-p107-006",
+   "deck": "Periodontology",
+   "section": "Osseous defects",
+   "page": 107,
+   "text": "A three-wall defect is bordered by {{c1::three osseous surfaces and one tooth surface}}."
+  },
+  {
+   "id": "perio-p107-007",
+   "deck": "Periodontology",
+   "section": "Osseous defects",
+   "page": 107,
+   "text": "Of the three bony defects, the {{c1::three-wall}} defect has the best prognosis."
+  },
+  {
+   "id": "perio-p107-008",
+   "deck": "Periodontology",
+   "section": "Osseous defects",
+   "page": 107,
+   "text": "A two-wall defect is bordered by {{c1::two osseous surfaces and two tooth surfaces}}."
+  },
+  {
+   "id": "perio-p107-009",
+   "deck": "Periodontology",
+   "section": "Osseous defects",
+   "page": 107,
+   "text": "A one-wall defect is bordered by {{c1::one osseous surface and three tooth surfaces}}."
+  },
+  {
+   "id": "perio-p107-010",
+   "deck": "Periodontology",
+   "section": "Pockets (Language Builder)",
+   "page": 107,
+   "text": "In a {{c1::suprabony}} pocket the base of the pocket is {{c2::coronal to (above)}} the alveolar crest; it is typically associated with {{c3::horizontal}} bone loss.",
+   "extra": "Supra- = above. Horizontal: bone reduced fairly uniformly across the tooth surface."
+  },
+  {
+   "id": "perio-p107-011",
+   "deck": "Periodontology",
+   "section": "Pockets (Language Builder)",
+   "page": 107,
+   "text": "In an {{c1::infrabony}} pocket the base of the pocket is {{c2::apical to (below)}} the alveolar crest, within the bone defect; it is typically associated with {{c3::vertical (angular)}} bone loss.",
+   "extra": "Infra- = below. Vertical loss is uneven and creates a trench-like defect alongside the root."
+  },
+  {
+   "id": "perio-p107-012",
+   "deck": "Periodontology",
+   "section": "Recession",
+   "page": 107,
+   "text": "Recession: the free gingival margin is {{c1::apical}} to the CEJ, exposing the root surface."
+  },
+  {
+   "id": "perio-p107-013",
+   "deck": "Periodontology",
+   "section": "Recession",
+   "page": 107,
+   "text": "Exposed root surface is more susceptible to {{c1::caries and abrasion}} than enamel, and root exposure aggravates {{c2::dentinal sensitivity}}."
+  },
+  {
+   "id": "perio-p107-014",
+   "deck": "Periodontology",
+   "section": "Recession",
+   "page": 107,
+   "text": "Causes of recession include {{c1::frenal pull}} and {{c2::improper brushing and flossing technique}}."
+  },
+  {
+   "id": "perio-p107-015",
+   "deck": "Periodontology",
+   "section": "BOP and suppuration",
+   "page": 107,
+   "text": "When inflammation is present, gentle probing bleeds because the pocket is {{c1::ulcerated}} (not because the hygienist was too rough); bleeding is charted as a {{c2::red dot}}."
+  },
+  {
+   "id": "perio-p107-016",
+   "deck": "Periodontology",
+   "section": "BOP and suppuration",
+   "page": 107,
+   "text": "Absence of bleeding on probing is a predictor of periodontal {{c1::stability}}, but it does not guarantee the complete absence of disease."
+  },
+  {
+   "id": "perio-p107-017",
+   "deck": "Periodontology",
+   "section": "BOP and suppuration",
+   "page": 107,
+   "text": "Pale yellow pus ({{c1::purulence}}) represents an {{c2::active infection}}."
+  },
+  {
+   "id": "perio-p107-018",
+   "deck": "Periodontology",
+   "section": "Tooth mobility",
+   "page": 107,
+   "text": "Horizontal tooth mobility is assessed by pushing the tooth in a {{c1::facial-lingual}} direction using two {{c2::blunt ends of dental instrument handles}}."
+  },
+  {
+   "id": "perio-p107-019",
+   "deck": "Periodontology",
+   "section": "Tooth mobility",
+   "page": 107,
+   "text": "Vertical tooth mobility is assessed by {{c1::depressing the tooth into its socket}} with the blunt end of an instrument handle."
+  },
+  {
+   "id": "perio-p108-001",
+   "deck": "Periodontology",
+   "section": "Tooth mobility (Miller)",
+   "page": 108,
+   "text": "Miller class {{c1::I}} mobility: facial-lingual horizontal displacement of {{c2::up to 1 mm}}."
+  },
+  {
+   "id": "perio-p108-002",
+   "deck": "Periodontology",
+   "section": "Tooth mobility (Miller)",
+   "page": 108,
+   "text": "Miller class {{c1::II}} mobility: facial-lingual horizontal displacement {{c2::greater than 1 mm, up to 2 mm}}."
+  },
+  {
+   "id": "perio-p108-003",
+   "deck": "Periodontology",
+   "section": "Tooth mobility (Miller)",
+   "page": 108,
+   "text": "Miller class {{c1::III}} mobility: horizontal displacement {{c2::more than 2 mm}} and/or {{c3::vertical displacement (depression into the socket)}}."
+  },
+  {
+   "id": "perio-p108-004",
+   "deck": "Periodontology",
+   "section": "Tooth mobility (Miller)",
+   "page": 108,
+   "text": "Fremitus is assessed by placing a gloved {{c1::index finger}} against the {{c2::facial}} aspect of the tooth while the patient {{c3::taps the teeth together}}."
+  },
+  {
+   "id": "perio-p108-005",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "text": "The presence and extent of furcation involvement is assessed with a {{c1::furcation probe}}."
+  },
+  {
+   "id": "perio-p108-006",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "text": "Mandibular molars are usually {{c1::bifurcated}}, with {{c2::mesial and distal}} roots.",
+   "extra": "Furcation entrances: facial and lingual."
+  },
+  {
+   "id": "perio-p108-007",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "text": "Maxillary molars are usually {{c1::trifurcated}}, with {{c2::mesiobuccal, distobuccal and palatal}} roots.",
+   "extra": "Furcation entrances: facial, mesial and distal."
+  },
+  {
+   "id": "perio-p108-008",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "text": "Maxillary first premolars can have bifurcated roots ({{c1::buccal and palatal}}).",
+   "extra": "Furcation entrances: mesial and distal."
+  },
+  {
+   "id": "perio-p108-009",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "text": "Glickman class {{c1::I}} furcation: the curvature of the concavity can be detected with the probe tip but the probe {{c2::cannot enter the space}}; no radiolucency on radiographs."
+  },
+  {
+   "id": "perio-p108-010",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "text": "Glickman class {{c1::II}} furcation: the probe penetrates the furcation {{c2::more than 1 mm}} but does not pass completely through; slight radiolucency may be visible."
+  },
+  {
+   "id": "perio-p108-011",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "text": "Glickman class {{c1::III}} furcation: the probe {{c2::passes completely through}} the furcation; radiolucency is usually visible on radiographs."
+  },
+  {
+   "id": "perio-p108-012",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "text": "Glickman class {{c1::IV}} furcation: the furcation entrance is {{c2::clinically visible}} and the probe passes completely through; larger radiolucency on radiographs."
+  },
+  {
+   "id": "perio-p109-001",
+   "deck": "Periodontology",
+   "section": "Plaque and calculus",
+   "page": 109,
+   "text": "Plaque is identified with {{c1::disclosing solution}} or by moving the tip of an instrument along the gingival margin; assess its location, thickness and presence/absence."
+  },
+  {
+   "id": "perio-p109-002",
+   "deck": "Periodontology",
+   "section": "Plaque and calculus",
+   "page": 109,
+   "text": "Plaque is the {{c1::primary etiology}} of gingivitis and periodontitis, so its level and location are assessed to improve home care."
+  },
+  {
+   "id": "perio-p109-003",
+   "deck": "Periodontology",
+   "section": "Plaque and calculus",
+   "page": 109,
+   "text": "Every calculus surface is covered with plaque because calculus is {{c1::porous}}."
+  },
+  {
+   "id": "perio-p109-004",
+   "deck": "Periodontology",
+   "section": "Clinical attachment level",
+   "page": 109,
+   "text": "CAL is measured from a fixed point, the {{c1::CEJ}}, so it is the most accurate assessment of periodontal support; probing depth is measured from the fluctuating {{c2::gingival margin}}."
+  },
+  {
+   "id": "perio-p109-005",
+   "deck": "Periodontology",
+   "section": "Clinical attachment level",
+   "page": 109,
+   "text": "Calculating CAL requires two measurements: {{c1::probing depth}} (gingival margin to base of pocket) and {{c2::gingival margin to CEJ}}."
+  },
+  {
+   "id": "perio-p109-006",
+   "deck": "Periodontology",
+   "section": "Clinical attachment level",
+   "page": 109,
+   "text": "When the gingival margin is coronal to the CEJ (health or hyperplasia/overgrowth): CAL = probing depth {{c1::minus}} GM-to-CEJ.",
+   "extra": "WakeUpMemory: gum covering the CEJ is hiding part of the root from your probing depth → SUBTRACT."
+  },
+  {
+   "id": "perio-p109-007",
+   "deck": "Periodontology",
+   "section": "Clinical attachment level",
+   "page": 109,
+   "text": "When the gingival margin is apical to the CEJ (recession): CAL = probing depth {{c1::plus}} GM-to-CEJ.",
+   "extra": "WakeUpMemory: gum has moved away from the CEJ, exposing root → ADD the exposed portion."
+  },
+  {
+   "id": "perio-p109-008",
+   "deck": "Periodontology",
+   "section": "Dehiscence and fenestration",
+   "page": 109,
+   "text": "A dehiscence may be {{c1::one or two millimeters}} long or extend the full length of the root."
+  },
+  {
+   "id": "perio-p109-009",
+   "deck": "Periodontology",
+   "section": "Dehiscence and fenestration",
+   "page": 109,
+   "text": "The three features of dehiscence are {{c1::gingival recession}}, {{c2::alveolar bone loss}} and {{c3::root exposure}}."
+  },
+  {
+   "id": "perio-p109-010",
+   "deck": "Periodontology",
+   "section": "Dehiscence and fenestration",
+   "page": 109,
+   "text": "A fenestration is distinguished from a dehiscence because it is bordered by alveolar bone along its {{c1::coronal}} aspect."
+  },
+  {
+   "id": "perio-p109-011",
+   "deck": "Periodontology",
+   "section": "Bone level (radiographic)",
+   "page": 109,
+   "text": "The normal alveolar crest is about {{c1::1–2 mm}} {{c2::apical}} to the CEJ."
+  },
+  {
+   "id": "perio-p109-012",
+   "deck": "Periodontology",
+   "section": "Bone level (radiographic)",
+   "page": 109,
+   "text": "The alveolar crest is the {{c1::first}} area involved in bone destruction; {{c2::fuzziness}} (blunting) at the crest of the interdental bone helps confirm periodontal disease."
+  },
+  {
+   "id": "perio-p109-013",
+   "deck": "Periodontology",
+   "section": "Bone level (radiographic)",
+   "page": 109,
+   "text": "The lamina dura appears dense and continuous in {{c1::health}} and {{c2::thin or absent}} in disease."
+  },
+  {
+   "id": "perio-p109-014",
+   "deck": "Periodontology",
+   "section": "Bone level (radiographic)",
+   "page": 109,
+   "text": "Bone loss is measured from the {{c1::CEJ}} to the {{c2::alveolar crest}}."
+  },
+  {
+   "id": "perio-p110-001",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 110,
+   "text": "{{c1::Horizontal}} bone loss is the most common pattern; it is associated with {{c2::suprabony}} defects, and the CEJ-to-CEJ line of adjacent teeth is {{c3::parallel}} to the alveolar crest."
+  },
+  {
+   "id": "perio-p110-002",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 110,
+   "text": "{{c1::Vertical}} bone loss runs in an {{c2::oblique}} direction; the CEJ-to-CEJ line of adjacent teeth is NOT parallel to the alveolar crest."
+  },
+  {
+   "id": "perio-p110-003",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 110,
+   "text": "{{c1::Periapical images}} or {{c2::vertical bitewings}} are used to assess bone level and other periodontal problems."
+  },
+  {
+   "id": "perio-p110-004",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 110,
+   "text": "High kVp produces a {{c1::longer}} scale of contrast (many shades of gray) and is often preferred for detecting periodontal disease."
+  },
+  {
+   "id": "perio-p110-005",
+   "deck": "Periodontology",
+   "section": "Abscess (radiographic)",
+   "page": 110,
+   "text": "A periodontal abscess appears radiographically as a radiolucent {{c1::angular defect}} or {{c2::furcation radiolucency}}."
+  },
+  {
+   "id": "perio-p110-006",
+   "deck": "Periodontology",
+   "section": "Abscess (radiographic)",
+   "page": 110,
+   "text": "A periapical abscess is a radiolucency around the {{c1::apex}} of a tooth; do not mistake the {{c2::mental foramen}} near the apex of mandibular premolars for one."
+  },
+  {
+   "id": "perio-p110-007",
+   "deck": "Periodontology",
+   "section": "Abscess (radiographic)",
+   "page": 110,
+   "text": "Abscess, trauma or inflammation can cause {{c1::resorption}} of tooth structure."
+  },
+  {
+   "id": "perio-p110-008",
+   "deck": "Periodontology",
+   "section": "PDL space",
+   "page": 110,
+   "text": "The PDL space appears as a thin {{c1::radiolucent}} (black) line around the root; it is uniform in health, and a widened space indicates {{c2::trauma and/or infection}}."
+  },
+  {
+   "id": "perio-p110-009",
+   "deck": "Periodontology",
+   "section": "Calculus and overhangs",
+   "page": 110,
+   "text": "Radiographs can detect some {{c1::interproximal}} calculus and overhanging restorations; deposits and overhangs on other surfaces usually are not visible."
+  },
+  {
+   "id": "perio-p110-010",
+   "deck": "Periodontology",
+   "section": "Enamel pearl",
+   "page": 110,
+   "text": "Enamel pearls are most common in the {{c1::furcation areas of posterior teeth}} and can be mistaken for {{c2::calculus}}."
+  },
+  {
+   "id": "perio-p110-011",
+   "deck": "Periodontology",
+   "section": "Ankylosis and impaction",
+   "page": 110,
+   "text": "Ankylosis occurs mostly in {{c1::deciduous}} teeth; the tooth fails to erupt at the proper time and needs to be {{c2::extracted}}."
+  },
+  {
+   "id": "perio-p110-012",
+   "deck": "Periodontology",
+   "section": "Ankylosis and impaction",
+   "page": 110,
+   "text": "Impaction can be caused by {{c1::dense bone}}, {{c2::tooth malpositioning}} and {{c3::inadequate space}}; {{c4::third molars}} are commonly affected."
+  },
+  {
+   "id": "perio-p110-013",
+   "deck": "Periodontology",
+   "section": "Limitations of radiographs",
+   "page": 110,
+   "text": "Radiographs cannot exactly identify furcation involvement because the {{c1::buccal and lingual}} alveolar bones are superimposed and root angles can mask defects."
+  },
+  {
+   "id": "perio-p110-014",
+   "deck": "Periodontology",
+   "section": "Limitations of radiographs",
+   "page": 110,
+   "text": "By the time bone loss is evident on radiographs, periodontitis has progressed beyond its {{c1::early stages}}."
+  },
+  {
+   "id": "perio-p110-015",
+   "deck": "Periodontology",
+   "section": "Limitations of radiographs",
+   "page": 110,
+   "text": "The {{c1::shape of a bony defect}} cannot be accurately identified on a radiograph; the beam may have to be realigned to \"open\" the area."
+  },
+  {
+   "id": "perio-p110-016",
+   "deck": "Periodontology",
+   "section": "Limitations of radiographs",
+   "page": 110,
+   "text": "Radiographs do not reveal {{c1::soft tissue defects (periodontal pockets)}} or {{c2::tooth mobility}}."
+  },
+  {
+   "id": "perio-p110-017",
+   "deck": "Periodontology",
+   "section": "Treatment goals",
+   "page": 110,
+   "text": "Bone and tissue do not regenerate after nonsurgical periodontal therapy, so a realistic goal is {{c1::maintaining the current attachment level}}.",
+   "extra": "Other goals: arrest progression (reduce inflammation, bleeding, plaque, probing depths; arrest bone loss)."
+  },
+  {
+   "id": "perio-p110-018",
+   "deck": "Periodontology",
+   "section": "Treatment goals",
+   "page": 110,
+   "text": "Periodontal treatment goals also include preventing {{c1::recurrence}} and altering or eliminating contributing {{c2::risk factors}} such as smoking.",
+   "extra": "Every patient responds differently, so the treatment plan and OHI may need adjusting (p.111)."
+  },
+  {
+   "id": "perio-p111-001",
+   "deck": "Periodontology",
+   "section": "Assessment and prognosis",
+   "page": 111,
+   "text": "McGuire (1991) prognosis \"very good\": less than {{c1::25%}} attachment loss."
+  },
+  {
+   "id": "perio-p111-002",
+   "deck": "Periodontology",
+   "section": "Assessment and prognosis",
+   "page": 111,
+   "text": "McGuire prognosis \"good\": less than 25% attachment loss and/or {{c1::class I furcation}} involvement."
+  },
+  {
+   "id": "perio-p111-003",
+   "deck": "Periodontology",
+   "section": "Assessment and prognosis",
+   "page": 111,
+   "text": "McGuire prognosis \"fair\": {{c1::25–50%}} attachment loss and/or class I furcation."
+  },
+  {
+   "id": "perio-p111-004",
+   "deck": "Periodontology",
+   "section": "Assessment and prognosis",
+   "page": 111,
+   "text": "McGuire prognosis \"poor\": {{c1::50–75%}} attachment loss and/or class {{c2::II or III}} furcation, class {{c3::II}} mobility."
+  },
+  {
+   "id": "perio-p111-005",
+   "deck": "Periodontology",
+   "section": "Assessment and prognosis",
+   "page": 111,
+   "text": "McGuire prognosis \"hopeless\": over {{c1::75%}} attachment loss, class {{c2::III}} mobility."
+  },
+  {
+   "id": "perio-p111-006",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "text": "NSPT includes debridement/SRP, education, {{c1::adjunct therapy}} (chlorhexidine, antibiotics, etc.) and self-care instruction.",
+   "extra": "It also covers control of infection and reinfection, reduction of inflammation, and systemic disease control."
+  },
+  {
+   "id": "perio-p111-007",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "text": "NSPT is indicated for gingivitis, slight to moderate periodontitis, or patients who will undergo periodontal surgery; an oral prophylaxis is only for a {{c1::healthy periodontium}}.",
+   "extra": "AAP 2017 terms: slight/moderate periodontitis ≈ Stage I/II."
+  },
+  {
+   "id": "perio-p111-008",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "text": "A {{c1::periodontist}} should be involved in the success of periodontal treatment."
+  },
+  {
+   "id": "perio-p111-009",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "text": "Pockets of {{c1::3–5 mm}} are a challenge for subgingival plaque removal."
+  },
+  {
+   "id": "perio-p111-010",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "text": "Goal of NSPT: reduce pathogens, address risk factors (e.g., smoking) and arrest progression; usually {{c1::multiple appointments}} are required."
+  },
+  {
+   "id": "perio-p111-011",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "text": "Root planing (outdated term) is designed to remove rough, calculus-impregnated {{c1::cementum or surface dentin}} to produce \"glassy smooth\" surfaces; practice is moving away from this to {{c2::preserve cementum}}."
+  },
+  {
+   "id": "perio-p111-012",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "text": "Full mouth disinfection = debridement of all four quadrants within {{c1::24–48 hours}}."
+  },
+  {
+   "id": "perio-p111-013",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "text": "In periodontal therapy, the educated patient is the {{c1::co-therapist}}.",
+   "extra": "Educate on disease, risk factors, home care, nutrition, professional maintenance."
+  },
+  {
+   "id": "perio-p111-014",
+   "deck": "Periodontology",
+   "section": "Re-evaluation",
+   "page": 111,
+   "text": "At non-responsive sites, check for {{c1::residual calculus or roughness}}, look for other factors (systemic disease, tobacco use) and consider periodontal surgery."
+  },
+  {
+   "id": "perio-p111-015",
+   "deck": "Periodontology",
+   "section": "Re-evaluation",
+   "page": 111,
+   "text": "Adjunct therapy (lasers, antibiotics) is used {{c1::in addition to}} NSPT; alone it does not improve periodontal health."
+  },
+  {
+   "id": "perio-p111-016",
+   "deck": "Periodontology",
+   "section": "Adjunct therapy products",
+   "page": 111,
+   "text": "{{c1::Periostat}} is doxycycline hyclate, a systemic {{c2::20 mg}} capsule taken orally (sub-antimicrobial dose)."
+  },
+  {
+   "id": "perio-p111-017",
+   "deck": "Periodontology",
+   "section": "Adjunct therapy products",
+   "page": 111,
+   "text": "Periostat works primarily by inhibiting {{c1::collagenase (MMP-8)}}."
+  },
+  {
+   "id": "perio-p112-001",
+   "deck": "Periodontology",
+   "section": "Adjunct therapy products",
+   "page": 112,
+   "text": "Arestin and Atridox are derived from {{c1::tetracycline}} and are inserted into the pocket with a {{c2::blunt cannula}}; both dissolve, so no removal is needed."
+  },
+  {
+   "id": "perio-p112-002",
+   "deck": "Periodontology",
+   "section": "Adjunct therapy products",
+   "page": 112,
+   "text": "After Arestin: do not brush for {{c1::12 hours}} and do not floss the site for {{c2::10 days}}; it is bacteriostatic for up to {{c3::14 days}}."
+  },
+  {
+   "id": "perio-p112-003",
+   "deck": "Periodontology",
+   "section": "Adjunct therapy products",
+   "page": 112,
+   "text": "After Atridox: do not brush or floss the site for {{c1::7 days}}."
+  },
+  {
+   "id": "perio-p112-004",
+   "deck": "Periodontology",
+   "section": "Adjunct therapy products",
+   "page": 112,
+   "text": "PerioChip dissolves, but may not fit well in pockets shallower than {{c1::5 mm}}; do not floss the site for {{c2::10 days}}."
+  },
+  {
+   "id": "perio-p112-005",
+   "deck": "Periodontology",
+   "section": "Adjunct therapy products",
+   "page": 112,
+   "text": "Tetracycline HCl fibers are a saturated cord packed into the pocket and retained with {{c1::adhesive}}; they are not given to {{c2::pregnant women or children}} because of {{c3::tetracycline stain}} of developing teeth.",
+   "extra": "Less commonly used now due to newer local delivery systems."
+  },
+  {
+   "id": "perio-p112-006",
+   "deck": "Periodontology",
+   "section": "Periodontal maintenance",
+   "page": 112,
+   "text": "Periodontal maintenance is ongoing care at intervals of {{c1::3–4 months}} for patients with periodontal disease."
+  },
+  {
+   "id": "perio-p112-007",
+   "deck": "Periodontology",
+   "section": "Periodontal maintenance",
+   "page": 112,
+   "text": "A {{c1::3-month}} maintenance interval suits patients who completed NSPT and have {{c2::poor}} oral hygiene."
+  },
+  {
+   "id": "perio-p112-008",
+   "deck": "Periodontology",
+   "section": "Periodontal maintenance",
+   "page": 112,
+   "text": "A {{c1::4-month}} interval suits patients who completed NSPT with adequate oral hygiene and stable clinical attachment levels."
+  },
+  {
+   "id": "perio-p112-009",
+   "deck": "Periodontology",
+   "section": "Periodontal maintenance",
+   "page": 112,
+   "text": "A {{c1::6-month to 1-year}} interval suits patients who maintain good home care and have stabilized oral health."
+  },
+  {
+   "id": "perio-p112-010",
+   "deck": "Periodontology",
+   "section": "Periodontal maintenance",
+   "page": 112,
+   "text": "Once a patient is diagnosed with periodontal disease, subsequent recall appointments are always called {{c1::periodontal maintenance}}."
+  },
+  {
+   "id": "perio-p112-011",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 112,
+   "text": "Periodontal surgery is indicated when {{c1::NSPT}} has not achieved the desired outcomes; goal: a healthy, comfortable, functional and esthetic oral environment."
+  },
+  {
+   "id": "perio-p112-012",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 112,
+   "text": "In periodontal flap surgery the gums are lifted away from tooth and bone to allow access, then the gingival tissue is typically replaced in an {{c1::apical}} position.",
+   "extra": "Goal: minimize pocket depth and allow thorough cleaning; indications: access for root debridement, removing diseased tissue, reshaping bone/gum."
+  },
+  {
+   "id": "perio-p112-013",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 112,
+   "text": "A gum/connective tissue graft is indicated for {{c1::exposed roots}} (sensitivity, esthetics) or areas needing more gingival strength; tissue comes from a donor site such as the {{c2::palate}} or a donor source ({{c3::allograft}}).",
+   "extra": "Covers root surfaces, reduces sensitivity, evens the gum line."
+  },
+  {
+   "id": "perio-p112-014",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 112,
+   "text": "Gingival curettage removes the {{c1::soft tissue lining}} of periodontal pockets; it is used with SRP and is less common today as a standalone procedure."
+  },
+  {
+   "id": "perio-p113-001",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "Gingivectomy (surgical removal of gingival tissue) is indicated for pocket reduction and {{c1::gingival hyperplasia}}; it {{c2::does not}} involve bone reshaping."
+  },
+  {
+   "id": "perio-p113-002",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "Gingivoplasty reshapes the gingiva to correct {{c1::irregular gingival contours}} (e.g., tissue craters from necrotizing gingivitis); often done with a gingivectomy.",
+   "extra": "The book says \"NUG\" — the AAP 2017 classification calls it necrotizing gingivitis (NG)."
+  },
+  {
+   "id": "perio-p113-003",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "Osseous surgery reshapes alveolar bone by {{c1::osteoplasty}} (bone reshaping) and/or {{c2::ostectomy}} (bone removal); often combined with flap surgery and bone grafting."
+  },
+  {
+   "id": "perio-p113-004",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "Bone graft types: {{c1::autograft}} = patient's own bone; {{c2::allograft}} = human (cadaver) bone; {{c3::alloplastic}} = synthetic; {{c4::xenograft}} = animal bone, usually bovine.",
+   "extra": "Prefixes: auto- = self; allo- = other (same species); xeno- = foreign (another species: bovine, porcine); alloplastic = synthetic/man-made."
+  },
+  {
+   "id": "perio-p113-005",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "In guided tissue regeneration (GTR) a {{c1::barrier membrane}} placed over the bone defect, under the gum, keeps faster-growing {{c2::soft tissue}} out so slower bone and ligament cells can repopulate it."
+  },
+  {
+   "id": "perio-p113-006",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "GTR aims to regenerate {{c1::bone and periodontal ligament}} in bone craters or defects."
+  },
+  {
+   "id": "perio-p113-007",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "Crown lengthening is indicated for an {{c1::insufficient clinical crown}} for restorative or cosmetic needs; it reshapes excess gum tissue and often the {{c2::underlying bone}}.",
+   "extra": "Functional (expose tooth for a crown) or esthetic (\"gummy smile\")."
+  },
+  {
+   "id": "perio-p113-008",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "Dental implants are typically made of {{c1::titanium}} and serve as anchors for prostheses."
+  },
+  {
+   "id": "perio-p113-009",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "An {{c1::endosteal}} implant is placed directly IN the bone; it is the {{c2::most common}} implant type (screws, cylinders, blades) and needs adequate bone volume."
+  },
+  {
+   "id": "perio-p113-010",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "A {{c1::subperiosteal}} implant sits on top of the jawbone under the periosteum, for minimal bone height; it is less common today due to advances in bone grafting."
+  },
+  {
+   "id": "perio-p113-011",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "text": "A sinus lift (augmentation) raises the floor of the {{c1::maxillary sinus}} and places bone graft to allow implants in the {{c2::posterior maxilla}}."
+  },
+  {
+   "id": "perio-p114-001",
+   "deck": "Periodontology",
+   "section": "Post-surgical care",
+   "page": 114,
+   "text": "After periodontal surgery some blood seeping is normal; the patient should not forcefully spit or rinse on the {{c1::first day}} because it may disturb {{c2::blood clotting}}."
+  },
+  {
+   "id": "perio-p114-002",
+   "deck": "Periodontology",
+   "section": "Post-surgical care",
+   "page": 114,
+   "text": "After the first post-surgical day, rinse gently with {{c1::warm salt water}} (or a prescribed antimicrobial) and brush gently, avoiding the surgical area."
+  },
+  {
+   "id": "perio-p114-003",
+   "deck": "Periodontology",
+   "section": "Post-surgical care",
+   "page": 114,
+   "text": "Use {{c1::ice}} to control post-surgical inflammation."
+  },
+  {
+   "id": "perio-p114-004",
+   "deck": "Periodontology",
+   "section": "Post-surgical care",
+   "page": 114,
+   "text": "Post-surgical chlorhexidine rinse: {{c1::15 ml}} twice daily for {{c2::30 seconds}} (or as prescribed)."
+  },
+  {
+   "id": "perio-p114-005",
+   "deck": "Periodontology",
+   "section": "Post-surgical care",
+   "page": 114,
+   "text": "Chlorhexidine is effective against gram-positive bacteria, gram-negative bacteria and {{c1::fungi}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "perio-p107-b-01",
+   "deck": "Periodontology",
+   "section": "Probing depth",
+   "page": 107,
+   "front": "How is the width of attached gingiva calculated?",
+   "back": "(Gingival margin to mucogingival junction) − (probing depth)",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "perio-p107-b-02",
+   "deck": "Periodontology",
+   "section": "Pockets (Language Builder)",
+   "page": 107,
+   "front": "Pseudopocket (gingival pocket)",
+   "back": "Pocket caused by gingival swelling/enlargement from inflammation — NO apical migration of the junctional epithelium and no loss of attachment",
+   "reverse": true,
+   "extra": "Pseudo- = fake or false."
+  },
+  {
+   "id": "perio-p107-b-03",
+   "deck": "Periodontology",
+   "section": "BOP and suppuration",
+   "page": 107,
+   "front": "Fistula",
+   "back": "Opening for drainage of infection; may be visible as a small bulge on the gingiva",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p108-b-01",
+   "deck": "Periodontology",
+   "section": "Tooth mobility (Miller)",
+   "page": 108,
+   "front": "Fremitus",
+   "back": "Palpable or visible movement of a tooth when in function",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p108-b-02",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "front": "Furcation involvement",
+   "back": "Loss of interradicular bone on multirooted teeth",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p109-b-01",
+   "deck": "Periodontology",
+   "section": "Plaque and calculus",
+   "page": 109,
+   "front": "How is a plaque percentage score calculated, and what does a lower score mean?",
+   "back": "(# tooth surfaces with plaque ÷ total # surfaces) × 100; the lower the score, the less plaque",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "perio-p109-b-02",
+   "deck": "Periodontology",
+   "section": "Dehiscence and fenestration",
+   "page": 109,
+   "front": "Dehiscence",
+   "back": "Loss of alveolar bone on the facial (rarely lingual) leaving an oval, root-exposed defect running apically from the CEJ",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p109-b-03",
+   "deck": "Periodontology",
+   "section": "Dehiscence and fenestration",
+   "page": 109,
+   "front": "Fenestration",
+   "back": "A \"window\" of bone loss on the facial or lingual that places the exposed root directly against gingiva or alveolar mucosa",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p109-b-04",
+   "deck": "Periodontology",
+   "section": "Bone level (radiographic)",
+   "page": 109,
+   "front": "Lamina dura",
+   "back": "Sheet of compact bone lining the socket next to the PDL; continuous white (radiopaque) line around the root following the PDL space",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p110-b-01",
+   "deck": "Periodontology",
+   "section": "Enamel pearl",
+   "page": 110,
+   "front": "Enamel pearl",
+   "back": "Mass of enamel on an abnormal surface such as a root",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p110-b-02",
+   "deck": "Periodontology",
+   "section": "Ankylosis and impaction",
+   "page": 110,
+   "front": "Ankylosis",
+   "back": "Fusion of the tooth (root cementum/dentin) with the adjacent alveolar bone",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p110-b-03",
+   "deck": "Periodontology",
+   "section": "Ankylosis and impaction",
+   "page": 110,
+   "front": "Impaction",
+   "back": "Tooth positioned against another structure so that it fails to erupt",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "perio-p111-b-01",
+   "deck": "Periodontology",
+   "section": "Assessment and prognosis",
+   "page": 111,
+   "front": "Prognosis",
+   "back": "Prediction of the duration, course and outcome of a disease",
+   "reverse": true,
+   "extra": "Influenced by patient compliance, systemic diseases, local factors (e.g., plaque level)."
+  },
+  {
+   "id": "perio-p111-b-02",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "front": "How does periodontal debridement differ from root planing?",
+   "back": "Debridement removes plaque, its by-products and calculus only to the extent needed to restore periodontal health (balance of flora and host) — it does NOT include aggressive removal of cementum.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "perio-p114-b-01",
+   "deck": "Periodontology",
+   "section": "Post-surgical care",
+   "page": 114,
+   "front": "Substantivity",
+   "back": "Ability of an agent to be released slowly over a long period of time (chlorhexidine has high substantivity)",
+   "reverse": true,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "perio-p107-t-01",
+   "deck": "Periodontology",
+   "section": "Probing depth",
+   "page": 107,
+   "question": "A probe reading falls at 3.5 mm. What is recorded (mm)?",
+   "answer": "4",
+   "extra": "Millimeter readings are rounded UP to the next whole number."
+  },
+  {
+   "id": "perio-p107-t-02",
+   "deck": "Periodontology",
+   "section": "Probing depth",
+   "page": 107,
+   "question": "Probing pressure should be between ___ grams (format: x–y).",
+   "answer": "10–20",
+   "extra": ""
+  },
+  {
+   "id": "perio-p107-t-03",
+   "deck": "Periodontology",
+   "section": "Probing depth",
+   "page": 107,
+   "question": "How many probing readings are recorded per tooth?",
+   "answer": "6",
+   "extra": ""
+  },
+  {
+   "id": "perio-p109-t-01",
+   "deck": "Periodontology",
+   "section": "Clinical attachment level",
+   "page": 109,
+   "question": "Probing depth 4 mm; gingival margin 1 mm apical to the CEJ. CAL in mm?",
+   "answer": "5",
+   "extra": "Recession → add: 4 + 1."
+  },
+  {
+   "id": "perio-p109-t-02",
+   "deck": "Periodontology",
+   "section": "Clinical attachment level",
+   "page": 109,
+   "question": "Probing depth 6 mm; gingival margin 2 mm coronal to the CEJ. CAL in mm?",
+   "answer": "4",
+   "extra": "Margin coronal → subtract: 6 − 2."
+  },
+  {
+   "id": "perio-p110-t-01",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 110,
+   "question": "High kVp preferred for periodontal radiographs = at least how many kVp?",
+   "answer": "70",
+   "extra": ""
+  },
+  {
+   "id": "perio-p111-t-01",
+   "deck": "Periodontology",
+   "section": "NSPT",
+   "page": 111,
+   "question": "Pockets of ___ mm or deeper cannot be successfully treated with NSPT (residual calculus usually remains).",
+   "answer": "6",
+   "extra": ""
+  },
+  {
+   "id": "perio-p111-t-02",
+   "deck": "Periodontology",
+   "section": "Re-evaluation",
+   "page": 111,
+   "question": "Re-evaluation is performed how many weeks after completing therapy? (x–y)",
+   "answer": "4–6",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "perio-p107-m-01",
+   "deck": "Periodontology",
+   "section": "Osseous defects",
+   "page": 107,
+   "prompt": "Match each osseous defect to its borders.",
+   "pairs": [
+    [
+     "Three-wall defect",
+     "3 bone surfaces + 1 tooth surface"
+    ],
+    [
+     "Two-wall defect",
+     "2 bone surfaces + 2 tooth surfaces"
+    ],
+    [
+     "One-wall defect",
+     "1 bone surface + 3 tooth surfaces"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p108-m-01",
+   "deck": "Periodontology",
+   "section": "Tooth mobility (Miller)",
+   "page": 108,
+   "prompt": "Match each Miller mobility class to its finding.",
+   "pairs": [
+    [
+     "Class I",
+     "Horizontal up to 1 mm"
+    ],
+    [
+     "Class II",
+     "Horizontal >1 mm, up to 2 mm"
+    ],
+    [
+     "Class III",
+     ">2 mm and/or depressible into socket"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p108-m-02",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "prompt": "Match each Glickman furcation class to its charting symbol.",
+   "pairs": [
+    [
+     "Class I",
+     "^ (open caret)"
+    ],
+    [
+     "Class II",
+     "△ (outlined triangle)"
+    ],
+    [
+     "Class III",
+     "▲ (solid triangle)"
+    ],
+    [
+     "Class IV",
+     "◆ (solid diamond)"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p111-m-01",
+   "deck": "Periodontology",
+   "section": "Assessment and prognosis",
+   "page": 111,
+   "prompt": "Match each McGuire prognosis to its criteria.",
+   "pairs": [
+    [
+     "Very good",
+     "<25% attachment loss"
+    ],
+    [
+     "Good",
+     "<25% AL and/or class I furcation"
+    ],
+    [
+     "Fair",
+     "25–50% AL"
+    ],
+    [
+     "Poor",
+     "50–75% AL, class II mobility"
+    ],
+    [
+     "Hopeless",
+     ">75% AL, class III mobility"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p111-m-02",
+   "deck": "Periodontology",
+   "section": "Adjunct therapy products",
+   "page": 111,
+   "prompt": "Match each adjunct product to its active ingredient.",
+   "pairs": [
+    [
+     "Periostat",
+     "Doxycycline hyclate (oral)"
+    ],
+    [
+     "Arestin",
+     "Minocycline microspheres"
+    ],
+    [
+     "Atridox",
+     "Doxycycline gel"
+    ],
+    [
+     "PerioChip",
+     "Chlorhexidine gluconate"
+    ],
+    [
+     "Tetracycline HCl fibers",
+     "Tetracycline HCl"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p113-m-01",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "prompt": "Match each graft term to the source of its material.",
+   "pairs": [
+    [
+     "Autograft",
+     "Patient's own body"
+    ],
+    [
+     "Allograft",
+     "Another human (cadaver/donor)"
+    ],
+    [
+     "Xenograft",
+     "Another species (bovine, porcine)"
+    ],
+    [
+     "Alloplastic",
+     "Synthetic / man-made"
+    ]
+   ]
+  },
+  {
+   "id": "perio-p113-m-02",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "prompt": "Match each periodontal surgery to its main purpose.",
+   "pairs": [
+    [
+     "Flap surgery",
+     "Access for debridement; reduce pocket depth"
+    ],
+    [
+     "Gingivectomy",
+     "Excise soft tissue pocket wall"
+    ],
+    [
+     "Gingivoplasty",
+     "Recontour gingiva (e.g., craters)"
+    ],
+    [
+     "Osseous surgery",
+     "Reshape alveolar bone"
+    ],
+    [
+     "Connective tissue graft",
+     "Cover exposed roots"
+    ],
+    [
+     "Gingival curettage",
+     "Remove soft tissue pocket lining"
+    ],
+    [
+     "GTR",
+     "Regenerate bone and PDL with a membrane"
+    ]
+   ]
+  }
+ ],
+ "order": [],
+ "sort": [
+  {
+   "id": "perio-p110-s-01",
+   "deck": "Periodontology",
+   "section": "Bone loss patterns",
+   "page": 110,
+   "prompt": "Sort each feature: horizontal or vertical (angular) bone loss?",
+   "categories": [
+    [
+     "Horizontal bone loss",
+     [
+      "Most common pattern",
+      "Suprabony pocket",
+      "Crest parallel to CEJ–CEJ line",
+      "Bone reduced uniformly"
+     ]
+    ],
+    [
+     "Vertical bone loss",
+     [
+      "Oblique destruction",
+      "Infrabony pocket",
+      "Crest NOT parallel to CEJ–CEJ line",
+      "Trench-like defect beside root"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "perio-p107-mcq-01",
+   "deck": "Periodontology",
+   "section": "Pockets (Language Builder)",
+   "page": 107,
+   "question": "A patient taking a calcium channel blocker has 5 mm probing depths on the anterior teeth. The gingival margin is 5 mm coronal to the CEJ and the alveolar crest is 1–2 mm apical to the CEJ. These pockets are best described as:",
+   "options": [
+    "A. Suprabony pockets",
+    "B. Infrabony pockets",
+    "C. Pseudopockets",
+    "D. Three-wall defects"
+   ],
+   "answer": "C. Pseudopockets",
+   "explanation": "The pocket is due entirely to gingival enlargement (CAL = 5 − 5 = 0): no apical migration of the junctional epithelium, so it is a pseudo(gingival) pocket. A suprabony pocket requires attachment loss with the base still above the crest."
+  },
+  {
+   "id": "perio-p108-mcq-01",
+   "deck": "Periodontology",
+   "section": "Furcation involvement",
+   "page": 108,
+   "question": "On tooth #19 a furcation probe passes completely from the buccal to the lingual furcation, but the furcation entrance is covered by gingiva and not clinically visible. Using Glickman's classification this is:",
+   "options": [
+    "A. Class I",
+    "B. Class II",
+    "C. Class III",
+    "D. Class IV"
+   ],
+   "answer": "C. Class III",
+   "explanation": "Class III = probe passes completely through. Class IV also passes through, but the furcation entrance is clinically visible (gingival recession); here it is covered."
+  },
+  {
+   "id": "perio-p109-mcq-01",
+   "deck": "Periodontology",
+   "section": "Dehiscence and fenestration",
+   "page": 109,
+   "question": "During flap surgery an oval area of exposed root is seen on the facial of #8. The defect is surrounded by bone, with an intact band of alveolar bone between it and the crest. This defect is a:",
+   "options": [
+    "A. Dehiscence",
+    "B. Fenestration",
+    "C. One-wall defect",
+    "D. Class II furcation"
+   ],
+   "answer": "B. Fenestration",
+   "explanation": "A fenestration is a window of bone loss bordered coronally by alveolar bone. A dehiscence extends from the CEJ apically with no coronal bone border."
+  },
+  {
+   "id": "perio-p110-mcq-01",
+   "deck": "Periodontology",
+   "section": "Limitations of radiographs",
+   "page": 110,
+   "question": "Radiographs are useful in periodontal assessment for evaluating all of the following EXCEPT:",
+   "options": [
+    "A. Alveolar crest height",
+    "B. Widening of the PDL space",
+    "C. Periodontal pocket depth",
+    "D. Interproximal calculus"
+   ],
+   "answer": "C. Periodontal pocket depth",
+   "explanation": "Pockets are soft tissue defects and are not visible radiographically (nor is mobility); they must be probed. Crest height, PDL width and interproximal calculus can be seen."
+  },
+  {
+   "id": "perio-p112-mcq-01",
+   "deck": "Periodontology",
+   "section": "Adjunct therapy products",
+   "page": 112,
+   "question": "Minocycline microspheres were just placed in a 6 mm pocket on #14. Which post-op instruction is correct?",
+   "options": [
+    "A. Do not brush or floss the site for 7 days",
+    "B. Do not brush for 12 hours; do not floss the site for 10 days",
+    "C. Return in 7–10 days to have the product removed",
+    "D. Do not floss the site for 10 days; brushing is unrestricted"
+   ],
+   "answer": "B. Do not brush for 12 hours; do not floss the site for 10 days",
+   "explanation": "Arestin: no brushing for 12 h, no flossing at the site for 10 days; it dissolves (no removal). 7 days of no brushing/flossing is Atridox; floss-only restriction is PerioChip."
+  },
+  {
+   "id": "perio-p112-mcq-02",
+   "deck": "Periodontology",
+   "section": "Periodontal maintenance",
+   "page": 112,
+   "question": "A patient completed NSPT 4 months ago. Today her oral hygiene is poor, with heavy plaque and bleeding. The most appropriate periodontal maintenance interval is:",
+   "options": [
+    "A. 3 months",
+    "B. 4 months",
+    "C. 6 months",
+    "D. 12 months"
+   ],
+   "answer": "A. 3 months",
+   "explanation": "Poor oral hygiene after NSPT → 3-month interval. 4 months is for adequate hygiene with stable attachment levels."
+  },
+  {
+   "id": "perio-p113-mcq-01",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "question": "A patient dislikes her \"gummy smile\"; her maxillary anterior crowns look short although the teeth are sound. Which procedure exposes more natural tooth structure by reshaping gingiva and often bone?",
+   "options": [
+    "A. Gingival curettage",
+    "B. Crown lengthening",
+    "C. Connective tissue graft",
+    "D. Guided tissue regeneration"
+   ],
+   "answer": "B. Crown lengthening",
+   "explanation": "Crown lengthening exposes more tooth for restorative access or esthetics. A connective tissue graft does the opposite — it covers exposed roots."
+  },
+  {
+   "id": "perio-p113-mcq-02",
+   "deck": "Periodontology",
+   "section": "Periodontal surgeries",
+   "page": 113,
+   "question": "A patient wants an implant to replace #3. The radiograph shows only 4 mm of bone between the alveolar crest and the floor of the maxillary sinus. Which procedure is most likely needed first?",
+   "options": [
+    "A. Gingivectomy",
+    "B. Sinus lift (augmentation)",
+    "C. Subperiosteal implant placement",
+    "D. Osseous surgery (ostectomy)"
+   ],
+   "answer": "B. Sinus lift (augmentation)",
+   "explanation": "Insufficient bone in the posterior maxilla due to sinus proximity → sinus lift with bone graft to create volume for an endosteal implant. Subperiosteal implants are now uncommon because grafting makes endosteal placement possible."
+  },
+  {
+   "id": "perio-p114-mcq-01",
+   "deck": "Periodontology",
+   "section": "Post-surgical care",
+   "page": 114,
+   "question": "Which instruction is correct for a patient on the evening of periodontal flap surgery?",
+   "options": [
+    "A. Rinse vigorously with salt water every 2 hours",
+    "B. Avoid forceful spitting or rinsing today",
+    "C. Apply heat to the face to reduce swelling",
+    "D. Brush the surgical site firmly to remove blood"
+   ],
+   "answer": "B. Avoid forceful spitting or rinsing today",
+   "explanation": "Forceful spitting/rinsing on day 1 can disturb the clot; gentle warm salt-water rinses start after the first day. Ice (not heat) controls inflammation."
+  },
+  {
+   "id": "perio-quiz-01",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "Which structure of the periodontium connects the cementum to the alveolar bone?",
+   "options": [
+    "A. Gingival connective tissue",
+    "B. Cementoblasts",
+    "C. Periodontal ligament fibers",
+    "D. Epithelial attachment"
+   ],
+   "answer": "C. Periodontal ligament fibers",
+   "explanation": "The periodontal ligament (PDL) fibers physically attach the tooth's cementum to the alveolar bone, providing support and proprioception."
+  },
+  {
+   "id": "perio-quiz-02",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "Horizontal bone loss typically appears radiographically as:",
+   "options": [
+    "A. Uniform reduction in bone height perpendicular to the tooth surface",
+    "B. Angular, trench-like bone loss between teeth",
+    "C. Widened PDL space",
+    "D. Vertical crater-like bone defects"
+   ],
+   "answer": "A. Uniform reduction in bone height perpendicular to the tooth surface",
+   "explanation": "Horizontal bone loss shows a uniform, flat loss of alveolar bone height along a line perpendicular to the long axis of the teeth."
+  },
+  {
+   "id": "perio-quiz-03",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "A patient has 5 mm probing depths with recession of 2 mm. What is the clinical attachment level (CAL)?",
+   "options": [
+    "A. 3 mm",
+    "B. 5 mm",
+    "C. 7 mm",
+    "D. 2 mm"
+   ],
+   "answer": "C. 7 mm",
+   "explanation": "CAL = probing depth + gingival recession. In this case: 5 mm + 2 mm = 7 mm of attachment loss."
+  },
+  {
+   "id": "perio-quiz-04",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "Which condition is characterized by punched-out papillae, pain, spontaneous bleeding, and a fetid odor?",
+   "options": [
+    "A. Periodontitis",
+    "B. Peri-implant mucositis",
+    "C. Periodontal abscess",
+    "D. Necrotizing gingivitis"
+   ],
+   "answer": "D. Necrotizing gingivitis",
+   "explanation": "Necrotizing gingivitis (NG) presents with distinct clinical signs: painful ulcerated papillae, metallic taste, spontaneous bleeding, and a foul odor due to necrosis and anaerobic bacteria."
+  },
+  {
+   "id": "perio-quiz-05",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "A patient has generalized Stage III, Grade B periodontitis. What does Grade B indicate?",
+   "options": [
+    "A. Stable disease with no loss over 5 years",
+    "B. Rapid bone loss and high risk factors",
+    "C. Moderate progression with risk factors such as smoking or diabetes",
+    "D. Early onset of attachment loss"
+   ],
+   "answer": "C. Moderate progression with risk factors such as smoking or diabetes",
+   "explanation": "Grade B reflects moderate disease progression, often in patients with identifiable risk factors like <10 cigarettes/day or controlled diabetes."
+  },
+  {
+   "id": "perio-quiz-06",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "Which tissue of the periodontium is keratinized and resistant to mechanical forces?",
+   "options": [
+    "A. Attached gingiva",
+    "B. Alveolar mucosa",
+    "C. Periodontal ligament",
+    "D. Cementum"
+   ],
+   "answer": "A. Attached gingiva",
+   "explanation": "The attached gingiva is keratinized and provides mechanical protection against forces of mastication. Alveolar mucosa is non-keratinized."
+  },
+  {
+   "id": "perio-quiz-07",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "Vertical bone loss is typically associated with:",
+   "options": [
+    "A. Stage I and II periodontitis",
+    "B. Suprabony periodontal pockets",
+    "C. Infrabony (intrabony) defects",
+    "D. Pseudopockets"
+   ],
+   "answer": "C. Infrabony (intrabony) defects",
+   "explanation": "Vertical (angular) bone loss creates bony defects below the crest of the alveolar bone, commonly forming infrabony pockets."
+  },
+  {
+   "id": "perio-quiz-08",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "The first clinical sign of gingival inflammation is usually:",
+   "options": [
+    "A. Radiographic bone loss",
+    "B. Bleeding on probing",
+    "C. Tooth mobility",
+    "D. Gingival recession"
+   ],
+   "answer": "B. Bleeding on probing",
+   "explanation": "Bleeding on probing is often the earliest detectable sign of gingival inflammation, even before obvious color or contour changes."
+  },
+  {
+   "id": "perio-quiz-09",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "Which bacteria is most associated with necrotizing periodontal diseases?",
+   "options": [
+    "A. Porphyromonas gingivalis",
+    "B. Treponema denticola",
+    "C. Streptococcus mutans",
+    "D. Actinomyces viscosus"
+   ],
+   "answer": "B. Treponema denticola",
+   "explanation": "Spirochetes, especially T. denticola, are strongly linked to necrotizing periodontal diseases due to their tissue invasiveness and anaerobic nature."
+  },
+  {
+   "id": "perio-quiz-10",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "In staging periodontitis, Stage IV may include all of the following, EXCEPT:",
+   "options": [
+    "A. Severe attachment loss",
+    "B. Need for complex rehabilitation",
+    "C. Bone loss limited to the coronal third",
+    "D. Clinical attachment loss of 5 mm or greater"
+   ],
+   "answer": "C. Bone loss limited to the coronal third",
+   "explanation": "Stage IV periodontitis involves advanced destruction, including mid-root or apical bone loss, mobility, and functional instability. Coronal third bone loss is typical of earlier stages."
+  },
+  {
+   "id": "perio-quiz-11",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "Which part of the periodontium is responsible for sensing pressure and pain during mastication?",
+   "options": [
+    "A. Cementum",
+    "B. Alveolar bone",
+    "C. Periodontal ligament",
+    "D. Junctional epithelium"
+   ],
+   "answer": "C. Periodontal ligament",
+   "explanation": "The periodontal ligament (PDL) contains sensory fibers that detect pressure, pain, and proprioception during chewing and movement."
+  },
+  {
+   "id": "perio-quiz-12",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "What is the CAL if the probing depth is 4 mm and the gingival margin is 2 mm coronal to the CEJ?",
+   "options": [
+    "A. 2 mm",
+    "B. 4 mm",
+    "C. 6 mm",
+    "D. Cannot be calculated without radiographs"
+   ],
+   "answer": "A. 2 mm",
+   "explanation": "If the gingival margin is coronal to the CEJ, subtract that amount from the probing depth: 4 mm − 2 mm = 2 mm CAL."
+  },
+  {
+   "id": "perio-quiz-13",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "Which term describes the extension of inflammation from the gingiva into the connective tissue and alveolar bone?",
+   "options": [
+    "A. Gingivitis",
+    "B. Periodontitis",
+    "C. Abscess",
+    "D. Necrosis"
+   ],
+   "answer": "B. Periodontitis",
+   "explanation": "Periodontitis is characterized by the spread of inflammation into the deeper supporting tissues, leading to attachment and bone loss."
+  },
+  {
+   "id": "perio-quiz-14",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 115,
+   "question": "In necrotizing periodontitis (NP), what additional clinical feature distinguishes it from necrotizing gingivitis (NG)?",
+   "options": [
+    "A. Pseudomembrane",
+    "B. Punched-out papillae",
+    "C. Ulceration",
+    "D. Loss of attachment"
+   ],
+   "answer": "D. Loss of attachment",
+   "explanation": "NP includes all features of NG plus loss of attachment and alveolar bone, making it more destructive and severe."
+  },
+  {
+   "id": "perio-quiz-15",
+   "deck": "Quizzes",
+   "section": "Periodontology bonus quiz",
+   "page": 116,
+   "question": "A 30-year-old patient presents with rapid bone loss, minimal plaque, and no systemic conditions. What is the most appropriate Grade classification?",
+   "options": [
+    "A. Grade A",
+    "B. Grade C",
+    "C. Grade B",
+    "D. Cannot be determined without mobility data"
+   ],
+   "answer": "B. Grade C",
+   "explanation": "Grade C is assigned when there is rapid progression of periodontitis, especially in younger patients, with minimal local factors and no clear systemic contributors."
+  }
+ ]
+}

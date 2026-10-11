@@ -1,0 +1,1410 @@
+{
+ "diagrams": [],
+ "cloze": [
+  {
+   "id": "path-p67-001",
+   "deck": "Oral Pathology",
+   "section": "Traumatic ulcer",
+   "page": 67,
+   "text": "A traumatic ulcer is a localized loss of oral epithelium caused by direct {{c1::mechanical}}, {{c2::thermal}}, or {{c3::chemical}} injury to the oral mucosa.",
+   "extra": "e.g., biting, sharp food, ill-fitting dentures, dental instruments"
+  },
+  {
+   "id": "path-p67-002",
+   "deck": "Oral Pathology",
+   "section": "Traumatic ulcer",
+   "page": 67,
+   "text": "Traumatic ulcers occur on BOTH {{c1::movable}} mucosa (cheeks, lips, soft palate) and {{c2::unmovable}} mucosa (hard palate, gingiva, dorsal tongue).",
+   "extra": "Contrast: aphthous ulcers occur ONLY on movable, nonkeratinized mucosa."
+  },
+  {
+   "id": "path-p67-003",
+   "deck": "Oral Pathology",
+   "section": "Traumatic ulcer",
+   "page": 67,
+   "text": "Appearance of a traumatic ulcer: well-defined ulcer with a {{c1::yellowish base}} and {{c2::red halo}}."
+  },
+  {
+   "id": "path-p67-004",
+   "deck": "Oral Pathology",
+   "section": "Traumatic ulcer",
+   "page": 67,
+   "text": "A traumatic ulcer is painful and heals within {{c1::7–14 days}} after {{c2::removing the irritant}}."
+  },
+  {
+   "id": "path-p67-005",
+   "deck": "Oral Pathology",
+   "section": "Aspirin burn",
+   "page": 67,
+   "text": "An aspirin burn is a {{c1::chemical burn}} of the oral mucosa caused by direct placement of aspirin, due to the acidic nature of {{c2::acetylsalicylic acid}}.",
+   "extra": "It is a type of traumatic ulcer."
+  },
+  {
+   "id": "path-p67-006",
+   "deck": "Oral Pathology",
+   "section": "Aspirin burn",
+   "page": 67,
+   "text": "Aspirin burns are most common on the {{c1::buccal mucosa, vestibule, or gingiva}} near the {{c2::painful tooth}}."
+  },
+  {
+   "id": "path-p67-007",
+   "deck": "Oral Pathology",
+   "section": "Aspirin burn",
+   "page": 67,
+   "text": "Appearance of an aspirin burn: {{c1::white, necrotic}} lesion that may slough off, leaving a {{c2::red, painful}} base."
+  },
+  {
+   "id": "path-p67-008",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcers",
+   "page": 67,
+   "text": "An aphthous ulcer (canker sore) is triggered by {{c1::stress, hormones, nutritional deficiencies}}, or unknown triggers.",
+   "extra": "e.g., vitamin B12 deficiency, school stress. \"Aphthous\" means eruption or ulcer."
+  },
+  {
+   "id": "path-p67-009",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcers",
+   "page": 67,
+   "text": "Aphthous ulcers occur ONLY on {{c1::movable, nonkeratinized}} mucosa (labial/buccal mucosa, vestibule, ventral/lateral tongue, soft palate, nasopharynx).",
+   "extra": "Board favourite: NOT on attached gingiva or hard palate (keratinized) — that points to herpes or trauma instead."
+  },
+  {
+   "id": "path-p67-010",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcers",
+   "page": 67,
+   "text": "Appearance of an aphthous ulcer: small, round or oval ulcer with a {{c1::yellowish-white center}} and {{c2::red halo}}.",
+   "extra": "WakeUpMemory: think of the Target logo — white center, then a red halo. (Shopping at Target = stress reliever.)"
+  },
+  {
+   "id": "path-p67-011",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcers",
+   "page": 67,
+   "text": "A (minor) aphthous ulcer is painful, heals spontaneously in 7–14 days with {{c1::no scarring}}; treated with {{c2::topical steroids}} or rinses to reduce discomfort."
+  },
+  {
+   "id": "path-p67-012",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcer types",
+   "page": 67,
+   "text": "Of the three aphthous ulcer types, {{c1::minor}} aphthous ulcers are the most common and {{c2::herpetiform}} aphthous ulcers the least common."
+  },
+  {
+   "id": "path-p67-013",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcer types",
+   "page": 67,
+   "text": "Location by aphthous type: minor and major aphthae occur on {{c1::movable mucosa}}; herpetiform aphthae can occur {{c2::anywhere in the oral cavity}}."
+  },
+  {
+   "id": "path-p67-014",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcer types",
+   "page": 67,
+   "text": "Healing: minor and herpetiform aphthae heal in 7–10 days with no scarring; {{c1::major}} aphthae take {{c2::several weeks}}, often with scarring."
+  },
+  {
+   "id": "path-p67-015",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcer types",
+   "page": 67,
+   "text": "Pain: minor aphthae = {{c1::mild to moderate}}; major = more severe; herpetiform = {{c2::very painful}} due to numerous small ulcers."
+  },
+  {
+   "id": "path-p67-016",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcer types",
+   "page": 67,
+   "text": "Associated factors: minor aphthae — {{c1::stress, minor trauma}}; major aphthae — {{c2::immunodeficiency (e.g., HIV)}}, systemic disease; herpetiform — unknown."
+  },
+  {
+   "id": "path-p67-017",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcer types",
+   "page": 67,
+   "text": "Despite the name, herpetiform aphthous ulcers are NOT caused by the {{c1::herpes virus}}."
+  },
+  {
+   "id": "path-p67-018",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcer types",
+   "page": 67,
+   "text": "Treatment: minor aphthae — topical corticosteroids, supportive care; major — {{c1::topical or systemic corticosteroids}}; herpetiform — {{c2::topical tetracycline}} or corticosteroids."
+  },
+  {
+   "id": "path-p67-019",
+   "deck": "Oral Pathology",
+   "section": "Frictional keratosis",
+   "page": 67,
+   "text": "Frictional keratosis is a {{c1::benign}}, reactive lesion where the mucosa develops a thickened layer of {{c2::keratin}} in response to chronic mechanical irritation.",
+   "extra": "e.g., cheek biting, sharp teeth, dental appliances. Keratin = tough fibrous protein in the outer layer of skin, hair, nails and oral mucosa lining."
+  },
+  {
+   "id": "path-p67-020",
+   "deck": "Oral Pathology",
+   "section": "Frictional keratosis",
+   "page": 67,
+   "text": "{{c1::Linea alba}} is considered a form of frictional keratosis."
+  },
+  {
+   "id": "path-p67-021",
+   "deck": "Oral Pathology",
+   "section": "Frictional keratosis",
+   "page": 67,
+   "text": "Frictional keratosis appears as a {{c1::white patch}} with {{c2::no ulceration}} at the site of irritation, in areas subject to repeated trauma."
+  },
+  {
+   "id": "path-p67-022",
+   "deck": "Oral Pathology",
+   "section": "Frictional keratosis",
+   "page": 67,
+   "text": "Frictional keratosis is asymptomatic and {{c1::resolves once the trauma is eliminated}}."
+  },
+  {
+   "id": "path-p67-023",
+   "deck": "Oral Pathology",
+   "section": "Multiple myeloma",
+   "page": 67,
+   "text": "WakeUpMemory: multiple myeloma = {{c1::punched-out}} radiographic lesions (\"multiple holes\")."
+  },
+  {
+   "id": "path-p68-001",
+   "deck": "Oral Pathology",
+   "section": "Pyogenic granuloma",
+   "page": 68,
+   "text": "A pyogenic granuloma is a reactive red or purple, soft, elevated mass that bleeds easily due to its {{c1::high vascularity}}."
+  },
+  {
+   "id": "path-p68-002",
+   "deck": "Oral Pathology",
+   "section": "Pyogenic granuloma",
+   "page": 68,
+   "text": "Pyogenic granuloma is often called a {{c1::pregnancy tumor}} (though not always related to pregnancy)."
+  },
+  {
+   "id": "path-p68-003",
+   "deck": "Oral Pathology",
+   "section": "Pyogenic granuloma",
+   "page": 68,
+   "text": "Cause of pyogenic granuloma: {{c1::hormonal influence}} (typically regresses after childbirth); in non-pregnant people, {{c2::local irritation (plaque or trauma)}}."
+  },
+  {
+   "id": "path-p68-004",
+   "deck": "Oral Pathology",
+   "section": "Pyogenic granuloma",
+   "page": 68,
+   "text": "Pyogenic granuloma is most often on the {{c1::gingiva}}, but may also occur on lips, tongue, buccal mucosa, or skin (hands, fingers, face)."
+  },
+  {
+   "id": "path-p68-005",
+   "deck": "Oral Pathology",
+   "section": "Pyogenic granuloma",
+   "page": 68,
+   "text": "Pyogenic granuloma appearance: smooth, {{c1::lobulated}}, dark {{c2::reddish}}; {{c3::painless}} but bleeds easily.",
+   "extra": "Treatment: heals on its own; surgery may be needed."
+  },
+  {
+   "id": "path-p68-006",
+   "deck": "Oral Pathology",
+   "section": "Urticaria and angioedema",
+   "page": 68,
+   "text": "Urticaria and angioedema are {{c1::allergic reactions}} triggered by {{c2::histamine}}, causing swelling from fluid leaking into tissues."
+  },
+  {
+   "id": "path-p68-007",
+   "deck": "Oral Pathology",
+   "section": "Urticaria and angioedema",
+   "page": 68,
+   "text": "{{c1::Urticaria (hives)}} = multiple raised, red or pale, well-defined, itchy skin patches that appear suddenly; {{c2::angioedema}} = deeper tissue swelling, especially around the lips, eyes, or throat."
+  },
+  {
+   "id": "path-p68-008",
+   "deck": "Oral Pathology",
+   "section": "Urticaria and angioedema",
+   "page": 68,
+   "text": "Urticaria is intensely itchy ({{c1::pruritus}}); angioedema is usually {{c2::not itchy}} but may cause tightness or discomfort."
+  },
+  {
+   "id": "path-p68-009",
+   "deck": "Oral Pathology",
+   "section": "Urticaria and angioedema",
+   "page": 68,
+   "text": "Angioedema involving the airway may cause {{c1::breathing difficulty}}; severe cases may require {{c2::epinephrine}} and emergency intervention."
+  },
+  {
+   "id": "path-p68-010",
+   "deck": "Oral Pathology",
+   "section": "Urticaria and angioedema",
+   "page": 68,
+   "text": "Urticaria/angioedema treatment: {{c1::antihistamines}}, with {{c2::corticosteroids}} for more persistent cases."
+  },
+  {
+   "id": "path-p68-011",
+   "deck": "Oral Pathology",
+   "section": "Contact dermatitis",
+   "page": 68,
+   "text": "Contact dermatitis is inflammation of the skin or oral mucosa caused by {{c1::direct contact with allergens}} or irritants, e.g., latex gloves, metal in dental appliances, toothpaste flavoring agents."
+  },
+  {
+   "id": "path-p68-012",
+   "deck": "Oral Pathology",
+   "section": "Contact dermatitis",
+   "page": 68,
+   "text": "Contact dermatitis is limited to the {{c1::area of contact}}; appearance: swelling, redness, itching, burning, sometimes a smooth shiny surface."
+  },
+  {
+   "id": "path-p68-013",
+   "deck": "Oral Pathology",
+   "section": "Contact dermatitis",
+   "page": 68,
+   "text": "Contact dermatitis is a {{c1::Type IV (delayed)}} hypersensitivity reaction mediated by sensitized {{c2::T-cells}}, with symptoms appearing {{c3::hours to days}} after exposure."
+  },
+  {
+   "id": "path-p68-014",
+   "deck": "Oral Pathology",
+   "section": "Hematoma",
+   "page": 68,
+   "text": "A hematoma is a localized accumulation of {{c1::blood}} within tissue from ruptured blood vessels, typically after trauma or injury (e.g., a dental needle)."
+  },
+  {
+   "id": "path-p68-015",
+   "deck": "Oral Pathology",
+   "section": "Hematoma",
+   "page": 68,
+   "text": "In dentistry, hematoma is common after a {{c1::PSA (posterior superior alveolar)}} nerve block, where the {{c2::pterygoid venous plexus}} may be punctured.",
+   "extra": "Location: buccal mucosa, vestibule, or near the injection site."
+  },
+  {
+   "id": "path-p68-016",
+   "deck": "Oral Pathology",
+   "section": "Hematoma",
+   "page": 68,
+   "text": "A hematoma appears as a {{c1::dark swelling}}; it resolves on its own within {{c2::a few days to weeks}}, and {{c3::cold compresses}} reduce initial swelling."
+  },
+  {
+   "id": "path-p68-017",
+   "deck": "Oral Pathology",
+   "section": "Mucocele",
+   "page": 68,
+   "text": "A mucocele is a {{c1::pseudocyst}} (not lined by epithelium) that forms when mucin from a ruptured {{c2::minor}} salivary gland duct leaks into connective tissue, typically after trauma (lip biting)."
+  },
+  {
+   "id": "path-p68-018",
+   "deck": "Oral Pathology",
+   "section": "Mucocele",
+   "page": 68,
+   "text": "Mucoceles are most often found on the {{c1::lower lip}}.",
+   "extra": "WakeUpMemory: \"seal the lips\" — keep your mucoCELE a secret. Also buccal mucosa, ventral tongue, soft palate, retromolar pad, upper lip."
+  },
+  {
+   "id": "path-p68-019",
+   "deck": "Oral Pathology",
+   "section": "Mucocele",
+   "page": 68,
+   "text": "Mucoceles can occur anywhere minor salivary glands exist — i.e., everywhere except the {{c1::anterior hard palate}} and {{c2::attached gingiva}}."
+  },
+  {
+   "id": "path-p68-020",
+   "deck": "Oral Pathology",
+   "section": "Mucocele",
+   "page": 68,
+   "text": "Mucocele appearance: soft, {{c1::bluish}}, dome-shaped, less than {{c2::1.5 cm}} in diameter.",
+   "extra": "Asymptomatic; may resolve on its own; surgical excision if needed."
+  },
+  {
+   "id": "path-p69-001",
+   "deck": "Oral Pathology",
+   "section": "Ranula",
+   "page": 69,
+   "text": "A ranula is a larger, bluish, fluctuant lesion on the {{c1::floor of the mouth}}, caused by trauma or blockage of a {{c2::major}} salivary gland — most often the {{c3::sublingual}} gland.",
+   "extra": "WakeUpMemory: ranula = \"frog\" in Latin — the swelling resembles a frog's translucent underbelly."
+  },
+  {
+   "id": "path-p69-002",
+   "deck": "Oral Pathology",
+   "section": "Ranula",
+   "page": 69,
+   "text": "The sublingual gland drains via {{c1::Bartholin's and Rivinus}} ducts and produces ~{{c2::5–10%}} of saliva, mostly {{c3::mucous}}."
+  },
+  {
+   "id": "path-p69-003",
+   "deck": "Oral Pathology",
+   "section": "Ranula",
+   "page": 69,
+   "text": "A ranula is larger and deeper than a mucocele and may {{c1::displace the tongue}}; it may need {{c2::surgery}}."
+  },
+  {
+   "id": "path-p69-004",
+   "deck": "Oral Pathology",
+   "section": "Sialolith",
+   "page": 69,
+   "text": "Sialolithiasis is a {{c1::calcified mass (stone)}} in the ducts of major or minor salivary glands."
+  },
+  {
+   "id": "path-p69-005",
+   "deck": "Oral Pathology",
+   "section": "Sialolith",
+   "page": 69,
+   "text": "Sialoliths occur most often in the {{c1::submandibular}} gland, which drains through {{c2::Wharton's}} duct."
+  },
+  {
+   "id": "path-p69-006",
+   "deck": "Oral Pathology",
+   "section": "Sialolith",
+   "page": 69,
+   "text": "A sialolith causes pain and swelling especially during {{c1::meals}}, when salivary flow increases and saliva creates pressure around the stone.",
+   "extra": "Appearance: firm, localized swelling."
+  },
+  {
+   "id": "path-p69-007",
+   "deck": "Oral Pathology",
+   "section": "Sialolith",
+   "page": 69,
+   "text": "Small sialoliths may pass with {{c1::hydration or stimulation}} (e.g., lemon slices); larger stones may require {{c2::surgical removal}}."
+  },
+  {
+   "id": "path-p69-008",
+   "deck": "Oral Pathology",
+   "section": "Sjögren's syndrome",
+   "page": 69,
+   "text": "Sjögren's syndrome is a chronic {{c1::autoimmune}} disease in which the immune system attacks the {{c2::salivary}} and {{c3::lacrimal}} glands.",
+   "extra": "WakeUpMemory: Sjögren's = Sahara syndrome — dries up saliva and tears."
+  },
+  {
+   "id": "path-p69-009",
+   "deck": "Oral Pathology",
+   "section": "Sjögren's syndrome",
+   "page": 69,
+   "text": "Sjögren's affects the salivary glands, especially the {{c1::parotid}}, and may cause {{c2::bilateral}} parotid swelling in about half of cases."
+  },
+  {
+   "id": "path-p69-010",
+   "deck": "Oral Pathology",
+   "section": "Sjögren's syndrome",
+   "page": 69,
+   "text": "Sjögren's causes {{c1::xerostomia}} (dry mouth) and {{c2::xerophthalmia}} (dry eyes)."
+  },
+  {
+   "id": "path-p69-011",
+   "deck": "Oral Pathology",
+   "section": "Sjögren's syndrome",
+   "page": 69,
+   "text": "Xerostomia + xerophthalmia together = {{c1::sicca}} syndrome, which may also occur in conditions other than Sjögren's."
+  },
+  {
+   "id": "path-p69-012",
+   "deck": "Oral Pathology",
+   "section": "Sjögren's syndrome",
+   "page": 69,
+   "text": "Sjögren's patients may have difficulty speaking and swallowing and a burning sensation; management: artificial saliva, {{c1::fluoride products}}, and {{c2::antifungals}} if candidiasis occurs."
+  },
+  {
+   "id": "path-p69-013",
+   "deck": "Oral Pathology",
+   "section": "Sjögren's syndrome",
+   "page": 69,
+   "text": "Sjögren's is confirmed by a {{c1::minor salivary gland biopsy}} (typically from the lip) and blood tests (positive {{c2::rheumatoid factor}} or autoantibodies)."
+  },
+  {
+   "id": "path-p69-014",
+   "deck": "Oral Pathology",
+   "section": "Median rhomboid glossitis",
+   "page": 69,
+   "text": "Median rhomboid glossitis is a red, flat or slightly raised lesion in the {{c1::midline of the dorsal tongue}}, just in front of the {{c2::circumvallate papillae}}."
+  },
+  {
+   "id": "path-p69-015",
+   "deck": "Oral Pathology",
+   "section": "Median rhomboid glossitis",
+   "page": 69,
+   "text": "Median rhomboid glossitis appears well-defined, {{c1::rhomboid (diamond-shaped)}}, and {{c2::smooth}}, red due to loss of {{c3::filiform}} papillae."
+  },
+  {
+   "id": "path-p69-016",
+   "deck": "Oral Pathology",
+   "section": "Median rhomboid glossitis",
+   "page": 69,
+   "text": "Median rhomboid glossitis is linked to chronic {{c1::Candida albicans}}; more common in {{c2::immunocompromised}} individuals or denture wearers.",
+   "extra": "Asymptomatic/mild burning; no treatment needed — antifungals if Candida is involved."
+  },
+  {
+   "id": "path-p69-017",
+   "deck": "Oral Pathology",
+   "section": "Geographic tongue",
+   "page": 69,
+   "text": "Geographic tongue is a benign inflammatory condition with multiple {{c1::red patches}} surrounded by {{c2::white or yellowish borders}}, giving a map-like appearance."
+  },
+  {
+   "id": "path-p69-018",
+   "deck": "Oral Pathology",
+   "section": "Geographic tongue",
+   "page": 69,
+   "text": "Geographic tongue affects the {{c1::dorsal and lateral}} surfaces of the tongue."
+  },
+  {
+   "id": "path-p69-019",
+   "deck": "Oral Pathology",
+   "section": "Geographic tongue",
+   "page": 69,
+   "text": "In geographic tongue, the red depapillated zones are where {{c1::filiform}} papillae are lost, bordered by regenerating or {{c2::hyperkeratotic}} tissue."
+  },
+  {
+   "id": "path-p69-020",
+   "deck": "Oral Pathology",
+   "section": "Geographic tongue",
+   "page": 69,
+   "text": "Geographic tongue is asymptomatic but may burn with {{c1::spicy or acidic foods}}; no treatment unless symptoms persist. May be linked to stress, hormonal changes, or {{c2::psoriasis}}."
+  },
+  {
+   "id": "path-p70-001",
+   "deck": "Oral Pathology",
+   "section": "Hairy tongue",
+   "page": 70,
+   "text": "Hairy tongue is a benign condition caused by {{c1::elongation of the filiform papillae}} on the dorsal tongue due to {{c2::keratin}} buildup.",
+   "extra": "Fun fact: normally saliva and chewing give the papillae a daily \"haircut\"; antibiotics, dry mouth or smoking stop that, so the \"hairs\" grow long."
+  },
+  {
+   "id": "path-p70-002",
+   "deck": "Oral Pathology",
+   "section": "Hairy tongue",
+   "page": 70,
+   "text": "Hairy tongue projections may be brown, black, yellow, or green, depending on trapped {{c1::bacteria, food, tobacco, or pigments}}."
+  },
+  {
+   "id": "path-p70-003",
+   "deck": "Oral Pathology",
+   "section": "Hairy tongue",
+   "page": 70,
+   "text": "Hairy tongue is linked to poor oral hygiene, smoking, alcohol, and medications such as {{c1::antibiotics}}, {{c2::corticosteroids}}, and anticholinergics."
+  },
+  {
+   "id": "path-p70-004",
+   "deck": "Oral Pathology",
+   "section": "Hairy tongue",
+   "page": 70,
+   "text": "Hairy tongue is usually asymptomatic but may cause halitosis, gagging, or bad taste; managed by {{c1::tongue brushing}}, improved hygiene, and eliminating contributing factors."
+  },
+  {
+   "id": "path-p70-005",
+   "deck": "Oral Pathology",
+   "section": "Hairy leukoplakia",
+   "page": 70,
+   "text": "Hairy leukoplakia is a white lesion typically on the {{c1::lateral borders}} of the tongue."
+  },
+  {
+   "id": "path-p70-006",
+   "deck": "Oral Pathology",
+   "section": "Hairy leukoplakia",
+   "page": 70,
+   "text": "Hairy leukoplakia is caused by {{c1::Epstein-Barr virus (EBV)}}, which is human herpesvirus {{c2::4}}; the virus infects epithelial cells, causing {{c3::hyperkeratosis}}.",
+   "extra": "Fun fact: >90% of adults carry EBV (the \"kissing disease\" virus, spread through saliva); it stays for life and can trigger hairy leukoplakia when immunity is weak."
+  },
+  {
+   "id": "path-p70-007",
+   "deck": "Oral Pathology",
+   "section": "Hairy leukoplakia",
+   "page": 70,
+   "text": "Hairy leukoplakia appears as a white, corrugated, \"hairy\" plaque that {{c1::cannot be wiped off}}."
+  },
+  {
+   "id": "path-p70-008",
+   "deck": "Oral Pathology",
+   "section": "Hairy leukoplakia",
+   "page": 70,
+   "text": "Hairy leukoplakia is common in {{c1::HIV-positive}} or immunosuppressed patients; it is asymptomatic and {{c2::not premalignant}}.",
+   "extra": "May need medical intervention."
+  },
+  {
+   "id": "path-p70-009",
+   "deck": "Oral Pathology",
+   "section": "Ankyloglossia",
+   "page": 70,
+   "text": "Ankyloglossia (tongue-tie) is a {{c1::congenital}} condition in which the {{c2::lingual frenum}} is unusually short, thick, or tight, limiting tongue movement."
+  },
+  {
+   "id": "path-p70-010",
+   "deck": "Oral Pathology",
+   "section": "Ankyloglossia",
+   "page": 70,
+   "text": "Ankyloglossia may cause difficulty with speech, breastfeeding, and oral hygiene, or contribute to {{c1::gingival recession}}; treated by {{c2::frenectomy}} (surgical removal or release of a frenum)."
+  },
+  {
+   "id": "path-p70-011",
+   "deck": "Oral Pathology",
+   "section": "Fissured tongue",
+   "page": 70,
+   "text": "Fissured tongue is a benign anatomical variation with deep {{c1::grooves or cracks}} on the {{c2::dorsal}} surface of the tongue."
+  },
+  {
+   "id": "path-p70-012",
+   "deck": "Oral Pathology",
+   "section": "Fissured tongue",
+   "page": 70,
+   "text": "Fissured tongue is asymptomatic, with mild burning if food debris is trapped; no treatment needed — {{c1::gentle tongue cleaning}} advised."
+  },
+  {
+   "id": "path-p70-013",
+   "deck": "Oral Pathology",
+   "section": "Fissured tongue",
+   "page": 70,
+   "text": "Fissured tongue is associated with aging, dry mouth, genetic predisposition, and {{c1::Down syndrome}}."
+  },
+  {
+   "id": "path-p70-014",
+   "deck": "Oral Pathology",
+   "section": "Nicotine stomatitis",
+   "page": 70,
+   "text": "Nicotine stomatitis is a benign, reactive lesion of the {{c1::hard palate}} caused by chronic exposure to {{c2::heat}} — pipes, cigars, or very hot beverages — not from nicotine itself."
+  },
+  {
+   "id": "path-p70-015",
+   "deck": "Oral Pathology",
+   "section": "Nicotine stomatitis",
+   "page": 70,
+   "text": "Nicotine stomatitis starts as a diffuse {{c1::redness}}, then becomes a diffuse {{c2::white}}, opalescent thickening with small {{c3::red dots}} (inflamed minor salivary gland openings)."
+  },
+  {
+   "id": "path-p70-016",
+   "deck": "Oral Pathology",
+   "section": "Nicotine stomatitis",
+   "page": 70,
+   "text": "Nicotine stomatitis is asymptomatic and {{c1::reversible}} if the heat source is eliminated early.",
+   "extra": "The book adds: can become cancerous."
+  },
+  {
+   "id": "path-p70-017",
+   "deck": "Oral Pathology",
+   "section": "Tobacco pouch keratosis",
+   "page": 70,
+   "text": "Tobacco pouch keratosis forms where {{c1::smokeless tobacco}} (chewing tobacco or snuff) is habitually placed — most commonly the {{c2::mucobuccal fold of the mandibular vestibule}}."
+  },
+  {
+   "id": "path-p70-018",
+   "deck": "Oral Pathology",
+   "section": "Tobacco pouch keratosis",
+   "page": 70,
+   "text": "Tobacco pouch keratosis appears {{c1::white}}, folded, or leathery; asymptomatic, may regress after stopping tobacco; may require {{c2::biopsy}}."
+  },
+  {
+   "id": "path-p71-001",
+   "deck": "Oral Pathology",
+   "section": "Smoker's melanosis",
+   "page": 71,
+   "text": "Smoker's melanosis is a benign {{c1::pigmentation}} of the oral mucosa caused by stimulation of {{c2::melanocytes}} from chronic tobacco smoke (like skin tanning in sun)."
+  },
+  {
+   "id": "path-p71-002",
+   "deck": "Oral Pathology",
+   "section": "Smoker's melanosis",
+   "page": 71,
+   "text": "Smoker's melanosis appears as diffuse or patchy {{c1::brown}} discoloration in smoke-exposed areas; asymptomatic, not premalignant, can improve with {{c2::smoking cessation}}."
+  },
+  {
+   "id": "path-p71-003",
+   "deck": "Oral Pathology",
+   "section": "Epulis fissuratum",
+   "page": 71,
+   "text": "Epulis fissuratum is a folded {{c1::overgrowth of fibrous tissue}} in the vestibule caused by an {{c2::ill-fitting denture}}."
+  },
+  {
+   "id": "path-p71-004",
+   "deck": "Oral Pathology",
+   "section": "Epulis fissuratum",
+   "page": 71,
+   "text": "Epulis fissuratum appears as {{c1::redundant folds}} of tissue in the vestibule, commonly on the {{c2::edge}} of a poorly fitting denture; can be ulcerated or inflamed."
+  },
+  {
+   "id": "path-p71-005",
+   "deck": "Oral Pathology",
+   "section": "Epulis fissuratum",
+   "page": 71,
+   "text": "Epulis fissuratum is asymptomatic (painful if ulcerated); treatment: {{c1::adjust the denture}}; may need surgical removal of tissue."
+  },
+  {
+   "id": "path-p71-006",
+   "deck": "Oral Pathology",
+   "section": "Papillary hyperplasia",
+   "page": 71,
+   "text": "Papillary hyperplasia is a benign overgrowth of the {{c1::palatal}} mucosa from chronic denture irritation, especially when the denture is poorly cleaned or {{c2::never removed}} (lack of airflow).",
+   "extra": "Often associated with Candida infection."
+  },
+  {
+   "id": "path-p71-007",
+   "deck": "Oral Pathology",
+   "section": "Papillary hyperplasia",
+   "page": 71,
+   "text": "Papillary hyperplasia: small, red projections with a {{c1::cobblestone}} surface, typically on the {{c2::central hard palate}} beneath a maxillary denture."
+  },
+  {
+   "id": "path-p71-008",
+   "deck": "Oral Pathology",
+   "section": "Papillary hyperplasia",
+   "page": 71,
+   "text": "Papillary hyperplasia is asymptomatic; teach {{c1::denture hygiene}} (cleaning, removal at night); may need {{c2::antifungal}} therapy."
+  },
+  {
+   "id": "path-p71-009",
+   "deck": "Oral Pathology",
+   "section": "Denture stomatitis",
+   "page": 71,
+   "text": "Denture stomatitis is also called chronic {{c1::atrophic candidiasis}}."
+  },
+  {
+   "id": "path-p71-010",
+   "deck": "Oral Pathology",
+   "section": "Denture stomatitis",
+   "page": 71,
+   "text": "Denture stomatitis is inflammation of the palatal mucosa and maxillary ridge beneath a removable denture caused by overgrowth of {{c1::Candida albicans}} due to poor denture hygiene."
+  },
+  {
+   "id": "path-p71-011",
+   "deck": "Oral Pathology",
+   "section": "Denture stomatitis",
+   "page": 71,
+   "text": "Denture stomatitis appears as diffuse {{c1::redness}} confined to the area covered by the {{c2::denture base}}, most common on the hard palate and ridge under an {{c3::upper}} denture.",
+   "extra": "Asymptomatic; teach denture hygiene (cleaning, removal at night); may need antifungal therapy."
+  },
+  {
+   "id": "path-p71-012",
+   "deck": "Oral Pathology",
+   "section": "Periapical granuloma",
+   "page": 71,
+   "text": "A periapical granuloma is a chronic inflammatory lesion of {{c1::granulation tissue}} at the apex of a {{c2::non-vital}} tooth, caused by long-standing pulpal necrosis (deep decay or trauma)."
+  },
+  {
+   "id": "path-p71-013",
+   "deck": "Oral Pathology",
+   "section": "Periapical granuloma",
+   "page": 71,
+   "text": "A periapical granuloma shows a {{c1::radiolucency}} at the apex that is {{c2::indistinguishable}} on radiographs from a periapical cyst or abscess."
+  },
+  {
+   "id": "path-p71-014",
+   "deck": "Oral Pathology",
+   "section": "Periapical granuloma",
+   "page": 71,
+   "text": "A periapical granuloma is asymptomatic (may cause mild pressure); treated with {{c1::root canal therapy}} or extraction."
+  },
+  {
+   "id": "path-p71-015",
+   "deck": "Oral Pathology",
+   "section": "Periapical cyst",
+   "page": 71,
+   "text": "A periapical (radicular) cyst is a true cyst at the apex of a {{c1::non-vital}} tooth; chronic inflammation stimulates the {{c2::epithelial rests of Malassez}} to form an epithelium-lined, fluid-filled cavity.",
+   "extra": "Cause: pulpal necrosis from deep caries, trauma or large restorations."
+  },
+  {
+   "id": "path-p71-016",
+   "deck": "Oral Pathology",
+   "section": "Periapical cyst",
+   "page": 71,
+   "text": "A periapical cyst appears as a well-defined radiolucency at the apex of a non-vital tooth or at the site of an {{c1::extracted tooth}}."
+  },
+  {
+   "id": "path-p71-017",
+   "deck": "Oral Pathology",
+   "section": "Periapical cyst",
+   "page": 71,
+   "text": "A periapical cyst is {{c1::asymptomatic}}; treatment: endodontic therapy or extraction — it may resolve with proper root canal treatment."
+  },
+  {
+   "id": "path-p71-018",
+   "deck": "Oral Pathology",
+   "section": "Periapical cyst",
+   "page": 71,
+   "text": "The periapical (radicular) cyst is the {{c1::most common}} cyst in the oral cavity.",
+   "extra": "WakeUpMemory: periapical sounds like \"popular\"."
+  },
+  {
+   "id": "path-p72-001",
+   "deck": "Oral Pathology",
+   "section": "Periapical abscess",
+   "page": 72,
+   "text": "A periapical abscess is a localized collection of {{c1::pus}} at the apex of a non-vital tooth, caused by {{c2::acute}} bacterial infection secondary to pulpal necrosis (deep caries, trauma, or periodontal disease)."
+  },
+  {
+   "id": "path-p72-002",
+   "deck": "Oral Pathology",
+   "section": "Periapical abscess",
+   "page": 72,
+   "text": "Radiographically, a periapical abscess shows a {{c1::widened PDL space}} at early stages, progressing to a radiolucency at the root apex."
+  },
+  {
+   "id": "path-p72-003",
+   "deck": "Oral Pathology",
+   "section": "Periapical abscess",
+   "page": 72,
+   "text": "A periapical abscess causes {{c1::severe pain}} due to pressure, plus facial swelling; the tooth may feel {{c2::elevated}}, with a foul taste if it drains through a {{c3::sinus tract}}.",
+   "extra": "WakeUpMemory: Abscess = pain — \"ABSolutely hurts!\""
+  },
+  {
+   "id": "path-p72-004",
+   "deck": "Oral Pathology",
+   "section": "Periapical abscess",
+   "page": 72,
+   "text": "Periapical abscess treatment: {{c1::drainage}}, antibiotics, and either root canal therapy or extraction."
+  },
+  {
+   "id": "path-p72-005",
+   "deck": "Oral Pathology",
+   "section": "Focal sclerosing osteomyelitis",
+   "page": 72,
+   "text": "Focal sclerosing osteomyelitis is also called {{c1::condensing osteitis}}."
+  },
+  {
+   "id": "path-p72-006",
+   "deck": "Oral Pathology",
+   "section": "Focal sclerosing osteomyelitis",
+   "page": 72,
+   "text": "Condensing osteitis is a chronic, low-grade inflammatory reaction at the apex of a {{c1::non-vital or inflamed}} tooth (deep caries or large restoration); the bone lays down extra {{c2::dense bone}} instead of inflaming."
+  },
+  {
+   "id": "path-p72-007",
+   "deck": "Oral Pathology",
+   "section": "Focal sclerosing osteomyelitis",
+   "page": 72,
+   "text": "Condensing osteitis occurs mostly in the {{c1::mandibular first molars}} of {{c2::young adults}}."
+  },
+  {
+   "id": "path-p72-008",
+   "deck": "Oral Pathology",
+   "section": "Focal sclerosing osteomyelitis",
+   "page": 72,
+   "text": "Condensing osteitis appears as a well-defined {{c1::radiopaque}} area extending from the root apex; no treatment is needed for the bone — treat or extract the tooth."
+  },
+  {
+   "id": "path-p72-009",
+   "deck": "Oral Pathology",
+   "section": "Alveolar osteitis",
+   "page": 72,
+   "text": "Alveolar osteitis (dry socket) is a post-extraction complication where the {{c1::blood clot}} is lost or fails to form, leaving {{c2::exposed bone}} in the socket."
+  },
+  {
+   "id": "path-p72-010",
+   "deck": "Oral Pathology",
+   "section": "Alveolar osteitis",
+   "page": 72,
+   "text": "Dry socket is most common after extraction of {{c1::mandibular third molars}}."
+  },
+  {
+   "id": "path-p72-011",
+   "deck": "Oral Pathology",
+   "section": "Alveolar osteitis",
+   "page": 72,
+   "text": "Dry socket appears as an empty socket with exposed bone, often {{c1::without pus or swelling}}."
+  },
+  {
+   "id": "path-p72-012",
+   "deck": "Oral Pathology",
+   "section": "Dentigerous cyst",
+   "page": 72,
+   "text": "A dentigerous (follicular) cyst is a developmental odontogenic cyst that forms around the {{c1::crown}} of an {{c2::unerupted or impacted}} tooth, with fluid between the {{c3::reduced enamel epithelium}} and the crown.",
+   "extra": "WakeUpMemory: dentigerous = impacted — car accident → dent → impact."
+  },
+  {
+   "id": "path-p72-013",
+   "deck": "Oral Pathology",
+   "section": "Dentigerous cyst",
+   "page": 72,
+   "text": "Dentigerous cysts occur mostly with impacted {{c1::mandibular third molars}} or {{c2::maxillary canines}}."
+  },
+  {
+   "id": "path-p72-014",
+   "deck": "Oral Pathology",
+   "section": "Dentigerous cyst",
+   "page": 72,
+   "text": "A dentigerous cyst is a well-defined {{c1::unilocular}} radiolucency attached at the {{c2::CEJ}}."
+  },
+  {
+   "id": "path-p72-015",
+   "deck": "Oral Pathology",
+   "section": "Dentigerous cyst",
+   "page": 72,
+   "text": "Dentigerous cysts are asymptomatic but large ones may {{c1::displace teeth}}; treated with {{c2::enucleation}} and removal of the involved tooth."
+  },
+  {
+   "id": "path-p72-016",
+   "deck": "Oral Pathology",
+   "section": "Eruption cyst",
+   "page": 72,
+   "text": "An eruption cyst forms over the crown of an {{c1::erupting}} tooth — most commonly over erupting {{c2::first permanent molars or incisors}}.",
+   "extra": "Common in both primary and permanent dentitions."
+  },
+  {
+   "id": "path-p72-017",
+   "deck": "Oral Pathology",
+   "section": "Eruption cyst",
+   "page": 72,
+   "text": "An eruption cyst is a soft, dome-shaped, translucent to {{c1::bluish}} swelling; asymptomatic, no treatment — the tooth usually {{c2::erupts through the cyst}}.",
+   "extra": "Fun fact: bluish because fluid or blood trapped under the mucosa makes a translucent or blood-tinged swelling."
+  },
+  {
+   "id": "path-p72-018",
+   "deck": "Oral Pathology",
+   "section": "Primordial cyst",
+   "page": 72,
+   "text": "A primordial cyst is a developmental cyst that arises where a tooth failed to develop — {{c1::instead of a tooth}}.",
+   "extra": "WakeUpMemory: primordial = failed teeth — like a primer coat with no final colour."
+  },
+  {
+   "id": "path-p72-019",
+   "deck": "Oral Pathology",
+   "section": "Primordial cyst",
+   "page": 72,
+   "text": "Primordial cysts are commonly in the {{c1::mandibular third molar}} region; a well-defined radiolucency, often discovered {{c2::incidentally}}; treated by surgical removal."
+  },
+  {
+   "id": "path-p73-001",
+   "deck": "Oral Pathology",
+   "section": "Pulpitis",
+   "page": 73,
+   "text": "Pulpitis is inflammation of the dental pulp caused by a {{c1::carious infection}}; it can be {{c2::reversible or irreversible}}.",
+   "extra": "Symptoms: pain. Involves extraction or root canal."
+  },
+  {
+   "id": "path-p73-002",
+   "deck": "Oral Pathology",
+   "section": "Pulpitis",
+   "page": 73,
+   "text": "A {{c1::pulp polyp}} is an overgrowth of chronically inflamed pulp tissue that protrudes out of an open carious pulp chamber."
+  },
+  {
+   "id": "path-p73-003",
+   "deck": "Oral Pathology",
+   "section": "Pulpitis",
+   "page": 73,
+   "text": "Pulp polyps occur most often in {{c1::molars}} with wide pulp chambers and appear as a {{c2::pink, fleshy}} mass of granulation tissue protruding from the pulp chamber."
+  },
+  {
+   "id": "path-p73-004",
+   "deck": "Oral Pathology",
+   "section": "Regional odontodysplasia",
+   "page": 73,
+   "text": "Regional odontodysplasia (\"{{c1::ghost teeth}}\") is a rare developmental abnormality affecting {{c2::enamel, dentin, and pulp}} of one or more teeth.",
+   "extra": "Caused by trauma, etc."
+  },
+  {
+   "id": "path-p73-005",
+   "deck": "Oral Pathology",
+   "section": "Regional odontodysplasia",
+   "page": 73,
+   "text": "Regional odontodysplasia is usually {{c1::unilateral}}, in the same {{c2::quadrant}}, and can affect both primary and permanent teeth.",
+   "extra": "WakeUpMemory: a ghost haunts one corner — one section of the jaw."
+  },
+  {
+   "id": "path-p73-006",
+   "deck": "Oral Pathology",
+   "section": "Regional odontodysplasia",
+   "page": 73,
+   "text": "In regional odontodysplasia, teeth are small, malformed, {{c1::hypoplastic}}, and may fail to erupt or erupt late."
+  },
+  {
+   "id": "path-p73-007",
+   "deck": "Oral Pathology",
+   "section": "Regional odontodysplasia",
+   "page": 73,
+   "text": "Radiographically, regional odontodysplasia is \"ghost-like\": {{c1::thin enamel and dentin}}, {{c2::enlarged pulp chambers}}, faint looking."
+  },
+  {
+   "id": "path-p73-008",
+   "deck": "Oral Pathology",
+   "section": "Regional odontodysplasia",
+   "page": 73,
+   "text": "Teeth with regional odontodysplasia are often non-functional and prone to {{c1::decay or fracture}}; may need extraction."
+  },
+  {
+   "id": "path-p73-009",
+   "deck": "Oral Pathology",
+   "section": "Odontogenic keratocyst",
+   "page": 73,
+   "text": "An odontogenic keratocyst (OKC) is a benign but {{c1::aggressive}} cystic odontogenic tumor arising from remnants of the {{c2::dental lamina}}, lined by {{c3::parakeratin}}."
+  },
+  {
+   "id": "path-p73-010",
+   "deck": "Oral Pathology",
+   "section": "Odontogenic keratocyst",
+   "page": 73,
+   "text": "OKCs occur most often in the {{c1::posterior mandible}}, especially the angle and ramus area."
+  },
+  {
+   "id": "path-p73-011",
+   "deck": "Oral Pathology",
+   "section": "Odontogenic keratocyst",
+   "page": 73,
+   "text": "An OKC is a well-defined {{c1::multilocular}} radiolucency that can resorb teeth and displace roots with {{c2::minimal bone expansion}}."
+  },
+  {
+   "id": "path-p73-012",
+   "deck": "Oral Pathology",
+   "section": "Odontogenic keratocyst",
+   "page": 73,
+   "text": "OKCs have a high {{c1::recurrence}} rate due to the presence of {{c2::daughter cysts}}; they need surgical removal.",
+   "extra": "WakeUpMemory: OKC = \"Oh Keep Coming back!\" Often asymptomatic until large."
+  },
+  {
+   "id": "path-p73-013",
+   "deck": "Oral Pathology",
+   "section": "Odontogenic keratocyst",
+   "page": 73,
+   "text": "Multiple OKCs are linked to {{c1::nevoid basal cell carcinoma syndrome (Gorlin syndrome)}}."
+  },
+  {
+   "id": "path-p73-014",
+   "deck": "Oral Pathology",
+   "section": "Lateral periodontal cyst",
+   "page": 73,
+   "text": "A lateral periodontal cyst is a developmental cyst in bone from remnants of the {{c1::dental lamina}}, reduced enamel epithelium, or epithelial rests of Malassez.",
+   "extra": "Don't be confused: it is NOT pulp-related, unlike periapical cyst/abscess/granuloma — it comes from trapped tooth-related cells in bone."
+  },
+  {
+   "id": "path-p73-015",
+   "deck": "Oral Pathology",
+   "section": "Lateral periodontal cyst",
+   "page": 73,
+   "text": "A lateral periodontal cyst lies on the lateral aspect of a {{c1::vital}} tooth root, commonly between the {{c2::mandibular canine and premolar}}."
+  },
+  {
+   "id": "path-p73-016",
+   "deck": "Oral Pathology",
+   "section": "Lateral periodontal cyst",
+   "page": 73,
+   "text": "A lateral periodontal cyst is a well-circumscribed radiolucency; clinically may be a small, firm swelling of the {{c1::interdental papilla}} or attached gingiva.",
+   "extra": "Asymptomatic; surgical enucleation; low recurrence risk."
+  },
+  {
+   "id": "path-p73-017",
+   "deck": "Oral Pathology",
+   "section": "Lateral periodontal cyst",
+   "page": 73,
+   "text": "When a lateral periodontal cyst occurs in soft tissue rather than bone, it is called a {{c1::gingival cyst}}."
+  },
+  {
+   "id": "path-p73-018",
+   "deck": "Oral Pathology",
+   "section": "Odontoma",
+   "page": 73,
+   "text": "An odontoma is a benign tumor composed of fully formed {{c1::enamel, dentin, cementum, and pulp}}."
+  },
+  {
+   "id": "path-p73-019",
+   "deck": "Oral Pathology",
+   "section": "Odontoma",
+   "page": 73,
+   "text": "A {{c1::compound}} odontoma appears as a cluster of many small tooth-like structures, typically in the {{c2::anterior maxilla}}.",
+   "extra": "WakeUpMemory: compound = many teeth (2 \"o\"s = more than two small teeth)."
+  },
+  {
+   "id": "path-p73-020",
+   "deck": "Oral Pathology",
+   "section": "Odontoma",
+   "page": 73,
+   "text": "A {{c1::complex}} odontoma is a solid, irregular {{c2::radiopaque}} mass that does not resemble teeth, commonly in the {{c3::posterior mandible}}.",
+   "extra": "WakeUpMemory: complex = one big mass, like a shopping complex."
+  },
+  {
+   "id": "path-p73-021",
+   "deck": "Oral Pathology",
+   "section": "Odontoma",
+   "page": 73,
+   "text": "Odontomas are often asymptomatic but may cause delayed eruption, swelling, or tooth displacement; surgical removal is needed, with {{c1::no risk of recurrence}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "path-p68-b-01",
+   "deck": "Oral Pathology",
+   "section": "Pyogenic granuloma",
+   "page": 68,
+   "front": "Why is the name \"pyogenic granuloma\" misleading?",
+   "back": "It produces no pus (\"pyo-\") and is not a true granuloma (immune-cell cluster of chronic inflammation) — it is a vascular overgrowth from irritation or trauma.",
+   "reverse": false,
+   "extra": "Fun fact: the name stuck from before microscopes."
+  },
+  {
+   "id": "path-p69-b-01",
+   "deck": "Oral Pathology",
+   "section": "Sialolith",
+   "page": 69,
+   "front": "Why do sialoliths form most often in the submandibular gland?",
+   "back": "Its duct (Wharton's) is long and curved and travels against gravity, increasing the risk of mineral buildup.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "path-p70-b-01",
+   "deck": "Oral Pathology",
+   "section": "Ankyloglossia",
+   "page": 70,
+   "front": "Frenum",
+   "back": "Small fold that anchors and stabilizes oral tissues like the tongue or lips while allowing controlled movement",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "path-p72-b-01",
+   "deck": "Oral Pathology",
+   "section": "Alveolar osteitis",
+   "page": 72,
+   "front": "Why is a dry socket so painful?",
+   "back": "Bone and nerve endings are exposed to air and debris without a protective blood clot, triggering intense inflammation.",
+   "reverse": false,
+   "extra": "Managed with irrigation, dressing, and pain control."
+  }
+ ],
+ "typein": [
+  {
+   "id": "path-p67-t-01",
+   "deck": "Oral Pathology",
+   "section": "Aspirin burn",
+   "page": 67,
+   "question": "An aspirin burn heals spontaneously within how many days once the irritant is removed? (range)",
+   "answer": "7–21",
+   "extra": "Painful; heals spontaneously."
+  },
+  {
+   "id": "path-p72-t-01",
+   "deck": "Oral Pathology",
+   "section": "Alveolar osteitis",
+   "page": 72,
+   "question": "Dry-socket pain typically starts how many days after extraction? (range)",
+   "answer": "2–4",
+   "extra": "Sharp, radiating pain + bad odor, foul taste."
+  }
+ ],
+ "match": [
+  {
+   "id": "path-p67-m-01",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcer types",
+   "page": 67,
+   "prompt": "Match each aphthous ulcer type to its size.",
+   "pairs": [
+    [
+     "Minor aphthous",
+     "<1 cm in diameter"
+    ],
+    [
+     "Major aphthous",
+     ">1 cm in diameter"
+    ],
+    [
+     "Herpetiform aphthous",
+     "Tiny (1–2 mm), clustered"
+    ]
+   ]
+  },
+  {
+   "id": "path-p71-m-01",
+   "deck": "Oral Pathology",
+   "section": "Periapical pathology",
+   "page": 71,
+   "prompt": "Match each periapical lesion to its stage (all from pulpal infection).",
+   "pairs": [
+    [
+     "Periapical abscess",
+     "Fast, aggressive, acute response"
+    ],
+    [
+     "Periapical granuloma",
+     "Early or chronic low-grade inflammation"
+    ],
+    [
+     "Periapical cyst",
+     "Later-stage chronic inflammation"
+    ]
+   ]
+  },
+  {
+   "id": "path-p72-m-01",
+   "deck": "Oral Pathology",
+   "section": "Developmental cysts",
+   "page": 72,
+   "prompt": "Match each cyst to where it forms.",
+   "pairs": [
+    [
+     "Dentigerous cyst",
+     "Around the crown of an unerupted/impacted tooth"
+    ],
+    [
+     "Eruption cyst",
+     "Over the crown of an erupting tooth"
+    ],
+    [
+     "Primordial cyst",
+     "In place of a tooth that never developed"
+    ],
+    [
+     "Periapical cyst",
+     "At the apex of a non-vital tooth"
+    ],
+    [
+     "Lateral periodontal cyst",
+     "Lateral to the root of a vital tooth"
+    ]
+   ]
+  }
+ ],
+ "order": [],
+ "sort": [
+  {
+   "id": "path-p69-s-01",
+   "deck": "Oral Pathology",
+   "section": "Mucocele vs ranula",
+   "page": 69,
+   "prompt": "Sort the features: mucocele or ranula?",
+   "categories": [
+    [
+     "Mucocele",
+     [
+      "Minor salivary gland duct",
+      "Lower lip most common",
+      "Less than 1.5 cm"
+     ]
+    ],
+    [
+     "Ranula",
+     [
+      "Major salivary gland (sublingual)",
+      "Floor of the mouth",
+      "May displace the tongue"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "path-p70-s-01",
+   "deck": "Oral Pathology",
+   "section": "Tongue conditions",
+   "page": 70,
+   "prompt": "Sort the tongue conditions by cause.",
+   "categories": [
+    [
+     "Fungal (Candida)",
+     [
+      "Median rhomboid glossitis"
+     ]
+    ],
+    [
+     "Keratin build-up / elongated filiform papillae",
+     [
+      "Hairy tongue"
+     ]
+    ],
+    [
+     "Developmental / anatomic variation",
+     [
+      "Ankyloglossia",
+      "Fissured tongue"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "path-p71-s-01",
+   "deck": "Oral Pathology",
+   "section": "Tobacco lesions",
+   "page": 71,
+   "prompt": "Sort the lesions by cause.",
+   "categories": [
+    [
+     "Heat (pipe, cigar, hot drinks)",
+     [
+      "Nicotine stomatitis"
+     ]
+    ],
+    [
+     "Smokeless tobacco",
+     [
+      "Tobacco pouch keratosis"
+     ]
+    ],
+    [
+     "Tobacco smoke stimulating melanocytes",
+     [
+      "Smoker's melanosis"
+     ]
+    ],
+    [
+     "Denture",
+     [
+      "Epulis fissuratum",
+      "Papillary hyperplasia",
+      "Denture stomatitis"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "path-p73-s-01",
+   "deck": "Oral Pathology",
+   "section": "Odontogenic lesions",
+   "page": 73,
+   "prompt": "Sort by tooth vitality: is the associated tooth vital or non-vital?",
+   "categories": [
+    [
+     "Non-vital tooth",
+     [
+      "Periapical granuloma",
+      "Periapical cyst",
+      "Periapical abscess"
+     ]
+    ],
+    [
+     "Vital tooth",
+     [
+      "Lateral periodontal cyst"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "path-p73-s-02",
+   "deck": "Oral Pathology",
+   "section": "Radiographic appearance",
+   "page": 73,
+   "prompt": "Sort the lesions by radiographic appearance.",
+   "categories": [
+    [
+     "Radiolucent",
+     [
+      "Primordial cyst",
+      "Dentigerous cyst",
+      "Lateral periodontal cyst",
+      "Odontogenic keratocyst"
+     ]
+    ],
+    [
+     "Radiopaque",
+     [
+      "Condensing osteitis",
+      "Complex odontoma"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "path-p67-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Aphthous ulcer types",
+   "page": 67,
+   "question": "A patient with HIV presents with a 1.5-cm painful ulcer on the soft palate that has been present for 4 weeks. Which lesion is most likely?",
+   "options": [
+    "A. Minor aphthous ulcer",
+    "B. Major aphthous ulcer",
+    "C. Herpetiform aphthous ulcer",
+    "D. Aspirin burn"
+   ],
+   "answer": "B. Major aphthous ulcer",
+   "explanation": "Major aphthae are >1 cm, on movable mucosa, take several weeks to heal (often scarring) and are associated with immunodeficiency such as HIV. Minor aphthae are <1 cm and heal in 7–10 days."
+  },
+  {
+   "id": "path-p68-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Reactive lesions",
+   "page": 68,
+   "question": "Which oral reaction is a Type IV (delayed) hypersensitivity mediated by T-cells?",
+   "options": [
+    "A. Urticaria",
+    "B. Angioedema",
+    "C. Contact dermatitis",
+    "D. Hematoma"
+   ],
+   "answer": "C. Contact dermatitis",
+   "explanation": "Contact dermatitis is T-cell mediated, appearing hours to days after contact. Urticaria and angioedema are histamine-driven allergic reactions that appear suddenly."
+  },
+  {
+   "id": "path-p69-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Salivary glands",
+   "page": 69,
+   "question": "A 52-year-old woman reports dry mouth, gritty dry eyes and bilateral parotid enlargement. Which test would confirm the most likely diagnosis?",
+   "options": [
+    "A. Panoramic radiograph for a sialolith",
+    "B. Minor salivary gland biopsy of the lip",
+    "C. Culture for Candida albicans",
+    "D. Biopsy of the floor of the mouth for a ranula"
+   ],
+   "answer": "B. Minor salivary gland biopsy of the lip",
+   "explanation": "Dry mouth + dry eyes + bilateral parotid swelling suggests Sjögren's syndrome, confirmed by lip minor salivary gland biopsy and blood tests (rheumatoid factor/autoantibodies). A sialolith causes unilateral meal-time pain and swelling, usually of the submandibular gland."
+  },
+  {
+   "id": "path-p70-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Tongue",
+   "page": 70,
+   "question": "A white, corrugated plaque on the lateral border of the tongue that cannot be wiped off is found in a patient with HIV. What is the cause?",
+   "options": [
+    "A. Candida albicans",
+    "B. Epstein-Barr virus",
+    "C. Elongated filiform papillae from keratin buildup",
+    "D. Chronic cheek biting"
+   ],
+   "answer": "B. Epstein-Barr virus",
+   "explanation": "This is hairy leukoplakia, caused by EBV (HHV-4) in immunosuppressed patients. Candida (pseudomembranous) wipes off; hairy TONGUE (elongated filiform papillae) is on the dorsum, not the lateral border."
+  },
+  {
+   "id": "path-p71-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Denture lesions",
+   "page": 71,
+   "question": "An edentulous patient who sleeps in his maxillary denture has a diffuse red palate exactly outlining the denture base, without nodules. What is the most likely diagnosis?",
+   "options": [
+    "A. Papillary hyperplasia",
+    "B. Epulis fissuratum",
+    "C. Denture stomatitis",
+    "D. Nicotine stomatitis"
+   ],
+   "answer": "C. Denture stomatitis",
+   "explanation": "Denture stomatitis (chronic atrophic candidiasis) is diffuse redness confined to the denture base. Papillary hyperplasia shows red cobblestone projections; epulis fissuratum is folds of fibrous tissue at the denture edge in the vestibule."
+  },
+  {
+   "id": "path-p72-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Periapical pathology",
+   "page": 72,
+   "question": "A patient has severe throbbing pain, facial swelling, and a tooth that feels high when biting. The radiograph shows only a widened PDL space at the apex. Most likely diagnosis?",
+   "options": [
+    "A. Periapical granuloma",
+    "B. Periapical cyst",
+    "C. Periapical abscess",
+    "D. Condensing osteitis"
+   ],
+   "answer": "C. Periapical abscess",
+   "explanation": "An acute periapical abscess is severely painful, the tooth feels elevated, and early on shows only a widened PDL space. Granulomas and cysts are asymptomatic chronic lesions with a periapical radiolucency."
+  },
+  {
+   "id": "path-p73-mcq-01",
+   "deck": "Oral Pathology",
+   "section": "Odontogenic cysts",
+   "page": 73,
+   "question": "A multilocular radiolucency in the posterior mandibular ramus resorbs adjacent roots with little expansion and recurs after removal. The patient also has multiple basal cell carcinomas. Which lesion is it?",
+   "options": [
+    "A. Dentigerous cyst",
+    "B. Odontogenic keratocyst",
+    "C. Lateral periodontal cyst",
+    "D. Primordial cyst"
+   ],
+   "answer": "B. Odontogenic keratocyst",
+   "explanation": "OKCs are multilocular, aggressive, recur (daughter cysts), favour the posterior mandible, and multiple OKCs indicate Gorlin (nevoid basal cell carcinoma) syndrome. A dentigerous cyst is unilocular and attached to the CEJ of an impacted tooth."
+  },
+  {
+   "id": "path-p73-mcq-02",
+   "deck": "Oral Pathology",
+   "section": "Odontoma",
+   "page": 73,
+   "question": "A radiograph of the anterior maxilla shows a cluster of many small tooth-like radiopaque structures blocking eruption of a permanent incisor. Which lesion is this?",
+   "options": [
+    "A. Complex odontoma",
+    "B. Compound odontoma",
+    "C. Condensing osteitis",
+    "D. Regional odontodysplasia"
+   ],
+   "answer": "B. Compound odontoma",
+   "explanation": "Compound odontomas are clusters of small tooth-like structures, typically in the anterior maxilla. Complex odontomas are a single irregular radiopaque mass, usually in the posterior mandible."
+  }
+ ]
+}

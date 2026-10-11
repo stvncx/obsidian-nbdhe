@@ -1,0 +1,1891 @@
+{
+ "diagrams": [
+  {
+   "name": "rad-p120-atom",
+   "title": "Atomic structure",
+   "deck": "Radiology",
+   "pdf_page": 2,
+   "page": 120,
+   "crop": [
+    80,
+    165,
+    1110,
+    800
+   ],
+   "labels": [
+    {
+     "box": [
+      176,
+      219,
+      486,
+      297
+     ],
+     "answer": "Nucleus containing protons and neutrons",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      950,
+      235,
+      1085,
+      282
+     ],
+     "answer": "Electron",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      968,
+      293,
+      1085,
+      338
+     ],
+     "answer": "Proton",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      959,
+      350,
+      1094,
+      395
+     ],
+     "answer": "Neutron",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      794,
+      693,
+      1046,
+      768
+     ],
+     "answer": "Electrons moving around nucleus",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "rad-p121-em-spectrum",
+   "title": "The electromagnetic spectrum",
+   "deck": "Radiology",
+   "pdf_page": 3,
+   "page": 121,
+   "crop": [
+    115,
+    95,
+    740,
+    500
+   ],
+   "labels": [
+    {
+     "box": [
+      150,
+      196,
+      208,
+      220
+     ],
+     "answer": "Radio",
+     "fit": "none"
+    },
+    {
+     "box": [
+      222,
+      196,
+      310,
+      220
+     ],
+     "answer": "Microwaves",
+     "fit": "none"
+    },
+    {
+     "box": [
+      318,
+      196,
+      386,
+      220
+     ],
+     "answer": "Infrared",
+     "fit": "none"
+    },
+    {
+     "box": [
+      393,
+      196,
+      485,
+      220
+     ],
+     "answer": "Visible Light",
+     "fit": "none"
+    },
+    {
+     "box": [
+      489,
+      196,
+      567,
+      220
+     ],
+     "answer": "Ultraviolet",
+     "fit": "none"
+    },
+    {
+     "box": [
+      587,
+      196,
+      642,
+      220
+     ],
+     "answer": "X-rays",
+     "fit": "none"
+    },
+    {
+     "box": [
+      666,
+      196,
+      732,
+      220
+     ],
+     "answer": "Gamma",
+     "fit": "none"
+    }
+   ],
+   "label_all": true,
+   "mask": [
+    [
+     115,
+     100,
+     740,
+     134
+    ]
+   ]
+  },
+  {
+   "name": "rad-p121-wave",
+   "title": "Parts of a wave",
+   "deck": "Radiology",
+   "pdf_page": 3,
+   "page": 121,
+   "crop": [
+    700,
+    905,
+    1170,
+    1210
+   ],
+   "labels": [
+    {
+     "box": [
+      843,
+      924,
+      971,
+      956
+     ],
+     "answer": "Wavelength",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      718,
+      975,
+      776,
+      1002
+     ],
+     "answer": "Crest",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      989,
+      1076,
+      1105,
+      1108
+     ],
+     "answer": "Amplitude",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      890,
+      1158,
+      968,
+      1189
+     ],
+     "answer": "Trough",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "rad-p122-tube-head",
+   "title": "Parts of a tube head",
+   "deck": "Radiology",
+   "pdf_page": 4,
+   "page": 122,
+   "crop": [
+    212,
+    152,
+    1245,
+    718
+   ],
+   "labels": [
+    {
+     "box": [
+      424,
+      207,
+      581,
+      270
+     ],
+     "answer": "Step Up Transformer",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      801,
+      208,
+      966,
+      270
+     ],
+     "answer": "Step Down Transformer",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      256,
+      338,
+      388,
+      394
+     ],
+     "answer": "Cathode",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      475,
+      312,
+      703,
+      350
+     ],
+     "answer": "Tungsten Filament",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      727,
+      292,
+      930,
+      333
+     ],
+     "answer": "Tungsten Target",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      939,
+      288,
+      1109,
+      333
+     ],
+     "answer": "Copper Stem",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      1019,
+      340,
+      1124,
+      392
+     ],
+     "answer": "Anode",
+     "fit": "none"
+    },
+    {
+     "box": [
+      318,
+      486,
+      532,
+      518
+     ],
+     "answer": "Molybdenum Cup",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      898,
+      488,
+      1097,
+      546
+     ],
+     "answer": "Lead Glass Vacuum Housing",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      498,
+      523,
+      634,
+      574
+     ],
+     "answer": "Tubehead Seal",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      731,
+      519,
+      890,
+      576
+     ],
+     "answer": "Unleaded Glass Window",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      243,
+      545,
+      422,
+      577
+     ],
+     "answer": "Metal Housing",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      428,
+      586,
+      580,
+      615
+     ],
+     "answer": "Collimator",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      810,
+      588,
+      1028,
+      622
+     ],
+     "answer": "Aluminum Disks",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      471,
+      655,
+      571,
+      690
+     ],
+     "answer": "PID",
+     "fit": "none"
+    }
+   ]
+  },
+  {
+   "name": "rad-p123-beam",
+   "title": "Primary, scatter and remnant radiation",
+   "deck": "Radiology",
+   "pdf_page": 5,
+   "page": 123,
+   "crop": [
+    755,
+    165,
+    1240,
+    715
+   ],
+   "labels": [
+    {
+     "box": [
+      1025,
+      362,
+      1142,
+      412
+     ],
+     "answer": "Primary x-ray beam",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1133,
+      510,
+      1228,
+      557
+     ],
+     "answer": "Scatter radiation",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1068,
+      603,
+      1152,
+      652
+     ],
+     "answer": "Remnant radiation",
+     "fit": "text"
+    },
+    {
+     "box": [
+      1104,
+      655,
+      1232,
+      683
+     ],
+     "answer": "Image receptor",
+     "fit": "text"
+    }
+   ]
+  },
+  {
+   "name": "rad-p126-pid",
+   "title": "Aluminum filter, collimator and PID",
+   "deck": "Radiology",
+   "pdf_page": 8,
+   "page": 126,
+   "crop": [
+    85,
+    715,
+    1185,
+    1360
+   ],
+   "labels": [
+    {
+     "box": [
+      665,
+      825,
+      1115,
+      870
+     ],
+     "answer": "Lead Collimator (Diaphragm)",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      740,
+      1210,
+      1145,
+      1295
+     ],
+     "answer": "Position Indicating Device (PID) or Cone or Tube",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      375,
+      1265,
+      640,
+      1315
+     ],
+     "answer": "Aluminum Filter",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "rad-p120-001",
+   "deck": "Radiology",
+   "section": "Atom",
+   "page": 120,
+   "text": "The {{c1::atom}} is the smallest component of an element; it consists of a {{c2::nucleus}} and orbiting {{c3::electron(s)}}."
+  },
+  {
+   "id": "rad-p120-002",
+   "deck": "Radiology",
+   "section": "Atom",
+   "page": 120,
+   "text": "When atoms combine, they form a {{c1::molecule}}."
+  },
+  {
+   "id": "rad-p120-003",
+   "deck": "Radiology",
+   "section": "Atom",
+   "page": 120,
+   "text": "The nucleus is {{c1::positively}} charged, consists of {{c2::protons and neutrons}}, and contains nearly all of the atom's {{c3::mass}}.",
+   "extra": "WakeUpMemory: Proton → P like Positive (positively charged); Neutron → N like Neutral (no electrical charge)."
+  },
+  {
+   "id": "rad-p120-004",
+   "deck": "Radiology",
+   "section": "Atom",
+   "page": 120,
+   "text": "Orbiting electrons have a {{c1::negative}} charge and are held in {{c2::shells}} around the nucleus."
+  },
+  {
+   "id": "rad-p120-005",
+   "deck": "Radiology",
+   "section": "Atom",
+   "page": 120,
+   "text": "Electron shells are designated by the capital letters {{c1::K, L, M, N, O, P, Q}}."
+  },
+  {
+   "id": "rad-p120-006",
+   "deck": "Radiology",
+   "section": "Atom",
+   "page": 120,
+   "text": "The {{c1::K}} shell is closest to the nucleus and has the {{c2::highest}} binding energy (strongest bond); it is the most useful shell for medical imaging."
+  },
+  {
+   "id": "rad-p120-007",
+   "deck": "Radiology",
+   "section": "Atom",
+   "page": 120,
+   "text": "To remove an electron from its shell, the energy must be {{c1::equal to or greater than}} the {{c2::binding energy}} of that shell."
+  },
+  {
+   "id": "rad-p120-008",
+   "deck": "Radiology",
+   "section": "Radiation overview",
+   "page": 120,
+   "text": "{{c1::Wilhelm Roentgen}} discovered X-radiation."
+  },
+  {
+   "id": "rad-p120-009",
+   "deck": "Radiology",
+   "section": "Ionization",
+   "page": 120,
+   "text": "An ion pair is a {{c1::positive}} ion (the atom missing an electron) and a {{c2::negative}} ion (the ejected electron)."
+  },
+  {
+   "id": "rad-p120-010",
+   "deck": "Radiology",
+   "section": "Ionization",
+   "page": 120,
+   "text": "{{c1::Ionizing}} radiation is any type of radiation that is high in energy and can produce ions."
+  },
+  {
+   "id": "rad-p120-011",
+   "deck": "Radiology",
+   "section": "Ionization",
+   "page": 120,
+   "text": "Both particulate and electromagnetic radiation are formed because of an {{c1::ionizing}} process."
+  },
+  {
+   "id": "rad-p120-012",
+   "deck": "Radiology",
+   "section": "Particulate radiation",
+   "page": 120,
+   "text": "{{c1::Particulate}} radiation involves particles that have {{c2::mass}} and travel in {{c3::straight lines}} at high speeds.",
+   "extra": "WakeUpMemory: Particulate sounds like particle = has mass."
+  },
+  {
+   "id": "rad-p120-013",
+   "deck": "Radiology",
+   "section": "Particulate radiation",
+   "page": 120,
+   "text": "Particulate radiation cannot reach the {{c1::speed of light}}, and its particles may have a charge, except {{c2::neutrons}}."
+  },
+  {
+   "id": "rad-p120-014",
+   "deck": "Radiology",
+   "section": "Particulate radiation",
+   "page": 120,
+   "text": "Particulate radiation includes neutrons, protons, {{c1::electrons}}, and {{c2::beta particles}}.",
+   "extra": "The book also lists \"gamma particles\" here, but gamma rays are electromagnetic radiation (the book lists them there too)."
+  },
+  {
+   "id": "rad-p120-015",
+   "deck": "Radiology",
+   "section": "Electromagnetic radiation",
+   "page": 120,
+   "text": "{{c1::Electromagnetic}} radiation consists of electric and magnetic fields of energy that move through space in a {{c2::wave-like}} motion."
+  },
+  {
+   "id": "rad-p120-016",
+   "deck": "Radiology",
+   "section": "Electromagnetic radiation",
+   "page": 120,
+   "text": "Of the electromagnetic spectrum, only the {{c1::high-energy}} waves have ionizing capacity."
+  },
+  {
+   "id": "rad-p120-017",
+   "deck": "Radiology",
+   "section": "Electromagnetic radiation",
+   "page": 120,
+   "text": "X-rays are powerful {{c1::electromagnetic}} energy capable of {{c2::penetrating}} substances (like teeth)."
+  },
+  {
+   "id": "rad-p121-001",
+   "deck": "Radiology",
+   "section": "Wavelength and frequency",
+   "page": 121,
+   "text": "Wavelength is the distance between the {{c1::peaks (crests)}} of one wave and the next; it determines the {{c2::energy}} and {{c3::penetrating power}} of the radiation."
+  },
+  {
+   "id": "rad-p121-002",
+   "deck": "Radiology",
+   "section": "Wavelength and frequency",
+   "page": 121,
+   "text": "A longer wavelength = {{c1::low}} frequency, {{c2::lower}} energy, and less ability to penetrate objects."
+  },
+  {
+   "id": "rad-p121-003",
+   "deck": "Radiology",
+   "section": "Wavelength and frequency",
+   "page": 121,
+   "text": "A shorter wavelength = {{c1::high}} frequency and {{c2::higher}} energy."
+  },
+  {
+   "id": "rad-p121-004",
+   "deck": "Radiology",
+   "section": "Characteristics of X-rays",
+   "page": 121,
+   "text": "X-rays are {{c1::invisible}}, travel at the {{c2::speed of light}}, and travel in {{c3::waves}}."
+  },
+  {
+   "id": "rad-p121-005",
+   "deck": "Radiology",
+   "section": "Characteristics of X-rays",
+   "page": 121,
+   "text": "X-rays have no {{c1::mass}} and no {{c2::charge}}."
+  },
+  {
+   "id": "rad-p121-006",
+   "deck": "Radiology",
+   "section": "Characteristics of X-rays",
+   "page": 121,
+   "text": "X-rays are {{c1::high}}-frequency, {{c2::short}}-wavelength radiation that can penetrate objects and can cause {{c3::changes in cells}}."
+  },
+  {
+   "id": "rad-p121-007",
+   "deck": "Radiology",
+   "section": "Power supply",
+   "page": 121,
+   "text": "With {{c1::direct current (DC)}}, electrons flow in one direction; with {{c2::alternating current (AC)}}, electrons flow in two directions.",
+   "extra": "Electricity is the power source for X-ray machines."
+  },
+  {
+   "id": "rad-p121-008",
+   "deck": "Radiology",
+   "section": "Power supply",
+   "page": 121,
+   "text": "A circuit is the route the electrical current takes; the high-voltage circuit uses {{c1::65,000 to 100,000}} volts to provide high energy to produce X-rays."
+  },
+  {
+   "id": "rad-p121-009",
+   "deck": "Radiology",
+   "section": "Power supply",
+   "page": 121,
+   "text": "A {{c1::transformer}} increases or decreases the voltage in an electrical circuit; types are {{c2::step-up}}, step-down, and {{c3::autotransformer}}."
+  },
+  {
+   "id": "rad-p121-010",
+   "deck": "Radiology",
+   "section": "Control panel",
+   "page": 121,
+   "text": "The control panel displays on-off switches and the {{c1::milliamperage}}, {{c2::time}}, and {{c3::kilovoltage}} settings."
+  },
+  {
+   "id": "rad-p121-011",
+   "deck": "Radiology",
+   "section": "Control panel",
+   "page": 121,
+   "text": "Amperage (mA) controls the {{c1::number}} of electrons; increasing mA produces {{c2::more}} electrons."
+  },
+  {
+   "id": "rad-p121-012",
+   "deck": "Radiology",
+   "section": "Control panel",
+   "page": 121,
+   "text": "Dental machines operate at {{c1::5–8}} mA; mA controls the temperature of the {{c2::cathode filament}}."
+  },
+  {
+   "id": "rad-p121-013",
+   "deck": "Radiology",
+   "section": "Control panel",
+   "page": 121,
+   "text": "Kilovoltage peak (kVp) is the peak voltage of an {{c1::alternating}} current; it determines the {{c2::speed}} at which electrons are propelled from the cathode."
+  },
+  {
+   "id": "rad-p121-014",
+   "deck": "Radiology",
+   "section": "Control panel",
+   "page": 121,
+   "text": "kVp determines the {{c1::penetrating power}} of the X-ray beam, called beam {{c2::quality}}."
+  },
+  {
+   "id": "rad-p122-001",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::cathode}} is the {{c2::negative}} electrode; it is controlled by {{c3::milliamperage (mA)}} and is responsible for emitting electrons."
+  },
+  {
+   "id": "rad-p122-002",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::tungsten filament}} is the part of the cathode that emits electrons when {{c2::heated}}, forming an {{c3::electron cloud}}.",
+   "extra": "Don't confuse the tungsten FILAMENT (cathode, emits electrons) with the tungsten TARGET (anode, where X-rays are made)."
+  },
+  {
+   "id": "rad-p122-003",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::molybdenum (focusing) cup}} directs electrons toward the anode."
+  },
+  {
+   "id": "rad-p122-004",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::anode}} is the {{c2::positive}} electrode; it is controlled by {{c3::kilovoltage peak (kVp)}} and attracts electrons to produce X-rays."
+  },
+  {
+   "id": "rad-p122-005",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::tungsten target}} is the spot on the anode where electrons collide to generate X-rays."
+  },
+  {
+   "id": "rad-p122-006",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::copper stem}} conducts and dissipates excess heat."
+  },
+  {
+   "id": "rad-p122-007",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::lead glass vacuum housing}} encases the X-ray tube, contains the cathode and anode, and provides a {{c2::vacuum}} for X-ray production."
+  },
+  {
+   "id": "rad-p122-008",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::unleaded glass window}} allows X-rays to escape the tube and travel down the PID."
+  },
+  {
+   "id": "rad-p122-009",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::tubehead seal}} seals the tubehead to retain the {{c2::insulating oil}}, which aids in heat dissipation."
+  },
+  {
+   "id": "rad-p122-010",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::aluminum disks}} act as a filter, removing {{c2::long, weak (soft)}} wavelengths from the beam and so reducing patient exposure to non-diagnostic radiation."
+  },
+  {
+   "id": "rad-p122-011",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::collimator}} restricts the {{c2::size and shape}} of the X-ray beam, reducing patient exposure to unnecessary radiation."
+  },
+  {
+   "id": "rad-p122-012",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::metal housing (tube head)}} is the protective casing that houses the X-ray tube, transformers, and insulating oil, and assists with heat dissipation."
+  },
+  {
+   "id": "rad-p122-013",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "text": "The {{c1::position-indicating device (PID)}} attaches to the tube head and directs the X-ray beam to the patient and image receptor; it comes in {{c2::cylindrical or rectangular}} shapes.",
+   "extra": "Book says \"film/sensor\" — the exam says image receptor."
+  },
+  {
+   "id": "rad-p123-001",
+   "deck": "Radiology",
+   "section": "X-ray production",
+   "page": 123,
+   "text": "When the exposure button is pressed, electrons are propelled at high speed toward the anode's {{c1::focal spot}} within the {{c2::tungsten target}}."
+  },
+  {
+   "id": "rad-p123-002",
+   "deck": "Radiology",
+   "section": "X-ray production",
+   "page": 123,
+   "text": "When electrons hit the tungsten target, their {{c1::kinetic}} energy is transformed into {{c2::X-rays and heat}}."
+  },
+  {
+   "id": "rad-p123-003",
+   "deck": "Radiology",
+   "section": "X-ray production",
+   "page": 123,
+   "text": "A {{c1::photon}} is a bundle of energy."
+  },
+  {
+   "id": "rad-p123-004",
+   "deck": "Radiology",
+   "section": "X-ray production",
+   "page": 123,
+   "text": "{{c1::Primary}} radiation = photons leaving the X-ray tube that have not interacted with the patient's body or any other object."
+  },
+  {
+   "id": "rad-p123-005",
+   "deck": "Radiology",
+   "section": "X-ray production",
+   "page": 123,
+   "text": "X-rays are formed in the tube mainly by two mechanisms: {{c1::braking (bremsstrahlung)}} radiation and {{c2::characteristic}} radiation."
+  },
+  {
+   "id": "rad-p123-006",
+   "deck": "Radiology",
+   "section": "Bremsstrahlung and characteristic radiation",
+   "page": 123,
+   "text": "Bremsstrahlung radiation results when high-energy electrons come close to the {{c1::nuclei}} of the tungsten atoms."
+  },
+  {
+   "id": "rad-p123-007",
+   "deck": "Radiology",
+   "section": "Bremsstrahlung and characteristic radiation",
+   "page": 123,
+   "text": "In {{c1::characteristic}} radiation, electrons from the cathode dislodge electrons from the inner {{c2::K/L}} shell of the tungsten atoms."
+  },
+  {
+   "id": "rad-p123-008",
+   "deck": "Radiology",
+   "section": "Bremsstrahlung and characteristic radiation",
+   "page": 123,
+   "text": "In characteristic radiation, when inner-shell electrons are dislodged, electrons from other orbits {{c1::fill the space}} left by the ejected electron, and energy is produced."
+  },
+  {
+   "id": "rad-p123-009",
+   "deck": "Radiology",
+   "section": "Bremsstrahlung and characteristic radiation",
+   "page": 123,
+   "text": "Characteristic radiation is {{c1::not as significant}} a source of X-rays as braking radiation."
+  },
+  {
+   "id": "rad-p123-010",
+   "deck": "Radiology",
+   "section": "Secondary and scatter radiation",
+   "page": 123,
+   "text": "{{c1::Secondary}} radiation is created when the primary beam interacts with matter; it is {{c2::less}} penetrating than primary radiation."
+  },
+  {
+   "id": "rad-p123-011",
+   "deck": "Radiology",
+   "section": "Secondary and scatter radiation",
+   "page": 123,
+   "text": "X-rays can pass through the patient, be {{c1::absorbed}} by the patient, or be {{c2::scattered}}."
+  },
+  {
+   "id": "rad-p123-012",
+   "deck": "Radiology",
+   "section": "Secondary and scatter radiation",
+   "page": 123,
+   "text": "Photons that pass through an atom unchanged produce {{c1::densities}} on dental radiographs; if all photons pass through and reach the receptor, the image will be fully exposed ({{c2::dark}})."
+  },
+  {
+   "id": "rad-p123-013",
+   "deck": "Radiology",
+   "section": "Secondary and scatter radiation",
+   "page": 123,
+   "text": "{{c1::Scatter}} radiation is secondary radiation that results from deflection from the original path by interaction with matter; it is detrimental to {{c2::the patient and the provider}}."
+  },
+  {
+   "id": "rad-p123-014",
+   "deck": "Radiology",
+   "section": "Secondary and scatter radiation",
+   "page": 123,
+   "text": "Scatter radiation usually has a {{c1::longer}} wavelength than primary radiation and may cause {{c2::fogging}} of a radiographic image."
+  },
+  {
+   "id": "rad-p123-015",
+   "deck": "Radiology",
+   "section": "Types of scatter radiation",
+   "page": 123,
+   "text": "{{c1::Compton scatter}} (about {{c2::60}}% of interactions): a photon interacts with an {{c3::outer}}-shell electron, loses energy but continues to travel, and the electron is ejected (ionization occurs).",
+   "extra": "Most interactions in dental X-rays are Compton because outer shells are easier to hit (their size and number of electrons)."
+  },
+  {
+   "id": "rad-p124-001",
+   "deck": "Radiology",
+   "section": "Types of scatter radiation",
+   "page": 124,
+   "text": "{{c1::Photoelectric effect}} (about {{c2::30}}% of interactions): a photon interacts with an {{c3::inner}}-shell electron, is completely absorbed (transferring all its energy), and the electron is ejected (ionization occurs).",
+   "extra": "Less common than Compton scatter because it requires interaction with the inner shells."
+  },
+  {
+   "id": "rad-p124-002",
+   "deck": "Radiology",
+   "section": "Types of scatter radiation",
+   "page": 124,
+   "text": "{{c1::Coherent scatter}} (about {{c2::8}}% of interactions): a photon interacts with an outer-shell electron but continues with {{c3::no loss of energy}}; no electron is ejected, so {{c4::no ionization}} occurs."
+  },
+  {
+   "id": "rad-p124-003",
+   "deck": "Radiology",
+   "section": "Standard and SI units",
+   "page": 124,
+   "text": "Radiation is measured in two systems: the {{c1::Standard (traditional)}} system and the {{c2::SI (Système International)}}, the newer system."
+  },
+  {
+   "id": "rad-p124-004",
+   "deck": "Radiology",
+   "section": "Standard and SI units",
+   "page": 124,
+   "text": "{{c1::Exposure}} is the quantity of ionization in air, measured at the skin surface before the radiation penetrates the tissues; units: {{c2::roentgen}} (standard) and {{c3::coulombs per kilogram (C/kg)}} (SI)."
+  },
+  {
+   "id": "rad-p124-005",
+   "deck": "Radiology",
+   "section": "Standard and SI units",
+   "page": 124,
+   "text": "{{c1::Absorbed dose}} is the amount of radiation absorbed by an object (varies with the material); units: {{c2::rad}} (standard) and {{c3::gray (Gy)}} (SI)."
+  },
+  {
+   "id": "rad-p124-006",
+   "deck": "Radiology",
+   "section": "Standard and SI units",
+   "page": 124,
+   "text": "{{c1::Dose equivalent}} is the absorbed dose adjusted for the biological damage potential of the type of radiation; units: {{c2::rem (roentgen equivalent in man)}} (standard) and {{c3::sievert (Sv)}} (SI).",
+   "extra": "Some types of radiation cause more damage than others."
+  },
+  {
+   "id": "rad-p124-007",
+   "deck": "Radiology",
+   "section": "Living tissue damage",
+   "page": 124,
+   "text": "In the {{c1::direct}} theory, radiation damages the cell's protein, lipid, carbohydrate, and {{c2::DNA}} molecules and causes cell death."
+  },
+  {
+   "id": "rad-p124-008",
+   "deck": "Radiology",
+   "section": "Living tissue damage",
+   "page": 124,
+   "text": "In the {{c1::indirect}} theory, radiation interacts with the cell's {{c2::water}} content and produces {{c3::free radicals}}."
+  },
+  {
+   "id": "rad-p124-009",
+   "deck": "Radiology",
+   "section": "Living tissue damage",
+   "page": 124,
+   "text": "Free radicals are mostly {{c1::H and OH}}; they are highly unstable, interact with each other, and produce toxins such as {{c2::hydrogen peroxide (H2O2)}}."
+  },
+  {
+   "id": "rad-p125-001",
+   "deck": "Radiology",
+   "section": "Living tissue damage",
+   "page": 125,
+   "text": "The indirect theory accounts for about {{c1::2/3}} of radiation-induced biologic damage, proportional to body water content (the body is {{c2::60–80}}% water)."
+  },
+  {
+   "id": "rad-p125-002",
+   "deck": "Radiology",
+   "section": "Radiosensitivity of cells",
+   "page": 125,
+   "text": "Highly radiosensitive cells are {{c1::immature}}, {{c2::quickly dividing}}, and a younger person's cells."
+  },
+  {
+   "id": "rad-p125-003",
+   "deck": "Radiology",
+   "section": "Radiosensitivity of cells",
+   "page": 125,
+   "text": "Less radiosensitive cells are {{c1::highly specialized}}, mature, and {{c2::slowly}} dividing."
+  },
+  {
+   "id": "rad-p125-004",
+   "deck": "Radiology",
+   "section": "Radiosensitivity of cells",
+   "page": 125,
+   "text": "The most radiosensitive part of a cell is the {{c1::DNA and chromosomes}}."
+  },
+  {
+   "id": "rad-p125-005",
+   "deck": "Radiology",
+   "section": "Other concepts in cell damage",
+   "page": 125,
+   "text": "{{c1::All}} ionizing radiation is harmful and produces biological changes in living tissues."
+  },
+  {
+   "id": "rad-p125-006",
+   "deck": "Radiology",
+   "section": "Other concepts in cell damage",
+   "page": 125,
+   "text": "Exposure of the {{c1::entire body}} results in more severe biological effects than {{c2::localized}} exposure."
+  },
+  {
+   "id": "rad-p125-007",
+   "deck": "Radiology",
+   "section": "Radiation effects",
+   "page": 125,
+   "text": "{{c1::Short-term}} effects may occur minutes, hours, or weeks after exposure; they are {{c2::not present in dentistry}} because of the low doses.",
+   "extra": "High doses can cause nausea, diarrhea, fever, hair loss, and death."
+  },
+  {
+   "id": "rad-p125-008",
+   "deck": "Radiology",
+   "section": "Radiation effects",
+   "page": 125,
+   "text": "{{c1::Long-term}} effects may occur months, years, or decades after exposure; low doses over long periods may cause {{c2::cancer}}."
+  },
+  {
+   "id": "rad-p125-009",
+   "deck": "Radiology",
+   "section": "Radiation effects",
+   "page": 125,
+   "text": "A {{c1::somatic}} effect is injury to the {{c2::person being affected}}; it follows a {{c3::nonlinear, threshold}} dose-response (examples: cataracts and cancer)."
+  },
+  {
+   "id": "rad-p125-010",
+   "deck": "Radiology",
+   "section": "Radiation effects",
+   "page": 125,
+   "text": "A {{c1::genetic}} effect injures {{c2::future generations}} (damage to reproductive cells); it follows a {{c3::linear, non-threshold}} dose-response, so even small doses may cause mutations."
+  },
+  {
+   "id": "rad-p125-011",
+   "deck": "Radiology",
+   "section": "Radiation effects",
+   "page": 125,
+   "text": "In a {{c1::stochastic}} effect, the {{c2::probability}} of the effect increases with dose, but its {{c3::severity}} is not dose-dependent (an \"all-or-none\" effect, e.g. cancer)."
+  },
+  {
+   "id": "rad-p125-012",
+   "deck": "Radiology",
+   "section": "Radiation effects",
+   "page": 125,
+   "text": "In a {{c1::non-stochastic (deterministic)}} effect, the {{c2::severity}} of the effect depends directly on the dose received and there is a {{c3::threshold}} dose (e.g. hair loss, decreased fertility)."
+  },
+  {
+   "id": "rad-p125-013",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "text": "Natural sources of radiation include {{c1::radon}}, {{c2::cosmic}} radiation, and {{c3::terrestrial}} radiation."
+  },
+  {
+   "id": "rad-p125-014",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "text": "{{c1::Radon}} is a gas released from the ground by decaying material; it penetrates every aspect of our environment (house, soil), combines with dust, and can be {{c2::inhaled}}."
+  },
+  {
+   "id": "rad-p125-015",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "text": "Natural sources account for {{c1::most}} of background radiation exposure."
+  },
+  {
+   "id": "rad-p125-016",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "text": "A 20-image full-mouth series taken with F-speed receptors and rectangular collimation is equivalent to {{c1::1–2 days}} of background radiation.",
+   "extra": "Book: \"20-film … F-speed films\"; the exam no longer uses the word film."
+  },
+  {
+   "id": "rad-p125-017",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "text": "The majority of artificial radiation exposure comes from {{c1::medical}} (not dental) assessments."
+  },
+  {
+   "id": "rad-p125-018",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "text": "Dental radiation is responsible for {{c1::1–5}}% of the total exposure from medical imaging."
+  },
+  {
+   "id": "rad-p125-019",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "text": "Dental radiographic exposure is similar to the dose received during a {{c1::cross-country airplane flight}}."
+  },
+  {
+   "id": "rad-p125-020",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "text": "Other artificial radiation sources include {{c1::television}}, {{c2::smoke alarms}}, and building materials."
+  },
+  {
+   "id": "rad-p126-001",
+   "deck": "Radiology",
+   "section": "Filtration",
+   "page": 126,
+   "text": "Filtration places absorbent materials, usually {{c1::aluminum}} discs, in the path of the X-rays to filter out {{c2::longer, non-productive}} wavelengths."
+  },
+  {
+   "id": "rad-p126-002",
+   "deck": "Radiology",
+   "section": "Filtration",
+   "page": 126,
+   "text": "Filtration improves the {{c1::quality}} of the radiograph, reduces patient {{c2::dose}}, and decreases {{c3::scatter}}."
+  },
+  {
+   "id": "rad-p126-003",
+   "deck": "Radiology",
+   "section": "Filtration",
+   "page": 126,
+   "text": "{{c1::Inherent}} filtration is built into the machine and includes the glass tube, oil, and {{c2::0.5–2}} mm of aluminum disks."
+  },
+  {
+   "id": "rad-p126-004",
+   "deck": "Radiology",
+   "section": "Filtration",
+   "page": 126,
+   "text": "{{c1::Total}} filtration = inherent filtration + added filtration."
+  },
+  {
+   "id": "rad-p126-005",
+   "deck": "Radiology",
+   "section": "PID (position-indicating device)",
+   "page": 126,
+   "text": "The PID is an open-ended {{c1::cylinder or rectangular}} device attached to the X-ray tube head that guides and {{c2::collimates}} the primary beam toward the patient."
+  },
+  {
+   "id": "rad-p126-006",
+   "deck": "Radiology",
+   "section": "PID (position-indicating device)",
+   "page": 126,
+   "text": "The inside of the PID is lined with a {{c1::metallic}} layer to restrict the primary beam."
+  },
+  {
+   "id": "rad-p126-007",
+   "deck": "Radiology",
+   "section": "PID (position-indicating device)",
+   "page": 126,
+   "text": "Standard PID lengths are {{c1::8}} inches and {{c2::16}} inches."
+  },
+  {
+   "id": "rad-p126-008",
+   "deck": "Radiology",
+   "section": "PID (position-indicating device)",
+   "page": 126,
+   "text": "{{c1::Long (16-inch)}} PIDs produce more {{c2::parallel}} rays and reduce radiation exposure."
+  },
+  {
+   "id": "rad-p126-009",
+   "deck": "Radiology",
+   "section": "PID (position-indicating device)",
+   "page": 126,
+   "text": "A {{c1::rectangular, lead-lined}} PID offers the greatest reduction of radiation exposure to the patient."
+  },
+  {
+   "id": "rad-p126-010",
+   "deck": "Radiology",
+   "section": "Collimation",
+   "page": 126,
+   "text": "A collimator is a {{c1::metal}} barrier with an opening in the middle that restricts the size and shape of the X-ray beam."
+  },
+  {
+   "id": "rad-p126-011",
+   "deck": "Radiology",
+   "section": "Collimation",
+   "page": 126,
+   "text": "Collimation reduces image {{c1::fog}}, improves image quality, and restricts patient exposure (primary and scattered).",
+   "extra": "Book: \"film fog\" — the exam says image/radiograph."
+  },
+  {
+   "id": "rad-p126-012",
+   "deck": "Radiology",
+   "section": "Lead apron and thyroid collar",
+   "page": 126,
+   "text": "Lead aprons of {{c1::0.25–3}} mm lead or lead equivalent protect patients from non-productive {{c2::scatter}} radiation."
+  },
+  {
+   "id": "rad-p126-013",
+   "deck": "Radiology",
+   "section": "Lead apron and thyroid collar",
+   "page": 126,
+   "text": "The thyroid should always be protected by a {{c1::thyroid collar}}; the thyroid gland, particularly in {{c2::children}}, is one of the most radiosensitive organs."
+  },
+  {
+   "id": "rad-p126-014",
+   "deck": "Radiology",
+   "section": "Receptor speed",
+   "page": 126,
+   "text": "Digital receptors require {{c1::50–90}}% less radiation exposure than film."
+  },
+  {
+   "id": "rad-p126-015",
+   "deck": "Radiology",
+   "section": "Beam alignment devices",
+   "page": 126,
+   "text": "Beam alignment devices are placed in the patient's mouth with a portion toward the X-ray tube; they help achieve a better {{c1::paralleling}} technique."
+  },
+  {
+   "id": "rad-p126-016",
+   "deck": "Radiology",
+   "section": "Dosimeter and ALARA",
+   "page": 126,
+   "text": "A {{c1::dosimeter}} is a badge that measures the radiation exposure of the operator; it is worn at the {{c2::waist}}.",
+   "extra": "Book: \"film badge\"."
+  },
+  {
+   "id": "rad-p126-017",
+   "deck": "Radiology",
+   "section": "Dosimeter and ALARA",
+   "page": 126,
+   "text": "ALARA = {{c1::As Low As Reasonably Achievable}}: exposure should be kept to a minimum, and the {{c2::benefits}} should outweigh the risks for the patient."
+  }
+ ],
+ "basic": [
+  {
+   "id": "rad-p120-b-01",
+   "deck": "Radiology",
+   "section": "Radiation overview",
+   "page": 120,
+   "front": "Radiation",
+   "back": "The propagation of energy through space in the form of particles or waves",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p120-b-02",
+   "deck": "Radiology",
+   "section": "Ionization",
+   "page": 120,
+   "front": "Ionization",
+   "back": "The process by which an atom gains or loses electrons to become a negatively or positively charged atom",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p120-b-03",
+   "deck": "Radiology",
+   "section": "Ionization",
+   "page": 120,
+   "front": "Ion",
+   "back": "A charged particle that is either positive or negative",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p121-b-01",
+   "deck": "Radiology",
+   "section": "Control panel",
+   "page": 121,
+   "front": "Volt",
+   "back": "The force that moves electrons from the cathode to the anode",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p122-b-01",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "front": "Focal spot",
+   "back": "The precise area on the tungsten target where X-rays originate (electrons are directed there by the focusing cup)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p123-b-01",
+   "deck": "Radiology",
+   "section": "X-ray production",
+   "page": 123,
+   "front": "Thermionic emission",
+   "back": "Release of electrons by the heated (tungsten) filament when the power switch is activated, creating an electron cloud around the filament",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p123-b-02",
+   "deck": "Radiology",
+   "section": "Bremsstrahlung and characteristic radiation",
+   "page": 123,
+   "front": "Why is bremsstrahlung called \"braking\" radiation?",
+   "back": "Electrons are attracted toward the positive nucleus (opposite charges) and slow down (brake); the energy they lose is released as photons.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "rad-p125-b-01",
+   "deck": "Radiology",
+   "section": "Other concepts in cell damage",
+   "page": 125,
+   "front": "Latent period",
+   "back": "The time between radiation exposure and the observed clinical effect",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p125-b-02",
+   "deck": "Radiology",
+   "section": "Other concepts in cell damage",
+   "page": 125,
+   "front": "Recovery period",
+   "back": "A natural repair period in which most low-dose radiation injuries are repaired by the body",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p125-b-03",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "front": "Background radiation",
+   "back": "Radiation encountered in daily living, arising from natural and artificial sources",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "rad-p126-b-01",
+   "deck": "Radiology",
+   "section": "Beam alignment devices",
+   "page": 126,
+   "front": "Besides improving the paralleling technique, how do beam alignment devices reduce exposure?",
+   "back": "The device holds the receptor, so the patient's hand is not in the beam.",
+   "reverse": false,
+   "extra": ""
+  }
+ ],
+ "typein": [
+  {
+   "id": "rad-p120-t-01",
+   "deck": "Radiology",
+   "section": "Radiation overview",
+   "page": 120,
+   "question": "In what year did Roentgen discover X-rays? (year)",
+   "answer": "1895",
+   "extra": ""
+  },
+  {
+   "id": "rad-p121-t-01",
+   "deck": "Radiology",
+   "section": "Control panel",
+   "page": 121,
+   "question": "Dental X-ray units are most commonly preset to how many mA? (number)",
+   "answer": "7",
+   "extra": "Range 5–8 mA."
+  },
+  {
+   "id": "rad-p122-t-01",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "question": "What percentage of the energy in the X-ray tube becomes X-rays? (%)",
+   "answer": "1",
+   "extra": "The other 99% becomes heat — conducted away by the copper stem."
+  },
+  {
+   "id": "rad-p123-t-01",
+   "deck": "Radiology",
+   "section": "Bremsstrahlung and characteristic radiation",
+   "page": 123,
+   "question": "What percentage of X-rays produced in dentistry is bremsstrahlung (braking) radiation? (%)",
+   "answer": "70",
+   "extra": ""
+  },
+  {
+   "id": "rad-p124-t-01",
+   "deck": "Radiology",
+   "section": "Standard and SI units",
+   "page": 124,
+   "question": "1 Sv = how many rem? (number)",
+   "answer": "100",
+   "extra": ""
+  },
+  {
+   "id": "rad-p124-t-02",
+   "deck": "Radiology",
+   "section": "Standard and SI units",
+   "page": 124,
+   "question": "1 Gy = how many rad? (number)",
+   "answer": "100",
+   "extra": ""
+  },
+  {
+   "id": "rad-p124-t-03",
+   "deck": "Radiology",
+   "section": "Standard and SI units",
+   "page": 124,
+   "question": "1 rem = how many mrem? (number)",
+   "answer": "1000",
+   "extra": ""
+  },
+  {
+   "id": "rad-p124-t-04",
+   "deck": "Radiology",
+   "section": "Living tissue damage",
+   "page": 124,
+   "question": "What fraction of radiation biologic damage does the DIRECT theory account for? (fraction)",
+   "answer": "1/3",
+   "extra": ""
+  },
+  {
+   "id": "rad-p125-t-01",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "question": "A CT scan emits how many times more radiation than a dental radiograph? (number)",
+   "answer": "100",
+   "extra": ""
+  },
+  {
+   "id": "rad-p126-t-01",
+   "deck": "Radiology",
+   "section": "Filtration",
+   "page": 126,
+   "question": "Added filtration for a unit operating at ≤70 kVp: how many mm of aluminum? (mm)",
+   "answer": "1.5",
+   "extra": ""
+  },
+  {
+   "id": "rad-p126-t-02",
+   "deck": "Radiology",
+   "section": "Filtration",
+   "page": 126,
+   "question": "Added filtration for a unit operating above 70 kVp: how many mm of aluminum? (mm)",
+   "answer": "2.5",
+   "extra": ""
+  },
+  {
+   "id": "rad-p126-t-03",
+   "deck": "Radiology",
+   "section": "Collimation",
+   "page": 126,
+   "question": "Rectangular collimation exposes how much less tissue than a round collimator? (%)",
+   "answer": "60",
+   "extra": ""
+  }
+ ],
+ "match": [
+  {
+   "id": "rad-p122-m-01",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "prompt": "Match each tube-head part to its job.",
+   "pairs": [
+    [
+     "Tungsten filament",
+     "Emits electrons when heated"
+    ],
+    [
+     "Molybdenum cup",
+     "Focuses electrons toward the anode"
+    ],
+    [
+     "Tungsten target",
+     "Where electrons collide to make X-rays"
+    ],
+    [
+     "Copper stem",
+     "Conducts heat away"
+    ],
+    [
+     "Aluminum disks",
+     "Filter out soft wavelengths"
+    ],
+    [
+     "Collimator",
+     "Restricts beam size and shape"
+    ],
+    [
+     "Unleaded glass window",
+     "Lets X-rays exit the tube"
+    ]
+   ]
+  },
+  {
+   "id": "rad-p124-m-01",
+   "deck": "Radiology",
+   "section": "Types of scatter radiation",
+   "page": 124,
+   "prompt": "Match each X-ray interaction with matter to its share of interactions.",
+   "pairs": [
+    [
+     "Compton scatter",
+     "About 60%"
+    ],
+    [
+     "Photoelectric effect",
+     "About 30%"
+    ],
+    [
+     "Coherent scatter",
+     "About 8%"
+    ]
+   ]
+  },
+  {
+   "id": "rad-p124-m-02",
+   "deck": "Radiology",
+   "section": "Standard and SI units",
+   "page": 124,
+   "prompt": "Match each standard (traditional) unit to its SI unit.",
+   "pairs": [
+    [
+     "Roentgen",
+     "Coulomb per kilogram (C/kg)"
+    ],
+    [
+     "Rad",
+     "Gray (Gy)"
+    ],
+    [
+     "Rem",
+     "Sievert (Sv)"
+    ]
+   ]
+  },
+  {
+   "id": "rad-p125-m-01",
+   "deck": "Radiology",
+   "section": "Radiation effects",
+   "page": 125,
+   "prompt": "Match each radiation effect to its description.",
+   "pairs": [
+    [
+     "Somatic",
+     "Injury to the exposed person"
+    ],
+    [
+     "Genetic",
+     "Injury to future generations"
+    ],
+    [
+     "Stochastic",
+     "Dose raises probability, not severity"
+    ],
+    [
+     "Deterministic",
+     "Dose raises severity; has a threshold"
+    ],
+    [
+     "Short-term",
+     "Minutes to weeks; not seen in dentistry"
+    ],
+    [
+     "Long-term",
+     "Months to decades; e.g. cancer"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "rad-p120-o-01",
+   "deck": "Radiology",
+   "section": "Electromagnetic radiation",
+   "page": 120,
+   "prompt": "Order the electromagnetic radiations from LOWEST to HIGHEST energy.",
+   "items": [
+    "Radio waves",
+    "Microwaves",
+    "Visible light",
+    "UV rays",
+    "X-rays",
+    "Gamma rays"
+   ]
+  },
+  {
+   "id": "rad-p123-o-01",
+   "deck": "Radiology",
+   "section": "X-ray production",
+   "page": 123,
+   "prompt": "Put the steps of X-ray production in order.",
+   "items": [
+    "Power switch on: filament heats",
+    "Electron cloud forms (thermionic emission)",
+    "Exposure button pressed",
+    "Electrons propelled to the focal spot",
+    "Electrons hit the tungsten target",
+    "Kinetic energy → X-rays + heat",
+    "Primary beam leaves the tube"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "rad-p120-s-01",
+   "deck": "Radiology",
+   "section": "Electromagnetic radiation",
+   "page": 120,
+   "prompt": "Sort these into particulate or electromagnetic radiation.",
+   "categories": [
+    [
+     "Particulate (has mass)",
+     [
+      "Neutrons",
+      "Protons",
+      "Electrons",
+      "Beta particles"
+     ]
+    ],
+    [
+     "Electromagnetic (waves)",
+     [
+      "Radio waves",
+      "Microwaves",
+      "Visible light",
+      "Ultraviolet rays",
+      "X-rays"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "rad-p122-s-01",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "prompt": "Cathode side or anode side of the tube?",
+   "categories": [
+    [
+     "Cathode (−), controlled by mA",
+     [
+      "Tungsten filament",
+      "Molybdenum cup",
+      "Emits electrons"
+     ]
+    ],
+    [
+     "Anode (+), controlled by kVp",
+     [
+      "Tungsten target",
+      "Copper stem",
+      "Focal spot"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "rad-p125-s-01",
+   "deck": "Radiology",
+   "section": "Radiosensitivity of cells",
+   "page": 125,
+   "prompt": "Sort the cells by radiosensitivity.",
+   "categories": [
+    [
+     "Highly sensitive",
+     [
+      "Immature cells",
+      "Quickly dividing cells",
+      "A young person's cells"
+     ]
+    ],
+    [
+     "Less sensitive",
+     [
+      "Highly specialized cells",
+      "Mature cells",
+      "Slowly dividing cells"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "rad-p125-s-02",
+   "deck": "Radiology",
+   "section": "Sources of radiation",
+   "page": 125,
+   "prompt": "Natural or artificial radiation source?",
+   "categories": [
+    [
+     "Natural",
+     [
+      "Radon",
+      "Cosmic radiation",
+      "Terrestrial radiation"
+     ]
+    ],
+    [
+     "Artificial",
+     [
+      "CT scan",
+      "Dental radiograph",
+      "Smoke alarm",
+      "Television",
+      "Building materials"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "rad-p120-mcq-01",
+   "deck": "Radiology",
+   "section": "Atom",
+   "page": 120,
+   "question": "Which electron shell has the strongest binding energy?",
+   "options": [
+    "A. K shell",
+    "B. L shell",
+    "C. M shell",
+    "D. Q shell"
+   ],
+   "answer": "A. K shell",
+   "explanation": "The K shell is closest to the nucleus, so its electrons are held most tightly (highest binding energy). Binding energy decreases outward (L, M … Q), so the Q shell is the weakest."
+  },
+  {
+   "id": "rad-p121-mcq-01",
+   "deck": "Radiology",
+   "section": "Characteristics of X-rays",
+   "page": 121,
+   "question": "Which statement about X-rays is correct?",
+   "options": [
+    "A. They have a small mass and a negative charge",
+    "B. They have a long wavelength and low frequency",
+    "C. They travel at the speed of light and have no mass or charge",
+    "D. They are particulate radiation that travels in straight lines"
+   ],
+   "answer": "C. They travel at the speed of light and have no mass or charge",
+   "explanation": "X-rays are electromagnetic: invisible, no mass, no charge, speed of light, high frequency and short wavelength. Particulate radiation (particles with mass) cannot reach the speed of light."
+  },
+  {
+   "id": "rad-p121-mcq-02",
+   "deck": "Radiology",
+   "section": "Control panel",
+   "page": 121,
+   "question": "Which control-panel setting determines the penetrating power (quality) of the X-ray beam?",
+   "options": [
+    "A. Milliamperage",
+    "B. Exposure time",
+    "C. Kilovoltage peak",
+    "D. On-off switch"
+   ],
+   "answer": "C. Kilovoltage peak",
+   "explanation": "kVp sets the speed of the electrons and therefore the penetrating power (quality) of the beam. mA sets the NUMBER of electrons (quantity), not their energy."
+  },
+  {
+   "id": "rad-p122-mcq-01",
+   "deck": "Radiology",
+   "section": "X-ray tube head",
+   "page": 122,
+   "question": "Which tube-head component removes long, low-energy wavelengths that would only add to patient dose?",
+   "options": [
+    "A. Collimator",
+    "B. Aluminum disks",
+    "C. Unleaded glass window",
+    "D. Molybdenum cup"
+   ],
+   "answer": "B. Aluminum disks",
+   "explanation": "Aluminum disks filter out the soft (long, weak) wavelengths. The collimator does reduce exposure too, but by restricting the size and shape of the beam, not by filtering wavelengths."
+  },
+  {
+   "id": "rad-p123-mcq-01",
+   "deck": "Radiology",
+   "section": "Bremsstrahlung and characteristic radiation",
+   "page": 123,
+   "question": "Most of the X-rays produced in a dental tube result from:",
+   "options": [
+    "A. Characteristic radiation",
+    "B. Bremsstrahlung (braking) radiation",
+    "C. Coherent scatter",
+    "D. Thermionic emission"
+   ],
+   "answer": "B. Bremsstrahlung (braking) radiation",
+   "explanation": "About 70% of dental X-rays are braking radiation: electrons slowed by the tungsten nuclei. Characteristic radiation (inner-shell electrons dislodged) is a minor source; thermionic emission produces electrons, not X-rays."
+  },
+  {
+   "id": "rad-p124-mcq-01",
+   "deck": "Radiology",
+   "section": "Types of scatter radiation",
+   "page": 124,
+   "question": "In which interaction is the X-ray photon completely absorbed after ejecting an inner-shell electron?",
+   "options": [
+    "A. Compton scatter",
+    "B. Coherent scatter",
+    "C. Photoelectric effect",
+    "D. Bremsstrahlung"
+   ],
+   "answer": "C. Photoelectric effect",
+   "explanation": "In the photoelectric effect the photon hits an inner-shell electron and gives up all its energy. In Compton scatter the photon hits an outer-shell electron and keeps travelling with less energy."
+  },
+  {
+   "id": "rad-p124-mcq-02",
+   "deck": "Radiology",
+   "section": "Types of scatter radiation",
+   "page": 124,
+   "question": "Which interaction of X-rays with matter does NOT produce ionization?",
+   "options": [
+    "A. Compton scatter",
+    "B. Photoelectric effect",
+    "C. Coherent scatter",
+    "D. Characteristic radiation"
+   ],
+   "answer": "C. Coherent scatter",
+   "explanation": "In coherent scatter the photon continues with no energy loss and no electron is ejected, so no ionization occurs. Compton and photoelectric interactions both eject an electron (ionization)."
+  },
+  {
+   "id": "rad-p124-mcq-03",
+   "deck": "Radiology",
+   "section": "Standard and SI units",
+   "page": 124,
+   "question": "Which SI unit expresses the absorbed dose adjusted for the biological damage potential of the radiation type?",
+   "options": [
+    "A. Gray",
+    "B. Sievert",
+    "C. Coulomb per kilogram",
+    "D. Rad"
+   ],
+   "answer": "B. Sievert",
+   "explanation": "Dose equivalent is measured in sieverts (SI) or rem (standard). The gray measures absorbed dose without the biological adjustment."
+  },
+  {
+   "id": "rad-p125-mcq-01",
+   "deck": "Radiology",
+   "section": "Living tissue damage",
+   "page": 125,
+   "question": "Most radiation-induced biologic damage occurs because radiation:",
+   "options": [
+    "A. Breaks DNA molecules directly",
+    "B. Ionizes water, forming free radicals and toxins",
+    "C. Heats tissue proteins",
+    "D. Causes coherent scatter in cells"
+   ],
+   "answer": "B. Ionizes water, forming free radicals and toxins",
+   "explanation": "The indirect theory (≈2/3 of damage) — the body is 60–80% water, and free radicals (H, OH) form toxins such as hydrogen peroxide. Direct damage to DNA and other molecules accounts for only ≈1/3."
+  },
+  {
+   "id": "rad-p125-mcq-02",
+   "deck": "Radiology",
+   "section": "Radiation effects",
+   "page": 125,
+   "question": "A higher radiation dose increases the chance that cancer develops, but not how severe the cancer is once it develops. This describes which type of effect?",
+   "options": [
+    "A. Deterministic",
+    "B. Stochastic",
+    "C. Short-term",
+    "D. Threshold somatic"
+   ],
+   "answer": "B. Stochastic",
+   "explanation": "Stochastic effects are all-or-none: dose changes the probability, not the severity. In deterministic (non-stochastic) effects such as hair loss, severity rises with dose above a threshold."
+  },
+  {
+   "id": "rad-p126-mcq-01",
+   "deck": "Radiology",
+   "section": "Dosimeter and ALARA",
+   "page": 126,
+   "question": "Which single change gives the greatest reduction in radiation exposure to the patient?",
+   "options": [
+    "A. Switching from a 16-inch to an 8-inch PID",
+    "B. Using a rectangular, lead-lined PID",
+    "C. Removing added filtration",
+    "D. Increasing milliamperage"
+   ],
+   "answer": "B. Using a rectangular, lead-lined PID",
+   "explanation": "A rectangular lead-lined PID gives the greatest reduction (rectangular collimation exposes 60% less tissue than round). Shortening the PID makes rays less parallel, and removing filtration leaves soft wavelengths that only add dose."
+  },
+  {
+   "id": "rad-p126-mcq-02",
+   "deck": "Radiology",
+   "section": "Dosimeter and ALARA",
+   "page": 126,
+   "question": "A hygienist wants to reduce scatter radiation and improve image quality. Which of these does BOTH?",
+   "options": [
+    "A. Removing aluminum filtration",
+    "B. Using a shorter PID",
+    "C. Collimating the beam",
+    "D. Increasing exposure time"
+   ],
+   "answer": "C. Collimating the beam",
+   "explanation": "Collimation restricts the size and shape of the beam, so less tissue is exposed, there is less scatter, less image fog and a better image. Removing filtration would increase patient dose."
+  }
+ ]
+}

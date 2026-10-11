@@ -1,0 +1,1299 @@
+{
+ "diagrams": [
+  {
+   "name": "inst-p386-sharpening-angulation",
+   "title": "Correct sharpening angulation",
+   "deck": "Instrumentation",
+   "pdf_page": 14,
+   "page": 386,
+   "crop": [
+    308,
+    1395,
+    1045,
+    1890
+   ],
+   "labels": [
+    {
+     "box": [
+      462,
+      1495,
+      554,
+      1544
+     ],
+     "answer": "105°",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      449,
+      1574,
+      537,
+      1622
+     ],
+     "answer": "90°",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      651,
+      1568,
+      726,
+      1616
+     ],
+     "answer": "15°",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      364,
+      1636,
+      518,
+      1684
+     ],
+     "answer": "70 to 80°",
+     "fit": "bg"
+    }
+   ]
+  },
+  {
+   "name": "inst-p387-power-tip-parts",
+   "title": "Parts of a power instrument tip",
+   "deck": "Instrumentation",
+   "pdf_page": 15,
+   "page": 387,
+   "crop": [
+    517,
+    1089,
+    1221,
+    1551
+   ],
+   "labels": [
+    {
+     "box": [
+      546,
+      1196,
+      687,
+      1250
+     ],
+     "answer": "Point",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      924,
+      1195,
+      1154,
+      1250
+     ],
+     "answer": "Lateral Sides",
+     "fit": "bg"
+    },
+    {
+     "box": [
+      733,
+      1365,
+      981,
+      1456
+     ],
+     "answer": "Face and Back Surfaces",
+     "fit": "bg"
+    }
+   ]
+  }
+ ],
+ "cloze": [
+  {
+   "id": "inst-p386-001",
+   "deck": "Instrumentation",
+   "section": "Instrument sharpening — purpose",
+   "page": 386,
+   "text": "Sharp instrument edges let the clinician use {{c1::fewer strokes}} and {{c2::less pressure}}, reducing clinician fatigue and increasing patient comfort."
+  },
+  {
+   "id": "inst-p386-002",
+   "deck": "Instrumentation",
+   "section": "Instrument sharpening — purpose",
+   "page": 386,
+   "text": "Sharp cutting edges prevent the {{c1::burnishing}} of calculus."
+  },
+  {
+   "id": "inst-p386-003",
+   "deck": "Instrumentation",
+   "section": "Instrument sharpening — purpose",
+   "page": 386,
+   "text": "Sharpening the instrument's face removes {{c1::wire edges}}."
+  },
+  {
+   "id": "inst-p386-004",
+   "deck": "Instrumentation",
+   "section": "Instrument sharpening — purpose",
+   "page": 386,
+   "text": "Over-sharpening the {{c1::face}} of an instrument {{c2::weakens}} it."
+  },
+  {
+   "id": "inst-p386-005",
+   "deck": "Instrumentation",
+   "section": "Instrument sharpening — purpose",
+   "page": 386,
+   "text": "Autoclave sterilization (especially {{c1::steam}} sterilization) gradually {{c2::dulls}} sharp instruments."
+  },
+  {
+   "id": "inst-p386-006",
+   "deck": "Instrumentation",
+   "section": "Instrument sharpening — purpose",
+   "page": 386,
+   "text": "{{c1::Probes and explorers}} should NOT be sharpened."
+  },
+  {
+   "id": "inst-p386-007",
+   "deck": "Instrumentation",
+   "section": "Instrument sharpening — purpose",
+   "page": 386,
+   "text": "Besides hand stones, instruments can be sharpened with {{c1::automatic sharpeners}} (chairside or in the lab) or sent to a {{c2::sharpening service}}, often provided by the instrument manufacturer.",
+   "extra": "Did you know? box"
+  },
+  {
+   "id": "inst-p386-008",
+   "deck": "Instrumentation",
+   "section": "Sharpening stones",
+   "page": 386,
+   "text": "Lubricating a sharpening stone reduces {{c1::friction}} and prevents {{c2::metal shavings}} from embedding into the stone."
+  },
+  {
+   "id": "inst-p386-009",
+   "deck": "Instrumentation",
+   "section": "Sharpening stones",
+   "page": 386,
+   "text": "Sharpening stones should be sterilized {{c1::before and after}} use."
+  },
+  {
+   "id": "inst-p386-010",
+   "deck": "Instrumentation",
+   "section": "Sharpening stones",
+   "page": 386,
+   "text": "The {{c1::ceramic}} stone is synthetic with fine grit and is lubricated with {{c2::water, or needs no lubrication}}."
+  },
+  {
+   "id": "inst-p386-011",
+   "deck": "Instrumentation",
+   "section": "Sharpening stones",
+   "page": 386,
+   "text": "The {{c1::Arkansas}} stone is a {{c2::natural}} stone with fine to medium grit, lubricated with {{c3::oil}}."
+  },
+  {
+   "id": "inst-p386-012",
+   "deck": "Instrumentation",
+   "section": "Sharpening stones",
+   "page": 386,
+   "text": "The {{c1::India}} stone is synthetic with fine to coarse grit and is considered the {{c2::most abrasive}} stone; it is lubricated with {{c3::water or oil}}."
+  },
+  {
+   "id": "inst-p387-001",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "text": "In the {{c1::stationary}} sharpening technique, the non-dominant hand holds the instrument steady and the dominant hand moves the {{c2::stone}}."
+  },
+  {
+   "id": "inst-p387-002",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "text": "Always sharpen from {{c1::heel to tip (or toe)}}."
+  },
+  {
+   "id": "inst-p387-003",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "text": "Sharpen with up-and-down strokes, always finishing with a {{c1::downstroke}} to prevent burs/a wire edge."
+  },
+  {
+   "id": "inst-p387-004",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "text": "Instruments should be sharpened when they are {{c1::sterile}}."
+  },
+  {
+   "id": "inst-p387-005",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "text": "When sharpening curettes and scalers, aim for an internal angle (between face and lateral surface) of {{c1::70° to 80°}}.",
+   "extra": "On the figure: the 70–80° angle is between the face and the lateral surface."
+  },
+  {
+   "id": "inst-p387-006",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "text": "When sharpening, maintain a visible angle of {{c1::100° to 110°}} between the instrument face and the stone.",
+   "extra": "Figure: stone tilted 15° past the 90° vertical = 105°."
+  },
+  {
+   "id": "inst-p387-007",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "text": "To begin sharpening, position the instrument {{c1::vertically}} with the blade to be sharpened at {{c2::6:00}}."
+  },
+  {
+   "id": "inst-p387-008",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "text": "To sharpen sickle scalers and universal curettes, position the terminal shank at {{c1::12:00}} with the stone at {{c2::1:00}} (11:00 if left-handed); this applies to {{c3::both blades}}."
+  },
+  {
+   "id": "inst-p387-009",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "text": "On area-specific (Gracey) curettes, sharpen only the {{c1::lower blade}}, because the face is offset at {{c2::70°}}."
+  },
+  {
+   "id": "inst-p387-010",
+   "deck": "Instrumentation",
+   "section": "Test stick",
+   "page": 387,
+   "text": "A sharp instrument \"{{c1::bites}}\" the test stick with light pressure and makes a {{c2::metallic sound}}."
+  },
+  {
+   "id": "inst-p387-011",
+   "deck": "Instrumentation",
+   "section": "Test stick",
+   "page": 387,
+   "text": "The sharpening test stick should be sterilized {{c1::after}} use.",
+   "extra": "Compare: stones are sterilized before AND after use."
+  },
+  {
+   "id": "inst-p387-012",
+   "deck": "Instrumentation",
+   "section": "Power-driven scaling — functions",
+   "page": 387,
+   "text": "Power-driven scalers are used for periodontal debridement (including scaling and root planing), periodontal maintenance, and {{c1::irrigation of pockets}}."
+  },
+  {
+   "id": "inst-p387-013",
+   "deck": "Instrumentation",
+   "section": "Power-driven scaling — functions",
+   "page": 387,
+   "text": "Power-driven scalers can also smooth {{c1::overhangs}} and remove {{c2::orthodontic cement}} and stain."
+  },
+  {
+   "id": "inst-p387-014",
+   "deck": "Instrumentation",
+   "section": "Power-driven scaling — functions",
+   "page": 387,
+   "text": "The three types of powered scaling instruments are {{c1::sonic}}, {{c2::magnetostrictive}}, and {{c3::piezoelectric}}."
+  },
+  {
+   "id": "inst-p387-015",
+   "deck": "Instrumentation",
+   "section": "Power-driven scaling — functions",
+   "page": 387,
+   "text": "The {{c1::point}} of a power tip has the highest power and should never be directed toward the tooth surface."
+  },
+  {
+   "id": "inst-p387-016",
+   "deck": "Instrumentation",
+   "section": "Power-driven scaling — functions",
+   "page": 387,
+   "text": "On a power tip, the {{c1::face}} is the second most powerful surface, the back is less powerful than the face, and the {{c2::lateral sides}} are the least powerful."
+  },
+  {
+   "id": "inst-p387-017",
+   "deck": "Instrumentation",
+   "section": "Power-driven scaling — functions",
+   "page": 387,
+   "text": "Power scaler manufacturers often include a \"{{c1::wear on working end}}\" guide to show clinicians when it is time to replace a tip.",
+   "extra": "Fun fact box"
+  },
+  {
+   "id": "inst-p387-018",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 387,
+   "text": "A {{c1::sonic}} scaler is powered by {{c2::compressed air}}."
+  },
+  {
+   "id": "inst-p387-019",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 387,
+   "text": "A {{c1::magnetostrictive}} scaler is powered by {{c2::magnetic oscillations in a metal stack}}."
+  },
+  {
+   "id": "inst-p387-020",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 387,
+   "text": "A {{c1::piezoelectric}} scaler is powered by {{c2::ceramic discs or quartz plates}}."
+  },
+  {
+   "id": "inst-p387-021",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 387,
+   "text": "Sonic scalers operate at {{c1::3,000–8,000}} cps (cycles per second)."
+  },
+  {
+   "id": "inst-p387-022",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 387,
+   "text": "Magnetostrictive scalers operate at {{c1::18,000–45,000}} cps."
+  },
+  {
+   "id": "inst-p387-023",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 387,
+   "text": "Piezoelectric scalers operate at {{c1::25,000–50,000}} cps."
+  },
+  {
+   "id": "inst-p388-001",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 388,
+   "text": "Sonic and magnetostrictive tips move in an {{c1::elliptical}} pattern, with {{c2::all sides}} of the tip active."
+  },
+  {
+   "id": "inst-p388-002",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 388,
+   "text": "Piezoelectric tips move in a {{c1::linear (front and back)}} pattern, with only the {{c2::lateral sides}} active."
+  },
+  {
+   "id": "inst-p388-003",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 388,
+   "text": "The {{c1::sonic}} scaler does not generate heat; its water is needed to {{c2::reduce friction}}."
+  },
+  {
+   "id": "inst-p388-004",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 388,
+   "text": "Magnetostrictive and piezoelectric scalers produce heat, so their water is needed for {{c1::cooling}}."
+  },
+  {
+   "id": "inst-p388-005",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 388,
+   "text": "The sonic scaler is {{c1::less}} effective than magnetostrictive and piezoelectric scalers because of its {{c2::low power}}."
+  },
+  {
+   "id": "inst-p388-006",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "text": "Power scaler tips are also called {{c1::inserts}}; they come in different shapes to address different types and locations of deposits.",
+   "extra": "Choosing the correct tip is essential for effective and safe instrumentation."
+  },
+  {
+   "id": "inst-p388-007",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "text": "{{c1::Standard}} power tips have a generally universal design and are used for most types of deposits and {{c2::initial debridement}}."
+  },
+  {
+   "id": "inst-p388-008",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "text": "{{c1::Broad (beavertail)}} tips are broad and flat, designed for tenacious, bulky deposits: {{c2::heavy calculus, stain, and orthodontic cement}}."
+  },
+  {
+   "id": "inst-p388-009",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "text": "{{c1::Periodontal (slim)}} tips are longer and about {{c2::40%}} thinner than standard tips; they remove {{c3::light deposits}} and reach the base of deep pockets more easily."
+  },
+  {
+   "id": "inst-p388-010",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "text": "{{c1::Right and left (contra-angled)}} tips have a design similar to {{c2::area-specific curettes}} and are used on posterior teeth, {{c3::furcation areas}}, and root concavities."
+  },
+  {
+   "id": "inst-p388-011",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "text": "A LEFT contra-angled insert is used on the facial/buccal of the {{c1::right maxilla and left mandible}}, and the linguals of the {{c2::left maxilla and right mandible}}.",
+   "extra": "Book figure: green arrow = left insert."
+  },
+  {
+   "id": "inst-p388-012",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "text": "A RIGHT contra-angled insert is used on the facial/buccal of the {{c1::left maxilla and right mandible}}, and the linguals of the {{c2::right maxilla and left mandible}}.",
+   "extra": "Book figure: red arrow = right insert — \"R\" → Right, Red."
+  },
+  {
+   "id": "inst-p388-013",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "text": "{{c1::Implant}} tips are made of {{c2::plastic or carbon composite}} to prevent scratching the titanium implant surface."
+  },
+  {
+   "id": "inst-p389-001",
+   "deck": "Instrumentation",
+   "section": "Power instrumentation technique",
+   "page": 389,
+   "text": "Before power scaling, wet the {{c1::O-ring}} if present."
+  },
+  {
+   "id": "inst-p389-002",
+   "deck": "Instrumentation",
+   "section": "Power instrumentation technique",
+   "page": 389,
+   "text": "Water flow on a power scaler should give a {{c1::halo}} effect with no excess dripping."
+  },
+  {
+   "id": "inst-p389-003",
+   "deck": "Instrumentation",
+   "section": "Power instrumentation technique",
+   "page": 389,
+   "text": "Start power scaling at a {{c1::low}} power setting and increase as needed."
+  },
+  {
+   "id": "inst-p389-004",
+   "deck": "Instrumentation",
+   "section": "Power instrumentation technique",
+   "page": 389,
+   "text": "With power instruments start with {{c1::coronal}} areas, then move to subgingival and apical areas — the {{c2::reverse}} of hand instrumentation."
+  },
+  {
+   "id": "inst-p389-005",
+   "deck": "Instrumentation",
+   "section": "Power instrumentation technique",
+   "page": 389,
+   "text": "Use {{c1::sweeping}} motions with power instruments; {{c2::tapping}} motions are allowed for large deposits."
+  },
+  {
+   "id": "inst-p389-006",
+   "deck": "Instrumentation",
+   "section": "Power instrumentation technique",
+   "page": 389,
+   "text": "{{c1::High-speed suction}} is preferred during power scaling to reduce aerosol and facilitate water evacuation."
+  },
+  {
+   "id": "inst-p389-007",
+   "deck": "Instrumentation",
+   "section": "Power instrumentation technique",
+   "page": 389,
+   "text": "The {{c1::last few millimeters}} of a power tip are the most powerful and should be placed against the tooth."
+  },
+  {
+   "id": "inst-p389-008",
+   "deck": "Instrumentation",
+   "section": "Power instrumentation technique",
+   "page": 389,
+   "text": "Use a {{c1::light}} grasp with power instruments; heavy pressure {{c2::reduces effectiveness}} and causes patient discomfort."
+  },
+  {
+   "id": "inst-p389-009",
+   "deck": "Instrumentation",
+   "section": "Benefits of power-driven instruments",
+   "page": 389,
+   "text": "Compared with manual instruments, power instruments remove {{c1::less root structure}}, and {{c2::furcations}} can be cleaned effectively."
+  },
+  {
+   "id": "inst-p389-010",
+   "deck": "Instrumentation",
+   "section": "Benefits of power-driven instruments",
+   "page": 389,
+   "text": "Power instruments need no {{c1::sharpening}} and can prepare {{c2::medium-to-large or tenacious}} calculus deposits for removal with hand instruments."
+  },
+  {
+   "id": "inst-p389-011",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "Power scaling is contraindicated in respiratory diseases such as {{c1::COPD or asthma}} and in {{c2::immunocompromised}} patients."
+  },
+  {
+   "id": "inst-p389-012",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "Power scaling is contraindicated in communicable diseases spread through aerosols, such as {{c1::tuberculosis}}."
+  },
+  {
+   "id": "inst-p389-013",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "Power scaling is contraindicated with a strong {{c1::gag reflex}} or difficulty swallowing."
+  },
+  {
+   "id": "inst-p389-014",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "{{c1::Porcelain or composite}} restorations are a contraindication for power scaling because the restoration may {{c2::fracture}}."
+  },
+  {
+   "id": "inst-p389-015",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "Avoid restoration margins with power instruments unless the purpose is to remove an {{c1::overhang}}."
+  },
+  {
+   "id": "inst-p389-016",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "{{c1::Demineralized areas}} and {{c2::sensitive roots}} are contraindications for power scaling."
+  },
+  {
+   "id": "inst-p389-017",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "Newly erupted teeth are a contraindication for power scaling: their {{c1::large pulps}} may be heat sensitive and the enamel is {{c2::not fully mineralized}}."
+  },
+  {
+   "id": "inst-p389-018",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "{{c1::Old}} pacemakers may be affected by {{c2::magnetostrictive}} devices; new pacemakers are shielded, so these devices are not contraindicated for them."
+  },
+  {
+   "id": "inst-p389-019",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "Powered working ends will damage {{c1::titanium}} implant surfaces unless the working end is designed for implants; they can also chip, nick and scratch amalgam, composite and porcelain."
+  },
+  {
+   "id": "inst-p389-020",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "text": "Patients susceptible to infection risk opportunistic infection from contaminated {{c1::dental unit waterlines}} or inhaled {{c2::aerosols}} generated during powered instrumentation."
+  },
+  {
+   "id": "inst-p389-021",
+   "deck": "Instrumentation",
+   "section": "Selective polishing",
+   "page": 389,
+   "text": "{{c1::Selective}} polishing is currently the most accepted approach; full-mouth polishing is not a routine part of oral prophylaxis but can increase {{c2::patient satisfaction}}."
+  },
+  {
+   "id": "inst-p389-022",
+   "deck": "Instrumentation",
+   "section": "Selective polishing",
+   "page": 389,
+   "text": "Repeated polishing can remove {{c1::cementum}}, exposed dentin and enamel, and increases {{c2::surface roughness}}, which promotes plaque reattachment."
+  },
+  {
+   "id": "inst-p389-023",
+   "deck": "Instrumentation",
+   "section": "Selective polishing",
+   "page": 389,
+   "text": "Polishing is indicated to remove {{c1::extrinsic stain}} and to smooth rough surfaces."
+  },
+  {
+   "id": "inst-p389-024",
+   "deck": "Instrumentation",
+   "section": "Selective polishing",
+   "page": 389,
+   "text": "Tenacious stain, such as {{c1::black line stain}}, requires removal with {{c2::curettes}} rather than polishing."
+  },
+  {
+   "id": "inst-p390-001",
+   "deck": "Instrumentation",
+   "section": "Polishing techniques",
+   "page": 390,
+   "text": "For rubber cup polishing, apply {{c1::light}} pressure to flare the cup edges slightly, and use the {{c2::slowest}} RPM."
+  },
+  {
+   "id": "inst-p390-002",
+   "deck": "Instrumentation",
+   "section": "Polishing techniques",
+   "page": 390,
+   "text": "The rubber polishing cup is placed at {{c1::90°}} to the tooth, and a {{c2::fulcrum}} is needed for stability."
+  },
+  {
+   "id": "inst-p390-003",
+   "deck": "Instrumentation",
+   "section": "Polishing techniques",
+   "page": 390,
+   "text": "The {{c1::bristle brush}} is used for occlusal surfaces and concave areas ONLY."
+  },
+  {
+   "id": "inst-p390-004",
+   "deck": "Instrumentation",
+   "section": "Polishing techniques",
+   "page": 390,
+   "text": "{{c1::Rubber point}} polishing is designed for hard-to-reach areas: around orthodontic bands and brackets, fixed bridges, wide interproximal spaces, and embrasures."
+  },
+  {
+   "id": "inst-p390-005",
+   "deck": "Instrumentation",
+   "section": "Polishing techniques",
+   "page": 390,
+   "text": "Air polishing pushes a slurry of powder, water and air toward the tooth at {{c1::high pressure}}; it removes {{c2::extrinsic stain}} and is also used for {{c3::sealant preparation}}."
+  },
+  {
+   "id": "inst-p390-006",
+   "deck": "Instrumentation",
+   "section": "Polishing techniques",
+   "page": 390,
+   "text": "Air-polishing powders are {{c1::sodium bicarbonate}}, erythritol, or glycine; {{c2::erythritol and glycine}} are the gentler alternatives for root surfaces, restorations, and implants."
+  },
+  {
+   "id": "inst-p390-007",
+   "deck": "Instrumentation",
+   "section": "Polishing techniques",
+   "page": 390,
+   "text": "Air polishing causes {{c1::less}} damage to the tooth surface than cup polishing."
+  },
+  {
+   "id": "inst-p390-008",
+   "deck": "Instrumentation",
+   "section": "Abrasive agents",
+   "page": 390,
+   "text": "The {{c1::size}} of abrasive particles determines abrasiveness; the smallest particles are the {{c2::least}} abrasive."
+  },
+  {
+   "id": "inst-p390-009",
+   "deck": "Instrumentation",
+   "section": "Abrasive agents",
+   "page": 390,
+   "text": "{{c1::Pumice}} and {{c2::silicon dioxide}} are common abrasive agents.",
+   "extra": "The book spells it \"silicone dioxide\"."
+  },
+  {
+   "id": "inst-p390-010",
+   "deck": "Instrumentation",
+   "section": "Abrasive agents",
+   "page": 390,
+   "text": "Pumice is the primary ingredient in prophylaxis pastes; water, {{c1::humectants}}, and flavoring agents may also be added."
+  },
+  {
+   "id": "inst-p390-011",
+   "deck": "Instrumentation",
+   "section": "Abrasive agents",
+   "page": 390,
+   "text": "Some prophylaxis pastes contain fluoride at a {{c1::nontherapeutic}} level."
+  },
+  {
+   "id": "inst-p390-012",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Polishing is contraindicated on {{c1::restorative materials}}."
+  },
+  {
+   "id": "inst-p390-013",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Do not polish immediately after {{c1::SRP and NSPT}}, to avoid {{c2::reintroducing bacteria}}; polishing can be done at succeeding appointments."
+  },
+  {
+   "id": "inst-p390-014",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Air polishing with {{c1::sodium bicarbonate}}-based powder is contraindicated in patients with {{c2::hypertension}}, Addison's disease, Cushing's syndrome, and {{c3::metabolic alkalosis}}."
+  },
+  {
+   "id": "inst-p390-015",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Polishing is contraindicated in patients with respiratory and infectious diseases, because polishing creates {{c1::aerosols}}."
+  },
+  {
+   "id": "inst-p390-016",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Polishing is contraindicated on unhealthy, {{c1::spongy, edematous}} tissue."
+  },
+  {
+   "id": "inst-p390-017",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Polishing is contraindicated with {{c1::intrinsic}} stain or no obvious extrinsic stain."
+  },
+  {
+   "id": "inst-p390-018",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Polishing is contraindicated in recession with tooth sensitivity, because abrasion can {{c1::wear the root surfaces}} and the patient may feel pain."
+  },
+  {
+   "id": "inst-p390-019",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Polishing is contraindicated on demineralized areas or thin enamel, as in {{c1::amelogenesis imperfecta}}."
+  },
+  {
+   "id": "inst-p390-020",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Polishing is contraindicated on newly erupted teeth, whose surfaces are not yet {{c1::fully mineralized}}."
+  },
+  {
+   "id": "inst-p390-021",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "text": "Polishing is contraindicated on teeth with large pulp chambers, such as {{c1::primary teeth}}, which are susceptible to {{c2::heat}}."
+  }
+ ],
+ "basic": [
+  {
+   "id": "inst-p387-b-01",
+   "deck": "Instrumentation",
+   "section": "Test stick",
+   "page": 387,
+   "front": "Sharpness test: the cutting edge slides over the test stick. What does this mean?",
+   "back": "The blade is still dull. Test along the entire length of the blade.",
+   "reverse": false,
+   "extra": ""
+  },
+  {
+   "id": "inst-p388-b-01",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "front": "What can happen if an inappropriate power tip is used, e.g., a slim tip on very heavy deposits?",
+   "back": "Tip breakage or ineffective calculus removal. Tips are designed for specific power settings and calculus thicknesses, so adapt tip and power setting to each patient.",
+   "reverse": false,
+   "extra": "Don't Be Confused box"
+  },
+  {
+   "id": "inst-p389-b-01",
+   "deck": "Instrumentation",
+   "section": "Benefits of power-driven instruments",
+   "page": 389,
+   "front": "Fluid lavage",
+   "back": "Water flushes the pockets, removing debris and bacteria (chemotherapeutic agents can be added to the water)",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "inst-p389-b-02",
+   "deck": "Instrumentation",
+   "section": "Benefits of power-driven instruments",
+   "page": 389,
+   "front": "Acoustic streaming",
+   "back": "Rapid, swirling motion of fluid that disrupts cell walls and kills microorganisms",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "inst-p389-b-03",
+   "deck": "Instrumentation",
+   "section": "Benefits of power-driven instruments",
+   "page": 389,
+   "front": "Cavitation",
+   "back": "Formation and collapse of small bubbles, creating shock waves that disrupt or lyse bacterial cell walls",
+   "reverse": true,
+   "extra": ""
+  },
+  {
+   "id": "inst-p389-b-04",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "front": "Can an HIV+ patient be treated with an ultrasonic scaler?",
+   "back": "Yes — HIV+ patients are safe to ultrasonic with proper PPE.",
+   "reverse": false,
+   "extra": "Did you know? box"
+  }
+ ],
+ "typein": [
+  {
+   "id": "inst-p388-t-01",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "question": "A power scaler tip should be replaced once it has lost at least how many mm from the working end? (number)",
+   "answer": "2",
+   "extra": "Replace at ≥ 2 mm wear; manufacturers' wear guides help."
+  },
+  {
+   "id": "inst-p390-t-01",
+   "deck": "Instrumentation",
+   "section": "Polishing techniques",
+   "page": 390,
+   "question": "During air polishing, how far from the tooth is the tip held? (in mm, e.g. 1–2)",
+   "answer": "3–4",
+   "extra": "Use rapid but controlled sweeping strokes."
+  }
+ ],
+ "match": [
+  {
+   "id": "inst-p386-m-01",
+   "deck": "Instrumentation",
+   "section": "Sharpening stones",
+   "page": 386,
+   "prompt": "Match each sharpening stone to its lubricant.",
+   "pairs": [
+    [
+     "Ceramic stone",
+     "Water, or none needed"
+    ],
+    [
+     "Arkansas stone",
+     "Oil only"
+    ],
+    [
+     "India stone",
+     "Water or oil"
+    ]
+   ]
+  },
+  {
+   "id": "inst-p388-m-01",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "prompt": "Match each power scaler tip to what it is best for.",
+   "pairs": [
+    [
+     "Standard tip",
+     "Most deposits; initial debridement"
+    ],
+    [
+     "Beavertail tip",
+     "Heavy calculus, stain, ortho cement"
+    ],
+    [
+     "Slim (perio) tip",
+     "Light deposits in deep pockets"
+    ],
+    [
+     "Contra-angled tip",
+     "Posterior teeth, furcations, root concavities"
+    ],
+    [
+     "Implant tip",
+     "Deposits around titanium implants"
+    ]
+   ]
+  },
+  {
+   "id": "inst-p389-m-01",
+   "deck": "Instrumentation",
+   "section": "Benefits of power-driven instruments",
+   "page": 389,
+   "prompt": "Match each ultrasonic effect to its mechanism.",
+   "pairs": [
+    [
+     "Fluid lavage",
+     "Water flushes debris and bacteria from pockets"
+    ],
+    [
+     "Acoustic streaming",
+     "Swirling fluid motion disrupts cell walls"
+    ],
+    [
+     "Cavitation",
+     "Collapsing bubbles create shock waves"
+    ]
+   ]
+  },
+  {
+   "id": "inst-p390-m-01",
+   "deck": "Instrumentation",
+   "section": "Polishing techniques",
+   "page": 390,
+   "prompt": "Match each polishing method to its best use.",
+   "pairs": [
+    [
+     "Rubber cup",
+     "General tooth-surface cleaning"
+    ],
+    [
+     "Bristle brush",
+     "Occlusal surfaces and concave areas"
+    ],
+    [
+     "Rubber point",
+     "Around ortho bands, bridges, embrasures"
+    ],
+    [
+     "Air polishing",
+     "Extrinsic stain; sealant preparation"
+    ]
+   ]
+  }
+ ],
+ "order": [
+  {
+   "id": "inst-p387-o-01",
+   "deck": "Instrumentation",
+   "section": "Power-driven scaling — functions",
+   "page": 387,
+   "prompt": "Rank the surfaces of a power scaler tip from MOST to LEAST powerful.",
+   "items": [
+    "Point",
+    "Face",
+    "Back",
+    "Lateral sides"
+   ]
+  }
+ ],
+ "sort": [
+  {
+   "id": "inst-p388-s-01",
+   "deck": "Instrumentation",
+   "section": "Comparison of power scalers",
+   "page": 388,
+   "prompt": "Sort each feature to the power scaler it belongs to.",
+   "categories": [
+    [
+     "Sonic",
+     [
+      "Compressed air",
+      "3,000–8,000 cps",
+      "Does not generate heat",
+      "Water reduces friction"
+     ]
+    ],
+    [
+     "Magnetostrictive",
+     [
+      "Metal stack",
+      "18,000–45,000 cps"
+     ]
+    ],
+    [
+     "Piezoelectric",
+     [
+      "Ceramic discs or quartz plates",
+      "25,000–50,000 cps",
+      "Linear (front-and-back) tip motion",
+      "Only lateral sides active"
+     ]
+    ]
+   ]
+  }
+ ],
+ "mcq": [
+  {
+   "id": "inst-p387-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Sharpening guide",
+   "page": 387,
+   "question": "A hygienist is sharpening a Gracey 11/12 with the stationary technique. Which approach is correct?",
+   "options": [
+    "A. Sharpen both cutting edges, ending with an upstroke",
+    "B. Sharpen only the lower cutting edge, ending with a downstroke",
+    "C. Sharpen from toe to heel with the stone at 12:00",
+    "D. Keep a 90° visible angle between face and stone"
+   ],
+   "answer": "B. Sharpen only the lower cutting edge, ending with a downstroke",
+   "explanation": "Gracey curettes have one cutting edge (the lower blade, face offset 70°), and strokes always end on a downstroke to prevent a wire edge. Sharpening both edges is for sickles and universal curettes; the visible angle should be 100–110°, not 90°."
+  },
+  {
+   "id": "inst-p388-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Power scaler tips",
+   "page": 388,
+   "question": "Using contra-angled ultrasonic inserts, which insert should be selected to debride the buccal surfaces of the maxillary right molars?",
+   "options": [
+    "A. Right insert",
+    "B. Left insert",
+    "C. Straight slim insert",
+    "D. Either right or left insert"
+   ],
+   "answer": "B. Left insert",
+   "explanation": "The left insert is used on the facials of the right maxilla and left mandible (and linguals of the left maxilla and right mandible). The right insert is for the facials of the left maxilla and right mandible."
+  },
+  {
+   "id": "inst-p389-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "question": "Each of the following is a contraindication to ultrasonic scaling EXCEPT one. Which is the EXCEPTION?",
+   "options": [
+    "A. Active pulmonary tuberculosis",
+    "B. Newly erupted permanent teeth",
+    "C. HIV-positive patient (clinician in proper PPE)",
+    "D. Severe COPD"
+   ],
+   "answer": "C. HIV-positive patient (clinician in proper PPE)",
+   "explanation": "HIV+ patients are safe to ultrasonic with proper PPE. TB spreads through aerosols, COPD is a respiratory contraindication, and newly erupted teeth have large heat-sensitive pulps and immature enamel."
+  },
+  {
+   "id": "inst-p389-mcq-02",
+   "deck": "Instrumentation",
+   "section": "Power scaling contraindications",
+   "page": 389,
+   "question": "A patient has an older, unshielded cardiac pacemaker. Which instrument should the hygienist avoid?",
+   "options": [
+    "A. Sonic scaler",
+    "B. Piezoelectric scaler",
+    "C. Magnetostrictive scaler",
+    "D. Gracey curette"
+   ],
+   "answer": "C. Magnetostrictive scaler",
+   "explanation": "Old pacemakers may be affected by magnetostrictive devices (magnetic field in a metal stack). Piezoelectric (ceramic discs/quartz) and sonic (compressed air) units do not use that magnetic stack."
+  },
+  {
+   "id": "inst-p390-mcq-01",
+   "deck": "Instrumentation",
+   "section": "Polishing contraindications",
+   "page": 390,
+   "question": "A patient with uncontrolled hypertension has moderate extrinsic stain. Which polishing approach should be avoided?",
+   "options": [
+    "A. Rubber cup polishing with fine prophy paste",
+    "B. Air polishing with sodium bicarbonate powder",
+    "C. Air polishing with glycine powder",
+    "D. Selective polishing of stained surfaces only"
+   ],
+   "answer": "B. Air polishing with sodium bicarbonate powder",
+   "explanation": "Sodium bicarbonate air-polishing powder is contraindicated in hypertension (also Addison's, Cushing's, metabolic alkalosis). Glycine and erythritol powders are not sodium-based."
+  },
+  {
+   "id": "inst-quiz-01",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "Which instrument is best suited for removing calculus from a distal surface of a maxillary second molar with a 6 mm pocket?",
+   "options": [
+    "A. Gracey 1/2",
+    "B. Gracey 7/8",
+    "C. Gracey 13/14",
+    "D. Gracey 11/12"
+   ],
+   "answer": "C. Gracey 13/14",
+   "explanation": "The Gracey 13/14 is specifically designed for the distal surfaces of posterior teeth. Its long terminal shank and area-specific design make it ideal for accessing deep pockets, such as a 6 mm site."
+  },
+  {
+   "id": "inst-quiz-02",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "What is the primary purpose of the extended shank on an After Five curet?",
+   "options": [
+    "A. To reduce tissue trauma during insertion",
+    "B. To access pockets deeper than 4 mm",
+    "C. To increase flexibility during scaling",
+    "D. To adapt better to tight anterior contacts"
+   ],
+   "answer": "B. To access pockets deeper than 4 mm",
+   "explanation": "After Five curets have a terminal shank 3 mm longer than standard curets, which improves access in deep periodontal pockets, specifically those beyond 4 mm."
+  },
+  {
+   "id": "inst-quiz-03",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "Which part of the working end should be adapted to the tooth during calculus removal with a universal curet?",
+   "options": [
+    "A. Middle third",
+    "B. Upper third",
+    "C. Heel third",
+    "D. Lower third"
+   ],
+   "answer": "D. Lower third",
+   "explanation": "For effective instrumentation and minimal tissue trauma, the lower third (toe third) of the curet should remain in contact with the tooth during calculus removal."
+  },
+  {
+   "id": "inst-quiz-04",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "What is the ideal angulation of the air-powder polishing nozzle relative to the tooth surface when polishing occlusal surfaces?",
+   "options": [
+    "A. 45 degrees",
+    "B. 60 degrees",
+    "C. 80 degrees",
+    "D. 90 degrees"
+   ],
+   "answer": "D. 90 degrees",
+   "explanation": "For effective and safe air-powder polishing on occlusal surfaces, the nozzle should be angled at 90 degrees to the tooth surface."
+  },
+  {
+   "id": "inst-quiz-05",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "Which curet is designed for instrumentation in areas with recession and deep, tight interproximal spaces?",
+   "options": [
+    "A. Standard Gracey 11/12",
+    "B. Mini-Five Gracey 11/12",
+    "C. Universal 13/14",
+    "D. After Five Gracey 11/12"
+   ],
+   "answer": "B. Mini-Five Gracey 11/12",
+   "explanation": "Mini-Five curets have a 50% shorter blade and a longer shank, allowing better access and adaptation in tight interproximal areas and areas with root exposure due to recession."
+  },
+  {
+   "id": "inst-quiz-06",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "What is the correct angulation for inserting a curet into the gingival sulcus?",
+   "options": [
+    "A. 0–40 degrees",
+    "B. 45–60 degrees",
+    "C. 60–80 degrees",
+    "D. 90 degrees"
+   ],
+   "answer": "A. 0–40 degrees",
+   "explanation": "A closed angle of 0–40 degrees is used during insertion to prevent damage to the sulcular epithelium and allow safe entry of the instrument into the pocket."
+  },
+  {
+   "id": "inst-quiz-07",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "What distinguishes a Gracey curet from a universal curet?",
+   "options": [
+    "A. The Gracey has a rounded back",
+    "B. The Gracey has two cutting edges per working end",
+    "C. The Gracey has a straight shank",
+    "D. The Gracey has one lower cutting edge used per working end"
+   ],
+   "answer": "D. The Gracey has one lower cutting edge used per working end",
+   "explanation": "Gracey curets are area-specific and designed with one lower cutting edge per working end, which is offset for precise adaptation. Universal curets use both edges."
+  },
+  {
+   "id": "inst-quiz-08",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "What is the purpose of the rigid shank on a Micro-Mini Five curet?",
+   "options": [
+    "A. To improve flexibility for light deposit removal",
+    "B. To allow better tactile sensitivity",
+    "C. To apply stronger lateral pressure during heavy deposit removal",
+    "D. To adapt better to shallow sulci"
+   ],
+   "answer": "C. To apply stronger lateral pressure during heavy deposit removal",
+   "explanation": "The rigid shank on a Micro-Mini is thicker and stronger, allowing greater lateral pressure when working in deep, tight pockets with tenacious calculus."
+  },
+  {
+   "id": "inst-quiz-09",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "Which instrument is best suited for removing heavy supragingival calculus on the mandibular anterior linguals?",
+   "options": [
+    "A. Gracey 1/2",
+    "B. Universal 13/14",
+    "C. Sickle scaler",
+    "D. Mini-Five curet"
+   ],
+   "answer": "C. Sickle scaler",
+   "explanation": "Sickle scalers have a rigid design and triangular cross-section, making them ideal for removing heavy supragingival deposits on flat, accessible surfaces like anterior linguals."
+  },
+  {
+   "id": "inst-quiz-10",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "Which describes the correct finger placement in the modified pen grasp?",
+   "options": [
+    "A. Thumb and index finger on opposite sides of the handle; middle finger rests on shank",
+    "B. Thumb and middle finger on handle; index finger on shank",
+    "C. Thumb and index finger pinch the shank; ring finger rests on shank",
+    "D. Index and middle fingers placed side-by-side on the handle"
+   ],
+   "answer": "A. Thumb and index finger on opposite sides of the handle; middle finger rests on shank",
+   "explanation": "In the modified pen grasp, the thumb and index finger are placed opposite each other on the handle for control. The middle finger rests lightly on the instrument shank to guide motion and enhance tactile sensitivity."
+  },
+  {
+   "id": "inst-quiz-11",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "Which best describes the motion of a magnetostrictive ultrasonic insert?",
+   "options": [
+    "A. Linear motion with two active sides",
+    "B. Elliptical motion with all sides active",
+    "C. Rotary motion with one active surface",
+    "D. Lateral motion with only the tip active"
+   ],
+   "answer": "B. Elliptical motion with all sides active",
+   "explanation": "Magnetostrictive ultrasonic tips move in an elliptical pattern, making all surfaces (lateral, back, front, tip) active during instrumentation."
+  },
+  {
+   "id": "inst-quiz-12",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "What is the recommended adaptation of a powered ultrasonic tip during debridement?",
+   "options": [
+    "A. Use the point of the tip at a 90-degree angle to the tooth",
+    "B. Adapt the lateral surface at 0–15 degrees to the tooth",
+    "C. Adapt the back of the tip at a 90-degree angle to the gingiva",
+    "D. Adapt the face of the tip for best tactile sensitivity"
+   ],
+   "answer": "B. Adapt the lateral surface at 0–15 degrees to the tooth",
+   "explanation": "The lateral surface of an ultrasonic tip should be adapted to the tooth at a 0–15 degree angle to maximize effectiveness and safety, while minimizing damage to root surfaces."
+  },
+  {
+   "id": "inst-quiz-13",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "When establishing ergonomic posture, what is the recommended angle for the clinician's elbows?",
+   "options": [
+    "A. 45°",
+    "B. 60°",
+    "C. 75°",
+    "D. 90°"
+   ],
+   "answer": "D. 90°",
+   "explanation": "Elbows should be relaxed, close to the body, and bent at a 90° angle at waist level, with forearms parallel to the floor."
+  },
+  {
+   "id": "inst-quiz-14",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 391,
+   "question": "What is the primary purpose of an assessment (exploratory) stroke?",
+   "options": [
+    "A. To remove large calculus deposits with firm pressure",
+    "B. To advance the probe in small, bobbing movements",
+    "C. To detect irregularities and deposits under the gingival margin",
+    "D. To remove plaque from exposed root surfaces"
+   ],
+   "answer": "C. To detect irregularities and deposits under the gingival margin",
+   "explanation": "Assessment or exploratory strokes are feather-light and designed to detect irregularities and deposits, especially those located subgingivally."
+  },
+  {
+   "id": "inst-quiz-15",
+   "deck": "Quizzes",
+   "section": "Instrumentation bonus quiz",
+   "page": 392,
+   "question": "Aside from measuring pocket depths, which of the following is another key function of a periodontal probe?",
+   "options": [
+    "A. Removing tenacious calculus deposits",
+    "B. Detecting bleeding on probing (BOP) and suppuration",
+    "C. Polishing extrinsic stains from enamel",
+    "D. Breaking up interproximal calculus bridges"
+   ],
+   "answer": "B. Detecting bleeding on probing (BOP) and suppuration",
+   "explanation": "Periodontal probes are used to detect clinical signs of inflammation, such as bleeding on probing (BOP) and the presence of suppuration (pus)."
+  }
+ ]
+}
