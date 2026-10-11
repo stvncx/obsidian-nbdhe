@@ -290,7 +290,7 @@ change templates only with a deliberate migration plan.
 
 ## Open items
 
-- **Steven to review** `NBDHE-15-books-review-notes.md` (doubtful book facts, low-yield occlusions). Diagram QA batch 2 (embryology…perio p.86) fixes may follow as an update.
+- **Steven to review** `NBDHE-15-books-review-notes.md` (doubtful book facts, low-yield occlusions). All 151 new-book diagrams QA-reviewed and fixed (10-11).
 - **(done 10-11) all 15 remaining books:** specs written for every book (44 page ranges,
   all validate; all 15 decks build, import with all media, every interactive card passes
   `interact_test.py`; 0 GUID collisions across books). Remaining: apply fixes from the 151-diagram
